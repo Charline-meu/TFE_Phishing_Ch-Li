@@ -1,0 +1,69 @@
+Phishing Sample 14
+==================
+
+Sample text preview: HTML Editor - Full Version � � � �� Office Business � � Pending Messages Notification � Your exchange server has prevented the delivery of some messag...
+
+Model prediction: [8.351447e-04 9.991648e-01]
+Predicted class: PHISHING with 0.9992 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  delivered           | Impact: 0.133646 → PHISHING
+ 2.  release             | Impact: 0.115849 → PHISHING
+ 3.  how                 | Impact: -0.107108 → LEGITIMATE
+ 4.  messages            | Impact: 0.096931 → PHISHING
+ 5.  pending             | Impact: 0.090066 → PHISHING
+ 6.  \                   | Impact: 0.087489 → PHISHING
+ 7.  your                | Impact: 0.060715 → PHISHING
+ 8.  notification        | Impact: 0.059932 → PHISHING
+ 9.  messages            | Impact: 0.058152 → PHISHING
+10.  notification        | Impact: 0.054421 → PHISHING
+11.  statement           | Impact: 0.054101 → PHISHING
+12.  delivery            | Impact: 0.053268 → PHISHING
+13. y                    | Impact: -0.044583 → LEGITIMATE
+14.  server              | Impact: 0.042365 → PHISHING
+15.  prevented           | Impact: 0.042119 → PHISHING
+16.  up                  | Impact: 0.040609 → PHISHING
+17.  are                 | Impact: 0.040268 → PHISHING
+18.  html                | Impact: 0.035895 → PHISHING
+19.  .                   | Impact: 0.030383 → PHISHING
+20.  pending             | Impact: 0.029327 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  delivered           | Impact: 0.133646
+ 2.  release             | Impact: 0.115849
+ 3.  messages            | Impact: 0.096931
+ 4.  pending             | Impact: 0.090066
+ 5.  \                   | Impact: 0.087489
+ 6.  your                | Impact: 0.060715
+ 7.  notification        | Impact: 0.059932
+ 8.  messages            | Impact: 0.058152
+ 9.  notification        | Impact: 0.054421
+10.  statement           | Impact: 0.054101
+11.  delivery            | Impact: 0.053268
+12.  server              | Impact: 0.042365
+13.  prevented           | Impact: 0.042119
+14.  up                  | Impact: 0.040609
+15.  are                 | Impact: 0.040268
+16.  html                | Impact: 0.035895
+17.  .                   | Impact: 0.030383
+18.  pending             | Impact: 0.029327
+19.  messages            | Impact: 0.023321
+20.  messages            | Impact: 0.013766
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  how                 | Impact: -0.107108
+ 2. y                    | Impact: -0.044583
+ 3. ri                   | Impact: -0.023375
+ 4.  editor              | Impact: -0.017600
+ 5.  some                | Impact: -0.017307
+ 6. s                    | Impact: -0.012276
+ 7.  listed              | Impact: -0.010155
+ 8.  of                  | Impact: -0.007622
+ 9.  actions             | Impact: -0.006273
+10. vac                  | Impact: -0.005597
+11.  along               | Impact: -0.005020
+12.  -                   | Impact: -0.002620
+13.  .                   | Impact: -0.001034
+14.                      | Impact: -0.000572

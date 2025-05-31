@@ -1,0 +1,70 @@
+Sample 376
+==========
+
+Sample text preview: Your attention is urgently needed concerning your pending ETF / ACH Wire Transfer payment. The payment slip has been securely uploaded on Microsoft Fi...
+
+Model prediction: [4.0873885e-04 9.9959129e-01]
+Predicted class: PHISHING with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  send                | Impact: 0.070109 → PHISHING
+ 2.  your                | Impact: 0.045022 → PHISHING
+ 3.  your                | Impact: 0.044175 → PHISHING
+ 4.  online              | Impact: 0.043271 → PHISHING
+ 5.  *                   | Impact: 0.041489 → PHISHING
+ 6.  et                  | Impact: -0.039697 → LEGITIMATE
+ 7. er                   | Impact: 0.038097 → PHISHING
+ 8.  please              | Impact: 0.034839 → PHISHING
+ 9.  contact             | Impact: 0.034839 → PHISHING
+10.  recipient           | Impact: 0.030431 → PHISHING
+11. f                    | Impact: -0.029667 → LEGITIMATE
+12.  are                 | Impact: 0.029220 → PHISHING
+13.  you                 | Impact: 0.026893 → PHISHING
+14.  not                 | Impact: 0.021500 → PHISHING
+15.  an                  | Impact: 0.020805 → PHISHING
+16.  intended            | Impact: 0.020805 → PHISHING
+17.  payment             | Impact: 0.020795 → PHISHING
+18.  *                   | Impact: 0.019746 → PHISHING
+19.  here                | Impact: 0.019692 → PHISHING
+20.  del                 | Impact: 0.018860 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  send                | Impact: 0.070109
+ 2.  your                | Impact: 0.045022
+ 3.  your                | Impact: 0.044175
+ 4.  online              | Impact: 0.043271
+ 5.  *                   | Impact: 0.041489
+ 6. er                   | Impact: 0.038097
+ 7.  please              | Impact: 0.034839
+ 8.  contact             | Impact: 0.034839
+ 9.  recipient           | Impact: 0.030431
+10.  are                 | Impact: 0.029220
+11.  you                 | Impact: 0.026893
+12.  not                 | Impact: 0.021500
+13.  an                  | Impact: 0.020805
+14.  intended            | Impact: 0.020805
+15.  payment             | Impact: 0.020795
+16.  *                   | Impact: 0.019746
+17.  here                | Impact: 0.019692
+18.  del                 | Impact: 0.018860
+19. ete                  | Impact: 0.018860
+20.  this                | Impact: 0.018860
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  et                  | Impact: -0.039697
+ 2. f                    | Impact: -0.029667
+ 3.  ac                  | Impact: -0.016672
+ 4. h                    | Impact: -0.010926
+ 5.  use                 | Impact: -0.007026
+ 6.  .                   | Impact: -0.004804
+ 7.  any                 | Impact: -0.003724
+ 8.  review              | Impact: -0.003724
+ 9.  or                  | Impact: -0.001552
+10.  -                   | Impact: -0.001317
+11.  mail                | Impact: -0.001317
+12.  ,                   | Impact: -0.001317
+13.  ,                   | Impact: -0.001130
+14.  ,                   | Impact: -0.000462
+15.  ,                   | Impact: -0.000457

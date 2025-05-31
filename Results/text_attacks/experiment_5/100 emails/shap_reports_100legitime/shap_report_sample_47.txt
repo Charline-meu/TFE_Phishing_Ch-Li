@@ -1,0 +1,72 @@
+Phishing Sample 47
+==================
+
+Sample text preview: John P. Looney wrote: > On Thu, Aug , at ::AM -, Scott Wunsch mentioned: > >>On Thu, -Aug- at :: +, John P. Looney wrote: >> >>> I've installed Redhat...
+
+Model prediction: [9.9977916e-01 2.2086543e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.006230 → LEGITIMATE
+ 2.  >                   | Impact: -0.006042 → LEGITIMATE
+ 3.  been                | Impact: 0.005813 → PHISHING
+ 4.  .                   | Impact: -0.003404 → LEGITIMATE
+ 5.  .                   | Impact: -0.003167 → LEGITIMATE
+ 6.  >                   | Impact: -0.003095 → LEGITIMATE
+ 7.  they                | Impact: 0.002988 → PHISHING
+ 8.  >                   | Impact: -0.002973 → LEGITIMATE
+ 9.  .                   | Impact: -0.002690 → LEGITIMATE
+10.  >                   | Impact: -0.002495 → LEGITIMATE
+11.  ve                  | Impact: 0.002308 → PHISHING
+12.  :                   | Impact: -0.002128 → LEGITIMATE
+13.  list                | Impact: -0.002123 → LEGITIMATE
+14.  .                   | Impact: -0.001930 → LEGITIMATE
+15.  .                   | Impact: -0.001566 → LEGITIMATE
+16.  .                   | Impact: -0.001349 → LEGITIMATE
+17.  .                   | Impact: -0.001316 → LEGITIMATE
+18.  kernel              | Impact: -0.001288 → LEGITIMATE
+19. er                   | Impact: -0.001245 → LEGITIMATE
+20.  where               | Impact: 0.001178 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  been                | Impact: 0.005813
+ 2.  they                | Impact: 0.002988
+ 3.  ve                  | Impact: 0.002308
+ 4.  where               | Impact: 0.001178
+ 5.  expect              | Impact: 0.001009
+ 6.  exactly             | Impact: 0.000992
+ 7.  because             | Impact: 0.000432
+ 8.  i                   | Impact: 0.000426
+ 9.  '                   | Impact: 0.000426
+10.  ala                 | Impact: 0.000196
+11. s                    | Impact: 0.000196
+12.  could               | Impact: 0.000122
+13.  be                  | Impact: 0.000122
+14.  insisting           | Impact: 0.000094
+15.  pulling             | Impact: 0.000094
+16.  the                 | Impact: 0.000094
+17.  >                   | Impact: 0.000094
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.006230
+ 2.  >                   | Impact: -0.006042
+ 3.  .                   | Impact: -0.003404
+ 4.  .                   | Impact: -0.003167
+ 5.  >                   | Impact: -0.003095
+ 6.  >                   | Impact: -0.002973
+ 7.  .                   | Impact: -0.002690
+ 8.  >                   | Impact: -0.002495
+ 9.  :                   | Impact: -0.002128
+10.  list                | Impact: -0.002123
+11.  .                   | Impact: -0.001930
+12.  .                   | Impact: -0.001566
+13.  .                   | Impact: -0.001349
+14.  .                   | Impact: -0.001316
+15.  kernel              | Impact: -0.001288
+16. er                   | Impact: -0.001245
+17.  .                   | Impact: -0.001176
+18.  linux               | Impact: -0.001140
+19.  kernel              | Impact: -0.001132
+20.  disk                | Impact: -0.001132

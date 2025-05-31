@@ -1,0 +1,75 @@
+Sample 406
+==========
+
+Sample text preview: I have searched the list but did not find any info on this. How do I setup multiple spamd machines so that spamc load balances - or anything similar? ...
+
+Model prediction: [9.9952853e-01 4.7151293e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  email               | Impact: 0.055294 → PHISHING
+ 2.  net                 | Impact: 0.054568 → PHISHING
+ 3.  by                  | Impact: -0.023353 → LEGITIMATE
+ 4.  i                   | Impact: -0.020361 → LEGITIMATE
+ 5.  duane               | Impact: -0.018273 → LEGITIMATE
+ 6.  :                   | Impact: -0.015667 → LEGITIMATE
+ 7.  welcome             | Impact: 0.015407 → PHISHING
+ 8.  did                 | Impact: -0.012653 → LEGITIMATE
+ 9.  dev                 | Impact: -0.012579 → LEGITIMATE
+10.  but                 | Impact: -0.011985 → LEGITIMATE
+11.  sponsored           | Impact: -0.011878 → LEGITIMATE
+12.  to                  | Impact: 0.010931 → PHISHING
+13.  any                 | Impact: -0.009975 → LEGITIMATE
+14. el                   | Impact: -0.009931 → LEGITIMATE
+15.  searched            | Impact: 0.009685 → PHISHING
+16. k                    | Impact: 0.008704 → PHISHING
+17.  balance             | Impact: -0.007415 → LEGITIMATE
+18.  i                   | Impact: -0.007054 → LEGITIMATE
+19.  list                | Impact: -0.006497 → LEGITIMATE
+20.  heaven              | Impact: 0.006310 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  email               | Impact: 0.055294
+ 2.  net                 | Impact: 0.054568
+ 3.  welcome             | Impact: 0.015407
+ 4.  to                  | Impact: 0.010931
+ 5.  searched            | Impact: 0.009685
+ 6. k                    | Impact: 0.008704
+ 7.  heaven              | Impact: 0.006310
+ 8.  think               | Impact: 0.004419
+ 9. gee                  | Impact: 0.004419
+10.  find                | Impact: 0.003812
+11.  geek                | Impact: 0.003680
+12.  _                   | Impact: 0.002745
+13.  _                   | Impact: 0.002505
+14.  _                   | Impact: 0.002505
+15.  spa                 | Impact: 0.002016
+16. md                   | Impact: 0.001979
+17.  -                   | Impact: 0.001670
+18.  _                   | Impact: 0.001529
+19.  _                   | Impact: 0.001529
+20.  _                   | Impact: 0.001466
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  by                  | Impact: -0.023353
+ 2.  i                   | Impact: -0.020361
+ 3.  duane               | Impact: -0.018273
+ 4.  :                   | Impact: -0.015667
+ 5.  did                 | Impact: -0.012653
+ 6.  dev                 | Impact: -0.012579
+ 7.  but                 | Impact: -0.011985
+ 8.  sponsored           | Impact: -0.011878
+ 9.  any                 | Impact: -0.009975
+10. el                   | Impact: -0.009931
+11.  balance             | Impact: -0.007415
+12.  i                   | Impact: -0.007054
+13.  list                | Impact: -0.006497
+14.  setup               | Impact: -0.006074
+15.  .                   | Impact: -0.005753
+16.  the                 | Impact: -0.005265
+17.  multiple            | Impact: -0.004843
+18.  or                  | Impact: -0.004521
+19.  do                  | Impact: -0.004297
+20.  how                 | Impact: -0.004004

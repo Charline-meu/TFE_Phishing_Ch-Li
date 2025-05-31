@@ -1,0 +1,74 @@
+Sample 383
+==========
+
+Sample text preview: Mark: I received an application for Subscriber membership from Ferrell North America, a division of Ferrellgas L.P. based in Houston. Do you know them...
+
+Model prediction: [9.996753e-01 3.246964e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mary                | Impact: 0.022683 → PHISHING
+ 2.  thanks              | Impact: -0.020189 → LEGITIMATE
+ 3.  america             | Impact: 0.013652 → PHISHING
+ 4.  ?                   | Impact: -0.011193 → LEGITIMATE
+ 5.  received            | Impact: 0.010439 → PHISHING
+ 6.  north               | Impact: -0.010186 → LEGITIMATE
+ 7.  know                | Impact: -0.008195 → LEGITIMATE
+ 8.  :                   | Impact: -0.007461 → LEGITIMATE
+ 9.  mark                | Impact: -0.007135 → LEGITIMATE
+10.  them                | Impact: 0.006857 → PHISHING
+11.  applying            | Impact: -0.006130 → LEGITIMATE
+12.  and                 | Impact: 0.005297 → PHISHING
+13.  i                   | Impact: -0.005131 → LEGITIMATE
+14.  membership          | Impact: -0.004770 → LEGITIMATE
+15.  fe                  | Impact: -0.004630 → LEGITIMATE
+16.  .                   | Impact: -0.004370 → LEGITIMATE
+17. r                    | Impact: 0.003704 → PHISHING
+18.  houston             | Impact: -0.003379 → LEGITIMATE
+19.  you                 | Impact: 0.003181 → PHISHING
+20.  based               | Impact: 0.002638 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mary                | Impact: 0.022683
+ 2.  america             | Impact: 0.013652
+ 3.  received            | Impact: 0.010439
+ 4.  them                | Impact: 0.006857
+ 5.  and                 | Impact: 0.005297
+ 6. r                    | Impact: 0.003704
+ 7.  you                 | Impact: 0.003181
+ 8.  based               | Impact: 0.002638
+ 9.  in                  | Impact: 0.001285
+10.  for                 | Impact: 0.001278
+11.  from                | Impact: 0.001068
+12.  sub                 | Impact: 0.000839
+13.  sub                 | Impact: 0.000815
+14.  a                   | Impact: 0.000784
+15.  you                 | Impact: 0.000721
+16.  of                  | Impact: 0.000686
+17.  their               | Impact: 0.000186
+18.  ok                  | Impact: 0.000117
+19.  a                   | Impact: 0.000018
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.020189
+ 2.  ?                   | Impact: -0.011193
+ 3.  north               | Impact: -0.010186
+ 4.  know                | Impact: -0.008195
+ 5.  :                   | Impact: -0.007461
+ 6.  mark                | Impact: -0.007135
+ 7.  applying            | Impact: -0.006130
+ 8.  i                   | Impact: -0.005131
+ 9.  membership          | Impact: -0.004770
+10.  fe                  | Impact: -0.004630
+11.  .                   | Impact: -0.004370
+12.  houston             | Impact: -0.003379
+13.  p                   | Impact: -0.002407
+14.  do                  | Impact: -0.002258
+15.  fe                  | Impact: -0.001909
+16.  with                | Impact: -0.001870
+17. scribe               | Impact: -0.001713
+18.  .                   | Impact: -0.001627
+19.  .                   | Impact: -0.001521
+20.  division            | Impact: -0.001442

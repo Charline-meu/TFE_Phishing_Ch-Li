@@ -1,0 +1,75 @@
+Sample 354
+==========
+
+Sample text preview: Ananova: Dracula theme park could be switched to Bucharest A controversial scheme to build a Dracula theme park in Romania could be switched away from...
+
+Model prediction: [9.9975866e-01 2.4128337e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  theme               | Impact: -0.015885 → LEGITIMATE
+ 2.  park                | Impact: -0.015885 → LEGITIMATE
+ 3.  capital             | Impact: 0.011648 → PHISHING
+ 4.  with                | Impact: 0.011648 → PHISHING
+ 5.  the                 | Impact: 0.011648 → PHISHING
+ 6.  black               | Impact: 0.011648 → PHISHING
+ 7.  :                   | Impact: -0.011384 → LEGITIMATE
+ 8.  dracula             | Impact: -0.011384 → LEGITIMATE
+ 9.  consultants         | Impact: -0.010698 → LEGITIMATE
+10.  sea                 | Impact: 0.010588 → PHISHING
+11.  port                | Impact: 0.010588 → PHISHING
+12.  of                  | Impact: 0.010588 → PHISHING
+13.  price               | Impact: -0.006404 → LEGITIMATE
+14. water                | Impact: -0.006404 → LEGITIMATE
+15. house                | Impact: -0.006404 → LEGITIMATE
+16. co                   | Impact: -0.006404 → LEGITIMATE
+17. opers                | Impact: -0.006404 → LEGITIMATE
+18.  where               | Impact: -0.005850 → LEGITIMATE
+19.  vlad                | Impact: -0.005850 → LEGITIMATE
+20.  the                 | Impact: -0.005850 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  capital             | Impact: 0.011648
+ 2.  with                | Impact: 0.011648
+ 3.  the                 | Impact: 0.011648
+ 4.  black               | Impact: 0.011648
+ 5.  sea                 | Impact: 0.010588
+ 6.  port                | Impact: 0.010588
+ 7.  of                  | Impact: 0.010588
+ 8.  charles             | Impact: 0.005780
+ 9.  led                 | Impact: 0.005780
+10.  international       | Impact: 0.005780
+11.  protests            | Impact: 0.005780
+12.  it                  | Impact: 0.005088
+13.  comes               | Impact: 0.005088
+14.  after               | Impact: 0.005088
+15.  prince              | Impact: 0.005088
+16.  the                 | Impact: 0.003484
+17.  medieval            | Impact: 0.003484
+18.  town                | Impact: 0.003484
+19.  of                  | Impact: 0.003484
+20.  location            | Impact: 0.002889
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  theme               | Impact: -0.015885
+ 2.  park                | Impact: -0.015885
+ 3.  :                   | Impact: -0.011384
+ 4.  dracula             | Impact: -0.011384
+ 5.  consultants         | Impact: -0.010698
+ 6.  price               | Impact: -0.006404
+ 7. water                | Impact: -0.006404
+ 8. house                | Impact: -0.006404
+ 9. co                   | Impact: -0.006404
+10. opers                | Impact: -0.006404
+11.  where               | Impact: -0.005850
+12.  vlad                | Impact: -0.005850
+13.  the                 | Impact: -0.005850
+14.  imp                 | Impact: -0.005850
+15. ale                  | Impact: -0.005850
+16. r                    | Impact: -0.005850
+17.  ,                   | Impact: -0.005850
+18.  said                | Impact: -0.003608
+19.  :                   | Impact: -0.003608
+20.  "                   | Impact: -0.003608

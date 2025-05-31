@@ -1,0 +1,75 @@
+Sample 150
+==========
+
+Sample text preview: BP ABIDJAN COTE D'IVOIRE WEST AFRICA TELL ( ) E MAIL From:Miss Grace Onuoha In brief introduction, I am Miss Grace Onuoha from the republic of South A...
+
+Model prediction: [2.261515e-04 9.997738e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  the                 | Impact: 0.009295 → PHISHING
+ 2.  death               | Impact: 0.009295 → PHISHING
+ 3.  of                  | Impact: 0.009295 → PHISHING
+ 4.  our                 | Impact: 0.009295 → PHISHING
+ 5.  beloved             | Impact: 0.009295 → PHISHING
+ 6.  father              | Impact: 0.009295 → PHISHING
+ 7.  .                   | Impact: 0.009295 → PHISHING
+ 8.  father              | Impact: 0.009092 → PHISHING
+ 9.  mr                  | Impact: 0.009092 → PHISHING
+10.  my                  | Impact: 0.007076 → PHISHING
+11.  late                | Impact: 0.007076 → PHISHING
+12.  parents             | Impact: 0.004561 → PHISHING
+13.  left                | Impact: 0.004561 → PHISHING
+14.  for                 | Impact: 0.004561 → PHISHING
+15.  us                  | Impact: 0.004561 → PHISHING
+16.  except              | Impact: 0.004561 → PHISHING
+17.  this                | Impact: 0.004561 → PHISHING
+18.  box                 | Impact: 0.004561 → PHISHING
+19.  money               | Impact: 0.004561 → PHISHING
+20.  ivo                 | Impact: 0.004392 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  the                 | Impact: 0.009295
+ 2.  death               | Impact: 0.009295
+ 3.  of                  | Impact: 0.009295
+ 4.  our                 | Impact: 0.009295
+ 5.  beloved             | Impact: 0.009295
+ 6.  father              | Impact: 0.009295
+ 7.  .                   | Impact: 0.009295
+ 8.  father              | Impact: 0.009092
+ 9.  mr                  | Impact: 0.009092
+10.  my                  | Impact: 0.007076
+11.  late                | Impact: 0.007076
+12.  parents             | Impact: 0.004561
+13.  left                | Impact: 0.004561
+14.  for                 | Impact: 0.004561
+15.  us                  | Impact: 0.004561
+16.  except              | Impact: 0.004561
+17.  this                | Impact: 0.004561
+18.  box                 | Impact: 0.004561
+19.  money               | Impact: 0.004561
+20.  ivo                 | Impact: 0.004392
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  however             | Impact: -0.000728
+ 2.  ,                   | Impact: -0.000728
+ 3.  my                  | Impact: -0.000728
+ 4.  purpose             | Impact: -0.000728
+ 5.  of                  | Impact: -0.000728
+ 6.  contact             | Impact: -0.000728
+ 7. ing                  | Impact: -0.000728
+ 8.  you                 | Impact: -0.000728
+ 9.  are                 | Impact: -0.000728
+10.  as                  | Impact: -0.000728
+11.  follows             | Impact: -0.000728
+12.  :                   | Impact: -0.000728
+13.  the                 | Impact: -0.000728
+14.  most                | Impact: -0.000728
+15.  important           | Impact: -0.000728
+16.  thing               | Impact: -0.000728
+17.  for                 | Impact: -0.000728
+18.  holidays            | Impact: -0.000098
+19.  from                | Impact: -0.000098
+20.  cote                | Impact: -0.000098

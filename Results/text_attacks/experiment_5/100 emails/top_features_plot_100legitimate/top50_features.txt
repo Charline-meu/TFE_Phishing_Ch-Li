@@ -1,0 +1,53 @@
+Top 50 Most Influential Features Across All Emails:
+Rank | Feature | Total Impact | Direction
+--------------------------------------------------
+ 1. : | -0.703069 | LEGITIMATE
+ 2. . | -0.397742 | LEGITIMATE
+ 3. planners | -0.346875 | LEGITIMATE
+ 4. you | 0.250547 | PHISHING
+ 5. ron | -0.245605 | LEGITIMATE
+ 6. ( | -0.217867 | LEGITIMATE
+ 7. contact | 0.191554 | PHISHING
+ 8. click | 0.186033 | PHISHING
+ 9. please | 0.178559 | PHISHING
+10. ] | -0.174167 | LEGITIMATE
+11. and | 0.170984 | PHISHING
+12. download | 0.164717 | PHISHING
+13. > | -0.161346 | LEGITIMATE
+14. sunday | -0.156650 | LEGITIMATE
+15. - | -0.156592 | LEGITIMATE
+16. en | -0.155383 | LEGITIMATE
+17. print | 0.148411 | PHISHING
+18. we | 0.145195 | PHISHING
+19. [ | -0.135348 | LEGITIMATE
+20. with | 0.127824 | PHISHING
+21. da | -0.126886 | LEGITIMATE
+22. thanks | -0.122332 | LEGITIMATE
+23. dear | 0.117965 | PHISHING
+24. per | -0.114055 | LEGITIMATE
+25. contract | 0.104169 | PHISHING
+26. mail | 0.103833 | PHISHING
+27. our | 0.102372 | PHISHING
+28. key | -0.099845 | LEGITIMATE
+29. weekend | -0.099038 | LEGITIMATE
+30. your | 0.098765 | PHISHING
+31. the | -0.098342 | LEGITIMATE
+32. ur | -0.097617 | LEGITIMATE
+33. if | -0.097586 | LEGITIMATE
+34. x | 0.093168 | PHISHING
+35. new | 0.089724 | PHISHING
+36. conference | -0.089325 | LEGITIMATE
+37. should | -0.088688 | LEGITIMATE
+38. releasing | 0.086363 | PHISHING
+39. numbers | -0.085529 | LEGITIMATE
+40. saddam | -0.084301 | LEGITIMATE
+41. & | 0.083816 | PHISHING
+42. something | -0.081279 | LEGITIMATE
+43. available | 0.081080 | PHISHING
+44. christmas | -0.080836 | LEGITIMATE
+45. for | -0.078502 | LEGITIMATE
+46. pizza | -0.078349 | LEGITIMATE
+47. digital | -0.076285 | LEGITIMATE
+48. list | -0.074924 | LEGITIMATE
+49. born | 0.073772 | PHISHING
+50. iating | -0.073022 | LEGITIMATE

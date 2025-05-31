@@ -1,0 +1,75 @@
+Sample 417
+==========
+
+Sample text preview: ---------------------- Forwarded by Darron C Giron/HOU/ECT on // : AM --------------------------- Carole Frank // : AM To: Darron C Giron/HOU/ECT@ECT ...
+
+Model prediction: [9.9979323e-01 2.0675200e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ec                  | Impact: -0.001403 → LEGITIMATE
+ 2.  totals              | Impact: -0.001239 → LEGITIMATE
+ 3.  .                   | Impact: -0.001123 → LEGITIMATE
+ 4. ron                  | Impact: -0.000962 → LEGITIMATE
+ 5.  mt                  | Impact: -0.000872 → LEGITIMATE
+ 6.  :                   | Impact: -0.000862 → LEGITIMATE
+ 7.  tudor               | Impact: 0.000852 → PHISHING
+ 8.  are                 | Impact: 0.000784 → PHISHING
+ 9.  carole              | Impact: -0.000679 → LEGITIMATE
+10. ron                  | Impact: -0.000667 → LEGITIMATE
+11.  frank               | Impact: -0.000632 → LEGITIMATE
+12.  ,                   | Impact: 0.000595 → PHISHING
+13.  dar                 | Impact: -0.000561 → LEGITIMATE
+14. t                    | Impact: -0.000552 → LEGITIMATE
+15. m                    | Impact: -0.000450 → LEGITIMATE
+16.  be                  | Impact: 0.000437 → PHISHING
+17.  pv                  | Impact: -0.000407 → LEGITIMATE
+18.  quantity            | Impact: -0.000407 → LEGITIMATE
+19.  -                   | Impact: -0.000394 → LEGITIMATE
+20.  -                   | Impact: -0.000373 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  tudor               | Impact: 0.000852
+ 2.  are                 | Impact: 0.000784
+ 3.  ,                   | Impact: 0.000595
+ 4.  be                  | Impact: 0.000437
+ 5.  the                 | Impact: 0.000291
+ 6.  west                | Impact: 0.000266
+ 7.  found               | Impact: 0.000219
+ 8.  ,                   | Impact: 0.000201
+ 9.  by                  | Impact: 0.000176
+10. e                    | Impact: 0.000162
+11.  detail              | Impact: 0.000135
+12.  value               | Impact: 0.000134
+13.  am                  | Impact: 0.000110
+14.  ,                   | Impact: 0.000095
+15.  desk                | Impact: 0.000088
+16.  are                 | Impact: 0.000088
+17. ai                   | Impact: 0.000048
+18.  forward             | Impact: 0.000045
+19. ed                   | Impact: 0.000045
+20.                      | Impact: 0.000043
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ec                  | Impact: -0.001403
+ 2.  totals              | Impact: -0.001239
+ 3.  .                   | Impact: -0.001123
+ 4. ron                  | Impact: -0.000962
+ 5.  mt                  | Impact: -0.000872
+ 6.  :                   | Impact: -0.000862
+ 7.  carole              | Impact: -0.000679
+ 8. ron                  | Impact: -0.000667
+ 9.  frank               | Impact: -0.000632
+10.  dar                 | Impact: -0.000561
+11. t                    | Impact: -0.000552
+12. m                    | Impact: -0.000450
+13.  pv                  | Impact: -0.000407
+14.  quantity            | Impact: -0.000407
+15.  -                   | Impact: -0.000394
+16.  -                   | Impact: -0.000373
+17.  :                   | Impact: -0.000329
+18.  $                   | Impact: -0.000329
+19.  /                   | Impact: -0.000310
+20.  ,                   | Impact: -0.000290

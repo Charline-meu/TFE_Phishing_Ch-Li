@@ -1,0 +1,75 @@
+Sample 455
+==========
+
+Sample text preview: -----Original Message----- From: Nicolay, Christi L. Sent: Monday, October , : PM To: Kitchen, Louise; Dietrich, Janet; Delainey, David; SMITH, Dougla...
+
+Model prediction: [9.9974257e-01 2.5744762e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  .                   | Impact: 0.001826 → PHISHING
+ 2.  kevin               | Impact: 0.001729 → PHISHING
+ 3.  m                   | Impact: 0.001729 → PHISHING
+ 4.  christi             | Impact: 0.001076 → PHISHING
+ 5.  l                   | Impact: 0.001076 → PHISHING
+ 6.  .                   | Impact: 0.000815 → PHISHING
+ 7.  there               | Impact: -0.000598 → LEGITIMATE
+ 8.  was                 | Impact: -0.000598 → LEGITIMATE
+ 9.  discussion          | Impact: -0.000598 → LEGITIMATE
+10.  on                  | Impact: -0.000598 → LEGITIMATE
+11.  identifying         | Impact: -0.000598 → LEGITIMATE
+12.  which               | Impact: -0.000598 → LEGITIMATE
+13.  industry            | Impact: -0.000598 → LEGITIMATE
+14.  group               | Impact: -0.000598 → LEGITIMATE
+15.  the                 | Impact: -0.000545 → LEGITIMATE
+16.  issues              | Impact: -0.000545 → LEGITIMATE
+17.  regarding           | Impact: -0.000545 → LEGITIMATE
+18.  standardized        | Impact: -0.000545 → LEGITIMATE
+19.  market              | Impact: -0.000545 → LEGITIMATE
+20.  design              | Impact: -0.000545 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.001826
+ 2.  kevin               | Impact: 0.001729
+ 3.  m                   | Impact: 0.001729
+ 4.  christi             | Impact: 0.001076
+ 5.  l                   | Impact: 0.001076
+ 6.  .                   | Impact: 0.000815
+ 7.  claude              | Impact: 0.000205
+ 8. tte                  | Impact: 0.000205
+ 9.  ;                   | Impact: 0.000205
+10.  pre                 | Impact: 0.000205
+11. sto                  | Impact: 0.000205
+12.  ,                   | Impact: 0.000205
+13.  insults             | Impact: 0.000115
+14.  between             | Impact: 0.000115
+15.  the                 | Impact: 0.000115
+16.  two                 | Impact: 0.000115
+17.  organizations       | Impact: 0.000115
+18.  somewhat            | Impact: 0.000115
+19.  common              | Impact: 0.000115
+20.  during              | Impact: 0.000115
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  there               | Impact: -0.000598
+ 2.  was                 | Impact: -0.000598
+ 3.  discussion          | Impact: -0.000598
+ 4.  on                  | Impact: -0.000598
+ 5.  identifying         | Impact: -0.000598
+ 6.  which               | Impact: -0.000598
+ 7.  industry            | Impact: -0.000598
+ 8.  group               | Impact: -0.000598
+ 9.  the                 | Impact: -0.000545
+10.  issues              | Impact: -0.000545
+11.  regarding           | Impact: -0.000545
+12.  standardized        | Impact: -0.000545
+13.  market              | Impact: -0.000545
+14.  design              | Impact: -0.000545
+15.  and                 | Impact: -0.000545
+16.  christopher         | Impact: -0.000482
+17.  f                   | Impact: -0.000482
+18.  .                   | Impact: -0.000482
+19.  tim                 | Impact: -0.000482
+20.  ;                   | Impact: -0.000482

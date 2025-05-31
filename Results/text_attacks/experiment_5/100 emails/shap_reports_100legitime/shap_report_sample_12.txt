@@ -1,0 +1,75 @@
+Phishing Sample 12
+==================
+
+Sample text preview: >>>>> "O" == Owen Byrne writes: O> From the local paper this morning. "Canadians eat about seven O> times as many doughnuts per capita"... (as America...
+
+Model prediction: [9.9978179e-01 2.1826162e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  entrepreneurs       | Impact: 0.015911 → PHISHING
+ 2.  founded             | Impact: 0.009839 → PHISHING
+ 3.  canada              | Impact: -0.007852 → LEGITIMATE
+ 4.  nation              | Impact: 0.007769 → PHISHING
+ 5.  creative            | Impact: -0.006628 → LEGITIMATE
+ 6.  (                   | Impact: -0.006607 → LEGITIMATE
+ 7.  enterprise          | Impact: -0.006292 → LEGITIMATE
+ 8.  you                 | Impact: 0.006049 → PHISHING
+ 9.  nation              | Impact: 0.005591 → PHISHING
+10.  on                  | Impact: -0.004914 → LEGITIMATE
+11.  )                   | Impact: -0.004437 → LEGITIMATE
+12. ies                  | Impact: -0.004047 → LEGITIMATE
+13.  is                  | Impact: 0.004037 → PHISHING
+14.  is                  | Impact: -0.003977 → LEGITIMATE
+15.  .                   | Impact: -0.003797 → LEGITIMATE
+16.  picasso             | Impact: -0.003710 → LEGITIMATE
+17.  pablo               | Impact: -0.003404 → LEGITIMATE
+18. pol                  | Impact: -0.003354 → LEGITIMATE
+19.  mono                | Impact: -0.003095 → LEGITIMATE
+20.  a                   | Impact: 0.003082 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  entrepreneurs       | Impact: 0.015911
+ 2.  founded             | Impact: 0.009839
+ 3.  nation              | Impact: 0.007769
+ 4.  you                 | Impact: 0.006049
+ 5.  nation              | Impact: 0.005591
+ 6.  is                  | Impact: 0.004037
+ 7.  a                   | Impact: 0.003082
+ 8.  answers             | Impact: 0.001929
+ 9.  usa                 | Impact: 0.001422
+10.  built               | Impact: 0.001218
+11.  only                | Impact: 0.001216
+12.  "                   | Impact: 0.001107
+13.  a                   | Impact: 0.001052
+14.  all                 | Impact: 0.000913
+15.  we                  | Impact: 0.000913
+16.  can                 | Impact: 0.000913
+17.  buy                 | Impact: 0.000913
+18.  give                | Impact: 0.000834
+19.  local               | Impact: 0.000832
+20.  they                | Impact: 0.000748
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  canada              | Impact: -0.007852
+ 2.  creative            | Impact: -0.006628
+ 3.  (                   | Impact: -0.006607
+ 4.  enterprise          | Impact: -0.006292
+ 5.  on                  | Impact: -0.004914
+ 6.  )                   | Impact: -0.004437
+ 7. ies                  | Impact: -0.004047
+ 8.  is                  | Impact: -0.003977
+ 9.  .                   | Impact: -0.003797
+10.  picasso             | Impact: -0.003710
+11.  pablo               | Impact: -0.003404
+12. pol                  | Impact: -0.003354
+13.  mono                | Impact: -0.003095
+14.  ;                   | Impact: -0.002742
+15.  free                | Impact: -0.002546
+16.  the                 | Impact: -0.001990
+17.  >                   | Impact: -0.001939
+18.  because             | Impact: -0.001831
+19.  software            | Impact: -0.001746
+20.  -                   | Impact: -0.001398

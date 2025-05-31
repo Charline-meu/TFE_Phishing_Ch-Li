@@ -1,0 +1,75 @@
+Sample 124
+==========
+
+Sample text preview: Dear Sir, You may be surprised to receive this letter from me since you do not know me personally. I am Gabriel Kali, the first son of Gadik kali, one...
+
+Model prediction: [1.7682048e-04 9.9982315e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  president           | Impact: 0.010808 → PHISHING
+ 2.  mr                  | Impact: 0.010808 → PHISHING
+ 3.  zimbabwe            | Impact: 0.010129 → PHISHING
+ 4. an                   | Impact: 0.010129 → PHISHING
+ 5.  the                 | Impact: 0.006542 → PHISHING
+ 6.  first               | Impact: 0.006542 → PHISHING
+ 7.  son                 | Impact: 0.006542 → PHISHING
+ 8.  of                  | Impact: 0.006542 → PHISHING
+ 9.  prohibits           | Impact: 0.005456 → PHISHING
+10.  a                   | Impact: 0.005456 → PHISHING
+11.  refugee             | Impact: 0.005456 → PHISHING
+12.  this                | Impact: 0.005456 → PHISHING
+13.  country             | Impact: 0.005456 → PHISHING
+14.  seeking             | Impact: 0.004887 → PHISHING
+15.  a                   | Impact: 0.004887 → PHISHING
+16.  genuine             | Impact: 0.004887 → PHISHING
+17.  foreign             | Impact: 0.004887 → PHISHING
+18.  account             | Impact: 0.004887 → PHISHING
+19.  where               | Impact: 0.004887 → PHISHING
+20.  this                | Impact: 0.004887 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  president           | Impact: 0.010808
+ 2.  mr                  | Impact: 0.010808
+ 3.  zimbabwe            | Impact: 0.010129
+ 4. an                   | Impact: 0.010129
+ 5.  the                 | Impact: 0.006542
+ 6.  first               | Impact: 0.006542
+ 7.  son                 | Impact: 0.006542
+ 8.  of                  | Impact: 0.006542
+ 9.  prohibits           | Impact: 0.005456
+10.  a                   | Impact: 0.005456
+11.  refugee             | Impact: 0.005456
+12.  this                | Impact: 0.005456
+13.  country             | Impact: 0.005456
+14.  seeking             | Impact: 0.004887
+15.  a                   | Impact: 0.004887
+16.  genuine             | Impact: 0.004887
+17.  foreign             | Impact: 0.004887
+18.  account             | Impact: 0.004887
+19.  where               | Impact: 0.004887
+20.  this                | Impact: 0.004887
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.000844
+ 2.  territorial         | Impact: -0.000844
+ 3.  zone                | Impact: -0.000844
+ 4.  any                 | Impact: -0.000844
+ 5.  financial           | Impact: -0.000844
+ 6.  transaction         | Impact: -0.000844
+ 7.  throughout          | Impact: -0.000844
+ 8.  .                   | Impact: -0.000844
+ 9.  or                  | Impact: -0.000700
+10.  to                  | Impact: -0.000700
+11.  be                  | Impact: -0.000700
+12.  involved            | Impact: -0.000700
+13.  in                  | Impact: -0.000700
+14.  one                 | Impact: -0.000056
+15.  of                  | Impact: -0.000056
+16.  the                 | Impact: -0.000056
+17.  most                | Impact: -0.000056
+18.  popular             | Impact: -0.000056
+19.  black               | Impact: -0.000056
+20.  farmers             | Impact: -0.000056

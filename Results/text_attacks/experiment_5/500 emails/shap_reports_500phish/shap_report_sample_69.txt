@@ -1,0 +1,75 @@
+Sample 69
+=========
+
+Sample text preview: 我有新的信箱了!你可以寄信給我到: Dear Good Friend, I am happy to inform you about my successin getting those funds transferred under the cooperation of a new partner...
+
+Model prediction: [1.7262505e-04 9.9982738e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  hong                | Impact: 0.022853 → PHISHING
+ 2. kong                 | Impact: 0.020828 → PHISHING
+ 3.  hong                | Impact: 0.018183 → PHISHING
+ 4. kong                 | Impact: 0.018183 → PHISHING
+ 5.  funds               | Impact: 0.017834 → PHISHING
+ 6.  transferred         | Impact: 0.013330 → PHISHING
+ 7.  inform              | Impact: 0.012624 → PHISHING
+ 8.  you                 | Impact: 0.012624 → PHISHING
+ 9.  partner             | Impact: 0.012161 → PHISHING
+10.  from                | Impact: 0.012161 → PHISHING
+11.  into                | Impact: 0.011338 → PHISHING
+12. uch                  | Impact: 0.011338 → PHISHING
+13.  with                | Impact: 0.011338 → PHISHING
+14.  mr                  | Impact: 0.011338 → PHISHING
+15.  forget              | Impact: 0.010936 → PHISHING
+16.  your                | Impact: 0.010936 → PHISHING
+17.  past                | Impact: 0.010936 → PHISHING
+18.  efforts             | Impact: 0.010936 → PHISHING
+19.  shi                 | Impact: 0.010089 → PHISHING
+20. kes                  | Impact: 0.010089 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  hong                | Impact: 0.022853
+ 2. kong                 | Impact: 0.020828
+ 3.  hong                | Impact: 0.018183
+ 4. kong                 | Impact: 0.018183
+ 5.  funds               | Impact: 0.017834
+ 6.  transferred         | Impact: 0.013330
+ 7.  inform              | Impact: 0.012624
+ 8.  you                 | Impact: 0.012624
+ 9.  partner             | Impact: 0.012161
+10.  from                | Impact: 0.012161
+11.  into                | Impact: 0.011338
+12. uch                  | Impact: 0.011338
+13.  with                | Impact: 0.011338
+14.  mr                  | Impact: 0.011338
+15.  forget              | Impact: 0.010936
+16.  your                | Impact: 0.010936
+17.  past                | Impact: 0.010936
+18.  efforts             | Impact: 0.010936
+19.  shi                 | Impact: 0.010089
+20. kes                  | Impact: 0.010089
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  有                   | Impact: -0.005181
+ 2.  新                   | Impact: -0.005181
+ 3.  .                   | Impact: -0.003591
+ 4.  .                   | Impact: -0.002781
+ 5.  ,                   | Impact: -0.002377
+ 6.  getting             | Impact: -0.002375
+ 7.  those               | Impact: -0.002375
+ 8.  remember            | Impact: -0.002188
+ 9.  that                | Impact: -0.002188
+10.  i                   | Impact: -0.002188
+11. had                  | Impact: -0.002188
+12.  forward             | Impact: -0.002188
+13. ed                   | Impact: -0.002188
+14.  instruction         | Impact: -0.002188
+15.  to                  | Impact: -0.002188
+16.  thanks              | Impact: -0.001864
+17.  and                 | Impact: -0.001864
+18.  ,                   | Impact: -0.001536
+19.  !                   | Impact: -0.001228
+20.  share               | Impact: -0.001170

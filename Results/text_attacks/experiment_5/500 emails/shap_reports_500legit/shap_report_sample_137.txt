@@ -1,0 +1,67 @@
+Sample 137
+==========
+
+Sample text preview: Matthias Saou wrote: > Once upon a time, ""Angles" wrote : > > >>Any sage advice on the most painless way to upgrade from old limbo (.) >>to new limbo...
+
+Model prediction: [9.997453e-01 2.546291e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  rpm                 | Impact: -0.009405 → LEGITIMATE
+ 2.  >                   | Impact: -0.008858 → LEGITIMATE
+ 3.  matthias            | Impact: -0.008633 → LEGITIMATE
+ 4.  rpm                 | Impact: -0.008377 → LEGITIMATE
+ 5.  matthias            | Impact: -0.007732 → LEGITIMATE
+ 6.  problem             | Impact: -0.006795 → LEGITIMATE
+ 7.  >                   | Impact: -0.006316 → LEGITIMATE
+ 8.  some                | Impact: -0.005622 → LEGITIMATE
+ 9.  :                   | Impact: -0.004820 → LEGITIMATE
+10.  >                   | Impact: -0.004820 → LEGITIMATE
+11.  well                | Impact: -0.004562 → LEGITIMATE
+12.  >                   | Impact: -0.004453 → LEGITIMATE
+13.  >                   | Impact: -0.004172 → LEGITIMATE
+14.  com                 | Impact: -0.004000 → LEGITIMATE
+15. pile                 | Impact: -0.004000 → LEGITIMATE
+16.  >                   | Impact: -0.003812 → LEGITIMATE
+17.  .                   | Impact: -0.003470 → LEGITIMATE
+18.  >                   | Impact: -0.003425 → LEGITIMATE
+19.  >                   | Impact: -0.003387 → LEGITIMATE
+20.  apt                 | Impact: -0.003387 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  _                   | Impact: 0.000995
+ 2.  _                   | Impact: 0.000995
+ 3.  have                | Impact: 0.000632
+ 4.  with                | Impact: 0.000632
+ 5.  ,                   | Impact: 0.000314
+ 6.  days                | Impact: 0.000301
+ 7.  barely              | Impact: 0.000301
+ 8.  works               | Impact: 0.000301
+ 9.  on                  | Impact: 0.000301
+10.  limb                | Impact: 0.000301
+11. o                    | Impact: 0.000301
+12.  ,                   | Impact: 0.000301
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  rpm                 | Impact: -0.009405
+ 2.  >                   | Impact: -0.008858
+ 3.  matthias            | Impact: -0.008633
+ 4.  rpm                 | Impact: -0.008377
+ 5.  matthias            | Impact: -0.007732
+ 6.  problem             | Impact: -0.006795
+ 7.  >                   | Impact: -0.006316
+ 8.  some                | Impact: -0.005622
+ 9.  :                   | Impact: -0.004820
+10.  >                   | Impact: -0.004820
+11.  well                | Impact: -0.004562
+12.  >                   | Impact: -0.004453
+13.  >                   | Impact: -0.004172
+14.  com                 | Impact: -0.004000
+15. pile                 | Impact: -0.004000
+16.  >                   | Impact: -0.003812
+17.  .                   | Impact: -0.003470
+18.  >                   | Impact: -0.003425
+19.  >                   | Impact: -0.003387
+20.  apt                 | Impact: -0.003387

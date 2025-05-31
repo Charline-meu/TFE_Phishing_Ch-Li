@@ -1,0 +1,75 @@
+Sample 187
+==========
+
+Sample text preview: FYI Attached is a a current worksheet of the ETS accounting organization. (Sorry, I haven't been able to prepare an org. chart yet). This still reflec...
+
+Model prediction: [9.9952841e-01 4.7158598e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  is                  | Impact: 0.017351 → PHISHING
+ 2.  f                   | Impact: 0.011666 → PHISHING
+ 3. hee                  | Impact: -0.011457 → LEGITIMATE
+ 4. t                    | Impact: -0.011361 → LEGITIMATE
+ 5.  et                  | Impact: -0.010587 → LEGITIMATE
+ 6.  works               | Impact: 0.008985 → PHISHING
+ 7.  accounting          | Impact: -0.006727 → LEGITIMATE
+ 8. yi                   | Impact: 0.005856 → PHISHING
+ 9.  a                   | Impact: 0.005171 → PHISHING
+10.  a                   | Impact: -0.005037 → LEGITIMATE
+11.  current             | Impact: -0.005032 → LEGITIMATE
+12.  .                   | Impact: -0.004497 → LEGITIMATE
+13.  fuels               | Impact: -0.003368 → LEGITIMATE
+14.  organization        | Impact: -0.003207 → LEGITIMATE
+15.  entities            | Impact: 0.002953 → PHISHING
+16.  attached            | Impact: 0.002872 → PHISHING
+17.  be                  | Impact: 0.002789 → PHISHING
+18.  li                  | Impact: -0.002713 → LEGITIMATE
+19.  but                 | Impact: -0.002688 → LEGITIMATE
+20.  .                   | Impact: -0.002440 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  is                  | Impact: 0.017351
+ 2.  f                   | Impact: 0.011666
+ 3.  works               | Impact: 0.008985
+ 4. yi                   | Impact: 0.005856
+ 5.  a                   | Impact: 0.005171
+ 6.  entities            | Impact: 0.002953
+ 7.  attached            | Impact: 0.002872
+ 8.  be                  | Impact: 0.002789
+ 9.  this                | Impact: 0.002032
+10.  )                   | Impact: 0.001993
+11.  separate            | Impact: 0.001845
+12.  still               | Impact: 0.001824
+13.  with                | Impact: 0.001615
+14.  yet                 | Impact: 0.001598
+15.  most                | Impact: 0.001341
+16.  clean               | Impact: 0.001175
+17.  jennifer            | Impact: 0.001040
+18.  kept                | Impact: 0.000954
+19.  from                | Impact: 0.000601
+20.  (                   | Impact: 0.000307
+
+Top features pushing towards LEGITIMATE classification:
+ 1. hee                  | Impact: -0.011457
+ 2. t                    | Impact: -0.011361
+ 3.  et                  | Impact: -0.010587
+ 4.  accounting          | Impact: -0.006727
+ 5.  a                   | Impact: -0.005037
+ 6.  current             | Impact: -0.005032
+ 7.  .                   | Impact: -0.004497
+ 8.  fuels               | Impact: -0.003368
+ 9.  organization        | Impact: -0.003207
+10.  li                  | Impact: -0.002713
+11.  but                 | Impact: -0.002688
+12.  .                   | Impact: -0.002440
+13.  reflects            | Impact: -0.002291
+14. s                    | Impact: -0.002283
+15.  i                   | Impact: -0.001952
+16.  the                 | Impact: -0.001882
+17.  .                   | Impact: -0.001774
+18.  sorry               | Impact: -0.001749
+19.  possible            | Impact: -0.001636
+20.  kerry               | Impact: -0.001514

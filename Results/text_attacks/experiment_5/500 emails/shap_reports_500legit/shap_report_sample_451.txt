@@ -1,0 +1,75 @@
+Sample 451
+==========
+
+Sample text preview: Below is slightly revised language to be included in the ISDA agreement being entered into in connection with the EEX transaction. Not having the tran...
+
+Model prediction: [9.9978608e-01 2.1390428e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.002488 → LEGITIMATE
+ 2.  en                  | Impact: -0.002178 → LEGITIMATE
+ 3.  en                  | Impact: -0.002033 → LEGITIMATE
+ 4. ron                  | Impact: -0.002033 → LEGITIMATE
+ 5. ron                  | Impact: -0.002012 → LEGITIMATE
+ 6.  en                  | Impact: -0.001984 → LEGITIMATE
+ 7.  re                  | Impact: -0.000843 → LEGITIMATE
+ 8.  ]                   | Impact: -0.000843 → LEGITIMATE
+ 9.  en                  | Impact: -0.000758 → LEGITIMATE
+10. ron                  | Impact: -0.000758 → LEGITIMATE
+11.  ]                   | Impact: -0.000588 → LEGITIMATE
+12.  ]                   | Impact: -0.000588 → LEGITIMATE
+13.  the                 | Impact: -0.000588 → LEGITIMATE
+14.  parties             | Impact: -0.000588 → LEGITIMATE
+15.  which               | Impact: -0.000501 → LEGITIMATE
+16.  is                  | Impact: -0.000501 → LEGITIMATE
+17.  inconsistent        | Impact: -0.000501 → LEGITIMATE
+18.  with                | Impact: -0.000501 → LEGITIMATE
+19.  income              | Impact: -0.000488 → LEGITIMATE
+20.  tax                 | Impact: -0.000488 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  gain                | Impact: 0.000383
+ 2.  ,                   | Impact: 0.000383
+ 3.  loss                | Impact: 0.000383
+ 4.  ,                   | Impact: 0.000383
+ 5.  s                   | Impact: 0.000360
+ 6.  steve               | Impact: 0.000332
+ 7.  paying              | Impact: 0.000315
+ 8.  such                | Impact: 0.000315
+ 9.  federal             | Impact: 0.000269
+10.  income              | Impact: 0.000269
+11.  tax                 | Impact: 0.000269
+12.  purposes            | Impact: 0.000269
+13.  ,                   | Impact: 0.000269
+14.  extent              | Impact: 0.000226
+15.  either              | Impact: 0.000226
+16.  of                  | Impact: 0.000226
+17.  the                 | Impact: 0.000226
+18.  parties             | Impact: 0.000226
+19.  is                  | Impact: 0.000226
+20.  required            | Impact: 0.000226
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.002488
+ 2.  en                  | Impact: -0.002178
+ 3.  en                  | Impact: -0.002033
+ 4. ron                  | Impact: -0.002033
+ 5. ron                  | Impact: -0.002012
+ 6.  en                  | Impact: -0.001984
+ 7.  re                  | Impact: -0.000843
+ 8.  ]                   | Impact: -0.000843
+ 9.  en                  | Impact: -0.000758
+10. ron                  | Impact: -0.000758
+11.  ]                   | Impact: -0.000588
+12.  ]                   | Impact: -0.000588
+13.  the                 | Impact: -0.000588
+14.  parties             | Impact: -0.000588
+15.  which               | Impact: -0.000501
+16.  is                  | Impact: -0.000501
+17.  inconsistent        | Impact: -0.000501
+18.  with                | Impact: -0.000501
+19.  income              | Impact: -0.000488
+20.  tax                 | Impact: -0.000488

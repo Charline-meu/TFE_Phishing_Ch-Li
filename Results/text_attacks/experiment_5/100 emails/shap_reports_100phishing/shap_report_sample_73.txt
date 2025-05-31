@@ -1,0 +1,70 @@
+Phishing Sample 73
+==================
+
+Sample text preview: FROM HIS ROYAL MAJESTY (HRM) CROWN RULER OF ELEME KINGDOM CHIEF DANIEL ELEME, PHD, EZE OF ELEME.E-MAIL ATTENTION:PRESIDENT,CEO Sir/ Madam. This letter...
+
+Model prediction: [1.6233917e-04 9.9983764e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.008986 → PHISHING
+ 2.  family              | Impact: 0.008986 → PHISHING
+ 3.  and                 | Impact: 0.008986 → PHISHING
+ 4.  ceo                 | Impact: 0.007735 → PHISHING
+ 5.  sir                 | Impact: 0.007735 → PHISHING
+ 6.  /                   | Impact: 0.007735 → PHISHING
+ 7.  madam               | Impact: 0.007735 → PHISHING
+ 8.  ben                 | Impact: 0.007717 → PHISHING
+ 9. ef                   | Impact: 0.007717 → PHISHING
+10. icia                 | Impact: 0.007717 → PHISHING
+11. ry                   | Impact: 0.007717 → PHISHING
+12.  ben                 | Impact: 0.005980 → PHISHING
+13. ef                   | Impact: 0.005980 → PHISHING
+14. icia                 | Impact: 0.005980 → PHISHING
+15. ry                   | Impact: 0.005980 → PHISHING
+16.  of                  | Impact: 0.005980 → PHISHING
+17.  the                 | Impact: 0.005980 → PHISHING
+18.  box                 | Impact: 0.005980 → PHISHING
+19.  is                  | Impact: 0.005980 → PHISHING
+20.  your                | Impact: 0.005426 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.008986
+ 2.  family              | Impact: 0.008986
+ 3.  and                 | Impact: 0.008986
+ 4.  ceo                 | Impact: 0.007735
+ 5.  sir                 | Impact: 0.007735
+ 6.  /                   | Impact: 0.007735
+ 7.  madam               | Impact: 0.007735
+ 8.  ben                 | Impact: 0.007717
+ 9. ef                   | Impact: 0.007717
+10. icia                 | Impact: 0.007717
+11. ry                   | Impact: 0.007717
+12.  ben                 | Impact: 0.005980
+13. ef                   | Impact: 0.005980
+14. icia                 | Impact: 0.005980
+15. ry                   | Impact: 0.005980
+16.  of                  | Impact: 0.005980
+17.  the                 | Impact: 0.005980
+18.  box                 | Impact: 0.005980
+19.  is                  | Impact: 0.005980
+20.  your                | Impact: 0.005426
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  forward             | Impact: -0.001186
+ 2. ed                   | Impact: -0.001186
+ 3.  to                  | Impact: -0.001186
+ 4.  the                 | Impact: -0.001186
+ 5.  firm                | Impact: -0.001186
+ 6.  when                | Impact: -0.001186
+ 7.  due                 | Impact: -0.001186
+ 8.  .                   | Impact: -0.001186
+ 9.  discuss             | Impact: -0.000488
+10.  physically          | Impact: -0.000488
+11.  on                  | Impact: -0.000488
+12.  investment          | Impact: -0.000488
+13.  potential           | Impact: -0.000488
+14. s                    | Impact: -0.000488
+15.  .                   | Impact: -0.000488

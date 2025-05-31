@@ -1,0 +1,65 @@
+Sample 12
+=========
+
+Sample text preview: Dear User Your mail has exceeded the storage limit. re-confirm� before hours to avoid ACCOUNT DE-ACTIVATION. To Re-validate the mailbox. Click Here Th...
+
+Model prediction: [2.1482259e-04 9.9978524e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.263011 → PHISHING
+ 2.  dear                | Impact: 0.095087 → PHISHING
+ 3.  activation          | Impact: 0.093725 → PHISHING
+ 4.  administrator       | Impact: 0.077103 → PHISHING
+ 5.  your                | Impact: 0.059371 → PHISHING
+ 6.  account             | Impact: 0.057316 → PHISHING
+ 7.  here                | Impact: 0.052836 → PHISHING
+ 8. box                  | Impact: 0.047412 → PHISHING
+ 9.  valid               | Impact: 0.046152 → PHISHING
+10.  thank               | Impact: -0.045478 → LEGITIMATE
+11.  mail                | Impact: 0.037261 → PHISHING
+12.  confirm             | Impact: 0.034491 → PHISHING
+13.  hours               | Impact: 0.034208 → PHISHING
+14.  mail                | Impact: 0.031022 → PHISHING
+15.  to                  | Impact: 0.027612 → PHISHING
+16.  user                | Impact: 0.027109 → PHISHING
+17.  storage             | Impact: 0.024791 → PHISHING
+18.  .                   | Impact: -0.019159 → LEGITIMATE
+19.  re                  | Impact: 0.017903 → PHISHING
+20.  limit               | Impact: 0.016105 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.263011
+ 2.  dear                | Impact: 0.095087
+ 3.  activation          | Impact: 0.093725
+ 4.  administrator       | Impact: 0.077103
+ 5.  your                | Impact: 0.059371
+ 6.  account             | Impact: 0.057316
+ 7.  here                | Impact: 0.052836
+ 8. box                  | Impact: 0.047412
+ 9.  valid               | Impact: 0.046152
+10.  mail                | Impact: 0.037261
+11.  confirm             | Impact: 0.034491
+12.  hours               | Impact: 0.034208
+13.  mail                | Impact: 0.031022
+14.  to                  | Impact: 0.027612
+15.  user                | Impact: 0.027109
+16.  storage             | Impact: 0.024791
+17.  re                  | Impact: 0.017903
+18.  limit               | Impact: 0.016105
+19.  exceeded            | Impact: 0.014576
+20.  avoid               | Impact: 0.009593
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thank               | Impact: -0.045478
+ 2.  .                   | Impact: -0.019159
+ 3. ate                  | Impact: -0.012187
+ 4.  the                 | Impact: -0.009539
+ 5.  has                 | Impact: -0.009016
+ 6.  -                   | Impact: -0.004907
+ 7.  .                   | Impact: -0.003756
+ 8.  -                   | Impact: -0.003161
+ 9.  .                   | Impact: -0.002890
+10.  the                 | Impact: -0.002668

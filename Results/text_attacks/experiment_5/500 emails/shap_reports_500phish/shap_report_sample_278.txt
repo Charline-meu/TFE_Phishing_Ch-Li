@@ -1,0 +1,75 @@
+Sample 278
+==========
+
+Sample text preview: Greetings, My name is RABI AL SALIH, wife of MAHAMMED MAHDI AL SALIH, the former Iraqi minister for Interior Affairs. I got your email address through...
+
+Model prediction: [1.5397719e-04 9.9984598e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  claim               | Impact: 0.010759 → PHISHING
+ 2.  the                 | Impact: 0.010759 → PHISHING
+ 3.  money               | Impact: 0.010759 → PHISHING
+ 4.  sincerely           | Impact: 0.008959 → PHISHING
+ 5.  number              | Impact: 0.007786 → PHISHING
+ 6.  yours               | Impact: 0.007620 → PHISHING
+ 7.  you                 | Impact: 0.006964 → PHISHING
+ 8.  proceed             | Impact: 0.006964 → PHISHING
+ 9.  to                  | Impact: 0.006964 → PHISHING
+10.  the                 | Impact: 0.006964 → PHISHING
+11.  my                  | Impact: 0.006696 → PHISHING
+12.  husband             | Impact: 0.006696 → PHISHING
+13.  security            | Impact: 0.006688 → PHISHING
+14.  company             | Impact: 0.006688 → PHISHING
+15.  and                 | Impact: 0.006688 → PHISHING
+16.  .                   | Impact: 0.006633 → PHISHING
+17.  india               | Impact: 0.006202 → PHISHING
+18.  mat                 | Impact: 0.006202 → PHISHING
+19. rim                  | Impact: 0.006202 → PHISHING
+20. ony                  | Impact: 0.006202 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  claim               | Impact: 0.010759
+ 2.  the                 | Impact: 0.010759
+ 3.  money               | Impact: 0.010759
+ 4.  sincerely           | Impact: 0.008959
+ 5.  number              | Impact: 0.007786
+ 6.  yours               | Impact: 0.007620
+ 7.  you                 | Impact: 0.006964
+ 8.  proceed             | Impact: 0.006964
+ 9.  to                  | Impact: 0.006964
+10.  the                 | Impact: 0.006964
+11.  my                  | Impact: 0.006696
+12.  husband             | Impact: 0.006696
+13.  security            | Impact: 0.006688
+14.  company             | Impact: 0.006688
+15.  and                 | Impact: 0.006688
+16.  .                   | Impact: 0.006633
+17.  india               | Impact: 0.006202
+18.  mat                 | Impact: 0.006202
+19. rim                  | Impact: 0.006202
+20. ony                  | Impact: 0.006202
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.000260
+ 2.  -                   | Impact: -0.000260
+ 3.  -                   | Impact: -0.000260
+ 4.  -                   | Impact: -0.000260
+ 5.  -                   | Impact: -0.000260
+ 6.  -                   | Impact: -0.000260
+ 7.  -                   | Impact: -0.000260
+ 8.  -                   | Impact: -0.000260
+ 9.  -                   | Impact: -0.000260
+10.  yahoo               | Impact: -0.000260
+11.  !                   | Impact: -0.000260
+12.  -                   | Impact: -0.000185
+13.  -                   | Impact: -0.000185
+14.  -                   | Impact: -0.000185
+15.  -                   | Impact: -0.000185
+16.  -                   | Impact: -0.000185
+17.  -                   | Impact: -0.000185
+18.  -                   | Impact: -0.000185
+19.  -                   | Impact: -0.000185
+20.  -                   | Impact: -0.000185

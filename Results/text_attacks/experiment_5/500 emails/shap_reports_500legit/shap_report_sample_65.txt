@@ -1,0 +1,75 @@
+Sample 65
+=========
+
+Sample text preview: Joe, I looked at the sheet, and I think it will be very helpful. When I open it however, its giving me an error message - "error updating database." a...
+
+Model prediction: [9.9978513e-01 2.1493711e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  joe                 | Impact: -0.009374 → LEGITIMATE
+ 2.  spreads             | Impact: -0.006943 → LEGITIMATE
+ 3. hee                  | Impact: -0.006943 → LEGITIMATE
+ 4.                      | Impact: -0.005831 → LEGITIMATE
+ 5.  ideas               | Impact: -0.005232 → LEGITIMATE
+ 6.  sheet               | Impact: -0.004254 → LEGITIMATE
+ 7.  can                 | Impact: -0.003069 → LEGITIMATE
+ 8.  update              | Impact: -0.003069 → LEGITIMATE
+ 9.  open                | Impact: -0.002369 → LEGITIMATE
+10.  it                  | Impact: -0.002369 → LEGITIMATE
+11.  look                | Impact: -0.002361 → LEGITIMATE
+12.  at                  | Impact: -0.002361 → LEGITIMATE
+13.  i                   | Impact: -0.002307 → LEGITIMATE
+14.  think               | Impact: -0.002307 → LEGITIMATE
+15.  any                 | Impact: -0.002225 → LEGITIMATE
+16.  however             | Impact: -0.002149 → LEGITIMATE
+17.  be                  | Impact: -0.002116 → LEGITIMATE
+18.  very                | Impact: -0.002116 → LEGITIMATE
+19.  it                  | Impact: -0.002113 → LEGITIMATE
+20.  will                | Impact: -0.002113 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  castle              | Impact: 0.001906
+ 2. n                    | Impact: 0.001906
+ 3.  anna                | Impact: 0.001486
+ 4.  ?                   | Impact: 0.001472
+ 5.  !                   | Impact: 0.001020
+ 6.  sant                | Impact: 0.000919
+ 7. ucci                 | Impact: 0.000919
+ 8.  na                  | Impact: 0.000848
+ 9. rs                   | Impact: 0.000848
+10. im                   | Impact: 0.000848
+11. ha                   | Impact: 0.000848
+12.  and                 | Impact: 0.000830
+13.  up                  | Impact: 0.000600
+14. dating               | Impact: 0.000600
+15.  database            | Impact: 0.000600
+16.  and                 | Impact: 0.000518
+17.  na                  | Impact: 0.000446
+18. rs                   | Impact: 0.000446
+19. im                   | Impact: 0.000446
+20. ha                   | Impact: 0.000446
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  joe                 | Impact: -0.009374
+ 2.  spreads             | Impact: -0.006943
+ 3. hee                  | Impact: -0.006943
+ 4.                      | Impact: -0.005831
+ 5.  ideas               | Impact: -0.005232
+ 6.  sheet               | Impact: -0.004254
+ 7.  can                 | Impact: -0.003069
+ 8.  update              | Impact: -0.003069
+ 9.  open                | Impact: -0.002369
+10.  it                  | Impact: -0.002369
+11.  look                | Impact: -0.002361
+12.  at                  | Impact: -0.002361
+13.  i                   | Impact: -0.002307
+14.  think               | Impact: -0.002307
+15.  any                 | Impact: -0.002225
+16.  however             | Impact: -0.002149
+17.  be                  | Impact: -0.002116
+18.  very                | Impact: -0.002116
+19.  it                  | Impact: -0.002113
+20.  will                | Impact: -0.002113

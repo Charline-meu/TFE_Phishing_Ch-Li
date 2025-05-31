@@ -1,0 +1,75 @@
+Phishing Sample 5
+=================
+
+Sample text preview: ----- Forwarded by Robert Klueber/NYISO on // : AM ----- |--------+-----------------------> | | Robert | | | Klueber | | | | | | // | | | : AM | | | |...
+
+Model prediction: [9.9975222e-01 2.4774869e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  kristen             | Impact: -0.004046 → LEGITIMATE
+ 2.  forward             | Impact: -0.002370 → LEGITIMATE
+ 3. ed                   | Impact: -0.002370 → LEGITIMATE
+ 4.  by                  | Impact: -0.002321 → LEGITIMATE
+ 5.  robert              | Impact: -0.002321 → LEGITIMATE
+ 6.  by                  | Impact: -0.001835 → LEGITIMATE
+ 7.  robert              | Impact: -0.001817 → LEGITIMATE
+ 8.  |                   | Impact: -0.001817 → LEGITIMATE
+ 9.  forward             | Impact: -0.001816 → LEGITIMATE
+10. ed                   | Impact: -0.001816 → LEGITIMATE
+11. eber                 | Impact: -0.001768 → LEGITIMATE
+12.  to                  | Impact: -0.001726 → LEGITIMATE
+13.  :                   | Impact: -0.001726 → LEGITIMATE
+14.  ernie               | Impact: -0.001726 → LEGITIMATE
+15.  card                | Impact: -0.001726 → LEGITIMATE
+16. one                  | Impact: -0.001726 → LEGITIMATE
+17.  /                   | Impact: -0.001726 → LEGITIMATE
+18.  k                   | Impact: -0.001659 → LEGITIMATE
+19. lu                   | Impact: -0.001659 → LEGITIMATE
+20. eber                 | Impact: -0.001659 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  |                   | Impact: 0.001260
+ 2.  |                   | Impact: 0.001260
+ 3.  |                   | Impact: 0.001260
+ 4.  |                   | Impact: 0.001260
+ 5.  |                   | Impact: 0.001100
+ 6.  |                   | Impact: 0.001100
+ 7.  |                   | Impact: 0.001100
+ 8.  |                   | Impact: 0.001100
+ 9.  |                   | Impact: 0.000918
+10.  |                   | Impact: 0.000918
+11.  /                   | Impact: 0.000918
+12.  /                   | Impact: 0.000918
+13.  |                   | Impact: 0.000734
+14.  |                   | Impact: 0.000734
+15.  |                   | Impact: 0.000734
+16.  :                   | Impact: 0.000734
+17.  am                  | Impact: 0.000734
+18.  |                   | Impact: 0.000734
+19.  |                   | Impact: 0.000734
+20.  |                   | Impact: 0.000734
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  kristen             | Impact: -0.004046
+ 2.  forward             | Impact: -0.002370
+ 3. ed                   | Impact: -0.002370
+ 4.  by                  | Impact: -0.002321
+ 5.  robert              | Impact: -0.002321
+ 6.  by                  | Impact: -0.001835
+ 7.  robert              | Impact: -0.001817
+ 8.  |                   | Impact: -0.001817
+ 9.  forward             | Impact: -0.001816
+10. ed                   | Impact: -0.001816
+11. eber                 | Impact: -0.001768
+12.  to                  | Impact: -0.001726
+13.  :                   | Impact: -0.001726
+14.  ernie               | Impact: -0.001726
+15.  card                | Impact: -0.001726
+16. one                  | Impact: -0.001726
+17.  /                   | Impact: -0.001726
+18.  k                   | Impact: -0.001659
+19. lu                   | Impact: -0.001659
+20. eber                 | Impact: -0.001659

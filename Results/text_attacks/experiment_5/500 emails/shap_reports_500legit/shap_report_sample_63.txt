@@ -1,0 +1,75 @@
+Sample 63
+=========
+
+Sample text preview: Tana: Neither Constellation Energy Source, Inc. nor Northern States Power Company is authorized to trade U.S. power products (Both were restricted by ...
+
+Model prediction: [9.9967158e-01 3.2844272e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  energy              | Impact: -0.031343 → LEGITIMATE
+ 2.  service             | Impact: -0.017335 → LEGITIMATE
+ 3.  leslie              | Impact: 0.009873 → PHISHING
+ 4.  (                   | Impact: 0.007037 → PHISHING
+ 5.  .                   | Impact: -0.006063 → LEGITIMATE
+ 6.  products            | Impact: -0.004553 → LEGITIMATE
+ 7.  authorized          | Impact: -0.004488 → LEGITIMATE
+ 8.  power               | Impact: -0.004204 → LEGITIMATE
+ 9.  but                 | Impact: -0.004169 → LEGITIMATE
+10.  .                   | Impact: -0.003817 → LEGITIMATE
+11.  letter              | Impact: -0.003658 → LEGITIMATE
+12.  inc                 | Impact: 0.003629 → PHISHING
+13.  agreement           | Impact: -0.003606 → LEGITIMATE
+14.  receipt             | Impact: -0.003596 → LEGITIMATE
+15.  .                   | Impact: -0.003499 → LEGITIMATE
+16.  u                   | Impact: 0.003447 → PHISHING
+17.  .                   | Impact: 0.003447 → PHISHING
+18.  .                   | Impact: -0.003399 → LEGITIMATE
+19.  power               | Impact: -0.003376 → LEGITIMATE
+20.  only                | Impact: -0.003075 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  leslie              | Impact: 0.009873
+ 2.  (                   | Impact: 0.007037
+ 3.  inc                 | Impact: 0.003629
+ 4.  u                   | Impact: 0.003447
+ 5.  .                   | Impact: 0.003447
+ 6.  hq                  | Impact: 0.002595
+ 7.  )                   | Impact: 0.002567
+ 8.  u                   | Impact: 0.002061
+ 9.  inc                 | Impact: 0.001773
+10.  *                   | Impact: 0.001765
+11.  s                   | Impact: 0.001295
+12.  .                   | Impact: 0.001295
+13.  company             | Impact: 0.001157
+14.  is                  | Impact: 0.001157
+15.  .                   | Impact: 0.001101
+16.  s                   | Impact: 0.001099
+17.  credit              | Impact: 0.000828
+18.  )                   | Impact: 0.000828
+19.  trade               | Impact: 0.000790
+20.  u                   | Impact: 0.000790
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  energy              | Impact: -0.031343
+ 2.  service             | Impact: -0.017335
+ 3.  .                   | Impact: -0.006063
+ 4.  products            | Impact: -0.004553
+ 5.  authorized          | Impact: -0.004488
+ 6.  power               | Impact: -0.004204
+ 7.  but                 | Impact: -0.004169
+ 8.  .                   | Impact: -0.003817
+ 9.  letter              | Impact: -0.003658
+10.  agreement           | Impact: -0.003606
+11.  receipt             | Impact: -0.003596
+12.  .                   | Impact: -0.003499
+13.  .                   | Impact: -0.003399
+14.  power               | Impact: -0.003376
+15.  only                | Impact: -0.003075
+16.  pursuant            | Impact: -0.003075
+17.  over                | Impact: -0.003002
+18. ride                 | Impact: -0.003002
+19.  after               | Impact: -0.002860
+20.  pursuant            | Impact: -0.002528

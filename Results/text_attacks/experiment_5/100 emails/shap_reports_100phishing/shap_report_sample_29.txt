@@ -1,0 +1,75 @@
+Phishing Sample 29
+==================
+
+Sample text preview: Dear Friend, I am Mrs Nenita Villaran-a citizen of philippine, widow , and legitimate heir to the late former Minister of finance who was assassinated...
+
+Model prediction: [1.8000210e-04 9.9982005e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  investment          | Impact: 0.016892 → PHISHING
+ 2.  in                  | Impact: 0.016892 → PHISHING
+ 3.  your                | Impact: 0.016307 → PHISHING
+ 4.  domain              | Impact: 0.016307 → PHISHING
+ 5.  you                 | Impact: 0.010820 → PHISHING
+ 6.  to                  | Impact: 0.010820 → PHISHING
+ 7.  give                | Impact: 0.010464 → PHISHING
+ 8.  you                 | Impact: 0.010464 → PHISHING
+ 9.  the                 | Impact: 0.010127 → PHISHING
+10.  money               | Impact: 0.010127 → PHISHING
+11.  wishes              | Impact: 0.010083 → PHISHING
+12.  madam               | Impact: 0.010083 → PHISHING
+13.  %                   | Impact: 0.008803 → PHISHING
+14.  of                  | Impact: 0.008803 → PHISHING
+15.  approved            | Impact: 0.008648 → PHISHING
+16.  the                 | Impact: 0.008648 → PHISHING
+17.  shipment            | Impact: 0.008648 → PHISHING
+18.  widow               | Impact: 0.008558 → PHISHING
+19.  friend              | Impact: 0.008207 → PHISHING
+20.  shipping            | Impact: 0.008128 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  investment          | Impact: 0.016892
+ 2.  in                  | Impact: 0.016892
+ 3.  your                | Impact: 0.016307
+ 4.  domain              | Impact: 0.016307
+ 5.  you                 | Impact: 0.010820
+ 6.  to                  | Impact: 0.010820
+ 7.  give                | Impact: 0.010464
+ 8.  you                 | Impact: 0.010464
+ 9.  the                 | Impact: 0.010127
+10.  money               | Impact: 0.010127
+11.  wishes              | Impact: 0.010083
+12.  madam               | Impact: 0.010083
+13.  %                   | Impact: 0.008803
+14.  of                  | Impact: 0.008803
+15.  approved            | Impact: 0.008648
+16.  the                 | Impact: 0.008648
+17.  shipment            | Impact: 0.008648
+18.  widow               | Impact: 0.008558
+19.  friend              | Impact: 0.008207
+20.  shipping            | Impact: 0.008128
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.004308
+ 2.  -                   | Impact: -0.004308
+ 3.  -                   | Impact: -0.004308
+ 4.  -                   | Impact: -0.004308
+ 5.  -                   | Impact: -0.004308
+ 6.  app                 | Impact: -0.002343
+ 7. el                   | Impact: -0.002343
+ 8.  audio               | Impact: -0.002343
+ 9.  -                   | Impact: -0.001838
+10.  -                   | Impact: -0.001838
+11.  -                   | Impact: -0.001838
+12.  -                   | Impact: -0.001838
+13.  -                   | Impact: -0.001794
+14.  -                   | Impact: -0.001794
+15.  -                   | Impact: -0.001794
+16.  -                   | Impact: -0.001794
+17.  villa               | Impact: -0.001493
+18. ran                  | Impact: -0.001493
+19.  .                   | Impact: -0.001493
+20.  -                   | Impact: -0.001239

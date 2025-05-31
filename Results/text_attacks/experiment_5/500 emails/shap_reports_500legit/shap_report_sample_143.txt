@@ -1,0 +1,75 @@
+Sample 143
+==========
+
+Sample text preview: FREE SHIPPING ORDERS OVER € [whispering willows]( Our seasonal story sets sail on a soft summer breeze; a picturesque adventure to the riverbank, wher...
+
+Model prediction: [9.9967849e-01 3.2150396e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  €                   | Impact: -0.011463 → LEGITIMATE
+ 2.  charlotte           | Impact: 0.008744 → PHISHING
+ 3.  image               | Impact: -0.008298 → LEGITIMATE
+ 4.  €                   | Impact: -0.005831 → LEGITIMATE
+ 5.  €                   | Impact: -0.005292 → LEGITIMATE
+ 6.  [                   | Impact: -0.004513 → LEGITIMATE
+ 7.  [                   | Impact: -0.003936 → LEGITIMATE
+ 8.  image               | Impact: -0.003936 → LEGITIMATE
+ 9.  eu                  | Impact: -0.003909 → LEGITIMATE
+10.  bishops             | Impact: -0.003909 → LEGITIMATE
+11.  ]                   | Impact: -0.003737 → LEGITIMATE
+12.  image               | Impact: -0.003396 → LEGITIMATE
+13.  green               | Impact: -0.003285 → LEGITIMATE
+14.  ]                   | Impact: -0.003274 → LEGITIMATE
+15.  [                   | Impact: -0.003088 → LEGITIMATE
+16.  fable               | Impact: -0.003056 → LEGITIMATE
+17.  england             | Impact: -0.003056 → LEGITIMATE
+18.  over                | Impact: -0.003023 → LEGITIMATE
+19.  bag                 | Impact: -0.003002 → LEGITIMATE
+20.  embroidered         | Impact: -0.003002 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  charlotte           | Impact: 0.008744
+ 2.  el                  | Impact: 0.002644
+ 3.  inn                 | Impact: 0.001644
+ 4.  ,                   | Impact: 0.001644
+ 5.  martha              | Impact: 0.001398
+ 6.  martha              | Impact: 0.000786
+ 7.  large               | Impact: 0.000786
+ 8.  backpack            | Impact: 0.000786
+ 9.  of                  | Impact: 0.000786
+10.  charlotte           | Impact: 0.000547
+11.  camera              | Impact: 0.000547
+12.  bag                 | Impact: 0.000547
+13.  (                   | Impact: 0.000518
+14.  (                   | Impact: 0.000431
+15.  (                   | Impact: 0.000370
+16.  our                 | Impact: 0.000370
+17.  seasonal            | Impact: 0.000370
+18.  story               | Impact: 0.000370
+19.  sets                | Impact: 0.000370
+20.  .                   | Impact: 0.000273
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  €                   | Impact: -0.011463
+ 2.  image               | Impact: -0.008298
+ 3.  €                   | Impact: -0.005831
+ 4.  €                   | Impact: -0.005292
+ 5.  [                   | Impact: -0.004513
+ 6.  [                   | Impact: -0.003936
+ 7.  image               | Impact: -0.003936
+ 8.  eu                  | Impact: -0.003909
+ 9.  bishops             | Impact: -0.003909
+10.  ]                   | Impact: -0.003737
+11.  image               | Impact: -0.003396
+12.  green               | Impact: -0.003285
+13.  ]                   | Impact: -0.003274
+14.  [                   | Impact: -0.003088
+15.  fable               | Impact: -0.003056
+16.  england             | Impact: -0.003056
+17.  over                | Impact: -0.003023
+18.  bag                 | Impact: -0.003002
+19.  embroidered         | Impact: -0.003002
+20.  ]                   | Impact: -0.002942

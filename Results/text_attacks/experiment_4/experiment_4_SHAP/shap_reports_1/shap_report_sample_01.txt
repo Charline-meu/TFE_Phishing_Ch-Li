@@ -1,0 +1,75 @@
+Phishing Sample 1
+=================
+
+Sample text preview: ************************* Blocked Incoming Messages ************************* Dear , Incoming messages were blocked due to Email Account Verification ...
+
+Model prediction: [2.0207684e-04 9.9979800e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.044433 → PHISHING
+ 2.  email               | Impact: 0.044186 → PHISHING
+ 3.  account             | Impact: 0.041307 → PHISHING
+ 4.  you                 | Impact: 0.037633 → PHISHING
+ 5.  incoming            | Impact: 0.019534 → PHISHING
+ 6.  messages            | Impact: 0.019534 → PHISHING
+ 7.  were                | Impact: 0.018561 → PHISHING
+ 8.  blocked             | Impact: 0.018561 → PHISHING
+ 9.  by                  | Impact: 0.016743 → PHISHING
+10.  due                 | Impact: 0.016325 → PHISHING
+11.  to                  | Impact: 0.016325 → PHISHING
+12.  blocked             | Impact: 0.013963 → PHISHING
+13.  incoming            | Impact: 0.013963 → PHISHING
+14.  to                  | Impact: 0.012347 → PHISHING
+15.  verify              | Impact: 0.012347 → PHISHING
+16.  your                | Impact: 0.012347 → PHISHING
+17.  mail                | Impact: 0.012347 → PHISHING
+18.  qu                  | Impact: 0.012220 → PHISHING
+19. aran                 | Impact: 0.012220 → PHISHING
+20.  to                  | Impact: 0.012067 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.044433
+ 2.  email               | Impact: 0.044186
+ 3.  account             | Impact: 0.041307
+ 4.  you                 | Impact: 0.037633
+ 5.  incoming            | Impact: 0.019534
+ 6.  messages            | Impact: 0.019534
+ 7.  were                | Impact: 0.018561
+ 8.  blocked             | Impact: 0.018561
+ 9.  by                  | Impact: 0.016743
+10.  due                 | Impact: 0.016325
+11.  to                  | Impact: 0.016325
+12.  blocked             | Impact: 0.013963
+13.  incoming            | Impact: 0.013963
+14.  to                  | Impact: 0.012347
+15.  verify              | Impact: 0.012347
+16.  your                | Impact: 0.012347
+17.  mail                | Impact: 0.012347
+18.  qu                  | Impact: 0.012220
+19. aran                 | Impact: 0.012220
+20.  to                  | Impact: 0.012067
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.004209
+ 2.  )                   | Impact: -0.004209
+ 3.  preferences         | Impact: -0.003651
+ 4.  (                   | Impact: -0.003651
+ 5.  )                   | Impact: -0.003651
+ 6.  ,                   | Impact: -0.003407
+ 7.  -                   | Impact: -0.003165
+ 8.  suite               | Impact: -0.002587
+ 9.  ,                   | Impact: -0.002587
+10.  miami               | Impact: -0.002587
+11.  ,                   | Impact: -0.002587
+12.  m                   | Impact: -0.002585
+13.  .                   | Impact: -0.002585
+14.  b                   | Impact: -0.002168
+15. ld                   | Impact: -0.002168
+16. g                    | Impact: -0.002168
+17.  ,                   | Impact: -0.002168
+18.                      | Impact: -0.001716
+19.  m                   | Impact: -0.001688
+20.  .                   | Impact: -0.001688

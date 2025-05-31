@@ -1,0 +1,75 @@
+Sample 31
+=========
+
+Sample text preview: FROM RICHARD AND Janet Dear sir, I am Sanko Richard the only son of late former Director of finance, Dr Johnson Sanko of Sierra-Leone diamond and mini...
+
+Model prediction: [1.6294555e-04 9.9983704e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  contact             | Impact: 0.007140 → PHISHING
+ 2.  me                  | Impact: 0.007140 → PHISHING
+ 3.  on                  | Impact: 0.007140 → PHISHING
+ 4.  dear                | Impact: 0.007140 → PHISHING
+ 5.  sir                 | Impact: 0.007140 → PHISHING
+ 6.  ,                   | Impact: 0.007140 → PHISHING
+ 7.  dr                  | Impact: 0.005973 → PHISHING
+ 8.  johnson             | Impact: 0.005973 → PHISHING
+ 9.  sank                | Impact: 0.005973 → PHISHING
+10. o                    | Impact: 0.005973 → PHISHING
+11.  of                  | Impact: 0.005973 → PHISHING
+12.  sierra              | Impact: 0.005973 → PHISHING
+13.  -                   | Impact: 0.005973 → PHISHING
+14.  leone               | Impact: 0.005973 → PHISHING
+15.  diamond             | Impact: 0.005973 → PHISHING
+16.  and                 | Impact: 0.005973 → PHISHING
+17.  mining              | Impact: 0.005973 → PHISHING
+18.  corporation         | Impact: 0.005973 → PHISHING
+19.  .                   | Impact: 0.005973 → PHISHING
+20.  of                  | Impact: 0.005595 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.007140
+ 2.  me                  | Impact: 0.007140
+ 3.  on                  | Impact: 0.007140
+ 4.  dear                | Impact: 0.007140
+ 5.  sir                 | Impact: 0.007140
+ 6.  ,                   | Impact: 0.007140
+ 7.  dr                  | Impact: 0.005973
+ 8.  johnson             | Impact: 0.005973
+ 9.  sank                | Impact: 0.005973
+10. o                    | Impact: 0.005973
+11.  of                  | Impact: 0.005973
+12.  sierra              | Impact: 0.005973
+13.  -                   | Impact: 0.005973
+14.  leone               | Impact: 0.005973
+15.  diamond             | Impact: 0.005973
+16.  and                 | Impact: 0.005973
+17.  mining              | Impact: 0.005973
+18.  corporation         | Impact: 0.005973
+19.  .                   | Impact: 0.005973
+20.  of                  | Impact: 0.005595
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  of                  | Impact: -0.000000
+ 2.  %                   | Impact: -0.000000
+ 3.  johns               | Impact: -0.000000
+ 4. o                    | Impact: -0.000000
+ 5.  n                   | Impact: -0.000000
+ 6.  clarify             | Impact: -0.000000
+ 7.  because             | Impact: -0.000000
+ 8.  ,                   | Impact: -0.000000
+ 9.  money               | Impact: -0.000000
+10.  amount              | Impact: -0.000000
+11.  ,                   | Impact: -0.000000
+12.  expenses            | Impact: -0.000000
+13.  you                 | Impact: -0.000000
+14.  might               | Impact: -0.000000
+15.  during              | Impact: -0.000000
+16.  this                | Impact: -0.000000
+17.  transaction         | Impact: -0.000000
+18.  .                   | Impact: -0.000000
+19.  johns               | Impact: -0.000000
+20. o                    | Impact: -0.000000

@@ -1,0 +1,75 @@
+Phishing Sample 44
+==================
+
+Sample text preview: Can we do the call at : Houston time? Sara Shackleton // : PM To: Mark Taylor/HOU/ECT@ECT cc: Subject: Telephone conference Brent, Andrea and I were h...
+
+Model prediction: [9.9975520e-01 2.4485303e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wed                 | Impact: 0.013500 → PHISHING
+ 2.  brent               | Impact: -0.010557 → LEGITIMATE
+ 3.  brazil              | Impact: 0.007379 → PHISHING
+ 4.  tomorrow            | Impact: 0.005433 → PHISHING
+ 5.  /                   | Impact: -0.004518 → LEGITIMATE
+ 6.  we                  | Impact: 0.004034 → PHISHING
+ 7.  trying              | Impact: -0.003752 → LEGITIMATE
+ 8.  business            | Impact: 0.003715 → PHISHING
+ 9.  commerce            | Impact: -0.003565 → LEGITIMATE
+10.  meet                | Impact: 0.003266 → PHISHING
+11.  alternative         | Impact: -0.002904 → LEGITIMATE
+12.  still               | Impact: -0.002506 → LEGITIMATE
+13.  with                | Impact: 0.002344 → PHISHING
+14.  chamber             | Impact: -0.002097 → LEGITIMATE
+15.  of                  | Impact: -0.002097 → LEGITIMATE
+16.  yao                 | Impact: -0.001929 → LEGITIMATE
+17.  etc                 | Impact: -0.001798 → LEGITIMATE
+18.  ,                   | Impact: -0.001623 → LEGITIMATE
+19.  times               | Impact: -0.001549 → LEGITIMATE
+20.  sara                | Impact: -0.001530 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  wed                 | Impact: 0.013500
+ 2.  brazil              | Impact: 0.007379
+ 3.  tomorrow            | Impact: 0.005433
+ 4.  we                  | Impact: 0.004034
+ 5.  business            | Impact: 0.003715
+ 6.  meet                | Impact: 0.003266
+ 7.  with                | Impact: 0.002344
+ 8.  please              | Impact: 0.001467
+ 9.  to                  | Impact: 0.001224
+10.  ?                   | Impact: 0.001089
+11.  let                 | Impact: 0.001020
+12.  the                 | Impact: 0.000668
+13.  american            | Impact: 0.000668
+14.  me                  | Impact: 0.000639
+15.  .                   | Impact: 0.000622
+16.  .                   | Impact: 0.000614
+17.  the                 | Impact: 0.000596
+18.  are                 | Impact: 0.000506
+19.  .                   | Impact: 0.000446
+20.  track               | Impact: 0.000260
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  brent               | Impact: -0.010557
+ 2.  /                   | Impact: -0.004518
+ 3.  trying              | Impact: -0.003752
+ 4.  commerce            | Impact: -0.003565
+ 5.  alternative         | Impact: -0.002904
+ 6.  still               | Impact: -0.002506
+ 7.  chamber             | Impact: -0.002097
+ 8.  of                  | Impact: -0.002097
+ 9.  yao                 | Impact: -0.001929
+10.  etc                 | Impact: -0.001798
+11.  ,                   | Impact: -0.001623
+12.  times               | Impact: -0.001549
+13.  sara                | Impact: -0.001530
+14.  get                 | Impact: -0.001520
+15.  our                 | Impact: -0.001100
+16.  if                  | Impact: -0.000858
+17.  you                 | Impact: -0.000858
+18.  or                  | Impact: -0.000816
+19.  thursday            | Impact: -0.000791
+20.  with                | Impact: -0.000791

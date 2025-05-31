@@ -1,0 +1,61 @@
+Sample 15
+=========
+
+Sample text preview: Dear user Due to the congestion in all users accounts, Would be shutting down all unused accounts. click here< to activate Your account Now. Sincerely...
+
+Model prediction: [1.6726267e-04 9.9983275e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sincerely           | Impact: 0.132109 → PHISHING
+ 2.  dear                | Impact: 0.124757 → PHISHING
+ 3.  click               | Impact: 0.092435 → PHISHING
+ 4.  accounts            | Impact: 0.086524 → PHISHING
+ 5.  users               | Impact: 0.081139 → PHISHING
+ 6.  accounts            | Impact: 0.063423 → PHISHING
+ 7.  activate            | Impact: 0.051283 → PHISHING
+ 8.  shutting            | Impact: 0.035833 → PHISHING
+ 9.  user                | Impact: 0.034967 → PHISHING
+10.  desk                | Impact: 0.034905 → PHISHING
+11.  it                  | Impact: 0.030608 → PHISHING
+12.  due                 | Impact: 0.028939 → PHISHING
+13.  account             | Impact: 0.028135 → PHISHING
+14.  here                | Impact: 0.025128 → PHISHING
+15.  now                 | Impact: 0.023871 → PHISHING
+16.  desk                | Impact: 0.022901 → PHISHING
+17.  your                | Impact: 0.021161 → PHISHING
+18.  service             | Impact: 0.016860 → PHISHING
+19.  all                 | Impact: 0.016020 → PHISHING
+20.  would               | Impact: 0.014975 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sincerely           | Impact: 0.132109
+ 2.  dear                | Impact: 0.124757
+ 3.  click               | Impact: 0.092435
+ 4.  accounts            | Impact: 0.086524
+ 5.  users               | Impact: 0.081139
+ 6.  accounts            | Impact: 0.063423
+ 7.  activate            | Impact: 0.051283
+ 8.  shutting            | Impact: 0.035833
+ 9.  user                | Impact: 0.034967
+10.  desk                | Impact: 0.034905
+11.  it                  | Impact: 0.030608
+12.  due                 | Impact: 0.028939
+13.  account             | Impact: 0.028135
+14.  here                | Impact: 0.025128
+15.  now                 | Impact: 0.023871
+16.  desk                | Impact: 0.022901
+17.  your                | Impact: 0.021161
+18.  service             | Impact: 0.016860
+19.  all                 | Impact: 0.016020
+20.  would               | Impact: 0.014975
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ,                   | Impact: -0.014713
+ 2.  to                  | Impact: -0.013017
+ 3.  the                 | Impact: -0.010453
+ 4.  in                  | Impact: -0.005867
+ 5.  -                   | Impact: -0.005523
+ 6.  down                | Impact: -0.002645

@@ -1,0 +1,73 @@
+Sample 204
+==========
+
+Sample text preview: We have updated your contact information For details about what changed, sign on to Messages and Alerts. To view the updates, or make additional updat...
+
+Model prediction: [2.930036e-04 9.997069e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sun                 | Impact: -0.050923 → LEGITIMATE
+ 2.  contact             | Impact: 0.045138 → PHISHING
+ 3.  contact             | Impact: 0.041936 → PHISHING
+ 4.  bank                | Impact: 0.040346 → PHISHING
+ 5.  your                | Impact: 0.040329 → PHISHING
+ 6.  your                | Impact: 0.037073 → PHISHING
+ 7.  update              | Impact: 0.034237 → PHISHING
+ 8.  your                | Impact: 0.030007 → PHISHING
+ 9.  information         | Impact: 0.027639 → PHISHING
+10.  updated             | Impact: 0.024749 → PHISHING
+11.  verify              | Impact: 0.020906 → PHISHING
+12.  link                | Impact: 0.020505 → PHISHING
+13.  sign                | Impact: 0.019805 → PHISHING
+14.  messages            | Impact: 0.019063 → PHISHING
+15.  below               | Impact: 0.018881 → PHISHING
+16.  to                  | Impact: 0.018026 → PHISHING
+17.  on                  | Impact: 0.017035 → PHISHING
+18.  immediately         | Impact: 0.017035 → PHISHING
+19.  have                | Impact: 0.016087 → PHISHING
+20.  fraud               | Impact: 0.015884 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.045138
+ 2.  contact             | Impact: 0.041936
+ 3.  bank                | Impact: 0.040346
+ 4.  your                | Impact: 0.040329
+ 5.  your                | Impact: 0.037073
+ 6.  update              | Impact: 0.034237
+ 7.  your                | Impact: 0.030007
+ 8.  information         | Impact: 0.027639
+ 9.  updated             | Impact: 0.024749
+10.  verify              | Impact: 0.020906
+11.  link                | Impact: 0.020505
+12.  sign                | Impact: 0.019805
+13.  messages            | Impact: 0.019063
+14.  below               | Impact: 0.018881
+15.  to                  | Impact: 0.018026
+16.  on                  | Impact: 0.017035
+17.  immediately         | Impact: 0.017035
+18.  have                | Impact: 0.016087
+19.  fraud               | Impact: 0.015884
+20.  your                | Impact: 0.015577
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  sun                 | Impact: -0.050923
+ 2. trust                | Impact: -0.015586
+ 3.  or                  | Impact: -0.014802
+ 4.  sun                 | Impact: -0.007060
+ 5. trust                | Impact: -0.007060
+ 6.  store               | Impact: -0.007060
+ 7.  ,                   | Impact: -0.007060
+ 8.  changed             | Impact: -0.005877
+ 9.  what                | Impact: -0.005664
+10.  ,                   | Impact: -0.004656
+11.  ,                   | Impact: -0.003763
+12.  .                   | Impact: -0.003142
+13.  unit                | Impact: -0.002069
+14.  legal               | Impact: -0.002069
+15.  advisor             | Impact: -0.002069
+16.  or                  | Impact: -0.002009
+17.  at                  | Impact: -0.002009
+18.  a                   | Impact: -0.002009

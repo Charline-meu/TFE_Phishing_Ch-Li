@@ -1,0 +1,55 @@
+Sample 315
+==========
+
+Sample text preview: bom . feb , mar . , , . q . feb dec and away ciao
+
+Model prediction: [9.9946147e-01 5.3853897e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  away                | Impact: 0.116549 → PHISHING
+ 2.  feb                 | Impact: -0.104301 → LEGITIMATE
+ 3.  dec                 | Impact: -0.058090 → LEGITIMATE
+ 4.  feb                 | Impact: -0.028764 → LEGITIMATE
+ 5.  cia                 | Impact: 0.026541 → PHISHING
+ 6.  bo                  | Impact: -0.024094 → LEGITIMATE
+ 7.  and                 | Impact: -0.013705 → LEGITIMATE
+ 8.  .                   | Impact: -0.012068 → LEGITIMATE
+ 9.  .                   | Impact: -0.011554 → LEGITIMATE
+10.  .                   | Impact: -0.010432 → LEGITIMATE
+11.  .                   | Impact: -0.009298 → LEGITIMATE
+12.  ,                   | Impact: 0.007767 → PHISHING
+13.  mar                 | Impact: -0.006922 → LEGITIMATE
+14.  ,                   | Impact: -0.006452 → LEGITIMATE
+15.  ,                   | Impact: -0.005252 → LEGITIMATE
+16.  q                   | Impact: -0.004130 → LEGITIMATE
+17. m                    | Impact: 0.004057 → PHISHING
+18. o                    | Impact: 0.000149 → PHISHING
+19.                      | Impact: 0.000000 → PHISHING
+20.                      | Impact: 0.000000 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  away                | Impact: 0.116549
+ 2.  cia                 | Impact: 0.026541
+ 3.  ,                   | Impact: 0.007767
+ 4. m                    | Impact: 0.004057
+ 5. o                    | Impact: 0.000149
+ 6.                      | Impact: 0.000000
+ 7.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  feb                 | Impact: -0.104301
+ 2.  dec                 | Impact: -0.058090
+ 3.  feb                 | Impact: -0.028764
+ 4.  bo                  | Impact: -0.024094
+ 5.  and                 | Impact: -0.013705
+ 6.  .                   | Impact: -0.012068
+ 7.  .                   | Impact: -0.011554
+ 8.  .                   | Impact: -0.010432
+ 9.  .                   | Impact: -0.009298
+10.  mar                 | Impact: -0.006922
+11.  ,                   | Impact: -0.006452
+12.  ,                   | Impact: -0.005252
+13.  q                   | Impact: -0.004130

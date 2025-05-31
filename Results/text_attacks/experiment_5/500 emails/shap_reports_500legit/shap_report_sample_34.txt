@@ -1,0 +1,75 @@
+Sample 34
+=========
+
+Sample text preview: ---------------------- Forwarded by Vince J Kaminski/HOU/ECT on // : PM --------------------------- Enron Capital & Trade Resources Corp. - Europe Fro...
+
+Model prediction: [9.9980801e-01 1.9205439e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ec                  | Impact: -0.001278 → LEGITIMATE
+ 2. t                    | Impact: -0.001278 → LEGITIMATE
+ 3.  ,                   | Impact: -0.001278 → LEGITIMATE
+ 4.  ee                  | Impact: 0.001122 → PHISHING
+ 5. s                    | Impact: 0.001122 → PHISHING
+ 6.  @                   | Impact: 0.001122 → PHISHING
+ 7.  en                  | Impact: -0.000791 → LEGITIMATE
+ 8. ron                  | Impact: -0.000791 → LEGITIMATE
+ 9.  ,                   | Impact: -0.000791 → LEGITIMATE
+10.  en                  | Impact: -0.000619 → LEGITIMATE
+11. ron                  | Impact: -0.000619 → LEGITIMATE
+12.  ,                   | Impact: -0.000619 → LEGITIMATE
+13.  en                  | Impact: -0.000473 → LEGITIMATE
+14. ron                  | Impact: -0.000473 → LEGITIMATE
+15.  ,                   | Impact: -0.000473 → LEGITIMATE
+16.  /                   | Impact: -0.000454 → LEGITIMATE
+17.  corp                | Impact: -0.000454 → LEGITIMATE
+18.  /                   | Impact: -0.000454 → LEGITIMATE
+19.  en                  | Impact: -0.000454 → LEGITIMATE
+20. ron                  | Impact: -0.000454 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ee                  | Impact: 0.001122
+ 2. s                    | Impact: 0.001122
+ 3.  @                   | Impact: 0.001122
+ 4.  ee                  | Impact: 0.000327
+ 5. s                    | Impact: 0.000327
+ 6.  ,                   | Impact: 0.000327
+ 7.  se                  | Impact: 0.000194
+ 8. vil                  | Impact: 0.000194
+ 9.  ya                  | Impact: 0.000194
+10. man                  | Impact: 0.000194
+11.  elena               | Impact: 0.000157
+12.  chi                 | Impact: 0.000157
+13. lk                   | Impact: 0.000157
+14. ina                  | Impact: 0.000157
+15.  g                   | Impact: 0.000140
+16. wyn                  | Impact: 0.000140
+17.  ko                  | Impact: 0.000140
+18. ep                   | Impact: 0.000140
+19. ke                   | Impact: 0.000140
+20.  tom                 | Impact: 0.000088
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ec                  | Impact: -0.001278
+ 2. t                    | Impact: -0.001278
+ 3.  ,                   | Impact: -0.001278
+ 4.  en                  | Impact: -0.000791
+ 5. ron                  | Impact: -0.000791
+ 6.  ,                   | Impact: -0.000791
+ 7.  en                  | Impact: -0.000619
+ 8. ron                  | Impact: -0.000619
+ 9.  ,                   | Impact: -0.000619
+10.  en                  | Impact: -0.000473
+11. ron                  | Impact: -0.000473
+12.  ,                   | Impact: -0.000473
+13.  /                   | Impact: -0.000454
+14.  corp                | Impact: -0.000454
+15.  /                   | Impact: -0.000454
+16.  en                  | Impact: -0.000454
+17. ron                  | Impact: -0.000454
+18.  @                   | Impact: -0.000454
+19.  en                  | Impact: -0.000411
+20. ron                  | Impact: -0.000411

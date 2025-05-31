@@ -1,0 +1,75 @@
+Sample 404
+==========
+
+Sample text preview: On Mon, Feb , at ::PM +, Peter Peltonen wrote: > On Fri, Feb , at ::PM +, Harri Haataja wrote: > > I have a local one for the main and upgrades from s...
+
+Model prediction: [9.9980086e-01 1.9909977e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wrote               | Impact: -0.012389 → LEGITIMATE
+ 2.  :                   | Impact: -0.012389 → LEGITIMATE
+ 3.  >                   | Impact: -0.012389 → LEGITIMATE
+ 4.  on                  | Impact: -0.012389 → LEGITIMATE
+ 5.  wrote               | Impact: -0.010094 → LEGITIMATE
+ 6.  :                   | Impact: -0.010094 → LEGITIMATE
+ 7.  >                   | Impact: -0.010094 → LEGITIMATE
+ 8.  >                   | Impact: -0.010094 → LEGITIMATE
+ 9.  pe                  | Impact: -0.007529 → LEGITIMATE
+10. lton                 | Impact: -0.007529 → LEGITIMATE
+11. en                   | Impact: -0.007529 → LEGITIMATE
+12.  peter               | Impact: -0.007529 → LEGITIMATE
+13.  fr                  | Impact: -0.007356 → LEGITIMATE
+14. i                    | Impact: -0.007356 → LEGITIMATE
+15.  ,                   | Impact: -0.007356 → LEGITIMATE
+16.  feb                 | Impact: -0.005097 → LEGITIMATE
+17.  ,                   | Impact: -0.005097 → LEGITIMATE
+18.  at                  | Impact: -0.004624 → LEGITIMATE
+19.  :                   | Impact: -0.004624 → LEGITIMATE
+20.  :                   | Impact: -0.004624 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  l                   | Impact: 0.004602
+ 2. yt                   | Impact: 0.004602
+ 3. y                    | Impact: 0.004602
+ 4. vn                   | Impact: 0.004602
+ 5.  av                  | Impact: 0.004509
+ 6. itt                  | Impact: 0.004509
+ 7. aa                   | Impact: 0.004509
+ 8.  hi                  | Impact: 0.004509
+ 9. uka                  | Impact: 0.004509
+10. n                    | Impact: 0.004509
+11.  asia                | Impact: 0.004369
+12. ssa                  | Impact: 0.004369
+13.  ,                   | Impact: 0.004369
+14.  os                  | Impact: 0.003912
+15. ais                  | Impact: 0.003912
+16. it                   | Impact: 0.003912
+17. ko                   | Impact: 0.003912
+18.  ?                   | Impact: 0.003714
+19.  li                  | Impact: 0.003460
+20. ik                   | Impact: 0.003460
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  wrote               | Impact: -0.012389
+ 2.  :                   | Impact: -0.012389
+ 3.  >                   | Impact: -0.012389
+ 4.  on                  | Impact: -0.012389
+ 5.  wrote               | Impact: -0.010094
+ 6.  :                   | Impact: -0.010094
+ 7.  >                   | Impact: -0.010094
+ 8.  >                   | Impact: -0.010094
+ 9.  pe                  | Impact: -0.007529
+10. lton                 | Impact: -0.007529
+11. en                   | Impact: -0.007529
+12.  peter               | Impact: -0.007529
+13.  fr                  | Impact: -0.007356
+14. i                    | Impact: -0.007356
+15.  ,                   | Impact: -0.007356
+16.  feb                 | Impact: -0.005097
+17.  ,                   | Impact: -0.005097
+18.  at                  | Impact: -0.004624
+19.  :                   | Impact: -0.004624
+20.  :                   | Impact: -0.004624

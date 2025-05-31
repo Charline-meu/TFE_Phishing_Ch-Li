@@ -1,0 +1,68 @@
+Phishing Sample 48
+==================
+
+Sample text preview: ﻿ Dear Customer %Adresse_e-mail% We are having problems with your current billing information, Update Information Now! Help Center or at Contact us. /...
+
+Model prediction: [2.1253912e-04 9.9978751e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.187208 → PHISHING
+ 2.  your                | Impact: 0.164455 → PHISHING
+ 3.  contact             | Impact: 0.115104 → PHISHING
+ 4.  mail                | Impact: 0.107866 → PHISHING
+ 5.  /                   | Impact: -0.098372 → LEGITIMATE
+ 6.  !                   | Impact: 0.090441 → PHISHING
+ 7.  help                | Impact: 0.074653 → PHISHING
+ 8.  /                   | Impact: -0.072110 → LEGITIMATE
+ 9.  billing             | Impact: 0.070414 → PHISHING
+10.  customer            | Impact: 0.069224 → PHISHING
+11.  us                  | Impact: 0.067500 → PHISHING
+12.  update              | Impact: 0.065386 → PHISHING
+13.  information         | Impact: 0.043981 → PHISHING
+14.  _                   | Impact: 0.039032 → PHISHING
+15.  .                   | Impact: -0.035172 → LEGITIMATE
+16.  problems            | Impact: -0.035160 → LEGITIMATE
+17.  ad                  | Impact: 0.032081 → PHISHING
+18.  or                  | Impact: -0.031878 → LEGITIMATE
+19.  now                 | Impact: 0.031501 → PHISHING
+20.  information         | Impact: 0.030608 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.187208
+ 2.  your                | Impact: 0.164455
+ 3.  contact             | Impact: 0.115104
+ 4.  mail                | Impact: 0.107866
+ 5.  !                   | Impact: 0.090441
+ 6.  help                | Impact: 0.074653
+ 7.  billing             | Impact: 0.070414
+ 8.  customer            | Impact: 0.069224
+ 9.  us                  | Impact: 0.067500
+10.  update              | Impact: 0.065386
+11.  information         | Impact: 0.043981
+12.  _                   | Impact: 0.039032
+13.  ad                  | Impact: 0.032081
+14.  now                 | Impact: 0.031501
+15.  information         | Impact: 0.030608
+16.  %                   | Impact: 0.029830
+17.  are                 | Impact: 0.029044
+18.  current             | Impact: 0.022676
+19.  %                   | Impact: 0.022535
+20.  e                   | Impact: 0.020051
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  /                   | Impact: -0.098372
+ 2.  /                   | Impact: -0.072110
+ 3.  .                   | Impact: -0.035172
+ 4.  problems            | Impact: -0.035160
+ 5.  or                  | Impact: -0.031878
+ 6.  having              | Impact: -0.018720
+ 7.  center              | Impact: -0.018260
+ 8. ress                 | Impact: -0.012431
+ 9.  at                  | Impact: -0.008698
+10.  -                   | Impact: -0.005644
+11.  with                | Impact: -0.005212
+12.  we                  | Impact: -0.004862
+13. e                    | Impact: -0.002204

@@ -1,0 +1,64 @@
+Phishing Sample 89
+==================
+
+Sample text preview: For those of you who missed lunch, we have extra pizza in the kitchen, and fruit cobbler in conference room . La Donna x
+
+Model prediction: [9.9956971e-01 4.3023744e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  .                   | Impact: -0.102527 → LEGITIMATE
+ 2.  conference          | Impact: -0.085508 → LEGITIMATE
+ 3.  x                   | Impact: 0.083841 → PHISHING
+ 4.  you                 | Impact: 0.079676 → PHISHING
+ 5.  pizza               | Impact: -0.078349 → LEGITIMATE
+ 6. ler                  | Impact: -0.060863 → LEGITIMATE
+ 7.  la                  | Impact: 0.057916 → PHISHING
+ 8.  kitchen             | Impact: 0.055642 → PHISHING
+ 9.  room                | Impact: 0.054708 → PHISHING
+10.  lunch               | Impact: -0.035392 → LEGITIMATE
+11.  and                 | Impact: 0.030764 → PHISHING
+12.  have                | Impact: -0.029719 → LEGITIMATE
+13.  ,                   | Impact: 0.027201 → PHISHING
+14.  of                  | Impact: -0.025942 → LEGITIMATE
+15.  we                  | Impact: 0.021913 → PHISHING
+16.  for                 | Impact: -0.017229 → LEGITIMATE
+17.  who                 | Impact: -0.014206 → LEGITIMATE
+18.  missed              | Impact: -0.012007 → LEGITIMATE
+19.  in                  | Impact: 0.011201 → PHISHING
+20.  donna               | Impact: 0.009801 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  x                   | Impact: 0.083841
+ 2.  you                 | Impact: 0.079676
+ 3.  la                  | Impact: 0.057916
+ 4.  kitchen             | Impact: 0.055642
+ 5.  room                | Impact: 0.054708
+ 6.  and                 | Impact: 0.030764
+ 7.  ,                   | Impact: 0.027201
+ 8.  we                  | Impact: 0.021913
+ 9.  in                  | Impact: 0.011201
+10.  donna               | Impact: 0.009801
+11.  the                 | Impact: 0.007521
+12.  cobb                | Impact: 0.003106
+13.                      | Impact: 0.000001
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.102527
+ 2.  conference          | Impact: -0.085508
+ 3.  pizza               | Impact: -0.078349
+ 4. ler                  | Impact: -0.060863
+ 5.  lunch               | Impact: -0.035392
+ 6.  have                | Impact: -0.029719
+ 7.  of                  | Impact: -0.025942
+ 8.  for                 | Impact: -0.017229
+ 9.  who                 | Impact: -0.014206
+10.  missed              | Impact: -0.012007
+11.  in                  | Impact: -0.008795
+12.  ,                   | Impact: -0.008413
+13.  fruit               | Impact: -0.007546
+14.  those               | Impact: -0.006019
+15.  extra               | Impact: -0.003714
+16.                      | Impact: -0.000091

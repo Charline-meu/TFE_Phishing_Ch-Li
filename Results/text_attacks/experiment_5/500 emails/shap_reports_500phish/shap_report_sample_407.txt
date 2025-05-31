@@ -1,0 +1,75 @@
+Sample 407
+==========
+
+Sample text preview: This-email--s-from-a-trusted-s-urce. Hello Taxpayer, You have received an invoice COURT ORDER IN // Click below to enter your password and download se...
+
+Model prediction: [2.6596538e-04 9.9973398e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  download            | Impact: 0.051591 → PHISHING
+ 2.  hello               | Impact: 0.048028 → PHISHING
+ 3.  secured             | Impact: 0.029719 → PHISHING
+ 4.  may                 | Impact: 0.025900 → PHISHING
+ 5.  be                  | Impact: 0.025900 → PHISHING
+ 6.  unlawful            | Impact: 0.025900 → PHISHING
+ 7.  you                 | Impact: 0.025121 → PHISHING
+ 8.  are                 | Impact: 0.025121 → PHISHING
+ 9.  if                  | Impact: 0.022752 → PHISHING
+10.  you                 | Impact: 0.022752 → PHISHING
+11.  here                | Impact: 0.022214 → PHISHING
+12. by                   | Impact: 0.022214 → PHISHING
+13.  .                   | Impact: 0.021062 → PHISHING
+14.  taxpayer            | Impact: 0.020970 → PHISHING
+15.  enter               | Impact: 0.018554 → PHISHING
+16.  your                | Impact: 0.018554 → PHISHING
+17.  uk                  | Impact: 0.017654 → PHISHING
+18.  file                | Impact: 0.016522 → PHISHING
+19.  online              | Impact: 0.015593 → PHISHING
+20.  are                 | Impact: 0.015513 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  download            | Impact: 0.051591
+ 2.  hello               | Impact: 0.048028
+ 3.  secured             | Impact: 0.029719
+ 4.  may                 | Impact: 0.025900
+ 5.  be                  | Impact: 0.025900
+ 6.  unlawful            | Impact: 0.025900
+ 7.  you                 | Impact: 0.025121
+ 8.  are                 | Impact: 0.025121
+ 9.  if                  | Impact: 0.022752
+10.  you                 | Impact: 0.022752
+11.  here                | Impact: 0.022214
+12. by                   | Impact: 0.022214
+13.  .                   | Impact: 0.021062
+14.  taxpayer            | Impact: 0.020970
+15.  enter               | Impact: 0.018554
+16.  your                | Impact: 0.018554
+17.  uk                  | Impact: 0.017654
+18.  file                | Impact: 0.016522
+19.  online              | Impact: 0.015593
+20.  are                 | Impact: 0.015513
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.010159
+ 2.  copying             | Impact: -0.008236
+ 3.  ,                   | Impact: -0.008236
+ 4.  .                   | Impact: -0.004370
+ 5.  ,                   | Impact: -0.003537
+ 6.  :                   | Impact: -0.002952
+ 7.  -                   | Impact: -0.002732
+ 8.  #                   | Impact: -0.001911
+ 9.  this                | Impact: -0.000036
+10.  mess                | Impact: -0.000036
+11.  -                   | Impact: -0.000036
+12.  attorney            | Impact: -0.000036
+13.  '                   | Impact: -0.000036
+14.  s                   | Impact: -0.000036
+15.  ge                  | Impact: -0.000036
+16. s                    | Impact: -0.000036
+17.  was                 | Impact: -0.000036
+18.  sent                | Impact: -0.000036
+19.  from                | Impact: -0.000036
+20.  the                 | Impact: -0.000036

@@ -1,0 +1,75 @@
+Sample 393
+==========
+
+Sample text preview: LT.COL Richard Egwu JOHANNESBURG, R.S.A. TELL: +-- Email: ATT: MANAGING DIRECTOR|C.E.O Sir|madam I know you will be surprise to read from me, more so ...
+
+Model prediction: [1.6933662e-04 9.9983060e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  |                   | Impact: 0.017323 → PHISHING
+ 2.  madam               | Impact: 0.017323 → PHISHING
+ 3.  o                   | Impact: 0.016256 → PHISHING
+ 4.  sir                 | Impact: 0.016256 → PHISHING
+ 5.  your                | Impact: 0.010029 → PHISHING
+ 6.  country             | Impact: 0.010029 → PHISHING
+ 7.  investment          | Impact: 0.007367 → PHISHING
+ 8.  in                  | Impact: 0.007367 → PHISHING
+ 9.  i                   | Impact: 0.006655 → PHISHING
+10.  know                | Impact: 0.006655 → PHISHING
+11.  you                 | Impact: 0.006655 → PHISHING
+12.  will                | Impact: 0.006655 → PHISHING
+13.  i                   | Impact: 0.005921 → PHISHING
+14.  am                  | Impact: 0.005921 → PHISHING
+15.  lt                  | Impact: 0.005921 → PHISHING
+16.  .                   | Impact: 0.005921 → PHISHING
+17.  col                 | Impact: 0.005751 → PHISHING
+18.  .                   | Impact: 0.005751 → PHISHING
+19.  but                 | Impact: 0.005619 → PHISHING
+20.  please              | Impact: 0.005619 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  |                   | Impact: 0.017323
+ 2.  madam               | Impact: 0.017323
+ 3.  o                   | Impact: 0.016256
+ 4.  sir                 | Impact: 0.016256
+ 5.  your                | Impact: 0.010029
+ 6.  country             | Impact: 0.010029
+ 7.  investment          | Impact: 0.007367
+ 8.  in                  | Impact: 0.007367
+ 9.  i                   | Impact: 0.006655
+10.  know                | Impact: 0.006655
+11.  you                 | Impact: 0.006655
+12.  will                | Impact: 0.006655
+13.  i                   | Impact: 0.005921
+14.  am                  | Impact: 0.005921
+15.  lt                  | Impact: 0.005921
+16.  .                   | Impact: 0.005921
+17.  col                 | Impact: 0.005751
+18.  .                   | Impact: 0.005751
+19.  but                 | Impact: 0.005619
+20.  please              | Impact: 0.005619
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.001778
+ 2.  from                | Impact: -0.001778
+ 3.  the                 | Impact: -0.001778
+ 4.  above               | Impact: -0.001778
+ 5.  ,                   | Impact: -0.001778
+ 6.  and                 | Impact: -0.000599
+ 7.  the                 | Impact: -0.000599
+ 8.  financial           | Impact: -0.000599
+ 9.  rules               | Impact: -0.000599
+10.  and                 | Impact: -0.000599
+11.  tell                | Impact: -0.000528
+12.  :                   | Impact: -0.000528
+13.  +                   | Impact: -0.000528
+14.  -                   | Impact: -0.000528
+15.  -                   | Impact: -0.000528
+16.  email               | Impact: -0.000528
+17.  :                   | Impact: -0.000528
+18.  email               | Impact: -0.000429
+19.  me                  | Impact: -0.000429
+20.  to                  | Impact: -0.000429

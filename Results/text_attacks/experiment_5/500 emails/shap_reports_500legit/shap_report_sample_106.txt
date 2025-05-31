@@ -1,0 +1,75 @@
+Sample 106
+==========
+
+Sample text preview: Thanks Tony, but I think doing it using component files will get a .signature by default, but I have many diferent signatures and I want to insert one...
+
+Model prediction: [9.9980193e-01 1.9802817e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.001684 → LEGITIMATE
+ 2.  users               | Impact: -0.001684 → LEGITIMATE
+ 3.  mit                 | Impact: -0.001202 → LEGITIMATE
+ 4.  list                | Impact: -0.001167 → LEGITIMATE
+ 5.  >                   | Impact: -0.001167 → LEGITIMATE
+ 6.  mail                | Impact: -0.001107 → LEGITIMATE
+ 7. ing                  | Impact: -0.001107 → LEGITIMATE
+ 8.  >                   | Impact: -0.000997 → LEGITIMATE
+ 9.  _                   | Impact: -0.000997 → LEGITIMATE
+10.  >                   | Impact: -0.000881 → LEGITIMATE
+11.  >                   | Impact: -0.000881 → LEGITIMATE
+12.  ul                  | Impact: -0.000881 → LEGITIMATE
+13. ises                 | Impact: -0.000881 → LEGITIMATE
+14.  default             | Impact: -0.000869 → LEGITIMATE
+15.  _                   | Impact: 0.000864 → PHISHING
+16.  _                   | Impact: 0.000864 → PHISHING
+17.  _                   | Impact: 0.000864 → PHISHING
+18.  _                   | Impact: 0.000864 → PHISHING
+19.  _                   | Impact: 0.000852 → PHISHING
+20.  _                   | Impact: 0.000852 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  _                   | Impact: 0.000864
+ 2.  _                   | Impact: 0.000864
+ 3.  _                   | Impact: 0.000864
+ 4.  _                   | Impact: 0.000864
+ 5.  _                   | Impact: 0.000852
+ 6.  _                   | Impact: 0.000852
+ 7.  _                   | Impact: 0.000852
+ 8.  _                   | Impact: 0.000852
+ 9.  _                   | Impact: 0.000733
+10.  _                   | Impact: 0.000733
+11.  _                   | Impact: 0.000720
+12.  _                   | Impact: 0.000720
+13.  _                   | Impact: 0.000511
+14.  _                   | Impact: 0.000511
+15.  _                   | Impact: 0.000511
+16.  _                   | Impact: 0.000511
+17.  .                   | Impact: 0.000499
+18.  .                   | Impact: 0.000456
+19.  _                   | Impact: 0.000378
+20.  _                   | Impact: 0.000378
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.001684
+ 2.  users               | Impact: -0.001684
+ 3.  mit                 | Impact: -0.001202
+ 4.  list                | Impact: -0.001167
+ 5.  >                   | Impact: -0.001167
+ 6.  mail                | Impact: -0.001107
+ 7. ing                  | Impact: -0.001107
+ 8.  >                   | Impact: -0.000997
+ 9.  _                   | Impact: -0.000997
+10.  >                   | Impact: -0.000881
+11.  >                   | Impact: -0.000881
+12.  ul                  | Impact: -0.000881
+13. ises                 | Impact: -0.000881
+14.  default             | Impact: -0.000869
+15.  >                   | Impact: -0.000783
+16.  >                   | Impact: -0.000783
+17.  hope                | Impact: -0.000783
+18.  this                | Impact: -0.000783
+19.  helps               | Impact: -0.000783
+20.  .                   | Impact: -0.000783

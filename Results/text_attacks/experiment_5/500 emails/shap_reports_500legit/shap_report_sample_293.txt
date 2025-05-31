@@ -1,0 +1,75 @@
+Sample 293
+==========
+
+Sample text preview: These results are from timtest.py. I've got three sets of spam and ham with about messages in each set. Here's what happens when I enable my latest "r...
+
+Model prediction: [9.991726e-01 8.273038e-04]
+Predicted class: LEGITIMATE with 0.9992 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  neil                | Impact: 0.013872 → PHISHING
+ 2.  tied                | Impact: -0.009471 → LEGITIMATE
+ 3.  tied                | Impact: -0.007984 → LEGITIMATE
+ 4.  unique              | Impact: 0.007342 → PHISHING
+ 5.  results             | Impact: -0.006196 → LEGITIMATE
+ 6.  .                   | Impact: -0.004812 → LEGITIMATE
+ 7.  %                   | Impact: -0.004534 → LEGITIMATE
+ 8.  .                   | Impact: -0.004008 → LEGITIMATE
+ 9.  won                 | Impact: -0.004006 → LEGITIMATE
+10. test                 | Impact: -0.003992 → LEGITIMATE
+11.  .                   | Impact: -0.003335 → LEGITIMATE
+12.  seem                | Impact: -0.003094 → LEGITIMATE
+13.  i                   | Impact: -0.002878 → LEGITIMATE
+14.  not                 | Impact: -0.002768 → LEGITIMATE
+15.  lost                | Impact: 0.002735 → PHISHING
+16.  tied                | Impact: -0.002689 → LEGITIMATE
+17.  got                 | Impact: -0.002632 → LEGITIMATE
+18.  are                 | Impact: -0.002542 → LEGITIMATE
+19.  .                   | Impact: -0.002533 → LEGITIMATE
+20.  won                 | Impact: -0.002495 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  neil                | Impact: 0.013872
+ 2.  unique              | Impact: 0.007342
+ 3.  lost                | Impact: 0.002735
+ 4.  times               | Impact: 0.001329
+ 5.  here                | Impact: 0.001143
+ 6.  these               | Impact: 0.000806
+ 7.  total               | Impact: 0.000677
+ 8.  times               | Impact: 0.000639
+ 9.  from                | Impact: 0.000565
+10.  times               | Impact: 0.000486
+11.  spa                 | Impact: 0.000432
+12.  +                   | Impact: 0.000387
+13.  times               | Impact: 0.000328
+14.  total               | Impact: 0.000328
+15.  unique              | Impact: 0.000328
+16. m                    | Impact: 0.000295
+17.  times               | Impact: 0.000227
+18.  lost                | Impact: 0.000227
+19.  p                   | Impact: 0.000223
+20. y                    | Impact: 0.000223
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  tied                | Impact: -0.009471
+ 2.  tied                | Impact: -0.007984
+ 3.  results             | Impact: -0.006196
+ 4.  .                   | Impact: -0.004812
+ 5.  %                   | Impact: -0.004534
+ 6.  .                   | Impact: -0.004008
+ 7.  won                 | Impact: -0.004006
+ 8. test                 | Impact: -0.003992
+ 9.  .                   | Impact: -0.003335
+10.  seem                | Impact: -0.003094
+11.  i                   | Impact: -0.002878
+12.  not                 | Impact: -0.002768
+13.  tied                | Impact: -0.002689
+14.  got                 | Impact: -0.002632
+15.  are                 | Impact: -0.002542
+16.  .                   | Impact: -0.002533
+17.  won                 | Impact: -0.002495
+18.  .                   | Impact: -0.002404
+19.  .                   | Impact: -0.002330
+20.  tim                 | Impact: -0.002212

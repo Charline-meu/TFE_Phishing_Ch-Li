@@ -1,0 +1,70 @@
+Sample 157
+==========
+
+Sample text preview: Did someone invert the spam filters? I'm getting almost nothing but spam on fork now... - Adam L. "Duncan" Beberg
+
+Model prediction: [9.9974483e-01 2.5513046e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  getting             | Impact: 0.031830 → PHISHING
+ 2.  fork                | Impact: -0.027563 → LEGITIMATE
+ 3.  ?                   | Impact: -0.025703 → LEGITIMATE
+ 4.  m                   | Impact: 0.025340 → PHISHING
+ 5. m                    | Impact: 0.020989 → PHISHING
+ 6.  almost              | Impact: -0.015499 → LEGITIMATE
+ 7.  someone             | Impact: 0.012529 → PHISHING
+ 8.  adam                | Impact: -0.011358 → LEGITIMATE
+ 9.  did                 | Impact: -0.010501 → LEGITIMATE
+10.  be                  | Impact: 0.009075 → PHISHING
+11.  the                 | Impact: -0.008557 → LEGITIMATE
+12. vert                 | Impact: 0.008147 → PHISHING
+13.  in                  | Impact: -0.007863 → LEGITIMATE
+14.  nothing             | Impact: -0.006961 → LEGITIMATE
+15.  i                   | Impact: -0.006479 → LEGITIMATE
+16.  -                   | Impact: -0.006242 → LEGITIMATE
+17.  spa                 | Impact: -0.005655 → LEGITIMATE
+18. berg                 | Impact: -0.005623 → LEGITIMATE
+19.  but                 | Impact: 0.005378 → PHISHING
+20.  filters             | Impact: -0.005114 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  getting             | Impact: 0.031830
+ 2.  m                   | Impact: 0.025340
+ 3. m                    | Impact: 0.020989
+ 4.  someone             | Impact: 0.012529
+ 5.  be                  | Impact: 0.009075
+ 6. vert                 | Impact: 0.008147
+ 7.  but                 | Impact: 0.005378
+ 8.  .                   | Impact: 0.003241
+ 9.  .                   | Impact: 0.003102
+10.  l                   | Impact: 0.002940
+11.  '                   | Impact: 0.002904
+12.  now                 | Impact: 0.001856
+13. m                    | Impact: 0.001743
+14.  on                  | Impact: 0.001617
+15.                      | Impact: 0.000060
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  fork                | Impact: -0.027563
+ 2.  ?                   | Impact: -0.025703
+ 3.  almost              | Impact: -0.015499
+ 4.  adam                | Impact: -0.011358
+ 5.  did                 | Impact: -0.010501
+ 6.  the                 | Impact: -0.008557
+ 7.  in                  | Impact: -0.007863
+ 8.  nothing             | Impact: -0.006961
+ 9.  i                   | Impact: -0.006479
+10.  -                   | Impact: -0.006242
+11.  spa                 | Impact: -0.005655
+12. berg                 | Impact: -0.005623
+13.  filters             | Impact: -0.005114
+14.  "                   | Impact: -0.002548
+15.  spa                 | Impact: -0.002334
+16.  duncan              | Impact: -0.002145
+17.  "                   | Impact: -0.001365
+18.  .                   | Impact: -0.001356
+19.                      | Impact: -0.000035
+20.  .                   | Impact: -0.000008

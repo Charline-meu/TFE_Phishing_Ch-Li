@@ -1,0 +1,75 @@
+Sample 41
+=========
+
+Sample text preview: Congratulations!! A few observations: All children are different and will generally route around whatever technique you learned from relatives, books,...
+
+Model prediction: [9.9978667e-01 2.1338239e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  daughter            | Impact: 0.013435 → PHISHING
+ 2.  route               | Impact: -0.008874 → LEGITIMATE
+ 3.  around              | Impact: -0.008874 → LEGITIMATE
+ 4.  will                | Impact: -0.008818 → LEGITIMATE
+ 5.  generally           | Impact: -0.008818 → LEGITIMATE
+ 6.  observations        | Impact: -0.007405 → LEGITIMATE
+ 7.  :                   | Impact: -0.007405 → LEGITIMATE
+ 8.  congratulations     | Impact: -0.006559 → LEGITIMATE
+ 9.  i                   | Impact: -0.006166 → LEGITIMATE
+10.  fed                 | Impact: -0.006166 → LEGITIMATE
+11.  mine                | Impact: -0.006166 → LEGITIMATE
+12.  cereal              | Impact: -0.006166 → LEGITIMATE
+13.  kids                | Impact: 0.006159 → PHISHING
+14.  to                  | Impact: 0.006159 → PHISHING
+15.  solid               | Impact: -0.006027 → LEGITIMATE
+16.  food                | Impact: -0.006027 → LEGITIMATE
+17.  until               | Impact: -0.006027 → LEGITIMATE
+18.  he                  | Impact: -0.006027 → LEGITIMATE
+19.  the                 | Impact: 0.005686 → PHISHING
+20.  last                | Impact: 0.005686 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  daughter            | Impact: 0.013435
+ 2.  kids                | Impact: 0.006159
+ 3.  to                  | Impact: 0.006159
+ 4.  the                 | Impact: 0.005686
+ 5.  last                | Impact: 0.005686
+ 6.  child               | Impact: 0.005686
+ 7.  year                | Impact: 0.005543
+ 8.  old                 | Impact: 0.005543
+ 9.  a                   | Impact: 0.005200
+10.  neighbor            | Impact: 0.005200
+11.  be                  | Impact: 0.005125
+12.  able                | Impact: 0.005125
+13.  talk                | Impact: 0.004951
+14.  shows               | Impact: 0.004951
+15.  i                   | Impact: 0.004182
+16.  always              | Impact: 0.004182
+17.  want                | Impact: 0.004182
+18.  my                  | Impact: 0.004182
+19.  "                   | Impact: 0.001880
+20.  first               | Impact: 0.001880
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  route               | Impact: -0.008874
+ 2.  around              | Impact: -0.008874
+ 3.  will                | Impact: -0.008818
+ 4.  generally           | Impact: -0.008818
+ 5.  observations        | Impact: -0.007405
+ 6.  :                   | Impact: -0.007405
+ 7.  congratulations     | Impact: -0.006559
+ 8.  i                   | Impact: -0.006166
+ 9.  fed                 | Impact: -0.006166
+10.  mine                | Impact: -0.006166
+11.  cereal              | Impact: -0.006166
+12.  solid               | Impact: -0.006027
+13.  food                | Impact: -0.006027
+14.  until               | Impact: -0.006027
+15.  he                  | Impact: -0.006027
+16.  etc                 | Impact: -0.005221
+17.  ,                   | Impact: -0.004226
+18.  whatever            | Impact: -0.003873
+19.  technique           | Impact: -0.003873
+20.  you                 | Impact: -0.003873

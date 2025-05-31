@@ -1,0 +1,75 @@
+Phishing Sample 2
+=================
+
+Sample text preview: SOLICITING FOR A BUSINESS VENTURE AND PARTNESHIP. DEAR SIR, I AM THE SON OF THE LATE PRESIDENT OF THE FEDERAL REPUBLIC OF ZAIRE, PRESIDENT MOBUTU SESE...
+
+Model prediction: [1.8051082e-04 9.9981946e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  with                | Impact: 0.026698 → PHISHING
+ 2.  you                 | Impact: 0.026698 → PHISHING
+ 3.  this                | Impact: 0.018132 → PHISHING
+ 4.  business            | Impact: 0.018132 → PHISHING
+ 5.  dear                | Impact: 0.013834 → PHISHING
+ 6.  sir                 | Impact: 0.013834 → PHISHING
+ 7.  mr                  | Impact: 0.013548 → PHISHING
+ 8.  my                  | Impact: 0.011586 → PHISHING
+ 9.  family              | Impact: 0.011586 → PHISHING
+10.  present             | Impact: 0.011586 → PHISHING
+11.  mob                 | Impact: 0.010652 → PHISHING
+12. ut                   | Impact: 0.010652 → PHISHING
+13. u                    | Impact: 0.010652 → PHISHING
+14.  nz                  | Impact: 0.010652 → PHISHING
+15. anga                 | Impact: 0.010652 → PHISHING
+16.  .                   | Impact: 0.010439 → PHISHING
+17.  i                   | Impact: 0.010235 → PHISHING
+18.  shall               | Impact: 0.010235 → PHISHING
+19.  give                | Impact: 0.010235 → PHISHING
+20.  you                 | Impact: 0.010235 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  with                | Impact: 0.026698
+ 2.  you                 | Impact: 0.026698
+ 3.  this                | Impact: 0.018132
+ 4.  business            | Impact: 0.018132
+ 5.  dear                | Impact: 0.013834
+ 6.  sir                 | Impact: 0.013834
+ 7.  mr                  | Impact: 0.013548
+ 8.  my                  | Impact: 0.011586
+ 9.  family              | Impact: 0.011586
+10.  present             | Impact: 0.011586
+11.  mob                 | Impact: 0.010652
+12. ut                   | Impact: 0.010652
+13. u                    | Impact: 0.010652
+14.  nz                  | Impact: 0.010652
+15. anga                 | Impact: 0.010652
+16.  .                   | Impact: 0.010439
+17.  i                   | Impact: 0.010235
+18.  shall               | Impact: 0.010235
+19.  give                | Impact: 0.010235
+20.  you                 | Impact: 0.010235
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  secrecy             | Impact: -0.001891
+ 2.  is                  | Impact: -0.001891
+ 3.  highly              | Impact: -0.001891
+ 4.  required            | Impact: -0.001891
+ 5.  ,                   | Impact: -0.001209
+ 6.  process             | Impact: -0.001081
+ 7.  of                  | Impact: -0.001081
+ 8.  this                | Impact: -0.001081
+ 9.  transaction         | Impact: -0.001081
+10.  .                   | Impact: -0.001081
+11.  part                | Impact: -0.000884
+12. nes                  | Impact: -0.000884
+13. hip                  | Impact: -0.000884
+14.  .                   | Impact: -0.000884
+15.  any                 | Impact: -0.000789
+16.  eventual            | Impact: -0.000789
+17.  expense             | Impact: -0.000789
+18.  that                | Impact: -0.000789
+19.  may                 | Impact: -0.000789
+20.  occur               | Impact: -0.000789

@@ -1,0 +1,75 @@
+Sample 38
+=========
+
+Sample text preview: To ensure delivery to your inbox, please add to your address book. IMPORTANT NOTIFICATION View Accounts | Privacy Promise | Contact Us USAA SECURITY Z...
+
+Model prediction: [1.7210504e-04 9.9982786e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  contact             | Impact: 0.042569 → PHISHING
+ 2.  please              | Impact: 0.040764 → PHISHING
+ 3.  dear                | Impact: 0.029490 → PHISHING
+ 4.  us                  | Impact: 0.028196 → PHISHING
+ 5.  a                   | Impact: 0.024240 → PHISHING
+ 6.  secure              | Impact: 0.024240 → PHISHING
+ 7.  to                  | Impact: 0.016551 → PHISHING
+ 8.  send                | Impact: 0.016551 → PHISHING
+ 9.  e                   | Impact: 0.016518 → PHISHING
+10.  -                   | Impact: 0.016518 → PHISHING
+11.  mail                | Impact: 0.016518 → PHISHING
+12.  message             | Impact: 0.016339 → PHISHING
+13.  to                  | Impact: 0.016339 → PHISHING
+14.  usa                 | Impact: 0.016339 → PHISHING
+15. a                    | Impact: 0.016339 → PHISHING
+16.  contact             | Impact: 0.015694 → PHISHING
+17.  us                  | Impact: 0.015694 → PHISHING
+18.  to                  | Impact: 0.014458 → PHISHING
+19.  this                | Impact: 0.014458 → PHISHING
+20.  please              | Impact: 0.013612 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.042569
+ 2.  please              | Impact: 0.040764
+ 3.  dear                | Impact: 0.029490
+ 4.  us                  | Impact: 0.028196
+ 5.  a                   | Impact: 0.024240
+ 6.  secure              | Impact: 0.024240
+ 7.  to                  | Impact: 0.016551
+ 8.  send                | Impact: 0.016551
+ 9.  e                   | Impact: 0.016518
+10.  -                   | Impact: 0.016518
+11.  mail                | Impact: 0.016518
+12.  message             | Impact: 0.016339
+13.  to                  | Impact: 0.016339
+14.  usa                 | Impact: 0.016339
+15. a                    | Impact: 0.016339
+16.  contact             | Impact: 0.015694
+17.  us                  | Impact: 0.015694
+18.  to                  | Impact: 0.014458
+19.  this                | Impact: 0.014458
+20.  please              | Impact: 0.013612
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.002277
+ 2.  .                   | Impact: -0.001516
+ 3.  book                | Impact: -0.001417
+ 4.  .                   | Impact: -0.000736
+ 5.  this                | Impact: -0.000112
+ 6.  might               | Impact: -0.000112
+ 7.  be                  | Impact: -0.000112
+ 8.  due                 | Impact: -0.000112
+ 9.  to                  | Impact: -0.000112
+10.  one                 | Impact: -0.000112
+11.  of                  | Impact: -0.000112
+12.  the                 | Impact: -0.000112
+13.  following           | Impact: -0.000112
+14.  reasons             | Impact: -0.000112
+15.  :                   | Impact: -0.000112
+16.  .                   | Impact: -0.000112
+17.  thanks              | Impact: -0.000086
+18.  for                 | Impact: -0.000086
+19.  helping             | Impact: -0.000086
+20.  us                  | Impact: -0.000086

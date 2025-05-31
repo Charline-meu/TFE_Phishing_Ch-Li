@@ -1,0 +1,75 @@
+Sample 456
+==========
+
+Sample text preview: I just wanted to let you know that Shari Stack is working on that Talisman letter. It was good talking to you, as always. I hope you got out and "stom...
+
+Model prediction: [0.99598783 0.00401218]
+Predicted class: LEGITIMATE with 0.9960 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  stack               | Impact: -0.046127 → LEGITIMATE
+ 2.  letter              | Impact: 0.044393 → PHISHING
+ 3. ri                   | Impact: -0.038545 → LEGITIMATE
+ 4.  you                 | Impact: 0.037625 → PHISHING
+ 5.  always              | Impact: 0.029874 → PHISHING
+ 6.  good                | Impact: -0.025611 → LEGITIMATE
+ 7.  wanted              | Impact: 0.022564 → PHISHING
+ 8.  sha                 | Impact: -0.021203 → LEGITIMATE
+ 9.  know                | Impact: -0.020227 → LEGITIMATE
+10.  talking             | Impact: -0.020065 → LEGITIMATE
+11.  !                   | Impact: -0.019521 → LEGITIMATE
+12.  let                 | Impact: 0.019168 → PHISHING
+13. isman                | Impact: -0.017974 → LEGITIMATE
+14.  you                 | Impact: -0.016034 → LEGITIMATE
+15.  you                 | Impact: 0.015168 → PHISHING
+16.  .                   | Impact: 0.014243 → PHISHING
+17.  to                  | Impact: 0.010836 → PHISHING
+18.  "                   | Impact: -0.010135 → LEGITIMATE
+19.  working             | Impact: -0.009621 → LEGITIMATE
+20.  stomped             | Impact: 0.009009 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  letter              | Impact: 0.044393
+ 2.  you                 | Impact: 0.037625
+ 3.  always              | Impact: 0.029874
+ 4.  wanted              | Impact: 0.022564
+ 5.  let                 | Impact: 0.019168
+ 6.  you                 | Impact: 0.015168
+ 7.  .                   | Impact: 0.014243
+ 8.  to                  | Impact: 0.010836
+ 9.  stomped             | Impact: 0.009009
+10.  out                 | Impact: 0.007326
+11.  and                 | Impact: 0.006466
+12.  to                  | Impact: 0.005187
+13.  that                | Impact: 0.004994
+14.  that                | Impact: 0.004970
+15.  tal                 | Impact: 0.004293
+16.  i                   | Impact: 0.003673
+17.  "                   | Impact: 0.002673
+18.  it                  | Impact: 0.002574
+19.  as                  | Impact: 0.002370
+20.  .                   | Impact: 0.001984
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  stack               | Impact: -0.046127
+ 2. ri                   | Impact: -0.038545
+ 3.  good                | Impact: -0.025611
+ 4.  sha                 | Impact: -0.021203
+ 5.  know                | Impact: -0.020227
+ 6.  talking             | Impact: -0.020065
+ 7.  !                   | Impact: -0.019521
+ 8. isman                | Impact: -0.017974
+ 9.  you                 | Impact: -0.016034
+10.  "                   | Impact: -0.010135
+11.  working             | Impact: -0.009621
+12.  on                  | Impact: -0.005966
+13.  i                   | Impact: -0.003283
+14.  ,                   | Impact: -0.003068
+15.  hope                | Impact: -0.002688
+16.  bit                 | Impact: -0.002076
+17.  a                   | Impact: -0.001638
+18.  little              | Impact: -0.001444
+19.  got                 | Impact: -0.000811
+20.  was                 | Impact: -0.000404

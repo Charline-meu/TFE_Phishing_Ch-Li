@@ -1,0 +1,75 @@
+Sample 244
+==========
+
+Sample text preview: I received a spam email that had apparently forged the From header with my own email address. After reviewing the message I forwarded it with the rest...
+
+Model prediction: [9.9978846e-01 2.1151434e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  razor               | Impact: -0.019042 → LEGITIMATE
+ 2.  address             | Impact: 0.016308 → PHISHING
+ 3.  razor               | Impact: -0.013756 → LEGITIMATE
+ 4.  perhaps             | Impact: -0.012003 → LEGITIMATE
+ 5.  message             | Impact: 0.011662 → PHISHING
+ 6.  database            | Impact: -0.008800 → LEGITIMATE
+ 7.  -                   | Impact: -0.007906 → LEGITIMATE
+ 8.  razor               | Impact: -0.007681 → LEGITIMATE
+ 9.  warning             | Impact: 0.007208 → PHISHING
+10.  the                 | Impact: 0.006679 → PHISHING
+11.  own                 | Impact: 0.006263 → PHISHING
+12.  email               | Impact: 0.006263 → PHISHING
+13.  database            | Impact: 0.006191 → PHISHING
+14.  .                   | Impact: 0.005995 → PHISHING
+15.  with                | Impact: 0.005966 → PHISHING
+16.  how                 | Impact: -0.005631 → LEGITIMATE
+17.  do                  | Impact: -0.005324 → LEGITIMATE
+18.  i                   | Impact: -0.005048 → LEGITIMATE
+19.  the                 | Impact: -0.004434 → LEGITIMATE
+20.  report              | Impact: -0.004132 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  address             | Impact: 0.016308
+ 2.  message             | Impact: 0.011662
+ 3.  warning             | Impact: 0.007208
+ 4.  the                 | Impact: 0.006679
+ 5.  own                 | Impact: 0.006263
+ 6.  email               | Impact: 0.006263
+ 7.  database            | Impact: 0.006191
+ 8.  .                   | Impact: 0.005995
+ 9.  with                | Impact: 0.005966
+10.  sponsored           | Impact: 0.004041
+11.  is                  | Impact: 0.003842
+12.  address             | Impact: 0.003459
+13.  email               | Impact: 0.003205
+14.  .                   | Impact: 0.002934
+15.  a                   | Impact: 0.002895
+16.  report              | Impact: 0.002882
+17.  need                | Impact: 0.002882
+18.  .                   | Impact: 0.002750
+19. t                    | Impact: 0.002568
+20.  to                  | Impact: 0.002247
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  razor               | Impact: -0.019042
+ 2.  razor               | Impact: -0.013756
+ 3.  perhaps             | Impact: -0.012003
+ 4.  database            | Impact: -0.008800
+ 5.  -                   | Impact: -0.007906
+ 6.  razor               | Impact: -0.007681
+ 7.  how                 | Impact: -0.005631
+ 8.  do                  | Impact: -0.005324
+ 9.  i                   | Impact: -0.005048
+10.  the                 | Impact: -0.004434
+11.  report              | Impact: -0.004132
+12.  go                  | Impact: -0.004131
+13.  course              | Impact: -0.003916
+14.  .                   | Impact: -0.003304
+15.  reviewing           | Impact: -0.003215
+16.  by                  | Impact: -0.002987
+17.  :                   | Impact: -0.002987
+18.  after               | Impact: -0.002952
+19.  apparently          | Impact: -0.002770
+20.  since               | Impact: -0.002686

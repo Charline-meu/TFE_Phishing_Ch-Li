@@ -1,0 +1,75 @@
+Sample 218
+==========
+
+Sample text preview: Edie, Here is the updated EOL data for the Texas Region. DATA EOL Trades = , EOL Volume = . TCF DATA Plan EOL Trades = , Plan EOL Trades/Month = , EOL...
+
+Model prediction: [9.9976426e-01 2.3572662e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  =                   | Impact: 0.036679 → PHISHING
+ 2.  volume              | Impact: -0.033369 → LEGITIMATE
+ 3.  ,                   | Impact: -0.030036 → LEGITIMATE
+ 4.  =                   | Impact: 0.026692 → PHISHING
+ 5.  =                   | Impact: 0.021160 → PHISHING
+ 6.  =                   | Impact: 0.020067 → PHISHING
+ 7.  ,                   | Impact: -0.019840 → LEGITIMATE
+ 8.  =                   | Impact: 0.019583 → PHISHING
+ 9.  you                 | Impact: 0.017665 → PHISHING
+10.  tc                  | Impact: -0.016738 → LEGITIMATE
+11.  trades              | Impact: -0.014345 → LEGITIMATE
+12. ol                   | Impact: 0.010819 → PHISHING
+13.  plan                | Impact: -0.010549 → LEGITIMATE
+14.  trades              | Impact: -0.009263 → LEGITIMATE
+15.  tc                  | Impact: -0.008864 → LEGITIMATE
+16.  thanks              | Impact: -0.008045 → LEGITIMATE
+17. ol                   | Impact: 0.007860 → PHISHING
+18.  e                   | Impact: 0.007683 → PHISHING
+19.  /                   | Impact: -0.007476 → LEGITIMATE
+20.  ?                   | Impact: -0.007461 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  =                   | Impact: 0.036679
+ 2.  =                   | Impact: 0.026692
+ 3.  =                   | Impact: 0.021160
+ 4.  =                   | Impact: 0.020067
+ 5.  =                   | Impact: 0.019583
+ 6.  you                 | Impact: 0.017665
+ 7. ol                   | Impact: 0.010819
+ 8. ol                   | Impact: 0.007860
+ 9.  e                   | Impact: 0.007683
+10. ie                   | Impact: 0.006140
+11.  please              | Impact: 0.004192
+12. f                    | Impact: 0.003637
+13.  plan                | Impact: 0.003506
+14.  month               | Impact: 0.003239
+15. ol                   | Impact: 0.002805
+16.  ,                   | Impact: 0.002064
+17. f                    | Impact: 0.001895
+18.  e                   | Impact: 0.001640
+19.  plan                | Impact: 0.001032
+20.  eric                | Impact: 0.000718
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  volume              | Impact: -0.033369
+ 2.  ,                   | Impact: -0.030036
+ 3.  ,                   | Impact: -0.019840
+ 4.  tc                  | Impact: -0.016738
+ 5.  trades              | Impact: -0.014345
+ 6.  plan                | Impact: -0.010549
+ 7.  trades              | Impact: -0.009263
+ 8.  tc                  | Impact: -0.008864
+ 9.  thanks              | Impact: -0.008045
+10.  /                   | Impact: -0.007476
+11.  ?                   | Impact: -0.007461
+12.  volume              | Impact: -0.007301
+13.  e                   | Impact: -0.007163
+14.  tom                 | Impact: -0.007070
+15.  data                | Impact: -0.006702
+16.  update              | Impact: -0.006541
+17.  ed                  | Impact: -0.006033
+18.  e                   | Impact: -0.005715
+19.  data                | Impact: -0.004268
+20.  trades              | Impact: -0.004213

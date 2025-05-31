@@ -1,0 +1,75 @@
+Sample 181
+==========
+
+Sample text preview: > Ouch ;-) Although I'm not ready to give up razor just yet, I'd like to > see a pyzor check in SA. I don't think it even needs to be written in > per...
+
+Model prediction: [9.9975580e-01 2.4414665e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.047400 → LEGITIMATE
+ 2.  -                   | Impact: -0.018012 → LEGITIMATE
+ 3.  ;                   | Impact: -0.017260 → LEGITIMATE
+ 4. ch                   | Impact: -0.014189 → LEGITIMATE
+ 5.  :                   | Impact: -0.011667 → LEGITIMATE
+ 6.  sponsored           | Impact: -0.010976 → LEGITIMATE
+ 7.  per                 | Impact: -0.006666 → LEGITIMATE
+ 8.  )                   | Impact: -0.005496 → LEGITIMATE
+ 9.  -                   | Impact: -0.005352 → LEGITIMATE
+10.  -                   | Impact: -0.005352 → LEGITIMATE
+11.  is                  | Impact: -0.005267 → LEGITIMATE
+12.  net                 | Impact: -0.005149 → LEGITIMATE
+13.  email               | Impact: -0.005149 → LEGITIMATE
+14.  .                   | Impact: -0.005132 → LEGITIMATE
+15.  by                  | Impact: -0.004520 → LEGITIMATE
+16.  ou                  | Impact: 0.004430 → PHISHING
+17.  >                   | Impact: -0.004053 → LEGITIMATE
+18.  michael             | Impact: -0.003296 → LEGITIMATE
+19. l                    | Impact: -0.003173 → LEGITIMATE
+20.  heaven              | Impact: 0.003137 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ou                  | Impact: 0.004430
+ 2.  heaven              | Impact: 0.003137
+ 3.  geek                | Impact: 0.002611
+ 4.  welcome             | Impact: 0.000596
+ 5.  to                  | Impact: 0.000596
+ 6.  dc                  | Impact: 0.000160
+ 7. cp                   | Impact: 0.000160
+ 8. ro                   | Impact: 0.000160
+ 9. c                    | Impact: 0.000160
+10.  for                 | Impact: 0.000160
+11.  those               | Impact: 0.000160
+12.  checks              | Impact: 0.000160
+13.  so                  | Impact: 0.000160
+14.  i                   | Impact: 0.000090
+15.  '                   | Impact: 0.000090
+16.  d                   | Impact: 0.000090
+17.  like                | Impact: 0.000090
+18.  _                   | Impact: 0.000041
+19.  _                   | Impact: 0.000041
+20.  _                   | Impact: 0.000041
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.047400
+ 2.  -                   | Impact: -0.018012
+ 3.  ;                   | Impact: -0.017260
+ 4. ch                   | Impact: -0.014189
+ 5.  :                   | Impact: -0.011667
+ 6.  sponsored           | Impact: -0.010976
+ 7.  per                 | Impact: -0.006666
+ 8.  )                   | Impact: -0.005496
+ 9.  -                   | Impact: -0.005352
+10.  -                   | Impact: -0.005352
+11.  is                  | Impact: -0.005267
+12.  net                 | Impact: -0.005149
+13.  email               | Impact: -0.005149
+14.  .                   | Impact: -0.005132
+15.  by                  | Impact: -0.004520
+16.  >                   | Impact: -0.004053
+17.  michael             | Impact: -0.003296
+18. l                    | Impact: -0.003173
+19.  without             | Impact: -0.002722
+20.  roast               | Impact: -0.002722

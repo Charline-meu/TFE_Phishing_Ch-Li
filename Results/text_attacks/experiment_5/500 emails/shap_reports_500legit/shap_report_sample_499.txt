@@ -1,0 +1,75 @@
+Sample 499
+==========
+
+Sample text preview: FYI -----Original Message----- From: Jones, Alan D. Sent: Friday, November , : PM To: Derrick Jr., James Subject: Residential security Mr. Derrick, I ...
+
+Model prediction: [9.9975806e-01 2.4190231e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.011406 → LEGITIMATE
+ 2.  thanks              | Impact: -0.011273 → LEGITIMATE
+ 3.  mr                  | Impact: 0.010936 → PHISHING
+ 4.  jr                  | Impact: 0.006691 → PHISHING
+ 5.  :                   | Impact: -0.005964 → LEGITIMATE
+ 6.  alan                | Impact: 0.005678 → PHISHING
+ 7.  subject             | Impact: -0.005535 → LEGITIMATE
+ 8.  security            | Impact: 0.005449 → PHISHING
+ 9.  .                   | Impact: -0.005112 → LEGITIMATE
+10.  pm                  | Impact: -0.005106 → LEGITIMATE
+11.  :                   | Impact: -0.004916 → LEGITIMATE
+12.  discuss             | Impact: -0.004603 → LEGITIMATE
+13.  .                   | Impact: -0.004099 → LEGITIMATE
+14.  residence           | Impact: 0.003822 → PHISHING
+15.  your                | Impact: 0.003766 → PHISHING
+16.  alan                | Impact: -0.003182 → LEGITIMATE
+17.  friday              | Impact: -0.002896 → LEGITIMATE
+18.  derrick             | Impact: -0.002623 → LEGITIMATE
+19.  .                   | Impact: -0.002603 → LEGITIMATE
+20.  week                | Impact: -0.002426 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.010936
+ 2.  jr                  | Impact: 0.006691
+ 3.  alan                | Impact: 0.005678
+ 4.  security            | Impact: 0.005449
+ 5.  residence           | Impact: 0.003822
+ 6.  your                | Impact: 0.003766
+ 7.  residential         | Impact: 0.002043
+ 8.  is                  | Impact: 0.001786
+ 9.  in                  | Impact: 0.001106
+10.  and                 | Impact: 0.001084
+11.  are                 | Impact: 0.000738
+12.  derrick             | Impact: 0.000727
+13.  or                  | Impact: 0.000650
+14.  was                 | Impact: 0.000627
+15.  to                  | Impact: 0.000565
+16.  taylor              | Impact: 0.000558
+17.  this                | Impact: 0.000558
+18.  interested          | Impact: 0.000458
+19.  cameras             | Impact: 0.000257
+20.  -                   | Impact: 0.000200
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.011406
+ 2.  thanks              | Impact: -0.011273
+ 3.  :                   | Impact: -0.005964
+ 4.  subject             | Impact: -0.005535
+ 5.  .                   | Impact: -0.005112
+ 6.  pm                  | Impact: -0.005106
+ 7.  :                   | Impact: -0.004916
+ 8.  discuss             | Impact: -0.004603
+ 9.  .                   | Impact: -0.004099
+10.  alan                | Impact: -0.003182
+11.  friday              | Impact: -0.002896
+12.  derrick             | Impact: -0.002623
+13.  .                   | Impact: -0.002603
+14.  week                | Impact: -0.002426
+15.  .                   | Impact: -0.002388
+16.  -                   | Impact: -0.002335
+17.  -                   | Impact: -0.002300
+18.  .                   | Impact: -0.002269
+19.  ,                   | Impact: -0.002200
+20.  ,                   | Impact: -0.001959

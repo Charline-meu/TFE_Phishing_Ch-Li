@@ -1,0 +1,69 @@
+Sample 402
+==========
+
+Sample text preview: URL: Date: Not supplied Researchers say they have made at least , atoms of cold antihydrogen - analysing them may reveal why antimatter is so rare
+
+Model prediction: [9.9967313e-01 3.2684216e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  reveal              | Impact: 0.081396 → PHISHING
+ 2.  may                 | Impact: -0.066956 → LEGITIMATE
+ 3.  atoms               | Impact: 0.050269 → PHISHING
+ 4. ter                  | Impact: -0.048476 → LEGITIMATE
+ 5.  rare                | Impact: 0.041831 → PHISHING
+ 6.  why                 | Impact: -0.036399 → LEGITIMATE
+ 7.  cold                | Impact: 0.033275 → PHISHING
+ 8. ys                   | Impact: -0.029776 → LEGITIMATE
+ 9.  anti                | Impact: -0.027140 → LEGITIMATE
+10. mat                  | Impact: -0.025667 → LEGITIMATE
+11.  them                | Impact: 0.024640 → PHISHING
+12.  anti                | Impact: 0.022921 → PHISHING
+13. hy                   | Impact: 0.021138 → PHISHING
+14.  so                  | Impact: -0.018412 → LEGITIMATE
+15. ing                  | Impact: -0.017899 → LEGITIMATE
+16.  say                 | Impact: -0.012785 → LEGITIMATE
+17.  they                | Impact: 0.009187 → PHISHING
+18.  anal                | Impact: -0.008303 → LEGITIMATE
+19.  is                  | Impact: 0.006756 → PHISHING
+20.  :                   | Impact: -0.004936 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  reveal              | Impact: 0.081396
+ 2.  atoms               | Impact: 0.050269
+ 3.  rare                | Impact: 0.041831
+ 4.  cold                | Impact: 0.033275
+ 5.  them                | Impact: 0.024640
+ 6.  anti                | Impact: 0.022921
+ 7. hy                   | Impact: 0.021138
+ 8.  they                | Impact: 0.009187
+ 9.  is                  | Impact: 0.006756
+10.  made                | Impact: 0.004638
+11.  supplied            | Impact: 0.003697
+12.  not                 | Impact: 0.002422
+13.  date                | Impact: 0.001974
+14.                      | Impact: 0.000002
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  may                 | Impact: -0.066956
+ 2. ter                  | Impact: -0.048476
+ 3.  why                 | Impact: -0.036399
+ 4. ys                   | Impact: -0.029776
+ 5.  anti                | Impact: -0.027140
+ 6. mat                  | Impact: -0.025667
+ 7.  so                  | Impact: -0.018412
+ 8. ing                  | Impact: -0.017899
+ 9.  say                 | Impact: -0.012785
+10.  anal                | Impact: -0.008303
+11.  :                   | Impact: -0.004936
+12.  researchers         | Impact: -0.004868
+13.  :                   | Impact: -0.004132
+14.  ur                  | Impact: -0.003765
+15.  have                | Impact: -0.003376
+16.  least               | Impact: -0.002925
+17. dro                  | Impact: -0.001600
+18. l                    | Impact: -0.001415
+19.  -                   | Impact: -0.001297
+20.  at                  | Impact: -0.000834

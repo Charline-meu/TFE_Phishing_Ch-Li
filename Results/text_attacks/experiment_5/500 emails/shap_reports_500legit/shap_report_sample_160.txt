@@ -1,0 +1,75 @@
+Sample 160
+==========
+
+Sample text preview: I worked with Pat on #. Please find attached what Pat and I put together for # Regards, -- Shawne -----Original Message----- From: Sent: Saturday, May...
+
+Model prediction: [0.9985726  0.00142734]
+Predicted class: LEGITIMATE with 0.9986 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  apologize           | Impact: -0.008730 → LEGITIMATE
+ 2.  attached            | Impact: -0.005879 → LEGITIMATE
+ 3.  what                | Impact: -0.005879 → LEGITIMATE
+ 4.  please              | Impact: -0.005447 → LEGITIMATE
+ 5.  -                   | Impact: -0.004737 → LEGITIMATE
+ 6.  -                   | Impact: -0.004670 → LEGITIMATE
+ 7.  -                   | Impact: -0.004670 → LEGITIMATE
+ 8.  find                | Impact: -0.004385 → LEGITIMATE
+ 9.  -                   | Impact: -0.004126 → LEGITIMATE
+10.  spreads             | Impact: -0.003803 → LEGITIMATE
+11. hee                  | Impact: -0.003803 → LEGITIMATE
+12.  -                   | Impact: -0.003422 → LEGITIMATE
+13. t                    | Impact: -0.003312 → LEGITIMATE
+14.  -                   | Impact: -0.003280 → LEGITIMATE
+15.  report              | Impact: -0.003108 → LEGITIMATE
+16.  -                   | Impact: -0.003105 → LEGITIMATE
+17.  -                   | Impact: -0.002963 → LEGITIMATE
+18.  -                   | Impact: -0.002963 → LEGITIMATE
+19.  problem             | Impact: -0.002950 → LEGITIMATE
+20.  #                   | Impact: -0.002950 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  jeff                | Impact: 0.002873
+ 2.  first               | Impact: 0.002527
+ 3.  shawn               | Impact: 0.001549
+ 4.  worked              | Impact: 0.001549
+ 5.  together            | Impact: 0.001138
+ 6.  carolyn             | Impact: 0.001082
+ 7.  put                 | Impact: 0.001082
+ 8.                      | Impact: 0.001048
+ 9.  i                   | Impact: 0.001048
+10.  with                | Impact: 0.001018
+11.  #                   | Impact: 0.000764
+12.  but                 | Impact: 0.000654
+13.  since               | Impact: 0.000654
+14.  i                   | Impact: 0.000654
+15.  ,                   | Impact: 0.000621
+16.  i                   | Impact: 0.000576
+17.  were                | Impact: 0.000576
+18.  can                 | Impact: 0.000556
+19.  '                   | Impact: 0.000556
+20.  t                   | Impact: 0.000556
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  apologize           | Impact: -0.008730
+ 2.  attached            | Impact: -0.005879
+ 3.  what                | Impact: -0.005879
+ 4.  please              | Impact: -0.005447
+ 5.  -                   | Impact: -0.004737
+ 6.  -                   | Impact: -0.004670
+ 7.  -                   | Impact: -0.004670
+ 8.  find                | Impact: -0.004385
+ 9.  -                   | Impact: -0.004126
+10.  spreads             | Impact: -0.003803
+11. hee                  | Impact: -0.003803
+12.  -                   | Impact: -0.003422
+13. t                    | Impact: -0.003312
+14.  -                   | Impact: -0.003280
+15.  report              | Impact: -0.003108
+16.  -                   | Impact: -0.003105
+17.  -                   | Impact: -0.002963
+18.  -                   | Impact: -0.002963
+19.  problem             | Impact: -0.002950
+20.  #                   | Impact: -0.002950

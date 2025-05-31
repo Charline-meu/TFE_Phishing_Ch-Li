@@ -1,0 +1,69 @@
+Sample 451
+==========
+
+Sample text preview: Good morning I have sent the btc to your bitcoin wallet as agreed. Please sign in with the details below to confirm receipt. WWW.PEAKOIN.COM Customer ...
+
+Model prediction: [1.8037697e-04 9.9981970e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  www                 | Impact: 0.155867 → PHISHING
+ 2.  password            | Impact: 0.122379 → PHISHING
+ 3.  id                  | Impact: 0.079448 → PHISHING
+ 4.  wallet              | Impact: 0.058960 → PHISHING
+ 5.  your                | Impact: 0.056692 → PHISHING
+ 6.  com                 | Impact: 0.054656 → PHISHING
+ 7.  @                   | Impact: 0.043678 → PHISHING
+ 8.  you                 | Impact: 0.041172 → PHISHING
+ 9.  we                  | Impact: 0.031407 → PHISHING
+10.  customer            | Impact: 0.031209 → PHISHING
+11.  f                   | Impact: 0.029503 → PHISHING
+12.  confirm             | Impact: 0.025904 → PHISHING
+13.  below               | Impact: 0.024759 → PHISHING
+14. f                    | Impact: 0.023948 → PHISHING
+15.  receipt             | Impact: 0.020985 → PHISHING
+16.  am                  | Impact: 0.017978 → PHISHING
+17.  sign                | Impact: 0.017194 → PHISHING
+18.  morning             | Impact: 0.015635 → PHISHING
+19.  please              | Impact: 0.015398 → PHISHING
+20.  bt                  | Impact: 0.014615 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  www                 | Impact: 0.155867
+ 2.  password            | Impact: 0.122379
+ 3.  id                  | Impact: 0.079448
+ 4.  wallet              | Impact: 0.058960
+ 5.  your                | Impact: 0.056692
+ 6.  com                 | Impact: 0.054656
+ 7.  @                   | Impact: 0.043678
+ 8.  you                 | Impact: 0.041172
+ 9.  we                  | Impact: 0.031407
+10.  customer            | Impact: 0.031209
+11.  f                   | Impact: 0.029503
+12.  confirm             | Impact: 0.025904
+13.  below               | Impact: 0.024759
+14. f                    | Impact: 0.023948
+15.  receipt             | Impact: 0.020985
+16.  am                  | Impact: 0.017978
+17.  sign                | Impact: 0.017194
+18.  morning             | Impact: 0.015635
+19.  please              | Impact: 0.015398
+20.  bt                  | Impact: 0.014615
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  worried             | Impact: -0.009564
+ 2.  the                 | Impact: -0.009069
+ 3.  .                   | Impact: -0.008698
+ 4.  that                | Impact: -0.008319
+ 5.  t                   | Impact: -0.007582
+ 6.  good                | Impact: -0.006099
+ 7.  '                   | Impact: -0.005811
+ 8.  regards             | Impact: -0.005048
+ 9.  from                | Impact: -0.002098
+10.  .                   | Impact: -0.001830
+11. c                    | Impact: -0.001671
+12.  haven               | Impact: -0.001138
+13. oin                  | Impact: -0.000422
+14.  i                   | Impact: -0.000107

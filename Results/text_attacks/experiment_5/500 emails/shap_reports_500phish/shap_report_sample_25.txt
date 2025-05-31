@@ -1,0 +1,75 @@
+Sample 25
+=========
+
+Sample text preview: Flat-Rate Unlimited Domestic Calling? How does it work? >From the registered phone line, you can call to any phone in the contiguous States. You speed...
+
+Model prediction: [4.6628618e-04 9.9953377e-01]
+Predicted class: PHISHING with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.030378 → PHISHING
+ 2.  bank                | Impact: 0.030378 → PHISHING
+ 3.  account             | Impact: 0.030378 → PHISHING
+ 4.  offer               | Impact: 0.015945 → PHISHING
+ 5.  you                 | Impact: 0.015945 → PHISHING
+ 6.  access              | Impact: 0.014478 → PHISHING
+ 7.  the                 | Impact: 0.014109 → PHISHING
+ 8.  service             | Impact: 0.014109 → PHISHING
+ 9.  #                   | Impact: 0.013229 → PHISHING
+10.  drafted             | Impact: 0.011621 → PHISHING
+11.  from                | Impact: 0.011621 → PHISHING
+12.  send                | Impact: 0.011458 → PHISHING
+13.  your                | Impact: 0.011458 → PHISHING
+14.  phone               | Impact: 0.011458 → PHISHING
+15.  number              | Impact: 0.011458 → PHISHING
+16.  .                   | Impact: 0.010315 → PHISHING
+17.  distance            | Impact: 0.010065 → PHISHING
+18.  dial                | Impact: 0.009456 → PHISHING
+19.  an                  | Impact: 0.009456 → PHISHING
+20.  you                 | Impact: 0.009419 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.030378
+ 2.  bank                | Impact: 0.030378
+ 3.  account             | Impact: 0.030378
+ 4.  offer               | Impact: 0.015945
+ 5.  you                 | Impact: 0.015945
+ 6.  access              | Impact: 0.014478
+ 7.  the                 | Impact: 0.014109
+ 8.  service             | Impact: 0.014109
+ 9.  #                   | Impact: 0.013229
+10.  drafted             | Impact: 0.011621
+11.  from                | Impact: 0.011621
+12.  send                | Impact: 0.011458
+13.  your                | Impact: 0.011458
+14.  phone               | Impact: 0.011458
+15.  number              | Impact: 0.011458
+16.  .                   | Impact: 0.010315
+17.  distance            | Impact: 0.010065
+18.  dial                | Impact: 0.009456
+19.  an                  | Impact: 0.009456
+20.  you                 | Impact: 0.009419
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.005505
+ 2.  .                   | Impact: -0.003716
+ 3.  all                 | Impact: -0.003542
+ 4.  included            | Impact: -0.003542
+ 5.  .                   | Impact: -0.003060
+ 6.  .                   | Impact: -0.002615
+ 7.  ?                   | Impact: -0.002149
+ 8.  arch                | Impact: -0.001784
+ 9. wire                 | Impact: -0.001784
+10. less                 | Impact: -0.001784
+11.  .                   | Impact: -0.001784
+12.  ?                   | Impact: -0.001742
+13.  *                   | Impact: -0.001736
+14.  what                | Impact: -0.001736
+15.  are                 | Impact: -0.001736
+16.  the                 | Impact: -0.001736
+17.  limits              | Impact: -0.001736
+18.  rate                | Impact: -0.001678
+19.  for                 | Impact: -0.001678
+20.  unlimited           | Impact: -0.001678

@@ -1,0 +1,75 @@
+Sample 241
+==========
+
+Sample text preview: MY REQUEST In order to transfer out ( fifteen-million pounds sterlings) from our Bank here in london. I have the courage to look for a reliable and ho...
+
+Model prediction: [1.5576313e-04 9.9984419e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  this                | Impact: 0.020343 → PHISHING
+ 2.  money               | Impact: 0.020343 → PHISHING
+ 3.  bank                | Impact: 0.017927 → PHISHING
+ 4.  mr                  | Impact: 0.017029 → PHISHING
+ 5.  lewis               | Impact: 0.017029 → PHISHING
+ 6.  ben                 | Impact: 0.012602 → PHISHING
+ 7. ef                   | Impact: 0.012602 → PHISHING
+ 8.  here                | Impact: 0.012209 → PHISHING
+ 9.  this                | Impact: 0.011111 → PHISHING
+10.  bank                | Impact: 0.011111 → PHISHING
+11.  in                  | Impact: 0.011111 → PHISHING
+12.  opened              | Impact: 0.009975 → PHISHING
+13.  in                  | Impact: 0.009975 → PHISHING
+14. icia                 | Impact: 0.009371 → PHISHING
+15. ry                   | Impact: 0.009371 → PHISHING
+16.  in                  | Impact: 0.008337 → PHISHING
+17.  scotland            | Impact: 0.008337 → PHISHING
+18.  united              | Impact: 0.008337 → PHISHING
+19.  kingdom             | Impact: 0.008337 → PHISHING
+20.  how                 | Impact: 0.007762 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  this                | Impact: 0.020343
+ 2.  money               | Impact: 0.020343
+ 3.  bank                | Impact: 0.017927
+ 4.  mr                  | Impact: 0.017029
+ 5.  lewis               | Impact: 0.017029
+ 6.  ben                 | Impact: 0.012602
+ 7. ef                   | Impact: 0.012602
+ 8.  here                | Impact: 0.012209
+ 9.  this                | Impact: 0.011111
+10.  bank                | Impact: 0.011111
+11.  in                  | Impact: 0.011111
+12.  opened              | Impact: 0.009975
+13.  in                  | Impact: 0.009975
+14. icia                 | Impact: 0.009371
+15. ry                   | Impact: 0.009371
+16.  in                  | Impact: 0.008337
+17.  scotland            | Impact: 0.008337
+18.  united              | Impact: 0.008337
+19.  kingdom             | Impact: 0.008337
+20.  how                 | Impact: 0.007762
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  is                  | Impact: -0.003523
+ 2.  needed              | Impact: -0.003523
+ 3.  the                 | Impact: -0.003390
+ 4.  amount              | Impact: -0.003390
+ 5.  involved            | Impact: -0.003390
+ 6.  is                  | Impact: -0.003390
+ 7.  the                 | Impact: -0.002521
+ 8.  auditor             | Impact: -0.002521
+ 9.  and                 | Impact: -0.002521
+10.  ,                   | Impact: -0.002186
+11.  .                   | Impact: -0.002186
+12.  )                   | Impact: -0.002186
+13.  thanks              | Impact: -0.002183
+14.  .                   | Impact: -0.002183
+15.  res                 | Impact: -0.002151
+16. pon                  | Impact: -0.002151
+17. s                    | Impact: -0.002151
+18.  e                   | Impact: -0.001933
+19.  -                   | Impact: -0.001933
+20.  mail                | Impact: -0.001933

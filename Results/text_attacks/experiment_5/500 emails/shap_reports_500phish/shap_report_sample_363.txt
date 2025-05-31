@@ -1,0 +1,75 @@
+Sample 363
+==========
+
+Sample text preview: KEVIN GEORGE ABIDJAN,COTE D'IVORIE WEST AFRICA Dearest one, Although we have not met, I got your contact through the internet and decided to contact y...
+
+Model prediction: [2.1655789e-04 9.9978346e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  father              | Impact: 0.021343 → PHISHING
+ 2.  contact             | Impact: 0.016189 → PHISHING
+ 3.  you                 | Impact: 0.016189 → PHISHING
+ 4.  my                  | Impact: 0.010867 → PHISHING
+ 5.  late                | Impact: 0.010867 → PHISHING
+ 6.  decided             | Impact: 0.008707 → PHISHING
+ 7.  to                  | Impact: 0.008707 → PHISHING
+ 8.  dear                | Impact: 0.005747 → PHISHING
+ 9. est                  | Impact: 0.005747 → PHISHING
+10.  one                 | Impact: 0.005747 → PHISHING
+11.  ,                   | Impact: 0.005747 → PHISHING
+12.  killed              | Impact: 0.005431 → PHISHING
+13.  my                  | Impact: 0.005431 → PHISHING
+14.  parents             | Impact: 0.005431 → PHISHING
+15.  in                  | Impact: 0.005431 → PHISHING
+16.  for                 | Impact: 0.005422 → PHISHING
+17.  the                 | Impact: 0.005422 → PHISHING
+18.  remains             | Impact: 0.005422 → PHISHING
+19.  of                  | Impact: 0.005422 → PHISHING
+20.  my                  | Impact: 0.005422 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  father              | Impact: 0.021343
+ 2.  contact             | Impact: 0.016189
+ 3.  you                 | Impact: 0.016189
+ 4.  my                  | Impact: 0.010867
+ 5.  late                | Impact: 0.010867
+ 6.  decided             | Impact: 0.008707
+ 7.  to                  | Impact: 0.008707
+ 8.  dear                | Impact: 0.005747
+ 9. est                  | Impact: 0.005747
+10.  one                 | Impact: 0.005747
+11.  ,                   | Impact: 0.005747
+12.  killed              | Impact: 0.005431
+13.  my                  | Impact: 0.005431
+14.  parents             | Impact: 0.005431
+15.  in                  | Impact: 0.005431
+16.  for                 | Impact: 0.005422
+17.  the                 | Impact: 0.005422
+18.  remains             | Impact: 0.005422
+19.  of                  | Impact: 0.005422
+20.  my                  | Impact: 0.005422
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  but                 | Impact: -0.003305
+ 2.  through             | Impact: -0.003049
+ 3.  the                 | Impact: -0.003049
+ 4.  internet            | Impact: -0.003049
+ 5.  and                 | Impact: -0.003049
+ 6.  a                   | Impact: -0.002228
+ 7.  final               | Impact: -0.002228
+ 8.  year                | Impact: -0.002228
+ 9.  engineering         | Impact: -0.002228
+10.  student             | Impact: -0.002228
+11.  of                  | Impact: -0.002228
+12.  the                 | Impact: -0.002228
+13.  university          | Impact: -0.002228
+14.  del                 | Impact: -0.001293
+15. ibe                  | Impact: -0.001293
+16. rat                  | Impact: -0.001293
+17. ley                  | Impact: -0.001293
+18.  ,                   | Impact: -0.001293
+19.  -                   | Impact: -0.000730
+20.  -                   | Impact: -0.000730

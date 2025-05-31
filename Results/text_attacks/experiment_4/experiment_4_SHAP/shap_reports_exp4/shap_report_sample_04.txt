@@ -1,0 +1,75 @@
+Phishing Sample 4
+=================
+
+Sample text preview: You have received a file via linkedln .pdf Views File size .MB } Expires //. Preview / Download © LinkedIn Ireland Unlimited Company. LinkedIn, the Li...
+
+Model prediction: [0.00143759 0.9985624 ]
+Predicted class: PHISHING with 0.9986 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ©                   | Impact: 0.058426 → PHISHING
+ 2.  you                 | Impact: 0.056016 → PHISHING
+ 3.  download            | Impact: 0.050140 → PHISHING
+ 4.  via                 | Impact: 0.030516 → PHISHING
+ 5.  you                 | Impact: 0.027607 → PHISHING
+ 6.  are                 | Impact: 0.027607 → PHISHING
+ 7.  file                | Impact: 0.026114 → PHISHING
+ 8.  a                   | Impact: 0.025729 → PHISHING
+ 9.  private             | Impact: 0.025729 → PHISHING
+10.  unlimited           | Impact: 0.025729 → PHISHING
+11.  company             | Impact: 0.025729 → PHISHING
+12. pp                   | Impact: -0.025074 → LEGITIMATE
+13.  company             | Impact: 0.024667 → PHISHING
+14.  number              | Impact: 0.024667 → PHISHING
+15.  registered          | Impact: 0.024093 → PHISHING
+16.  office              | Impact: 0.024093 → PHISHING
+17.  registered          | Impact: 0.021587 → PHISHING
+18.  in                  | Impact: 0.021587 → PHISHING
+19.  a                   | Impact: 0.021564 → PHISHING
+20.  file                | Impact: 0.017292 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.058426
+ 2.  you                 | Impact: 0.056016
+ 3.  download            | Impact: 0.050140
+ 4.  via                 | Impact: 0.030516
+ 5.  you                 | Impact: 0.027607
+ 6.  are                 | Impact: 0.027607
+ 7.  file                | Impact: 0.026114
+ 8.  a                   | Impact: 0.025729
+ 9.  private             | Impact: 0.025729
+10.  unlimited           | Impact: 0.025729
+11.  company             | Impact: 0.025729
+12.  company             | Impact: 0.024667
+13.  number              | Impact: 0.024667
+14.  registered          | Impact: 0.024093
+15.  office              | Impact: 0.024093
+16.  registered          | Impact: 0.021587
+17.  in                  | Impact: 0.021587
+18.  a                   | Impact: 0.021564
+19.  file                | Impact: 0.017292
+20.  size                | Impact: 0.017292
+
+Top features pushing towards LEGITIMATE classification:
+ 1. pp                   | Impact: -0.025074
+ 2.  the                 | Impact: -0.009170
+ 3.  linked              | Impact: -0.009170
+ 4. in                   | Impact: -0.009170
+ 5.  for                 | Impact: -0.008838
+ 6.  lia                 | Impact: -0.008838
+ 7.  logo                | Impact: -0.006147
+ 8.  ,                   | Impact: -0.006147
+ 9.  other               | Impact: -0.004642
+10.  countries           | Impact: -0.004642
+11.  .                   | Impact: -0.004642
+12.  trademark           | Impact: -0.004240
+13. s                    | Impact: -0.004240
+14.  of                  | Impact: -0.004240
+15.  the                 | Impact: -0.004213
+16.  united              | Impact: -0.004213
+17.  states              | Impact: -0.004213
+18.  and                 | Impact: -0.004213
+19.  /                   | Impact: -0.004213
+20.  or                  | Impact: -0.004213

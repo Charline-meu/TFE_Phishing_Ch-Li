@@ -1,0 +1,75 @@
+Sample 170
+==========
+
+Sample text preview: Dear Friend, I am Mr. Clive Osborne, the first son of John Osborne, the popular black farmer in Macheke district of Zimbabwe who narrowly escape durin...
+
+Model prediction: [1.6668916e-04 9.9983323e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  president           | Impact: 0.018561 → PHISHING
+ 2.  mr                  | Impact: 0.018561 → PHISHING
+ 3.  father              | Impact: 0.018226 → PHISHING
+ 4.  my                  | Impact: 0.014219 → PHISHING
+ 5.  mr                  | Impact: 0.010837 → PHISHING
+ 6.  my                  | Impact: 0.009757 → PHISHING
+ 7.  father              | Impact: 0.009757 → PHISHING
+ 8.  zimbabwe            | Impact: 0.009230 → PHISHING
+ 9. an                   | Impact: 0.009230 → PHISHING
+10.  father              | Impact: 0.007595 → PHISHING
+11.  '                   | Impact: 0.007595 → PHISHING
+12.  s                   | Impact: 0.007595 → PHISHING
+13.                      | Impact: 0.007282 → PHISHING
+14.  dear                | Impact: 0.007282 → PHISHING
+15.  friend              | Impact: 0.007282 → PHISHING
+16.  i                   | Impact: 0.006099 → PHISHING
+17.  and                 | Impact: 0.006099 → PHISHING
+18.  my                  | Impact: 0.006099 → PHISHING
+19.  family              | Impact: 0.006099 → PHISHING
+20.  fled                | Impact: 0.006099 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  president           | Impact: 0.018561
+ 2.  mr                  | Impact: 0.018561
+ 3.  father              | Impact: 0.018226
+ 4.  my                  | Impact: 0.014219
+ 5.  mr                  | Impact: 0.010837
+ 6.  my                  | Impact: 0.009757
+ 7.  father              | Impact: 0.009757
+ 8.  zimbabwe            | Impact: 0.009230
+ 9. an                   | Impact: 0.009230
+10.  father              | Impact: 0.007595
+11.  '                   | Impact: 0.007595
+12.  s                   | Impact: 0.007595
+13.                      | Impact: 0.007282
+14.  dear                | Impact: 0.007282
+15.  friend              | Impact: 0.007282
+16.  i                   | Impact: 0.006099
+17.  and                 | Impact: 0.006099
+18.  my                  | Impact: 0.006099
+19.  family              | Impact: 0.006099
+20.  fled                | Impact: 0.006099
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  also                | Impact: -0.003482
+ 2.  mapped              | Impact: -0.003482
+ 3.  i                   | Impact: -0.002505
+ 4.  have                | Impact: -0.002505
+ 5.  states              | Impact: -0.001733
+ 6.  dollars             | Impact: -0.001733
+ 7.  }                   | Impact: -0.001733
+ 8.  ,                   | Impact: -0.001733
+ 9.  osborne             | Impact: -0.001430
+10.  ,                   | Impact: -0.001430
+11.  it                  | Impact: -0.000565
+12.  is                  | Impact: -0.000565
+13.  against             | Impact: -0.000565
+14.  this                | Impact: -0.000565
+15.  background          | Impact: -0.000565
+16.  that                | Impact: -0.000565
+17.  ,                   | Impact: -0.000565
+18.  out                 | Impact: -0.000471
+19.  %                   | Impact: -0.000471
+20.  to                  | Impact: -0.000471

@@ -1,0 +1,75 @@
+Sample 441
+==========
+
+Sample text preview: Dear Jane M. Tholt, Once again thank you for shopping with --FLOWERS.COM . At this time, we would like to provide you with delivery information regard...
+
+Model prediction: [0.9954491 0.0045509]
+Predicted class: LEGITIMATE with 0.9954 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.131883 → PHISHING
+ 2.  thank               | Impact: -0.054163 → LEGITIMATE
+ 3.  dear                | Impact: 0.053858 → PHISHING
+ 4.  you                 | Impact: 0.052187 → PHISHING
+ 5.  here                | Impact: 0.050265 → PHISHING
+ 6.  -                   | Impact: -0.049118 → LEGITIMATE
+ 7.  flowers             | Impact: -0.049118 → LEGITIMATE
+ 8.  delivered           | Impact: 0.042104 → PHISHING
+ 9.  com                 | Impact: -0.041135 → LEGITIMATE
+10.  provide             | Impact: 0.037419 → PHISHING
+11.  with                | Impact: 0.031814 → PHISHING
+12.  delivery            | Impact: 0.031814 → PHISHING
+13.  with                | Impact: -0.029463 → LEGITIMATE
+14.  -                   | Impact: -0.029463 → LEGITIMATE
+15.  /                   | Impact: 0.028293 → PHISHING
+16.  !                   | Impact: -0.027117 → LEGITIMATE
+17.  you                 | Impact: -0.027107 → LEGITIMATE
+18.  was                 | Impact: 0.026845 → PHISHING
+19.  for                 | Impact: -0.024868 → LEGITIMATE
+20.  shopping            | Impact: -0.024868 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.131883
+ 2.  dear                | Impact: 0.053858
+ 3.  you                 | Impact: 0.052187
+ 4.  here                | Impact: 0.050265
+ 5.  delivered           | Impact: 0.042104
+ 6.  provide             | Impact: 0.037419
+ 7.  with                | Impact: 0.031814
+ 8.  delivery            | Impact: 0.031814
+ 9.  /                   | Impact: 0.028293
+10.  was                 | Impact: 0.026845
+11.  on                  | Impact: 0.024444
+12.  sincerely           | Impact: 0.022366
+13.  ,                   | Impact: 0.009915
+14.  remember            | Impact: 0.008847
+15.  your                | Impact: 0.008847
+16.  family              | Impact: 0.008847
+17.  and                 | Impact: 0.006838
+18.  .                   | Impact: 0.006726
+19.  e                   | Impact: 0.006531
+20.  -                   | Impact: 0.006531
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thank               | Impact: -0.054163
+ 2.  -                   | Impact: -0.049118
+ 3.  flowers             | Impact: -0.049118
+ 4.  com                 | Impact: -0.041135
+ 5.  with                | Impact: -0.029463
+ 6.  -                   | Impact: -0.029463
+ 7.  !                   | Impact: -0.027117
+ 8.  you                 | Impact: -0.027107
+ 9.  for                 | Impact: -0.024868
+10.  shopping            | Impact: -0.024868
+11.  meredith            | Impact: -0.022221
+12.  mca                 | Impact: -0.022221
+13. rd                   | Impact: -0.022221
+14. le                   | Impact: -0.022221
+15.  .                   | Impact: -0.021847
+16.  -                   | Impact: -0.015209
+17.  -                   | Impact: -0.015209
+18.  .                   | Impact: -0.013704
+19.  jane                | Impact: -0.009735
+20.  director            | Impact: -0.008371

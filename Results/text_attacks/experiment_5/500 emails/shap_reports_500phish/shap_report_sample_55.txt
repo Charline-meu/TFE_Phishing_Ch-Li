@@ -1,0 +1,71 @@
+Sample 55
+=========
+
+Sample text preview: FROM: Mr RAY KABE BANGKOK THAILAND DEAR SIR, You may be surprised to receive this letter from me since you do not know me personally, the purpose of m...
+
+Model prediction: [1.8258583e-04 9.9981743e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  of                  | Impact: 0.007343 → PHISHING
+ 2.  my                  | Impact: 0.007343 → PHISHING
+ 3.  family              | Impact: 0.007343 → PHISHING
+ 4.  in                  | Impact: 0.007343 → PHISHING
+ 5.  his                 | Impact: 0.007343 → PHISHING
+ 6.  hands               | Impact: 0.007343 → PHISHING
+ 7.  ,                   | Impact: 0.007343 → PHISHING
+ 8.  come                | Impact: 0.006708 → PHISHING
+ 9.  to                  | Impact: 0.006708 → PHISHING
+10.  bangkok             | Impact: 0.006708 → PHISHING
+11.  thailand            | Impact: 0.006708 → PHISHING
+12.  ,                   | Impact: 0.006708 → PHISHING
+13.  dear                | Impact: 0.005739 → PHISHING
+14.  sir                 | Impact: 0.005739 → PHISHING
+15.  ,                   | Impact: 0.005739 → PHISHING
+16.  who                 | Impact: 0.005693 → PHISHING
+17.  i                   | Impact: 0.005693 → PHISHING
+18.  have                | Impact: 0.005693 → PHISHING
+19.  to                  | Impact: 0.005693 → PHISHING
+20.  en                  | Impact: 0.005693 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  of                  | Impact: 0.007343
+ 2.  my                  | Impact: 0.007343
+ 3.  family              | Impact: 0.007343
+ 4.  in                  | Impact: 0.007343
+ 5.  his                 | Impact: 0.007343
+ 6.  hands               | Impact: 0.007343
+ 7.  ,                   | Impact: 0.007343
+ 8.  come                | Impact: 0.006708
+ 9.  to                  | Impact: 0.006708
+10.  bangkok             | Impact: 0.006708
+11.  thailand            | Impact: 0.006708
+12.  ,                   | Impact: 0.006708
+13.  dear                | Impact: 0.005739
+14.  sir                 | Impact: 0.005739
+15.  ,                   | Impact: 0.005739
+16.  who                 | Impact: 0.005693
+17.  i                   | Impact: 0.005693
+18.  have                | Impact: 0.005693
+19.  to                  | Impact: 0.005693
+20.  en                  | Impact: 0.005693
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  or                  | Impact: -0.000032
+ 2.  to                  | Impact: -0.000032
+ 3.  be                  | Impact: -0.000032
+ 4.  involved            | Impact: -0.000032
+ 5.  in                  | Impact: -0.000032
+ 6.  any                 | Impact: -0.000032
+ 7.  financial           | Impact: -0.000032
+ 8.  transaction         | Impact: -0.000032
+ 9.  throughout          | Impact: -0.000032
+10.  the                 | Impact: -0.000032
+11.  ter                 | Impact: -0.000032
+12. itor                 | Impact: -0.000032
+13. ial                  | Impact: -0.000032
+14.  zone                | Impact: -0.000032
+15.  bangkok             | Impact: -0.000032
+16.  .                   | Impact: -0.000032

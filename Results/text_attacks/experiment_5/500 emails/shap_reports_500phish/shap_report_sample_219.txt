@@ -1,0 +1,75 @@
+Sample 219
+==========
+
+Sample text preview: Account has been temporarily disabled For security reasons we have disabled your account at Wells Fargo. Some activities could not be processed. To co...
+
+Model prediction: [1.7280124e-04 9.9982721e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.050634 → PHISHING
+ 2.  address             | Impact: 0.050381 → PHISHING
+ 3.  your                | Impact: 0.049405 → PHISHING
+ 4.  account             | Impact: 0.047966 → PHISHING
+ 5.  email               | Impact: 0.035212 → PHISHING
+ 6.  account             | Impact: 0.034895 → PHISHING
+ 7.  your                | Impact: 0.028234 → PHISHING
+ 8.  account             | Impact: 0.027503 → PHISHING
+ 9.  updated             | Impact: 0.027036 → PHISHING
+10.  contact             | Impact: 0.022148 → PHISHING
+11.  confirm             | Impact: 0.020852 → PHISHING
+12.  account             | Impact: 0.019817 → PHISHING
+13.  |                   | Impact: 0.017197 → PHISHING
+14.  please              | Impact: 0.016757 → PHISHING
+15.  banking             | Impact: 0.014976 → PHISHING
+16.  account             | Impact: 0.014898 → PHISHING
+17.  your                | Impact: 0.014482 → PHISHING
+18.  kindly              | Impact: 0.014345 → PHISHING
+19.  email               | Impact: 0.014132 → PHISHING
+20.  assistance          | Impact: 0.012706 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.050634
+ 2.  address             | Impact: 0.050381
+ 3.  your                | Impact: 0.049405
+ 4.  account             | Impact: 0.047966
+ 5.  email               | Impact: 0.035212
+ 6.  account             | Impact: 0.034895
+ 7.  your                | Impact: 0.028234
+ 8.  account             | Impact: 0.027503
+ 9.  updated             | Impact: 0.027036
+10.  contact             | Impact: 0.022148
+11.  confirm             | Impact: 0.020852
+12.  account             | Impact: 0.019817
+13.  |                   | Impact: 0.017197
+14.  please              | Impact: 0.016757
+15.  banking             | Impact: 0.014976
+16.  account             | Impact: 0.014898
+17.  your                | Impact: 0.014482
+18.  kindly              | Impact: 0.014345
+19.  email               | Impact: 0.014132
+20.  assistance          | Impact: 0.012706
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  user                | Impact: -0.009219
+ 2.  "                   | Impact: -0.005281
+ 3.  :                   | Impact: -0.003881
+ 4.  note                | Impact: -0.003270
+ 5.  .                   | Impact: -0.003242
+ 6.  "                   | Impact: -0.003214
+ 7.  guest               | Impact: -0.003214
+ 8.  reasons             | Impact: -0.002974
+ 9.  customer            | Impact: -0.001210
+10.  '                   | Impact: -0.001210
+11.  s                   | Impact: -0.001210
+12.  (                   | Impact: -0.001185
+13.  ,                   | Impact: -0.000983
+14.  also                | Impact: -0.000935
+15.  receive             | Impact: -0.000935
+16.  .                   | Impact: -0.000665
+17.  with                | Impact: -0.000665
+18.  wells               | Impact: -0.000665
+19.  fargo               | Impact: -0.000665
+20.  the                 | Impact: -0.000233

@@ -1,0 +1,75 @@
+Sample 283
+==========
+
+Sample text preview: Dear Sir, Difficulties encountered in efforts to establish a business abroad necessitate this search for someone to assist me in securing and investin...
+
+Model prediction: [1.6489509e-04 9.9983513e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  yours               | Impact: 0.020234 → PHISHING
+ 2.  sincerely           | Impact: 0.020214 → PHISHING
+ 3.  bang                | Impact: 0.019580 → PHISHING
+ 4. a                    | Impact: 0.019580 → PHISHING
+ 5.  your                | Impact: 0.018939 → PHISHING
+ 6.  dear                | Impact: 0.018853 → PHISHING
+ 7.  name                | Impact: 0.017805 → PHISHING
+ 8.  family              | Impact: 0.015475 → PHISHING
+ 9.  money               | Impact: 0.015371 → PHISHING
+10.  this                | Impact: 0.013804 → PHISHING
+11.  since               | Impact: 0.013559 → PHISHING
+12.  sir                 | Impact: 0.013197 → PHISHING
+13.                      | Impact: 0.010977 → PHISHING
+14.  inherited           | Impact: 0.010799 → PHISHING
+15.  property            | Impact: 0.010799 → PHISHING
+16.  zimbabwe            | Impact: 0.007833 → PHISHING
+17. an                   | Impact: 0.007833 → PHISHING
+18.  the                 | Impact: 0.007539 → PHISHING
+19.  heir                | Impact: 0.007539 → PHISHING
+20.  a                   | Impact: 0.007399 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  yours               | Impact: 0.020234
+ 2.  sincerely           | Impact: 0.020214
+ 3.  bang                | Impact: 0.019580
+ 4. a                    | Impact: 0.019580
+ 5.  your                | Impact: 0.018939
+ 6.  dear                | Impact: 0.018853
+ 7.  name                | Impact: 0.017805
+ 8.  family              | Impact: 0.015475
+ 9.  money               | Impact: 0.015371
+10.  this                | Impact: 0.013804
+11.  since               | Impact: 0.013559
+12.  sir                 | Impact: 0.013197
+13.                      | Impact: 0.010977
+14.  inherited           | Impact: 0.010799
+15.  property            | Impact: 0.010799
+16.  zimbabwe            | Impact: 0.007833
+17. an                   | Impact: 0.007833
+18.  the                 | Impact: 0.007539
+19.  heir                | Impact: 0.007539
+20.  a                   | Impact: 0.007399
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  rent                | Impact: -0.003836
+ 2. able                 | Impact: -0.003836
+ 3.  sector              | Impact: -0.003836
+ 4.  minority            | Impact: -0.002528
+ 5.  white               | Impact: -0.002528
+ 6.  farmers             | Impact: -0.002528
+ 7.  .                   | Impact: -0.002528
+ 8.  ag                  | Impact: -0.002408
+ 9. ric                  | Impact: -0.002408
+10. ult                  | Impact: -0.002408
+11. uri                  | Impact: -0.002408
+12. st                   | Impact: -0.002408
+13.  .                   | Impact: -0.002263
+14.  investment          | Impact: -0.002226
+15.  in                  | Impact: -0.002226
+16.  agriculture         | Impact: -0.002226
+17.  to                  | Impact: -0.002139
+18.  sum                 | Impact: -0.002139
+19. mar                  | Impact: -0.002139
+20. ise                  | Impact: -0.002139

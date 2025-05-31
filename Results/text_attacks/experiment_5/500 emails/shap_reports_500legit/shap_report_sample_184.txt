@@ -1,0 +1,71 @@
+Sample 184
+==========
+
+Sample text preview: CALENDAR ENTRY: APPOINTMENT Description: Final :am Process Mtg (Sheila,Lynn&others) Date: // Time: : PM - : PM (Central Standard Time) Chairperson: Ou...
+
+Model prediction: [9.9977046e-01 2.2954741e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  &                   | Impact: 0.087421 → PHISHING
+ 2.  others              | Impact: 0.034177 → PHISHING
+ 3.  :                   | Impact: -0.031180 → LEGITIMATE
+ 4.  calendar            | Impact: -0.027851 → LEGITIMATE
+ 5.  description         | Impact: -0.021865 → LEGITIMATE
+ 6.  :                   | Impact: -0.021253 → LEGITIMATE
+ 7.  entry               | Impact: 0.018891 → PHISHING
+ 8.  standard            | Impact: -0.013108 → LEGITIMATE
+ 9.  detailed            | Impact: -0.011996 → LEGITIMATE
+10.  am                  | Impact: -0.010527 → LEGITIMATE
+11.  central             | Impact: -0.010508 → LEGITIMATE
+12.  (                   | Impact: 0.010386 → PHISHING
+13.  process             | Impact: -0.010308 → LEGITIMATE
+14.  :                   | Impact: -0.008982 → LEGITIMATE
+15.  (                   | Impact: 0.008791 → PHISHING
+16.  sheila              | Impact: -0.008773 → LEGITIMATE
+17.  )                   | Impact: 0.008504 → PHISHING
+18.  lynn                | Impact: 0.008357 → PHISHING
+19.  team                | Impact: 0.008291 → PHISHING
+20.  ,                   | Impact: -0.007813 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  &                   | Impact: 0.087421
+ 2.  others              | Impact: 0.034177
+ 3.  entry               | Impact: 0.018891
+ 4.  (                   | Impact: 0.010386
+ 5.  (                   | Impact: 0.008791
+ 6.  )                   | Impact: 0.008504
+ 7.  lynn                | Impact: 0.008357
+ 8.  team                | Impact: 0.008291
+ 9.  chairperson         | Impact: 0.006016
+10.  date                | Impact: 0.001782
+11.  time                | Impact: 0.001637
+12.  migration           | Impact: 0.001243
+13.  time                | Impact: 0.000653
+14.  final               | Impact: 0.000567
+15.  :                   | Impact: 0.000491
+16.  -                   | Impact: 0.000311
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.031180
+ 2.  calendar            | Impact: -0.027851
+ 3.  description         | Impact: -0.021865
+ 4.  :                   | Impact: -0.021253
+ 5.  standard            | Impact: -0.013108
+ 6.  detailed            | Impact: -0.011996
+ 7.  am                  | Impact: -0.010527
+ 8.  central             | Impact: -0.010508
+ 9.  process             | Impact: -0.010308
+10.  :                   | Impact: -0.008982
+11.  sheila              | Impact: -0.008773
+12.  ,                   | Impact: -0.007813
+13.  mt                  | Impact: -0.007190
+14. g                    | Impact: -0.006109
+15.  :                   | Impact: -0.004170
+16.  appointment         | Impact: -0.003893
+17.  )                   | Impact: -0.002902
+18.  outlook             | Impact: -0.002551
+19.  :                   | Impact: -0.002278
+20.  description         | Impact: -0.002240

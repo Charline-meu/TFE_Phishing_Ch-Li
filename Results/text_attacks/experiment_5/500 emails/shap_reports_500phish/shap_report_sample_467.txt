@@ -1,0 +1,75 @@
+Sample 467
+==========
+
+Sample text preview: Your Shop Web Site is NOT Being SEEN WHY? NO ONE CAN FIND IT! YOUR web site is NOT on many search engines and at the Bottom of their listings and as a...
+
+Model prediction: [1.9952623e-04 9.9980050e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.032632 → PHISHING
+ 2.  money               | Impact: 0.032632 → PHISHING
+ 3.  back                | Impact: 0.032632 → PHISHING
+ 4.  guarantee           | Impact: 0.032632 → PHISHING
+ 5.  your                | Impact: 0.022726 → PHISHING
+ 6.  money               | Impact: 0.022726 → PHISHING
+ 7.  back                | Impact: 0.022726 → PHISHING
+ 8.  give                | Impact: 0.016676 → PHISHING
+ 9.  you                 | Impact: 0.016676 → PHISHING
+10.  we                  | Impact: 0.016082 → PHISHING
+11.  will                | Impact: 0.016082 → PHISHING
+12.  !                   | Impact: 0.015099 → PHISHING
+13.  !                   | Impact: 0.012429 → PHISHING
+14.  .                   | Impact: 0.008926 → PHISHING
+15.  .                   | Impact: 0.008926 → PHISHING
+16.  .                   | Impact: 0.008926 → PHISHING
+17.  no                  | Impact: 0.008152 → PHISHING
+18.  one                 | Impact: 0.008152 → PHISHING
+19.  knows               | Impact: 0.008152 → PHISHING
+20.  !                   | Impact: 0.008152 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.032632
+ 2.  money               | Impact: 0.032632
+ 3.  back                | Impact: 0.032632
+ 4.  guarantee           | Impact: 0.032632
+ 5.  your                | Impact: 0.022726
+ 6.  money               | Impact: 0.022726
+ 7.  back                | Impact: 0.022726
+ 8.  give                | Impact: 0.016676
+ 9.  you                 | Impact: 0.016676
+10.  we                  | Impact: 0.016082
+11.  will                | Impact: 0.016082
+12.  !                   | Impact: 0.015099
+13.  !                   | Impact: 0.012429
+14.  .                   | Impact: 0.008926
+15.  .                   | Impact: 0.008926
+16.  .                   | Impact: 0.008926
+17.  no                  | Impact: 0.008152
+18.  one                 | Impact: 0.008152
+19.  knows               | Impact: 0.008152
+20.  !                   | Impact: 0.008152
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  they                | Impact: -0.000048
+ 2.  may                 | Impact: -0.000048
+ 3.  submit              | Impact: -0.000048
+ 4.  your                | Impact: -0.000048
+ 5.  site                | Impact: -0.000048
+ 6.  to                  | Impact: -0.000048
+ 7.  a                   | Impact: -0.000048
+ 8.  few                 | Impact: -0.000048
+ 9.  search              | Impact: -0.000048
+10.  engines             | Impact: -0.000048
+11.  periodically        | Impact: -0.000048
+12.  but                 | Impact: -0.000048
+13.  engines             | Impact: -0.000048
+14.  is                  | Impact: -0.000048
+15.  an                  | Impact: -0.000048
+16.  aggressive          | Impact: -0.000048
+17.  business            | Impact: -0.000048
+18.  .                   | Impact: -0.000048
+19.  their               | Impact: -0.000048
+20.  listings            | Impact: -0.000048

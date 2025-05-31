@@ -1,0 +1,73 @@
+Phishing Sample 1
+=================
+
+Sample text preview: Pay Pal Dear Member, We have faced some problems with your Pay Pal account Please Update your informations within h, If you drop this email your accou...
+
+Model prediction: [1.875578e-04 9.998124e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.093412 → PHISHING
+ 2.  dear                | Impact: 0.084901 → PHISHING
+ 3.  link                | Impact: 0.049600 → PHISHING
+ 4.  account             | Impact: 0.049204 → PHISHING
+ 5.  support             | Impact: 0.048971 → PHISHING
+ 6.  account             | Impact: 0.043343 → PHISHING
+ 7.  instructions        | Impact: 0.036929 → PHISHING
+ 8.  below               | Impact: 0.034679 → PHISHING
+ 9.  link                | Impact: 0.033804 → PHISHING
+10.  account             | Impact: 0.033207 → PHISHING
+11.  your                | Impact: 0.032805 → PHISHING
+12.  email               | Impact: 0.029094 → PHISHING
+13.  update              | Impact: 0.028955 → PHISHING
+14.  remove              | Impact: 0.023328 → PHISHING
+15.  please              | Impact: 0.022610 → PHISHING
+16.  [                   | Impact: -0.021926 → LEGITIMATE
+17.  +                   | Impact: 0.020703 → PHISHING
+18.  your                | Impact: 0.019711 → PHISHING
+19.  will                | Impact: 0.019600 → PHISHING
+20.  information         | Impact: 0.016694 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.093412
+ 2.  dear                | Impact: 0.084901
+ 3.  link                | Impact: 0.049600
+ 4.  account             | Impact: 0.049204
+ 5.  support             | Impact: 0.048971
+ 6.  account             | Impact: 0.043343
+ 7.  instructions        | Impact: 0.036929
+ 8.  below               | Impact: 0.034679
+ 9.  link                | Impact: 0.033804
+10.  account             | Impact: 0.033207
+11.  your                | Impact: 0.032805
+12.  email               | Impact: 0.029094
+13.  update              | Impact: 0.028955
+14.  remove              | Impact: 0.023328
+15.  please              | Impact: 0.022610
+16.  +                   | Impact: 0.020703
+17.  your                | Impact: 0.019711
+18.  will                | Impact: 0.019600
+19.  information         | Impact: 0.016694
+20.  pay                 | Impact: 0.015960
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  [                   | Impact: -0.021926
+ 2.  ,                   | Impact: -0.012609
+ 3.  ]                   | Impact: -0.009126
+ 4.  limitation          | Impact: -0.008947
+ 5.  .                   | Impact: -0.008675
+ 6.  :                   | Impact: -0.005766
+ 7.  .                   | Impact: -0.004900
+ 8.  pal                 | Impact: -0.003155
+ 9.  thank               | Impact: -0.001986
+10.  ,                   | Impact: -0.001197
+11.  you                 | Impact: -0.001174
+12.  to                  | Impact: -0.000798
+13.  window              | Impact: -0.000775
+14.  ,                   | Impact: -0.000200
+15.  if                  | Impact: -0.000175
+16.  you                 | Impact: -0.000175
+17.  drop                | Impact: -0.000175
+18.  this                | Impact: -0.000175

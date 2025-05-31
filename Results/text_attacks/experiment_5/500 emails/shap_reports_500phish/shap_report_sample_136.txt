@@ -1,0 +1,75 @@
+Sample 136
+==========
+
+Sample text preview: From :Joy SOU, rue Paris Villa Cocody, Abidjan Cote d'Ivoire. Dear Respectful one, I am totally convinced to write you in reference of the transfer of...
+
+Model prediction: [1.7939793e-04 9.9982065e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  country             | Impact: 0.025043 → PHISHING
+ 2.  for                 | Impact: 0.025043 → PHISHING
+ 3.  fund                | Impact: 0.024089 → PHISHING
+ 4.  investment          | Impact: 0.021139 → PHISHING
+ 5.  your                | Impact: 0.020595 → PHISHING
+ 6.  this                | Impact: 0.020483 → PHISHING
+ 7.  to                  | Impact: 0.018882 → PHISHING
+ 8.  transfer            | Impact: 0.018882 → PHISHING
+ 9.  you                 | Impact: 0.018834 → PHISHING
+10.  to                  | Impact: 0.018834 → PHISHING
+11. marks                | Impact: -0.017223 → LEGITIMATE
+12.  to                  | Impact: 0.017055 → PHISHING
+13.  in                  | Impact: 0.012878 → PHISHING
+14.  your                | Impact: 0.012878 → PHISHING
+15.  country             | Impact: 0.012878 → PHISHING
+16.  this                | Impact: 0.012278 → PHISHING
+17.  money               | Impact: 0.012278 → PHISHING
+18.  to                  | Impact: 0.011443 → PHISHING
+19.  your                | Impact: 0.011443 → PHISHING
+20.  account             | Impact: 0.011443 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  country             | Impact: 0.025043
+ 2.  for                 | Impact: 0.025043
+ 3.  fund                | Impact: 0.024089
+ 4.  investment          | Impact: 0.021139
+ 5.  your                | Impact: 0.020595
+ 6.  this                | Impact: 0.020483
+ 7.  to                  | Impact: 0.018882
+ 8.  transfer            | Impact: 0.018882
+ 9.  you                 | Impact: 0.018834
+10.  to                  | Impact: 0.018834
+11.  to                  | Impact: 0.017055
+12.  in                  | Impact: 0.012878
+13.  your                | Impact: 0.012878
+14.  country             | Impact: 0.012878
+15.  this                | Impact: 0.012278
+16.  money               | Impact: 0.012278
+17.  to                  | Impact: 0.011443
+18.  your                | Impact: 0.011443
+19.  account             | Impact: 0.011443
+20.  for                 | Impact: 0.011443
+
+Top features pushing towards LEGITIMATE classification:
+ 1. marks                | Impact: -0.017223
+ 2.  be                  | Impact: -0.004120
+ 3.  highly              | Impact: -0.004120
+ 4.  appreciated         | Impact: -0.004120
+ 5.  though              | Impact: -0.004060
+ 6.  we                  | Impact: -0.004060
+ 7.  .                   | Impact: -0.003116
+ 8.  i                   | Impact: -0.002001
+ 9.  strongly            | Impact: -0.002001
+10.  believe             | Impact: -0.002001
+11.  that                | Impact: -0.002001
+12.                      | Impact: -0.001939
+13.  from                | Impact: -0.001939
+14.  :                   | Impact: -0.001939
+15.  joy                 | Impact: -0.001939
+16.  so                  | Impact: -0.001939
+17. u                    | Impact: -0.001939
+18.  ,                   | Impact: -0.001939
+19.  but                 | Impact: -0.001601
+20.  have                | Impact: -0.001567

@@ -1,0 +1,75 @@
+Sample 495
+==========
+
+Sample text preview: Dear Honeynet members My name is Sebastian Garcia from the Czech chapter and Czech Technical University in Prague. Together with Carlos Catania (Uncuy...
+
+Model prediction: [0.66372484 0.33627516]
+Predicted class: LEGITIMATE with 0.6637 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  members             | Impact: 0.034730 → PHISHING
+ 2.  my                  | Impact: 0.034730 → PHISHING
+ 3.  name                | Impact: 0.034730 → PHISHING
+ 4.  is                  | Impact: 0.034730 → PHISHING
+ 5.                      | Impact: 0.022218 → PHISHING
+ 6.  dear                | Impact: 0.022218 → PHISHING
+ 7.  honey               | Impact: 0.022218 → PHISHING
+ 8. net                  | Impact: 0.022218 → PHISHING
+ 9.  new                 | Impact: 0.016183 → PHISHING
+10.  companies           | Impact: 0.016183 → PHISHING
+11.  offering            | Impact: 0.016183 → PHISHING
+12.  user                | Impact: -0.011269 → LEGITIMATE
+13.  experiences         | Impact: -0.011269 → LEGITIMATE
+14.  of                  | Impact: -0.011269 → LEGITIMATE
+15.  honey               | Impact: -0.008595 → LEGITIMATE
+16. net                  | Impact: -0.008595 → LEGITIMATE
+17.  workshop            | Impact: -0.008595 → LEGITIMATE
+18.  .                   | Impact: -0.008595 → LEGITIMATE
+19.  honey               | Impact: -0.006788 → LEGITIMATE
+20. pot                  | Impact: -0.006788 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  members             | Impact: 0.034730
+ 2.  my                  | Impact: 0.034730
+ 3.  name                | Impact: 0.034730
+ 4.  is                  | Impact: 0.034730
+ 5.                      | Impact: 0.022218
+ 6.  dear                | Impact: 0.022218
+ 7.  honey               | Impact: 0.022218
+ 8. net                  | Impact: 0.022218
+ 9.  new                 | Impact: 0.016183
+10.  companies           | Impact: 0.016183
+11.  offering            | Impact: 0.016183
+12.  czech               | Impact: 0.006269
+13.  technical           | Impact: 0.006269
+14.  university          | Impact: 0.006269
+15.  in                  | Impact: 0.006269
+16.  prague              | Impact: 0.006269
+17.  the                 | Impact: 0.006041
+18.  main                | Impact: 0.006041
+19.  motivation          | Impact: 0.006041
+20.  many                | Impact: 0.006041
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  user                | Impact: -0.011269
+ 2.  experiences         | Impact: -0.011269
+ 3.  of                  | Impact: -0.011269
+ 4.  honey               | Impact: -0.008595
+ 5. net                  | Impact: -0.008595
+ 6.  workshop            | Impact: -0.008595
+ 7.  .                   | Impact: -0.008595
+ 8.  honey               | Impact: -0.006788
+ 9. pot                  | Impact: -0.006788
+10.  solutions           | Impact: -0.006788
+11.  .                   | Impact: -0.006095
+12.  short               | Impact: -0.005493
+13.  in                  | Impact: -0.005493
+14.  -                   | Impact: -0.005493
+15.  person              | Impact: -0.005493
+16.  interview           | Impact: -0.005493
+17.  during              | Impact: -0.005493
+18.  the                 | Impact: -0.005493
+19.  -                   | Impact: -0.003825
+20.  what                | Impact: -0.003825

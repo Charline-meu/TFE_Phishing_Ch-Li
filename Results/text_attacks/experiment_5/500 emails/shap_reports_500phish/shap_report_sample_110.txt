@@ -1,0 +1,75 @@
+Sample 110
+==========
+
+Sample text preview: Attn, Greeting, I solicit your confidence in this transaction that I propose to you. This is by virtue of its nature as being utterly CONFIDENTIAL. Th...
+
+Model prediction: [1.7470818e-04 9.9982530e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  of                  | Impact: 0.009206 → PHISHING
+ 2.  this                | Impact: 0.009206 → PHISHING
+ 3.  money               | Impact: 0.009206 → PHISHING
+ 4.  to                  | Impact: 0.009206 → PHISHING
+ 5.  you                 | Impact: 0.009206 → PHISHING
+ 6.  ,                   | Impact: 0.006828 → PHISHING
+ 7.  will                | Impact: 0.005937 → PHISHING
+ 8.  surely              | Impact: 0.005937 → PHISHING
+ 9.  help                | Impact: 0.005937 → PHISHING
+10.  me                  | Impact: 0.005937 → PHISHING
+11.  to                  | Impact: 0.005937 → PHISHING
+12.  transfer            | Impact: 0.005937 → PHISHING
+13.  this                | Impact: 0.005937 → PHISHING
+14.  money               | Impact: 0.005937 → PHISHING
+15.  to                  | Impact: 0.005937 → PHISHING
+16.  your                | Impact: 0.005937 → PHISHING
+17.  country             | Impact: 0.005937 → PHISHING
+18.  and                 | Impact: 0.005937 → PHISHING
+19.  and                 | Impact: 0.005409 → PHISHING
+20.  protections         | Impact: 0.005409 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  of                  | Impact: 0.009206
+ 2.  this                | Impact: 0.009206
+ 3.  money               | Impact: 0.009206
+ 4.  to                  | Impact: 0.009206
+ 5.  you                 | Impact: 0.009206
+ 6.  ,                   | Impact: 0.006828
+ 7.  will                | Impact: 0.005937
+ 8.  surely              | Impact: 0.005937
+ 9.  help                | Impact: 0.005937
+10.  me                  | Impact: 0.005937
+11.  to                  | Impact: 0.005937
+12.  transfer            | Impact: 0.005937
+13.  this                | Impact: 0.005937
+14.  money               | Impact: 0.005937
+15.  to                  | Impact: 0.005937
+16.  your                | Impact: 0.005937
+17.  country             | Impact: 0.005937
+18.  and                 | Impact: 0.005937
+19.  and                 | Impact: 0.005409
+20.  protections         | Impact: 0.005409
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.000132
+ 2.  ,                   | Impact: -0.000132
+ 3.  ,                   | Impact: -0.000132
+ 4.  :                   | Impact: -0.000132
+ 5.  u                   | Impact: -0.000132
+ 6.  .                   | Impact: -0.000132
+ 7.  s                   | Impact: -0.000132
+ 8.  .                   | Impact: -0.000132
+ 9.  dollars             | Impact: -0.000132
+10.  )                   | Impact: -0.000132
+11.  .                   | Impact: -0.000132
+12.  his                 | Impact: -0.000030
+13.  colleagues          | Impact: -0.000030
+14.  during              | Impact: -0.000030
+15.  the                 | Impact: -0.000030
+16.  war                 | Impact: -0.000030
+17.  in                  | Impact: -0.000030
+18.  my                  | Impact: -0.000030
+19.  country             | Impact: -0.000030
+20.  .                   | Impact: -0.000030

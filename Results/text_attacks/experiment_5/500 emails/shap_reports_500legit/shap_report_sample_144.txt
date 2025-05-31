@@ -1,0 +1,75 @@
+Sample 144
+==========
+
+Sample text preview: Yes, you read the links. Sorry, but exposing folly is not only humorous but also instructive. It is only by exposing folly to ridicule that you stop i...
+
+Model prediction: [9.9978215e-01 2.1782190e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  woman               | Impact: 0.027808 → PHISHING
+ 2.  city                | Impact: 0.014132 → PHISHING
+ 3.  example             | Impact: -0.013724 → LEGITIMATE
+ 4.  latter              | Impact: -0.011703 → LEGITIMATE
+ 5.  parking             | Impact: -0.010436 → LEGITIMATE
+ 6.  parking             | Impact: -0.009870 → LEGITIMATE
+ 7.  idiot               | Impact: -0.009018 → LEGITIMATE
+ 8.  i                   | Impact: -0.006249 → LEGITIMATE
+ 9.  space               | Impact: -0.005604 → LEGITIMATE
+10.  wanted              | Impact: 0.005457 → PHISHING
+11.  .                   | Impact: -0.005202 → LEGITIMATE
+12.  to                  | Impact: 0.005087 → PHISHING
+13.  brick               | Impact: -0.004769 → LEGITIMATE
+14.  .                   | Impact: -0.004518 → LEGITIMATE
+15.  that                | Impact: 0.004438 → PHISHING
+16.  item                | Impact: -0.004235 → LEGITIMATE
+17. bat                  | Impact: -0.004215 → LEGITIMATE
+18.  ,                   | Impact: -0.003766 → LEGITIMATE
+19.  i                   | Impact: -0.003539 → LEGITIMATE
+20.  gee                 | Impact: -0.003373 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  woman               | Impact: 0.027808
+ 2.  city                | Impact: 0.014132
+ 3.  wanted              | Impact: 0.005457
+ 4.  to                  | Impact: 0.005087
+ 5.  that                | Impact: 0.004438
+ 6.  of                  | Impact: 0.002880
+ 7.  an                  | Impact: 0.001892
+ 8.  a                   | Impact: 0.001835
+ 9.  yes                 | Impact: 0.001799
+10.  pay                 | Impact: 0.001468
+11.  for                 | Impact: 0.001468
+12.  only                | Impact: 0.001298
+13.  you                 | Impact: 0.001107
+14.  a                   | Impact: 0.001070
+15.  by                  | Impact: 0.001043
+16.  no                  | Impact: 0.000985
+17.  -                   | Impact: 0.000985
+18.  ticket              | Impact: 0.000870
+19.  for                 | Impact: 0.000870
+20.  in                  | Impact: 0.000821
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  example             | Impact: -0.013724
+ 2.  latter              | Impact: -0.011703
+ 3.  parking             | Impact: -0.010436
+ 4.  parking             | Impact: -0.009870
+ 5.  idiot               | Impact: -0.009018
+ 6.  i                   | Impact: -0.006249
+ 7.  space               | Impact: -0.005604
+ 8.  .                   | Impact: -0.005202
+ 9.  brick               | Impact: -0.004769
+10.  .                   | Impact: -0.004518
+11.  item                | Impact: -0.004235
+12. bat                  | Impact: -0.004215
+13.  ,                   | Impact: -0.003766
+14.  i                   | Impact: -0.003539
+15.  gee                 | Impact: -0.003373
+16.  .                   | Impact: -0.003349
+17.  :                   | Impact: -0.003170
+18. ge                   | Impact: -0.003004
+19.  >                   | Impact: -0.002979
+20.  from                | Impact: -0.002979

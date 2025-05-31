@@ -1,0 +1,75 @@
+Sample 252
+==========
+
+Sample text preview: I'm one of the , but it's not working very well this week with the TES updates and servers not syncing. -----Original Message----- From: Jordan Ritter...
+
+Model prediction: [9.9979681e-01 2.0320636e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  one                 | Impact: 0.011223 → PHISHING
+ 2.  updates             | Impact: -0.008133 → LEGITIMATE
+ 3.  m                   | Impact: 0.005785 → PHISHING
+ 4.  sync                | Impact: -0.005171 → LEGITIMATE
+ 5.  very                | Impact: -0.005051 → LEGITIMATE
+ 6.  :                   | Impact: -0.004637 → LEGITIMATE
+ 7.  but                 | Impact: -0.004570 → LEGITIMATE
+ 8.  .                   | Impact: -0.004455 → LEGITIMATE
+ 9.  of                  | Impact: 0.003912 → PHISHING
+10.  .                   | Impact: -0.003649 → LEGITIMATE
+11.  well                | Impact: -0.003529 → LEGITIMATE
+12.  not                 | Impact: -0.003452 → LEGITIMATE
+13.  servers             | Impact: -0.003276 → LEGITIMATE
+14.  the                 | Impact: 0.002685 → PHISHING
+15. ing                  | Impact: -0.002213 → LEGITIMATE
+16.  not                 | Impact: -0.002006 → LEGITIMATE
+17.  august              | Impact: -0.001909 → LEGITIMATE
+18.  te                  | Impact: -0.001871 → LEGITIMATE
+19. s                    | Impact: -0.001871 → LEGITIMATE
+20.  users               | Impact: -0.001664 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  one                 | Impact: 0.011223
+ 2.  m                   | Impact: 0.005785
+ 3.  of                  | Impact: 0.003912
+ 4.  the                 | Impact: 0.002685
+ 5.  heaven              | Impact: 0.001272
+ 6.  ,                   | Impact: 0.000627
+ 7.  sponsored           | Impact: 0.000483
+ 8.  geek                | Impact: 0.000432
+ 9.  is                  | Impact: 0.000360
+10.  i                   | Impact: 0.000328
+11.  '                   | Impact: 0.000328
+12.  and                 | Impact: 0.000129
+13.  _                   | Impact: 0.000123
+14.  _                   | Impact: 0.000123
+15.  _                   | Impact: 0.000123
+16.  _                   | Impact: 0.000123
+17.  this                | Impact: 0.000002
+18.  week                | Impact: 0.000002
+19.  with                | Impact: 0.000002
+20.  the                 | Impact: 0.000002
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  updates             | Impact: -0.008133
+ 2.  sync                | Impact: -0.005171
+ 3.  very                | Impact: -0.005051
+ 4.  :                   | Impact: -0.004637
+ 5.  but                 | Impact: -0.004570
+ 6.  .                   | Impact: -0.004455
+ 7.  .                   | Impact: -0.003649
+ 8.  well                | Impact: -0.003529
+ 9.  not                 | Impact: -0.003452
+10.  servers             | Impact: -0.003276
+11. ing                  | Impact: -0.002213
+12.  not                 | Impact: -0.002006
+13.  august              | Impact: -0.001909
+14.  te                  | Impact: -0.001871
+15. s                    | Impact: -0.001871
+16.  users               | Impact: -0.001664
+17.  ]                   | Impact: -0.001657
+18.  [                   | Impact: -0.001450
+19.  razor               | Impact: -0.001447
+20.  by                  | Impact: -0.001135

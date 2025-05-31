@@ -1,0 +1,63 @@
+Sample 315
+==========
+
+Sample text preview: DEAR VALUED CAPITAL ONE MEMBER, CAPITAL ONE ONLINE SAFETY Capital One Bank is constantly working to increase security for all Online Banking users. To...
+
+Model prediction: [1.8350106e-04 9.9981648e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.068074 → PHISHING
+ 2.  your                | Impact: 0.055421 → PHISHING
+ 3.  dear                | Impact: 0.049950 → PHISHING
+ 4.  account             | Impact: 0.033606 → PHISHING
+ 5.  your                | Impact: 0.032916 → PHISHING
+ 6.  your                | Impact: 0.031223 → PHISHING
+ 7.  valued              | Impact: 0.030433 → PHISHING
+ 8.  account             | Impact: 0.030252 → PHISHING
+ 9.  identity            | Impact: 0.026726 → PHISHING
+10.  bank                | Impact: 0.025982 → PHISHING
+11.  regards             | Impact: 0.024088 → PHISHING
+12.  your                | Impact: 0.019022 → PHISHING
+13.  account             | Impact: 0.018706 → PHISHING
+14.  capital             | Impact: 0.018406 → PHISHING
+15.  is                  | Impact: 0.017915 → PHISHING
+16.  capital             | Impact: 0.017553 → PHISHING
+17.  capital             | Impact: 0.015388 → PHISHING
+18.  click               | Impact: 0.015066 → PHISHING
+19.  identity            | Impact: 0.014783 → PHISHING
+20.  activate            | Impact: 0.014174 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.068074
+ 2.  your                | Impact: 0.055421
+ 3.  dear                | Impact: 0.049950
+ 4.  account             | Impact: 0.033606
+ 5.  your                | Impact: 0.032916
+ 6.  your                | Impact: 0.031223
+ 7.  valued              | Impact: 0.030433
+ 8.  account             | Impact: 0.030252
+ 9.  identity            | Impact: 0.026726
+10.  bank                | Impact: 0.025982
+11.  regards             | Impact: 0.024088
+12.  your                | Impact: 0.019022
+13.  account             | Impact: 0.018706
+14.  capital             | Impact: 0.018406
+15.  is                  | Impact: 0.017915
+16.  capital             | Impact: 0.017553
+17.  capital             | Impact: 0.015388
+18.  click               | Impact: 0.015066
+19.  identity            | Impact: 0.014783
+20.  activate            | Impact: 0.014174
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  might               | Impact: -0.002375
+ 2.  be                  | Impact: -0.002375
+ 3.  taking              | Impact: -0.001374
+ 4.  a                   | Impact: -0.001374
+ 5.  new                 | Impact: -0.001374
+ 6.  look                | Impact: -0.001374
+ 7.  .                   | Impact: -0.001249
+ 8.  ,                   | Impact: -0.000800

@@ -1,0 +1,75 @@
+Sample 360
+==========
+
+Sample text preview: Attin/Dear . I would like to apply through this medium for your co-operation and to secure an opportunity to invest and do joint business with you in ...
+
+Model prediction: [1.5203026e-04 9.9984789e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  av                  | Impact: -0.037536 → LEGITIMATE
+ 2. g                    | Impact: -0.035003 → LEGITIMATE
+ 3.  opportunity         | Impact: 0.017595 → PHISHING
+ 4.  for                 | Impact: 0.017595 → PHISHING
+ 5.  you                 | Impact: 0.017595 → PHISHING
+ 6.  best                | Impact: 0.013314 → PHISHING
+ 7. ow                   | Impact: 0.013314 → PHISHING
+ 8.  on                  | Impact: 0.013314 → PHISHING
+ 9.  you                 | Impact: 0.013314 → PHISHING
+10.  you                 | Impact: 0.011986 → PHISHING
+11.  in                  | Impact: 0.011986 → PHISHING
+12.  your                | Impact: 0.011986 → PHISHING
+13.  country             | Impact: 0.011986 → PHISHING
+14.  ,                   | Impact: 0.011939 → PHISHING
+15.  ,                   | Impact: 0.010458 → PHISHING
+16.  and                 | Impact: 0.010138 → PHISHING
+17.  your                | Impact: 0.010138 → PHISHING
+18.  urgent              | Impact: 0.010138 → PHISHING
+19.  call                | Impact: 0.010138 → PHISHING
+20.  your                | Impact: 0.009930 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  opportunity         | Impact: 0.017595
+ 2.  for                 | Impact: 0.017595
+ 3.  you                 | Impact: 0.017595
+ 4.  best                | Impact: 0.013314
+ 5. ow                   | Impact: 0.013314
+ 6.  on                  | Impact: 0.013314
+ 7.  you                 | Impact: 0.013314
+ 8.  you                 | Impact: 0.011986
+ 9.  in                  | Impact: 0.011986
+10.  your                | Impact: 0.011986
+11.  country             | Impact: 0.011986
+12.  ,                   | Impact: 0.011939
+13.  ,                   | Impact: 0.010458
+14.  and                 | Impact: 0.010138
+15.  your                | Impact: 0.010138
+16.  urgent              | Impact: 0.010138
+17.  call                | Impact: 0.010138
+18.  your                | Impact: 0.009930
+19.  country             | Impact: 0.009930
+20.  into                | Impact: 0.009930
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  av                  | Impact: -0.037536
+ 2. g                    | Impact: -0.035003
+ 3.  /                   | Impact: -0.009829
+ 4.  virus               | Impact: -0.009829
+ 5.  database            | Impact: -0.009829
+ 6.  :                   | Impact: -0.009829
+ 7.  .                   | Impact: -0.009829
+ 8.  version             | Impact: -0.007934
+ 9.  :                   | Impact: -0.007934
+10.  .                   | Impact: -0.007934
+11.  .                   | Impact: -0.007934
+12.  .                   | Impact: -0.004800
+13.  and                 | Impact: -0.003446
+14.  oral                | Impact: -0.003446
+15.  talks               | Impact: -0.003446
+16.  .                   | Impact: -0.003446
+17.  anti                | Impact: -0.002862
+18.  -                   | Impact: -0.002862
+19.  virus               | Impact: -0.002862
+20.  .                   | Impact: -0.002862

@@ -1,0 +1,70 @@
+Sample 77
+=========
+
+Sample text preview: Life Insurance Settlements: A unique dual-income opportunity A Life Settlement is the sale of a life insurance policy that gives the policy owner a si...
+
+Model prediction: [1.8608998e-04 9.9981397e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.034762 → PHISHING
+ 2.  opportunity         | Impact: 0.033792 → PHISHING
+ 3.  sale                | Impact: 0.026279 → PHISHING
+ 4.  removed             | Impact: 0.020931 → PHISHING
+ 5.  from                | Impact: 0.020931 → PHISHING
+ 6.  this                | Impact: 0.020186 → PHISHING
+ 7.  your                | Impact: 0.020050 → PHISHING
+ 8.  your                | Impact: 0.019616 → PHISHING
+ 9.  existing            | Impact: 0.019616 → PHISHING
+10.  !                   | Impact: 0.018308 → PHISHING
+11.  information         | Impact: 0.017883 → PHISHING
+12.  name                | Impact: 0.017883 → PHISHING
+13.  owner               | Impact: 0.016396 → PHISHING
+14.  business            | Impact: 0.014135 → PHISHING
+15.  to                  | Impact: 0.013628 → PHISHING
+16.  be                  | Impact: 0.013628 → PHISHING
+17.  existing            | Impact: 0.012715 → PHISHING
+18.  or                  | Impact: -0.012541 → LEGITIMATE
+19.  form                | Impact: 0.012479 → PHISHING
+20.  below               | Impact: 0.012479 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.034762
+ 2.  opportunity         | Impact: 0.033792
+ 3.  sale                | Impact: 0.026279
+ 4.  removed             | Impact: 0.020931
+ 5.  from                | Impact: 0.020931
+ 6.  this                | Impact: 0.020186
+ 7.  your                | Impact: 0.020050
+ 8.  your                | Impact: 0.019616
+ 9.  existing            | Impact: 0.019616
+10.  !                   | Impact: 0.018308
+11.  information         | Impact: 0.017883
+12.  name                | Impact: 0.017883
+13.  owner               | Impact: 0.016396
+14.  business            | Impact: 0.014135
+15.  to                  | Impact: 0.013628
+16.  be                  | Impact: 0.013628
+17.  existing            | Impact: 0.012715
+18.  form                | Impact: 0.012479
+19.  below               | Impact: 0.012479
+20.  a                   | Impact: 0.012172
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  or                  | Impact: -0.012541
+ 2.  -                   | Impact: -0.006093
+ 3.  -                   | Impact: -0.006093
+ 4.  insurance           | Impact: -0.005246
+ 5.  settlements         | Impact: -0.004976
+ 6.  policy              | Impact: -0.002200
+ 7.  .                   | Impact: -0.001450
+ 8.  :                   | Impact: -0.000755
+ 9.  call                | Impact: -0.000755
+10.  or                  | Impact: -0.000755
+11.  the                 | Impact: -0.000732
+12.  :                   | Impact: -0.000376
+13.  city                | Impact: -0.000376
+14.  :                   | Impact: -0.000376
+15.  state               | Impact: -0.000376

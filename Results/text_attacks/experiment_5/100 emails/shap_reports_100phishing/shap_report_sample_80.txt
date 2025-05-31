@@ -1,0 +1,75 @@
+Phishing Sample 80
+==================
+
+Sample text preview: PETERSON BULINGA Contracts Award Monitoring Committee. Zambian Ministry of Mining and Resources. ATTN:, I humbly wish to solicit for your assistance i...
+
+Model prediction: [1.8558638e-04 9.9981445e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  intimate            | Impact: 0.017761 → PHISHING
+ 2.  you                 | Impact: 0.017761 → PHISHING
+ 3.  yours               | Impact: 0.013808 → PHISHING
+ 4.  sincerely           | Impact: 0.013808 → PHISHING
+ 5.  wish                | Impact: 0.011210 → PHISHING
+ 6.  to                  | Impact: 0.011210 → PHISHING
+ 7.  ben                 | Impact: 0.010862 → PHISHING
+ 8. ef                   | Impact: 0.010862 → PHISHING
+ 9. icia                 | Impact: 0.010862 → PHISHING
+10. ry                   | Impact: 0.010862 → PHISHING
+11.  .                   | Impact: 0.008628 → PHISHING
+12.  this                | Impact: 0.008522 → PHISHING
+13.  business            | Impact: 0.008522 → PHISHING
+14.  proposal            | Impact: 0.008333 → PHISHING
+15.  i                   | Impact: 0.008333 → PHISHING
+16.  await               | Impact: 0.006394 → PHISHING
+17.  your                | Impact: 0.006394 → PHISHING
+18.  urgent              | Impact: 0.006394 → PHISHING
+19.  response            | Impact: 0.006394 → PHISHING
+20.  the                 | Impact: 0.006114 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  intimate            | Impact: 0.017761
+ 2.  you                 | Impact: 0.017761
+ 3.  yours               | Impact: 0.013808
+ 4.  sincerely           | Impact: 0.013808
+ 5.  wish                | Impact: 0.011210
+ 6.  to                  | Impact: 0.011210
+ 7.  ben                 | Impact: 0.010862
+ 8. ef                   | Impact: 0.010862
+ 9. icia                 | Impact: 0.010862
+10. ry                   | Impact: 0.010862
+11.  .                   | Impact: 0.008628
+12.  this                | Impact: 0.008522
+13.  business            | Impact: 0.008522
+14.  proposal            | Impact: 0.008333
+15.  i                   | Impact: 0.008333
+16.  await               | Impact: 0.006394
+17.  your                | Impact: 0.006394
+18.  urgent              | Impact: 0.006394
+19.  response            | Impact: 0.006394
+20.  the                 | Impact: 0.006114
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  worked              | Impact: -0.001812
+ 2.  out                 | Impact: -0.001812
+ 3.  for                 | Impact: -0.001812
+ 4.  a                   | Impact: -0.001812
+ 5.  smooth              | Impact: -0.001812
+ 6.  and                 | Impact: -0.001807
+ 7.  all                 | Impact: -0.001807
+ 8.  mod                 | Impact: -0.001807
+ 9. ali                  | Impact: -0.001807
+10. ties                 | Impact: -0.001807
+11.  at                  | Impact: -0.001402
+12. t                    | Impact: -0.001402
+13. n                    | Impact: -0.001402
+14.  :                   | Impact: -0.001402
+15.  ,                   | Impact: -0.001402
+16.  contracts           | Impact: -0.001330
+17.  award               | Impact: -0.001330
+18.  monitoring          | Impact: -0.001330
+19.  committee           | Impact: -0.001330
+20.  .                   | Impact: -0.001330

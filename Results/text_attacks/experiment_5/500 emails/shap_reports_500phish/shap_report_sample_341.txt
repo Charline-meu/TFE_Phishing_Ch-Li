@@ -1,0 +1,75 @@
+Sample 341
+==========
+
+Sample text preview: Dear Sir/Madam Wishing you a wonderful day. With an offer, to save you money and time. Shopping from the convenience from home or office. Window shopp...
+
+Model prediction: [2.8303723e-04 9.9971694e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.017978 → PHISHING
+ 2.  email               | Impact: 0.017978 → PHISHING
+ 3.  dear                | Impact: 0.014878 → PHISHING
+ 4.  received            | Impact: 0.014495 → PHISHING
+ 5.  i                   | Impact: 0.013452 → PHISHING
+ 6.  madam               | Impact: 0.012710 → PHISHING
+ 7.  wishing             | Impact: 0.012710 → PHISHING
+ 8.  you                 | Impact: 0.011907 → PHISHING
+ 9.  a                   | Impact: 0.011907 → PHISHING
+10.                      | Impact: 0.010328 → PHISHING
+11.  please              | Impact: 0.010184 → PHISHING
+12.  visit               | Impact: 0.010184 → PHISHING
+13.  us                  | Impact: 0.010184 → PHISHING
+14.  at                  | Impact: 0.010184 → PHISHING
+15.  spa                 | Impact: 0.008364 → PHISHING
+16. m                    | Impact: 0.008364 → PHISHING
+17.  to                  | Impact: 0.007361 → PHISHING
+18.  save                | Impact: 0.007361 → PHISHING
+19.  you                 | Impact: 0.007361 → PHISHING
+20.  money               | Impact: 0.007361 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.017978
+ 2.  email               | Impact: 0.017978
+ 3.  dear                | Impact: 0.014878
+ 4.  received            | Impact: 0.014495
+ 5.  i                   | Impact: 0.013452
+ 6.  madam               | Impact: 0.012710
+ 7.  wishing             | Impact: 0.012710
+ 8.  you                 | Impact: 0.011907
+ 9.  a                   | Impact: 0.011907
+10.                      | Impact: 0.010328
+11.  please              | Impact: 0.010184
+12.  visit               | Impact: 0.010184
+13.  us                  | Impact: 0.010184
+14.  at                  | Impact: 0.010184
+15.  spa                 | Impact: 0.008364
+16. m                    | Impact: 0.008364
+17.  to                  | Impact: 0.007361
+18.  save                | Impact: 0.007361
+19.  you                 | Impact: 0.007361
+20.  money               | Impact: 0.007361
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  window              | Impact: -0.005277
+ 2.  shopping            | Impact: -0.005277
+ 3.  shopping            | Impact: -0.002375
+ 4.  from                | Impact: -0.002375
+ 5.  the                 | Impact: -0.002375
+ 6.  convenience         | Impact: -0.002375
+ 7.  with                | Impact: -0.001629
+ 8.  plus                | Impact: -0.001629
+ 9.  categories          | Impact: -0.001629
+10.  .                   | Impact: -0.001629
+11.  ,                   | Impact: -0.001610
+12.  search              | Impact: -0.001362
+13.  engines             | Impact: -0.001362
+14.  .                   | Impact: -0.001362
+15.  sub                 | Impact: -0.000935
+16. script               | Impact: -0.000935
+17.  to                  | Impact: -0.000935
+18.  or                  | Impact: -0.000935
+19.  email               | Impact: -0.000926
+20. ing                  | Impact: -0.000926

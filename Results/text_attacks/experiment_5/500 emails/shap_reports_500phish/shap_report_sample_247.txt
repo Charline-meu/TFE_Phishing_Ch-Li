@@ -1,0 +1,75 @@
+Sample 247
+==========
+
+Sample text preview: Dear Sir/Madam, I got your contact from an email directory and decided to contact you for assistance. I am the son of JOHNSON SAVIMBI the rebel leader...
+
+Model prediction: [1.6467228e-04 9.9983525e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.011543 → PHISHING
+ 2.  father              | Impact: 0.011543 → PHISHING
+ 3.                      | Impact: 0.010654 → PHISHING
+ 4.  dear                | Impact: 0.010654 → PHISHING
+ 5.  my                  | Impact: 0.009142 → PHISHING
+ 6.  father              | Impact: 0.009142 → PHISHING
+ 7.  i                   | Impact: 0.009142 → PHISHING
+ 8.  sir                 | Impact: 0.007934 → PHISHING
+ 9.  /                   | Impact: 0.007934 → PHISHING
+10.  madam               | Impact: 0.007934 → PHISHING
+11.  he                  | Impact: 0.007878 → PHISHING
+12.  deposited           | Impact: 0.007878 → PHISHING
+13.  m                   | Impact: 0.007878 → PHISHING
+14.  of                  | Impact: 0.006629 → PHISHING
+15.  this                | Impact: 0.006629 → PHISHING
+16.  money               | Impact: 0.006629 → PHISHING
+17.  for                 | Impact: 0.006629 → PHISHING
+18.  my                  | Impact: 0.005941 → PHISHING
+19.  family              | Impact: 0.005941 → PHISHING
+20.  have                | Impact: 0.005941 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.011543
+ 2.  father              | Impact: 0.011543
+ 3.                      | Impact: 0.010654
+ 4.  dear                | Impact: 0.010654
+ 5.  my                  | Impact: 0.009142
+ 6.  father              | Impact: 0.009142
+ 7.  i                   | Impact: 0.009142
+ 8.  sir                 | Impact: 0.007934
+ 9.  /                   | Impact: 0.007934
+10.  madam               | Impact: 0.007934
+11.  he                  | Impact: 0.007878
+12.  deposited           | Impact: 0.007878
+13.  m                   | Impact: 0.007878
+14.  of                  | Impact: 0.006629
+15.  this                | Impact: 0.006629
+16.  money               | Impact: 0.006629
+17.  for                 | Impact: 0.006629
+18.  my                  | Impact: 0.005941
+19.  family              | Impact: 0.005941
+20.  have                | Impact: 0.005941
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  which               | Impact: -0.002473
+ 2.  would               | Impact: -0.002473
+ 3.  be                  | Impact: -0.002473
+ 4.  please              | Impact: -0.001350
+ 5.  treat               | Impact: -0.001350
+ 6.  this                | Impact: -0.001350
+ 7.  as                  | Impact: -0.001350
+ 8.  confidential        | Impact: -0.001350
+ 9.  please              | Impact: -0.000756
+10.  take                | Impact: -0.000756
+11.  a                   | Impact: -0.000756
+12.  look                | Impact: -0.000756
+13.  at                  | Impact: -0.000756
+14.  this                | Impact: -0.000756
+15.  web                 | Impact: -0.000756
+16.  page                | Impact: -0.000756
+17.  .                   | Impact: -0.000617
+18.  course              | Impact: -0.000581
+19.  of                  | Impact: -0.000581
+20.  this                | Impact: -0.000581

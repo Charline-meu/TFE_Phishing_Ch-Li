@@ -1,0 +1,64 @@
+Sample 394
+==========
+
+Sample text preview: files sent to files, MB in total · Will be deleted on th December, Download files here Thanks for using WeTransfer. We'll email you a confirmation as ...
+
+Model prediction: [2.3327617e-04 9.9976677e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  help                | Impact: 0.111929 → PHISHING
+ 2.  transfer            | Impact: 0.089801 → PHISHING
+ 3. m                    | Impact: 0.065555 → PHISHING
+ 4.  legal               | Impact: 0.055079 → PHISHING
+ 5.  files               | Impact: 0.051134 → PHISHING
+ 6.  get                 | Impact: 0.046057 → PHISHING
+ 7.  spa                 | Impact: 0.041874 → PHISHING
+ 8.  this                | Impact: 0.038595 → PHISHING
+ 9.  files               | Impact: 0.037088 → PHISHING
+10.  download            | Impact: 0.033640 → PHISHING
+11.  files               | Impact: 0.026040 → PHISHING
+12.  link                | Impact: 0.024606 → PHISHING
+13.  your                | Impact: 0.023042 → PHISHING
+14.  message             | Impact: 0.022528 → PHISHING
+15.  deleted             | Impact: 0.021540 → PHISHING
+16.  ·                   | Impact: 0.021297 → PHISHING
+17.  ·                   | Impact: 0.020884 → PHISHING
+18.  recipients          | Impact: 0.019425 → PHISHING
+19.  ·                   | Impact: 0.018804 → PHISHING
+20.  downloaded          | Impact: 0.018360 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  help                | Impact: 0.111929
+ 2.  transfer            | Impact: 0.089801
+ 3. m                    | Impact: 0.065555
+ 4.  legal               | Impact: 0.055079
+ 5.  files               | Impact: 0.051134
+ 6.  get                 | Impact: 0.046057
+ 7.  spa                 | Impact: 0.041874
+ 8.  this                | Impact: 0.038595
+ 9.  files               | Impact: 0.037088
+10.  download            | Impact: 0.033640
+11.  files               | Impact: 0.026040
+12.  link                | Impact: 0.024606
+13.  your                | Impact: 0.023042
+14.  message             | Impact: 0.022528
+15.  deleted             | Impact: 0.021540
+16.  ·                   | Impact: 0.021297
+17.  ·                   | Impact: 0.020884
+18.  recipients          | Impact: 0.019425
+19.  ·                   | Impact: 0.018804
+20.  downloaded          | Impact: 0.018360
+
+Top features pushing towards LEGITIMATE classification:
+ 1. x                    | Impact: -0.016219
+ 2.  about               | Impact: -0.013838
+ 3.  th                  | Impact: -0.012262
+ 4.  report              | Impact: -0.010167
+ 5. sf                   | Impact: -0.003843
+ 6. er                   | Impact: -0.003825
+ 7.  .                   | Impact: -0.001631
+ 8.  as                  | Impact: -0.001124
+ 9.  .                   | Impact: -0.000199

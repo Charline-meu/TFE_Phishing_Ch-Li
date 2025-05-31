@@ -1,0 +1,63 @@
+Sample 464
+==========
+
+Sample text preview: ---------------------- Forwarded by Phillip K Allen/HOU/ECT on // : AM --------------------------- To: Phillip K Allen/HOU/ECT@ECT cc: Subject: approv...
+
+Model prediction: [9.9979800e-01 2.0203639e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  specialist          | Impact: -0.008706 → LEGITIMATE
+ 2.  blaine              | Impact: -0.008152 → LEGITIMATE
+ 3.  specialist          | Impact: -0.007616 → LEGITIMATE
+ 4.  east                | Impact: -0.007616 → LEGITIMATE
+ 5.  specialist          | Impact: -0.007467 → LEGITIMATE
+ 6.  specialist          | Impact: -0.006450 → LEGITIMATE
+ 7.  central             | Impact: -0.006381 → LEGITIMATE
+ 8.  revised             | Impact: -0.005844 → LEGITIMATE
+ 9.  doc                 | Impact: -0.005787 → LEGITIMATE
+10.  specialist          | Impact: -0.005614 → LEGITIMATE
+11.  forward             | Impact: -0.004926 → LEGITIMATE
+12.  hewitt              | Impact: -0.004892 → LEGITIMATE
+13.  east                | Impact: -0.004066 → LEGITIMATE
+14.  .                   | Impact: -0.003534 → LEGITIMATE
+15.  only                | Impact: -0.003523 → LEGITIMATE
+16.  arnold              | Impact: -0.003523 → LEGITIMATE
+17.  joe                 | Impact: -0.003378 → LEGITIMATE
+18.  director            | Impact: -0.003378 → LEGITIMATE
+19.  central             | Impact: -0.003367 → LEGITIMATE
+20.  :                   | Impact: -0.003249 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.000816
+ 2.  @                   | Impact: 0.000268
+ 3.  west                | Impact: 0.000070
+ 4.  shire               | Impact: 0.000070
+ 5. man                  | Impact: 0.000070
+ 6.  ,                   | Impact: 0.000070
+ 7.  don                 | Impact: 0.000009
+ 8.  vice                | Impact: 0.000009
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  specialist          | Impact: -0.008706
+ 2.  blaine              | Impact: -0.008152
+ 3.  specialist          | Impact: -0.007616
+ 4.  east                | Impact: -0.007616
+ 5.  specialist          | Impact: -0.007467
+ 6.  specialist          | Impact: -0.006450
+ 7.  central             | Impact: -0.006381
+ 8.  revised             | Impact: -0.005844
+ 9.  doc                 | Impact: -0.005787
+10.  specialist          | Impact: -0.005614
+11.  forward             | Impact: -0.004926
+12.  hewitt              | Impact: -0.004892
+13.  east                | Impact: -0.004066
+14.  .                   | Impact: -0.003534
+15.  only                | Impact: -0.003523
+16.  arnold              | Impact: -0.003523
+17.  joe                 | Impact: -0.003378
+18.  director            | Impact: -0.003378
+19.  central             | Impact: -0.003367
+20.  :                   | Impact: -0.003249

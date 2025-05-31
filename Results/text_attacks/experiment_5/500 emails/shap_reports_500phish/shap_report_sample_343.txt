@@ -1,0 +1,75 @@
+Sample 343
+==========
+
+Sample text preview: Mail Data Subscription! Dear Since March, , Most of your incoming mails are on pending due to Data Subscription issues. Kindly Click on our below link...
+
+Model prediction: [2.0807445e-04 9.9979192e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.085657 → PHISHING
+ 2.  secure              | Impact: 0.046924 → PHISHING
+ 3.  activation          | Impact: 0.043271 → PHISHING
+ 4.  kindly              | Impact: 0.040404 → PHISHING
+ 5.  your                | Impact: 0.039260 → PHISHING
+ 6.  permanent           | Impact: 0.035259 → PHISHING
+ 7.  kindly              | Impact: 0.034475 → PHISHING
+ 8.  processed           | Impact: 0.031707 → PHISHING
+ 9.  mail                | Impact: 0.030986 → PHISHING
+10.  click               | Impact: 0.028100 → PHISHING
+11.  within              | Impact: 0.027778 → PHISHING
+12.  your                | Impact: 0.025227 → PHISHING
+13.  link                | Impact: 0.024008 → PHISHING
+14.  actions             | Impact: 0.023971 → PHISHING
+15.  be                  | Impact: 0.023265 → PHISHING
+16.  upgrade             | Impact: 0.022292 → PHISHING
+17.  follow              | Impact: 0.019730 → PHISHING
+18.  upgrade             | Impact: 0.019228 → PHISHING
+19.  must                | Impact: 0.019056 → PHISHING
+20.  hr                  | Impact: 0.018140 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.085657
+ 2.  secure              | Impact: 0.046924
+ 3.  activation          | Impact: 0.043271
+ 4.  kindly              | Impact: 0.040404
+ 5.  your                | Impact: 0.039260
+ 6.  permanent           | Impact: 0.035259
+ 7.  kindly              | Impact: 0.034475
+ 8.  processed           | Impact: 0.031707
+ 9.  mail                | Impact: 0.030986
+10.  click               | Impact: 0.028100
+11.  within              | Impact: 0.027778
+12.  your                | Impact: 0.025227
+13.  link                | Impact: 0.024008
+14.  actions             | Impact: 0.023971
+15.  be                  | Impact: 0.023265
+16.  upgrade             | Impact: 0.022292
+17.  follow              | Impact: 0.019730
+18.  upgrade             | Impact: 0.019228
+19.  must                | Impact: 0.019056
+20.  hr                  | Impact: 0.018140
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  recommended         | Impact: -0.002414
+ 2.  opt                 | Impact: -0.002414
+ 3.  -                   | Impact: -0.002158
+ 4.  .                   | Impact: -0.001735
+ 5.  -                   | Impact: -0.001407
+ 6.  out                 | Impact: -0.001407
+ 7.  out                 | Impact: -0.001306
+ 8.  most                | Impact: -0.001131
+ 9.  of                  | Impact: -0.001131
+10.  opt                 | Impact: -0.000953
+11.  data                | Impact: -0.000472
+12.  subscription        | Impact: -0.000472
+13.  anti                | Impact: -0.000210
+14. virus                | Impact: -0.000210
+15.  software            | Impact: -0.000210
+16.  customer            | Impact: -0.000210
+17.  care                | Impact: -0.000210
+18.  website             | Impact: -0.000210
+19.  this                | Impact: -0.000210
+20.  email               | Impact: -0.000210

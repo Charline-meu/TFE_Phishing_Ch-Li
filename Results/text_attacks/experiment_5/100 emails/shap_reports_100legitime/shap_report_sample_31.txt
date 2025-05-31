@@ -1,0 +1,75 @@
+Phishing Sample 31
+==================
+
+Sample text preview: Tom R: > > Which one's you? TimC ------------------------ Yahoo! Groups Sponsor ---------------------~--> Plan to Sell a Home? -----------------------...
+
+Model prediction: [9.997683e-01 2.317419e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. su                   | Impact: -0.014161 → LEGITIMATE
+ 2.  subject             | Impact: -0.012011 → LEGITIMATE
+ 3.  >                   | Impact: -0.011375 → LEGITIMATE
+ 4.  use                 | Impact: -0.010219 → LEGITIMATE
+ 5.  groups              | Impact: -0.008823 → LEGITIMATE
+ 6.  group               | Impact: -0.008718 → LEGITIMATE
+ 7.  :                   | Impact: -0.007278 → LEGITIMATE
+ 8.  you                 | Impact: 0.006954 → PHISHING
+ 9.  yahoo               | Impact: -0.006858 → LEGITIMATE
+10.  !                   | Impact: 0.006787 → PHISHING
+11.  your                | Impact: 0.006765 → PHISHING
+12.  of                  | Impact: -0.006432 → LEGITIMATE
+13.  is                  | Impact: -0.005067 → LEGITIMATE
+14.  email               | Impact: -0.004624 → LEGITIMATE
+15.  un                  | Impact: -0.004505 → LEGITIMATE
+16.  -                   | Impact: 0.003459 → PHISHING
+17. bs                   | Impact: 0.003445 → PHISHING
+18.  this                | Impact: -0.003309 → LEGITIMATE
+19.  -                   | Impact: 0.003216 → PHISHING
+20.  tom                 | Impact: -0.003182 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.006954
+ 2.  !                   | Impact: 0.006787
+ 3.  your                | Impact: 0.006765
+ 4.  -                   | Impact: 0.003459
+ 5. bs                   | Impact: 0.003445
+ 6.  -                   | Impact: 0.003216
+ 7.  -                   | Impact: 0.003106
+ 8.  send                | Impact: 0.002935
+ 9.  -                   | Impact: 0.002783
+10.  -                   | Impact: 0.002674
+11.  -                   | Impact: 0.002617
+12.  -                   | Impact: 0.002536
+13.  -                   | Impact: 0.002508
+14.  -                   | Impact: 0.002505
+15.  -                   | Impact: 0.002472
+16.  -                   | Impact: 0.002472
+17.  -                   | Impact: 0.002358
+18.  -                   | Impact: 0.002316
+19.  to                  | Impact: 0.002251
+20.  -                   | Impact: 0.002249
+
+Top features pushing towards LEGITIMATE classification:
+ 1. su                   | Impact: -0.014161
+ 2.  subject             | Impact: -0.012011
+ 3.  >                   | Impact: -0.011375
+ 4.  use                 | Impact: -0.010219
+ 5.  groups              | Impact: -0.008823
+ 6.  group               | Impact: -0.008718
+ 7.  :                   | Impact: -0.007278
+ 8.  yahoo               | Impact: -0.006858
+ 9.  of                  | Impact: -0.006432
+10.  is                  | Impact: -0.005067
+11.  email               | Impact: -0.004624
+12.  un                  | Impact: -0.004505
+13.  this                | Impact: -0.003309
+14.  tom                 | Impact: -0.003182
+15.  groups              | Impact: -0.002710
+16.  sponsor             | Impact: -0.002710
+17.  which               | Impact: -0.002706
+18.  to                  | Impact: -0.002591
+19.  -                   | Impact: -0.002470
+20.  :                   | Impact: -0.002427

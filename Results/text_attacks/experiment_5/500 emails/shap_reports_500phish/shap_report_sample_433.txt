@@ -1,0 +1,75 @@
+Sample 433
+==========
+
+Sample text preview: Dear Sir / Madam If you are fed up of being 'ripped off' by the British government every time you buy your tobacco, then you should visit our website,...
+
+Model prediction: [2.540997e-04 9.997459e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  regards             | Impact: 0.079745 → PHISHING
+ 2.  best                | Impact: 0.073321 → PHISHING
+ 3.  visit               | Impact: 0.069461 → PHISHING
+ 4.  our                 | Impact: 0.063532 → PHISHING
+ 5. er                   | Impact: -0.060675 → LEGITIMATE
+ 6.  website             | Impact: 0.046289 → PHISHING
+ 7.  approx              | Impact: 0.041927 → PHISHING
+ 8.  pounds              | Impact: 0.041927 → PHISHING
+ 9.  subscription        | Impact: 0.038747 → PHISHING
+10.  dear                | Impact: 0.035819 → PHISHING
+11.  linux               | Impact: -0.034972 → LEGITIMATE
+12.                      | Impact: 0.029855 → PHISHING
+13.  irish               | Impact: -0.029233 → LEGITIMATE
+14.  sir                 | Impact: 0.027896 → PHISHING
+15.  at                  | Impact: 0.026931 → PHISHING
+16.  maintain            | Impact: 0.025765 → PHISHING
+17.  madam               | Impact: 0.023270 → PHISHING
+18.  if                  | Impact: 0.023270 → PHISHING
+19.  /                   | Impact: 0.022260 → PHISHING
+20.  you                 | Impact: 0.018812 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.079745
+ 2.  best                | Impact: 0.073321
+ 3.  visit               | Impact: 0.069461
+ 4.  our                 | Impact: 0.063532
+ 5.  website             | Impact: 0.046289
+ 6.  approx              | Impact: 0.041927
+ 7.  pounds              | Impact: 0.041927
+ 8.  subscription        | Impact: 0.038747
+ 9.  dear                | Impact: 0.035819
+10.                      | Impact: 0.029855
+11.  sir                 | Impact: 0.027896
+12.  at                  | Impact: 0.026931
+13.  maintain            | Impact: 0.025765
+14.  madam               | Impact: 0.023270
+15.  if                  | Impact: 0.023270
+16.  /                   | Impact: 0.022260
+17.  you                 | Impact: 0.018812
+18.  are                 | Impact: 0.018812
+19.  british             | Impact: 0.018005
+20.  government          | Impact: 0.018005
+
+Top features pushing towards LEGITIMATE classification:
+ 1. er                   | Impact: -0.060675
+ 2.  linux               | Impact: -0.034972
+ 3.  irish               | Impact: -0.029233
+ 4.  -                   | Impact: -0.018607
+ 5.  -                   | Impact: -0.018607
+ 6.  group               | Impact: -0.014910
+ 7.  :                   | Impact: -0.014910
+ 8.  for                 | Impact: -0.014910
+ 9.  (                   | Impact: -0.013894
+10.  un                  | Impact: -0.012915
+11.  )                   | Impact: -0.012915
+12.  users               | Impact: -0.010821
+13.  '                   | Impact: -0.010821
+14.  (                   | Impact: -0.005450
+15.  .                   | Impact: -0.004917
+16.  ?                   | Impact: -0.004597
+17.                      | Impact: -0.002699
+18.  .                   | Impact: -0.001891
+19.  ,                   | Impact: -0.001391
+20.  as                  | Impact: -0.000781

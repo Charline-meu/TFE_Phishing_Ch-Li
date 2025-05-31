@@ -1,0 +1,66 @@
+Sample 336
+==========
+
+Sample text preview: Wanda and Sally, FYI.... Hope and we have finalized the Merchant Assets Reconciliation. ECT Investements and Merchant Assets are booking two entries t...
+
+Model prediction: [9.9975222e-01 2.4775293e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wanda               | Impact: -0.016393 → LEGITIMATE
+ 2.  sally               | Impact: -0.011671 → LEGITIMATE
+ 3.  ec                  | Impact: -0.005369 → LEGITIMATE
+ 4. t                    | Impact: -0.004848 → LEGITIMATE
+ 5.  reduce              | Impact: -0.004815 → LEGITIMATE
+ 6.  ec                  | Impact: -0.004706 → LEGITIMATE
+ 7.  .                   | Impact: -0.004486 → LEGITIMATE
+ 8.  ec                  | Impact: -0.004039 → LEGITIMATE
+ 9.  ec                  | Impact: -0.003952 → LEGITIMATE
+10.  /                   | Impact: -0.003708 → LEGITIMATE
+11.  and                 | Impact: 0.003379 → PHISHING
+12.  entries             | Impact: -0.003354 → LEGITIMATE
+13.  ec                  | Impact: -0.003344 → LEGITIMATE
+14.  ec                  | Impact: -0.003341 → LEGITIMATE
+15.  $                   | Impact: -0.003242 → LEGITIMATE
+16.  the                 | Impact: -0.003197 → LEGITIMATE
+17.  .                   | Impact: -0.003133 → LEGITIMATE
+18.  ec                  | Impact: -0.003033 → LEGITIMATE
+19.  asset               | Impact: -0.003017 → LEGITIMATE
+20.  forward             | Impact: -0.002900 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  and                 | Impact: 0.003379
+ 2.  @                   | Impact: 0.000887
+ 3.  @                   | Impact: 0.000842
+ 4.  sheila              | Impact: 0.000554
+ 5.                      | Impact: 0.000554
+ 6.  ho                  | Impact: 0.000292
+ 7. u                    | Impact: 0.000292
+ 8.  by                  | Impact: 0.000276
+ 9.  sheila              | Impact: 0.000276
+10.  d                   | Impact: 0.000108
+11.  todd                | Impact: 0.000108
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  wanda               | Impact: -0.016393
+ 2.  sally               | Impact: -0.011671
+ 3.  ec                  | Impact: -0.005369
+ 4. t                    | Impact: -0.004848
+ 5.  reduce              | Impact: -0.004815
+ 6.  ec                  | Impact: -0.004706
+ 7.  .                   | Impact: -0.004486
+ 8.  ec                  | Impact: -0.004039
+ 9.  ec                  | Impact: -0.003952
+10.  /                   | Impact: -0.003708
+11.  entries             | Impact: -0.003354
+12.  ec                  | Impact: -0.003344
+13.  ec                  | Impact: -0.003341
+14.  $                   | Impact: -0.003242
+15.  the                 | Impact: -0.003197
+16.  .                   | Impact: -0.003133
+17.  ec                  | Impact: -0.003033
+18.  asset               | Impact: -0.003017
+19.  forward             | Impact: -0.002900
+20.  :                   | Impact: -0.002697

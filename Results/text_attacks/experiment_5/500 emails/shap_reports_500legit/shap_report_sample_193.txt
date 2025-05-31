@@ -1,0 +1,75 @@
+Sample 193
+==========
+
+Sample text preview: Louise, any update??? -----Original Message----- From: Tycholiz, Barry Sent: Wednesday, January , : AM To: Milnthorp, Rob Subject: Kim Ward status? Ro...
+
+Model prediction: [9.9978822e-01 2.1173712e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bt                  | Impact: 0.027502 → PHISHING
+ 2.  .                   | Impact: -0.016847 → LEGITIMATE
+ 3.  mail                | Impact: 0.010340 → PHISHING
+ 4.  respond             | Impact: -0.008868 → LEGITIMATE
+ 5. x                    | Impact: -0.008273 → LEGITIMATE
+ 6.  pl                  | Impact: -0.006705 → LEGITIMATE
+ 7.  update              | Impact: -0.006423 → LEGITIMATE
+ 8.  approved            | Impact: -0.005192 → LEGITIMATE
+ 9.  meeting             | Impact: -0.004962 → LEGITIMATE
+10. s                    | Impact: -0.003657 → LEGITIMATE
+11.  at                  | Impact: -0.003563 → LEGITIMATE
+12.  e                   | Impact: 0.003445 → PHISHING
+13.  soon                | Impact: 0.003314 → PHISHING
+14.  louise              | Impact: 0.002969 → PHISHING
+15.  am                  | Impact: 0.002883 → PHISHING
+16.  resolve             | Impact: 0.002725 → PHISHING
+17.  staff               | Impact: -0.002707 → LEGITIMATE
+18.  .                   | Impact: -0.002411 → LEGITIMATE
+19.  th                  | Impact: 0.002100 → PHISHING
+20.  been                | Impact: 0.001952 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bt                  | Impact: 0.027502
+ 2.  mail                | Impact: 0.010340
+ 3.  e                   | Impact: 0.003445
+ 4.  soon                | Impact: 0.003314
+ 5.  louise              | Impact: 0.002969
+ 6.  am                  | Impact: 0.002883
+ 7.  resolve             | Impact: 0.002725
+ 8.  th                  | Impact: 0.002100
+ 9.  been                | Impact: 0.001952
+10.  via                 | Impact: 0.001870
+11.  rob                 | Impact: 0.001807
+12.  would               | Impact: 0.000977
+13.  this                | Impact: 0.000957
+14.  has                 | Impact: 0.000574
+15.  this                | Impact: 0.000563
+16.  -                   | Impact: 0.000399
+17.  this                | Impact: 0.000381
+18.  ward                | Impact: 0.000244
+19.  rob                 | Impact: 0.000156
+20.  any                 | Impact: 0.000046
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.016847
+ 2.  respond             | Impact: -0.008868
+ 3. x                    | Impact: -0.008273
+ 4.  pl                  | Impact: -0.006705
+ 5.  update              | Impact: -0.006423
+ 6.  approved            | Impact: -0.005192
+ 7.  meeting             | Impact: -0.004962
+ 8. s                    | Impact: -0.003657
+ 9.  at                  | Impact: -0.003563
+10.  staff               | Impact: -0.002707
+11.  .                   | Impact: -0.002411
+12.  ?                   | Impact: -0.001859
+13.  like                | Impact: -0.001684
+14.  ,                   | Impact: -0.001654
+15.  kim                 | Impact: -0.001073
+16.  status              | Impact: -0.000997
+17.  so                  | Impact: -0.000892
+18.  i                   | Impact: -0.000849
+19.  ,                   | Impact: -0.000830
+20.  .                   | Impact: -0.000788

@@ -1,0 +1,74 @@
+Sample 332
+==========
+
+Sample text preview: Re Urgent Assistance Kindly allow me the modesty of introducing myself. I am KEN GREEN KABILA,the son of the former head of state/ president of Congo-...
+
+Model prediction: [1.6871643e-04 9.9983120e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  assassinated        | Impact: 0.008665 → PHISHING
+ 2.  by                  | Impact: 0.008665 → PHISHING
+ 3.  one                 | Impact: 0.008665 → PHISHING
+ 4.  of                  | Impact: 0.008665 → PHISHING
+ 5.  father              | Impact: 0.008429 → PHISHING
+ 6.  before              | Impact: 0.008429 → PHISHING
+ 7.  he                  | Impact: 0.008429 → PHISHING
+ 8.  was                 | Impact: 0.008429 → PHISHING
+ 9.  mr                  | Impact: 0.006370 → PHISHING
+10.  .                   | Impact: 0.006370 → PHISHING
+11.  at                  | Impact: 0.005769 → PHISHING
+12.  present             | Impact: 0.005769 → PHISHING
+13.  the                 | Impact: 0.005769 → PHISHING
+14.  money               | Impact: 0.005769 → PHISHING
+15.  in                  | Impact: 0.005642 → PHISHING
+16.  receipt             | Impact: 0.005642 → PHISHING
+17.  of                  | Impact: 0.005642 → PHISHING
+18.  your                | Impact: 0.005642 → PHISHING
+19.  days                | Impact: 0.005245 → PHISHING
+20.  of                  | Impact: 0.005245 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  assassinated        | Impact: 0.008665
+ 2.  by                  | Impact: 0.008665
+ 3.  one                 | Impact: 0.008665
+ 4.  of                  | Impact: 0.008665
+ 5.  father              | Impact: 0.008429
+ 6.  before              | Impact: 0.008429
+ 7.  he                  | Impact: 0.008429
+ 8.  was                 | Impact: 0.008429
+ 9.  mr                  | Impact: 0.006370
+10.  .                   | Impact: 0.006370
+11.  at                  | Impact: 0.005769
+12.  present             | Impact: 0.005769
+13.  the                 | Impact: 0.005769
+14.  money               | Impact: 0.005769
+15.  in                  | Impact: 0.005642
+16.  receipt             | Impact: 0.005642
+17.  of                  | Impact: 0.005642
+18.  your                | Impact: 0.005642
+19.  days                | Impact: 0.005245
+20.  of                  | Impact: 0.005245
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  as                  | Impact: -0.000894
+ 2.  my                  | Impact: -0.000894
+ 3.  narration           | Impact: -0.000894
+ 4.  below               | Impact: -0.000894
+ 5.  our                 | Impact: -0.000456
+ 6.  situation           | Impact: -0.000456
+ 7.  is                  | Impact: -0.000456
+ 8.  seriously           | Impact: -0.000456
+ 9.  critical            | Impact: -0.000456
+10.  that                | Impact: -0.000456
+11.  we                  | Impact: -0.000456
+12.  need                | Impact: -0.000456
+13.  on                  | Impact: -0.000230
+14.  january             | Impact: -0.000230
+15.  th                  | Impact: -0.000230
+16.  ,                   | Impact: -0.000230
+17.  will                | Impact: -0.000121
+18.  explain             | Impact: -0.000121
+19.  .                   | Impact: -0.000121

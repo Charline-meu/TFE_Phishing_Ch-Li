@@ -1,0 +1,58 @@
+Sample 345
+==========
+
+Sample text preview: > MSG_ID_ADDED_BY_MTA (. points) > INVALID_MSGID (. points) > MSG_ID_ADDED_BY_MTA_ (. points) Here are the new scores in the . branch (they may change...
+
+Model prediction: [9.9975139e-01 2.4858795e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  points              | Impact: -0.015984 → LEGITIMATE
+ 2.  points              | Impact: -0.012619 → LEGITIMATE
+ 3.  points              | Impact: -0.009882 → LEGITIMATE
+ 4.  suppose             | Impact: -0.009470 → LEGITIMATE
+ 5.  >                   | Impact: -0.008521 → LEGITIMATE
+ 6.  platform            | Impact: -0.005793 → LEGITIMATE
+ 7.  by                  | Impact: -0.005265 → LEGITIMATE
+ 8.  :                   | Impact: -0.005265 → LEGITIMATE
+ 9.  ja                  | Impact: -0.005265 → LEGITIMATE
+10. bber                 | Impact: -0.005265 → LEGITIMATE
+11.  time                | Impact: -0.005172 → LEGITIMATE
+12.  communications      | Impact: -0.005172 → LEGITIMATE
+13.  >                   | Impact: -0.004882 → LEGITIMATE
+14.  invalid             | Impact: -0.004882 → LEGITIMATE
+15.                      | Impact: -0.004470 → LEGITIMATE
+16.  net                 | Impact: -0.004193 → LEGITIMATE
+17.  email               | Impact: -0.004193 → LEGITIMATE
+18.  is                  | Impact: -0.004193 → LEGITIMATE
+19.  sponsored           | Impact: -0.004193 → LEGITIMATE
+20.  >                   | Impact: -0.003617 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.002034
+ 2.  (                   | Impact: 0.000189
+ 3.  .                   | Impact: 0.000189
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  points              | Impact: -0.015984
+ 2.  points              | Impact: -0.012619
+ 3.  points              | Impact: -0.009882
+ 4.  suppose             | Impact: -0.009470
+ 5.  >                   | Impact: -0.008521
+ 6.  platform            | Impact: -0.005793
+ 7.  by                  | Impact: -0.005265
+ 8.  :                   | Impact: -0.005265
+ 9.  ja                  | Impact: -0.005265
+10. bber                 | Impact: -0.005265
+11.  time                | Impact: -0.005172
+12.  communications      | Impact: -0.005172
+13.  >                   | Impact: -0.004882
+14.  invalid             | Impact: -0.004882
+15.                      | Impact: -0.004470
+16.  net                 | Impact: -0.004193
+17.  email               | Impact: -0.004193
+18.  is                  | Impact: -0.004193
+19.  sponsored           | Impact: -0.004193
+20.  >                   | Impact: -0.003617

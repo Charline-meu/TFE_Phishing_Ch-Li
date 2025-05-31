@@ -1,0 +1,75 @@
+Sample 18
+=========
+
+Sample text preview: -----Original Message----- From: Shackleton, Sara Sent: Friday, June , : AM To: Cc: Hundl, Kimberly; Swerzbin, Mike Subject: Certificates to accompany...
+
+Model prediction: [9.9977261e-01 2.2740648e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  .                   | Impact: -0.003483 → LEGITIMATE
+ 2. ron                  | Impact: -0.002545 → LEGITIMATE
+ 3.  certificates        | Impact: -0.002459 → LEGITIMATE
+ 4.  en                  | Impact: -0.002427 → LEGITIMATE
+ 5.  agreed              | Impact: -0.002409 → LEGITIMATE
+ 6.  management          | Impact: -0.002160 → LEGITIMATE
+ 7.  committee           | Impact: -0.002110 → LEGITIMATE
+ 8.  (                   | Impact: -0.002021 → LEGITIMATE
+ 9.  :                   | Impact: -0.002012 → LEGITIMATE
+10.  :                   | Impact: -0.002005 → LEGITIMATE
+11.  is                  | Impact: -0.001700 → LEGITIMATE
+12.  -                   | Impact: -0.001640 → LEGITIMATE
+13.  mike                | Impact: -0.001587 → LEGITIMATE
+14.  certificates        | Impact: -0.001579 → LEGITIMATE
+15.  master              | Impact: -0.001515 → LEGITIMATE
+16.  en                  | Impact: -0.001431 → LEGITIMATE
+17. a                    | Impact: -0.001431 → LEGITIMATE
+18.  which               | Impact: -0.001359 → LEGITIMATE
+19. da                   | Impact: -0.001349 → LEGITIMATE
+20.  .                   | Impact: -0.001282 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  its                 | Impact: 0.001261
+ 2.  financial           | Impact: 0.001225
+ 3.  and                 | Impact: 0.000710
+ 4.  early               | Impact: 0.000704
+ 5.  may                 | Impact: 0.000607
+ 6.  you                 | Impact: 0.000570
+ 7.  financial           | Impact: 0.000555
+ 8.  every               | Impact: 0.000535
+ 9.  recall              | Impact: 0.000427
+10.  risk                | Impact: 0.000311
+11.  the                 | Impact: 0.000217
+12.  part                | Impact: 0.000205
+13.  of                  | Impact: 0.000205
+14.  in                  | Impact: 0.000203
+15.  every               | Impact: 0.000203
+16.  -                   | Impact: 0.000129
+17.  from                | Impact: 0.000129
+18.  will                | Impact: 0.000093
+19.  be                  | Impact: 0.000093
+20.  forward             | Impact: 0.000093
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.003483
+ 2. ron                  | Impact: -0.002545
+ 3.  certificates        | Impact: -0.002459
+ 4.  en                  | Impact: -0.002427
+ 5.  agreed              | Impact: -0.002409
+ 6.  management          | Impact: -0.002160
+ 7.  committee           | Impact: -0.002110
+ 8.  (                   | Impact: -0.002021
+ 9.  :                   | Impact: -0.002012
+10.  :                   | Impact: -0.002005
+11.  is                  | Impact: -0.001700
+12.  -                   | Impact: -0.001640
+13.  mike                | Impact: -0.001587
+14.  certificates        | Impact: -0.001579
+15.  master              | Impact: -0.001515
+16.  en                  | Impact: -0.001431
+17. a                    | Impact: -0.001431
+18.  which               | Impact: -0.001359
+19. da                   | Impact: -0.001349
+20.  .                   | Impact: -0.001282

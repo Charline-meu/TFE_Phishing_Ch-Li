@@ -1,0 +1,75 @@
+Sample 283
+==========
+
+Sample text preview: Once upon a time, Ville wrote : > > Thanks a *lot* ! The RPMs seem to be fine, they worked for me out of > > the box (on vanilla Valhalla w/latest err...
+
+Model prediction: [9.9969447e-01 3.0551082e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.012257 → LEGITIMATE
+ 2.  :                   | Impact: -0.010143 → LEGITIMATE
+ 3.  >                   | Impact: -0.010005 → LEGITIMATE
+ 4.  thanks              | Impact: -0.006753 → LEGITIMATE
+ 5.  >                   | Impact: -0.006610 → LEGITIMATE
+ 6.  >                   | Impact: -0.006243 → LEGITIMATE
+ 7.  modules             | Impact: -0.004605 → LEGITIMATE
+ 8.  output              | Impact: -0.004581 → LEGITIMATE
+ 9.  logic               | Impact: -0.003784 → LEGITIMATE
+10.  supports            | Impact: -0.003472 → LEGITIMATE
+11.  the                 | Impact: -0.003472 → LEGITIMATE
+12.  optical             | Impact: -0.003283 → LEGITIMATE
+13.  spain               | Impact: -0.002511 → LEGITIMATE
+14.  electronic          | Impact: -0.002511 → LEGITIMATE
+15.  rpm                 | Impact: -0.002458 → LEGITIMATE
+16. s                    | Impact: -0.002458 → LEGITIMATE
+17.  ,                   | Impact: -0.002458 → LEGITIMATE
+18.  designed            | Impact: -0.002422 → LEGITIMATE
+19.  for                 | Impact: -0.002422 → LEGITIMATE
+20.  the                 | Impact: -0.002399 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  lot                 | Impact: 0.002183
+ 2.  *                   | Impact: 0.002183
+ 3.  once                | Impact: 0.001912
+ 4.  !                   | Impact: 0.001544
+ 5.  ,                   | Impact: 0.000863
+ 6.  !                   | Impact: 0.000693
+ 7.  m                   | Impact: 0.000563
+ 8.  now                 | Impact: 0.000563
+ 9.  ville               | Impact: 0.000558
+10.  wrote               | Impact: 0.000529
+11.  i                   | Impact: 0.000468
+12.  '                   | Impact: 0.000468
+13.  working             | Impact: 0.000242
+14.  with                | Impact: 0.000242
+15.  these               | Impact: 0.000242
+16.  wondering           | Impact: 0.000199
+17.  if                  | Impact: 0.000199
+18.  i                   | Impact: 0.000199
+19.  won                 | Impact: 0.000199
+20.  '                   | Impact: 0.000199
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.012257
+ 2.  :                   | Impact: -0.010143
+ 3.  >                   | Impact: -0.010005
+ 4.  thanks              | Impact: -0.006753
+ 5.  >                   | Impact: -0.006610
+ 6.  >                   | Impact: -0.006243
+ 7.  modules             | Impact: -0.004605
+ 8.  output              | Impact: -0.004581
+ 9.  logic               | Impact: -0.003784
+10.  supports            | Impact: -0.003472
+11.  the                 | Impact: -0.003472
+12.  optical             | Impact: -0.003283
+13.  spain               | Impact: -0.002511
+14.  electronic          | Impact: -0.002511
+15.  rpm                 | Impact: -0.002458
+16. s                    | Impact: -0.002458
+17.  ,                   | Impact: -0.002458
+18.  designed            | Impact: -0.002422
+19.  for                 | Impact: -0.002422
+20.  the                 | Impact: -0.002399

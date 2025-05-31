@@ -1,0 +1,75 @@
+Sample 468
+==========
+
+Sample text preview: > From: Chris Garrigues > Date: Wed, Aug :: - > > > From: > > Date: Wed, Aug :: - > > > > --==_Exmh_P > > Content-Type: text/plain; charset=us-ascii >...
+
+Model prediction: [9.9979311e-01 2.0690111e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  default             | Impact: -0.011104 → LEGITIMATE
+ 2.  >                   | Impact: -0.007377 → LEGITIMATE
+ 3.  user                | Impact: -0.007286 → LEGITIMATE
+ 4.  error               | Impact: -0.007286 → LEGITIMATE
+ 5.  >                   | Impact: -0.006130 → LEGITIMATE
+ 6.  >                   | Impact: -0.005419 → LEGITIMATE
+ 7.  chris               | Impact: -0.005408 → LEGITIMATE
+ 8.  -                   | Impact: -0.005408 → LEGITIMATE
+ 9.  -                   | Impact: -0.005408 → LEGITIMATE
+10.  chris               | Impact: -0.005408 → LEGITIMATE
+11.  :                   | Impact: -0.005147 → LEGITIMATE
+12.  >                   | Impact: -0.005114 → LEGITIMATE
+13.  >                   | Impact: -0.004730 → LEGITIMATE
+14.  from                | Impact: -0.004699 → LEGITIMATE
+15.  :                   | Impact: -0.004699 → LEGITIMATE
+16.  chris               | Impact: -0.004474 → LEGITIMATE
+17.  add                 | Impact: -0.004287 → LEGITIMATE
+18.  >                   | Impact: -0.004282 → LEGITIMATE
+19.  :                   | Impact: 0.003974 → PHISHING
+20.  wed                 | Impact: 0.003974 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  :                   | Impact: 0.003974
+ 2.  wed                 | Impact: 0.003974
+ 3.  suite               | Impact: 0.002224
+ 4.  austin              | Impact: 0.002224
+ 5.  ,                   | Impact: 0.001807
+ 6.  ,                   | Impact: 0.001315
+ 7.  >                   | Impact: 0.000828
+ 8.  date                | Impact: 0.000828
+ 9.  :                   | Impact: 0.000828
+10.  wed                 | Impact: 0.000828
+11.  doe                 | Impact: 0.000790
+12. rs                   | Impact: 0.000790
+13.  .                   | Impact: 0.000790
+14.  ,                   | Impact: 0.000514
+15.  y                   | Impact: 0.000350
+16.  '                   | Impact: 0.000350
+17.  s                   | Impact: 0.000350
+18.  m                   | Impact: 0.000175
+19. h                    | Impact: 0.000175
+20.  to                  | Impact: 0.000175
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  default             | Impact: -0.011104
+ 2.  >                   | Impact: -0.007377
+ 3.  user                | Impact: -0.007286
+ 4.  error               | Impact: -0.007286
+ 5.  >                   | Impact: -0.006130
+ 6.  >                   | Impact: -0.005419
+ 7.  chris               | Impact: -0.005408
+ 8.  -                   | Impact: -0.005408
+ 9.  -                   | Impact: -0.005408
+10.  chris               | Impact: -0.005408
+11.  :                   | Impact: -0.005147
+12.  >                   | Impact: -0.005114
+13.  >                   | Impact: -0.004730
+14.  from                | Impact: -0.004699
+15.  :                   | Impact: -0.004699
+16.  chris               | Impact: -0.004474
+17.  add                 | Impact: -0.004287
+18.  >                   | Impact: -0.004282
+19.  >                   | Impact: -0.003968
+20. gues                 | Impact: -0.003848

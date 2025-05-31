@@ -1,0 +1,70 @@
+Phishing Sample 76
+==================
+
+Sample text preview: From:Nelison& Linda. Abidjan Cote d'Ivoire. Dear Respectful One, Permit me to inform you our desire of going into business relationship with you. I kn...
+
+Model prediction: [1.7792945e-04 9.9982208e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  with                | Impact: 0.007068 → PHISHING
+ 2.  you                 | Impact: 0.007068 → PHISHING
+ 3.  .                   | Impact: 0.007068 → PHISHING
+ 4.  of                  | Impact: 0.006661 → PHISHING
+ 5.  our                 | Impact: 0.006661 → PHISHING
+ 6.  parents             | Impact: 0.006661 → PHISHING
+ 7.  ,                   | Impact: 0.006661 → PHISHING
+ 8.  partner             | Impact: 0.006589 → PHISHING
+ 9.  abroad              | Impact: 0.006589 → PHISHING
+10.  for                 | Impact: 0.006589 → PHISHING
+11.  immediate           | Impact: 0.006589 → PHISHING
+12.  as                  | Impact: 0.005099 → PHISHING
+13.  our                 | Impact: 0.005099 → PHISHING
+14.  late                | Impact: 0.005099 → PHISHING
+15.  parents             | Impact: 0.005099 → PHISHING
+16.  we                  | Impact: 0.004839 → PHISHING
+17.  have                | Impact: 0.004839 → PHISHING
+18.  agreed              | Impact: 0.004839 → PHISHING
+19.  to                  | Impact: 0.004839 → PHISHING
+20.  give                | Impact: 0.004839 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  with                | Impact: 0.007068
+ 2.  you                 | Impact: 0.007068
+ 3.  .                   | Impact: 0.007068
+ 4.  of                  | Impact: 0.006661
+ 5.  our                 | Impact: 0.006661
+ 6.  parents             | Impact: 0.006661
+ 7.  ,                   | Impact: 0.006661
+ 8.  partner             | Impact: 0.006589
+ 9.  abroad              | Impact: 0.006589
+10.  for                 | Impact: 0.006589
+11.  immediate           | Impact: 0.006589
+12.  as                  | Impact: 0.005099
+13.  our                 | Impact: 0.005099
+14.  late                | Impact: 0.005099
+15.  parents             | Impact: 0.005099
+16.  we                  | Impact: 0.004839
+17.  have                | Impact: 0.004839
+18.  agreed              | Impact: 0.004839
+19.  to                  | Impact: 0.004839
+20.  give                | Impact: 0.004839
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  &                   | Impact: -0.001203
+ 2.  linda               | Impact: -0.001203
+ 3.  .                   | Impact: -0.001203
+ 4.                      | Impact: -0.000907
+ 5.  from                | Impact: -0.000907
+ 6.  :                   | Impact: -0.000907
+ 7.  ne                  | Impact: -0.000907
+ 8. lis                  | Impact: -0.000907
+ 9. on                   | Impact: -0.000907
+10.  america             | Impact: -0.000388
+11.  or                  | Impact: -0.000388
+12.  europe              | Impact: -0.000388
+13.  ,                   | Impact: -0.000388
+14.  while               | Impact: -0.000319
+15.  .                   | Impact: -0.000319

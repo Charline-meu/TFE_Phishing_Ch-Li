@@ -1,0 +1,75 @@
+Sample 242
+==========
+
+Sample text preview: On Sun, Sep , at ::PM +, Paul Jakma mentioned: > On Sun, Sep , kevin lyda wrote: > > > gnu date is limited by time_t. but i thought time_t expired in ...
+
+Model prediction: [9.9980205e-01 1.9799666e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  a                   | Impact: -0.003345 → LEGITIMATE
+ 2.  but                 | Impact: -0.002822 → LEGITIMATE
+ 3.  ?                   | Impact: 0.002428 → PHISHING
+ 4.  _                   | Impact: 0.002428 → PHISHING
+ 5.  expired             | Impact: 0.002366 → PHISHING
+ 6.  i                   | Impact: -0.002301 → LEGITIMATE
+ 7.  gnu                 | Impact: -0.002159 → LEGITIMATE
+ 8.  use                 | Impact: -0.002159 → LEGITIMATE
+ 9.  time                | Impact: 0.002135 → PHISHING
+10.  >                   | Impact: -0.001916 → LEGITIMATE
+11.  thought             | Impact: -0.001712 → LEGITIMATE
+12.  t                   | Impact: 0.001588 → PHISHING
+13.  may                 | Impact: 0.001548 → PHISHING
+14.  kate                | Impact: -0.001475 → LEGITIMATE
+15.  _                   | Impact: 0.001335 → PHISHING
+16.  linux               | Impact: -0.001209 → LEGITIMATE
+17.  assume              | Impact: -0.001202 → LEGITIMATE
+18.  in                  | Impact: 0.001188 → PHISHING
+19.  >                   | Impact: -0.001170 → LEGITIMATE
+20.  time                | Impact: 0.001161 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ?                   | Impact: 0.002428
+ 2.  _                   | Impact: 0.002428
+ 3.  expired             | Impact: 0.002366
+ 4.  time                | Impact: 0.002135
+ 5.  t                   | Impact: 0.001588
+ 6.  may                 | Impact: 0.001548
+ 7.  _                   | Impact: 0.001335
+ 8.  in                  | Impact: 0.001188
+ 9.  time                | Impact: 0.001161
+10.  able                | Impact: 0.001056
+11.  date                | Impact: 0.001054
+12.  x                   | Impact: 0.000840
+13.  be                  | Impact: 0.000810
+14.  safe                | Impact: 0.000810
+15.  enough              | Impact: 0.000810
+16. ring                 | Impact: 0.000750
+17.  it                  | Impact: 0.000693
+18.  we                  | Impact: 0.000613
+19.  should              | Impact: 0.000613
+20.  this                | Impact: 0.000526
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  a                   | Impact: -0.003345
+ 2.  but                 | Impact: -0.002822
+ 3.  i                   | Impact: -0.002301
+ 4.  gnu                 | Impact: -0.002159
+ 5.  use                 | Impact: -0.002159
+ 6.  >                   | Impact: -0.001916
+ 7.  thought             | Impact: -0.001712
+ 8.  kate                | Impact: -0.001475
+ 9.  linux               | Impact: -0.001209
+10.  assume              | Impact: -0.001202
+11.  >                   | Impact: -0.001170
+12.  >                   | Impact: -0.001155
+13.  :                   | Impact: -0.001072
+14.  users               | Impact: -0.001012
+15.  etc                 | Impact: -0.000926
+16.  i                   | Impact: -0.000919
+17.  ,                   | Impact: -0.000916
+18.  for                 | Impact: -0.000829
+19.  on                  | Impact: -0.000818
+20.  '                   | Impact: -0.000818

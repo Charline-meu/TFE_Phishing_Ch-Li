@@ -1,0 +1,75 @@
+Sample 352
+==========
+
+Sample text preview: Compliments of the day to you and your family. How are you? and your family? i do hope you all are fine? if so glory be to almighty. I got your e-mail...
+
+Model prediction: [1.7245147e-04 9.9982750e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  father              | Impact: 0.013059 → PHISHING
+ 2.  profitable          | Impact: 0.012737 → PHISHING
+ 3.  investment          | Impact: 0.012737 → PHISHING
+ 4.  in                  | Impact: 0.010846 → PHISHING
+ 5.  your                | Impact: 0.010846 → PHISHING
+ 6.  country             | Impact: 0.010846 → PHISHING
+ 7.  my                  | Impact: 0.010269 → PHISHING
+ 8.  late                | Impact: 0.010269 → PHISHING
+ 9.  the                 | Impact: 0.007953 → PHISHING
+10.  son                 | Impact: 0.007953 → PHISHING
+11.  of                  | Impact: 0.007953 → PHISHING
+12.  chief               | Impact: 0.007953 → PHISHING
+13.  bank                | Impact: 0.007714 → PHISHING
+14. elo                  | Impact: 0.007714 → PHISHING
+15.  you                 | Impact: 0.006876 → PHISHING
+16.  will                | Impact: 0.006876 → PHISHING
+17.  my                  | Impact: 0.006811 → PHISHING
+18.  mother              | Impact: 0.006811 → PHISHING
+19.  on                  | Impact: 0.006811 → PHISHING
+20.  any                 | Impact: 0.006811 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  father              | Impact: 0.013059
+ 2.  profitable          | Impact: 0.012737
+ 3.  investment          | Impact: 0.012737
+ 4.  in                  | Impact: 0.010846
+ 5.  your                | Impact: 0.010846
+ 6.  country             | Impact: 0.010846
+ 7.  my                  | Impact: 0.010269
+ 8.  late                | Impact: 0.010269
+ 9.  the                 | Impact: 0.007953
+10.  son                 | Impact: 0.007953
+11.  of                  | Impact: 0.007953
+12.  chief               | Impact: 0.007953
+13.  bank                | Impact: 0.007714
+14. elo                  | Impact: 0.007714
+15.  you                 | Impact: 0.006876
+16.  will                | Impact: 0.006876
+17.  my                  | Impact: 0.006811
+18.  mother              | Impact: 0.006811
+19.  on                  | Impact: 0.006811
+20.  any                 | Impact: 0.006811
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  he                  | Impact: -0.001922
+ 2.  deals               | Impact: -0.001922
+ 3.  i                   | Impact: -0.001005
+ 4.  got                 | Impact: -0.001005
+ 5.  your                | Impact: -0.001005
+ 6.  e                   | Impact: -0.001005
+ 7.  -                   | Impact: -0.001005
+ 8.  mail                | Impact: -0.001005
+ 9.  on                  | Impact: -0.001005
+10.  my                  | Impact: -0.001005
+11.  then                | Impact: -0.000958
+12.  i                   | Impact: -0.000958
+13.  decided             | Impact: -0.000958
+14.  to                  | Impact: -0.000958
+15.  on                  | Impact: -0.000472
+16.  diamond             | Impact: -0.000472
+17.  a                   | Impact: -0.000409
+18. qui                  | Impact: -0.000409
+19. re                   | Impact: -0.000409
+20.  nat                 | Impact: -0.000409

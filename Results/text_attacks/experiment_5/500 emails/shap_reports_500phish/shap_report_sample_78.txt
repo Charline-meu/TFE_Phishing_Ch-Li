@@ -1,0 +1,59 @@
+Sample 78
+=========
+
+Sample text preview: FROM MISS MARY BAMBA IVORY COAST WEST AFRICA DEAREST ONE I AM MISS MARY BAMBA FROM IVORY COAST AND I AM CONTACTING YOU BECAUSE I NEED YOUR HELP IN THE...
+
+Model prediction: [1.6944078e-04 9.9983048e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  country             | Impact: 0.024209 → PHISHING
+ 2.  your                | Impact: 0.023093 → PHISHING
+ 3.  urgent              | Impact: 0.023093 → PHISHING
+ 4.  money               | Impact: 0.022981 → PHISHING
+ 5.  money               | Impact: 0.020662 → PHISHING
+ 6.  to                  | Impact: 0.020525 → PHISHING
+ 7.  your                | Impact: 0.019075 → PHISHING
+ 8.  reply               | Impact: 0.018276 → PHISHING
+ 9.  million             | Impact: 0.017238 → PHISHING
+10.  thanks              | Impact: -0.014775 → LEGITIMATE
+11.  of                  | Impact: 0.014386 → PHISHING
+12.  this                | Impact: 0.012519 → PHISHING
+13.  coast               | Impact: 0.011815 → PHISHING
+14.  continue            | Impact: 0.011766 → PHISHING
+15.  my                  | Impact: 0.011766 → PHISHING
+16.  your                | Impact: 0.011593 → PHISHING
+17.  country             | Impact: 0.011593 → PHISHING
+18.  to                  | Impact: 0.011475 → PHISHING
+19.  reply               | Impact: 0.011335 → PHISHING
+20.  to                  | Impact: 0.011335 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  country             | Impact: 0.024209
+ 2.  your                | Impact: 0.023093
+ 3.  urgent              | Impact: 0.023093
+ 4.  money               | Impact: 0.022981
+ 5.  money               | Impact: 0.020662
+ 6.  to                  | Impact: 0.020525
+ 7.  your                | Impact: 0.019075
+ 8.  reply               | Impact: 0.018276
+ 9.  million             | Impact: 0.017238
+10.  of                  | Impact: 0.014386
+11.  this                | Impact: 0.012519
+12.  coast               | Impact: 0.011815
+13.  continue            | Impact: 0.011766
+14.  my                  | Impact: 0.011766
+15.  your                | Impact: 0.011593
+16.  country             | Impact: 0.011593
+17.  to                  | Impact: 0.011475
+18.  reply               | Impact: 0.011335
+19.  to                  | Impact: 0.011335
+20.  dear                | Impact: 0.010884
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.014775
+ 2.  .                   | Impact: -0.005538
+ 3.  ,                   | Impact: -0.002439
+ 4.  .                   | Impact: -0.000421

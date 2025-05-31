@@ -1,0 +1,75 @@
+Phishing Sample 63
+==================
+
+Sample text preview: >From Mr.kenny paul TELEPHONE:+--- FAX NUMBER:+- We are Diplomatic Corp that holds special and valuable consignments for reputable clients that are ho...
+
+Model prediction: [2.4701210e-04 9.9975294e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  her                 | Impact: 0.011356 → PHISHING
+ 2.  children            | Impact: 0.011356 → PHISHING
+ 3.  have                | Impact: 0.011356 → PHISHING
+ 4.  been                | Impact: 0.011356 → PHISHING
+ 5.  million             | Impact: 0.009506 → PHISHING
+ 6.  would               | Impact: 0.007432 → PHISHING
+ 7.  be                  | Impact: 0.007432 → PHISHING
+ 8.  sent                | Impact: 0.007432 → PHISHING
+ 9. to                   | Impact: 0.007432 → PHISHING
+10.  you                 | Impact: 0.007432 → PHISHING
+11.  as                  | Impact: 0.007432 → PHISHING
+12.  soon                | Impact: 0.007432 → PHISHING
+13.  as                  | Impact: 0.007432 → PHISHING
+14.  amount              | Impact: 0.007318 → PHISHING
+15. of                   | Impact: 0.007318 → PHISHING
+16.  money               | Impact: 0.007318 → PHISHING
+17.  from                | Impact: 0.007318 → PHISHING
+18.  the                 | Impact: 0.006859 → PHISHING
+19.  benefactor          | Impact: 0.006859 → PHISHING
+20.  and                 | Impact: 0.006859 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  her                 | Impact: 0.011356
+ 2.  children            | Impact: 0.011356
+ 3.  have                | Impact: 0.011356
+ 4.  been                | Impact: 0.011356
+ 5.  million             | Impact: 0.009506
+ 6.  would               | Impact: 0.007432
+ 7.  be                  | Impact: 0.007432
+ 8.  sent                | Impact: 0.007432
+ 9. to                   | Impact: 0.007432
+10.  you                 | Impact: 0.007432
+11.  as                  | Impact: 0.007432
+12.  soon                | Impact: 0.007432
+13.  as                  | Impact: 0.007432
+14.  amount              | Impact: 0.007318
+15. of                   | Impact: 0.007318
+16.  money               | Impact: 0.007318
+17.  from                | Impact: 0.007318
+18.  the                 | Impact: 0.006859
+19.  benefactor          | Impact: 0.006859
+20.  and                 | Impact: 0.006859
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.000504
+ 2.  >                   | Impact: -0.000504
+ 3.  from                | Impact: -0.000504
+ 4.  mr                  | Impact: -0.000504
+ 5.  .                   | Impact: -0.000504
+ 6.  kenny               | Impact: -0.000321
+ 7.  paul                | Impact: -0.000321
+ 8.  telephone           | Impact: -0.000321
+ 9.  :                   | Impact: -0.000321
+10.  +                   | Impact: -0.000321
+11.  -                   | Impact: -0.000321
+12.  -                   | Impact: -0.000321
+13.  -                   | Impact: -0.000321
+14.  )                   | Impact: -0.000047
+15.  _                   | Impact: -0.000026
+16.  _                   | Impact: -0.000026
+17.  _                   | Impact: -0.000026
+18.  _                   | Impact: -0.000026
+19.  _                   | Impact: -0.000026
+20.  _                   | Impact: -0.000026

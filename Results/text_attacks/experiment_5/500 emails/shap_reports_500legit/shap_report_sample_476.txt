@@ -1,0 +1,75 @@
+Sample 476
+==========
+
+Sample text preview: We attempted to deliver this message to you with HTML formatting. However, your e-mail program does not support HTML-enhanced messages. Please go to y...
+
+Model prediction: [9.996270e-01 3.729981e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  group               | Impact: -0.236907 → LEGITIMATE
+ 2.  ms                  | Impact: -0.091039 → LEGITIMATE
+ 3.  your                | Impact: 0.075109 → PHISHING
+ 4.  you                 | Impact: 0.073038 → PHISHING
+ 5.  mail                | Impact: 0.058414 → PHISHING
+ 6.  for                 | Impact: -0.047980 → LEGITIMATE
+ 7.  program             | Impact: 0.045584 → PHISHING
+ 8.  this                | Impact: -0.039141 → LEGITIMATE
+ 9.  groups              | Impact: -0.038877 → LEGITIMATE
+10.  format              | Impact: 0.029314 → PHISHING
+11.  go                  | Impact: -0.028847 → LEGITIMATE
+12.  "                   | Impact: 0.028243 → PHISHING
+13.  your                | Impact: 0.026883 → PHISHING
+14.  message             | Impact: 0.024558 → PHISHING
+15.  support             | Impact: 0.022698 → PHISHING
+16.  please              | Impact: -0.022628 → LEGITIMATE
+17.  we                  | Impact: 0.021024 → PHISHING
+18.  preference          | Impact: -0.019404 → LEGITIMATE
+19.  e                   | Impact: 0.018651 → PHISHING
+20.  .                   | Impact: -0.017730 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.075109
+ 2.  you                 | Impact: 0.073038
+ 3.  mail                | Impact: 0.058414
+ 4.  program             | Impact: 0.045584
+ 5.  format              | Impact: 0.029314
+ 6.  "                   | Impact: 0.028243
+ 7.  your                | Impact: 0.026883
+ 8.  message             | Impact: 0.024558
+ 9.  support             | Impact: 0.022698
+10.  we                  | Impact: 0.021024
+11.  e                   | Impact: 0.018651
+12.  with                | Impact: 0.015382
+13.  -                   | Impact: 0.014142
+14.  to                  | Impact: 0.013714
+15.  not                 | Impact: 0.012259
+16.  your                | Impact: 0.011559
+17.  does                | Impact: 0.011421
+18.  html                | Impact: 0.010669
+19.  html                | Impact: 0.010304
+20.  enhanced            | Impact: 0.010210
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  group               | Impact: -0.236907
+ 2.  ms                  | Impact: -0.091039
+ 3.  for                 | Impact: -0.047980
+ 4.  this                | Impact: -0.039141
+ 5.  groups              | Impact: -0.038877
+ 6.  go                  | Impact: -0.028847
+ 7.  please              | Impact: -0.022628
+ 8.  preference          | Impact: -0.019404
+ 9.  .                   | Impact: -0.017730
+10.  to                  | Impact: -0.015957
+11.  "                   | Impact: -0.014678
+12.  -                   | Impact: -0.012351
+13.  -                   | Impact: -0.011567
+14.  mail                | Impact: -0.011180
+15.  e                   | Impact: -0.010094
+16. n                    | Impact: -0.009622
+17.  settings            | Impact: -0.008905
+18. ting                 | Impact: -0.008595
+19.  e                   | Impact: -0.007121
+20.  however             | Impact: -0.006748

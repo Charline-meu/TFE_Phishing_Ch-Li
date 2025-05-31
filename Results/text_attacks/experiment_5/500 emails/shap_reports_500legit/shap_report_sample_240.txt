@@ -1,0 +1,75 @@
+Sample 240
+==========
+
+Sample text preview: Attached is the list compiled by Marathon of "influentials" in each of our priority legislative districts (this week, we're only focusing on Burton, B...
+
+Model prediction: [9.9973804e-01 2.6193648e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  xl                  | Impact: 0.034170 → PHISHING
+ 2.  legislators         | Impact: -0.026509 → LEGITIMATE
+ 3.  thanks              | Impact: -0.024187 → LEGITIMATE
+ 4.  april               | Impact: -0.023370 → LEGITIMATE
+ 5. s                    | Impact: 0.015653 → PHISHING
+ 6.  compiled            | Impact: -0.013515 → LEGITIMATE
+ 7.  is                  | Impact: 0.012208 → PHISHING
+ 8.  by                  | Impact: 0.011251 → PHISHING
+ 9.  .                   | Impact: -0.008373 → LEGITIMATE
+10.  marathon            | Impact: 0.008279 → PHISHING
+11.  k                   | Impact: 0.006430 → PHISHING
+12.  attached            | Impact: -0.006344 → LEGITIMATE
+13.  priority            | Impact: -0.006123 → LEGITIMATE
+14.  the                 | Impact: 0.004434 → PHISHING
+15.  legislative         | Impact: -0.003998 → LEGITIMATE
+16.  districts           | Impact: -0.003883 → LEGITIMATE
+17.  "                   | Impact: -0.003684 → LEGITIMATE
+18.  .                   | Impact: -0.003595 → LEGITIMATE
+19.  targeted            | Impact: 0.003524 → PHISHING
+20.  .                   | Impact: -0.003512 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  xl                  | Impact: 0.034170
+ 2. s                    | Impact: 0.015653
+ 3.  is                  | Impact: 0.012208
+ 4.  by                  | Impact: 0.011251
+ 5.  marathon            | Impact: 0.008279
+ 6.  k                   | Impact: 0.006430
+ 7.  the                 | Impact: 0.004434
+ 8.  targeted            | Impact: 0.003524
+ 9.  -                   | Impact: 0.002857
+10.  and                 | Impact: 0.002707
+11.  willing             | Impact: 0.002268
+12.  be                  | Impact: 0.002224
+13.  would               | Impact: 0.002100
+14.  know                | Impact: 0.001970
+15. p                    | Impact: 0.001547
+16.  asa                 | Impact: 0.001354
+17.  please              | Impact: 0.001207
+18.  to                  | Impact: 0.000996
+19.  anyone              | Impact: 0.000914
+20.  each                | Impact: 0.000766
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  legislators         | Impact: -0.026509
+ 2.  thanks              | Impact: -0.024187
+ 3.  april               | Impact: -0.023370
+ 4.  compiled            | Impact: -0.013515
+ 5.  .                   | Impact: -0.008373
+ 6.  attached            | Impact: -0.006344
+ 7.  priority            | Impact: -0.006123
+ 8.  legislative         | Impact: -0.003998
+ 9.  districts           | Impact: -0.003883
+10.  "                   | Impact: -0.003684
+11.  .                   | Impact: -0.003595
+12.  .                   | Impact: -0.003512
+13.  .                   | Impact: -0.003008
+14.  of                  | Impact: -0.002549
+15.  in                  | Impact: -0.002069
+16.  "                   | Impact: -0.001552
+17.  bowen               | Impact: -0.001531
+18.  of                  | Impact: -0.001314
+19. s                    | Impact: -0.001159
+20.  list                | Impact: -0.001134

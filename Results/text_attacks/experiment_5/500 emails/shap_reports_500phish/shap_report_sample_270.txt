@@ -1,0 +1,75 @@
+Sample 270
+==========
+
+Sample text preview: Michel Guei ,Rue des jardins Cocody les Deux-Plateaux Abidjan Côte D'Ivoire Alternetive Email: First, I must solicit your strictest confidence in this...
+
+Model prediction: [1.890217e-04 9.998110e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.016807 → PHISHING
+ 2.  country             | Impact: 0.016807 → PHISHING
+ 3.  without             | Impact: 0.016807 → PHISHING
+ 4.  delay               | Impact: 0.016807 → PHISHING
+ 5.  bank                | Impact: 0.015068 → PHISHING
+ 6.  address             | Impact: 0.015068 → PHISHING
+ 7.  into                | Impact: 0.014575 → PHISHING
+ 8.  your                | Impact: 0.014575 → PHISHING
+ 9.  account             | Impact: 0.014575 → PHISHING
+10.  in                  | Impact: 0.014575 → PHISHING
+11.  transfer            | Impact: 0.013116 → PHISHING
+12.  of                  | Impact: 0.013116 → PHISHING
+13.  this                | Impact: 0.013116 → PHISHING
+14.  funds               | Impact: 0.013116 → PHISHING
+15.  .                   | Impact: 0.007969 → PHISHING
+16.  ben                 | Impact: 0.007346 → PHISHING
+17. ef                   | Impact: 0.007346 → PHISHING
+18.  ,                   | Impact: 0.006683 → PHISHING
+19. icia                 | Impact: 0.006603 → PHISHING
+20. ry                   | Impact: 0.006603 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.016807
+ 2.  country             | Impact: 0.016807
+ 3.  without             | Impact: 0.016807
+ 4.  delay               | Impact: 0.016807
+ 5.  bank                | Impact: 0.015068
+ 6.  address             | Impact: 0.015068
+ 7.  into                | Impact: 0.014575
+ 8.  your                | Impact: 0.014575
+ 9.  account             | Impact: 0.014575
+10.  in                  | Impact: 0.014575
+11.  transfer            | Impact: 0.013116
+12.  of                  | Impact: 0.013116
+13.  this                | Impact: 0.013116
+14.  funds               | Impact: 0.013116
+15.  .                   | Impact: 0.007969
+16.  ben                 | Impact: 0.007346
+17. ef                   | Impact: 0.007346
+18.  ,                   | Impact: 0.006683
+19. icia                 | Impact: 0.006603
+20. ry                   | Impact: 0.006603
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  of                  | Impact: -0.001405
+ 2.  my                  | Impact: -0.001405
+ 3.  points              | Impact: -0.001405
+ 4.  ,                   | Impact: -0.001405
+ 5.  for                 | Impact: -0.000200
+ 6.  fu                  | Impact: -0.000200
+ 7. ther                 | Impact: -0.000200
+ 8.  information         | Impact: -0.000200
+ 9. s                    | Impact: -0.000200
+10.  .                   | Impact: -0.000190
+11.  our                 | Impact: -0.000168
+12.  country             | Impact: -0.000168
+13.  today               | Impact: -0.000168
+14.  .                   | Impact: -0.000168
+15.  even                | Impact: -0.000168
+16.  this                | Impact: -0.000168
+17.  is                  | Impact: -0.000168
+18.  one                 | Impact: -0.000168
+19.  of                  | Impact: -0.000168
+20.  the                 | Impact: -0.000168

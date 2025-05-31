@@ -1,0 +1,75 @@
+Sample 485
+==========
+
+Sample text preview: Begin forwarded message: > From: Ian Andrew Bell > Date: Wed Oct , :: PM US/Pacific > To: > Cc: > Subject: [POLITICOS] Re: "Bowling for Columbine," Op...
+
+Model prediction: [9.997247e-01 2.752825e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  and                 | Impact: 0.002263 → PHISHING
+ 2.  discontent          | Impact: 0.002263 → PHISHING
+ 3.  towards             | Impact: 0.002263 → PHISHING
+ 4.  not                 | Impact: 0.002263 → PHISHING
+ 5.  only                | Impact: 0.002263 → PHISHING
+ 6.  -                   | Impact: -0.001322 → LEGITIMATE
+ 7.  i                   | Impact: -0.001322 → LEGITIMATE
+ 8.  think               | Impact: -0.001322 → LEGITIMATE
+ 9.  this                | Impact: -0.001322 → LEGITIMATE
+10.  is                  | Impact: -0.001322 → LEGITIMATE
+11.  the                 | Impact: -0.001322 → LEGITIMATE
+12.  case                | Impact: -0.001322 → LEGITIMATE
+13.  .                   | Impact: -0.001322 → LEGITIMATE
+14.  and                 | Impact: 0.001301 → PHISHING
+15.  informed            | Impact: 0.001301 → PHISHING
+16.  as                  | Impact: 0.001301 → PHISHING
+17.  they                | Impact: 0.001301 → PHISHING
+18.  will                | Impact: 0.001301 → PHISHING
+19.  dollars             | Impact: 0.001181 → PHISHING
+20.  don                 | Impact: 0.001181 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  and                 | Impact: 0.002263
+ 2.  discontent          | Impact: 0.002263
+ 3.  towards             | Impact: 0.002263
+ 4.  not                 | Impact: 0.002263
+ 5.  only                | Impact: 0.002263
+ 6.  and                 | Impact: 0.001301
+ 7.  informed            | Impact: 0.001301
+ 8.  as                  | Impact: 0.001301
+ 9.  they                | Impact: 0.001301
+10.  will                | Impact: 0.001301
+11.  dollars             | Impact: 0.001181
+12.  don                 | Impact: 0.001181
+13.  '                   | Impact: 0.001181
+14.  t                   | Impact: 0.001181
+15.  lie                 | Impact: 0.001181
+16.  .                   | Impact: 0.001181
+17.  >                   | Impact: 0.000947
+18.  date                | Impact: 0.000947
+19.  :                   | Impact: 0.000947
+20.  wed                 | Impact: 0.000947
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.001322
+ 2.  i                   | Impact: -0.001322
+ 3.  think               | Impact: -0.001322
+ 4.  this                | Impact: -0.001322
+ 5.  is                  | Impact: -0.001322
+ 6.  the                 | Impact: -0.001322
+ 7.  case                | Impact: -0.001322
+ 8.  .                   | Impact: -0.001322
+ 9.  :                   | Impact: -0.001111
+10.  >                   | Impact: -0.001111
+11.  cc                  | Impact: -0.001111
+12.  :                   | Impact: -0.001111
+13.  >                   | Impact: -0.001111
+14.  subject             | Impact: -0.001111
+15.  :                   | Impact: -0.001111
+16.  [                   | Impact: -0.001111
+17.  pol                 | Impact: -0.001111
+18. itic                 | Impact: -0.001111
+19. os                   | Impact: -0.001111
+20.  ]                   | Impact: -0.001074

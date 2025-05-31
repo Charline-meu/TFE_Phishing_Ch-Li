@@ -1,0 +1,75 @@
+Sample 134
+==========
+
+Sample text preview: >From Mr. Barry Henry Outer Circle Regents Park NW RY London Good Day, Please accept my sincere apologizes if my email does not meet your business or ...
+
+Model prediction: [1.495475e-04 9.998504e-01]
+Predicted class: PHISHING with 0.9999 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.013808 → PHISHING
+ 2.  .                   | Impact: 0.013808 → PHISHING
+ 3.  funds               | Impact: 0.013701 → PHISHING
+ 4.  released            | Impact: 0.013701 → PHISHING
+ 5.  to                  | Impact: 0.013701 → PHISHING
+ 6.  you                 | Impact: 0.013701 → PHISHING
+ 7.  with                | Impact: 0.012370 → PHISHING
+ 8.  you                 | Impact: 0.012370 → PHISHING
+ 9.  terrorism           | Impact: -0.011654 → LEGITIMATE
+10.  and                 | Impact: 0.011242 → PHISHING
+11.  do                  | Impact: 0.010832 → PHISHING
+12.  business            | Impact: 0.010832 → PHISHING
+13.  these               | Impact: 0.010348 → PHISHING
+14.  funds               | Impact: 0.010348 → PHISHING
+15.  from                | Impact: 0.010348 → PHISHING
+16.  the                 | Impact: 0.010348 → PHISHING
+17.  deceased            | Impact: 0.010348 → PHISHING
+18.  on                  | Impact: 0.008831 → PHISHING
+19.  your                | Impact: 0.008831 → PHISHING
+20.  interest            | Impact: 0.008831 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.013808
+ 2.  .                   | Impact: 0.013808
+ 3.  funds               | Impact: 0.013701
+ 4.  released            | Impact: 0.013701
+ 5.  to                  | Impact: 0.013701
+ 6.  you                 | Impact: 0.013701
+ 7.  with                | Impact: 0.012370
+ 8.  you                 | Impact: 0.012370
+ 9.  and                 | Impact: 0.011242
+10.  do                  | Impact: 0.010832
+11.  business            | Impact: 0.010832
+12.  these               | Impact: 0.010348
+13.  funds               | Impact: 0.010348
+14.  from                | Impact: 0.010348
+15.  the                 | Impact: 0.010348
+16.  deceased            | Impact: 0.010348
+17.  on                  | Impact: 0.008831
+18.  your                | Impact: 0.008831
+19.  interest            | Impact: 0.008831
+20.  money               | Impact: 0.008461
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  terrorism           | Impact: -0.011654
+ 2.  or                  | Impact: -0.007752
+ 3.  barry               | Impact: -0.007211
+ 4.  henry               | Impact: -0.007211
+ 5.  i                   | Impact: -0.004958
+ 6.  have                | Impact: -0.004958
+ 7.  confidently         | Impact: -0.004908
+ 8.  discussed           | Impact: -0.004908
+ 9.                      | Impact: -0.004245
+10.  >                   | Impact: -0.004245
+11.  .                   | Impact: -0.003865
+12.  /                   | Impact: -0.002966
+13.  /                   | Impact: -0.002966
+14.  england             | Impact: -0.002966
+15.  europe              | Impact: -0.002966
+16.  /                   | Impact: -0.002966
+17.  apologize           | Impact: -0.002788
+18. s                    | Impact: -0.002788
+19.  this                | Impact: -0.002636
+20.  issue               | Impact: -0.002636

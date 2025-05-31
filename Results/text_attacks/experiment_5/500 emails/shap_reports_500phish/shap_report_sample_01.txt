@@ -1,0 +1,70 @@
+Sample 1
+========
+
+Sample text preview: Hi, Please note you have a pending PayPal payment [ Sender has been verified and funds are available for use. Access your pending funds transfer here ...
+
+Model prediction: [1.7193658e-04 9.9982798e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.157781 → PHISHING
+ 2.  funds               | Impact: 0.106584 → PHISHING
+ 3.  pay                 | Impact: 0.058331 → PHISHING
+ 4.  link                | Impact: 0.050047 → PHISHING
+ 5.  your                | Impact: 0.048293 → PHISHING
+ 6.  [                   | Impact: -0.047243 → LEGITIMATE
+ 7.  funds               | Impact: 0.037679 → PHISHING
+ 8.  pending             | Impact: 0.036806 → PHISHING
+ 9.  verified            | Impact: 0.035521 → PHISHING
+10.  you                 | Impact: 0.033961 → PHISHING
+11.  pending             | Impact: 0.031497 → PHISHING
+12.  access              | Impact: 0.027902 → PHISHING
+13.  hi                  | Impact: 0.026387 → PHISHING
+14. pal                  | Impact: 0.025960 → PHISHING
+15.  use                 | Impact: 0.025482 → PHISHING
+16.  ex                  | Impact: 0.024678 → PHISHING
+17. pire                 | Impact: 0.024067 → PHISHING
+18.  send                | Impact: 0.023690 → PHISHING
+19.  soon                | Impact: 0.023300 → PHISHING
+20.  transfer            | Impact: 0.023151 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.157781
+ 2.  funds               | Impact: 0.106584
+ 3.  pay                 | Impact: 0.058331
+ 4.  link                | Impact: 0.050047
+ 5.  your                | Impact: 0.048293
+ 6.  funds               | Impact: 0.037679
+ 7.  pending             | Impact: 0.036806
+ 8.  verified            | Impact: 0.035521
+ 9.  you                 | Impact: 0.033961
+10.  pending             | Impact: 0.031497
+11.  access              | Impact: 0.027902
+12.  hi                  | Impact: 0.026387
+13. pal                  | Impact: 0.025960
+14.  use                 | Impact: 0.025482
+15.  ex                  | Impact: 0.024678
+16. pire                 | Impact: 0.024067
+17.  send                | Impact: 0.023690
+18.  soon                | Impact: 0.023300
+19.  transfer            | Impact: 0.023151
+20.  and                 | Impact: 0.022532
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  [                   | Impact: -0.047243
+ 2.  [                   | Impact: -0.017281
+ 3.  ,                   | Impact: -0.014809
+ 4.  a                   | Impact: -0.007025
+ 5.  -                   | Impact: -0.005603
+ 6.  the                 | Impact: -0.004306
+ 7. su                   | Impact: -0.003306
+ 8.  un                  | Impact: -0.002589
+ 9.  -                   | Impact: -0.001050
+10.  :                   | Impact: -0.000865
+11.                      | Impact: -0.000865
+12. bs                   | Impact: -0.000668
+13. cr                   | Impact: -0.000668
+14. ibe                  | Impact: -0.000668
+15.  regards             | Impact: -0.000155

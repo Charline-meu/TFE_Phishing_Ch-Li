@@ -1,0 +1,75 @@
+Sample 90
+=========
+
+Sample text preview: Our next conference call will be held this Friday, September th at : a.m. New York time. If you wish to participate, please call -- and give passcode ...
+
+Model prediction: [9.9975032e-01 2.4963013e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  conference          | Impact: -0.027329 → LEGITIMATE
+ 2.  stacy               | Impact: -0.020123 → LEGITIMATE
+ 3.  our                 | Impact: 0.018971 → PHISHING
+ 4.  -                   | Impact: -0.011801 → LEGITIMATE
+ 5.  policy              | Impact: -0.011676 → LEGITIMATE
+ 6.  carey               | Impact: -0.010865 → LEGITIMATE
+ 7.  september           | Impact: -0.010011 → LEGITIMATE
+ 8.  us                  | Impact: 0.009887 → PHISHING
+ 9.  u                   | Impact: 0.009132 → PHISHING
+10.  -                   | Impact: -0.008941 → LEGITIMATE
+11.  friday              | Impact: -0.008207 → LEGITIMATE
+12.  please              | Impact: 0.006221 → PHISHING
+13.  :                   | Impact: -0.006119 → LEGITIMATE
+14.  .                   | Impact: -0.005921 → LEGITIMATE
+15.  regulatory          | Impact: -0.005798 → LEGITIMATE
+16.  is                  | Impact: 0.005294 → PHISHING
+17.  leader              | Impact: 0.005256 → PHISHING
+18.  at                  | Impact: -0.005236 → LEGITIMATE
+19.  stacy               | Impact: -0.005193 → LEGITIMATE
+20.  .                   | Impact: -0.005157 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  our                 | Impact: 0.018971
+ 2.  us                  | Impact: 0.009887
+ 3.  u                   | Impact: 0.009132
+ 4.  please              | Impact: 0.006221
+ 5.  is                  | Impact: 0.005294
+ 6.  leader              | Impact: 0.005256
+ 7. code                 | Impact: 0.004288
+ 8.  director            | Impact: 0.004220
+ 9.  give                | Impact: 0.003434
+10.  and                 | Impact: 0.002841
+11.  call                | Impact: 0.002605
+12.  "                   | Impact: 0.002156
+13.  pass                | Impact: 0.002072
+14.  a                   | Impact: 0.002007
+15.  reg                 | Impact: 0.001862
+16.  will                | Impact: 0.001813
+17.  call                | Impact: 0.001687
+18.  participate         | Impact: 0.001320
+19.  and                 | Impact: 0.001103
+20.  m                   | Impact: 0.000802
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  conference          | Impact: -0.027329
+ 2.  stacy               | Impact: -0.020123
+ 3.  -                   | Impact: -0.011801
+ 4.  policy              | Impact: -0.011676
+ 5.  carey               | Impact: -0.010865
+ 6.  september           | Impact: -0.010011
+ 7.  -                   | Impact: -0.008941
+ 8.  friday              | Impact: -0.008207
+ 9.  :                   | Impact: -0.006119
+10.  .                   | Impact: -0.005921
+11.  regulatory          | Impact: -0.005798
+12.  at                  | Impact: -0.005236
+13.  stacy               | Impact: -0.005193
+14.  .                   | Impact: -0.005157
+15.  .                   | Impact: -0.005083
+16.  "                   | Impact: -0.003576
+17.  of                  | Impact: -0.003557
+18.  held                | Impact: -0.003205
+19.  if                  | Impact: -0.002862
+20.  next                | Impact: -0.002321

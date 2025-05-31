@@ -1,0 +1,75 @@
+Phishing Sample 23
+==================
+
+Sample text preview: Discover unique gems for everyone on your list. Etsy ( ) Home Favorites ( ) Gift Guides ( ) Blog ( ) Etsy Purchase Protection: Get a full refund if yo...
+
+Model prediction: [9.991874e-01 8.126272e-04]
+Predicted class: LEGITIMATE with 0.9992 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  copyright           | Impact: -0.012523 → LEGITIMATE
+ 2.  et                  | Impact: -0.008411 → LEGITIMATE
+ 3. sy                   | Impact: -0.008411 → LEGITIMATE
+ 4.  et                  | Impact: -0.008066 → LEGITIMATE
+ 5. sy                   | Impact: -0.008066 → LEGITIMATE
+ 6.  detail              | Impact: -0.007604 → LEGITIMATE
+ 7.  et                  | Impact: -0.007035 → LEGITIMATE
+ 8.  et                  | Impact: -0.006321 → LEGITIMATE
+ 9. sy                   | Impact: -0.006321 → LEGITIMATE
+10.  et                  | Impact: -0.005852 → LEGITIMATE
+11. sy                   | Impact: -0.005852 → LEGITIMATE
+12.  unique              | Impact: 0.005794 → PHISHING
+13.  an                  | Impact: -0.005647 → LEGITIMATE
+14.  affiliate           | Impact: -0.005647 → LEGITIMATE
+15.  these               | Impact: 0.005187 → PHISHING
+16.  gorgeous            | Impact: 0.005187 → PHISHING
+17.  gems                | Impact: 0.004927 → PHISHING
+18.  a                   | Impact: -0.004868 → LEGITIMATE
+19.  subtle              | Impact: -0.004868 → LEGITIMATE
+20.  →                   | Impact: -0.004640 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  unique              | Impact: 0.005794
+ 2.  these               | Impact: 0.005187
+ 3.  gorgeous            | Impact: 0.005187
+ 4.  gems                | Impact: 0.004927
+ 5.                      | Impact: 0.003863
+ 6.  discover            | Impact: 0.003863
+ 7.  so                  | Impact: 0.001340
+ 8.  explore             | Impact: 0.001340
+ 9.  —                   | Impact: 0.000480
+10.  including           | Impact: 0.000480
+11.  yours               | Impact: 0.000480
+12.  .                   | Impact: 0.000480
+13.  (                   | Impact: 0.000118
+14.  )                   | Impact: 0.000118
+15.  shop                | Impact: 0.000118
+16.  now                 | Impact: 0.000118
+17.  (                   | Impact: 0.000118
+18.  )                   | Impact: 0.000118
+19.  be                  | Impact: 0.000074
+20.  friends             | Impact: 0.000074
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  copyright           | Impact: -0.012523
+ 2.  et                  | Impact: -0.008411
+ 3. sy                   | Impact: -0.008411
+ 4.  et                  | Impact: -0.008066
+ 5. sy                   | Impact: -0.008066
+ 6.  detail              | Impact: -0.007604
+ 7.  et                  | Impact: -0.007035
+ 8.  et                  | Impact: -0.006321
+ 9. sy                   | Impact: -0.006321
+10.  et                  | Impact: -0.005852
+11. sy                   | Impact: -0.005852
+12.  an                  | Impact: -0.005647
+13.  affiliate           | Impact: -0.005647
+14.  a                   | Impact: -0.004868
+15.  subtle              | Impact: -0.004868
+16.  →                   | Impact: -0.004640
+17. sy                   | Impact: -0.004554
+18.  et                  | Impact: -0.004278
+19. sy                   | Impact: -0.004278
+20.  purchase            | Impact: -0.004278

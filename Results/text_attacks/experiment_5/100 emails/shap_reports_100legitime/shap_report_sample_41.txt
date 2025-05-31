@@ -1,0 +1,75 @@
+Phishing Sample 41
+==================
+
+Sample text preview: November Dear CuteFTP User, New Release! GlobalSCAPE is pleased to announce the latest release of CuteFTP Pro, "Designed for Windows XP". The "Designe...
+
+Model prediction: [0.92448217 0.0755178 ]
+Predicted class: LEGITIMATE with 0.9245 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  our                 | Impact: 0.015453 → PHISHING
+ 2.  sales               | Impact: 0.011309 → PHISHING
+ 3.  team                | Impact: 0.011309 → PHISHING
+ 4.  contact             | Impact: 0.010921 → PHISHING
+ 5.  dear                | Impact: 0.008950 → PHISHING
+ 6.  new                 | Impact: 0.008399 → PHISHING
+ 7.  release             | Impact: 0.008399 → PHISHING
+ 8.  the                 | Impact: -0.006967 → LEGITIMATE
+ 9.  "                   | Impact: -0.006967 → LEGITIMATE
+10.  logo                | Impact: -0.006956 → LEGITIMATE
+11.  confirms            | Impact: -0.006956 → LEGITIMATE
+12.  that                | Impact: -0.006956 → LEGITIMATE
+13.  is                  | Impact: -0.005987 → LEGITIMATE
+14.  pleased             | Impact: -0.005987 → LEGITIMATE
+15.  to                  | Impact: -0.005987 → LEGITIMATE
+16.  announce            | Impact: -0.005987 → LEGITIMATE
+17.  cute                | Impact: -0.005779 → LEGITIMATE
+18. ft                   | Impact: -0.005779 → LEGITIMATE
+19. p                    | Impact: -0.005779 → LEGITIMATE
+20.  designed            | Impact: -0.005702 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  our                 | Impact: 0.015453
+ 2.  sales               | Impact: 0.011309
+ 3.  team                | Impact: 0.011309
+ 4.  contact             | Impact: 0.010921
+ 5.  dear                | Impact: 0.008950
+ 6.  new                 | Impact: 0.008399
+ 7.  release             | Impact: 0.008399
+ 8.  !                   | Impact: 0.005362
+ 9.  buy                 | Impact: 0.005067
+10.  now                 | Impact: 0.005067
+11.  :                   | Impact: 0.005067
+12.  download            | Impact: 0.005067
+13.  free                | Impact: 0.004219
+14.  trial               | Impact: 0.004219
+15.  :                   | Impact: 0.004219
+16.  for                 | Impact: 0.004219
+17.  volume              | Impact: 0.004219
+18.  discount            | Impact: 0.004219
+19. s                    | Impact: 0.004219
+20.  and                 | Impact: 0.004219
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.006967
+ 2.  "                   | Impact: -0.006967
+ 3.  logo                | Impact: -0.006956
+ 4.  confirms            | Impact: -0.006956
+ 5.  that                | Impact: -0.006956
+ 6.  is                  | Impact: -0.005987
+ 7.  pleased             | Impact: -0.005987
+ 8.  to                  | Impact: -0.005987
+ 9.  announce            | Impact: -0.005987
+10.  cute                | Impact: -0.005779
+11. ft                   | Impact: -0.005779
+12. p                    | Impact: -0.005779
+13.  designed            | Impact: -0.005702
+14.  for                 | Impact: -0.005702
+15.  .                   | Impact: -0.004208
+16.  "                   | Impact: -0.003872
+17.  designed            | Impact: -0.003872
+18.  for                 | Impact: -0.003632
+19.  windows             | Impact: -0.003632
+20.  xp                  | Impact: -0.003486

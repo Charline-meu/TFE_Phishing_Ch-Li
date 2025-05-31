@@ -1,0 +1,75 @@
+Sample 209
+==========
+
+Sample text preview: FROM: DR. BISI OMOYENI MANAGING DIRECTOR/CHIEF EXECUTIVE;WEMA BANK PLC. PLOT , OYIN JOLAYEMI STREET, P.O.BOX , VICTORIA ISLAND LAGOS. Swift Address: W...
+
+Model prediction: [1.7788837e-04 9.9982208e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  victoria            | Impact: 0.020059 → PHISHING
+ 2.  island              | Impact: 0.020059 → PHISHING
+ 3.  lagos               | Impact: 0.020059 → PHISHING
+ 4.  .                   | Impact: 0.020059 → PHISHING
+ 5.  this                | Impact: 0.008412 → PHISHING
+ 6.  country             | Impact: 0.008412 → PHISHING
+ 7.  o                   | Impact: 0.006840 → PHISHING
+ 8.  .                   | Impact: 0.006840 → PHISHING
+ 9.  box                 | Impact: 0.006800 → PHISHING
+10.  ,                   | Impact: 0.006800 → PHISHING
+11.  your                | Impact: 0.006093 → PHISHING
+12.  hard                | Impact: 0.006093 → PHISHING
+13.  earned              | Impact: 0.006093 → PHISHING
+14.  money               | Impact: 0.006093 → PHISHING
+15.  your                | Impact: 0.005664 → PHISHING
+16.  date                | Impact: 0.005664 → PHISHING
+17.  of                  | Impact: 0.005664 → PHISHING
+18.  birth               | Impact: 0.005664 → PHISHING
+19.  :                   | Impact: 0.005664 → PHISHING
+20.  your                | Impact: 0.005664 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  victoria            | Impact: 0.020059
+ 2.  island              | Impact: 0.020059
+ 3.  lagos               | Impact: 0.020059
+ 4.  .                   | Impact: 0.020059
+ 5.  this                | Impact: 0.008412
+ 6.  country             | Impact: 0.008412
+ 7.  o                   | Impact: 0.006840
+ 8.  .                   | Impact: 0.006840
+ 9.  box                 | Impact: 0.006800
+10.  ,                   | Impact: 0.006800
+11.  your                | Impact: 0.006093
+12.  hard                | Impact: 0.006093
+13.  earned              | Impact: 0.006093
+14.  money               | Impact: 0.006093
+15.  your                | Impact: 0.005664
+16.  date                | Impact: 0.005664
+17.  of                  | Impact: 0.005664
+18.  birth               | Impact: 0.005664
+19.  :                   | Impact: 0.005664
+20.  your                | Impact: 0.005664
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  tel                 | Impact: -0.000146
+ 2.  /                   | Impact: -0.000146
+ 3.  fa                  | Impact: -0.000146
+ 4. x                    | Impact: -0.000146
+ 5.  :                   | Impact: -0.000146
+ 6.  +                   | Impact: -0.000146
+ 7.  -                   | Impact: -0.000146
+ 8.  -                   | Impact: -0.000146
+ 9.  attention           | Impact: -0.000146
+10.  of                  | Impact: -0.000146
+11.  :                   | Impact: -0.000146
+12.  ben                 | Impact: -0.000146
+13. ef                   | Impact: -0.000146
+14. icia                 | Impact: -0.000146
+15. ry                   | Impact: -0.000146
+16.  ,                   | Impact: -0.000146
+17.  swift               | Impact: -0.000146
+18.  credit              | Impact: -0.000146
+19.  card                | Impact: -0.000146
+20.  the                 | Impact: -0.000146

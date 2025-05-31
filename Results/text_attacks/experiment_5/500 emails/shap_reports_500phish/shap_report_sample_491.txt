@@ -1,0 +1,72 @@
+Sample 491
+==========
+
+Sample text preview: Dear All, Our records indicates you made a request for closure of your Email. We are processing your Request, If you did not request for this process,...
+
+Model prediction: [2.1810309e-04 9.9978191e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.187807 → PHISHING
+ 2.  your                | Impact: 0.069178 → PHISHING
+ 3.  email               | Impact: 0.061235 → PHISHING
+ 4.  kindly              | Impact: 0.058430 → PHISHING
+ 5.  @                   | Impact: 0.057158 → PHISHING
+ 6.  rights              | Impact: 0.035204 → PHISHING
+ 7.  our                 | Impact: 0.033759 → PHISHING
+ 8.  here                | Impact: 0.032719 → PHISHING
+ 9.  .                   | Impact: 0.030644 → PHISHING
+10.  email               | Impact: 0.029898 → PHISHING
+11.  manually            | Impact: 0.028839 → PHISHING
+12.  cancel              | Impact: 0.027722 → PHISHING
+13.  follow              | Impact: 0.026044 → PHISHING
+14.  closure             | Impact: 0.025897 → PHISHING
+15.  ,                   | Impact: -0.023208 → LEGITIMATE
+16.  and                 | Impact: 0.021618 → PHISHING
+17.  records             | Impact: 0.020746 → PHISHING
+18.  mail                | Impact: 0.020349 → PHISHING
+19.  nothing             | Impact: 0.020305 → PHISHING
+20.  it                  | Impact: 0.019913 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.187807
+ 2.  your                | Impact: 0.069178
+ 3.  email               | Impact: 0.061235
+ 4.  kindly              | Impact: 0.058430
+ 5.  @                   | Impact: 0.057158
+ 6.  rights              | Impact: 0.035204
+ 7.  our                 | Impact: 0.033759
+ 8.  here                | Impact: 0.032719
+ 9.  .                   | Impact: 0.030644
+10.  email               | Impact: 0.029898
+11.  manually            | Impact: 0.028839
+12.  cancel              | Impact: 0.027722
+13.  follow              | Impact: 0.026044
+14.  closure             | Impact: 0.025897
+15.  and                 | Impact: 0.021618
+16.  records             | Impact: 0.020746
+17.  mail                | Impact: 0.020349
+18.  nothing             | Impact: 0.020305
+19.  it                  | Impact: 0.019913
+20.  it                  | Impact: 0.019906
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ,                   | Impact: -0.023208
+ 2.  all                 | Impact: -0.018052
+ 3.  if                  | Impact: -0.008708
+ 4.  made                | Impact: -0.004855
+ 5.  indicates           | Impact: -0.004002
+ 6.  you                 | Impact: -0.003482
+ 7.  do                  | Impact: -0.003482
+ 8.  sub                 | Impact: -0.003448
+ 9. scribe               | Impact: -0.003448
+10.  request             | Impact: -0.003167
+11.  a                   | Impact: -0.003052
+12.  ,                   | Impact: -0.002776
+13.  >                   | Impact: -0.000836
+14.  >                   | Impact: -0.000836
+15.  not                 | Impact: -0.000040
+16.  want                | Impact: -0.000040
+17.  to                  | Impact: -0.000040

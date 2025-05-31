@@ -1,0 +1,69 @@
+Sample 321
+==========
+
+Sample text preview: >From the desk of: HON. (DR.) FELIX WILLIAM Managing Director: N.N.P.C. Nigeria. ALTERNATIVE Email: Attention: Dear friend, REQUEST FOR BUSINESS RELAT...
+
+Model prediction: [1.6234367e-04 9.9983764e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.006860 → PHISHING
+ 2.  .                   | Impact: 0.006860 → PHISHING
+ 3.  we                  | Impact: 0.006419 → PHISHING
+ 4.  have                | Impact: 0.006419 → PHISHING
+ 5.  agreed              | Impact: 0.006419 → PHISHING
+ 6.  to                  | Impact: 0.006419 → PHISHING
+ 7.  share               | Impact: 0.006419 → PHISHING
+ 8.  the                 | Impact: 0.006419 → PHISHING
+ 9.  money               | Impact: 0.006419 → PHISHING
+10.  thus                | Impact: 0.006419 → PHISHING
+11.  :                   | Impact: 0.006419 → PHISHING
+12.  .                   | Impact: 0.006419 → PHISHING
+13.  ben                 | Impact: 0.005922 → PHISHING
+14. ef                   | Impact: 0.005922 → PHISHING
+15. icia                 | Impact: 0.005922 → PHISHING
+16. ry                   | Impact: 0.005922 → PHISHING
+17.  your                | Impact: 0.005797 → PHISHING
+18.  account             | Impact: 0.005797 → PHISHING
+19.  for                 | Impact: 0.005797 → PHISHING
+20.  safety              | Impact: 0.005797 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.006860
+ 2.  .                   | Impact: 0.006860
+ 3.  we                  | Impact: 0.006419
+ 4.  have                | Impact: 0.006419
+ 5.  agreed              | Impact: 0.006419
+ 6.  to                  | Impact: 0.006419
+ 7.  share               | Impact: 0.006419
+ 8.  the                 | Impact: 0.006419
+ 9.  money               | Impact: 0.006419
+10.  thus                | Impact: 0.006419
+11.  :                   | Impact: 0.006419
+12.  .                   | Impact: 0.006419
+13.  ben                 | Impact: 0.005922
+14. ef                   | Impact: 0.005922
+15. icia                 | Impact: 0.005922
+16. ry                   | Impact: 0.005922
+17.  your                | Impact: 0.005797
+18.  account             | Impact: 0.005797
+19.  for                 | Impact: 0.005797
+20.  safety              | Impact: 0.005797
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  as                  | Impact: -0.000734
+ 2.  ,                   | Impact: -0.000734
+ 3.  we                  | Impact: -0.000111
+ 4.  believe             | Impact: -0.000111
+ 5.  that                | Impact: -0.000111
+ 6.  for                 | Impact: -0.000111
+ 7.  wicked              | Impact: -0.000111
+ 8. ness                 | Impact: -0.000111
+ 9.  to                  | Impact: -0.000111
+10.  us                  | Impact: -0.000111
+11.  ,                   | Impact: -0.000111
+12.  his                 | Impact: -0.000111
+13.  act                 | Impact: -0.000111
+14.  of                  | Impact: -0.000111

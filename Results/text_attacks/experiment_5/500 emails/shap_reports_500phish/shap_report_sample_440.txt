@@ -1,0 +1,75 @@
+Sample 440
+==========
+
+Sample text preview: You are required to Click here < to complete update. CONFIDENTIALITY NOTICE: This message, and any attachment(s) hereto, may contain confidential and/...
+
+Model prediction: [0.01312826 0.9868717 ]
+Predicted class: PHISHING with 0.9869 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  reply               | Impact: 0.044906 → PHISHING
+ 2.                      | Impact: 0.027827 → PHISHING
+ 3.  you                 | Impact: 0.027827 → PHISHING
+ 4.  <                   | Impact: 0.025682 → PHISHING
+ 5.  here                | Impact: 0.025199 → PHISHING
+ 6.  unlawful            | Impact: 0.021069 → PHISHING
+ 7.  email               | Impact: 0.019079 → PHISHING
+ 8.  reply               | Impact: 0.018640 → PHISHING
+ 9.  received            | Impact: 0.014386 → PHISHING
+10.  you                 | Impact: 0.013464 → PHISHING
+11.  are                 | Impact: 0.013464 → PHISHING
+12.  here                | Impact: 0.013464 → PHISHING
+13. by                   | Impact: 0.013464 → PHISHING
+14.  harris              | Impact: -0.013171 → LEGITIMATE
+15.  have                | Impact: 0.013097 → PHISHING
+16.  .                   | Impact: 0.012022 → PHISHING
+17.  this                | Impact: 0.011709 → PHISHING
+18.  message             | Impact: 0.011709 → PHISHING
+19.  proprietary         | Impact: 0.011227 → PHISHING
+20.  information         | Impact: 0.011227 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  reply               | Impact: 0.044906
+ 2.                      | Impact: 0.027827
+ 3.  you                 | Impact: 0.027827
+ 4.  <                   | Impact: 0.025682
+ 5.  here                | Impact: 0.025199
+ 6.  unlawful            | Impact: 0.021069
+ 7.  email               | Impact: 0.019079
+ 8.  reply               | Impact: 0.018640
+ 9.  received            | Impact: 0.014386
+10.  you                 | Impact: 0.013464
+11.  are                 | Impact: 0.013464
+12.  here                | Impact: 0.013464
+13. by                   | Impact: 0.013464
+14.  have                | Impact: 0.013097
+15.  .                   | Impact: 0.012022
+16.  this                | Impact: 0.011709
+17.  message             | Impact: 0.011709
+18.  proprietary         | Impact: 0.011227
+19.  information         | Impact: 0.011227
+20.  are                 | Impact: 0.010609
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  harris              | Impact: -0.013171
+ 2.  of                  | Impact: -0.010548
+ 3.  education           | Impact: -0.010548
+ 4.  of                  | Impact: -0.007523
+ 5.  is                  | Impact: -0.006365
+ 6.  intended            | Impact: -0.006365
+ 7.  copying             | Impact: -0.005343
+ 8.  ,                   | Impact: -0.005343
+ 9.  and                 | Impact: -0.004128
+10.  county              | Impact: -0.003898
+11.  department          | Impact: -0.003898
+12.  entity              | Impact: -0.003602
+13.  to                  | Impact: -0.003602
+14.  which               | Impact: -0.003602
+15.  it                  | Impact: -0.003602
+16.  .                   | Impact: -0.002422
+17.  for                 | Impact: -0.001919
+18.  the                 | Impact: -0.001919
+19.  if                  | Impact: -0.001653
+20.  any                 | Impact: -0.001653

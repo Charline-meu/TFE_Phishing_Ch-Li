@@ -1,0 +1,75 @@
+Sample 6
+========
+
+Sample text preview: Dear SIR, I am Mr. John Coleman and my sister is Miss Rose Coleman, we are thehildren of late Chief Paul Coleman from Sierra Leone. I am writing you i...
+
+Model prediction: [1.6823996e-04 9.9983168e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  now                 | Impact: 0.016025 → PHISHING
+ 2.  my                  | Impact: 0.016025 → PHISHING
+ 3.  years               | Impact: 0.016025 → PHISHING
+ 4.  old                 | Impact: 0.016025 → PHISHING
+ 5.  sister              | Impact: 0.016025 → PHISHING
+ 6.  father              | Impact: 0.013238 → PHISHING
+ 7.  '                   | Impact: 0.013238 → PHISHING
+ 8.  s                   | Impact: 0.013238 → PHISHING
+ 9.  and                 | Impact: 0.007072 → PHISHING
+10.  myself              | Impact: 0.007072 → PHISHING
+11.  are                 | Impact: 0.007072 → PHISHING
+12.  alone               | Impact: 0.007072 → PHISHING
+13.  in                  | Impact: 0.007072 → PHISHING
+14.  without             | Impact: 0.006804 → PHISHING
+15.  any                 | Impact: 0.006804 → PHISHING
+16.  care                | Impact: 0.006804 → PHISHING
+17.  this                | Impact: 0.006804 → PHISHING
+18.  strange             | Impact: 0.006804 → PHISHING
+19.  country             | Impact: 0.006804 → PHISHING
+20.  suffering           | Impact: 0.006804 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  now                 | Impact: 0.016025
+ 2.  my                  | Impact: 0.016025
+ 3.  years               | Impact: 0.016025
+ 4.  old                 | Impact: 0.016025
+ 5.  sister              | Impact: 0.016025
+ 6.  father              | Impact: 0.013238
+ 7.  '                   | Impact: 0.013238
+ 8.  s                   | Impact: 0.013238
+ 9.  and                 | Impact: 0.007072
+10.  myself              | Impact: 0.007072
+11.  are                 | Impact: 0.007072
+12.  alone               | Impact: 0.007072
+13.  in                  | Impact: 0.007072
+14.  without             | Impact: 0.006804
+15.  any                 | Impact: 0.006804
+16.  care                | Impact: 0.006804
+17.  this                | Impact: 0.006804
+18.  strange             | Impact: 0.006804
+19.  country             | Impact: 0.006804
+20.  suffering           | Impact: 0.006804
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  acc                 | Impact: -0.000770
+ 2. rued                 | Impact: -0.000770
+ 3.  from                | Impact: -0.000770
+ 4.  mining              | Impact: -0.000770
+ 5.  co                  | Impact: -0.000531
+ 6.  -                   | Impact: -0.000531
+ 7.  over                | Impact: -0.000531
+ 8.  draft               | Impact: -0.000531
+ 9.  and                 | Impact: -0.000531
+10.  operation           | Impact: -0.000531
+11.  '                   | Impact: -0.000531
+12.  s                   | Impact: -0.000531
+13.  minor               | Impact: -0.000437
+14.  sales               | Impact: -0.000437
+15.  .                   | Impact: -0.000437
+16.  this                | Impact: -0.000192
+17.  money               | Impact: -0.000192
+18.  was                 | Impact: -0.000192
+19.  the                 | Impact: -0.000192
+20.  income              | Impact: -0.000192

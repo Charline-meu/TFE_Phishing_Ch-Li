@@ -1,0 +1,63 @@
+Sample 309
+==========
+
+Sample text preview: Hello jose, The passwогd to your mailbox is set to expire today. Following this prompt, your webmail will log you out and generate a new passwогd. Alt...
+
+Model prediction: [3.5766116e-04 9.9964237e-01]
+Predicted class: PHISHING with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.065766 → PHISHING
+ 2.  hello               | Impact: 0.056833 → PHISHING
+ 3.  device              | Impact: 0.050795 → PHISHING
+ 4.  you                 | Impact: 0.046493 → PHISHING
+ 5.  email               | Impact: 0.045770 → PHISHING
+ 6.  ex                  | Impact: 0.035471 → PHISHING
+ 7.  retain              | Impact: 0.034190 → PHISHING
+ 8.  your                | Impact: 0.033496 → PHISHING
+ 9.  logged              | Impact: 0.031166 → PHISHING
+10. pire                 | Impact: 0.030723 → PHISHING
+11.  your                | Impact: 0.030452 → PHISHING
+12.  jose                | Impact: 0.029081 → PHISHING
+13.  we                  | Impact: 0.019803 → PHISHING
+14.  this                | Impact: 0.019602 → PHISHING
+15.  stay                | Impact: 0.018360 → PHISHING
+16.  your                | Impact: 0.017872 → PHISHING
+17.  web                 | Impact: 0.017117 → PHISHING
+18. mail                 | Impact: 0.014649 → PHISHING
+19.  today               | Impact: 0.013842 → PHISHING
+20.  to                  | Impact: 0.013161 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.065766
+ 2.  hello               | Impact: 0.056833
+ 3.  device              | Impact: 0.050795
+ 4.  you                 | Impact: 0.046493
+ 5.  email               | Impact: 0.045770
+ 6.  ex                  | Impact: 0.035471
+ 7.  retain              | Impact: 0.034190
+ 8.  your                | Impact: 0.033496
+ 9.  logged              | Impact: 0.031166
+10. pire                 | Impact: 0.030723
+11.  your                | Impact: 0.030452
+12.  jose                | Impact: 0.029081
+13.  we                  | Impact: 0.019803
+14.  this                | Impact: 0.019602
+15.  stay                | Impact: 0.018360
+16.  your                | Impact: 0.017872
+17.  web                 | Impact: 0.017117
+18. mail                 | Impact: 0.014649
+19.  today               | Impact: 0.013842
+20.  to                  | Impact: 0.013161
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  generated           | Impact: -0.012509
+ 2.  the                 | Impact: -0.010982
+ 3.  alternatively       | Impact: -0.008538
+ 4.  ,                   | Impact: -0.004303
+ 5.  recommend           | Impact: -0.004112
+ 6.  is                  | Impact: -0.002811
+ 7.  ,                   | Impact: -0.000893
+ 8.  to                  | Impact: -0.000395

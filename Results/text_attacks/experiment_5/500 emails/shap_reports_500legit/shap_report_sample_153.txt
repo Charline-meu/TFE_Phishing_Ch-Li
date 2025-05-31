@@ -1,0 +1,58 @@
+Sample 153
+==========
+
+Sample text preview: Here is the schedule as well as the confirms. Please let me know if you have any questions. Ben
+
+Model prediction: [9.9972707e-01 2.7292347e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ben                 | Impact: -0.124827 → LEGITIMATE
+ 2.  questions           | Impact: -0.054057 → LEGITIMATE
+ 3.  .                   | Impact: -0.049205 → LEGITIMATE
+ 4.  schedule            | Impact: -0.045049 → LEGITIMATE
+ 5.  let                 | Impact: 0.042679 → PHISHING
+ 6.  please              | Impact: 0.041885 → PHISHING
+ 7.  .                   | Impact: 0.039287 → PHISHING
+ 8.  the                 | Impact: 0.031258 → PHISHING
+ 9.  is                  | Impact: 0.023463 → PHISHING
+10.  you                 | Impact: 0.021210 → PHISHING
+11.  know                | Impact: -0.020767 → LEGITIMATE
+12.  as                  | Impact: 0.018060 → PHISHING
+13.  here                | Impact: -0.016561 → LEGITIMATE
+14.  have                | Impact: 0.013560 → PHISHING
+15.  confirms            | Impact: -0.009487 → LEGITIMATE
+16.  me                  | Impact: 0.007460 → PHISHING
+17.  the                 | Impact: -0.006994 → LEGITIMATE
+18.  well                | Impact: -0.004810 → LEGITIMATE
+19.  as                  | Impact: 0.004488 → PHISHING
+20.  if                  | Impact: 0.001973 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  let                 | Impact: 0.042679
+ 2.  please              | Impact: 0.041885
+ 3.  .                   | Impact: 0.039287
+ 4.  the                 | Impact: 0.031258
+ 5.  is                  | Impact: 0.023463
+ 6.  you                 | Impact: 0.021210
+ 7.  as                  | Impact: 0.018060
+ 8.  have                | Impact: 0.013560
+ 9.  me                  | Impact: 0.007460
+10.  as                  | Impact: 0.004488
+11.  if                  | Impact: 0.001973
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ben                 | Impact: -0.124827
+ 2.  questions           | Impact: -0.054057
+ 3.  .                   | Impact: -0.049205
+ 4.  schedule            | Impact: -0.045049
+ 5.  know                | Impact: -0.020767
+ 6.  here                | Impact: -0.016561
+ 7.  confirms            | Impact: -0.009487
+ 8.  the                 | Impact: -0.006994
+ 9.  well                | Impact: -0.004810
+10.  any                 | Impact: -0.000520
+11.                      | Impact: -0.000000
+12.                      | Impact: -0.000000

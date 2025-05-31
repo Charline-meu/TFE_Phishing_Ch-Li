@@ -1,0 +1,75 @@
+Sample 308
+==========
+
+Sample text preview: AFFORDABLE DOMAIN REGISTRATION FOR EVERYONE The new domain names are finally available to the general public at discount prices. Now you can register ...
+
+Model prediction: [2.2435519e-04 9.9977571e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  registration        | Impact: 0.045358 → PHISHING
+ 2.  your                | Impact: 0.038087 → PHISHING
+ 3.  name                | Impact: 0.028259 → PHISHING
+ 4.  domain              | Impact: 0.025541 → PHISHING
+ 5.  domain              | Impact: 0.025143 → PHISHING
+ 6.  your                | Impact: 0.023859 → PHISHING
+ 7.  remove              | Impact: 0.021462 → PHISHING
+ 8.  you                 | Impact: 0.019074 → PHISHING
+ 9.  everyone            | Impact: 0.019047 → PHISHING
+10.  affordable          | Impact: 0.017236 → PHISHING
+11.  now                 | Impact: 0.016907 → PHISHING
+12.  address             | Impact: 0.016847 → PHISHING
+13.  available           | Impact: 0.016813 → PHISHING
+14.  email               | Impact: 0.016448 → PHISHING
+15.  domain              | Impact: 0.016249 → PHISHING
+16.  visit               | Impact: 0.016073 → PHISHING
+17.  :                   | Impact: 0.016073 → PHISHING
+18.  register            | Impact: 0.015783 → PHISHING
+19.  administrator       | Impact: 0.014555 → PHISHING
+20.  public              | Impact: 0.014113 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  registration        | Impact: 0.045358
+ 2.  your                | Impact: 0.038087
+ 3.  name                | Impact: 0.028259
+ 4.  domain              | Impact: 0.025541
+ 5.  domain              | Impact: 0.025143
+ 6.  your                | Impact: 0.023859
+ 7.  remove              | Impact: 0.021462
+ 8.  you                 | Impact: 0.019074
+ 9.  everyone            | Impact: 0.019047
+10.  affordable          | Impact: 0.017236
+11.  now                 | Impact: 0.016907
+12.  address             | Impact: 0.016847
+13.  available           | Impact: 0.016813
+14.  email               | Impact: 0.016448
+15.  domain              | Impact: 0.016249
+16.  visit               | Impact: 0.016073
+17.  :                   | Impact: 0.016073
+18.  register            | Impact: 0.015783
+19.  administrator       | Impact: 0.014555
+20.  public              | Impact: 0.014113
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ,                   | Impact: -0.002579
+ 2.  bi                  | Impact: -0.001728
+ 3. z                    | Impact: -0.001728
+ 4.  or                  | Impact: -0.001728
+ 5.  as                  | Impact: -0.000286
+ 6.  well                | Impact: -0.000286
+ 7.  as                  | Impact: -0.000286
+ 8.  the                 | Impact: -0.000286
+ 9.  original            | Impact: -0.000286
+10.  .                   | Impact: -0.000286
+11.  of                  | Impact: -0.000159
+12.  -                   | Impact: -0.000159
+13.  course              | Impact: -0.000159
+14.  that                | Impact: -0.000159
+15.  the                 | Impact: -0.000159
+16.  .                   | Impact: -0.000159
+17.  one                 | Impact: -0.000000
+18.  of                  | Impact: -0.000000
+19.  the                 | Impact: -0.000000
+20.  exciting            | Impact: -0.000000

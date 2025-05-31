@@ -1,0 +1,75 @@
+Sample 371
+==========
+
+Sample text preview: On Thu, Aug , Kragen Sitaker wrote: --]If this kind of secret traffic is allowed to continue, it will pose a --]very serious threat to our computer co...
+
+Model prediction: [9.9900717e-01 9.9280651e-04]
+Predicted class: LEGITIMATE with 0.9990 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wrote               | Impact: -0.108009 → LEGITIMATE
+ 2.  :                   | Impact: -0.108009 → LEGITIMATE
+ 3.  sit                 | Impact: -0.063852 → LEGITIMATE
+ 4. aker                 | Impact: -0.063852 → LEGITIMATE
+ 5.  -                   | Impact: -0.057307 → LEGITIMATE
+ 6.  k                   | Impact: -0.037863 → LEGITIMATE
+ 7. rage                 | Impact: -0.037863 → LEGITIMATE
+ 8. n                    | Impact: -0.036998 → LEGITIMATE
+ 9.  -                   | Impact: -0.034283 → LEGITIMATE
+10.  who                 | Impact: 0.016783 → PHISHING
+11.  helped              | Impact: 0.016783 → PHISHING
+12.  get                 | Impact: 0.016783 → PHISHING
+13.  you                 | Impact: 0.016783 → PHISHING
+14.  there               | Impact: 0.016783 → PHISHING
+15.  .                   | Impact: 0.016783 → PHISHING
+16.  -                   | Impact: -0.014748 → LEGITIMATE
+17.  -                   | Impact: -0.014748 → LEGITIMATE
+18.  ]                   | Impact: -0.014748 → LEGITIMATE
+19.  if                  | Impact: -0.014748 → LEGITIMATE
+20.  this                | Impact: -0.011430 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  who                 | Impact: 0.016783
+ 2.  helped              | Impact: 0.016783
+ 3.  get                 | Impact: 0.016783
+ 4.  you                 | Impact: 0.016783
+ 5.  there               | Impact: 0.016783
+ 6.  .                   | Impact: 0.016783
+ 7.  .                   | Impact: 0.008690
+ 8.  strike              | Impact: 0.008690
+ 9.  the                 | Impact: 0.008690
+10.  new                 | Impact: 0.008690
+11.  gold                | Impact: 0.008690
+12.  mine                | Impact: 0.008690
+13.  go                  | Impact: 0.007054
+14.  directly            | Impact: 0.007054
+15.  to                  | Impact: 0.007054
+16.  jail                | Impact: 0.007054
+17.  do                  | Impact: 0.007054
+18.  not                 | Impact: 0.007054
+19.  collect             | Impact: 0.007054
+20.  $                   | Impact: 0.007054
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  wrote               | Impact: -0.108009
+ 2.  :                   | Impact: -0.108009
+ 3.  sit                 | Impact: -0.063852
+ 4. aker                 | Impact: -0.063852
+ 5.  -                   | Impact: -0.057307
+ 6.  k                   | Impact: -0.037863
+ 7. rage                 | Impact: -0.037863
+ 8. n                    | Impact: -0.036998
+ 9.  -                   | Impact: -0.034283
+10.  -                   | Impact: -0.014748
+11.  -                   | Impact: -0.014748
+12.  ]                   | Impact: -0.014748
+13.  if                  | Impact: -0.014748
+14.  this                | Impact: -0.011430
+15.  kind                | Impact: -0.011430
+16.  of                  | Impact: -0.011430
+17.  secret              | Impact: -0.011430
+18.  -                   | Impact: -0.007662
+19.  -                   | Impact: -0.007662
+20.  ]                   | Impact: -0.007662

@@ -1,0 +1,75 @@
+Sample 478
+==========
+
+Sample text preview: Dear Valid User, A new payee has been added to your Bank. of. America. Bill Pay service. The following payee (s) has been added to your Bank. of. Amer...
+
+Model prediction: [1.5892631e-04 9.9984109e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ©                   | Impact: 0.170049 → PHISHING
+ 2.  your                | Impact: 0.054208 → PHISHING
+ 3.  your                | Impact: 0.048221 → PHISHING
+ 4.  click               | Impact: 0.046418 → PHISHING
+ 5.  account             | Impact: 0.044369 → PHISHING
+ 6.  kindly              | Impact: 0.040643 → PHISHING
+ 7.  account             | Impact: 0.038582 → PHISHING
+ 8.  your                | Impact: 0.038091 → PHISHING
+ 9.  bank                | Impact: 0.034388 → PHISHING
+10.  copyright           | Impact: 0.030207 → PHISHING
+11.  please              | Impact: 0.026212 → PHISHING
+12.  internet            | Impact: 0.024627 → PHISHING
+13.  bank                | Impact: 0.022683 → PHISHING
+14.  alert               | Impact: 0.020837 → PHISHING
+15.  bill                | Impact: 0.019401 → PHISHING
+16.  payment             | Impact: 0.019401 → PHISHING
+17.  banking             | Impact: 0.017054 → PHISHING
+18.  +                   | Impact: 0.012662 → PHISHING
+19.  the                 | Impact: 0.012408 → PHISHING
+20.  <                   | Impact: 0.012408 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.170049
+ 2.  your                | Impact: 0.054208
+ 3.  your                | Impact: 0.048221
+ 4.  click               | Impact: 0.046418
+ 5.  account             | Impact: 0.044369
+ 6.  kindly              | Impact: 0.040643
+ 7.  account             | Impact: 0.038582
+ 8.  your                | Impact: 0.038091
+ 9.  bank                | Impact: 0.034388
+10.  copyright           | Impact: 0.030207
+11.  please              | Impact: 0.026212
+12.  internet            | Impact: 0.024627
+13.  bank                | Impact: 0.022683
+14.  alert               | Impact: 0.020837
+15.  bill                | Impact: 0.019401
+16.  payment             | Impact: 0.019401
+17.  banking             | Impact: 0.017054
+18.  +                   | Impact: 0.012662
+19.  the                 | Impact: 0.012408
+20.  <                   | Impact: 0.012408
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.007457
+ 2.  .                   | Impact: -0.005658
+ 3.  .                   | Impact: -0.002396
+ 4.  member              | Impact: -0.002158
+ 5.  f                   | Impact: -0.002158
+ 6. dic                  | Impact: -0.002158
+ 7.  equal               | Impact: -0.001430
+ 8.  housing             | Impact: -0.001430
+ 9.  :                   | Impact: -0.001399
+10.  bank                | Impact: -0.001399
+11.  .                   | Impact: -0.001332
+12.  of                  | Impact: -0.001262
+13.  .                   | Impact: -0.001262
+14.  .                   | Impact: -0.000874
+15.  ,                   | Impact: -0.000389
+16.  added               | Impact: -0.000330
+17.  to                  | Impact: -0.000330
+18.  .                   | Impact: -0.000266
+19.  added               | Impact: -0.000185
+20.  to                  | Impact: -0.000185

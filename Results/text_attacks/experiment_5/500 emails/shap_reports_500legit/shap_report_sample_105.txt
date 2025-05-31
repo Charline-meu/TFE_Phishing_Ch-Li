@@ -1,0 +1,75 @@
+Sample 105
+==========
+
+Sample text preview: I thought he knew this... they are to prepare the filings, correct? -----Original Message----- From: "Lech Kalembka" Sent: Friday, November , : PM To:...
+
+Model prediction: [9.9979633e-01 2.0363519e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.024936 → LEGITIMATE
+ 2. ron                  | Impact: -0.024936 → LEGITIMATE
+ 3.  corp                | Impact: -0.024936 → LEGITIMATE
+ 4.  .                   | Impact: -0.009327 → LEGITIMATE
+ 5.  en                  | Impact: -0.004255 → LEGITIMATE
+ 6. ron                  | Impact: -0.004255 → LEGITIMATE
+ 7.  corp                | Impact: -0.002719 → LEGITIMATE
+ 8.  if                  | Impact: 0.002116 → PHISHING
+ 9.  you                 | Impact: 0.002116 → PHISHING
+10.  are                 | Impact: 0.002116 → PHISHING
+11.  not                 | Impact: 0.002116 → PHISHING
+12.  the                 | Impact: 0.001984 → PHISHING
+13.  intended            | Impact: 0.001984 → PHISHING
+14.  recipient           | Impact: 0.001984 → PHISHING
+15.  en                  | Impact: -0.001687 → LEGITIMATE
+16. ron                  | Impact: -0.001687 → LEGITIMATE
+17.  en                  | Impact: -0.001617 → LEGITIMATE
+18. ron                  | Impact: -0.001617 → LEGITIMATE
+19.  north               | Impact: -0.001617 → LEGITIMATE
+20.  america             | Impact: -0.001617 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  if                  | Impact: 0.002116
+ 2.  you                 | Impact: 0.002116
+ 3.  are                 | Impact: 0.002116
+ 4.  not                 | Impact: 0.002116
+ 5.  the                 | Impact: 0.001984
+ 6.  intended            | Impact: 0.001984
+ 7.  recipient           | Impact: 0.001984
+ 8.  please              | Impact: 0.001523
+ 9.  contact             | Impact: 0.001523
+10.  the                 | Impact: 0.001523
+11.  send                | Impact: 0.001523
+12. er                   | Impact: 0.001523
+13.  privileged          | Impact: 0.000989
+14.  material            | Impact: 0.000989
+15.  for                 | Impact: 0.000989
+16.  the                 | Impact: 0.000989
+17.  sole                | Impact: 0.000989
+18.  use                 | Impact: 0.000989
+19.  of                  | Impact: 0.000989
+20.  the                 | Impact: 0.000989
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.024936
+ 2. ron                  | Impact: -0.024936
+ 3.  corp                | Impact: -0.024936
+ 4.  .                   | Impact: -0.009327
+ 5.  en                  | Impact: -0.004255
+ 6. ron                  | Impact: -0.004255
+ 7.  corp                | Impact: -0.002719
+ 8.  en                  | Impact: -0.001687
+ 9. ron                  | Impact: -0.001687
+10.  en                  | Impact: -0.001617
+11. ron                  | Impact: -0.001617
+12.  north               | Impact: -0.001617
+13.  america             | Impact: -0.001617
+14.  corp                | Impact: -0.001617
+15.  .                   | Impact: -0.001617
+16.  .                   | Impact: -0.000946
+17.  ec                  | Impact: -0.000782
+18. n                    | Impact: -0.000782
+19.  a                   | Impact: -0.000782
+20.  houston             | Impact: -0.000782

@@ -1,0 +1,75 @@
+Sample 40
+=========
+
+Sample text preview: Agree with your assessment. -----Original Message----- From: Dadson, Aleck Sent: Wednesday, September , : AM To: Shapiro, Richard; Steffes, James D.; ...
+
+Model prediction: [9.9980086e-01 1.9914325e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.006198 → LEGITIMATE
+ 2. ron                  | Impact: -0.006198 → LEGITIMATE
+ 3.  anti                | Impact: -0.004847 → LEGITIMATE
+ 4. virus                | Impact: -0.004847 → LEGITIMATE
+ 5.  strategy            | Impact: -0.004023 → LEGITIMATE
+ 6.  _                   | Impact: -0.004023 → LEGITIMATE
+ 7.  doc                 | Impact: -0.003646 → LEGITIMATE
+ 8.  >                   | Impact: -0.003646 → LEGITIMATE
+ 9.  >                   | Impact: -0.003470 → LEGITIMATE
+10.  tom                 | Impact: -0.003470 → LEGITIMATE
+11.  au                  | Impact: -0.003340 → LEGITIMATE
+12.  aug                 | Impact: -0.003233 → LEGITIMATE
+13.  com                 | Impact: -0.002971 → LEGITIMATE
+14. m                    | Impact: -0.002971 → LEGITIMATE
+15.  vice                | Impact: -0.002541 → LEGITIMATE
+16.  president           | Impact: -0.002541 → LEGITIMATE
+17.  :                   | Impact: -0.002485 → LEGITIMATE
+18.  pm                  | Impact: -0.002485 → LEGITIMATE
+19.  <                   | Impact: -0.002268 → LEGITIMATE
+20.  corp                | Impact: -0.002268 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.002092
+ 2.  james               | Impact: 0.001514
+ 3.  d                   | Impact: 0.001287
+ 4.  dad                 | Impact: 0.001095
+ 5. son                  | Impact: 0.001095
+ 6.  *                   | Impact: 0.000835
+ 7.  *                   | Impact: 0.000835
+ 8.  *                   | Impact: 0.000791
+ 9.  *                   | Impact: 0.000791
+10.  *                   | Impact: 0.000725
+11.  *                   | Impact: 0.000725
+12.  *                   | Impact: 0.000725
+13.                      | Impact: 0.000725
+14.  i                   | Impact: 0.000701
+15.  propose             | Impact: 0.000701
+16.  that                | Impact: 0.000701
+17.  you                 | Impact: 0.000701
+18.  o                   | Impact: 0.000664
+19.  '                   | Impact: 0.000664
+20.  connor              | Impact: 0.000664
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.006198
+ 2. ron                  | Impact: -0.006198
+ 3.  anti                | Impact: -0.004847
+ 4. virus                | Impact: -0.004847
+ 5.  strategy            | Impact: -0.004023
+ 6.  _                   | Impact: -0.004023
+ 7.  doc                 | Impact: -0.003646
+ 8.  >                   | Impact: -0.003646
+ 9.  >                   | Impact: -0.003470
+10.  tom                 | Impact: -0.003470
+11.  au                  | Impact: -0.003340
+12.  aug                 | Impact: -0.003233
+13.  com                 | Impact: -0.002971
+14. m                    | Impact: -0.002971
+15.  vice                | Impact: -0.002541
+16.  president           | Impact: -0.002541
+17.  :                   | Impact: -0.002485
+18.  pm                  | Impact: -0.002485
+19.  <                   | Impact: -0.002268
+20.  corp                | Impact: -0.002268

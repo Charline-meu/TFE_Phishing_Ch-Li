@@ -1,0 +1,75 @@
+Sample 30
+=========
+
+Sample text preview: CONFIDENTIAL/COOPERATION IT IS MY GREAT PLEASURE IN WRITING YOU THIS LETTER ON BEHALF OF MY COLLEAGUES AND MYSELF. YOUR PARTICULARS WERE GIVEN TO ME B...
+
+Model prediction: [1.676855e-04 9.998323e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  this                | Impact: 0.021230 → PHISHING
+ 2.  letter              | Impact: 0.021230 → PHISHING
+ 3.  your                | Impact: 0.012623 → PHISHING
+ 4.  country             | Impact: 0.012623 → PHISHING
+ 5.  writing             | Impact: 0.011136 → PHISHING
+ 6.  you                 | Impact: 0.011136 → PHISHING
+ 7.  on                  | Impact: 0.008517 → PHISHING
+ 8.  behalf              | Impact: 0.008517 → PHISHING
+ 9.  do                  | Impact: 0.008023 → PHISHING
+10.  not                 | Impact: 0.008023 → PHISHING
+11.  inform              | Impact: 0.008023 → PHISHING
+12.  your                | Impact: 0.008023 → PHISHING
+13.  the                 | Impact: 0.006703 → PHISHING
+14.  nigerian            | Impact: 0.006703 → PHISHING
+15.  export              | Impact: 0.006703 → PHISHING
+16.  promotion           | Impact: 0.006703 → PHISHING
+17.  council             | Impact: 0.006703 → PHISHING
+18.  to                  | Impact: 0.005372 → PHISHING
+19.  foreign             | Impact: 0.005372 → PHISHING
+20.  bank                | Impact: 0.005372 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  this                | Impact: 0.021230
+ 2.  letter              | Impact: 0.021230
+ 3.  your                | Impact: 0.012623
+ 4.  country             | Impact: 0.012623
+ 5.  writing             | Impact: 0.011136
+ 6.  you                 | Impact: 0.011136
+ 7.  on                  | Impact: 0.008517
+ 8.  behalf              | Impact: 0.008517
+ 9.  do                  | Impact: 0.008023
+10.  not                 | Impact: 0.008023
+11.  inform              | Impact: 0.008023
+12.  your                | Impact: 0.008023
+13.  the                 | Impact: 0.006703
+14.  nigerian            | Impact: 0.006703
+15.  export              | Impact: 0.006703
+16.  promotion           | Impact: 0.006703
+17.  council             | Impact: 0.006703
+18.  to                  | Impact: 0.005372
+19.  foreign             | Impact: 0.005372
+20.  bank                | Impact: 0.005372
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  trade               | Impact: -0.002612
+ 2.  exhibition          | Impact: -0.002612
+ 3.  .                   | Impact: -0.002612
+ 4.  also                | Impact: -0.002403
+ 5.  ,                   | Impact: -0.002403
+ 6.  (                   | Impact: -0.001805
+ 7.  ne                  | Impact: -0.001805
+ 8. pc                   | Impact: -0.001805
+ 9.  )                   | Impact: -0.001805
+10.  your                | Impact: -0.001452
+11.  particular          | Impact: -0.001452
+12. s                    | Impact: -0.001452
+13.  and                 | Impact: -0.001394
+14.  myself              | Impact: -0.001394
+15.  .                   | Impact: -0.001394
+16.  and                 | Impact: -0.000265
+17.  steel               | Impact: -0.000265
+18.  where               | Impact: -0.000265
+19.  i                   | Impact: -0.000265
+20.  work                | Impact: -0.000265

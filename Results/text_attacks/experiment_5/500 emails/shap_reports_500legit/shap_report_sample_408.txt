@@ -1,0 +1,75 @@
+Sample 408
+==========
+
+Sample text preview: Forwarded-by: Nev Dull Forwarded-by: Gary Bianconi The History of Medicine: B.C. -- Here, eat this root. A.D. -- That root is heathen. Say this prayer...
+
+Model prediction: [9.997378e-01 2.621888e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.006134 → LEGITIMATE
+ 2.  .                   | Impact: -0.004627 → LEGITIMATE
+ 3.  :                   | Impact: -0.004519 → LEGITIMATE
+ 4.  -                   | Impact: -0.004287 → LEGITIMATE
+ 5.  prayer              | Impact: -0.003907 → LEGITIMATE
+ 6.  -                   | Impact: -0.003736 → LEGITIMATE
+ 7.  .                   | Impact: -0.003183 → LEGITIMATE
+ 8.  forward             | Impact: -0.003050 → LEGITIMATE
+ 9.  :                   | Impact: -0.002996 → LEGITIMATE
+10.  -                   | Impact: -0.002862 → LEGITIMATE
+11.  medicine            | Impact: -0.002622 → LEGITIMATE
+12.  say                 | Impact: -0.002554 → LEGITIMATE
+13.  ne                  | Impact: -0.002449 → LEGITIMATE
+14.  forward             | Impact: -0.002382 → LEGITIMATE
+15. ed                   | Impact: -0.002344 → LEGITIMATE
+16. v                    | Impact: -0.002321 → LEGITIMATE
+17.  this                | Impact: -0.002287 → LEGITIMATE
+18.  .                   | Impact: -0.002278 → LEGITIMATE
+19.  -                   | Impact: -0.002188 → LEGITIMATE
+20.  prayer              | Impact: -0.002122 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  d                   | Impact: 0.001811
+ 2.  here                | Impact: 0.001682
+ 3.  swallow             | Impact: 0.001461
+ 4.  this                | Impact: 0.001395
+ 5.  artificial          | Impact: 0.001329
+ 6.  pill                | Impact: 0.001282
+ 7.  a                   | Impact: 0.000882
+ 8.  is                  | Impact: 0.000843
+ 9.  is                  | Impact: 0.000621
+10.  snake               | Impact: 0.000621
+11.  c                   | Impact: 0.000589
+12.  d                   | Impact: 0.000577
+13.  .                   | Impact: 0.000577
+14.  heath               | Impact: 0.000443
+15. en                   | Impact: 0.000443
+16.  d                   | Impact: 0.000428
+17.  .                   | Impact: 0.000380
+18.  .                   | Impact: 0.000357
+19.  of                  | Impact: 0.000160
+20.  a                   | Impact: 0.000087
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.006134
+ 2.  .                   | Impact: -0.004627
+ 3.  :                   | Impact: -0.004519
+ 4.  -                   | Impact: -0.004287
+ 5.  prayer              | Impact: -0.003907
+ 6.  -                   | Impact: -0.003736
+ 7.  .                   | Impact: -0.003183
+ 8.  forward             | Impact: -0.003050
+ 9.  :                   | Impact: -0.002996
+10.  -                   | Impact: -0.002862
+11.  medicine            | Impact: -0.002622
+12.  say                 | Impact: -0.002554
+13.  ne                  | Impact: -0.002449
+14.  forward             | Impact: -0.002382
+15. ed                   | Impact: -0.002344
+16. v                    | Impact: -0.002321
+17.  this                | Impact: -0.002287
+18.  .                   | Impact: -0.002278
+19.  -                   | Impact: -0.002188
+20.  prayer              | Impact: -0.002122

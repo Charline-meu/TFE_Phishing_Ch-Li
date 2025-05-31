@@ -1,0 +1,69 @@
+Sample 195
+==========
+
+Sample text preview: Dear, [[-Email-]] Due to your account being unable to verify, we will complete your order within hours, depending on your request to deactivate your e...
+
+Model prediction: [1.7474116e-04 9.9982530e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.132356 → PHISHING
+ 2.  account             | Impact: 0.099567 → PHISHING
+ 3.  your                | Impact: 0.086386 → PHISHING
+ 4.  account             | Impact: 0.071160 → PHISHING
+ 5.  continue            | Impact: 0.063023 → PHISHING
+ 6.  ©                   | Impact: 0.049125 → PHISHING
+ 7.  your                | Impact: 0.039775 → PHISHING
+ 8.  email               | Impact: 0.033714 → PHISHING
+ 9.  account             | Impact: 0.032979 → PHISHING
+10.  your                | Impact: 0.031425 → PHISHING
+11.  your                | Impact: 0.028019 → PHISHING
+12.  ]                   | Impact: -0.026403 → LEGITIMATE
+13.  ]                   | Impact: -0.025410 → LEGITIMATE
+14.  here                | Impact: 0.023703 → PHISHING
+15.  verify              | Impact: 0.023258 → PHISHING
+16.  reserved            | Impact: 0.023109 → PHISHING
+17.  click               | Impact: 0.023053 → PHISHING
+18.  email               | Impact: 0.021691 → PHISHING
+19.  account             | Impact: 0.021591 → PHISHING
+20.  ,                   | Impact: -0.019961 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.132356
+ 2.  account             | Impact: 0.099567
+ 3.  your                | Impact: 0.086386
+ 4.  account             | Impact: 0.071160
+ 5.  continue            | Impact: 0.063023
+ 6.  ©                   | Impact: 0.049125
+ 7.  your                | Impact: 0.039775
+ 8.  email               | Impact: 0.033714
+ 9.  account             | Impact: 0.032979
+10.  your                | Impact: 0.031425
+11.  your                | Impact: 0.028019
+12.  here                | Impact: 0.023703
+13.  verify              | Impact: 0.023258
+14.  reserved            | Impact: 0.023109
+15.  click               | Impact: 0.023053
+16.  email               | Impact: 0.021691
+17.  account             | Impact: 0.021591
+18.  rights              | Impact: 0.017841
+19.  and                 | Impact: 0.017296
+20.  on                  | Impact: 0.016870
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ]                   | Impact: -0.026403
+ 2.  ]                   | Impact: -0.025410
+ 3.  ,                   | Impact: -0.019961
+ 4.  /                   | Impact: -0.015409
+ 5.  [                   | Impact: -0.013685
+ 6.  [                   | Impact: -0.012798
+ 7.  ,                   | Impact: -0.011559
+ 8.  depending           | Impact: -0.011114
+ 9.  ,                   | Impact: -0.009054
+10.  on                  | Impact: -0.003354
+11.  /                   | Impact: -0.002272
+12.  due                 | Impact: -0.001881
+13.  ,                   | Impact: -0.001250
+14.  -                   | Impact: -0.001170

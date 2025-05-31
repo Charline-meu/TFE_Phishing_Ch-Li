@@ -1,0 +1,67 @@
+Phishing Sample 60
+==================
+
+Sample text preview: From: Mrs Farah al-Hashemi Address: Chiang Rai hospital - Chiang Rai - Lampoon Rd, ,Chiang Rai Thailand Dearest Beloved, Thank you for the attention b...
+
+Model prediction: [1.6501195e-04 9.9983501e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.009618 → PHISHING
+ 2. est                  | Impact: 0.009618 → PHISHING
+ 3.  beloved             | Impact: 0.009618 → PHISHING
+ 4.  ,                   | Impact: 0.009618 → PHISHING
+ 5.  to                  | Impact: 0.007828 → PHISHING
+ 6.  your                | Impact: 0.007828 → PHISHING
+ 7.  country             | Impact: 0.007828 → PHISHING
+ 8.  will                | Impact: 0.007828 → PHISHING
+ 9.  be                  | Impact: 0.007828 → PHISHING
+10.  used                | Impact: 0.007828 → PHISHING
+11.  for                 | Impact: 0.007828 → PHISHING
+12.  the                 | Impact: 0.007828 → PHISHING
+13.  your                | Impact: 0.007731 → PHISHING
+14.  assistance          | Impact: 0.007731 → PHISHING
+15.  will                | Impact: 0.007731 → PHISHING
+16.  be                  | Impact: 0.007731 → PHISHING
+17.  profitable          | Impact: 0.007099 → PHISHING
+18.  to                  | Impact: 0.007099 → PHISHING
+19.  us                  | Impact: 0.007099 → PHISHING
+20.  i                   | Impact: 0.007042 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.009618
+ 2. est                  | Impact: 0.009618
+ 3.  beloved             | Impact: 0.009618
+ 4.  ,                   | Impact: 0.009618
+ 5.  to                  | Impact: 0.007828
+ 6.  your                | Impact: 0.007828
+ 7.  country             | Impact: 0.007828
+ 8.  will                | Impact: 0.007828
+ 9.  be                  | Impact: 0.007828
+10.  used                | Impact: 0.007828
+11.  for                 | Impact: 0.007828
+12.  the                 | Impact: 0.007828
+13.  your                | Impact: 0.007731
+14.  assistance          | Impact: 0.007731
+15.  will                | Impact: 0.007731
+16.  be                  | Impact: 0.007731
+17.  profitable          | Impact: 0.007099
+18.  to                  | Impact: 0.007099
+19.  us                  | Impact: 0.007099
+20.  i                   | Impact: 0.007042
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  lastly              | Impact: -0.004405
+ 2.  ,                   | Impact: -0.004405
+ 3.  a                   | Impact: -0.001707
+ 4.  very                | Impact: -0.001707
+ 5.  bad                 | Impact: -0.001707
+ 6.  stage               | Impact: -0.001707
+ 7.  .                   | Impact: -0.001707
+ 8.  go                  | Impact: -0.000903
+ 9.  through             | Impact: -0.000903
+10.  my                  | Impact: -0.000903
+11.  mail                | Impact: -0.000903
+12.  .                   | Impact: -0.000903

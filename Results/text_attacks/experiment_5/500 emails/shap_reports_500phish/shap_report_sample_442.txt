@@ -1,0 +1,65 @@
+Sample 442
+==========
+
+Sample text preview: Dear MB MB Your e-mail account is running on a low storage space, verify your account now to increase storage space other wise your account shall be l...
+
+Model prediction: [1.8126350e-04 9.9981874e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.098946 → PHISHING
+ 2.  dear                | Impact: 0.077657 → PHISHING
+ 3.  account             | Impact: 0.052764 → PHISHING
+ 4.  your                | Impact: 0.047168 → PHISHING
+ 5.  account             | Impact: 0.040440 → PHISHING
+ 6.  account             | Impact: 0.039809 → PHISHING
+ 7.  your                | Impact: 0.039341 → PHISHING
+ 8.  account             | Impact: 0.036207 → PHISHING
+ 9.  notice              | Impact: 0.034734 → PHISHING
+10.  account             | Impact: 0.033018 → PHISHING
+11.  mb                  | Impact: 0.031979 → PHISHING
+12.  verify              | Impact: 0.029339 → PHISHING
+13.  thanks              | Impact: 0.027354 → PHISHING
+14.  your                | Impact: 0.026687 → PHISHING
+15.  mail                | Impact: 0.023795 → PHISHING
+16.  now                 | Impact: 0.022475 → PHISHING
+17.  account             | Impact: 0.021706 → PHISHING
+18.  here                | Impact: 0.021654 → PHISHING
+19.  your                | Impact: 0.021646 → PHISHING
+20.  mb                  | Impact: 0.020468 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.098946
+ 2.  dear                | Impact: 0.077657
+ 3.  account             | Impact: 0.052764
+ 4.  your                | Impact: 0.047168
+ 5.  account             | Impact: 0.040440
+ 6.  account             | Impact: 0.039809
+ 7.  your                | Impact: 0.039341
+ 8.  account             | Impact: 0.036207
+ 9.  notice              | Impact: 0.034734
+10.  account             | Impact: 0.033018
+11.  mb                  | Impact: 0.031979
+12.  verify              | Impact: 0.029339
+13.  thanks              | Impact: 0.027354
+14.  your                | Impact: 0.026687
+15.  mail                | Impact: 0.023795
+16.  now                 | Impact: 0.022475
+17.  account             | Impact: 0.021706
+18.  here                | Impact: 0.021654
+19.  your                | Impact: 0.021646
+20.  mb                  | Impact: 0.020468
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.011929
+ 2.  ,                   | Impact: -0.008719
+ 3.  to                  | Impact: -0.005062
+ 4.  .                   | Impact: -0.004788
+ 5.  ,                   | Impact: -0.004580
+ 6.  -                   | Impact: -0.002147
+ 7.  space               | Impact: -0.002041
+ 8.  to                  | Impact: -0.001257
+ 9.  storage             | Impact: -0.000791
+10.  to                  | Impact: -0.000075

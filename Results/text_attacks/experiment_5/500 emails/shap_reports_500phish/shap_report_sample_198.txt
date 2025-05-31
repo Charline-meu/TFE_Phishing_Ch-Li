@@ -1,0 +1,66 @@
+Sample 198
+==========
+
+Sample text preview: HANG SENG BANK LTD. DES VOEUX RD. BRANCH, CENTRAL HONG KONG, HONG KONG. Dear Sir, Let me start by introducing myself. I am Mr. Wang Qin credit officer...
+
+Model prediction: [1.9162323e-04 9.9980837e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ibrahim             | Impact: 0.021440 → PHISHING
+ 2.  mo                  | Impact: 0.011773 → PHISHING
+ 3. uss                  | Impact: 0.011773 → PHISHING
+ 4. a                    | Impact: 0.011773 → PHISHING
+ 5.  ibrahim             | Impact: 0.009342 → PHISHING
+ 6.  his                 | Impact: 0.008499 → PHISHING
+ 7.  funds               | Impact: 0.008499 → PHISHING
+ 8.  .                   | Impact: 0.008499 → PHISHING
+ 9.  so                  | Impact: 0.006419 → PHISHING
+10.  that                | Impact: 0.006419 → PHISHING
+11.  you                 | Impact: 0.006419 → PHISHING
+12.  will                | Impact: 0.006419 → PHISHING
+13.  twenty              | Impact: 0.005499 → PHISHING
+14.  millions            | Impact: 0.005499 → PHISHING
+15.  five                | Impact: 0.005499 → PHISHING
+16.  hundred             | Impact: 0.005499 → PHISHING
+17.  thousand            | Impact: 0.005499 → PHISHING
+18.  united              | Impact: 0.005499 → PHISHING
+19.  state               | Impact: 0.005499 → PHISHING
+20.  dollars             | Impact: 0.005499 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ibrahim             | Impact: 0.021440
+ 2.  mo                  | Impact: 0.011773
+ 3. uss                  | Impact: 0.011773
+ 4. a                    | Impact: 0.011773
+ 5.  ibrahim             | Impact: 0.009342
+ 6.  his                 | Impact: 0.008499
+ 7.  funds               | Impact: 0.008499
+ 8.  .                   | Impact: 0.008499
+ 9.  so                  | Impact: 0.006419
+10.  that                | Impact: 0.006419
+11.  you                 | Impact: 0.006419
+12.  will                | Impact: 0.006419
+13.  twenty              | Impact: 0.005499
+14.  millions            | Impact: 0.005499
+15.  five                | Impact: 0.005499
+16.  hundred             | Impact: 0.005499
+17.  thousand            | Impact: 0.005499
+18.  united              | Impact: 0.005499
+19.  state               | Impact: 0.005499
+20.  dollars             | Impact: 0.005499
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  what                | Impact: -0.000490
+ 2.  bother              | Impact: -0.000490
+ 3. s                    | Impact: -0.000490
+ 4.  me                  | Impact: -0.000490
+ 5.  most                | Impact: -0.000490
+ 6.  is                  | Impact: -0.000490
+ 7.  that                | Impact: -0.000490
+ 8.  according           | Impact: -0.000490
+ 9.  to                  | Impact: -0.000490
+10.  the                 | Impact: -0.000490
+11.  to                  | Impact: -0.000490

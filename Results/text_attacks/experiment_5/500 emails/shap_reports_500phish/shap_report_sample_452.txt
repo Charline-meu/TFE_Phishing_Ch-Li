@@ -1,0 +1,75 @@
+Sample 452
+==========
+
+Sample text preview: Unbelievable Prices On Cell Phones And Accessories: Hands Free Ear Buds .! Phone Holsters .! Phone Cases .! Car Chargers .! Face Plates As Low As .! L...
+
+Model prediction: [8.1296527e-04 9.9918705e-01]
+Predicted class: PHISHING with 0.9992 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  future              | Impact: 0.038860 → PHISHING
+ 2.  your                | Impact: 0.038461 → PHISHING
+ 3.  remove              | Impact: 0.038461 → PHISHING
+ 4.  removed             | Impact: 0.038128 → PHISHING
+ 5.  from                | Impact: 0.038128 → PHISHING
+ 6.  mail                | Impact: 0.025096 → PHISHING
+ 7. ings                 | Impact: 0.025096 → PHISHING
+ 8.  request             | Impact: 0.024818 → PHISHING
+ 9.  to                  | Impact: 0.024818 → PHISHING
+10.  please              | Impact: 0.022248 → PHISHING
+11.  send                | Impact: 0.022248 → PHISHING
+12.  click               | Impact: 0.022057 → PHISHING
+13.  below               | Impact: 0.022057 → PHISHING
+14.  !                   | Impact: 0.021352 → PHISHING
+15.  to                  | Impact: 0.020713 → PHISHING
+16.  be                  | Impact: 0.020713 → PHISHING
+17.  holster             | Impact: 0.020117 → PHISHING
+18. s                    | Impact: 0.020117 → PHISHING
+19.  !                   | Impact: 0.020062 → PHISHING
+20.  phone               | Impact: 0.015705 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  future              | Impact: 0.038860
+ 2.  your                | Impact: 0.038461
+ 3.  remove              | Impact: 0.038461
+ 4.  removed             | Impact: 0.038128
+ 5.  from                | Impact: 0.038128
+ 6.  mail                | Impact: 0.025096
+ 7. ings                 | Impact: 0.025096
+ 8.  request             | Impact: 0.024818
+ 9.  to                  | Impact: 0.024818
+10.  please              | Impact: 0.022248
+11.  send                | Impact: 0.022248
+12.  click               | Impact: 0.022057
+13.  below               | Impact: 0.022057
+14.  !                   | Impact: 0.021352
+15.  to                  | Impact: 0.020713
+16.  be                  | Impact: 0.020713
+17.  holster             | Impact: 0.020117
+18. s                    | Impact: 0.020117
+19.  !                   | Impact: 0.020062
+20.  phone               | Impact: 0.015705
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.014356
+ 2.  )                   | Impact: -0.014356
+ 3.  have                | Impact: -0.007065
+ 4.  a                   | Impact: -0.007065
+ 5.  super               | Impact: -0.007065
+ 6.  day                 | Impact: -0.007065
+ 7.  ~                   | Impact: -0.002441
+ 8.  ~                   | Impact: -0.002441
+ 9.  ~                   | Impact: -0.002441
+10.  ~                   | Impact: -0.002441
+11.  ~                   | Impact: -0.001545
+12.  ~                   | Impact: -0.001545
+13.  ~                   | Impact: -0.001545
+14.  ~                   | Impact: -0.001545
+15.  ~                   | Impact: -0.001048
+16.  ~                   | Impact: -0.001048
+17.  ~                   | Impact: -0.001048
+18.  ~                   | Impact: -0.001048
+19.  ~                   | Impact: -0.001048
+20.  ~                   | Impact: -0.001048

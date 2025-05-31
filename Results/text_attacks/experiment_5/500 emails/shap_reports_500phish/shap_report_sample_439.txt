@@ -1,0 +1,75 @@
+Sample 439
+==========
+
+Sample text preview: Mr. Minoru Fujii Director of Systems The Shiga Bank Ltd, Two Exchange Square Connaught Place Hong Kong I am a staff of THE SHIGA BANK LTD and also the...
+
+Model prediction: [1.7765447e-04 9.9982232e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  regards             | Impact: 0.063136 → PHISHING
+ 2.  your                | Impact: 0.060576 → PHISHING
+ 3.  mr                  | Impact: 0.049381 → PHISHING
+ 4.  upon                | Impact: 0.042029 → PHISHING
+ 5.  you                 | Impact: 0.036033 → PHISHING
+ 6.  ltd                 | Impact: 0.025882 → PHISHING
+ 7.  your                | Impact: 0.021929 → PHISHING
+ 8.  ltd                 | Impact: 0.020604 → PHISHING
+ 9.  place               | Impact: 0.020218 → PHISHING
+10.  hong                | Impact: 0.020218 → PHISHING
+11.  bank                | Impact: 0.019575 → PHISHING
+12.  bank                | Impact: 0.019268 → PHISHING
+13.  response            | Impact: -0.019204 → LEGITIMATE
+14.  assistance          | Impact: 0.014285 → PHISHING
+15.  am                  | Impact: 0.013978 → PHISHING
+16.  your                | Impact: 0.013432 → PHISHING
+17.  full                | Impact: 0.013323 → PHISHING
+18.  kong                | Impact: 0.012863 → PHISHING
+19.  i                   | Impact: 0.012863 → PHISHING
+20. i                    | Impact: 0.011803 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.063136
+ 2.  your                | Impact: 0.060576
+ 3.  mr                  | Impact: 0.049381
+ 4.  upon                | Impact: 0.042029
+ 5.  you                 | Impact: 0.036033
+ 6.  ltd                 | Impact: 0.025882
+ 7.  your                | Impact: 0.021929
+ 8.  ltd                 | Impact: 0.020604
+ 9.  place               | Impact: 0.020218
+10.  hong                | Impact: 0.020218
+11.  bank                | Impact: 0.019575
+12.  bank                | Impact: 0.019268
+13.  assistance          | Impact: 0.014285
+14.  am                  | Impact: 0.013978
+15.  your                | Impact: 0.013432
+16.  full                | Impact: 0.013323
+17.  kong                | Impact: 0.012863
+18.  i                   | Impact: 0.012863
+19. i                    | Impact: 0.011803
+20.  you                 | Impact: 0.011532
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  response            | Impact: -0.019204
+ 2.  l                   | Impact: -0.006707
+ 3.  airplane            | Impact: -0.001008
+ 4.  crash               | Impact: -0.001008
+ 5.  a                   | Impact: -0.001008
+ 6.  few                 | Impact: -0.001008
+ 7.  y                   | Impact: -0.000997
+ 8. rs                   | Impact: -0.000997
+ 9.  ago                 | Impact: -0.000997
+10.  .                   | Impact: -0.000997
+11.  ,                   | Impact: -0.000443
+12.  .                   | Impact: -0.000412
+13.  and                 | Impact: -0.000402
+14.  also                | Impact: -0.000402
+15.  the                 | Impact: -0.000402
+16.  director            | Impact: -0.000402
+17.  of                  | Impact: -0.000402
+18.  systems             | Impact: -0.000402
+19.  .                   | Impact: -0.000402
+20.  minor               | Impact: -0.000335

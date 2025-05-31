@@ -1,0 +1,59 @@
+Sample 481
+==========
+
+Sample text preview: gDRAVm`F NB bNECvB_fE`AgDcDQFAvlgQED`Avu[AENF YgCEFlABaFYSD_ÿCOglAg[vwECÿC^FAAE`AsBW\SDmEFl SDmPCu OfFÿCYgCNDSDmDlÿC`Av^b__EB\OAQEDÿC...
+
+Model prediction: [0.00251465 0.9974853 ]
+Predicted class: PHISHING with 0.9975 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  u                   | Impact: 0.041720 → PHISHING
+ 2.  `                   | Impact: 0.028441 → PHISHING
+ 3. dra                  | Impact: 0.027088 → PHISHING
+ 4. v                    | Impact: 0.027088 → PHISHING
+ 5. ffe                  | Impact: 0.020744 → PHISHING
+ 6. ara                  | Impact: 0.020744 → PHISHING
+ 7.  q                   | Impact: 0.019624 → PHISHING
+ 8. g                    | Impact: 0.019624 → PHISHING
+ 9. ey                   | Impact: 0.018734 → PHISHING
+10. dee                  | Impact: 0.018734 → PHISHING
+11.  f                   | Impact: 0.017853 → PHISHING
+12. fa                   | Impact: 0.017021 → PHISHING
+13. v                    | Impact: 0.015668 → PHISHING
+14. d                    | Impact: 0.015322 → PHISHING
+15.  ^                   | Impact: 0.015244 → PHISHING
+16.  `                   | Impact: 0.014990 → PHISHING
+17. uf                   | Impact: 0.013848 → PHISHING
+18. be                   | Impact: 0.013848 → PHISHING
+19. m                    | Impact: 0.013848 → PHISHING
+20.  sd                  | Impact: 0.013657 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  u                   | Impact: 0.041720
+ 2.  `                   | Impact: 0.028441
+ 3. dra                  | Impact: 0.027088
+ 4. v                    | Impact: 0.027088
+ 5. ffe                  | Impact: 0.020744
+ 6. ara                  | Impact: 0.020744
+ 7.  q                   | Impact: 0.019624
+ 8. g                    | Impact: 0.019624
+ 9. ey                   | Impact: 0.018734
+10. dee                  | Impact: 0.018734
+11.  f                   | Impact: 0.017853
+12. fa                   | Impact: 0.017021
+13. v                    | Impact: 0.015668
+14. d                    | Impact: 0.015322
+15.  ^                   | Impact: 0.015244
+16.  `                   | Impact: 0.014990
+17. uf                   | Impact: 0.013848
+18. be                   | Impact: 0.013848
+19. m                    | Impact: 0.013848
+20.  sd                  | Impact: 0.013657
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.012173
+ 2.  [                   | Impact: -0.007630
+ 3.  [                   | Impact: -0.003384
+ 4. dc                   | Impact: -0.002202

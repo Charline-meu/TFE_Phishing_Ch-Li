@@ -1,0 +1,75 @@
+Sample 234
+==========
+
+Sample text preview: Greetings from Dubai, This letter must come to you as a big surprise, but I believe it is only a day that people meet and become great friends and bus...
+
+Model prediction: [1.8615066e-04 9.9981385e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.011462 → PHISHING
+ 2.  .                   | Impact: 0.011462 → PHISHING
+ 3.  become              | Impact: 0.006369 → PHISHING
+ 4.  great               | Impact: 0.006369 → PHISHING
+ 5.  friends             | Impact: 0.006369 → PHISHING
+ 6.  and                 | Impact: 0.006369 → PHISHING
+ 7.  for                 | Impact: 0.005877 → PHISHING
+ 8.  you                 | Impact: 0.005877 → PHISHING
+ 9.  .                   | Impact: 0.005877 → PHISHING
+10.  i                   | Impact: 0.005817 → PHISHING
+11.  am                  | Impact: 0.005817 → PHISHING
+12.  mr                  | Impact: 0.005817 → PHISHING
+13.  .                   | Impact: 0.005817 → PHISHING
+14.  ali                 | Impact: 0.005201 → PHISHING
+15.  ra                  | Impact: 0.005201 → PHISHING
+16. za                   | Impact: 0.005201 → PHISHING
+17.  khan                | Impact: 0.005201 → PHISHING
+18.  ,                   | Impact: 0.005201 → PHISHING
+19.  very                | Impact: 0.004838 → PHISHING
+20.  confidential        | Impact: 0.004838 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.011462
+ 2.  .                   | Impact: 0.011462
+ 3.  become              | Impact: 0.006369
+ 4.  great               | Impact: 0.006369
+ 5.  friends             | Impact: 0.006369
+ 6.  and                 | Impact: 0.006369
+ 7.  for                 | Impact: 0.005877
+ 8.  you                 | Impact: 0.005877
+ 9.  .                   | Impact: 0.005877
+10.  i                   | Impact: 0.005817
+11.  am                  | Impact: 0.005817
+12.  mr                  | Impact: 0.005817
+13.  .                   | Impact: 0.005817
+14.  ali                 | Impact: 0.005201
+15.  ra                  | Impact: 0.005201
+16. za                   | Impact: 0.005201
+17.  khan                | Impact: 0.005201
+18.  ,                   | Impact: 0.005201
+19.  very                | Impact: 0.004838
+20.  confidential        | Impact: 0.004838
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  but                 | Impact: -0.000129
+ 2.  it                  | Impact: -0.000129
+ 3.  was                 | Impact: -0.000129
+ 4.  again               | Impact: -0.000129
+ 5.  returned            | Impact: -0.000129
+ 6.  che                 | Impact: -0.000129
+ 7. vron                 | Impact: -0.000129
+ 8.  petroleum           | Impact: -0.000129
+ 9.  corporation         | Impact: -0.000129
+10.  that                | Impact: -0.000129
+11.  mr                  | Impact: -0.000129
+12.  .                   | Impact: -0.000129
+13.  and                 | Impact: -0.000129
+14.  finally             | Impact: -0.000129
+15.  i                   | Impact: -0.000129
+16.  discovered          | Impact: -0.000129
+17.  from                | Impact: -0.000129
+18.  his                 | Impact: -0.000129
+19.  contract            | Impact: -0.000129
+20.  employers           | Impact: -0.000129

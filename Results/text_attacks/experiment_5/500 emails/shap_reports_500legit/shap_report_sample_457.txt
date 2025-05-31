@@ -1,0 +1,75 @@
+Sample 457
+==========
+
+Sample text preview: Hire a really talented skywriter to doodle nudie pics in the sky and see if they figure out what to charge you with. Exactly how far into the sky does...
+
+Model prediction: [0.9973111  0.00268887]
+Predicted class: LEGITIMATE with 0.9973 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.012834 → LEGITIMATE
+ 2.  !                   | Impact: 0.010955 → PHISHING
+ 3.  jesus               | Impact: -0.008556 → LEGITIMATE
+ 4.  lock                | Impact: 0.007849 → PHISHING
+ 5.  does                | Impact: -0.007136 → LEGITIMATE
+ 6.  ?                   | Impact: -0.006633 → LEGITIMATE
+ 7.  far                 | Impact: -0.006601 → LEGITIMATE
+ 8.  -                   | Impact: -0.006395 → LEGITIMATE
+ 9.  pay                 | Impact: 0.006020 → PHISHING
+10.  hire                | Impact: 0.005985 → PHISHING
+11.  exactly             | Impact: -0.005866 → LEGITIMATE
+12.  sky                 | Impact: 0.005739 → PHISHING
+13.  reach               | Impact: 0.005439 → PHISHING
+14.  they                | Impact: -0.005116 → LEGITIMATE
+15.  sky                 | Impact: 0.004649 → PHISHING
+16.  how                 | Impact: -0.004573 → LEGITIMATE
+17.  your                | Impact: 0.004555 → PHISHING
+18.  you                 | Impact: 0.004013 → PHISHING
+19.  ,                   | Impact: -0.003950 → LEGITIMATE
+20.  look                | Impact: -0.003646 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.010955
+ 2.  lock                | Impact: 0.007849
+ 3.  pay                 | Impact: 0.006020
+ 4.  hire                | Impact: 0.005985
+ 5.  sky                 | Impact: 0.005739
+ 6.  reach               | Impact: 0.005439
+ 7.  sky                 | Impact: 0.004649
+ 8.  your                | Impact: 0.004555
+ 9.  you                 | Impact: 0.004013
+10.  talented            | Impact: 0.003625
+11.  !                   | Impact: 0.003435
+12.  district            | Impact: 0.003266
+13.  '                   | Impact: 0.002936
+14.  up                  | Impact: 0.002781
+15.  and                 | Impact: 0.002728
+16.  charge              | Impact: 0.002621
+17.  into                | Impact: 0.002427
+18.  then                | Impact: 0.002358
+19.  didn                | Impact: 0.002339
+20.  write               | Impact: 0.002333
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.012834
+ 2.  jesus               | Impact: -0.008556
+ 3.  does                | Impact: -0.007136
+ 4.  ?                   | Impact: -0.006633
+ 5.  far                 | Impact: -0.006601
+ 6.  -                   | Impact: -0.006395
+ 7.  exactly             | Impact: -0.005866
+ 8.  they                | Impact: -0.005116
+ 9.  how                 | Impact: -0.004573
+10.  ,                   | Impact: -0.003950
+11.  look                | Impact: -0.003646
+12.  it                  | Impact: -0.003578
+13.  >                   | Impact: -0.003578
+14.  the                 | Impact: -0.002790
+15.  figure              | Impact: -0.002514
+16.  wow                 | Impact: -0.002409
+17. die                  | Impact: -0.002216
+18.  of                  | Impact: -0.002079
+19.  border              | Impact: -0.002060
+20.  without             | Impact: -0.001905

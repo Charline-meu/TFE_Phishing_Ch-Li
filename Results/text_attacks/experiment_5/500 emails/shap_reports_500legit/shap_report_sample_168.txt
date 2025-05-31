@@ -1,0 +1,75 @@
+Sample 168
+==========
+
+Sample text preview: On Mon, Aug , at ::PM +, Paul Linehan wrote: > > "John P. Looney" a crit: > > > > I'm confused. I thought it was GPL'ed and > > > that the money you p...
+
+Model prediction: [9.9976236e-01 2.3761715e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  download            | Impact: 0.010280 → PHISHING
+ 2.  the                 | Impact: -0.005457 → LEGITIMATE
+ 3.  gp                  | Impact: -0.005011 → LEGITIMATE
+ 4.  official            | Impact: 0.004762 → PHISHING
+ 5.  red                 | Impact: 0.003699 → PHISHING
+ 6.  iso                 | Impact: -0.002523 → LEGITIMATE
+ 7.  '                   | Impact: -0.002464 → LEGITIMATE
+ 8.  copy                | Impact: -0.001884 → LEGITIMATE
+ 9.  find                | Impact: 0.001811 → PHISHING
+10.  info                | Impact: 0.001811 → PHISHING
+11.  linux               | Impact: -0.001712 → LEGITIMATE
+12. l                    | Impact: -0.001711 → LEGITIMATE
+13.  source              | Impact: -0.001699 → LEGITIMATE
+14.  can                 | Impact: -0.001639 → LEGITIMATE
+15.  >                   | Impact: -0.001638 → LEGITIMATE
+16.  i                   | Impact: -0.001600 → LEGITIMATE
+17.  l                   | Impact: -0.001549 → LEGITIMATE
+18.  wrote               | Impact: -0.001309 → LEGITIMATE
+19.  paul                | Impact: -0.001212 → LEGITIMATE
+20.  of                  | Impact: -0.001010 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  download            | Impact: 0.010280
+ 2.  official            | Impact: 0.004762
+ 3.  red                 | Impact: 0.003699
+ 4.  find                | Impact: 0.001811
+ 5.  info                | Impact: 0.001811
+ 6.  thanks              | Impact: 0.000690
+ 7.  this                | Impact: 0.000614
+ 8. hat                  | Impact: 0.000604
+ 9.  to                  | Impact: 0.000543
+10.                      | Impact: 0.000527
+11.  on                  | Impact: 0.000527
+12.  mon                 | Impact: 0.000527
+13.  ,                   | Impact: 0.000522
+14.  ,                   | Impact: 0.000480
+15.  >                   | Impact: 0.000441
+16.  >                   | Impact: 0.000337
+17.  other               | Impact: 0.000309
+18. i                    | Impact: 0.000309
+19. ws                   | Impact: 0.000309
+20. e                    | Impact: 0.000309
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.005457
+ 2.  gp                  | Impact: -0.005011
+ 3.  iso                 | Impact: -0.002523
+ 4.  '                   | Impact: -0.002464
+ 5.  copy                | Impact: -0.001884
+ 6.  linux               | Impact: -0.001712
+ 7. l                    | Impact: -0.001711
+ 8.  source              | Impact: -0.001699
+ 9.  can                 | Impact: -0.001639
+10.  >                   | Impact: -0.001638
+11.  i                   | Impact: -0.001600
+12.  l                   | Impact: -0.001549
+13.  wrote               | Impact: -0.001309
+14.  paul                | Impact: -0.001212
+15.  of                  | Impact: -0.001010
+16.  thread              | Impact: -0.001010
+17.  :                   | Impact: -0.001000
+18.  .                   | Impact: -0.000902
+19.  :                   | Impact: -0.000895
+20.  linux               | Impact: -0.000858

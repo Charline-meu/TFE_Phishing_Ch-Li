@@ -1,0 +1,65 @@
+Sample 231
+==========
+
+Sample text preview: WE NEED HELP. We are a year old fortune company, and we have grown %! We cannot keep up. We are looking for individuals who want to work at home, and ...
+
+Model prediction: [2.026302e-04 9.997974e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.032078 → PHISHING
+ 2.  our                 | Impact: 0.031846 → PHISHING
+ 3.  year                | Impact: 0.029356 → PHISHING
+ 4.  link                | Impact: 0.026977 → PHISHING
+ 5.  removed             | Impact: 0.026271 → PHISHING
+ 6.  old                 | Impact: 0.024473 → PHISHING
+ 7.  fortune             | Impact: 0.024473 → PHISHING
+ 8.  a                   | Impact: 0.023289 → PHISHING
+ 9.  link                | Impact: 0.022410 → PHISHING
+10.  below               | Impact: 0.022410 → PHISHING
+11.  for                 | Impact: 0.019153 → PHISHING
+12.  free                | Impact: 0.019153 → PHISHING
+13.  simple              | Impact: 0.018628 → PHISHING
+14.  be                  | Impact: 0.016325 → PHISHING
+15.  train               | Impact: 0.014500 → PHISHING
+16.  company             | Impact: 0.013737 → PHISHING
+17.  go                  | Impact: 0.013698 → PHISHING
+18.  simply              | Impact: 0.013456 → PHISHING
+19.  click               | Impact: 0.013456 → PHISHING
+20.  guaranteed          | Impact: 0.013377 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.032078
+ 2.  our                 | Impact: 0.031846
+ 3.  year                | Impact: 0.029356
+ 4.  link                | Impact: 0.026977
+ 5.  removed             | Impact: 0.026271
+ 6.  old                 | Impact: 0.024473
+ 7.  fortune             | Impact: 0.024473
+ 8.  a                   | Impact: 0.023289
+ 9.  link                | Impact: 0.022410
+10.  below               | Impact: 0.022410
+11.  for                 | Impact: 0.019153
+12.  free                | Impact: 0.019153
+13.  simple              | Impact: 0.018628
+14.  be                  | Impact: 0.016325
+15.  train               | Impact: 0.014500
+16.  company             | Impact: 0.013737
+17.  go                  | Impact: 0.013698
+18.  simply              | Impact: 0.013456
+19.  click               | Impact: 0.013456
+20.  guaranteed          | Impact: 0.013377
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.004042
+ 2.  ,                   | Impact: -0.001590
+ 3.  work                | Impact: -0.001292
+ 4.  at                  | Impact: -0.001292
+ 5.  home                | Impact: -0.001292
+ 6.  ,                   | Impact: -0.001292
+ 7.  .                   | Impact: -0.000729
+ 8.  then                | Impact: -0.000257
+ 9.  go                  | Impact: -0.000257
+10.  :                   | Impact: -0.000257

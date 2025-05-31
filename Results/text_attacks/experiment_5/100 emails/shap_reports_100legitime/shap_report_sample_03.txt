@@ -1,0 +1,75 @@
+Phishing Sample 3
+=================
+
+Sample text preview: Save % Speak No Evil, Hear No Evil Monkey Bikes... One of the Hottest Gifts for Holiday ... Just enter the coupon code MQJGX in the checkout process t...
+
+Model prediction: [0.9909943  0.00900567]
+Predicted class: LEGITIMATE with 0.9910 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  our                 | Impact: -0.000574 → LEGITIMATE
+ 2.  fantasy             | Impact: -0.000574 → LEGITIMATE
+ 3.  football            | Impact: -0.000574 → LEGITIMATE
+ 4.  guides              | Impact: -0.000574 → LEGITIMATE
+ 5.  em                  | Impact: -0.000573 → LEGITIMATE
+ 6. mit                  | Impact: -0.000573 → LEGITIMATE
+ 7. t                    | Impact: -0.000573 → LEGITIMATE
+ 8.  fantasy             | Impact: -0.000451 → LEGITIMATE
+ 9.  veterans            | Impact: -0.000451 → LEGITIMATE
+10.  alike               | Impact: -0.000451 → LEGITIMATE
+11.  .                   | Impact: -0.000451 → LEGITIMATE
+12.  player              | Impact: -0.000442 → LEGITIMATE
+13.  ratings             | Impact: -0.000442 → LEGITIMATE
+14.  ,                   | Impact: -0.000442 → LEGITIMATE
+15.  scouting            | Impact: -0.000442 → LEGITIMATE
+16.  reports             | Impact: -0.000442 → LEGITIMATE
+17.  ,                   | Impact: -0.000442 → LEGITIMATE
+18.  special             | Impact: -0.000431 → LEGITIMATE
+19.  in                  | Impact: -0.000431 → LEGITIMATE
+20.  season              | Impact: -0.000431 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  brought             | Impact: 0.000372
+ 2.  to                  | Impact: 0.000372
+ 3.  you                 | Impact: 0.000372
+ 4.  by                  | Impact: 0.000372
+ 5.  you                 | Impact: 0.000224
+ 6.  are                 | Impact: 0.000224
+ 7.  receiving           | Impact: 0.000224
+ 8.  these               | Impact: 0.000224
+ 9.  player              | Impact: 0.000103
+10.  news                | Impact: 0.000103
+11.  tyrone              | Impact: 0.000103
+12.  wheat               | Impact: 0.000103
+13. ley                  | Impact: 0.000103
+14.  ,                   | Impact: 0.000103
+15.  just                | Impact: 0.000101
+16.  enter               | Impact: 0.000101
+17.  the                 | Impact: 0.000101
+18.  coup                | Impact: 0.000101
+19. on                   | Impact: 0.000101
+20.  code                | Impact: 0.000101
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  our                 | Impact: -0.000574
+ 2.  fantasy             | Impact: -0.000574
+ 3.  football            | Impact: -0.000574
+ 4.  guides              | Impact: -0.000574
+ 5.  em                  | Impact: -0.000573
+ 6. mit                  | Impact: -0.000573
+ 7. t                    | Impact: -0.000573
+ 8.  fantasy             | Impact: -0.000451
+ 9.  veterans            | Impact: -0.000451
+10.  alike               | Impact: -0.000451
+11.  .                   | Impact: -0.000451
+12.  player              | Impact: -0.000442
+13.  ratings             | Impact: -0.000442
+14.  ,                   | Impact: -0.000442
+15.  scouting            | Impact: -0.000442
+16.  reports             | Impact: -0.000442
+17.  ,                   | Impact: -0.000442
+18.  special             | Impact: -0.000431
+19.  in                  | Impact: -0.000431
+20.  season              | Impact: -0.000431

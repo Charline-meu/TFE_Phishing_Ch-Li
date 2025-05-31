@@ -1,0 +1,31 @@
+=== LIME Explanation for Email #6 ===
+True Label: Phishing
+Model Prediction: Legitimate
+Prediction Probability: 0.9540
+
+Top Features Influencing the Prediction:
+the: -0.1139 (pushes toward Legitimate)
+Elton: -0.1075 (pushes toward Legitimate)
+Sincerely: 0.1032 (pushes toward Phishing)
+participant: -0.0971 (pushes toward Legitimate)
+George: -0.0804 (pushes toward Legitimate)
+Thank: -0.0802 (pushes toward Legitimate)
+file: 0.0787 (pushes toward Phishing)
+A: -0.0765 (pushes toward Legitimate)
+Alagod: 0.0690 (pushes toward Phishing)
+been: 0.0669 (pushes toward Phishing)
+procedural: -0.0632 (pushes toward Legitimate)
+delivery: 0.0598 (pushes toward Phishing)
+an: -0.0592 (pushes toward Legitimate)
+with: 0.0576 (pushes toward Phishing)
+matter: 0.0489 (pushes toward Phishing)
+finalized: -0.0476 (pushes toward Legitimate)
+Acknowledgment: 0.0459 (pushes toward Phishing)
+Coordination: -0.0456 (pushes toward Legitimate)
+external: 0.0398 (pushes toward Phishing)
+ready: 0.0393 (pushes toward Phishing)
+prior: 0.0353 (pushes toward Phishing)
+certified: 0.0350 (pushes toward Phishing)
+indicate: -0.0315 (pushes toward Legitimate)
+a: -0.0271 (pushes toward Legitimate)
+formal: -0.0258 (pushes toward Legitimate)

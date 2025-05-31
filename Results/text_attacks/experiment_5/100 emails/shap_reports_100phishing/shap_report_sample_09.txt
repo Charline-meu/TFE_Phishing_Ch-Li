@@ -1,0 +1,75 @@
+Phishing Sample 9
+=================
+
+Sample text preview: Mr. Edward Taibu Johannesburg South Africa TEL:+--- Attn: Chairman/CEO, My name is Mr. Edward Taibu, the stepson of Mr. Terry Ford of Zimbabwe. It mig...
+
+Model prediction: [1.9760756e-04 9.9980241e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  johannesburg        | Impact: 0.008690 → PHISHING
+ 2.  south               | Impact: 0.008690 → PHISHING
+ 3.  africa              | Impact: 0.008690 → PHISHING
+ 4.  .                   | Impact: 0.008690 → PHISHING
+ 5.  your                | Impact: 0.007725 → PHISHING
+ 6.  country             | Impact: 0.007725 → PHISHING
+ 7.  ,                   | Impact: 0.007725 → PHISHING
+ 8.  my                  | Impact: 0.007512 → PHISHING
+ 9.  name                | Impact: 0.007512 → PHISHING
+10.  is                  | Impact: 0.007512 → PHISHING
+11.  mr                  | Impact: 0.007512 → PHISHING
+12.  transfer            | Impact: 0.007458 → PHISHING
+13.  this                | Impact: 0.007458 → PHISHING
+14.  money               | Impact: 0.007458 → PHISHING
+15.  to                  | Impact: 0.007458 → PHISHING
+16.  my                  | Impact: 0.007364 → PHISHING
+17.  mother              | Impact: 0.007364 → PHISHING
+18.  and                 | Impact: 0.007364 → PHISHING
+19.  (                   | Impact: -0.005886 → LEGITIMATE
+20.  .                   | Impact: -0.005886 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  johannesburg        | Impact: 0.008690
+ 2.  south               | Impact: 0.008690
+ 3.  africa              | Impact: 0.008690
+ 4.  .                   | Impact: 0.008690
+ 5.  your                | Impact: 0.007725
+ 6.  country             | Impact: 0.007725
+ 7.  ,                   | Impact: 0.007725
+ 8.  my                  | Impact: 0.007512
+ 9.  name                | Impact: 0.007512
+10.  is                  | Impact: 0.007512
+11.  mr                  | Impact: 0.007512
+12.  transfer            | Impact: 0.007458
+13.  this                | Impact: 0.007458
+14.  money               | Impact: 0.007458
+15.  to                  | Impact: 0.007458
+16.  my                  | Impact: 0.007364
+17.  mother              | Impact: 0.007364
+18.  and                 | Impact: 0.007364
+19.                      | Impact: 0.005643
+20.  mr                  | Impact: 0.005643
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.005886
+ 2.  .                   | Impact: -0.005886
+ 3.  )                   | Impact: -0.005886
+ 4.  .                   | Impact: -0.005822
+ 5.  before              | Impact: -0.003479
+ 6.  this                | Impact: -0.003479
+ 7.  unpleasant          | Impact: -0.003479
+ 8.  incident            | Impact: -0.003479
+ 9.  ,                   | Impact: -0.001799
+10.  honesty             | Impact: -0.001607
+11.  in                  | Impact: -0.001607
+12.  our                 | Impact: -0.001607
+13.  correspondence      | Impact: -0.001607
+14.  .                   | Impact: -0.001607
+15.  i                   | Impact: -0.001062
+16.  would               | Impact: -0.001062
+17.  appreciate          | Impact: -0.001062
+18.  confidential        | Impact: -0.001062
+19. ity                  | Impact: -0.001062
+20.  and                 | Impact: -0.001062

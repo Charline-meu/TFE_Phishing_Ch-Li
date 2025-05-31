@@ -1,0 +1,75 @@
+Phishing Sample 45
+==================
+
+Sample text preview: #editbody { margin: .em; font-size: pt; } #editbody table { width: px; font-family: "Segoe UI", Arial, Helvetica; font-size: px; border-collapse: coll...
+
+Model prediction: [7.3009764e-04 9.9926990e-01]
+Predicted class: PHISHING with 0.9993 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.240329 → PHISHING
+ 2.  notification        | Impact: 0.065773 → PHISHING
+ 3.  org                 | Impact: 0.062860 → PHISHING
+ 4.  message             | Impact: 0.062860 → PHISHING
+ 5.  jose                | Impact: 0.058173 → PHISHING
+ 6.  release             | Impact: 0.036215 → PHISHING
+ 7.  pending             | Impact: 0.036215 → PHISHING
+ 8.  !                   | Impact: 0.031472 → PHISHING
+ 9.  org                 | Impact: 0.027260 → PHISHING
+10.  support             | Impact: 0.027260 → PHISHING
+11.  below               | Impact: 0.026188 → PHISHING
+12.  :                   | Impact: 0.026188 → PHISHING
+13.  ,                   | Impact: 0.023813 → PHISHING
+14.  in                  | Impact: 0.021083 → PHISHING
+15. box                  | Impact: 0.021083 → PHISHING
+16.  please              | Impact: 0.020429 → PHISHING
+17.  messages            | Impact: 0.018340 → PHISHING
+18.  to                  | Impact: 0.018340 → PHISHING
+19.  rec                 | Impact: 0.015682 → PHISHING
+20. tify                 | Impact: 0.015682 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.240329
+ 2.  notification        | Impact: 0.065773
+ 3.  org                 | Impact: 0.062860
+ 4.  message             | Impact: 0.062860
+ 5.  jose                | Impact: 0.058173
+ 6.  release             | Impact: 0.036215
+ 7.  pending             | Impact: 0.036215
+ 8.  !                   | Impact: 0.031472
+ 9.  org                 | Impact: 0.027260
+10.  support             | Impact: 0.027260
+11.  below               | Impact: 0.026188
+12.  :                   | Impact: 0.026188
+13.  ,                   | Impact: 0.023813
+14.  in                  | Impact: 0.021083
+15. box                  | Impact: 0.021083
+16.  please              | Impact: 0.020429
+17.  messages            | Impact: 0.018340
+18.  to                  | Impact: 0.018340
+19.  rec                 | Impact: 0.015682
+20. tify                 | Impact: 0.015682
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  se                  | Impact: -0.014828
+ 2. go                   | Impact: -0.014828
+ 3. e                    | Impact: -0.014828
+ 4.  he                  | Impact: -0.012917
+ 5. l                    | Impact: -0.012917
+ 6. vet                  | Impact: -0.012917
+ 7. ica                  | Impact: -0.012917
+ 8.  ui                  | Impact: -0.008597
+ 9.  "                   | Impact: -0.008597
+10.  ,                   | Impact: -0.008597
+11.  ,                   | Impact: -0.007028
+12.  he                  | Impact: -0.004858
+13. l                    | Impact: -0.004858
+14. vet                  | Impact: -0.004858
+15. ica                  | Impact: -0.004858
+16.  source              | Impact: -0.004377
+17.  :                   | Impact: -0.004377
+18.  monkey              | Impact: -0.004377
+19.  .                   | Impact: -0.004377
+20.  aria                | Impact: -0.003894

@@ -1,0 +1,66 @@
+Phishing Sample 56
+==================
+
+Sample text preview: New Security Update View Accounts | Privacy Promise | Cosntact Us USAA SECURITY ZONE BARBARA OTTO USAA # ending in: Dear Valued Customer, New security...
+
+Model prediction: [1.8006489e-04 9.9981993e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  contact             | Impact: 0.024201 → PHISHING
+ 2.  unauthorized        | Impact: 0.023275 → PHISHING
+ 3.  account             | Impact: 0.023265 → PHISHING
+ 4.  us                  | Impact: 0.022102 → PHISHING
+ 5.  account             | Impact: 0.019327 → PHISHING
+ 6.  please              | Impact: 0.018076 → PHISHING
+ 7.  customer            | Impact: 0.017020 → PHISHING
+ 8.  your                | Impact: 0.016259 → PHISHING
+ 9.  online              | Impact: 0.015576 → PHISHING
+10.  for                 | Impact: 0.015464 → PHISHING
+11.  your                | Impact: 0.015464 → PHISHING
+12.  dear                | Impact: 0.015393 → PHISHING
+13.  valued              | Impact: 0.015393 → PHISHING
+14.  to                  | Impact: 0.014679 → PHISHING
+15.  your                | Impact: 0.014374 → PHISHING
+16.  accounts            | Impact: 0.014374 → PHISHING
+17.  mail                | Impact: 0.013480 → PHISHING
+18.  protects            | Impact: 0.013411 → PHISHING
+19.  your                | Impact: 0.013411 → PHISHING
+20.  information         | Impact: 0.013411 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.024201
+ 2.  unauthorized        | Impact: 0.023275
+ 3.  account             | Impact: 0.023265
+ 4.  us                  | Impact: 0.022102
+ 5.  account             | Impact: 0.019327
+ 6.  please              | Impact: 0.018076
+ 7.  customer            | Impact: 0.017020
+ 8.  your                | Impact: 0.016259
+ 9.  online              | Impact: 0.015576
+10.  for                 | Impact: 0.015464
+11.  your                | Impact: 0.015464
+12.  dear                | Impact: 0.015393
+13.  valued              | Impact: 0.015393
+14.  to                  | Impact: 0.014679
+15.  your                | Impact: 0.014374
+16.  accounts            | Impact: 0.014374
+17.  mail                | Impact: 0.013480
+18.  protects            | Impact: 0.013411
+19.  your                | Impact: 0.013411
+20.  information         | Impact: 0.013411
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.006242
+ 2.  we                  | Impact: -0.002603
+ 3.  appreciate          | Impact: -0.002603
+ 4.  barbara             | Impact: -0.001621
+ 5.  otto                | Impact: -0.001621
+ 6.  com                 | Impact: -0.001238
+ 7.  .                   | Impact: -0.001238
+ 8.  ,                   | Impact: -0.001053
+ 9.  and                 | Impact: -0.000755
+10.  understanding       | Impact: -0.000755
+11.  ,                   | Impact: -0.000755

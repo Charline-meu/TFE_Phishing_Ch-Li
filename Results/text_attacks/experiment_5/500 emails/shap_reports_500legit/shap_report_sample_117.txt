@@ -1,0 +1,75 @@
+Sample 117
+==========
+
+Sample text preview: actually we are going now. see you later! -----Original Message----- From: Maggi, Mike Sent: Tuesday, January , : AM To: Nelson, Michelle Subject: RE:...
+
+Model prediction: [9.9925703e-01 7.4296765e-04]
+Predicted class: LEGITIMATE with 0.9993 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  going               | Impact: -0.005116 → LEGITIMATE
+ 2.  now                 | Impact: 0.004530 → PHISHING
+ 3.  are                 | Impact: 0.002719 → PHISHING
+ 4.  original            | Impact: -0.002656 → LEGITIMATE
+ 5.  you                 | Impact: 0.002577 → PHISHING
+ 6.  actually            | Impact: -0.002515 → LEGITIMATE
+ 7.  :                   | Impact: -0.002501 → LEGITIMATE
+ 8.  -                   | Impact: -0.002353 → LEGITIMATE
+ 9.  -                   | Impact: -0.002308 → LEGITIMATE
+10.  .                   | Impact: -0.002158 → LEGITIMATE
+11.  -                   | Impact: 0.002043 → PHISHING
+12.  subject             | Impact: -0.001925 → LEGITIMATE
+13.  you                 | Impact: -0.001867 → LEGITIMATE
+14.  mike                | Impact: -0.001831 → LEGITIMATE
+15.  :                   | Impact: -0.001701 → LEGITIMATE
+16.  -                   | Impact: 0.001624 → PHISHING
+17.  she                 | Impact: 0.001408 → PHISHING
+18.  laura               | Impact: -0.001396 → LEGITIMATE
+19.  see                 | Impact: -0.001356 → LEGITIMATE
+20.  time                | Impact: 0.001101 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  now                 | Impact: 0.004530
+ 2.  are                 | Impact: 0.002719
+ 3.  you                 | Impact: 0.002577
+ 4.  -                   | Impact: 0.002043
+ 5.  -                   | Impact: 0.001624
+ 6.  she                 | Impact: 0.001408
+ 7.  time                | Impact: 0.001101
+ 8.  what                | Impact: 0.000467
+ 9.  !                   | Impact: 0.000389
+10.  nelson              | Impact: 0.000381
+11.  january             | Impact: 0.000378
+12.  that                | Impact: 0.000377
+13.  saw                 | Impact: 0.000325
+14.  mag                 | Impact: 0.000240
+15.  ?                   | Impact: 0.000230
+16. gi                   | Impact: 0.000183
+17.  later               | Impact: 0.000149
+18.  ,                   | Impact: 0.000114
+19.  ,                   | Impact: 0.000104
+20.  message             | Impact: 0.000103
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  going               | Impact: -0.005116
+ 2.  original            | Impact: -0.002656
+ 3.  actually            | Impact: -0.002515
+ 4.  :                   | Impact: -0.002501
+ 5.  -                   | Impact: -0.002353
+ 6.  -                   | Impact: -0.002308
+ 7.  .                   | Impact: -0.002158
+ 8.  subject             | Impact: -0.001925
+ 9.  you                 | Impact: -0.001867
+10.  mike                | Impact: -0.001831
+11.  :                   | Impact: -0.001701
+12.  laura               | Impact: -0.001396
+13.  see                 | Impact: -0.001356
+14.  michelle            | Impact: -0.001058
+15.  message             | Impact: -0.001029
+16.  tuesday             | Impact: -0.000979
+17.  subject             | Impact: -0.000892
+18.  said                | Impact: -0.000877
+19.  -                   | Impact: -0.000790
+20.  -                   | Impact: -0.000717

@@ -1,0 +1,75 @@
+Sample 120
+==========
+
+Sample text preview: Not fortean, but a moment in time all the same... Betamax video recorders are finally being phased out almost years after losing the battle for domina...
+
+Model prediction: [0.9126655 0.0873345]
+Predicted class: LEGITIMATE with 0.9127 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.                      | Impact: -0.005524 → LEGITIMATE
+ 2.  not                 | Impact: -0.005524 → LEGITIMATE
+ 3.  forte               | Impact: -0.005524 → LEGITIMATE
+ 4. an                   | Impact: -0.005524 → LEGITIMATE
+ 5.  ,                   | Impact: -0.005444 → LEGITIMATE
+ 6.  -                   | Impact: -0.004631 → LEGITIMATE
+ 7.  -                   | Impact: -0.004631 → LEGITIMATE
+ 8.  -                   | Impact: -0.004631 → LEGITIMATE
+ 9.  yahoo               | Impact: -0.004631 → LEGITIMATE
+10.  !                   | Impact: -0.004631 → LEGITIMATE
+11.  "                   | Impact: -0.003715 → LEGITIMATE
+12.  sony                | Impact: -0.003715 → LEGITIMATE
+13.  said                | Impact: -0.003715 → LEGITIMATE
+14.  in                  | Impact: -0.003715 → LEGITIMATE
+15.  a                   | Impact: -0.003715 → LEGITIMATE
+16.  statement           | Impact: -0.003715 → LEGITIMATE
+17.  .                   | Impact: -0.003715 → LEGITIMATE
+18.  .                   | Impact: 0.003482 → PHISHING
+19.  .                   | Impact: 0.003482 → PHISHING
+20.  million             | Impact: 0.003031 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.003482
+ 2.  .                   | Impact: 0.003482
+ 3.  million             | Impact: 0.003031
+ 4.  beta                | Impact: 0.003031
+ 5. max                  | Impact: 0.003031
+ 6.  machines            | Impact: 0.003031
+ 7.  were                | Impact: 0.003031
+ 8.  sold                | Impact: 0.003031
+ 9.  worldwide           | Impact: 0.003031
+10.  in                  | Impact: 0.003031
+11.  its                 | Impact: 0.003031
+12.  peak                | Impact: 0.003031
+13.  year                | Impact: 0.003031
+14.  ,                   | Impact: 0.003031
+15.  other               | Impact: 0.002548
+16.  new                 | Impact: 0.002548
+17.  recording           | Impact: 0.002548
+18.  formats             | Impact: 0.002548
+19.  taking              | Impact: 0.002548
+20.  hold                | Impact: 0.002548
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.005524
+ 2.  not                 | Impact: -0.005524
+ 3.  forte               | Impact: -0.005524
+ 4. an                   | Impact: -0.005524
+ 5.  ,                   | Impact: -0.005444
+ 6.  -                   | Impact: -0.004631
+ 7.  -                   | Impact: -0.004631
+ 8.  -                   | Impact: -0.004631
+ 9.  yahoo               | Impact: -0.004631
+10.  !                   | Impact: -0.004631
+11.  "                   | Impact: -0.003715
+12.  sony                | Impact: -0.003715
+13.  said                | Impact: -0.003715
+14.  in                  | Impact: -0.003715
+15.  a                   | Impact: -0.003715
+16.  statement           | Impact: -0.003715
+17.  .                   | Impact: -0.003715
+18.  although            | Impact: -0.001856
+19.  vhs                 | Impact: -0.001856
+20.  tapes               | Impact: -0.001856

@@ -1,0 +1,75 @@
+Sample 454
+==========
+
+Sample text preview: I'm going to put this in your capable hands, OK? Mark and Stephanie didn't tell Rex apparently that your the point person! ----- Forwarded by Kay Youn...
+
+Model prediction: [9.9980706e-01 1.9299058e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  rex                 | Impact: -0.009495 → LEGITIMATE
+ 2.  stephanie           | Impact: -0.006716 → LEGITIMATE
+ 3.  ok                  | Impact: -0.005333 → LEGITIMATE
+ 4.  your                | Impact: 0.005322 → PHISHING
+ 5.  !                   | Impact: 0.003650 → PHISHING
+ 6.  in                  | Impact: 0.003244 → PHISHING
+ 7.  apparently          | Impact: -0.002746 → LEGITIMATE
+ 8.  didn                | Impact: -0.002722 → LEGITIMATE
+ 9.  capable             | Impact: 0.002703 → PHISHING
+10.  mark                | Impact: -0.002634 → LEGITIMATE
+11. ron                  | Impact: -0.002085 → LEGITIMATE
+12.  this                | Impact: 0.002013 → PHISHING
+13.  that                | Impact: 0.001974 → PHISHING
+14. ron                  | Impact: -0.001972 → LEGITIMATE
+15.  ?                   | Impact: 0.001961 → PHISHING
+16.  hands               | Impact: 0.001939 → PHISHING
+17.  your                | Impact: 0.001927 → PHISHING
+18.  tell                | Impact: 0.001678 → PHISHING
+19.  '                   | Impact: 0.001621 → PHISHING
+20.  going               | Impact: -0.001497 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.005322
+ 2.  !                   | Impact: 0.003650
+ 3.  in                  | Impact: 0.003244
+ 4.  capable             | Impact: 0.002703
+ 5.  this                | Impact: 0.002013
+ 6.  that                | Impact: 0.001974
+ 7.  ?                   | Impact: 0.001961
+ 8.  hands               | Impact: 0.001939
+ 9.  your                | Impact: 0.001927
+10.  tell                | Impact: 0.001678
+11.  '                   | Impact: 0.001621
+12.  @                   | Impact: 0.000943
+13.  t                   | Impact: 0.000940
+14.  m                   | Impact: 0.000658
+15.  @                   | Impact: 0.000620
+16.  we                  | Impact: 0.000595
+17.  are                 | Impact: 0.000553
+18.  person              | Impact: 0.000511
+19.  @                   | Impact: 0.000315
+20.  and                 | Impact: 0.000284
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  rex                 | Impact: -0.009495
+ 2.  stephanie           | Impact: -0.006716
+ 3.  ok                  | Impact: -0.005333
+ 4.  apparently          | Impact: -0.002746
+ 5.  didn                | Impact: -0.002722
+ 6.  mark                | Impact: -0.002634
+ 7. ron                  | Impact: -0.002085
+ 8. ron                  | Impact: -0.001972
+ 9.  going               | Impact: -0.001497
+10.  point               | Impact: -0.001476
+11.  put                 | Impact: -0.001279
+12.  ec                  | Impact: -0.001239
+13.  ec                  | Impact: -0.001083
+14.  ec                  | Impact: -0.001018
+15.  ec                  | Impact: -0.001016
+16.  '                   | Impact: -0.000895
+17. ron                  | Impact: -0.000718
+18.  -                   | Impact: -0.000705
+19.  bea                 | Impact: -0.000680
+20.  next                | Impact: -0.000680

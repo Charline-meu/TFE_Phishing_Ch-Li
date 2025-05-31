@@ -1,0 +1,75 @@
+Sample 100
+==========
+
+Sample text preview: Per Mr. Steven Kean, of Enron Corp. please see below ( Appendix C - Order "Allegations of Public Utilities Exercising Transmission Dominance). APPENDI...
+
+Model prediction: [9.997807e-01 2.193471e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.003654 → LEGITIMATE
+ 2. ron                  | Impact: -0.003654 → LEGITIMATE
+ 3.  of                  | Impact: -0.001638 → LEGITIMATE
+ 4.  in                  | Impact: -0.000510 → LEGITIMATE
+ 5.  december            | Impact: -0.000510 → LEGITIMATE
+ 6.  ,                   | Impact: -0.000510 → LEGITIMATE
+ 7.  amp                 | Impact: -0.000510 → LEGITIMATE
+ 8.  -                   | Impact: -0.000510 → LEGITIMATE
+ 9.  ohio                | Impact: -0.000510 → LEGITIMATE
+10.  negotiated          | Impact: -0.000510 → LEGITIMATE
+11.  a                   | Impact: -0.000510 → LEGITIMATE
+12.  mw                  | Impact: -0.000510 → LEGITIMATE
+13.  purchase            | Impact: -0.000510 → LEGITIMATE
+14.  of                  | Impact: -0.000510 → LEGITIMATE
+15.  (                   | Impact: -0.000423 → LEGITIMATE
+16.  l                   | Impact: -0.000423 → LEGITIMATE
+17. g                    | Impact: -0.000423 → LEGITIMATE
+18.  &                   | Impact: -0.000423 → LEGITIMATE
+19.  e                   | Impact: -0.000423 → LEGITIMATE
+20.  )                   | Impact: -0.000423 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.                      | Impact: 0.000320
+ 2.  per                 | Impact: 0.000320
+ 3.  mr                  | Impact: 0.000320
+ 4.  .                   | Impact: 0.000320
+ 5.  either              | Impact: 0.000079
+ 6.  through             | Impact: 0.000079
+ 7.  refusal             | Impact: 0.000079
+ 8. s                    | Impact: 0.000079
+ 9.  to                  | Impact: 0.000079
+10.  wheel               | Impact: 0.000079
+11.  ,                   | Impact: 0.000079
+12.  dil                 | Impact: 0.000079
+13. atory                | Impact: 0.000079
+14.  pro                 | Impact: 0.000079
+15. tracted              | Impact: 0.000079
+16.  negotiations        | Impact: 0.000079
+17.  as                  | Impact: 0.000079
+18.  to                  | Impact: 0.000079
+19.  effectively         | Impact: 0.000079
+20.  deny                | Impact: 0.000079
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.003654
+ 2. ron                  | Impact: -0.003654
+ 3.  of                  | Impact: -0.001638
+ 4.  in                  | Impact: -0.000510
+ 5.  december            | Impact: -0.000510
+ 6.  ,                   | Impact: -0.000510
+ 7.  amp                 | Impact: -0.000510
+ 8.  -                   | Impact: -0.000510
+ 9.  ohio                | Impact: -0.000510
+10.  negotiated          | Impact: -0.000510
+11.  a                   | Impact: -0.000510
+12.  mw                  | Impact: -0.000510
+13.  purchase            | Impact: -0.000510
+14.  of                  | Impact: -0.000510
+15.  (                   | Impact: -0.000423
+16.  l                   | Impact: -0.000423
+17. g                    | Impact: -0.000423
+18.  &                   | Impact: -0.000423
+19.  e                   | Impact: -0.000423
+20.  )                   | Impact: -0.000423

@@ -1,0 +1,75 @@
+Sample 343
+==========
+
+Sample text preview: ( ) -------------------------------------------- Earn extra tickets to increase your chances! -------------------------------------------- The Cyber S...
+
+Model prediction: [9.9949694e-01 5.0303718e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  cyber               | Impact: -0.003787 → LEGITIMATE
+ 2.  security            | Impact: -0.003787 → LEGITIMATE
+ 3.  learning            | Impact: -0.003006 → LEGITIMATE
+ 4.  path                | Impact: -0.003006 → LEGITIMATE
+ 5.  (                   | Impact: -0.003006 → LEGITIMATE
+ 6.  )                   | Impact: -0.003006 → LEGITIMATE
+ 7.  the                 | Impact: -0.001645 → LEGITIMATE
+ 8.  new                 | Impact: -0.001645 → LEGITIMATE
+ 9.  to                  | Impact: 0.001499 → PHISHING
+10.  collect             | Impact: 0.001499 → PHISHING
+11.  red                 | Impact: 0.001478 → PHISHING
+12. eem                  | Impact: 0.001478 → PHISHING
+13.  ticket              | Impact: 0.001352 → PHISHING
+14.  to                  | Impact: 0.001352 → PHISHING
+15.  rooms               | Impact: 0.001336 → PHISHING
+16.  within              | Impact: 0.001336 → PHISHING
+17.  by                  | Impact: 0.001315 → PHISHING
+18.  completing          | Impact: 0.001315 → PHISHING
+19.  your                | Impact: 0.001182 → PHISHING
+20.  prize               | Impact: 0.001182 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.001499
+ 2.  collect             | Impact: 0.001499
+ 3.  red                 | Impact: 0.001478
+ 4. eem                  | Impact: 0.001478
+ 5.  ticket              | Impact: 0.001352
+ 6.  to                  | Impact: 0.001352
+ 7.  rooms               | Impact: 0.001336
+ 8.  within              | Impact: 0.001336
+ 9.  by                  | Impact: 0.001315
+10.  completing          | Impact: 0.001315
+11.  your                | Impact: 0.001182
+12.  prize               | Impact: 0.001182
+13.  .                   | Impact: 0.001061
+14.  you                 | Impact: 0.001039
+15.  need                | Impact: 0.001039
+16.  you                 | Impact: 0.000854
+17.  may                 | Impact: 0.000854
+18.  have                | Impact: 0.000540
+19.  noticed             | Impact: 0.000540
+20.  to                  | Impact: 0.000489
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  cyber               | Impact: -0.003787
+ 2.  security            | Impact: -0.003787
+ 3.  learning            | Impact: -0.003006
+ 4.  path                | Impact: -0.003006
+ 5.  (                   | Impact: -0.003006
+ 6.  )                   | Impact: -0.003006
+ 7.  the                 | Impact: -0.001645
+ 8.  new                 | Impact: -0.001645
+ 9.  -                   | Impact: -0.000602
+10.  -                   | Impact: -0.000602
+11.  -                   | Impact: -0.000602
+12.  -                   | Impact: -0.000602
+13.  here                | Impact: -0.000602
+14.  are                 | Impact: -0.000602
+15.  the                 | Impact: -0.000602
+16.  prizes              | Impact: -0.000602
+17.  available           | Impact: -0.000602
+18.  -                   | Impact: -0.000589
+19.  -                   | Impact: -0.000589
+20.  -                   | Impact: -0.000589

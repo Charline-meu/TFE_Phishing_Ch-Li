@@ -1,0 +1,75 @@
+Phishing Sample 4
+=================
+
+Sample text preview: OUR REF#:CM/U DATE:ND// Dear Sir/Madam, I am Mr. Leu Cheng,we are a group of business men who deal on import and export of raw materials into the MEXI...
+
+Model prediction: [1.8795578e-04 9.9981207e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.010797 → PHISHING
+ 2.  .                   | Impact: 0.010797 → PHISHING
+ 3.  best                | Impact: 0.010797 → PHISHING
+ 4.  regards             | Impact: 0.010797 → PHISHING
+ 5.  ,                   | Impact: 0.010797 → PHISHING
+ 6.  please              | Impact: 0.010243 → PHISHING
+ 7.  contact             | Impact: 0.010243 → PHISHING
+ 8.  your                | Impact: 0.009277 → PHISHING
+ 9.  full                | Impact: 0.009277 → PHISHING
+10.  name                | Impact: 0.009277 → PHISHING
+11.  .                   | Impact: 0.009277 → PHISHING
+12.  to                  | Impact: 0.007787 → PHISHING
+13.  hear                | Impact: 0.007787 → PHISHING
+14.  from                | Impact: 0.007787 → PHISHING
+15.  you                 | Impact: 0.007787 → PHISHING
+16.  soon                | Impact: 0.007787 → PHISHING
+17.  .                   | Impact: 0.007787 → PHISHING
+18.  we                  | Impact: 0.007372 → PHISHING
+19.  do                  | Impact: 0.007372 → PHISHING
+20.  sincerely           | Impact: 0.007372 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.010797
+ 2.  .                   | Impact: 0.010797
+ 3.  best                | Impact: 0.010797
+ 4.  regards             | Impact: 0.010797
+ 5.  ,                   | Impact: 0.010797
+ 6.  please              | Impact: 0.010243
+ 7.  contact             | Impact: 0.010243
+ 8.  your                | Impact: 0.009277
+ 9.  full                | Impact: 0.009277
+10.  name                | Impact: 0.009277
+11.  .                   | Impact: 0.009277
+12.  to                  | Impact: 0.007787
+13.  hear                | Impact: 0.007787
+14.  from                | Impact: 0.007787
+15.  you                 | Impact: 0.007787
+16.  soon                | Impact: 0.007787
+17.  .                   | Impact: 0.007787
+18.  we                  | Impact: 0.007372
+19.  do                  | Impact: 0.007372
+20.  sincerely           | Impact: 0.007372
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  review              | Impact: -0.003043
+ 2.  ,                   | Impact: -0.003043
+ 3.  re                  | Impact: -0.003043
+ 4. tra                  | Impact: -0.003043
+ 5. ns                   | Impact: -0.003043
+ 6. mission              | Impact: -0.003043
+ 7.  ,                   | Impact: -0.003043
+ 8.  entity              | Impact: -0.000629
+ 9.  to                  | Impact: -0.000629
+10.  which               | Impact: -0.000629
+11.  it                  | Impact: -0.000629
+12.  is                  | Impact: -0.000629
+13.  addressed           | Impact: -0.000629
+14.  and                 | Impact: -0.000629
+15.  .                   | Impact: -0.000445
+16.  .                   | Impact: -0.000445
+17.  .                   | Impact: -0.000445
+18.  (                   | Impact: -0.000445
+19.  s                   | Impact: -0.000445
+20.  )                   | Impact: -0.000445

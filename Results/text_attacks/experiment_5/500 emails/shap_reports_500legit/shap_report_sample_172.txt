@@ -1,0 +1,75 @@
+Sample 172
+==========
+
+Sample text preview: Judge denies television coverage of terror suspect Zacarias Moussaoui's trial. ABCNEWS.com: Up to the Moment, Up to You (tm) --- You received this mai...
+
+Model prediction: [0.98827505 0.01172499]
+Predicted class: LEGITIMATE with 0.9883 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  abc                 | Impact: -0.163271 → LEGITIMATE
+ 2.  abc                 | Impact: -0.065109 → LEGITIMATE
+ 3.  our                 | Impact: 0.054316 → PHISHING
+ 4.  zac                 | Impact: -0.050002 → LEGITIMATE
+ 5. s                    | Impact: -0.046894 → LEGITIMATE
+ 6.  log                 | Impact: 0.043803 → PHISHING
+ 7. ne                   | Impact: -0.042643 → LEGITIMATE
+ 8.  receiving           | Impact: 0.040356 → PHISHING
+ 9.  these               | Impact: 0.040356 → PHISHING
+10.  mail                | Impact: 0.039162 → PHISHING
+11. cent                 | Impact: 0.035304 → PHISHING
+12.  com                 | Impact: -0.032634 → LEGITIMATE
+13. aria                 | Impact: -0.031024 → LEGITIMATE
+14.  mail                | Impact: 0.030123 → PHISHING
+15. ings                 | Impact: 0.030123 → PHISHING
+16.  into                | Impact: 0.030041 → PHISHING
+17. ws                   | Impact: -0.029513 → LEGITIMATE
+18.  ,                   | Impact: 0.026807 → PHISHING
+19. ne                   | Impact: -0.025010 → LEGITIMATE
+20.  coverage            | Impact: -0.023522 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  our                 | Impact: 0.054316
+ 2.  log                 | Impact: 0.043803
+ 3.  receiving           | Impact: 0.040356
+ 4.  these               | Impact: 0.040356
+ 5.  mail                | Impact: 0.039162
+ 6. cent                 | Impact: 0.035304
+ 7.  mail                | Impact: 0.030123
+ 8. ings                 | Impact: 0.030123
+ 9.  into                | Impact: 0.030041
+10.  ,                   | Impact: 0.026807
+11.  to                  | Impact: 0.018341
+12.  stop                | Impact: 0.018341
+13.  you                 | Impact: 0.017992
+14.  .                   | Impact: 0.017397
+15.  .                   | Impact: 0.014601
+16.  respond             | Impact: 0.014239
+17.  you                 | Impact: 0.014046
+18.  trial               | Impact: 0.013885
+19.  mail                | Impact: 0.012142
+20.  up                  | Impact: 0.010263
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  abc                 | Impact: -0.163271
+ 2.  abc                 | Impact: -0.065109
+ 3.  zac                 | Impact: -0.050002
+ 4. s                    | Impact: -0.046894
+ 5. ne                   | Impact: -0.042643
+ 6.  com                 | Impact: -0.032634
+ 7. aria                 | Impact: -0.031024
+ 8. ws                   | Impact: -0.029513
+ 9. ne                   | Impact: -0.025010
+10.  coverage            | Impact: -0.023522
+11. ws                   | Impact: -0.021482
+12.  :                   | Impact: -0.016226
+13.  of                  | Impact: -0.011481
+14.  s                   | Impact: -0.008176
+15.  .                   | Impact: -0.007977
+16.  up                  | Impact: -0.007804
+17.  to                  | Impact: -0.007804
+18.  '                   | Impact: -0.006649
+19.  the                 | Impact: -0.006268
+20.  moment              | Impact: -0.006268

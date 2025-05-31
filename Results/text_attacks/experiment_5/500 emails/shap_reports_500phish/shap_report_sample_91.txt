@@ -1,0 +1,75 @@
+Sample 91
+=========
+
+Sample text preview: Dear Customer, The online account with us will be suspended. (reason: terms of service violation). Although the account is still active, the data may ...
+
+Model prediction: [2.545597e-04 9.997454e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.116033 → PHISHING
+ 2.  account             | Impact: 0.097201 → PHISHING
+ 3.  account             | Impact: 0.048669 → PHISHING
+ 4.  click               | Impact: 0.047201 → PHISHING
+ 5.  account             | Impact: 0.045669 → PHISHING
+ 6.  being               | Impact: 0.028172 → PHISHING
+ 7.  suspended           | Impact: 0.028172 → PHISHING
+ 8.  again               | Impact: 0.026700 → PHISHING
+ 9.  verify              | Impact: 0.025530 → PHISHING
+10.  records             | Impact: 0.025426 → PHISHING
+11.  customer            | Impact: 0.025394 → PHISHING
+12.  our                 | Impact: 0.024196 → PHISHING
+13.  please              | Impact: 0.023762 → PHISHING
+14.  the                 | Impact: 0.022830 → PHISHING
+15.  account             | Impact: 0.020217 → PHISHING
+16.  suspended           | Impact: 0.019954 → PHISHING
+17.  here                | Impact: 0.019297 → PHISHING
+18.  you                 | Impact: 0.018632 → PHISHING
+19.  deleted             | Impact: 0.017581 → PHISHING
+20.  access              | Impact: 0.016228 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.116033
+ 2.  account             | Impact: 0.097201
+ 3.  account             | Impact: 0.048669
+ 4.  click               | Impact: 0.047201
+ 5.  account             | Impact: 0.045669
+ 6.  being               | Impact: 0.028172
+ 7.  suspended           | Impact: 0.028172
+ 8.  again               | Impact: 0.026700
+ 9.  verify              | Impact: 0.025530
+10.  records             | Impact: 0.025426
+11.  customer            | Impact: 0.025394
+12.  our                 | Impact: 0.024196
+13.  please              | Impact: 0.023762
+14.  the                 | Impact: 0.022830
+15.  account             | Impact: 0.020217
+16.  suspended           | Impact: 0.019954
+17.  here                | Impact: 0.019297
+18.  you                 | Impact: 0.018632
+19.  deleted             | Impact: 0.017581
+20.  access              | Impact: 0.016228
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  if                  | Impact: -0.002548
+ 2.  you                 | Impact: -0.002548
+ 3.  ,                   | Impact: -0.002456
+ 4.  the                 | Impact: -0.002029
+ 5.  feel                | Impact: -0.001539
+ 6.  this                | Impact: -0.001539
+ 7.  .                   | Impact: -0.001293
+ 8.  ,                   | Impact: -0.000981
+ 9.  suspension          | Impact: -0.000816
+10.  is                  | Impact: -0.000816
+11.  an                  | Impact: -0.000816
+12.  error               | Impact: -0.000816
+13.  ,                   | Impact: -0.000816
+14.  .                   | Impact: -0.000267
+15.  thank               | Impact: -0.000251
+16.  you                 | Impact: -0.000251
+17.  ,                   | Impact: -0.000251
+18.  usa                 | Impact: -0.000251
+19. a                    | Impact: -0.000251
+20.  .                   | Impact: -0.000251

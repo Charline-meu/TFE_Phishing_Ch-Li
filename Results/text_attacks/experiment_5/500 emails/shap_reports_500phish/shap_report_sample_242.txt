@@ -1,0 +1,75 @@
+Sample 242
+==========
+
+Sample text preview: From: Mrs.Suzzan Sainovic My Dear, YOUR ASSISTANCE IS HIGHLY NEEDED I am very sure that this mail will bring lots of surprises and curiosity to you si...
+
+Model prediction: [1.5132665e-04 9.9984860e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mrs                 | Impact: 0.028471 → PHISHING
+ 2.  country             | Impact: 0.016610 → PHISHING
+ 3.  regards             | Impact: 0.014937 → PHISHING
+ 4.  in                  | Impact: 0.014149 → PHISHING
+ 5.  your                | Impact: 0.014149 → PHISHING
+ 6.  .                   | Impact: 0.012256 → PHISHING
+ 7.  name                | Impact: 0.011087 → PHISHING
+ 8.  the                 | Impact: 0.010475 → PHISHING
+ 9.  money               | Impact: 0.010475 → PHISHING
+10.  full                | Impact: 0.009715 → PHISHING
+11.  ,                   | Impact: 0.008395 → PHISHING
+12.  direct              | Impact: 0.008125 → PHISHING
+13.  email               | Impact: 0.008125 → PHISHING
+14.  address             | Impact: 0.008125 → PHISHING
+15.  your                | Impact: 0.007582 → PHISHING
+16.  age                 | Impact: 0.007582 → PHISHING
+17.  to                  | Impact: 0.007221 → PHISHING
+18.  my                  | Impact: 0.007221 → PHISHING
+19.  family              | Impact: 0.007221 → PHISHING
+20.  lawyer              | Impact: 0.007221 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mrs                 | Impact: 0.028471
+ 2.  country             | Impact: 0.016610
+ 3.  regards             | Impact: 0.014937
+ 4.  in                  | Impact: 0.014149
+ 5.  your                | Impact: 0.014149
+ 6.  .                   | Impact: 0.012256
+ 7.  name                | Impact: 0.011087
+ 8.  the                 | Impact: 0.010475
+ 9.  money               | Impact: 0.010475
+10.  full                | Impact: 0.009715
+11.  ,                   | Impact: 0.008395
+12.  direct              | Impact: 0.008125
+13.  email               | Impact: 0.008125
+14.  address             | Impact: 0.008125
+15.  your                | Impact: 0.007582
+16.  age                 | Impact: 0.007582
+17.  to                  | Impact: 0.007221
+18.  my                  | Impact: 0.007221
+19.  family              | Impact: 0.007221
+20.  lawyer              | Impact: 0.007221
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  status              | Impact: -0.006385
+ 2.  )                   | Impact: -0.006385
+ 3.  )                   | Impact: -0.005887
+ 4.  :                   | Impact: -0.005755
+ 5.                      | Impact: -0.005755
+ 6.  your                | Impact: -0.003258
+ 7.  nationality         | Impact: -0.003258
+ 8.  information         | Impact: -0.003040
+ 9. s                    | Impact: -0.003040
+10.  x                   | Impact: -0.002878
+11.  -                   | Impact: -0.002878
+12.  mail                | Impact: -0.002878
+13. er                   | Impact: -0.002878
+14.  :                   | Impact: -0.001845
+15.  )                   | Impact: -0.001845
+16.  con                 | Impact: -0.001313
+17. cede                 | Impact: -0.001313
+18.  up                  | Impact: -0.001313
+19.  to                  | Impact: -0.001313
+20.  i                   | Impact: -0.000788

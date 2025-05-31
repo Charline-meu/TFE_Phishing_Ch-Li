@@ -1,0 +1,75 @@
+Sample 438
+==========
+
+Sample text preview: Hello Dear. First I must solicit your strictest confidence in this transaction and I pray that my decision to contact you will be given genuine approv...
+
+Model prediction: [1.5035494e-04 9.9984968e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  regards             | Impact: 0.025993 → PHISHING
+ 2.  thanks              | Impact: 0.013525 → PHISHING
+ 3.  my                  | Impact: 0.011861 → PHISHING
+ 4.  family              | Impact: 0.011861 → PHISHING
+ 5.  mayo                | Impact: 0.011288 → PHISHING
+ 6. o                    | Impact: 0.011288 → PHISHING
+ 7.  father              | Impact: 0.010816 → PHISHING
+ 8.  was                 | Impact: 0.010816 → PHISHING
+ 9.  alive               | Impact: 0.010816 → PHISHING
+10.  was                 | Impact: 0.010101 → PHISHING
+11.  among               | Impact: 0.010101 → PHISHING
+12.  dear                | Impact: 0.008659 → PHISHING
+13.  foreign             | Impact: 0.008509 → PHISHING
+14.  assistance          | Impact: 0.008509 → PHISHING
+15.  for                 | Impact: 0.007429 → PHISHING
+16.  your                | Impact: 0.007429 → PHISHING
+17.  from                | Impact: 0.007297 → PHISHING
+18.  indonesia           | Impact: 0.007297 → PHISHING
+19.  contact             | Impact: 0.007127 → PHISHING
+20.  you                 | Impact: 0.007127 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.025993
+ 2.  thanks              | Impact: 0.013525
+ 3.  my                  | Impact: 0.011861
+ 4.  family              | Impact: 0.011861
+ 5.  mayo                | Impact: 0.011288
+ 6. o                    | Impact: 0.011288
+ 7.  father              | Impact: 0.010816
+ 8.  was                 | Impact: 0.010816
+ 9.  alive               | Impact: 0.010816
+10.  was                 | Impact: 0.010101
+11.  among               | Impact: 0.010101
+12.  dear                | Impact: 0.008659
+13.  foreign             | Impact: 0.008509
+14.  assistance          | Impact: 0.008509
+15.  for                 | Impact: 0.007429
+16.  your                | Impact: 0.007429
+17.  from                | Impact: 0.007297
+18.  indonesia           | Impact: 0.007297
+19.  contact             | Impact: 0.007127
+20.  you                 | Impact: 0.007127
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ,                   | Impact: -0.001476
+ 2.  approval            | Impact: -0.001306
+ 3.  considering         | Impact: -0.001306
+ 4.  the                 | Impact: -0.001306
+ 5.  facts               | Impact: -0.001306
+ 6.  and                 | Impact: -0.000866
+ 7.  sincere             | Impact: -0.000866
+ 8. r                    | Impact: -0.000866
+ 9.  before              | Impact: -0.000866
+10.  we                  | Impact: -0.000866
+11.  continue            | Impact: -0.000866
+12.  ,                   | Impact: -0.000866
+13.  .                   | Impact: -0.000863
+14.  we                  | Impact: -0.000846
+15.  shall               | Impact: -0.000846
+16.  talk                | Impact: -0.000846
+17.  more                | Impact: -0.000846
+18.  i                   | Impact: -0.000791
+19.  have                | Impact: -0.000791
+20.  all                 | Impact: -0.000791

@@ -1,0 +1,64 @@
+Sample 500
+==========
+
+Sample text preview: SoloCDM wrote: > Are there any mailing lists (non-newsgroups) for C++ and C Beginners > and Advanced programmers? Try the following newsgroups - Begin...
+
+Model prediction: [9.9980587e-01 1.9419502e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  maintain            | Impact: -0.014875 → LEGITIMATE
+ 2.  :                   | Impact: -0.014315 → LEGITIMATE
+ 3. er                   | Impact: -0.014119 → LEGITIMATE
+ 4.  list                | Impact: -0.007709 → LEGITIMATE
+ 5.  :                   | Impact: -0.007383 → LEGITIMATE
+ 6.  david               | Impact: -0.006747 → LEGITIMATE
+ 7.  linux               | Impact: -0.006506 → LEGITIMATE
+ 8.  -                   | Impact: -0.006278 → LEGITIMATE
+ 9.  -                   | Impact: -0.006020 → LEGITIMATE
+10.  dave                | Impact: -0.005451 → LEGITIMATE
+11.  ,                   | Impact: -0.004515 → LEGITIMATE
+12.  helps               | Impact: -0.004276 → LEGITIMATE
+13.  subscription        | Impact: -0.003726 → LEGITIMATE
+14.  users               | Impact: -0.003457 → LEGITIMATE
+15.  .                   | Impact: -0.003373 → LEGITIMATE
+16.  information         | Impact: -0.003005 → LEGITIMATE
+17.  suggested           | Impact: -0.002957 → LEGITIMATE
+18.  reading             | Impact: -0.002261 → LEGITIMATE
+19.  -                   | Impact: -0.002224 → LEGITIMATE
+20.  .                   | Impact: -0.002154 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mail                | Impact: 0.001191
+ 2.  -                   | Impact: 0.000661
+ 3.  france              | Impact: 0.000458
+ 4.  and                 | Impact: 0.000253
+ 5.  also                | Impact: 0.000124
+ 6.                      | Impact: 0.000068
+ 7.  solo                | Impact: 0.000068
+ 8. cd                   | Impact: 0.000068
+ 9. m                    | Impact: 0.000068
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  maintain            | Impact: -0.014875
+ 2.  :                   | Impact: -0.014315
+ 3. er                   | Impact: -0.014119
+ 4.  list                | Impact: -0.007709
+ 5.  :                   | Impact: -0.007383
+ 6.  david               | Impact: -0.006747
+ 7.  linux               | Impact: -0.006506
+ 8.  -                   | Impact: -0.006278
+ 9.  -                   | Impact: -0.006020
+10.  dave                | Impact: -0.005451
+11.  ,                   | Impact: -0.004515
+12.  helps               | Impact: -0.004276
+13.  subscription        | Impact: -0.003726
+14.  users               | Impact: -0.003457
+15.  .                   | Impact: -0.003373
+16.  information         | Impact: -0.003005
+17.  suggested           | Impact: -0.002957
+18.  reading             | Impact: -0.002261
+19.  -                   | Impact: -0.002224
+20.  .                   | Impact: -0.002154

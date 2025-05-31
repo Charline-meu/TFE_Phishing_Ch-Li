@@ -1,0 +1,63 @@
+Phishing Sample 18
+==================
+
+Sample text preview: Dear Friend, My name is Mr. Micheal Ipenza, I am an auditor in Standard Bank of South Africa . I am contacting you of a business transfer, of a huge s...
+
+Model prediction: [1.6119544e-04 9.9983883e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ben                 | Impact: 0.012318 → PHISHING
+ 2. ef                   | Impact: 0.012318 → PHISHING
+ 3. icia                 | Impact: 0.012318 → PHISHING
+ 4. ries                 | Impact: 0.012318 → PHISHING
+ 5.  .                   | Impact: 0.012318 → PHISHING
+ 6.  to                  | Impact: 0.008515 → PHISHING
+ 7.  your                | Impact: 0.008515 → PHISHING
+ 8.  overseas            | Impact: 0.008515 → PHISHING
+ 9.  account             | Impact: 0.008515 → PHISHING
+10.  ,                   | Impact: 0.008515 → PHISHING
+11.  to                  | Impact: 0.007470 → PHISHING
+12.  locate              | Impact: 0.007470 → PHISHING
+13.  any                 | Impact: 0.007470 → PHISHING
+14.  of                  | Impact: 0.007470 → PHISHING
+15.  the                 | Impact: 0.007470 → PHISHING
+16.  deceased            | Impact: 0.007470 → PHISHING
+17.  the                 | Impact: 0.006053 → PHISHING
+18.  funds               | Impact: 0.006053 → PHISHING
+19.  in                  | Impact: 0.006053 → PHISHING
+20.  your                | Impact: 0.006053 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ben                 | Impact: 0.012318
+ 2. ef                   | Impact: 0.012318
+ 3. icia                 | Impact: 0.012318
+ 4. ries                 | Impact: 0.012318
+ 5.  .                   | Impact: 0.012318
+ 6.  to                  | Impact: 0.008515
+ 7.  your                | Impact: 0.008515
+ 8.  overseas            | Impact: 0.008515
+ 9.  account             | Impact: 0.008515
+10.  ,                   | Impact: 0.008515
+11.  to                  | Impact: 0.007470
+12.  locate              | Impact: 0.007470
+13.  any                 | Impact: 0.007470
+14.  of                  | Impact: 0.007470
+15.  the                 | Impact: 0.007470
+16.  deceased            | Impact: 0.007470
+17.  the                 | Impact: 0.006053
+18.  funds               | Impact: 0.006053
+19.  in                  | Impact: 0.006053
+20.  your                | Impact: 0.006053
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  in                  | Impact: -0.000160
+ 2.  order               | Impact: -0.000160
+ 3.  for                 | Impact: -0.000160
+ 4.  me                  | Impact: -0.000160
+ 5.  to                  | Impact: -0.000160
+ 6.  prepare             | Impact: -0.000160
+ 7.  the                 | Impact: -0.000160
+ 8.  paper               | Impact: -0.000160

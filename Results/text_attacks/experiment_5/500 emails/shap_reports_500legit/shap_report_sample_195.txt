@@ -1,0 +1,60 @@
+Sample 195
+==========
+
+Sample text preview: Niall asked: > I have about G of data which I need to copy from one disk to another. > However, I'm not sure how I should best copy it. The problem is...
+
+Model prediction: [9.996061e-01 3.939844e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  need                | Impact: -0.008961 → LEGITIMATE
+ 2.  >                   | Impact: -0.007888 → LEGITIMATE
+ 3.  maintain            | Impact: -0.007667 → LEGITIMATE
+ 4.  though              | Impact: -0.007455 → LEGITIMATE
+ 5. er                   | Impact: -0.007442 → LEGITIMATE
+ 6.  .                   | Impact: -0.006570 → LEGITIMATE
+ 7.  :                   | Impact: -0.006531 → LEGITIMATE
+ 8.  flags               | Impact: -0.006414 → LEGITIMATE
+ 9.  as                  | Impact: -0.006414 → LEGITIMATE
+10.  subscription        | Impact: -0.006318 → LEGITIMATE
+11.  .                   | Impact: -0.005925 → LEGITIMATE
+12.  list                | Impact: -0.005633 → LEGITIMATE
+13.  may                 | Impact: -0.005590 → LEGITIMATE
+14.  :                   | Impact: -0.005563 → LEGITIMATE
+15.  well                | Impact: -0.005289 → LEGITIMATE
+16.  you                 | Impact: -0.005276 → LEGITIMATE
+17.  tested              | Impact: -0.004892 → LEGITIMATE
+18.  information         | Impact: -0.004683 → LEGITIMATE
+19.  not                 | Impact: -0.004409 → LEGITIMATE
+20.  >                   | Impact: -0.004222 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.001173
+ 2.  have                | Impact: 0.000207
+ 3.  two                 | Impact: 0.000207
+ 4.  e                   | Impact: 0.000174
+ 5.  .                   | Impact: 0.000174
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  need                | Impact: -0.008961
+ 2.  >                   | Impact: -0.007888
+ 3.  maintain            | Impact: -0.007667
+ 4.  though              | Impact: -0.007455
+ 5. er                   | Impact: -0.007442
+ 6.  .                   | Impact: -0.006570
+ 7.  :                   | Impact: -0.006531
+ 8.  flags               | Impact: -0.006414
+ 9.  as                  | Impact: -0.006414
+10.  subscription        | Impact: -0.006318
+11.  .                   | Impact: -0.005925
+12.  list                | Impact: -0.005633
+13.  may                 | Impact: -0.005590
+14.  :                   | Impact: -0.005563
+15.  well                | Impact: -0.005289
+16.  you                 | Impact: -0.005276
+17.  tested              | Impact: -0.004892
+18.  information         | Impact: -0.004683
+19.  not                 | Impact: -0.004409
+20.  >                   | Impact: -0.004222

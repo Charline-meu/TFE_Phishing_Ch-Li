@@ -1,0 +1,69 @@
+Sample 124
+==========
+
+Sample text preview: how is everything going? what are you and al doing this weekend? that is pretty funny. i am glad you didn't put me in to the pic.
+
+Model prediction: [0.9989969 0.0010031]
+Predicted class: LEGITIMATE with 0.9990 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  pic                 | Impact: -0.049521 → LEGITIMATE
+ 2.  you                 | Impact: 0.049260 → PHISHING
+ 3.  weekend             | Impact: -0.039574 → LEGITIMATE
+ 4.  didn                | Impact: 0.034255 → PHISHING
+ 5.  to                  | Impact: 0.031210 → PHISHING
+ 6.  in                  | Impact: 0.028839 → PHISHING
+ 7.  glad                | Impact: -0.026407 → LEGITIMATE
+ 8.  al                  | Impact: -0.026333 → LEGITIMATE
+ 9.  .                   | Impact: 0.026140 → PHISHING
+10.  '                   | Impact: 0.025509 → PHISHING
+11.  doing               | Impact: -0.013051 → LEGITIMATE
+12.  t                   | Impact: -0.011794 → LEGITIMATE
+13.  am                  | Impact: -0.010502 → LEGITIMATE
+14.  what                | Impact: -0.009929 → LEGITIMATE
+15.  everything          | Impact: -0.009376 → LEGITIMATE
+16.  going               | Impact: -0.008545 → LEGITIMATE
+17.  funny               | Impact: -0.007887 → LEGITIMATE
+18.  i                   | Impact: 0.006956 → PHISHING
+19.  the                 | Impact: -0.006584 → LEGITIMATE
+20.  .                   | Impact: 0.005896 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.049260
+ 2.  didn                | Impact: 0.034255
+ 3.  to                  | Impact: 0.031210
+ 4.  in                  | Impact: 0.028839
+ 5.  .                   | Impact: 0.026140
+ 6.  '                   | Impact: 0.025509
+ 7.  i                   | Impact: 0.006956
+ 8.  .                   | Impact: 0.005896
+ 9.  and                 | Impact: 0.003937
+10.  ?                   | Impact: 0.003880
+11.  ?                   | Impact: 0.003605
+12.  is                  | Impact: 0.001112
+13.  are                 | Impact: 0.000802
+14.                      | Impact: 0.000055
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  pic                 | Impact: -0.049521
+ 2.  weekend             | Impact: -0.039574
+ 3.  glad                | Impact: -0.026407
+ 4.  al                  | Impact: -0.026333
+ 5.  doing               | Impact: -0.013051
+ 6.  t                   | Impact: -0.011794
+ 7.  am                  | Impact: -0.010502
+ 8.  what                | Impact: -0.009929
+ 9.  everything          | Impact: -0.009376
+10.  going               | Impact: -0.008545
+11.  funny               | Impact: -0.007887
+12.  the                 | Impact: -0.006584
+13.  me                  | Impact: -0.005579
+14.  you                 | Impact: -0.005281
+15.  that                | Impact: -0.004475
+16.  put                 | Impact: -0.002742
+17.  is                  | Impact: -0.002242
+18.  how                 | Impact: -0.001967
+19.  pretty              | Impact: -0.000967
+20.  this                | Impact: -0.000084

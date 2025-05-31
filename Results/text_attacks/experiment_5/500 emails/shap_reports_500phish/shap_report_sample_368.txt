@@ -1,0 +1,75 @@
+Sample 368
+==========
+
+Sample text preview: WALTERS COMPANY FROM THE OFFICE OF THE MANAGER, WALTERS GATE COMPANY, IMPORT AND EXPORT, WORLD TRADE CENTER, LONDON, ENGLAND. Dear Sir/Madam, JOB OFFE...
+
+Model prediction: [2.0154075e-04 9.9979848e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.063368 → PHISHING
+ 2.  dear                | Impact: 0.035235 → PHISHING
+ 3.  sir                 | Impact: 0.034490 → PHISHING
+ 4.  madam               | Impact: 0.031921 → PHISHING
+ 5.  /                   | Impact: 0.022529 → PHISHING
+ 6.  for                 | Impact: 0.009264 → PHISHING
+ 7.  a                   | Impact: 0.009264 → PHISHING
+ 8.  representative      | Impact: 0.009264 → PHISHING
+ 9.  company             | Impact: 0.009204 → PHISHING
+10.  job                 | Impact: 0.009076 → PHISHING
+11.  offer               | Impact: 0.009076 → PHISHING
+12.  ,                   | Impact: 0.008585 → PHISHING
+13.  goods               | Impact: 0.007357 → PHISHING
+14.  to                  | Impact: 0.007357 → PHISHING
+15.  their               | Impact: 0.007357 → PHISHING
+16.  various             | Impact: 0.007357 → PHISHING
+17.  owners              | Impact: 0.007357 → PHISHING
+18.  date                | Impact: 0.007212 → PHISHING
+19.  of                  | Impact: 0.007212 → PHISHING
+20.  birth               | Impact: 0.007212 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.063368
+ 2.  dear                | Impact: 0.035235
+ 3.  sir                 | Impact: 0.034490
+ 4.  madam               | Impact: 0.031921
+ 5.  /                   | Impact: 0.022529
+ 6.  for                 | Impact: 0.009264
+ 7.  a                   | Impact: 0.009264
+ 8.  representative      | Impact: 0.009264
+ 9.  company             | Impact: 0.009204
+10.  job                 | Impact: 0.009076
+11.  offer               | Impact: 0.009076
+12.  ,                   | Impact: 0.008585
+13.  goods               | Impact: 0.007357
+14.  to                  | Impact: 0.007357
+15.  their               | Impact: 0.007357
+16.  various             | Impact: 0.007357
+17.  owners              | Impact: 0.007357
+18.  date                | Impact: 0.007212
+19.  of                  | Impact: 0.007212
+20.  birth               | Impact: 0.007212
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  walter              | Impact: -0.003030
+ 2.  gate                | Impact: -0.003030
+ 3.  .                   | Impact: -0.003030
+ 4.  supply              | Impact: -0.002310
+ 5.  materials           | Impact: -0.002310
+ 6.  for                 | Impact: -0.002310
+ 7.  we                  | Impact: -0.002310
+ 8.  also                | Impact: -0.002310
+ 9.  bore                | Impact: -0.002038
+10. hole                 | Impact: -0.002038
+11.  construction        | Impact: -0.002038
+12.  into                | Impact: -0.002038
+13.  america             | Impact: -0.002038
+14.  general             | Impact: -0.001337
+15.  servicing           | Impact: -0.001337
+16.  .                   | Impact: -0.001337
+17.  construction        | Impact: -0.001227
+18.  and                 | Impact: -0.001227
+19.  year                | Impact: -0.001031
+20.  of                  | Impact: -0.001031

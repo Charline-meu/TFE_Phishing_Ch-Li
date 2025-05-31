@@ -1,0 +1,75 @@
+Sample 316
+==========
+
+Sample text preview: > > Thought this was funny. > In the slashdot thread about > EW Dijkstra passing away on > tuesday, there was: > > GOTO Heaven > Re:GOTO Heaven > I'll...
+
+Model prediction: [9.9977618e-01 2.2383405e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  syntax              | Impact: -0.005325 → LEGITIMATE
+ 2.  maintain            | Impact: -0.004784 → LEGITIMATE
+ 3.  >                   | Impact: -0.004553 → LEGITIMATE
+ 4.  >                   | Impact: -0.004156 → LEGITIMATE
+ 5.  >                   | Impact: -0.004137 → LEGITIMATE
+ 6.  linux               | Impact: -0.004020 → LEGITIMATE
+ 7.  >                   | Impact: -0.003963 → LEGITIMATE
+ 8.  :                   | Impact: -0.003840 → LEGITIMATE
+ 9.  join                | Impact: -0.003838 → LEGITIMATE
+10.  might               | Impact: -0.003747 → LEGITIMATE
+11.  >                   | Impact: -0.003406 → LEGITIMATE
+12.  interesting         | Impact: -0.003239 → LEGITIMATE
+13.  >                   | Impact: -0.003190 → LEGITIMATE
+14.  funny               | Impact: -0.003138 → LEGITIMATE
+15.  >                   | Impact: -0.003027 → LEGITIMATE
+16.  >                   | Impact: -0.002877 → LEGITIMATE
+17.  .                   | Impact: -0.002796 → LEGITIMATE
+18.  >                   | Impact: -0.002620 → LEGITIMATE
+19.  list                | Impact: -0.002608 → LEGITIMATE
+20.  .                   | Impact: -0.002420 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  heaven              | Impact: 0.000975
+ 2.  i                   | Impact: 0.000415
+ 3.  '                   | Impact: 0.000415
+ 4.  ve                  | Impact: 0.000415
+ 5.  always              | Impact: 0.000415
+ 6.  sad                 | Impact: 0.000334
+ 7.  to                  | Impact: 0.000334
+ 8.  and                 | Impact: 0.000304
+ 9.  i                   | Impact: 0.000261
+10.  '                   | Impact: 0.000261
+11.  m                   | Impact: 0.000261
+12.  really              | Impact: 0.000261
+13.  crying              | Impact: 0.000158
+14.  you                 | Impact: 0.000158
+15.  to                  | Impact: 0.000118
+16.  i                   | Impact: 0.000118
+17.  '                   | Impact: 0.000118
+18.  m                   | Impact: 0.000118
+19.  only                | Impact: 0.000118
+20.  heaven              | Impact: 0.000109
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  syntax              | Impact: -0.005325
+ 2.  maintain            | Impact: -0.004784
+ 3.  >                   | Impact: -0.004553
+ 4.  >                   | Impact: -0.004156
+ 5.  >                   | Impact: -0.004137
+ 6.  linux               | Impact: -0.004020
+ 7.  >                   | Impact: -0.003963
+ 8.  :                   | Impact: -0.003840
+ 9.  join                | Impact: -0.003838
+10.  might               | Impact: -0.003747
+11.  >                   | Impact: -0.003406
+12.  interesting         | Impact: -0.003239
+13.  >                   | Impact: -0.003190
+14.  funny               | Impact: -0.003138
+15.  >                   | Impact: -0.003027
+16.  >                   | Impact: -0.002877
+17.  .                   | Impact: -0.002796
+18.  >                   | Impact: -0.002620
+19.  list                | Impact: -0.002608
+20.  .                   | Impact: -0.002420

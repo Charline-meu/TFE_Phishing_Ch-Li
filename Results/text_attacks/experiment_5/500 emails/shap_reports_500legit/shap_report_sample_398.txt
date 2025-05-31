@@ -1,0 +1,75 @@
+Sample 398
+==========
+
+Sample text preview: On Sep , Richard Bartlett wrote: Richard, > I have a customer who is developing some printer driver code to allow > custom driver settings (n-up, book...
+
+Model prediction: [9.9972874e-01 2.7122471e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bartlett            | Impact: -0.005784 → LEGITIMATE
+ 2.  richard             | Impact: -0.005507 → LEGITIMATE
+ 3.  richard             | Impact: -0.005400 → LEGITIMATE
+ 4.  wrote               | Impact: -0.004303 → LEGITIMATE
+ 5.  effects             | Impact: -0.003747 → LEGITIMATE
+ 6.  printer             | Impact: -0.003537 → LEGITIMATE
+ 7.  driver              | Impact: -0.003532 → LEGITIMATE
+ 8.  saved               | Impact: 0.003010 → PHISHING
+ 9.  :                   | Impact: -0.002725 → LEGITIMATE
+10.  some                | Impact: -0.002334 → LEGITIMATE
+11.  du                  | Impact: 0.002092 → PHISHING
+12. plex                 | Impact: 0.002092 → PHISHING
+13.  etc                 | Impact: 0.002092 → PHISHING
+14.  sep                 | Impact: -0.002053 → LEGITIMATE
+15.  developing          | Impact: 0.001987 → PHISHING
+16.  booklet             | Impact: 0.001934 → PHISHING
+17.  ,                   | Impact: 0.001934 → PHISHING
+18.  driver              | Impact: -0.001920 → LEGITIMATE
+19.  settings            | Impact: -0.001920 → LEGITIMATE
+20.  code                | Impact: -0.001911 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  saved               | Impact: 0.003010
+ 2.  du                  | Impact: 0.002092
+ 3. plex                 | Impact: 0.002092
+ 4.  etc                 | Impact: 0.002092
+ 5.  developing          | Impact: 0.001987
+ 6.  booklet             | Impact: 0.001934
+ 7.  ,                   | Impact: 0.001934
+ 8.  .                   | Impact: 0.001816
+ 9.  is                  | Impact: 0.001758
+10.  up                  | Impact: 0.001717
+11.  to                  | Impact: 0.001288
+12.  be                  | Impact: 0.001288
+13.  customer            | Impact: 0.001188
+14.  who                 | Impact: 0.001188
+15.  retrieved           | Impact: 0.001167
+16.  by                  | Impact: 0.001167
+17.  ,                   | Impact: 0.001054
+18.  other               | Impact: 0.000992
+19.  users               | Impact: 0.000992
+20.  ,                   | Impact: 0.000876
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  bartlett            | Impact: -0.005784
+ 2.  richard             | Impact: -0.005507
+ 3.  richard             | Impact: -0.005400
+ 4.  wrote               | Impact: -0.004303
+ 5.  effects             | Impact: -0.003747
+ 6.  printer             | Impact: -0.003537
+ 7.  driver              | Impact: -0.003532
+ 8.  :                   | Impact: -0.002725
+ 9.  some                | Impact: -0.002334
+10.  sep                 | Impact: -0.002053
+11.  driver              | Impact: -0.001920
+12.  settings            | Impact: -0.001920
+13.  code                | Impact: -0.001911
+14.  >                   | Impact: -0.001102
+15.  if                  | Impact: -0.000979
+16.  anyone              | Impact: -0.000979
+17.  can                 | Impact: -0.000979
+18.  modify              | Impact: -0.000979
+19.  anyone              | Impact: -0.000957
+20.  can                 | Impact: -0.000957

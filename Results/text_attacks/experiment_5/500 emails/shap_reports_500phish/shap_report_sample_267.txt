@@ -1,0 +1,75 @@
+Sample 267
+==========
+
+Sample text preview: FROM MISS Vivian Mutan LIBERIAN Dearest Beloved one, Based on your profile, l am happy to request for your assistance and also to go into business par...
+
+Model prediction: [1.7824378e-04 9.9982184e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mu                  | Impact: 0.010909 → PHISHING
+ 2. tan                  | Impact: 0.010909 → PHISHING
+ 3.                      | Impact: 0.010909 → PHISHING
+ 4.  miss                | Impact: 0.010909 → PHISHING
+ 5.  vivian              | Impact: 0.010909 → PHISHING
+ 6.  business            | Impact: 0.010262 → PHISHING
+ 7.  partnership         | Impact: 0.010262 → PHISHING
+ 8.  with                | Impact: 0.010262 → PHISHING
+ 9.  you                 | Impact: 0.010262 → PHISHING
+10.  my                  | Impact: 0.009376 → PHISHING
+11.  sincere             | Impact: 0.009376 → PHISHING
+12.  regards             | Impact: 0.009376 → PHISHING
+13.  ,                   | Impact: 0.009376 → PHISHING
+14.  sir                 | Impact: 0.009249 → PHISHING
+15.  ,                   | Impact: 0.009249 → PHISHING
+16.  dear                | Impact: 0.008718 → PHISHING
+17. est                  | Impact: 0.008718 → PHISHING
+18.  beloved             | Impact: 0.008718 → PHISHING
+19.  one                 | Impact: 0.008718 → PHISHING
+20.  mu                  | Impact: 0.008120 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mu                  | Impact: 0.010909
+ 2. tan                  | Impact: 0.010909
+ 3.                      | Impact: 0.010909
+ 4.  miss                | Impact: 0.010909
+ 5.  vivian              | Impact: 0.010909
+ 6.  business            | Impact: 0.010262
+ 7.  partnership         | Impact: 0.010262
+ 8.  with                | Impact: 0.010262
+ 9.  you                 | Impact: 0.010262
+10.  my                  | Impact: 0.009376
+11.  sincere             | Impact: 0.009376
+12.  regards             | Impact: 0.009376
+13.  ,                   | Impact: 0.009376
+14.  sir                 | Impact: 0.009249
+15.  ,                   | Impact: 0.009249
+16.  dear                | Impact: 0.008718
+17. est                  | Impact: 0.008718
+18.  beloved             | Impact: 0.008718
+19.  one                 | Impact: 0.008718
+20.  mu                  | Impact: 0.008120
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  feb                 | Impact: -0.004244
+ 2. uary                 | Impact: -0.004244
+ 3.  have                | Impact: -0.002337
+ 4.  suffered            | Impact: -0.002337
+ 5.  a                   | Impact: -0.002337
+ 6.  lot                 | Impact: -0.002337
+ 7.  .                   | Impact: -0.002245
+ 8.  will                | Impact: -0.002093
+ 9.  not                 | Impact: -0.002093
+10.  beta                | Impact: -0.001513
+11. ry                   | Impact: -0.001513
+12. ed                   | Impact: -0.001513
+13.  based               | Impact: -0.001222
+14.  on                  | Impact: -0.001222
+15.  your                | Impact: -0.001222
+16.  profile             | Impact: -0.001222
+17.  ,                   | Impact: -0.001222
+18.  (                   | Impact: -0.001132
+19.  usd                 | Impact: -0.001132
+20.  $                   | Impact: -0.001132

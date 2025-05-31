@@ -1,0 +1,75 @@
+Sample 287
+==========
+
+Sample text preview: Jeff: I am glad to see that you are finally working on getting educated! I am also trying to finish my last three units. I started in ...long story. H...
+
+Model prediction: [9.997038e-01 2.961674e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  we                  | Impact: 0.001457 → PHISHING
+ 2.  '                   | Impact: 0.001457 → PHISHING
+ 3.  friday              | Impact: -0.001446 → LEGITIMATE
+ 4.  afternoon           | Impact: -0.001446 → LEGITIMATE
+ 5.  .                   | Impact: -0.001446 → LEGITIMATE
+ 6.  wait                | Impact: -0.001323 → LEGITIMATE
+ 7. list                 | Impact: -0.001323 → LEGITIMATE
+ 8.  status              | Impact: -0.001323 → LEGITIMATE
+ 9.  each                | Impact: -0.001323 → LEGITIMATE
+10.  d                   | Impact: 0.001050 → PHISHING
+11.  also                | Impact: 0.001050 → PHISHING
+12.  the                 | Impact: -0.000757 → LEGITIMATE
+13.  textbooks           | Impact: -0.000757 → LEGITIMATE
+14.  /                   | Impact: -0.000757 → LEGITIMATE
+15.  readers             | Impact: -0.000757 → LEGITIMATE
+16.  for                 | Impact: -0.000748 → LEGITIMATE
+17.  any                 | Impact: -0.000748 → LEGITIMATE
+18.  course              | Impact: -0.000748 → LEGITIMATE
+19.  ,                   | Impact: -0.000748 → LEGITIMATE
+20.  wait                | Impact: -0.000748 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  we                  | Impact: 0.001457
+ 2.  '                   | Impact: 0.001457
+ 3.  d                   | Impact: 0.001050
+ 4.  also                | Impact: 0.001050
+ 5.  like                | Impact: 0.000606
+ 6.  you                 | Impact: 0.000606
+ 7.  to                  | Impact: 0.000606
+ 8.  fill                | Impact: 0.000606
+ 9.  student             | Impact: 0.000509
+10.  who                 | Impact: 0.000509
+11.  wants               | Impact: 0.000509
+12.  to                  | Impact: 0.000509
+13.  )                   | Impact: 0.000355
+14.  try                 | Impact: 0.000307
+15.  to                  | Impact: 0.000307
+16.  find                | Impact: 0.000307
+17.  another             | Impact: 0.000307
+18.  other               | Impact: 0.000293
+19.  contact             | Impact: 0.000293
+20.  information         | Impact: 0.000293
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  friday              | Impact: -0.001446
+ 2.  afternoon           | Impact: -0.001446
+ 3.  .                   | Impact: -0.001446
+ 4.  wait                | Impact: -0.001323
+ 5. list                 | Impact: -0.001323
+ 6.  status              | Impact: -0.001323
+ 7.  each                | Impact: -0.001323
+ 8.  the                 | Impact: -0.000757
+ 9.  textbooks           | Impact: -0.000757
+10.  /                   | Impact: -0.000757
+11.  readers             | Impact: -0.000757
+12.  for                 | Impact: -0.000748
+13.  any                 | Impact: -0.000748
+14.  course              | Impact: -0.000748
+15.  ,                   | Impact: -0.000748
+16.  wait                | Impact: -0.000748
+17. list                 | Impact: -0.000748
+18.  i                   | Impact: -0.000743
+19.  '                   | Impact: -0.000743
+20.  ll                  | Impact: -0.000743

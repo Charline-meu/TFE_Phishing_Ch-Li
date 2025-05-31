@@ -1,0 +1,69 @@
+Phishing Sample 11
+==================
+
+Sample text preview: Dear jose, You have some incoming messages that are placed on hold on Emaii server. Kindly RE-ACTIVATE your account below to retrievee incoming messag...
+
+Model prediction: [1.717914e-04 9.998282e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.104778 → PHISHING
+ 2.  retrieve            | Impact: 0.082028 → PHISHING
+ 3.  org                 | Impact: 0.075734 → PHISHING
+ 4.  below               | Impact: 0.074684 → PHISHING
+ 5.  monkey              | Impact: 0.053163 → PHISHING
+ 6.  button              | Impact: 0.048838 → PHISHING
+ 7.  your                | Impact: 0.047334 → PHISHING
+ 8.  account             | Impact: 0.045279 → PHISHING
+ 9.  kindly              | Impact: 0.034500 → PHISHING
+10.  .                   | Impact: 0.030743 → PHISHING
+11.  emails              | Impact: 0.030664 → PHISHING
+12.  placed              | Impact: 0.026791 → PHISHING
+13.  activate            | Impact: 0.025140 → PHISHING
+14.  retrieve            | Impact: 0.023769 → PHISHING
+15.  ad                  | Impact: -0.021751 → LEGITIMATE
+16.  use                 | Impact: 0.021460 → PHISHING
+17.  below               | Impact: 0.020407 → PHISHING
+18.  administrator       | Impact: 0.020010 → PHISHING
+19.  team                | Impact: 0.018299 → PHISHING
+20.  jose                | Impact: 0.017026 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.104778
+ 2.  retrieve            | Impact: 0.082028
+ 3.  org                 | Impact: 0.075734
+ 4.  below               | Impact: 0.074684
+ 5.  monkey              | Impact: 0.053163
+ 6.  button              | Impact: 0.048838
+ 7.  your                | Impact: 0.047334
+ 8.  account             | Impact: 0.045279
+ 9.  kindly              | Impact: 0.034500
+10.  .                   | Impact: 0.030743
+11.  emails              | Impact: 0.030664
+12.  placed              | Impact: 0.026791
+13.  activate            | Impact: 0.025140
+14.  retrieve            | Impact: 0.023769
+15.  use                 | Impact: 0.021460
+16.  below               | Impact: 0.020407
+17.  administrator       | Impact: 0.020010
+18.  team                | Impact: 0.018299
+19.  jose                | Impact: 0.017026
+20.  are                 | Impact: 0.015285
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ad                  | Impact: -0.021751
+ 2. min                  | Impact: -0.008716
+ 3.  the                 | Impact: -0.007217
+ 4.  )                   | Impact: -0.007072
+ 5.  .                   | Impact: -0.005929
+ 6.  issue               | Impact: -0.005342
+ 7.  a                   | Impact: -0.001669
+ 8.  server              | Impact: -0.001669
+ 9.  to                  | Impact: -0.001498
+10.  .                   | Impact: -0.001488
+11.  that                | Impact: -0.001469
+12.  ,                   | Impact: -0.000722
+13.  some                | Impact: -0.000635
+14.  -                   | Impact: -0.000007

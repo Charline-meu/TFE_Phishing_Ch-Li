@@ -1,0 +1,75 @@
+Sample 158
+==========
+
+Sample text preview: Greetings Dear Friend Please Permit me to contact you through this medium. I am Barrister Tunji Bello, a solicitor at-law. I was the personal attorney...
+
+Model prediction: [1.5837836e-04 9.9984157e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.022115 → PHISHING
+ 2.  friend              | Impact: 0.022115 → PHISHING
+ 3.  i                   | Impact: 0.011134 → PHISHING
+ 4.  have                | Impact: 0.011134 → PHISHING
+ 5.  contacted           | Impact: 0.011134 → PHISHING
+ 6.  you                 | Impact: 0.011134 → PHISHING
+ 7.  contact             | Impact: 0.010342 → PHISHING
+ 8.  you                 | Impact: 0.010342 → PHISHING
+ 9.  to                  | Impact: 0.008889 → PHISHING
+10.  his                 | Impact: 0.008889 → PHISHING
+11.  embassy             | Impact: 0.008889 → PHISHING
+12.  to                  | Impact: 0.008889 → PHISHING
+13.  barrister           | Impact: 0.008794 → PHISHING
+14.  tun                 | Impact: 0.008794 → PHISHING
+15. ji                   | Impact: 0.008794 → PHISHING
+16.  here                | Impact: 0.007744 → PHISHING
+17.  company             | Impact: 0.007322 → PHISHING
+18.  attorney            | Impact: 0.006549 → PHISHING
+19.  to                  | Impact: 0.006549 → PHISHING
+20.  locate              | Impact: 0.006234 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.022115
+ 2.  friend              | Impact: 0.022115
+ 3.  i                   | Impact: 0.011134
+ 4.  have                | Impact: 0.011134
+ 5.  contacted           | Impact: 0.011134
+ 6.  you                 | Impact: 0.011134
+ 7.  contact             | Impact: 0.010342
+ 8.  you                 | Impact: 0.010342
+ 9.  to                  | Impact: 0.008889
+10.  his                 | Impact: 0.008889
+11.  embassy             | Impact: 0.008889
+12.  to                  | Impact: 0.008889
+13.  barrister           | Impact: 0.008794
+14.  tun                 | Impact: 0.008794
+15. ji                   | Impact: 0.008794
+16.  here                | Impact: 0.007744
+17.  company             | Impact: 0.007322
+18.  attorney            | Impact: 0.006549
+19.  to                  | Impact: 0.006549
+20.  locate              | Impact: 0.006234
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.002353
+ 2. qui                  | Impact: -0.002353
+ 3. ries                 | Impact: -0.002353
+ 4.  made                | Impact: -0.002353
+ 5.  several             | Impact: -0.002353
+ 6.  powered             | Impact: -0.001783
+ 7.  site                | Impact: -0.001783
+ 8.  -                   | Impact: -0.001783
+ 9.                      | Impact: -0.001783
+10.  since               | Impact: -0.001687
+11.  then                | Impact: -0.001687
+12.  i                   | Impact: -0.001687
+13.  have                | Impact: -0.001687
+14.  unfortunately       | Impact: -0.000851
+15.  ,                   | Impact: -0.000851
+16.  best                | Impact: -0.000562
+17.  regards             | Impact: -0.000562
+18.  ,                   | Impact: -0.000562
+19.  php                 | Impact: -0.000476
+20.  -                   | Impact: -0.000476

@@ -1,0 +1,75 @@
+Sample 118
+==========
+
+Sample text preview: Server Message Dear Your email account has been blacklisted, because you are required to re-verify your account. Soon, your email will be blocked, all...
+
+Model prediction: [1.6238300e-04 9.9983764e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.091011 → PHISHING
+ 2.  account             | Impact: 0.059470 → PHISHING
+ 3.  here                | Impact: 0.058925 → PHISHING
+ 4.  windows             | Impact: -0.053123 → LEGITIMATE
+ 5.  use                 | Impact: 0.040170 → PHISHING
+ 6.  your                | Impact: 0.040170 → PHISHING
+ 7.  your                | Impact: 0.035836 → PHISHING
+ 8.  regular             | Impact: -0.034083 → LEGITIMATE
+ 9.  dear                | Impact: 0.033323 → PHISHING
+10.  your                | Impact: 0.030294 → PHISHING
+11.  blocked             | Impact: 0.026323 → PHISHING
+12.  deleted             | Impact: 0.025625 → PHISHING
+13.  account             | Impact: 0.023345 → PHISHING
+14.  message             | Impact: 0.022533 → PHISHING
+15.  be                  | Impact: 0.021190 → PHISHING
+16.  your                | Impact: 0.019687 → PHISHING
+17.  permanently         | Impact: 0.019200 → PHISHING
+18.  email               | Impact: 0.018959 → PHISHING
+19.  product             | Impact: -0.018191 → LEGITIMATE
+20.  :                   | Impact: -0.018191 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.091011
+ 2.  account             | Impact: 0.059470
+ 3.  here                | Impact: 0.058925
+ 4.  use                 | Impact: 0.040170
+ 5.  your                | Impact: 0.040170
+ 6.  your                | Impact: 0.035836
+ 7.  dear                | Impact: 0.033323
+ 8.  your                | Impact: 0.030294
+ 9.  blocked             | Impact: 0.026323
+10.  deleted             | Impact: 0.025625
+11.  account             | Impact: 0.023345
+12.  message             | Impact: 0.022533
+13.  be                  | Impact: 0.021190
+14.  your                | Impact: 0.019687
+15.  permanently         | Impact: 0.019200
+16.  email               | Impact: 0.018959
+17.  files               | Impact: 0.017630
+18.  sincerely           | Impact: 0.017031
+19.  you                 | Impact: 0.015949
+20.  mail                | Impact: 0.015762
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  windows             | Impact: -0.053123
+ 2.  regular             | Impact: -0.034083
+ 3.  product             | Impact: -0.018191
+ 4.  :                   | Impact: -0.018191
+ 5.  however             | Impact: -0.005304
+ 6.  ,                   | Impact: -0.005304
+ 7.  ,                   | Impact: -0.003662
+ 8.  date                | Impact: -0.003582
+ 9.  :                   | Impact: -0.003582
+10.  -                   | Impact: -0.002665
+11.  -                   | Impact: -0.002665
+12.  -                   | Impact: -0.002665
+13.  -                   | Impact: -0.002665
+14.  -                   | Impact: -0.001772
+15.  -                   | Impact: -0.001772
+16.  -                   | Impact: -0.001772
+17.  -                   | Impact: -0.001772
+18.  march               | Impact: -0.001322
+19.  st                  | Impact: -0.001322
+20.  policy              | Impact: -0.001255

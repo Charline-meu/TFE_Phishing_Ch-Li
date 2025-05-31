@@ -1,0 +1,71 @@
+Sample 145
+==========
+
+Sample text preview: Internal Revenue Service - Dear IRS Members, You have received this email because you or someone had used your account from different locations. For s...
+
+Model prediction: [1.7523138e-04 9.9982482e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  account             | Impact: 0.066167 → PHISHING
+ 2.  your                | Impact: 0.055590 → PHISHING
+ 3.  account             | Impact: 0.050717 → PHISHING
+ 4.  your                | Impact: 0.049889 → PHISHING
+ 5.  account             | Impact: 0.046130 → PHISHING
+ 6.  your                | Impact: 0.044473 → PHISHING
+ 7.  your                | Impact: 0.036268 → PHISHING
+ 8.  account             | Impact: 0.028870 → PHISHING
+ 9.  account             | Impact: 0.028296 → PHISHING
+10.  your                | Impact: 0.026790 → PHISHING
+11.  received            | Impact: 0.026532 → PHISHING
+12.  your                | Impact: 0.024040 → PHISHING
+13.  access              | Impact: 0.019400 → PHISHING
+14.  dear                | Impact: 0.019290 → PHISHING
+15.  access              | Impact: 0.019160 → PHISHING
+16.  link                | Impact: 0.018640 → PHISHING
+17.  email               | Impact: 0.017274 → PHISHING
+18.  security            | Impact: 0.017226 → PHISHING
+19.  account             | Impact: 0.016553 → PHISHING
+20.  verification        | Impact: 0.015789 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  account             | Impact: 0.066167
+ 2.  your                | Impact: 0.055590
+ 3.  account             | Impact: 0.050717
+ 4.  your                | Impact: 0.049889
+ 5.  account             | Impact: 0.046130
+ 6.  your                | Impact: 0.044473
+ 7.  your                | Impact: 0.036268
+ 8.  account             | Impact: 0.028870
+ 9.  account             | Impact: 0.028296
+10.  your                | Impact: 0.026790
+11.  received            | Impact: 0.026532
+12.  your                | Impact: 0.024040
+13.  access              | Impact: 0.019400
+14.  dear                | Impact: 0.019290
+15.  access              | Impact: 0.019160
+16.  link                | Impact: 0.018640
+17.  email               | Impact: 0.017274
+18.  security            | Impact: 0.017226
+19.  account             | Impact: 0.016553
+20.  verification        | Impact: 0.015789
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  revenue             | Impact: -0.011035
+ 2.  members             | Impact: -0.007061
+ 3.  ,                   | Impact: -0.004018
+ 4.  service             | Impact: -0.001780
+ 5.                      | Impact: -0.001170
+ 6.  internal            | Impact: -0.001170
+ 7.  .                   | Impact: -0.001059
+ 8.  irs                 | Impact: -0.000947
+ 9.  this                | Impact: -0.000420
+10.  process             | Impact: -0.000420
+11.  ,                   | Impact: -0.000420
+12.  to                  | Impact: -0.000420
+13.  help                | Impact: -0.000420
+14.  speed               | Impact: -0.000420
+15.  up                  | Impact: -0.000420
+16.  ,                   | Impact: -0.000136

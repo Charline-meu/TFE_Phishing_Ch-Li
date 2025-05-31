@@ -1,0 +1,75 @@
+Sample 95
+=========
+
+Sample text preview: Steve, spoke with Cindy and it is our understanding that the $.MM commitment to Rice will be split between EBS and Community Relations and spread over...
+
+Model prediction: [9.9980909e-01 1.9091034e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.012886 → LEGITIMATE
+ 2. ron                  | Impact: -0.010751 → LEGITIMATE
+ 3.  if                  | Impact: -0.005424 → LEGITIMATE
+ 4.  en                  | Impact: -0.004327 → LEGITIMATE
+ 5.  look                | Impact: -0.004273 → LEGITIMATE
+ 6.  .                   | Impact: -0.004120 → LEGITIMATE
+ 7.  regards             | Impact: 0.003872 → PHISHING
+ 8.  contact             | Impact: 0.003808 → PHISHING
+ 9.  you                 | Impact: 0.003569 → PHISHING
+10.  soon                | Impact: 0.003499 → PHISHING
+11.  your                | Impact: 0.003401 → PHISHING
+12.  en                  | Impact: -0.003240 → LEGITIMATE
+13.  free                | Impact: 0.003060 → PHISHING
+14.  we                  | Impact: 0.003043 → PHISHING
+15.  please              | Impact: 0.002955 → PHISHING
+16.  your                | Impact: 0.002929 → PHISHING
+17.  and                 | Impact: 0.002873 → PHISHING
+18.  opportunities       | Impact: 0.002807 → PHISHING
+19.  i                   | Impact: -0.002680 → LEGITIMATE
+20.  )                   | Impact: -0.002587 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.003872
+ 2.  contact             | Impact: 0.003808
+ 3.  you                 | Impact: 0.003569
+ 4.  soon                | Impact: 0.003499
+ 5.  your                | Impact: 0.003401
+ 6.  free                | Impact: 0.003060
+ 7.  we                  | Impact: 0.003043
+ 8.  please              | Impact: 0.002955
+ 9.  your                | Impact: 0.002929
+10.  and                 | Impact: 0.002873
+11.  opportunities       | Impact: 0.002807
+12.  that                | Impact: 0.002154
+13.  !                   | Impact: 0.002092
+14.  begin               | Impact: 0.001490
+15.  respond             | Impact: 0.001482
+16.  our                 | Impact: 0.001191
+17.  new                 | Impact: 0.001106
+18.  to                  | Impact: 0.001091
+19.  great               | Impact: 0.001019
+20.  memorial            | Impact: 0.001019
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.012886
+ 2. ron                  | Impact: -0.010751
+ 3.  if                  | Impact: -0.005424
+ 4.  en                  | Impact: -0.004327
+ 5.  look                | Impact: -0.004273
+ 6.  .                   | Impact: -0.004120
+ 7.  en                  | Impact: -0.003240
+ 8.  i                   | Impact: -0.002680
+ 9.  )                   | Impact: -0.002587
+10.  you                 | Impact: -0.002197
+11.  or                  | Impact: -0.002063
+12.  clarify             | Impact: -0.001885
+13.  x                   | Impact: -0.001624
+14.  :                   | Impact: -0.001470
+15.  forward             | Impact: -0.001351
+16.  points              | Impact: -0.001183
+17.  .                   | Impact: -0.001149
+18.  earliest            | Impact: -0.001074
+19.  discuss             | Impact: -0.001067
+20.  further             | Impact: -0.001036

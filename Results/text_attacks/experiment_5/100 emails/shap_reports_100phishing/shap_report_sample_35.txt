@@ -1,0 +1,75 @@
+Phishing Sample 35
+==================
+
+Sample text preview: Dear Friend, As you read this, I don't want you to feel sorry for me, because, I believe everyone will die someday. My name is MR. REZA ABDULLA , a me...
+
+Model prediction: [1.7631490e-04 9.9982375e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  reza                | Impact: 0.017058 → PHISHING
+ 2.  abdul               | Impact: 0.017058 → PHISHING
+ 3. la                   | Impact: 0.017058 → PHISHING
+ 4.  ten                 | Impact: 0.008421 → PHISHING
+ 5.  million             | Impact: 0.008421 → PHISHING
+ 6.  seven               | Impact: 0.008421 → PHISHING
+ 7.  hundred             | Impact: 0.008421 → PHISHING
+ 8.  mr                  | Impact: 0.008133 → PHISHING
+ 9.  .                   | Impact: 0.008133 → PHISHING
+10.  thousand            | Impact: 0.008106 → PHISHING
+11.  american            | Impact: 0.008106 → PHISHING
+12.  dollars             | Impact: 0.008106 → PHISHING
+13.  i                   | Impact: 0.007812 → PHISHING
+14.  will                | Impact: 0.007812 → PHISHING
+15.  want                | Impact: 0.007812 → PHISHING
+16.  you                 | Impact: 0.007812 → PHISHING
+17.  my                  | Impact: 0.007412 → PHISHING
+18.  name                | Impact: 0.007412 → PHISHING
+19.  is                  | Impact: 0.007412 → PHISHING
+20.  mr                  | Impact: 0.007412 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  reza                | Impact: 0.017058
+ 2.  abdul               | Impact: 0.017058
+ 3. la                   | Impact: 0.017058
+ 4.  ten                 | Impact: 0.008421
+ 5.  million             | Impact: 0.008421
+ 6.  seven               | Impact: 0.008421
+ 7.  hundred             | Impact: 0.008421
+ 8.  mr                  | Impact: 0.008133
+ 9.  .                   | Impact: 0.008133
+10.  thousand            | Impact: 0.008106
+11.  american            | Impact: 0.008106
+12.  dollars             | Impact: 0.008106
+13.  i                   | Impact: 0.007812
+14.  will                | Impact: 0.007812
+15.  want                | Impact: 0.007812
+16.  you                 | Impact: 0.007812
+17.  my                  | Impact: 0.007412
+18.  name                | Impact: 0.007412
+19.  is                  | Impact: 0.007412
+20.  mr                  | Impact: 0.007412
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  hence               | Impact: -0.000365
+ 2.  ,                   | Impact: -0.000365
+ 3.  i                   | Impact: -0.000365
+ 4.  do                  | Impact: -0.000365
+ 5.  not                 | Impact: -0.000365
+ 6.  trust               | Impact: -0.000365
+ 7.  them                | Impact: -0.000365
+ 8.  anymore             | Impact: -0.000365
+ 9.  ,                   | Impact: -0.000365
+10.  as                  | Impact: -0.000255
+11.  they                | Impact: -0.000255
+12.  seem                | Impact: -0.000255
+13.  not                 | Impact: -0.000255
+14.  to                  | Impact: -0.000255
+15.  be                  | Impact: -0.000255
+16.  contend             | Impact: -0.000255
+17. ed                   | Impact: -0.000255
+18.  with                | Impact: -0.000050
+19.  what                | Impact: -0.000050
+20.  i                   | Impact: -0.000050

@@ -1,0 +1,75 @@
+Sample 264
+==========
+
+Sample text preview: Thanx, George. Please let us know what their initial reaction and evaluation is of the conditions at Sta. . Im interested in what their thoughts are w...
+
+Model prediction: [9.9977499e-01 2.2500535e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  (                   | Impact: -0.009708 → LEGITIMATE
+ 2.  their               | Impact: 0.003741 → PHISHING
+ 3.  what                | Impact: -0.003646 → LEGITIMATE
+ 4.  im                  | Impact: 0.003296 → PHISHING
+ 5.  interested          | Impact: -0.003121 → LEGITIMATE
+ 6.  ed                  | Impact: -0.002052 → LEGITIMATE
+ 7.  with                | Impact: 0.001798 → PHISHING
+ 8.  norm                | Impact: -0.001794 → LEGITIMATE
+ 9.  are                 | Impact: 0.001475 → PHISHING
+10.  name                | Impact: 0.001449 → PHISHING
+11.  said                | Impact: -0.001422 → LEGITIMATE
+12. media                | Impact: -0.001216 → LEGITIMATE
+13.  .                   | Impact: -0.001100 → LEGITIMATE
+14.  movement            | Impact: 0.000956 → PHISHING
+15.  norm                | Impact: -0.000918 → LEGITIMATE
+16.  re                  | Impact: -0.000845 → LEGITIMATE
+17. tion                 | Impact: -0.000744 → LEGITIMATE
+18.  thoughts            | Impact: -0.000726 → LEGITIMATE
+19.  pc                  | Impact: -0.000719 → LEGITIMATE
+20.  my                  | Impact: 0.000718 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  their               | Impact: 0.003741
+ 2.  im                  | Impact: 0.003296
+ 3.  with                | Impact: 0.001798
+ 4.  are                 | Impact: 0.001475
+ 5.  name                | Impact: 0.001449
+ 6.  movement            | Impact: 0.000956
+ 7.  my                  | Impact: 0.000718
+ 8.  contacted           | Impact: 0.000628
+ 9.  day                 | Impact: 0.000432
+10.  i                   | Impact: 0.000432
+11.  i                   | Impact: 0.000405
+12.  found               | Impact: 0.000317
+13.  the                 | Impact: 0.000317
+14.  first               | Impact: 0.000316
+15.  contact             | Impact: 0.000316
+16.  in                  | Impact: 0.000305
+17.  web                 | Impact: 0.000302
+18.  site                | Impact: 0.000302
+19.  with                | Impact: 0.000298
+20.  of                  | Impact: 0.000285
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.009708
+ 2.  what                | Impact: -0.003646
+ 3.  interested          | Impact: -0.003121
+ 4.  ed                  | Impact: -0.002052
+ 5.  norm                | Impact: -0.001794
+ 6.  said                | Impact: -0.001422
+ 7. media                | Impact: -0.001216
+ 8.  .                   | Impact: -0.001100
+ 9.  norm                | Impact: -0.000918
+10.  re                  | Impact: -0.000845
+11. tion                 | Impact: -0.000744
+12.  thoughts            | Impact: -0.000726
+13.  pc                  | Impact: -0.000719
+14.  ee                  | Impact: -0.000648
+15. rc                   | Impact: -0.000648
+16.  for                 | Impact: -0.000647
+17.  respect             | Impact: -0.000637
+18.  to                  | Impact: -0.000637
+19.  the                 | Impact: -0.000618
+20.  ,                   | Impact: -0.000575

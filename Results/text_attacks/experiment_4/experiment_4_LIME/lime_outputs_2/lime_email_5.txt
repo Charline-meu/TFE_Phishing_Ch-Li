@@ -1,0 +1,31 @@
+=== LIME Explanation for Email #5 ===
+True Label: Phishing
+Model Prediction: Phishing
+Prediction Probability: 0.9998
+
+Top Features Influencing the Prediction:
+National: 0.0164 (pushes toward Phishing)
+the: -0.0156 (pushes toward Legitimate)
+Nigeria: 0.0156 (pushes toward Phishing)
+work: 0.0149 (pushes toward Phishing)
+we: 0.0144 (pushes toward Phishing)
+involving: 0.0143 (pushes toward Phishing)
+you: 0.0132 (pushes toward Phishing)
+assigned: 0.0132 (pushes toward Phishing)
+of: -0.0131 (pushes toward Legitimate)
+Anita: -0.0129 (pushes toward Legitimate)
+administrative: 0.0126 (pushes toward Phishing)
+understand: 0.0122 (pushes toward Phishing)
+Dr: 0.0106 (pushes toward Phishing)
+regards: 0.0101 (pushes toward Phishing)
+is: 0.0093 (pushes toward Phishing)
+existing: -0.0090 (pushes toward Legitimate)
+foreign: 0.0087 (pushes toward Phishing)
+relocate: 0.0077 (pushes toward Phishing)
+balance: -0.0069 (pushes toward Legitimate)
+a: -0.0050 (pushes toward Legitimate)
+Following: -0.0049 (pushes toward Legitimate)
+wish: -0.0026 (pushes toward Legitimate)
+should: -0.0024 (pushes toward Legitimate)
+fully: 0.0023 (pushes toward Phishing)
+Williams: -0.0021 (pushes toward Legitimate)

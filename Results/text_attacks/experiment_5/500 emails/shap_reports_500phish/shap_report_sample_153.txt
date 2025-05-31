@@ -1,0 +1,75 @@
+Sample 153
+==========
+
+Sample text preview: ATTN: My name is Mr. Koffi Joseph. I hail from the Federal Republic of Ghana, years young married, with three children. I am the Director of Global Se...
+
+Model prediction: [1.6378205e-04 9.9983621e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  the                 | Impact: 0.025691 → PHISHING
+ 2.  first               | Impact: 0.025691 → PHISHING
+ 3.  son                 | Impact: 0.025691 → PHISHING
+ 4.  of                  | Impact: 0.025691 → PHISHING
+ 5.  gen                 | Impact: 0.025691 → PHISHING
+ 6.  .                   | Impact: 0.007527 → PHISHING
+ 7.  from                | Impact: 0.006372 → PHISHING
+ 8.  our                 | Impact: 0.006372 → PHISHING
+ 9.  record              | Impact: 0.006372 → PHISHING
+10.  =                   | Impact: 0.006372 → PHISHING
+11.  !                   | Impact: 0.006372 → PHISHING
+12.  years               | Impact: 0.006197 → PHISHING
+13.  young               | Impact: 0.006197 → PHISHING
+14.  married             | Impact: 0.006197 → PHISHING
+15.  ,                   | Impact: 0.006197 → PHISHING
+16.  from                | Impact: 0.005612 → PHISHING
+17.  you                 | Impact: 0.005612 → PHISHING
+18.  .                   | Impact: 0.005612 → PHISHING
+19.  ghana               | Impact: 0.005612 → PHISHING
+20.  waiting             | Impact: 0.005612 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  the                 | Impact: 0.025691
+ 2.  first               | Impact: 0.025691
+ 3.  son                 | Impact: 0.025691
+ 4.  of                  | Impact: 0.025691
+ 5.  gen                 | Impact: 0.025691
+ 6.  .                   | Impact: 0.007527
+ 7.  from                | Impact: 0.006372
+ 8.  our                 | Impact: 0.006372
+ 9.  record              | Impact: 0.006372
+10.  =                   | Impact: 0.006372
+11.  !                   | Impact: 0.006372
+12.  years               | Impact: 0.006197
+13.  young               | Impact: 0.006197
+14.  married             | Impact: 0.006197
+15.  ,                   | Impact: 0.006197
+16.  from                | Impact: 0.005612
+17.  you                 | Impact: 0.005612
+18.  .                   | Impact: 0.005612
+19.  ghana               | Impact: 0.005612
+20.  waiting             | Impact: 0.005612
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  aba                 | Impact: -0.003752
+ 2. cha                  | Impact: -0.003752
+ 3.  has                 | Impact: -0.003752
+ 4.  con                 | Impact: -0.003752
+ 5. si                   | Impact: -0.003752
+ 6. gn                   | Impact: -0.003752
+ 7. ments                | Impact: -0.003752
+ 8.  deposited           | Impact: -0.003752
+ 9.  with                | Impact: -0.003752
+10.  several             | Impact: -0.003752
+11.  names               | Impact: -0.003752
+12.  and                 | Impact: -0.003752
+13.  codes               | Impact: -0.003752
+14.  .                   | Impact: -0.003752
+15.  since               | Impact: -0.000066
+16.  the                 | Impact: -0.000066
+17.  inception           | Impact: -0.000066
+18.  of                  | Impact: -0.000066
+19.  the                 | Impact: -0.000066
+20.  year                | Impact: -0.000066

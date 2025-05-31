@@ -1,0 +1,75 @@
+Sample 369
+==========
+
+Sample text preview: Attention: President/Director, I am the chairman of the contract award committee of the Gold and Natural resources ministry here in Dakar Senegal, for...
+
+Model prediction: [1.6838360e-04 9.9983156e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bank                | Impact: 0.011413 → PHISHING
+ 2.  account             | Impact: 0.011413 → PHISHING
+ 3.  money               | Impact: 0.009611 → PHISHING
+ 4.  in                  | Impact: 0.009611 → PHISHING
+ 5.  own                 | Impact: 0.009597 → PHISHING
+ 6.  foreign             | Impact: 0.009597 → PHISHING
+ 7.  ,                   | Impact: 0.009442 → PHISHING
+ 8.  your                | Impact: 0.009022 → PHISHING
+ 9.  nominated           | Impact: 0.009022 → PHISHING
+10.  this                | Impact: 0.008632 → PHISHING
+11.  money               | Impact: 0.008632 → PHISHING
+12.  in                  | Impact: 0.008632 → PHISHING
+13.  your                | Impact: 0.008632 → PHISHING
+14.  country             | Impact: 0.008632 → PHISHING
+15.  i                   | Impact: 0.006261 → PHISHING
+16.  will                | Impact: 0.006261 → PHISHING
+17.  come                | Impact: 0.006261 → PHISHING
+18.  over                | Impact: 0.006261 → PHISHING
+19.  to                  | Impact: 0.006261 → PHISHING
+20.  your                | Impact: 0.006261 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.011413
+ 2.  account             | Impact: 0.011413
+ 3.  money               | Impact: 0.009611
+ 4.  in                  | Impact: 0.009611
+ 5.  own                 | Impact: 0.009597
+ 6.  foreign             | Impact: 0.009597
+ 7.  ,                   | Impact: 0.009442
+ 8.  your                | Impact: 0.009022
+ 9.  nominated           | Impact: 0.009022
+10.  this                | Impact: 0.008632
+11.  money               | Impact: 0.008632
+12.  in                  | Impact: 0.008632
+13.  your                | Impact: 0.008632
+14.  country             | Impact: 0.008632
+15.  i                   | Impact: 0.006261
+16.  will                | Impact: 0.006261
+17.  come                | Impact: 0.006261
+18.  over                | Impact: 0.006261
+19.  to                  | Impact: 0.006261
+20.  your                | Impact: 0.006261
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.000680
+ 2.  attention           | Impact: -0.000680
+ 3.  :                   | Impact: -0.000680
+ 4.  president           | Impact: -0.000680
+ 5.  /                   | Impact: -0.000680
+ 6.  director            | Impact: -0.000680
+ 7.  ,                   | Impact: -0.000680
+ 8.  trust               | Impact: -0.000386
+ 9.  be                  | Impact: -0.000386
+10.  our                 | Impact: -0.000386
+11.  watch               | Impact: -0.000386
+12. word                 | Impact: -0.000386
+13.  throughout          | Impact: -0.000386
+14.  this                | Impact: -0.000386
+15.  transaction         | Impact: -0.000386
+16.  .                   | Impact: -0.000386
+17.  let                 | Impact: -0.000386
+18.  honesty             | Impact: -0.000386
+19.  and                 | Impact: -0.000386
+20.  your                | Impact: -0.000262

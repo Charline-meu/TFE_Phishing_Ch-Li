@@ -1,0 +1,72 @@
+Sample 214
+==========
+
+Sample text preview: Please see below. D ---------------------- Forwarded by Daren J Farmer/HOU/ECT on // : AM --------------------------- Mark McCoy@ENRON // : AM To: Dar...
+
+Model prediction: [9.997762e-01 2.238759e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  michael             | Impact: -0.003565 → LEGITIMATE
+ 2.  director            | Impact: -0.003506 → LEGITIMATE
+ 3.  mi                  | Impact: 0.003318 → PHISHING
+ 4.  :                   | Impact: -0.003044 → LEGITIMATE
+ 5.  :                   | Impact: -0.002831 → LEGITIMATE
+ 6.  :                   | Impact: -0.002188 → LEGITIMATE
+ 7.  -                   | Impact: -0.002188 → LEGITIMATE
+ 8.  -                   | Impact: -0.002115 → LEGITIMATE
+ 9.  ha                  | Impact: -0.002091 → LEGITIMATE
+10.  -                   | Impact: -0.002060 → LEGITIMATE
+11. ron                  | Impact: -0.002050 → LEGITIMATE
+12.  asset               | Impact: -0.002039 → LEGITIMATE
+13.  -                   | Impact: -0.001877 → LEGITIMATE
+14.  scheduling          | Impact: -0.001800 → LEGITIMATE
+15.  note                | Impact: -0.001706 → LEGITIMATE
+16.  :                   | Impact: -0.001706 → LEGITIMATE
+17. rwood                | Impact: -0.001573 → LEGITIMATE
+18.  of                  | Impact: -0.001444 → LEGITIMATE
+19.  ec                  | Impact: -0.001444 → LEGITIMATE
+20.  &                   | Impact: 0.001421 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mi                  | Impact: 0.003318
+ 2.  &                   | Impact: 0.001421
+ 3.  llc                 | Impact: 0.000917
+ 4.  trading             | Impact: 0.000595
+ 5.  marketing           | Impact: 0.000587
+ 6.                      | Impact: 0.000477
+ 7.  mgm                 | Impact: 0.000351
+ 8. t                    | Impact: 0.000351
+ 9.  @                   | Impact: 0.000337
+10.  phone               | Impact: 0.000200
+11.  easter              | Impact: 0.000192
+12.  wil                 | Impact: 0.000059
+13. ma                   | Impact: 0.000059
+14.                      | Impact: 0.000021
+15.  please              | Impact: 0.000021
+16.  see                 | Impact: 0.000021
+17.  below               | Impact: 0.000021
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  michael             | Impact: -0.003565
+ 2.  director            | Impact: -0.003506
+ 3.  :                   | Impact: -0.003044
+ 4.  :                   | Impact: -0.002831
+ 5.  :                   | Impact: -0.002188
+ 6.  -                   | Impact: -0.002188
+ 7.  -                   | Impact: -0.002115
+ 8.  ha                  | Impact: -0.002091
+ 9.  -                   | Impact: -0.002060
+10. ron                  | Impact: -0.002050
+11.  asset               | Impact: -0.002039
+12.  -                   | Impact: -0.001877
+13.  scheduling          | Impact: -0.001800
+14.  note                | Impact: -0.001706
+15.  :                   | Impact: -0.001706
+16. rwood                | Impact: -0.001573
+17.  of                  | Impact: -0.001444
+18.  ec                  | Impact: -0.001444
+19.  ec                  | Impact: -0.001356
+20.  dallas              | Impact: -0.001351

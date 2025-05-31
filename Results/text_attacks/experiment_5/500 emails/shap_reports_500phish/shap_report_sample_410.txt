@@ -1,0 +1,75 @@
+Sample 410
+==========
+
+Sample text preview: Dear Friend, My name is Mr. James Owusu, the regional manager of International commercial Bank (ICB) Kaneohe Branch Ghana. I am a Ghanaian married wit...
+
+Model prediction: [1.6485484e-04 9.9983513e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ms                  | Impact: -0.027016 → LEGITIMATE
+ 2. n                    | Impact: -0.027016 → LEGITIMATE
+ 3.  search              | Impact: -0.027016 → LEGITIMATE
+ 4.  !                   | Impact: -0.027016 → LEGITIMATE
+ 5.  fund                | Impact: 0.017507 → PHISHING
+ 6.  to                  | Impact: 0.017507 → PHISHING
+ 7.  ow                  | Impact: 0.017033 → PHISHING
+ 8. us                   | Impact: 0.017033 → PHISHING
+ 9. u                    | Impact: 0.017033 → PHISHING
+10.  a                   | Impact: 0.015261 → PHISHING
+11.  ghanaian            | Impact: 0.015261 → PHISHING
+12.  mr                  | Impact: 0.014990 → PHISHING
+13.  .                   | Impact: 0.014990 → PHISHING
+14.  -                   | Impact: 0.014035 → PHISHING
+15.  bank                | Impact: 0.014035 → PHISHING
+16.  transfer            | Impact: 0.014035 → PHISHING
+17.  you                 | Impact: 0.013749 → PHISHING
+18.  while               | Impact: 0.013749 → PHISHING
+19.  friend              | Impact: 0.012868 → PHISHING
+20.  of                  | Impact: 0.012421 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  fund                | Impact: 0.017507
+ 2.  to                  | Impact: 0.017507
+ 3.  ow                  | Impact: 0.017033
+ 4. us                   | Impact: 0.017033
+ 5. u                    | Impact: 0.017033
+ 6.  a                   | Impact: 0.015261
+ 7.  ghanaian            | Impact: 0.015261
+ 8.  mr                  | Impact: 0.014990
+ 9.  .                   | Impact: 0.014990
+10.  -                   | Impact: 0.014035
+11.  bank                | Impact: 0.014035
+12.  transfer            | Impact: 0.014035
+13.  you                 | Impact: 0.013749
+14.  while               | Impact: 0.013749
+15.  friend              | Impact: 0.012868
+16.  of                  | Impact: 0.012421
+17.  this                | Impact: 0.012421
+18.  fund                | Impact: 0.012421
+19.  .                   | Impact: 0.012171
+20.  branch              | Impact: 0.010681
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ms                  | Impact: -0.027016
+ 2. n                    | Impact: -0.027016
+ 3.  search              | Impact: -0.027016
+ 4.  !                   | Impact: -0.027016
+ 5.  check               | Impact: -0.012261
+ 6.  out                 | Impact: -0.012261
+ 7.  the                 | Impact: -0.012261
+ 8.  new                 | Impact: -0.012261
+ 9.  .                   | Impact: -0.005570
+10.  )                   | Impact: -0.005570
+11.  years               | Impact: -0.004936
+12.  report              | Impact: -0.004936
+13.  ,                   | Impact: -0.004936
+14.  of                  | Impact: -0.003939
+15.  the                 | Impact: -0.003939
+16.  of                  | Impact: -0.003939
+17.  the                 | Impact: -0.003939
+18.  (                   | Impact: -0.003441
+19.  $                   | Impact: -0.003441
+20.  ,                   | Impact: -0.003441

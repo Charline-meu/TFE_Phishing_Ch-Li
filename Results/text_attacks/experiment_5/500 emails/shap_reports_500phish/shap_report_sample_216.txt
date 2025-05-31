@@ -1,0 +1,75 @@
+Sample 216
+==========
+
+Sample text preview: Your e-mailbox password will soon expire. To keep your password active. Click Here< to update IT- Desk © Microsoft Corporation _______________________...
+
+Model prediction: [1.827182e-04 9.998173e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.088656 → PHISHING
+ 2.  your                | Impact: 0.077619 → PHISHING
+ 3.  here                | Impact: 0.054347 → PHISHING
+ 4.  ex                  | Impact: 0.031556 → PHISHING
+ 5.  email               | Impact: 0.023860 → PHISHING
+ 6. pire                 | Impact: 0.022812 → PHISHING
+ 7.  this                | Impact: 0.021823 → PHISHING
+ 8.  send                | Impact: 0.021784 → PHISHING
+ 9. er                   | Impact: 0.021784 → PHISHING
+10.  please              | Impact: 0.020175 → PHISHING
+11.  destroy             | Impact: 0.020175 → PHISHING
+12.  password            | Impact: 0.018546 → PHISHING
+13.  received            | Impact: 0.018054 → PHISHING
+14.  will                | Impact: 0.015753 → PHISHING
+15.  recipient           | Impact: 0.015719 → PHISHING
+16.  only                | Impact: 0.015719 → PHISHING
+17.  you                 | Impact: 0.014963 → PHISHING
+18.  this                | Impact: 0.014436 → PHISHING
+19.  message             | Impact: 0.014436 → PHISHING
+20.  inform              | Impact: 0.014291 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.088656
+ 2.  your                | Impact: 0.077619
+ 3.  here                | Impact: 0.054347
+ 4.  ex                  | Impact: 0.031556
+ 5.  email               | Impact: 0.023860
+ 6. pire                 | Impact: 0.022812
+ 7.  this                | Impact: 0.021823
+ 8.  send                | Impact: 0.021784
+ 9. er                   | Impact: 0.021784
+10.  please              | Impact: 0.020175
+11.  destroy             | Impact: 0.020175
+12.  password            | Impact: 0.018546
+13.  received            | Impact: 0.018054
+14.  will                | Impact: 0.015753
+15.  recipient           | Impact: 0.015719
+16.  only                | Impact: 0.015719
+17.  you                 | Impact: 0.014963
+18.  this                | Impact: 0.014436
+19.  message             | Impact: 0.014436
+20.  inform              | Impact: 0.014291
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  or                  | Impact: -0.009147
+ 2.  and                 | Impact: -0.007779
+ 3.  /                   | Impact: -0.007779
+ 4.  email               | Impact: -0.004249
+ 5.  .                   | Impact: -0.004249
+ 6.  !                   | Impact: -0.003206
+ 7.  the                 | Impact: -0.002287
+ 8.  property            | Impact: -0.002287
+ 9.  of                  | Impact: -0.002287
+10.  imagine             | Impact: -0.002287
+11.  and                 | Impact: -0.002180
+12.  accompanying        | Impact: -0.001004
+13.  this                | Impact: -0.001004
+14.  ,                   | Impact: -0.000571
+15.  _                   | Impact: -0.000333
+16.  _                   | Impact: -0.000333
+17.  _                   | Impact: -0.000333
+18.  _                   | Impact: -0.000333
+19.  _                   | Impact: -0.000333
+20.  _                   | Impact: -0.000333

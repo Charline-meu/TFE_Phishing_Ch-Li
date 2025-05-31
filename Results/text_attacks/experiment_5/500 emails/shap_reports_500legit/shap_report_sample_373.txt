@@ -1,0 +1,75 @@
+Sample 373
+==========
+
+Sample text preview: Vince, No problem, I know HR can slow the process down. Marshall Brown Vice President Robert Walters Associates Phone #: -- Fax #:-- > -----Original M...
+
+Model prediction: [9.997472e-01 2.527806e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  /                   | Impact: -0.004393 → LEGITIMATE
+ 2.  /                   | Impact: -0.004361 → LEGITIMATE
+ 3.  /                   | Impact: -0.003533 → LEGITIMATE
+ 4.  /                   | Impact: -0.003253 → LEGITIMATE
+ 5.  know                | Impact: 0.002574 → PHISHING
+ 6.  i                   | Impact: 0.002069 → PHISHING
+ 7.  >                   | Impact: -0.001735 → LEGITIMATE
+ 8.  >                   | Impact: -0.001730 → LEGITIMATE
+ 9.  >                   | Impact: -0.001591 → LEGITIMATE
+10.  >                   | Impact: -0.001591 → LEGITIMATE
+11.  marshall            | Impact: -0.001591 → LEGITIMATE
+12.  brown               | Impact: -0.001591 → LEGITIMATE
+13.  robert              | Impact: -0.001520 → LEGITIMATE
+14.  walters             | Impact: -0.001520 → LEGITIMATE
+15.  associates          | Impact: -0.001520 → LEGITIMATE
+16.  >                   | Impact: -0.001520 → LEGITIMATE
+17.  with                | Impact: 0.001510 → PHISHING
+18.  you                 | Impact: 0.001510 → PHISHING
+19.  .                   | Impact: -0.001475 → LEGITIMATE
+20.  process             | Impact: -0.001408 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  know                | Impact: 0.002574
+ 2.  i                   | Impact: 0.002069
+ 3.  with                | Impact: 0.001510
+ 4.  you                 | Impact: 0.001510
+ 5.  >                   | Impact: 0.001315
+ 6.  regards             | Impact: 0.001315
+ 7.  ,                   | Impact: 0.000949
+ 8.  you                 | Impact: 0.000728
+ 9.  were                | Impact: 0.000728
+10.  were                | Impact: 0.000711
+11.  asked               | Impact: 0.000711
+12.  i                   | Impact: 0.000525
+13.  know                | Impact: 0.000525
+14.  in                  | Impact: 0.000458
+15.  touch               | Impact: 0.000458
+16.  april               | Impact: 0.000389
+17.  ,                   | Impact: 0.000389
+18.  >                   | Impact: 0.000368
+19.  week                | Impact: 0.000368
+20.  .                   | Impact: 0.000368
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  /                   | Impact: -0.004393
+ 2.  /                   | Impact: -0.004361
+ 3.  /                   | Impact: -0.003533
+ 4.  /                   | Impact: -0.003253
+ 5.  >                   | Impact: -0.001735
+ 6.  >                   | Impact: -0.001730
+ 7.  >                   | Impact: -0.001591
+ 8.  >                   | Impact: -0.001591
+ 9.  marshall            | Impact: -0.001591
+10.  brown               | Impact: -0.001591
+11.  robert              | Impact: -0.001520
+12.  walters             | Impact: -0.001520
+13.  associates          | Impact: -0.001520
+14.  >                   | Impact: -0.001520
+15.  .                   | Impact: -0.001475
+16.  process             | Impact: -0.001408
+17.  down                | Impact: -0.001408
+18.  slow                | Impact: -0.001394
+19.  the                 | Impact: -0.001394
+20.  >                   | Impact: -0.001344

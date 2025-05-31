@@ -1,0 +1,75 @@
+Phishing Sample 5
+=================
+
+Sample text preview: Ms. A. O. Tenders Department Central Contracts Unit Abuja Region Greetings, I hope this note finds you well. I am a representative with the procuremen...
+
+Model prediction: [3.0350362e-04 9.9969649e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.028810 → PHISHING
+ 2.  business            | Impact: 0.028810 → PHISHING
+ 3.  is                  | Impact: 0.020333 → PHISHING
+ 4.  not                 | Impact: 0.020333 → PHISHING
+ 5.  receive             | Impact: 0.016261 → PHISHING
+ 6.  these               | Impact: 0.016261 → PHISHING
+ 7.  funds               | Impact: 0.016261 → PHISHING
+ 8.  on                  | Impact: 0.016261 → PHISHING
+ 9.  to                  | Impact: 0.016095 → PHISHING
+10.  guarantee           | Impact: 0.016095 → PHISHING
+11.  to                  | Impact: 0.015765 → PHISHING
+12.  assign              | Impact: 0.015765 → PHISHING
+13.  you                 | Impact: 0.015765 → PHISHING
+14.  as                  | Impact: 0.015765 → PHISHING
+15.  our                 | Impact: 0.015716 → PHISHING
+16.  behalf              | Impact: 0.015716 → PHISHING
+17.  .                   | Impact: 0.015716 → PHISHING
+18.  ben                 | Impact: 0.014714 → PHISHING
+19. ef                   | Impact: 0.014714 → PHISHING
+20. icia                 | Impact: 0.014714 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.028810
+ 2.  business            | Impact: 0.028810
+ 3.  is                  | Impact: 0.020333
+ 4.  not                 | Impact: 0.020333
+ 5.  receive             | Impact: 0.016261
+ 6.  these               | Impact: 0.016261
+ 7.  funds               | Impact: 0.016261
+ 8.  on                  | Impact: 0.016261
+ 9.  to                  | Impact: 0.016095
+10.  guarantee           | Impact: 0.016095
+11.  to                  | Impact: 0.015765
+12.  assign              | Impact: 0.015765
+13.  you                 | Impact: 0.015765
+14.  as                  | Impact: 0.015765
+15.  our                 | Impact: 0.015716
+16.  behalf              | Impact: 0.015716
+17.  .                   | Impact: 0.015716
+18.  ben                 | Impact: 0.014714
+19. ef                   | Impact: 0.014714
+20. icia                 | Impact: 0.014714
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  subject             | Impact: -0.008312
+ 2.  :                   | Impact: -0.008312
+ 3.  o                   | Impact: -0.006687
+ 4.  .                   | Impact: -0.006687
+ 5.  at                  | Impact: -0.004766
+ 6.  :                   | Impact: -0.004766
+ 7.                      | Impact: -0.004766
+ 8.  use                 | Impact: -0.004766
+ 9.  the                 | Impact: -0.004510
+10.  proposed            | Impact: -0.004510
+11.  allocation          | Impact: -0.004510
+12.  :                   | Impact: -0.004510
+13.  coordinator         | Impact: -0.004177
+14. s                    | Impact: -0.004177
+15.  •                   | Impact: -0.004177
+16.  %                   | Impact: -0.004177
+17.  a                   | Impact: -0.003962
+18.  .                   | Impact: -0.003962
+19.  •                   | Impact: -0.003605
+20.  %                   | Impact: -0.003605

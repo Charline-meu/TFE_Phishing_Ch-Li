@@ -1,0 +1,75 @@
+Sample 410
+==========
+
+Sample text preview: Anyone heard of this law before? > Q. Can I get a playlist? > A. We are unable to offer a playlist. The Digital Performance Right in > Sound Recording...
+
+Model prediction: [9.997664e-01 2.335677e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  r                   | Impact: -0.013062 → LEGITIMATE
+ 2.  policy              | Impact: -0.011018 → LEGITIMATE
+ 3.  >                   | Impact: -0.010870 → LEGITIMATE
+ 4.  >                   | Impact: -0.007795 → LEGITIMATE
+ 5.  songs               | Impact: 0.007429 → PHISHING
+ 6.  choice              | Impact: -0.007280 → LEGITIMATE
+ 7.  transmitting        | Impact: -0.006322 → LEGITIMATE
+ 8.  release             | Impact: 0.006030 → PHISHING
+ 9.  a                   | Impact: 0.006030 → PHISHING
+10.  >                   | Impact: -0.005848 → LEGITIMATE
+11. k                    | Impact: 0.005784 → PHISHING
+12.  previously          | Impact: 0.005298 → PHISHING
+13.  played              | Impact: 0.005298 → PHISHING
+14.  concerned           | Impact: -0.004582 → LEGITIMATE
+15.  music               | Impact: 0.004173 → PHISHING
+16.  performance         | Impact: -0.004021 → LEGITIMATE
+17.  states              | Impact: -0.004014 → LEGITIMATE
+18.  a                   | Impact: -0.003952 → LEGITIMATE
+19.  not                 | Impact: -0.003831 → LEGITIMATE
+20.  to                  | Impact: -0.003831 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  songs               | Impact: 0.007429
+ 2.  release             | Impact: 0.006030
+ 3.  a                   | Impact: 0.006030
+ 4. k                    | Impact: 0.005784
+ 5.  previously          | Impact: 0.005298
+ 6.  played              | Impact: 0.005298
+ 7.  music               | Impact: 0.004173
+ 8.  song                | Impact: 0.003500
+ 9.  info                | Impact: 0.003500
+10.  music               | Impact: 0.003199
+11. cho                  | Impact: 0.003199
+12.  a                   | Impact: 0.003004
+13.  play                | Impact: 0.002366
+14. list                 | Impact: 0.002366
+15.  from                | Impact: 0.002324
+16.  their               | Impact: 0.002324
+17.  website             | Impact: 0.002324
+18. ice                  | Impact: 0.002147
+19.  website             | Impact: 0.001985
+20.  with                | Impact: 0.001985
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  r                   | Impact: -0.013062
+ 2.  policy              | Impact: -0.011018
+ 3.  >                   | Impact: -0.010870
+ 4.  >                   | Impact: -0.007795
+ 5.  choice              | Impact: -0.007280
+ 6.  transmitting        | Impact: -0.006322
+ 7.  >                   | Impact: -0.005848
+ 8.  concerned           | Impact: -0.004582
+ 9.  performance         | Impact: -0.004021
+10.  states              | Impact: -0.004014
+11.  a                   | Impact: -0.003952
+12.  not                 | Impact: -0.003831
+13.  to                  | Impact: -0.003831
+14.  cannot              | Impact: -0.003659
+15.  that                | Impact: -0.003339
+16.  if                  | Impact: -0.003339
+17.  law                 | Impact: -0.003236
+18.  .                   | Impact: -0.002988
+19.  >                   | Impact: -0.002964
+20.  q                   | Impact: -0.002964

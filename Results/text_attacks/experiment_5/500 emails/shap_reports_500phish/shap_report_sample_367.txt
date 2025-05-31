@@ -1,0 +1,75 @@
+Sample 367
+==========
+
+Sample text preview: Please Click the link below to validate e-mail Thank you, IT-Service Help Desk The information in this e-mail is confidential and may be legally privi...
+
+Model prediction: [0.00118096 0.99881905]
+Predicted class: PHISHING with 0.9988 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.102434 → PHISHING
+ 2.  mail                | Impact: 0.054746 → PHISHING
+ 3.  link                | Impact: 0.054289 → PHISHING
+ 4.  recipient           | Impact: 0.049725 → PHISHING
+ 5.  please              | Impact: 0.049725 → PHISHING
+ 6.  please              | Impact: 0.044567 → PHISHING
+ 7.  below               | Impact: 0.043535 → PHISHING
+ 8.  del                 | Impact: 0.037457 → PHISHING
+ 9. ete                  | Impact: 0.037457 → PHISHING
+10.  confidential        | Impact: 0.035285 → PHISHING
+11.  this                | Impact: 0.033784 → PHISHING
+12.  and                 | Impact: 0.033540 → PHISHING
+13.  mail                | Impact: 0.033360 → PHISHING
+14.  the                 | Impact: 0.031437 → PHISHING
+15.  intended            | Impact: 0.031437 → PHISHING
+16.  thank               | Impact: 0.027716 → PHISHING
+17.  are                 | Impact: 0.026784 → PHISHING
+18.  not                 | Impact: 0.026784 → PHISHING
+19.  you                 | Impact: 0.025828 → PHISHING
+20. ate                  | Impact: -0.025172 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.102434
+ 2.  mail                | Impact: 0.054746
+ 3.  link                | Impact: 0.054289
+ 4.  recipient           | Impact: 0.049725
+ 5.  please              | Impact: 0.049725
+ 6.  please              | Impact: 0.044567
+ 7.  below               | Impact: 0.043535
+ 8.  del                 | Impact: 0.037457
+ 9. ete                  | Impact: 0.037457
+10.  confidential        | Impact: 0.035285
+11.  this                | Impact: 0.033784
+12.  and                 | Impact: 0.033540
+13.  mail                | Impact: 0.033360
+14.  the                 | Impact: 0.031437
+15.  intended            | Impact: 0.031437
+16.  thank               | Impact: 0.027716
+17.  are                 | Impact: 0.026784
+18.  not                 | Impact: 0.026784
+19.  you                 | Impact: 0.025828
+20.  is                  | Impact: 0.024675
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ate                  | Impact: -0.025172
+ 2.  views               | Impact: -0.016588
+ 3.  any                 | Impact: -0.011832
+ 4.  the                 | Impact: -0.009639
+ 5.  address             | Impact: -0.007156
+ 6. ee                   | Impact: -0.007156
+ 7.  for                 | Impact: -0.005000
+ 8.  the                 | Impact: -0.005000
+ 9.  intended            | Impact: -0.002687
+10.  solely              | Impact: -0.002687
+11.  expressed           | Impact: -0.002615
+12.  in                  | Impact: -0.002615
+13.  to                  | Impact: -0.002547
+14.  them                | Impact: -0.002329
+15.  to                  | Impact: -0.002329
+16.  be                  | Impact: -0.002329
+17.  views               | Impact: -0.002329
+18.  of                  | Impact: -0.002325
+19.  the                 | Impact: -0.002325
+20.  individual          | Impact: -0.002325

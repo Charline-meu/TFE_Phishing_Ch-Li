@@ -1,0 +1,75 @@
+Phishing Sample 84
+==================
+
+Sample text preview: Your transfer is being processed To: CHARLES SCHWAB XXXXXXXX From: WELLS FARGO XXXXXX Amount: $. Transaction Date: // Note: Please review the attached...
+
+Model prediction: [2.4530283e-04 9.9975473e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.203525 → PHISHING
+ 2.  your                | Impact: 0.114196 → PHISHING
+ 3.  transfer            | Impact: 0.095173 → PHISHING
+ 4.  account             | Impact: 0.067854 → PHISHING
+ 5.  payments            | Impact: 0.053116 → PHISHING
+ 6.  amount              | Impact: 0.052735 → PHISHING
+ 7.  $                   | Impact: 0.046932 → PHISHING
+ 8.  sincerely           | Impact: 0.045413 → PHISHING
+ 9.  immediately         | Impact: 0.043754 → PHISHING
+10.  sc                  | Impact: -0.036098 → LEGITIMATE
+11.  will                | Impact: 0.035645 → PHISHING
+12.  cancel              | Impact: 0.032496 → PHISHING
+13.  suspended           | Impact: 0.031430 → PHISHING
+14. hwa                  | Impact: -0.030062 → LEGITIMATE
+15.  be                  | Impact: 0.029191 → PHISHING
+16.  transaction         | Impact: 0.020354 → PHISHING
+17.  .                   | Impact: 0.016355 → PHISHING
+18. b                    | Impact: -0.015837 → LEGITIMATE
+19.  c                   | Impact: 0.015340 → PHISHING
+20.  summary             | Impact: -0.014573 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.203525
+ 2.  your                | Impact: 0.114196
+ 3.  transfer            | Impact: 0.095173
+ 4.  account             | Impact: 0.067854
+ 5.  payments            | Impact: 0.053116
+ 6.  amount              | Impact: 0.052735
+ 7.  $                   | Impact: 0.046932
+ 8.  sincerely           | Impact: 0.045413
+ 9.  immediately         | Impact: 0.043754
+10.  will                | Impact: 0.035645
+11.  cancel              | Impact: 0.032496
+12.  suspended           | Impact: 0.031430
+13.  be                  | Impact: 0.029191
+14.  transaction         | Impact: 0.020354
+15.  .                   | Impact: 0.016355
+16.  c                   | Impact: 0.015340
+17.  please              | Impact: 0.014093
+18.                      | Impact: 0.013580
+19.  and                 | Impact: 0.013389
+20.  this                | Impact: 0.011696
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  sc                  | Impact: -0.036098
+ 2. hwa                  | Impact: -0.030062
+ 3. b                    | Impact: -0.015837
+ 4.  summary             | Impact: -0.014573
+ 5.  charles             | Impact: -0.012599
+ 6.  fargo               | Impact: -0.012506
+ 7.  failure             | Impact: -0.011681
+ 8.  to                  | Impact: -0.011600
+ 9. xx                   | Impact: -0.007709
+10.  wells               | Impact: -0.007126
+11.  transactions        | Impact: -0.006395
+12.  wells               | Impact: -0.005666
+13.  /                   | Impact: -0.005592
+14.  :                   | Impact: -0.004998
+15.  from                | Impact: -0.003851
+16.  :                   | Impact: -0.003851
+17.  and                 | Impact: -0.003466
+18.  fargo               | Impact: -0.002383
+19.  to                  | Impact: -0.001898
+20.  :                   | Impact: -0.001898

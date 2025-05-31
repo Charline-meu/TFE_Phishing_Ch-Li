@@ -1,0 +1,75 @@
+Sample 300
+==========
+
+Sample text preview: Hourly traders and operators that need to see the overhead PI screens can now view them via the web regardless of where they are sitting. They can be ...
+
+Model prediction: [9.9976557e-01 2.3441839e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  traders             | Impact: -0.025119 → LEGITIMATE
+ 2.  rick                | Impact: -0.024740 → LEGITIMATE
+ 3.  or                  | Impact: -0.022760 → LEGITIMATE
+ 4.  pi                  | Impact: -0.019601 → LEGITIMATE
+ 5.  contact             | Impact: 0.018333 → PHISHING
+ 6.  swami               | Impact: 0.017750 → PHISHING
+ 7.  screens             | Impact: 0.014866 → PHISHING
+ 8.  web                 | Impact: 0.012344 → PHISHING
+ 9.  via                 | Impact: 0.011909 → PHISHING
+10.  ram                 | Impact: 0.011779 → PHISHING
+11.  explorer            | Impact: -0.011700 → LEGITIMATE
+12. ard                  | Impact: -0.011346 → LEGITIMATE
+13.  overhead            | Impact: -0.009171 → LEGITIMATE
+14.  now                 | Impact: 0.009089 → PHISHING
+15. nath                 | Impact: 0.008527 → PHISHING
+16.  view                | Impact: 0.007402 → PHISHING
+17.  sitting             | Impact: -0.007140 → LEGITIMATE
+18.  operators           | Impact: 0.006647 → PHISHING
+19.  home                | Impact: 0.006350 → PHISHING
+20. an                   | Impact: 0.006093 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.018333
+ 2.  swami               | Impact: 0.017750
+ 3.  screens             | Impact: 0.014866
+ 4.  web                 | Impact: 0.012344
+ 5.  via                 | Impact: 0.011909
+ 6.  ram                 | Impact: 0.011779
+ 7.  now                 | Impact: 0.009089
+ 8. nath                 | Impact: 0.008527
+ 9.  view                | Impact: 0.007402
+10.  operators           | Impact: 0.006647
+11.  home                | Impact: 0.006350
+12. an                   | Impact: 0.006093
+13.  access              | Impact: 0.004674
+14.  please              | Impact: 0.004571
+15.  page                | Impact: 0.004005
+16.  them                | Impact: 0.003862
+17.  hourly              | Impact: 0.003190
+18.  to                  | Impact: 0.003026
+19.  internet            | Impact: 0.002849
+20.  under               | Impact: 0.002814
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  traders             | Impact: -0.025119
+ 2.  rick                | Impact: -0.024740
+ 3.  or                  | Impact: -0.022760
+ 4.  pi                  | Impact: -0.019601
+ 5.  explorer            | Impact: -0.011700
+ 6. ard                  | Impact: -0.011346
+ 7.  overhead            | Impact: -0.009171
+ 8.  sitting             | Impact: -0.007140
+ 9.  power               | Impact: -0.005845
+10.  gen                 | Impact: -0.005734
+11. uss                  | Impact: -0.005353
+12.  you                 | Impact: -0.004238
+13.  that                | Impact: -0.004111
+14.  east                | Impact: -0.003843
+15.  if                  | Impact: -0.003796
+16.  bro                 | Impact: -0.003742
+17. esh                  | Impact: -0.003350
+18.  .                   | Impact: -0.002911
+19. co                   | Impact: -0.002731
+20.  .                   | Impact: -0.002709

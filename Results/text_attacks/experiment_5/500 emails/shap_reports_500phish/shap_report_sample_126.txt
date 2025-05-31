@@ -1,0 +1,74 @@
+Sample 126
+==========
+
+Sample text preview: DHL Capability Tool Dear Your Parcel(s) listed below is scheduled for delivery tomorrow. You have a DHL Parcel addressed to you. You need to obtain yo...
+
+Model prediction: [2.2591183e-04 9.9977404e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.112266 → PHISHING
+ 2.  your                | Impact: 0.087748 → PHISHING
+ 3.  address             | Impact: 0.070559 → PHISHING
+ 4.  your                | Impact: 0.057322 → PHISHING
+ 5.  international       | Impact: 0.056640 → PHISHING
+ 6.  kindly              | Impact: 0.054418 → PHISHING
+ 7.  link                | Impact: 0.049793 → PHISHING
+ 8.  delivery            | Impact: 0.048550 → PHISHING
+ 9.  web                 | Impact: 0.038261 → PHISHING
+10.  parcel              | Impact: 0.032793 → PHISHING
+11. page                 | Impact: 0.032106 → PHISHING
+12.  obtain              | Impact: 0.031164 → PHISHING
+13.  your                | Impact: 0.030910 → PHISHING
+14.  addressed           | Impact: 0.029458 → PHISHING
+15.  parcel              | Impact: 0.028425 → PHISHING
+16.  number              | Impact: 0.027425 → PHISHING
+17.  complete            | Impact: 0.025077 → PHISHING
+18.  worldwide           | Impact: 0.020468 → PHISHING
+19. l                    | Impact: 0.019403 → PHISHING
+20.  tracking            | Impact: 0.017704 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.112266
+ 2.  your                | Impact: 0.087748
+ 3.  address             | Impact: 0.070559
+ 4.  your                | Impact: 0.057322
+ 5.  international       | Impact: 0.056640
+ 6.  kindly              | Impact: 0.054418
+ 7.  link                | Impact: 0.049793
+ 8.  delivery            | Impact: 0.048550
+ 9.  web                 | Impact: 0.038261
+10.  parcel              | Impact: 0.032793
+11. page                 | Impact: 0.032106
+12.  obtain              | Impact: 0.031164
+13.  your                | Impact: 0.030910
+14.  addressed           | Impact: 0.029458
+15.  parcel              | Impact: 0.028425
+16.  number              | Impact: 0.027425
+17.  complete            | Impact: 0.025077
+18.  worldwide           | Impact: 0.020468
+19. l                    | Impact: 0.019403
+20.  tracking            | Impact: 0.017704
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  delivery            | Impact: -0.017586
+ 2.  tool                | Impact: -0.015158
+ 3. l                    | Impact: -0.009470
+ 4.  process             | Impact: -0.009317
+ 5.  )                   | Impact: -0.008829
+ 6.  dh                  | Impact: -0.005752
+ 7.  listed              | Impact: -0.004788
+ 8. l                    | Impact: -0.004444
+ 9.  -                   | Impact: -0.003874
+10.  you                 | Impact: -0.002993
+11.  .                   | Impact: -0.002936
+12.  to                  | Impact: -0.002905
+13. l                    | Impact: -0.002740
+14.  on                  | Impact: -0.002679
+15.  dh                  | Impact: -0.002149
+16.  as                  | Impact: -0.001742
+17.  confirm             | Impact: -0.000949
+18.                      | Impact: -0.000650
+19.  need                | Impact: -0.000211

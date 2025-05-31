@@ -1,0 +1,75 @@
+Sample 490
+==========
+
+Sample text preview: Pastry is a generic, scalable and efficient substrate for peer-to-peer applications. Pastry nodes form a decentralized, self-organizing and fault-tole...
+
+Model prediction: [0.9981987  0.00180135]
+Predicted class: LEGITIMATE with 0.9982 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  download            | Impact: 0.020792 → PHISHING
+ 2.  pastry              | Impact: -0.017357 → LEGITIMATE
+ 3.  pastry              | Impact: -0.017196 → LEGITIMATE
+ 4.  web                 | Impact: 0.015592 → PHISHING
+ 5.  .                   | Impact: -0.015330 → LEGITIMATE
+ 6.  can                 | Impact: -0.014232 → LEGITIMATE
+ 7.  site                | Impact: 0.014117 → PHISHING
+ 8.  internet            | Impact: 0.010984 → PHISHING
+ 9.  this                | Impact: 0.009787 → PHISHING
+10.  jim                 | Impact: 0.009152 → PHISHING
+11.  you                 | Impact: -0.008576 → LEGITIMATE
+12.  simulator           | Impact: -0.007574 → LEGITIMATE
+13.  network             | Impact: 0.006769 → PHISHING
+14.  -                   | Impact: -0.006203 → LEGITIMATE
+15.  within              | Impact: 0.005886 → PHISHING
+16.  routing             | Impact: 0.005623 → PHISHING
+17.  -                   | Impact: -0.005586 → LEGITIMATE
+18.  -                   | Impact: -0.005559 → LEGITIMATE
+19.  object              | Impact: -0.005200 → LEGITIMATE
+20.  an                  | Impact: -0.005182 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  download            | Impact: 0.020792
+ 2.  web                 | Impact: 0.015592
+ 3.  site                | Impact: 0.014117
+ 4.  internet            | Impact: 0.010984
+ 5.  this                | Impact: 0.009787
+ 6.  jim                 | Impact: 0.009152
+ 7.  network             | Impact: 0.006769
+ 8.  within              | Impact: 0.005886
+ 9.  routing             | Impact: 0.005623
+10. lay                  | Impact: 0.004694
+11.  over                | Impact: 0.004417
+12.  nodes               | Impact: 0.003635
+13.  and                 | Impact: 0.003516
+14.  manner              | Impact: 0.002821
+15.  ,                   | Impact: 0.001126
+16.  efficient           | Impact: 0.001118
+17.  request             | Impact: 0.001118
+18.  location            | Impact: 0.000988
+19. ral                  | Impact: 0.000974
+20.  form                | Impact: 0.000780
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  pastry              | Impact: -0.017357
+ 2.  pastry              | Impact: -0.017196
+ 3.  .                   | Impact: -0.015330
+ 4.  can                 | Impact: -0.014232
+ 5.  you                 | Impact: -0.008576
+ 6.  simulator           | Impact: -0.007574
+ 7.  -                   | Impact: -0.006203
+ 8.  -                   | Impact: -0.005586
+ 9.  -                   | Impact: -0.005559
+10.  object              | Impact: -0.005200
+11.  an                  | Impact: -0.005182
+12.  -                   | Impact: -0.004816
+13.  off                 | Impact: -0.004617
+14.  a                   | Impact: -0.004352
+15.  provides            | Impact: -0.003669
+16.  pastry              | Impact: -0.003265
+17.  in                  | Impact: -0.002567
+18.  organizing          | Impact: -0.002506
+19.  of                  | Impact: -0.002471
+20.  .                   | Impact: -0.002413

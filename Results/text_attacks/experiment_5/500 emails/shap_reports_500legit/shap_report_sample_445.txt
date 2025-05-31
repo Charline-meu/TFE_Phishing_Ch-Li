@@ -1,0 +1,75 @@
+Sample 445
+==========
+
+Sample text preview: >>>>> "t" == tomwhore <Tom> writes: t> The first pewp...man they prep you for it but northing really t> can...Wowzer that stuff is road tar. First kid...
+
+Model prediction: [9.9973434e-01 2.6569245e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lives               | Impact: 0.028482 → PHISHING
+ 2.  three               | Impact: 0.007617 → PHISHING
+ 3.  picasso             | Impact: -0.005490 → LEGITIMATE
+ 4.  pablo               | Impact: -0.005412 → LEGITIMATE
+ 5.  -                   | Impact: -0.005186 → LEGITIMATE
+ 6.  today               | Impact: 0.004624 → PHISHING
+ 7.  systems             | Impact: -0.004180 → LEGITIMATE
+ 8.  will                | Impact: 0.003851 → PHISHING
+ 9.  source              | Impact: -0.003551 → LEGITIMATE
+10.  never               | Impact: 0.003385 → PHISHING
+11.  .                   | Impact: -0.003341 → LEGITIMATE
+12.  be                  | Impact: 0.003290 → PHISHING
+13.  answers             | Impact: -0.003082 → LEGITIMATE
+14.  (                   | Impact: -0.002965 → LEGITIMATE
+15.  that                | Impact: 0.002946 → PHISHING
+16.  .                   | Impact: -0.002578 → LEGITIMATE
+17.  '                   | Impact: -0.002569 → LEGITIMATE
+18.  .                   | Impact: -0.002427 → LEGITIMATE
+19.  murphy              | Impact: -0.002421 → LEGITIMATE
+20.  it                  | Impact: 0.002266 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  lives               | Impact: 0.028482
+ 2.  three               | Impact: 0.007617
+ 3.  today               | Impact: 0.004624
+ 4.  will                | Impact: 0.003851
+ 5.  never               | Impact: 0.003385
+ 6.  be                  | Impact: 0.003290
+ 7.  that                | Impact: 0.002946
+ 8.  it                  | Impact: 0.002266
+ 9.  happened            | Impact: 0.002266
+10.  starting            | Impact: 0.002245
+11.  matter              | Impact: 0.001508
+12.  how                 | Impact: 0.001508
+13.  ,                   | Impact: 0.001408
+14.  long                | Impact: 0.001337
+15.  so                  | Impact: 0.000823
+16.  it                  | Impact: 0.000404
+17.  congratulations     | Impact: 0.000356
+18.  ;                   | Impact: 0.000356
+19.  ku                  | Impact: 0.000356
+20. dos                  | Impact: 0.000356
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  picasso             | Impact: -0.005490
+ 2.  pablo               | Impact: -0.005412
+ 3.  -                   | Impact: -0.005186
+ 4.  systems             | Impact: -0.004180
+ 5.  source              | Impact: -0.003551
+ 6.  .                   | Impact: -0.003341
+ 7.  answers             | Impact: -0.003082
+ 8.  (                   | Impact: -0.002965
+ 9.  .                   | Impact: -0.002578
+10.  '                   | Impact: -0.002569
+11.  .                   | Impact: -0.002427
+12.  murphy              | Impact: -0.002421
+13.  can                 | Impact: -0.002152
+14.  that                | Impact: -0.002002
+15.  -                   | Impact: -0.001842
+16. yna                  | Impact: -0.001834
+17.  computers           | Impact: -0.001832
+18.  are                 | Impact: -0.001832
+19.  they                | Impact: -0.001768
+20. mics                 | Impact: -0.001724

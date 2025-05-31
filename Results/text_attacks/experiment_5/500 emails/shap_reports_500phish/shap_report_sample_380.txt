@@ -1,0 +1,63 @@
+Sample 380
+==========
+
+Sample text preview: Dear Customer, Your parcel has arrived at the post office. Our courier was unable to deliver the parcel to you due to incorrect delivery details. To r...
+
+Model prediction: [1.8975705e-04 9.9981028e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  download            | Impact: 0.194051 → PHISHING
+ 2.  dear                | Impact: 0.116540 → PHISHING
+ 3.  download            | Impact: 0.100863 → PHISHING
+ 4.  parcel              | Impact: 0.055493 → PHISHING
+ 5.  your                | Impact: 0.052027 → PHISHING
+ 6.  your                | Impact: 0.051324 → PHISHING
+ 7.  you                 | Impact: 0.050417 → PHISHING
+ 8.  parcel              | Impact: 0.035617 → PHISHING
+ 9.  parcel              | Impact: 0.028759 → PHISHING
+10.  our                 | Impact: 0.026622 → PHISHING
+11.  receipt             | Impact: 0.026059 → PHISHING
+12.  courier             | Impact: 0.026032 → PHISHING
+13.  delivery            | Impact: 0.024824 → PHISHING
+14.  office              | Impact: -0.024506 → LEGITIMATE
+15.  arrived             | Impact: 0.023386 → PHISHING
+16.  receive             | Impact: 0.023350 → PHISHING
+17.  attached            | Impact: 0.020790 → PHISHING
+18.  forward             | Impact: 0.018606 → PHISHING
+19. l                    | Impact: -0.018021 → LEGITIMATE
+20.  nearest             | Impact: 0.017348 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  download            | Impact: 0.194051
+ 2.  dear                | Impact: 0.116540
+ 3.  download            | Impact: 0.100863
+ 4.  parcel              | Impact: 0.055493
+ 5.  your                | Impact: 0.052027
+ 6.  your                | Impact: 0.051324
+ 7.  you                 | Impact: 0.050417
+ 8.  parcel              | Impact: 0.035617
+ 9.  parcel              | Impact: 0.028759
+10.  our                 | Impact: 0.026622
+11.  receipt             | Impact: 0.026059
+12.  courier             | Impact: 0.026032
+13.  delivery            | Impact: 0.024824
+14.  arrived             | Impact: 0.023386
+15.  receive             | Impact: 0.023350
+16.  attached            | Impact: 0.020790
+17.  forward             | Impact: 0.018606
+18.  nearest             | Impact: 0.017348
+19.  to                  | Impact: 0.015273
+20.  and                 | Impact: 0.014236
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  office              | Impact: -0.024506
+ 2. l                    | Impact: -0.018021
+ 3.  dh                  | Impact: -0.009948
+ 4.  .                   | Impact: -0.007174
+ 5.  was                 | Impact: -0.002091
+ 6.  the                 | Impact: -0.001722
+ 7.  to                  | Impact: -0.000391
+ 8.  ,                   | Impact: -0.000374

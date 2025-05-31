@@ -1,0 +1,65 @@
+Sample 137
+==========
+
+Sample text preview: MR.FAN JEN-LIANG. SHANGHAI COMMERCIAL BANK LIMITED,UK BRANCH CORNHILL LONDON ECV NP,UNITED KINGDOM. Greetings, I would not have used this medium (Inte...
+
+Model prediction: [1.7311165e-04 9.9982697e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.012961 → PHISHING
+ 2.  .                   | Impact: 0.012961 → PHISHING
+ 3.  to                  | Impact: 0.007664 → PHISHING
+ 4.  your                | Impact: 0.007664 → PHISHING
+ 5.  nominated           | Impact: 0.007664 → PHISHING
+ 6.  bank                | Impact: 0.007664 → PHISHING
+ 7.  account             | Impact: 0.007664 → PHISHING
+ 8.  ,                   | Impact: 0.007664 → PHISHING
+ 9.  deposited           | Impact: 0.005847 → PHISHING
+10.  in                  | Impact: 0.005847 → PHISHING
+11.  a                   | Impact: 0.005847 → PHISHING
+12.  secret              | Impact: 0.005847 → PHISHING
+13.  claim               | Impact: 0.005428 → PHISHING
+14.  this                | Impact: 0.005428 → PHISHING
+15.  money               | Impact: 0.005428 → PHISHING
+16.  relatives           | Impact: 0.005428 → PHISHING
+17.  to                  | Impact: 0.005428 → PHISHING
+18.  transfer            | Impact: 0.005377 → PHISHING
+19.  of                  | Impact: 0.005377 → PHISHING
+20.  the                 | Impact: 0.005377 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.012961
+ 2.  .                   | Impact: 0.012961
+ 3.  to                  | Impact: 0.007664
+ 4.  your                | Impact: 0.007664
+ 5.  nominated           | Impact: 0.007664
+ 6.  bank                | Impact: 0.007664
+ 7.  account             | Impact: 0.007664
+ 8.  ,                   | Impact: 0.007664
+ 9.  deposited           | Impact: 0.005847
+10.  in                  | Impact: 0.005847
+11.  a                   | Impact: 0.005847
+12.  secret              | Impact: 0.005847
+13.  claim               | Impact: 0.005428
+14.  this                | Impact: 0.005428
+15.  money               | Impact: 0.005428
+16.  relatives           | Impact: 0.005428
+17.  to                  | Impact: 0.005428
+18.  transfer            | Impact: 0.005377
+19.  of                  | Impact: 0.005377
+20.  the                 | Impact: 0.005377
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  financial           | Impact: -0.002506
+ 2.  law                 | Impact: -0.002506
+ 3.  .                   | Impact: -0.002506
+ 4.  uk                  | Impact: -0.000780
+ 5.  banking             | Impact: -0.000780
+ 6.  and                 | Impact: -0.000780
+ 7.  bank                | Impact: -0.000780
+ 8.  treasury            | Impact: -0.000780
+ 9.  according           | Impact: -0.000780
+10.  to                  | Impact: -0.000780

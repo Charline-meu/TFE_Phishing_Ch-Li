@@ -1,0 +1,75 @@
+Sample 358
+==========
+
+Sample text preview: Check out this. Its for compaq kit, but a pc's a pc ;--) There are other articles too. Hope that helps, CW ---------------- How many Redhat admins out...
+
+Model prediction: [9.9980956e-01 1.9046653e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  its                 | Impact: -0.005643 → LEGITIMATE
+ 2.  kit                 | Impact: 0.004165 → PHISHING
+ 3.  for                 | Impact: -0.003318 → LEGITIMATE
+ 4.  .                   | Impact: -0.002492 → LEGITIMATE
+ 5.  but                 | Impact: -0.002471 → LEGITIMATE
+ 6.  ;                   | Impact: -0.002225 → LEGITIMATE
+ 7.  -                   | Impact: -0.002225 → LEGITIMATE
+ 8.  a                   | Impact: -0.002084 → LEGITIMATE
+ 9.  pc                  | Impact: -0.002084 → LEGITIMATE
+10.  com                 | Impact: -0.001784 → LEGITIMATE
+11. pa                   | Impact: -0.001784 → LEGITIMATE
+12.  -                   | Impact: -0.001743 → LEGITIMATE
+13.  )                   | Impact: -0.001743 → LEGITIMATE
+14.  i                   | Impact: 0.001614 → PHISHING
+15.  '                   | Impact: 0.001614 → PHISHING
+16.  ,                   | Impact: 0.001583 → PHISHING
+17.  network             | Impact: -0.001535 → LEGITIMATE
+18.  card                | Impact: -0.001535 → LEGITIMATE
+19.  modules             | Impact: -0.001298 → LEGITIMATE
+20.  on                  | Impact: -0.001298 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  kit                 | Impact: 0.004165
+ 2.  i                   | Impact: 0.001614
+ 3.  '                   | Impact: 0.001614
+ 4.  ,                   | Impact: 0.001583
+ 5.  out                 | Impact: 0.001118
+ 6.  m                   | Impact: 0.000811
+ 7.  not                 | Impact: 0.000811
+ 8.  this                | Impact: 0.000488
+ 9.  i                   | Impact: 0.000310
+10.  '                   | Impact: 0.000310
+11.  d                   | Impact: 0.000310
+12.  still               | Impact: 0.000310
+13.  pc                  | Impact: 0.000221
+14.  '                   | Impact: 0.000221
+15.  s                   | Impact: 0.000221
+16.  i                   | Impact: 0.000192
+17.  '                   | Impact: 0.000192
+18.  m                   | Impact: 0.000192
+19.  looking             | Impact: 0.000192
+20.  -                   | Impact: 0.000169
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  its                 | Impact: -0.005643
+ 2.  for                 | Impact: -0.003318
+ 3.  .                   | Impact: -0.002492
+ 4.  but                 | Impact: -0.002471
+ 5.  ;                   | Impact: -0.002225
+ 6.  -                   | Impact: -0.002225
+ 7.  a                   | Impact: -0.002084
+ 8.  pc                  | Impact: -0.002084
+ 9.  com                 | Impact: -0.001784
+10. pa                   | Impact: -0.001784
+11.  -                   | Impact: -0.001743
+12.  )                   | Impact: -0.001743
+13.  network             | Impact: -0.001535
+14.  card                | Impact: -0.001535
+15.  modules             | Impact: -0.001298
+16.  on                  | Impact: -0.001298
+17.  the                 | Impact: -0.001298
+18.  :                   | Impact: -0.001185
+19.  cheers              | Impact: -0.001086
+20.  ,                   | Impact: -0.001086

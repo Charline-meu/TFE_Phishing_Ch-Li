@@ -1,0 +1,23 @@
+Top 20 Most Influential Features Across All Emails:
+Rank | Feature | Total Impact | Direction
+--------------------------------------------------
+ 1. : | -0.703069 | LEGITIMATE
+ 2. . | -0.397742 | LEGITIMATE
+ 3. planners | -0.346875 | LEGITIMATE
+ 4. you | 0.250547 | PHISHING
+ 5. ron | -0.245605 | LEGITIMATE
+ 6. ( | -0.217867 | LEGITIMATE
+ 7. contact | 0.191554 | PHISHING
+ 8. click | 0.186033 | PHISHING
+ 9. please | 0.178559 | PHISHING
+10. ] | -0.174167 | LEGITIMATE
+11. and | 0.170984 | PHISHING
+12. download | 0.164717 | PHISHING
+13. > | -0.161346 | LEGITIMATE
+14. sunday | -0.156650 | LEGITIMATE
+15. - | -0.156592 | LEGITIMATE
+16. en | -0.155383 | LEGITIMATE
+17. print | 0.148411 | PHISHING
+18. we | 0.145195 | PHISHING
+19. [ | -0.135348 | LEGITIMATE
+20. with | 0.127824 | PHISHING

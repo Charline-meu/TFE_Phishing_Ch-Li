@@ -1,0 +1,75 @@
+Sample 45
+=========
+
+Sample text preview: FROM: MISS FELISSA JENNY HARRISONABIDJAN COTE D'IVOIRE ADDRESS: BELLA HOUSE BP ABIDJAN BELVIEW CLOSS. PLS CONTACT ME AT DEAR GOOD FRIEND. I GOT YOUR C...
+
+Model prediction: [1.6398473e-04 9.9983597e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  at                  | Impact: 0.011626 → PHISHING
+ 2.  dear                | Impact: 0.011626 → PHISHING
+ 3.  good                | Impact: 0.010806 → PHISHING
+ 4.  friend              | Impact: 0.010806 → PHISHING
+ 5.  wealthy             | Impact: 0.010725 → PHISHING
+ 6.  bank                | Impact: 0.008259 → PHISHING
+ 7.  account             | Impact: 0.008259 → PHISHING
+ 8.  into                | Impact: 0.008055 → PHISHING
+ 9.  your                | Impact: 0.008055 → PHISHING
+10.  daughter            | Impact: 0.008010 → PHISHING
+11.  of                  | Impact: 0.008010 → PHISHING
+12.  into                | Impact: 0.007815 → PHISHING
+13.  your                | Impact: 0.007815 → PHISHING
+14.  reply               | Impact: 0.007454 → PHISHING
+15.  me                  | Impact: 0.007454 → PHISHING
+16.  please              | Impact: 0.007131 → PHISHING
+17.  quickly             | Impact: 0.007131 → PHISHING
+18.  private             | Impact: 0.007006 → PHISHING
+19.  email               | Impact: 0.007006 → PHISHING
+20.  address             | Impact: 0.007006 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  at                  | Impact: 0.011626
+ 2.  dear                | Impact: 0.011626
+ 3.  good                | Impact: 0.010806
+ 4.  friend              | Impact: 0.010806
+ 5.  wealthy             | Impact: 0.010725
+ 6.  bank                | Impact: 0.008259
+ 7.  account             | Impact: 0.008259
+ 8.  into                | Impact: 0.008055
+ 9.  your                | Impact: 0.008055
+10.  daughter            | Impact: 0.008010
+11.  of                  | Impact: 0.008010
+12.  into                | Impact: 0.007815
+13.  your                | Impact: 0.007815
+14.  reply               | Impact: 0.007454
+15.  me                  | Impact: 0.007454
+16.  please              | Impact: 0.007131
+17.  quickly             | Impact: 0.007131
+18.  private             | Impact: 0.007006
+19.  email               | Impact: 0.007006
+20.  address             | Impact: 0.007006
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  research            | Impact: -0.001754
+ 2.  for                 | Impact: -0.001754
+ 3.  web                 | Impact: -0.001754
+ 4.  sites               | Impact: -0.001754
+ 5.  .                   | Impact: -0.001381
+ 6.  such                | Impact: -0.000725
+ 7.  as                  | Impact: -0.000725
+ 8.  real                | Impact: -0.000725
+ 9.  estates             | Impact: -0.000725
+10.  management          | Impact: -0.000725
+11. s                    | Impact: -0.000725
+12.  or                  | Impact: -0.000725
+13.  stock               | Impact: -0.000725
+14.  marker              | Impact: -0.000725
+15. ts                   | Impact: -0.000725
+16.  investment          | Impact: -0.000725
+17.  .                   | Impact: -0.000725
+18.  .                   | Impact: -0.000455
+19.  bel                 | Impact: -0.000256
+20. view                 | Impact: -0.000256

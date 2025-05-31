@@ -1,0 +1,75 @@
+Phishing Sample 83
+==================
+
+Sample text preview: Please plan to attend a meeting at : p.m. TODAY, regarding the gas and power price situation in California. We will be discussing political, legal and...
+
+Model prediction: [9.9974662e-01 2.5336572e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  use                 | Impact: -0.009399 → LEGITIMATE
+ 2.  discussing          | Impact: -0.007254 → LEGITIMATE
+ 3.  please              | Impact: 0.006998 → PHISHING
+ 4.  (                   | Impact: 0.006683 → PHISHING
+ 5.  plan                | Impact: -0.005862 → LEGITIMATE
+ 6.  -                   | Impact: -0.004524 → LEGITIMATE
+ 7.  (                   | Impact: 0.004018 → PHISHING
+ 8.  participant         | Impact: -0.003835 → LEGITIMATE
+ 9.  implications        | Impact: -0.003738 → LEGITIMATE
+10.  code                | Impact: -0.003369 → LEGITIMATE
+11.  e                   | Impact: -0.003273 → LEGITIMATE
+12.  m                   | Impact: 0.003044 → PHISHING
+13.  :                   | Impact: -0.002791 → LEGITIMATE
+14.  be                  | Impact: 0.002779 → PHISHING
+15.  today               | Impact: 0.002593 → PHISHING
+16.  price               | Impact: -0.002336 → LEGITIMATE
+17.  :                   | Impact: -0.002277 → LEGITIMATE
+18.  :                   | Impact: -0.002258 → LEGITIMATE
+19.  time                | Impact: 0.002238 → PHISHING
+20.  :                   | Impact: -0.002206 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  please              | Impact: 0.006998
+ 2.  (                   | Impact: 0.006683
+ 3.  (                   | Impact: 0.004018
+ 4.  m                   | Impact: 0.003044
+ 5.  be                  | Impact: 0.002779
+ 6.  today               | Impact: 0.002593
+ 7.  time                | Impact: 0.002238
+ 8.  #                   | Impact: 0.002178
+ 9.  place               | Impact: 0.002134
+10.  in                  | Impact: 0.002060
+11.  m                   | Impact: 0.001681
+12.  ke                  | Impact: 0.001585
+13.  only                | Impact: 0.001504
+14.  will                | Impact: 0.001257
+15.  host                | Impact: 0.001251
+16.  california          | Impact: 0.001051
+17.  and                 | Impact: 0.000919
+18.  call                | Impact: 0.000887
+19.  legal               | Impact: 0.000867
+20.  houston             | Impact: 0.000830
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  use                 | Impact: -0.009399
+ 2.  discussing          | Impact: -0.007254
+ 3.  plan                | Impact: -0.005862
+ 4.  -                   | Impact: -0.004524
+ 5.  participant         | Impact: -0.003835
+ 6.  implications        | Impact: -0.003738
+ 7.  code                | Impact: -0.003369
+ 8.  e                   | Impact: -0.003273
+ 9.  :                   | Impact: -0.002791
+10.  price               | Impact: -0.002336
+11.  :                   | Impact: -0.002277
+12.  :                   | Impact: -0.002258
+13.  :                   | Impact: -0.002206
+14.  ,                   | Impact: -0.002020
+15.  p                   | Impact: -0.002004
+16. b                    | Impact: -0.001849
+17.  :                   | Impact: -0.001787
+18.  regarding           | Impact: -0.001758
+19.  -                   | Impact: -0.001725
+20.  meeting             | Impact: -0.001709

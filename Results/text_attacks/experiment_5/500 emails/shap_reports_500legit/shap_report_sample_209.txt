@@ -1,0 +1,75 @@
+Sample 209
+==========
+
+Sample text preview: On Tue, Sep :: + Matthias Saou wrote: > Before going, I did repackage the latest hackedbox and lbreakout that > both came out today. > > Have fun! (I ...
+
+Model prediction: [9.9978393e-01 2.1612801e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  matthias            | Impact: -0.027691 → LEGITIMATE
+ 2.  rpm                 | Impact: -0.017395 → LEGITIMATE
+ 3.  !                   | Impact: 0.011717 → PHISHING
+ 4.  list                | Impact: 0.010684 → PHISHING
+ 5.  mail                | Impact: 0.010025 → PHISHING
+ 6.  -                   | Impact: -0.008905 → LEGITIMATE
+ 7.  -                   | Impact: -0.008625 → LEGITIMATE
+ 8.  regards             | Impact: -0.008473 → LEGITIMATE
+ 9.  good                | Impact: -0.004777 → LEGITIMATE
+10.  !                   | Impact: 0.003979 → PHISHING
+11. ing                  | Impact: 0.003706 → PHISHING
+12.  >                   | Impact: -0.003551 → LEGITIMATE
+13.  >                   | Impact: -0.003505 → LEGITIMATE
+14.  _                   | Impact: 0.003367 → PHISHING
+15.  ;                   | Impact: -0.003345 → LEGITIMATE
+16.  -                   | Impact: -0.003345 → LEGITIMATE
+17.  )                   | Impact: -0.002991 → LEGITIMATE
+18.  rc                  | Impact: -0.002946 → LEGITIMATE
+19.  -                   | Impact: 0.002314 → PHISHING
+20.  gnome               | Impact: -0.002255 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.011717
+ 2.  list                | Impact: 0.010684
+ 3.  mail                | Impact: 0.010025
+ 4.  !                   | Impact: 0.003979
+ 5. ing                  | Impact: 0.003706
+ 6.  _                   | Impact: 0.003367
+ 7.  -                   | Impact: 0.002314
+ 8.  _                   | Impact: 0.001712
+ 9.  _                   | Impact: 0.001457
+10.  _                   | Impact: 0.001325
+11. kou                  | Impact: 0.001236
+12.  _                   | Impact: 0.000968
+13.  _                   | Impact: 0.000949
+14.  _                   | Impact: 0.000858
+15.  _                   | Impact: 0.000813
+16.  (                   | Impact: 0.000734
+17.  _                   | Impact: 0.000717
+18.                      | Impact: 0.000644
+19. rea                  | Impact: 0.000594
+20.  !                   | Impact: 0.000528
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  matthias            | Impact: -0.027691
+ 2.  rpm                 | Impact: -0.017395
+ 3.  -                   | Impact: -0.008905
+ 4.  -                   | Impact: -0.008625
+ 5.  regards             | Impact: -0.008473
+ 6.  good                | Impact: -0.004777
+ 7.  >                   | Impact: -0.003551
+ 8.  >                   | Impact: -0.003505
+ 9.  ;                   | Impact: -0.003345
+10.  -                   | Impact: -0.003345
+11.  )                   | Impact: -0.002991
+12.  rc                  | Impact: -0.002946
+13.  gnome               | Impact: -0.002255
+14.  ,                   | Impact: -0.002213
+15.  .                   | Impact: -0.002157
+16.  -                   | Impact: -0.002106
+17.  today               | Impact: -0.001998
+18.  time                | Impact: -0.001856
+19.  ;                   | Impact: -0.001536
+20.  tu                  | Impact: -0.001500

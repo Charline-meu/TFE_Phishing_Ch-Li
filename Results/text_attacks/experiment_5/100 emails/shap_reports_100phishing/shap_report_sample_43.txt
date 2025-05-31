@@ -1,0 +1,72 @@
+Phishing Sample 43
+==================
+
+Sample text preview: Dear Friend, Greetings!! I come to you with a sincere heart believing in Almighty Allah that you will consider my plight and come to help and also ben...
+
+Model prediction: [1.6344506e-04 9.9983656e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sustain             | Impact: 0.016064 → PHISHING
+ 2.  our                 | Impact: 0.016064 → PHISHING
+ 3.  family              | Impact: 0.016064 → PHISHING
+ 4.  so                  | Impact: 0.016064 → PHISHING
+ 5.  ,                   | Impact: 0.016064 → PHISHING
+ 6.  enough              | Impact: 0.012878 → PHISHING
+ 7.  money               | Impact: 0.012878 → PHISHING
+ 8.  now                 | Impact: 0.012878 → PHISHING
+ 9.  to                  | Impact: 0.012878 → PHISHING
+10.  in                  | Impact: 0.008437 → PHISHING
+11.  your                | Impact: 0.008437 → PHISHING
+12.  country             | Impact: 0.008437 → PHISHING
+13.  on                  | Impact: 0.008437 → PHISHING
+14.  for                 | Impact: 0.007734 → PHISHING
+15.  your                | Impact: 0.007734 → PHISHING
+16.  assistance          | Impact: 0.007734 → PHISHING
+17.  ,                   | Impact: 0.007734 → PHISHING
+18.  .                   | Impact: 0.006202 → PHISHING
+19.  con                 | Impact: 0.005601 → PHISHING
+20. si                   | Impact: 0.005601 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sustain             | Impact: 0.016064
+ 2.  our                 | Impact: 0.016064
+ 3.  family              | Impact: 0.016064
+ 4.  so                  | Impact: 0.016064
+ 5.  ,                   | Impact: 0.016064
+ 6.  enough              | Impact: 0.012878
+ 7.  money               | Impact: 0.012878
+ 8.  now                 | Impact: 0.012878
+ 9.  to                  | Impact: 0.012878
+10.  in                  | Impact: 0.008437
+11.  your                | Impact: 0.008437
+12.  country             | Impact: 0.008437
+13.  on                  | Impact: 0.008437
+14.  for                 | Impact: 0.007734
+15.  your                | Impact: 0.007734
+16.  assistance          | Impact: 0.007734
+17.  ,                   | Impact: 0.007734
+18.  .                   | Impact: 0.006202
+19.  con                 | Impact: 0.005601
+20. si                   | Impact: 0.005601
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.000568
+ 2.  following           | Impact: -0.000568
+ 3.  carefully           | Impact: -0.000568
+ 4.  please              | Impact: -0.000568
+ 5.  read                | Impact: -0.000568
+ 6.  once                | Impact: -0.000416
+ 7.  again               | Impact: -0.000416
+ 8.  ,                   | Impact: -0.000416
+ 9.  (                   | Impact: -0.000326
+10.  $                   | Impact: -0.000326
+11.  .                   | Impact: -0.000326
+12.  )                   | Impact: -0.000326
+13.  this                | Impact: -0.000000
+14.  amount              | Impact: -0.000000
+15.  of                  | Impact: -0.000000
+16.  $                   | Impact: -0.000000
+17.  .                   | Impact: -0.000000

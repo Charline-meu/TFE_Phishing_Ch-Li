@@ -1,0 +1,75 @@
+Phishing Sample 97
+==================
+
+Sample text preview: ______________________________________________________________________ This messsage was sent using the trial version of the st Class Mail Server soft...
+
+Model prediction: [0.9937742  0.00622579]
+Predicted class: LEGITIMATE with 0.9938 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  free                | Impact: 0.220733 → PHISHING
+ 2.  email               | Impact: 0.059077 → PHISHING
+ 3.  you                 | Impact: 0.057704 → PHISHING
+ 4.  at                  | Impact: -0.053527 → LEGITIMATE
+ 5. ge                   | Impact: -0.049388 → LEGITIMATE
+ 6.  instructions        | Impact: 0.046195 → PHISHING
+ 7.  can                 | Impact: 0.044483 → PHISHING
+ 8.  ?                   | Impact: -0.042397 → LEGITIMATE
+ 9. sol                  | Impact: -0.037853 → LEGITIMATE
+10. sol                  | Impact: -0.031530 → LEGITIMATE
+11.  un                  | Impact: -0.029868 → LEGITIMATE
+12.  can                 | Impact: 0.028555 → PHISHING
+13. ted                  | Impact: -0.027334 → LEGITIMATE
+14.  be                  | Impact: 0.026308 → PHISHING
+15.  mess                | Impact: -0.025009 → LEGITIMATE
+16. sa                   | Impact: -0.025009 → LEGITIMATE
+17.  un                  | Impact: -0.023199 → LEGITIMATE
+18.  for                 | Impact: 0.020552 → PHISHING
+19.  of                  | Impact: -0.018728 → LEGITIMATE
+20.  the                 | Impact: -0.018728 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  free                | Impact: 0.220733
+ 2.  email               | Impact: 0.059077
+ 3.  you                 | Impact: 0.057704
+ 4.  instructions        | Impact: 0.046195
+ 5.  can                 | Impact: 0.044483
+ 6.  can                 | Impact: 0.028555
+ 7.  be                  | Impact: 0.026308
+ 8.  for                 | Impact: 0.020552
+ 9.  reporting           | Impact: 0.016883
+10.  for                 | Impact: 0.016286
+11.  found               | Impact: 0.012638
+12.  mail                | Impact: 0.011152
+13.  server              | Impact: 0.011152
+14.  software            | Impact: 0.011152
+15.  this                | Impact: 0.008833
+16.  _                   | Impact: 0.006344
+17.  _                   | Impact: 0.006344
+18.  _                   | Impact: 0.004619
+19.  _                   | Impact: 0.004619
+20.  _                   | Impact: 0.004619
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  at                  | Impact: -0.053527
+ 2. ge                   | Impact: -0.049388
+ 3.  ?                   | Impact: -0.042397
+ 4. sol                  | Impact: -0.037853
+ 5. sol                  | Impact: -0.031530
+ 6.  un                  | Impact: -0.029868
+ 7. ted                  | Impact: -0.027334
+ 8.  mess                | Impact: -0.025009
+ 9. sa                   | Impact: -0.025009
+10.  un                  | Impact: -0.023199
+11.  of                  | Impact: -0.018728
+12.  the                 | Impact: -0.018728
+13.  trial               | Impact: -0.018207
+14.  version             | Impact: -0.018207
+15. ici                  | Impact: -0.016907
+16.  using               | Impact: -0.016033
+17.  the                 | Impact: -0.016033
+18.  email               | Impact: -0.015255
+19.  was                 | Impact: -0.014167
+20.  sent                | Impact: -0.014167

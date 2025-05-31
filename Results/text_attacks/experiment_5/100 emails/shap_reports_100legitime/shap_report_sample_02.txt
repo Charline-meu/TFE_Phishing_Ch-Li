@@ -1,0 +1,75 @@
+Phishing Sample 2
+=================
+
+Sample text preview: >>>>> On Fri, Sep , "Paul" == Paul Menage wrote: Paul> so you don't really need the unseen window unless you're Paul> using more sequences than just "...
+
+Model prediction: [9.9978393e-01 2.1611193e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  users               | Impact: -0.013899 → LEGITIMATE
+ 2.  ex                  | Impact: -0.002639 → LEGITIMATE
+ 3.  list                | Impact: -0.002156 → LEGITIMATE
+ 4.  mail                | Impact: -0.002051 → LEGITIMATE
+ 5.  unseen              | Impact: 0.001935 → PHISHING
+ 6.  _                   | Impact: 0.001782 → PHISHING
+ 7.  -                   | Impact: 0.001619 → PHISHING
+ 8.  _                   | Impact: 0.001527 → PHISHING
+ 9. m                    | Impact: -0.001421 → LEGITIMATE
+10.  _                   | Impact: 0.001171 → PHISHING
+11.  _                   | Impact: 0.001164 → PHISHING
+12.  i                   | Impact: -0.001135 → LEGITIMATE
+13.  sep                 | Impact: -0.001133 → LEGITIMATE
+14.  _                   | Impact: 0.001104 → PHISHING
+15.  _                   | Impact: 0.001040 → PHISHING
+16.  but                 | Impact: 0.001005 → PHISHING
+17.  is                  | Impact: 0.000997 → PHISHING
+18.  use                 | Impact: -0.000985 → LEGITIMATE
+19.  window              | Impact: -0.000838 → LEGITIMATE
+20.  manager             | Impact: -0.000838 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  unseen              | Impact: 0.001935
+ 2.  _                   | Impact: 0.001782
+ 3.  -                   | Impact: 0.001619
+ 4.  _                   | Impact: 0.001527
+ 5.  _                   | Impact: 0.001171
+ 6.  _                   | Impact: 0.001164
+ 7.  _                   | Impact: 0.001104
+ 8.  _                   | Impact: 0.001040
+ 9.  but                 | Impact: 0.001005
+10.  is                  | Impact: 0.000997
+11.  _                   | Impact: 0.000739
+12.  the                 | Impact: 0.000725
+13.  _                   | Impact: 0.000704
+14.  _                   | Impact: 0.000696
+15.  _                   | Impact: 0.000696
+16.  _                   | Impact: 0.000605
+17.  _                   | Impact: 0.000601
+18.  _                   | Impact: 0.000600
+19.  out                 | Impact: 0.000589
+20.  why                 | Impact: 0.000589
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  users               | Impact: -0.013899
+ 2.  ex                  | Impact: -0.002639
+ 3.  list                | Impact: -0.002156
+ 4.  mail                | Impact: -0.002051
+ 5. m                    | Impact: -0.001421
+ 6.  i                   | Impact: -0.001135
+ 7.  sep                 | Impact: -0.001133
+ 8.  use                 | Impact: -0.000985
+ 9.  window              | Impact: -0.000838
+10.  manager             | Impact: -0.000838
+11. h                    | Impact: -0.000678
+12.  and                 | Impact: -0.000663
+13.  -                   | Impact: -0.000663
+14.  window              | Impact: -0.000645
+15.  -                   | Impact: -0.000617
+16.  ex                  | Impact: -0.000608
+17. m                    | Impact: -0.000608
+18. h                    | Impact: -0.000608
+19.  hal                 | Impact: -0.000600
+20.  ,                   | Impact: -0.000568

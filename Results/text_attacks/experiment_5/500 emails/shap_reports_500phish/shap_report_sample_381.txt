@@ -1,0 +1,75 @@
+Sample 381
+==========
+
+Sample text preview: Hello Gentleman, I am Mr. Emmanuel Ede, an accountant officer with Our Bank,here in Cotonou Benin. I gathered your information from my country's inter...
+
+Model prediction: [1.8306191e-04 9.9981695e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  yours               | Impact: 0.014534 → PHISHING
+ 2.  sincerely           | Impact: 0.014534 → PHISHING
+ 3.  ,                   | Impact: 0.014534 → PHISHING
+ 4.  (                   | Impact: -0.013940 → LEGITIMATE
+ 5.  mr                  | Impact: 0.010970 → PHISHING
+ 6.  emmanuel            | Impact: 0.010970 → PHISHING
+ 7.  .                   | Impact: 0.010970 → PHISHING
+ 8.  from                | Impact: 0.009817 → PHISHING
+ 9.  you                 | Impact: 0.009817 → PHISHING
+10.  at                  | Impact: 0.009817 → PHISHING
+11.  this                | Impact: 0.009817 → PHISHING
+12.  private             | Impact: 0.007320 → PHISHING
+13.  e                   | Impact: 0.007320 → PHISHING
+14.  -                   | Impact: 0.007320 → PHISHING
+15.  mail                | Impact: 0.007320 → PHISHING
+16.  looking             | Impact: -0.006295 → LEGITIMATE
+17.  forward             | Impact: -0.006295 → LEGITIMATE
+18.  to                  | Impact: -0.006295 → LEGITIMATE
+19.  hear                | Impact: -0.006295 → LEGITIMATE
+20.                      | Impact: 0.005020 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  yours               | Impact: 0.014534
+ 2.  sincerely           | Impact: 0.014534
+ 3.  ,                   | Impact: 0.014534
+ 4.  mr                  | Impact: 0.010970
+ 5.  emmanuel            | Impact: 0.010970
+ 6.  .                   | Impact: 0.010970
+ 7.  from                | Impact: 0.009817
+ 8.  you                 | Impact: 0.009817
+ 9.  at                  | Impact: 0.009817
+10.  this                | Impact: 0.009817
+11.  private             | Impact: 0.007320
+12.  e                   | Impact: 0.007320
+13.  -                   | Impact: 0.007320
+14.  mail                | Impact: 0.007320
+15.                      | Impact: 0.005020
+16.  hello               | Impact: 0.005020
+17.  gentleman           | Impact: 0.005020
+18.  i                   | Impact: 0.004941
+19.  am                  | Impact: 0.004941
+20.  contact             | Impact: 0.004941
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.013940
+ 2.  looking             | Impact: -0.006295
+ 3.  forward             | Impact: -0.006295
+ 4.  to                  | Impact: -0.006295
+ 5.  hear                | Impact: -0.006295
+ 6.  john                | Impact: -0.003327
+ 7.  ed                  | Impact: -0.003327
+ 8. e                    | Impact: -0.003327
+ 9.  -                   | Impact: -0.003327
+10.  -                   | Impact: -0.003327
+11.  -                   | Impact: -0.003327
+12.  -                   | Impact: -0.003327
+13.  a                   | Impact: -0.001050
+14.  special             | Impact: -0.001050
+15.  ass                 | Impact: -0.001050
+16.  advise              | Impact: -0.001050
+17.  to                  | Impact: -0.001050
+18.  the                 | Impact: -0.001050
+19.  op                  | Impact: -0.001050
+20. ec                   | Impact: -0.001050

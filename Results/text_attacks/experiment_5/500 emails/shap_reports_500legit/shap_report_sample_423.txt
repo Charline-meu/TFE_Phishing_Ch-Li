@@ -1,0 +1,75 @@
+Sample 423
+==========
+
+Sample text preview: >>>>> "S" == Stephen D Williams writes: S> A) Which religion is it that can claim no foul actions in its S> past? Certainly not Christianity, Islam, e...
+
+Model prediction: [9.9970055e-01 2.9944186e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  me                  | Impact: -0.000755 → LEGITIMATE
+ 2. bs                   | Impact: -0.000755 → LEGITIMATE
+ 3. t                    | Impact: -0.000755 → LEGITIMATE
+ 4.  .                   | Impact: -0.000755 → LEGITIMATE
+ 5.  me                  | Impact: -0.000703 → LEGITIMATE
+ 6. bs                   | Impact: -0.000703 → LEGITIMATE
+ 7. t                    | Impact: -0.000703 → LEGITIMATE
+ 8.  .                   | Impact: -0.000703 → LEGITIMATE
+ 9.  s                   | Impact: -0.000595 → LEGITIMATE
+10.  >                   | Impact: -0.000595 → LEGITIMATE
+11.  c                   | Impact: -0.000595 → LEGITIMATE
+12.  )                   | Impact: -0.000595 → LEGITIMATE
+13.  which               | Impact: -0.000573 → LEGITIMATE
+14.  religion            | Impact: -0.000573 → LEGITIMATE
+15.  is                  | Impact: -0.000573 → LEGITIMATE
+16.  it                  | Impact: -0.000573 → LEGITIMATE
+17.  s                   | Impact: -0.000558 → LEGITIMATE
+18.  >                   | Impact: -0.000558 → LEGITIMATE
+19.  .                   | Impact: -0.000558 → LEGITIMATE
+20.  source              | Impact: -0.000540 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  only                | Impact: 0.000397
+ 2.  the                 | Impact: 0.000397
+ 3.  one                 | Impact: 0.000397
+ 4.  founded             | Impact: 0.000397
+ 5.  by                  | Impact: 0.000397
+ 6.  the                 | Impact: 0.000397
+ 7.  ny                  | Impact: 0.000322
+ 8. abi                  | Impact: 0.000322
+ 9. ng                   | Impact: 0.000322
+10. i                    | Impact: 0.000322
+11.  were                | Impact: 0.000322
+12.  leg                 | Impact: 0.000322
+13. it                   | Impact: 0.000322
+14.  and                 | Impact: 0.000322
+15.  to                  | Impact: 0.000320
+16.  remain              | Impact: 0.000320
+17.  part                | Impact: 0.000320
+18.  of                  | Impact: 0.000320
+19.  britain             | Impact: 0.000320
+20.  .                   | Impact: 0.000320
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  me                  | Impact: -0.000755
+ 2. bs                   | Impact: -0.000755
+ 3. t                    | Impact: -0.000755
+ 4.  .                   | Impact: -0.000755
+ 5.  me                  | Impact: -0.000703
+ 6. bs                   | Impact: -0.000703
+ 7. t                    | Impact: -0.000703
+ 8.  .                   | Impact: -0.000703
+ 9.  s                   | Impact: -0.000595
+10.  >                   | Impact: -0.000595
+11.  c                   | Impact: -0.000595
+12.  )                   | Impact: -0.000595
+13.  which               | Impact: -0.000573
+14.  religion            | Impact: -0.000573
+15.  is                  | Impact: -0.000573
+16.  it                  | Impact: -0.000573
+17.  s                   | Impact: -0.000558
+18.  >                   | Impact: -0.000558
+19.  .                   | Impact: -0.000558
+20.  source              | Impact: -0.000540

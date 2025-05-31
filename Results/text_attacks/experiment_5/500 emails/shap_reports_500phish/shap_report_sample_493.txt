@@ -1,0 +1,71 @@
+Sample 493
+==========
+
+Sample text preview: Dear Friend, My name is Edward Moore QC.Principal partner Edward Moore & Associates London UK and I was compelled by my late client's request to conta...
+
+Model prediction: [1.5191187e-04 9.9984801e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  urgent              | Impact: 0.035238 → PHISHING
+ 2.  name                | Impact: 0.032874 → PHISHING
+ 3.  you                 | Impact: 0.032619 → PHISHING
+ 4.  to                  | Impact: 0.026585 → PHISHING
+ 5.  is                  | Impact: 0.026013 → PHISHING
+ 6.  my                  | Impact: 0.025510 → PHISHING
+ 7.  malaysian           | Impact: 0.024068 → PHISHING
+ 8.  hassan              | Impact: 0.023417 → PHISHING
+ 9.  your                | Impact: 0.023053 → PHISHING
+10.  dear                | Impact: 0.021240 → PHISHING
+11.  you                 | Impact: 0.019771 → PHISHING
+12.  action              | Impact: 0.019238 → PHISHING
+13.  industrialist       | Impact: 0.018129 → PHISHING
+14.  late                | Impact: 0.018023 → PHISHING
+15.  name                | Impact: 0.015932 → PHISHING
+16.  your                | Impact: 0.015208 → PHISHING
+17.  direct              | Impact: 0.015208 → PHISHING
+18.  telephone           | Impact: 0.015208 → PHISHING
+19. ul                   | Impact: 0.013368 → PHISHING
+20.  friend              | Impact: 0.013345 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  urgent              | Impact: 0.035238
+ 2.  name                | Impact: 0.032874
+ 3.  you                 | Impact: 0.032619
+ 4.  to                  | Impact: 0.026585
+ 5.  is                  | Impact: 0.026013
+ 6.  my                  | Impact: 0.025510
+ 7.  malaysian           | Impact: 0.024068
+ 8.  hassan              | Impact: 0.023417
+ 9.  your                | Impact: 0.023053
+10.  dear                | Impact: 0.021240
+11.  you                 | Impact: 0.019771
+12.  action              | Impact: 0.019238
+13.  industrialist       | Impact: 0.018129
+14.  late                | Impact: 0.018023
+15.  name                | Impact: 0.015932
+16.  your                | Impact: 0.015208
+17.  direct              | Impact: 0.015208
+18.  telephone           | Impact: 0.015208
+19. ul                   | Impact: 0.013368
+20.  friend              | Impact: 0.013345
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  qc                  | Impact: -0.006211
+ 2.  moore               | Impact: -0.006108
+ 3.  .                   | Impact: -0.002313
+ 4.  i                   | Impact: -0.001897
+ 5.  expect              | Impact: -0.001897
+ 6.  .                   | Impact: -0.001738
+ 7.  response            | Impact: -0.001592
+ 8.  :                   | Impact: -0.001264
+ 9.  +                   | Impact: -0.001264
+10.  -                   | Impact: -0.001264
+11.  or                  | Impact: -0.001264
+12.  edward              | Impact: -0.001230
+13.  moore               | Impact: -0.001230
+14.  q                   | Impact: -0.001230
+15.  ,                   | Impact: -0.000704
+16.  ,                   | Impact: -0.000385

@@ -1,0 +1,70 @@
+Sample 412
+==========
+
+Sample text preview: URL: Date: Tue, Sep :: GMT Scoble[]: "I'm just not that excited by much that Microsoft is doing." []
+
+Model prediction: [9.9971265e-01 2.8737338e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  microsoft           | Impact: -0.004600 → LEGITIMATE
+ 2.  "                   | Impact: -0.003925 → LEGITIMATE
+ 3.  ur                  | Impact: -0.003292 → LEGITIMATE
+ 4.  :                   | Impact: -0.003119 → LEGITIMATE
+ 5.  just                | Impact: 0.002415 → PHISHING
+ 6.  :                   | Impact: -0.002012 → LEGITIMATE
+ 7.  ,                   | Impact: 0.002000 → PHISHING
+ 8.  ]                   | Impact: -0.001910 → LEGITIMATE
+ 9. l                    | Impact: -0.001908 → LEGITIMATE
+10.  date                | Impact: 0.001885 → PHISHING
+11.  gm                  | Impact: -0.001526 → LEGITIMATE
+12.  that                | Impact: 0.001111 → PHISHING
+13. e                    | Impact: 0.000895 → PHISHING
+14.  excited             | Impact: -0.000830 → LEGITIMATE
+15. t                    | Impact: 0.000813 → PHISHING
+16.  tu                  | Impact: 0.000748 → PHISHING
+17.  much                | Impact: 0.000738 → PHISHING
+18.  sc                  | Impact: -0.000699 → LEGITIMATE
+19.  :                   | Impact: -0.000683 → LEGITIMATE
+20.  .                   | Impact: -0.000678 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  just                | Impact: 0.002415
+ 2.  ,                   | Impact: 0.002000
+ 3.  date                | Impact: 0.001885
+ 4.  that                | Impact: 0.001111
+ 5. e                    | Impact: 0.000895
+ 6. t                    | Impact: 0.000813
+ 7.  tu                  | Impact: 0.000748
+ 8.  much                | Impact: 0.000738
+ 9.  by                  | Impact: 0.000631
+10. le                   | Impact: 0.000502
+11.  sep                 | Impact: 0.000331
+12.  is                  | Impact: 0.000314
+13.  doing               | Impact: 0.000277
+14.                      | Impact: 0.000010
+15.                      | Impact: 0.000001
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  microsoft           | Impact: -0.004600
+ 2.  "                   | Impact: -0.003925
+ 3.  ur                  | Impact: -0.003292
+ 4.  :                   | Impact: -0.003119
+ 5.  :                   | Impact: -0.002012
+ 6.  ]                   | Impact: -0.001910
+ 7. l                    | Impact: -0.001908
+ 8.  gm                  | Impact: -0.001526
+ 9.  excited             | Impact: -0.000830
+10.  sc                  | Impact: -0.000699
+11.  :                   | Impact: -0.000683
+12.  .                   | Impact: -0.000678
+13.  m                   | Impact: -0.000568
+14.  '                   | Impact: -0.000535
+15.  :                   | Impact: -0.000437
+16.  [                   | Impact: -0.000402
+17.  that                | Impact: -0.000306
+18.  :                   | Impact: -0.000291
+19.  [                   | Impact: -0.000242
+20.  ]                   | Impact: -0.000239

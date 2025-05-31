@@ -1,0 +1,75 @@
+Sample 498
+==========
+
+Sample text preview: FERC has set a meeting for Monday June am PDT wherein it has noticed its California and WSCC-wide dockets. The meeting has been timed in advance of co...
+
+Model prediction: [9.9976915e-01 2.3085997e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  minority            | Impact: -0.015709 → LEGITIMATE
+ 2.  house               | Impact: -0.012602 → LEGITIMATE
+ 3.  forward             | Impact: -0.005969 → LEGITIMATE
+ 4.  leader              | Impact: -0.005485 → LEGITIMATE
+ 5.  dick                | Impact: -0.005485 → LEGITIMATE
+ 6.  electricity         | Impact: -0.005024 → LEGITIMATE
+ 7.  prices              | Impact: -0.005024 → LEGITIMATE
+ 8.  energy              | Impact: -0.004429 → LEGITIMATE
+ 9.  service             | Impact: -0.004429 → LEGITIMATE
+10.  expect              | Impact: -0.003643 → LEGITIMATE
+11.  /                   | Impact: -0.003489 → LEGITIMATE
+12.  /                   | Impact: -0.003489 → LEGITIMATE
+13.  information         | Impact: -0.003197 → LEGITIMATE
+14.  -                   | Impact: -0.003158 → LEGITIMATE
+15.  wide                | Impact: -0.003158 → LEGITIMATE
+16.  scope               | Impact: -0.003158 → LEGITIMATE
+17.  mo                  | Impact: 0.003105 → PHISHING
+18.  less                | Impact: -0.002766 → LEGITIMATE
+19.  intervention        | Impact: -0.002766 → LEGITIMATE
+20.  dow                 | Impact: -0.002689 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mo                  | Impact: 0.003105
+ 2.  inc                 | Impact: 0.002521
+ 3.  d                   | Impact: 0.002364
+ 4.  -                   | Impact: 0.002364
+ 5.  .                   | Impact: 0.002277
+ 6.  )                   | Impact: 0.001905
+ 7.  hours               | Impact: 0.001620
+ 8.  to                  | Impact: 0.001442
+ 9.  all                 | Impact: 0.001442
+10.  we                  | Impact: 0.001117
+11.  will                | Impact: 0.001117
+12.  last                | Impact: 0.000904
+13.  week                | Impact: 0.000904
+14.  ,                   | Impact: 0.000904
+15.  ,                   | Impact: 0.000886
+16.  has                 | Impact: 0.000707
+17.  set                 | Impact: 0.000707
+18.  s                   | Impact: 0.000647
+19.  .                   | Impact: 0.000647
+20.  ,                   | Impact: 0.000500
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  minority            | Impact: -0.015709
+ 2.  house               | Impact: -0.012602
+ 3.  forward             | Impact: -0.005969
+ 4.  leader              | Impact: -0.005485
+ 5.  dick                | Impact: -0.005485
+ 6.  electricity         | Impact: -0.005024
+ 7.  prices              | Impact: -0.005024
+ 8.  energy              | Impact: -0.004429
+ 9.  service             | Impact: -0.004429
+10.  expect              | Impact: -0.003643
+11.  /                   | Impact: -0.003489
+12.  /                   | Impact: -0.003489
+13.  information         | Impact: -0.003197
+14.  -                   | Impact: -0.003158
+15.  wide                | Impact: -0.003158
+16.  scope               | Impact: -0.003158
+17.  less                | Impact: -0.002766
+18.  intervention        | Impact: -0.002766
+19.  dow                 | Impact: -0.002689
+20.  jones               | Impact: -0.002689

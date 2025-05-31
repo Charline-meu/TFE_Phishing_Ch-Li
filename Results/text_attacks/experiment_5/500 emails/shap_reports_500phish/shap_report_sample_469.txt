@@ -1,0 +1,75 @@
+Sample 469
+==========
+
+Sample text preview: I AM DR,adophilusjaja, THE ACCOUNTANT GENERAL OF UNITED BANK OF AFRICA PLC. I REQUEST YOUR CO-OPERATION IN THE TRANSFER OF A HUGE AMOUNT OF MONEY. ON ...
+
+Model prediction: [1.7764806e-04 9.9982244e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.027816 → PHISHING
+ 2.  me                  | Impact: 0.018187 → PHISHING
+ 3.  with                | Impact: 0.018187 → PHISHING
+ 4.  your                | Impact: 0.018187 → PHISHING
+ 5.  full                | Impact: 0.018187 → PHISHING
+ 6.  name                | Impact: 0.018187 → PHISHING
+ 7.  ahmed               | Impact: 0.010394 → PHISHING
+ 8.  ,                   | Impact: 0.009459 → PHISHING
+ 9.  i                   | Impact: 0.008577 → PHISHING
+10.  request             | Impact: 0.008577 → PHISHING
+11.  your                | Impact: 0.008577 → PHISHING
+12.  co                  | Impact: 0.008577 → PHISHING
+13.  amount              | Impact: 0.006549 → PHISHING
+14.  of                  | Impact: 0.006549 → PHISHING
+15.  money               | Impact: 0.006549 → PHISHING
+16.  .                   | Impact: 0.006549 → PHISHING
+17.  you                 | Impact: 0.006379 → PHISHING
+18. su                   | Impact: 0.006379 → PHISHING
+19. f                    | Impact: 0.006379 → PHISHING
+20.                      | Impact: 0.005774 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.027816
+ 2.  me                  | Impact: 0.018187
+ 3.  with                | Impact: 0.018187
+ 4.  your                | Impact: 0.018187
+ 5.  full                | Impact: 0.018187
+ 6.  name                | Impact: 0.018187
+ 7.  ahmed               | Impact: 0.010394
+ 8.  ,                   | Impact: 0.009459
+ 9.  i                   | Impact: 0.008577
+10.  request             | Impact: 0.008577
+11.  your                | Impact: 0.008577
+12.  co                  | Impact: 0.008577
+13.  amount              | Impact: 0.006549
+14.  of                  | Impact: 0.006549
+15.  money               | Impact: 0.006549
+16.  .                   | Impact: 0.006549
+17.  you                 | Impact: 0.006379
+18. su                   | Impact: 0.006379
+19. f                    | Impact: 0.006379
+20.                      | Impact: 0.005774
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  on                  | Impact: -0.000797
+ 2.  sept                | Impact: -0.000797
+ 3.  .                   | Impact: -0.000797
+ 4.  notification        | Impact: -0.000537
+ 5.  to                  | Impact: -0.000537
+ 6.  his                 | Impact: -0.000537
+ 7.  on                  | Impact: -0.000537
+ 8.  maturity            | Impact: -0.000537
+ 9.  we                  | Impact: -0.000537
+10.  sent                | Impact: -0.000537
+11.  a                   | Impact: -0.000537
+12.  routine             | Impact: -0.000537
+13.  forward             | Impact: -0.000137
+14. ing                  | Impact: -0.000137
+15.  address             | Impact: -0.000137
+16.  but                 | Impact: -0.000137
+17.  got                 | Impact: -0.000137
+18.  no                  | Impact: -0.000137
+19.  reply               | Impact: -0.000137
+20.  .                   | Impact: -0.000137

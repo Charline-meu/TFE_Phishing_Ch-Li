@@ -1,0 +1,75 @@
+Sample 115
+==========
+
+Sample text preview: Even though I walk through the darkest valley, I fear no evil; for you are with me; Your rod and your staff they comfort me. Psalm :. Beloved in Chris...
+
+Model prediction: [2.3161111e-04 9.9976844e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.012603 → PHISHING
+ 2.  names               | Impact: 0.012603 → PHISHING
+ 3.  ,                   | Impact: 0.012603 → PHISHING
+ 4.  past                | Impact: 0.008728 → PHISHING
+ 5.  mr                  | Impact: 0.008728 → PHISHING
+ 6.  estrada             | Impact: 0.008728 → PHISHING
+ 7.  regime              | Impact: 0.008728 → PHISHING
+ 8.  in                  | Impact: 0.007312 → PHISHING
+ 9.  estrada             | Impact: 0.007312 → PHISHING
+10.  government          | Impact: 0.007312 → PHISHING
+11.  in                  | Impact: 0.007312 → PHISHING
+12.  philippines         | Impact: 0.007073 → PHISHING
+13.  that                | Impact: 0.007073 → PHISHING
+14.  served              | Impact: 0.007073 → PHISHING
+15.  under               | Impact: 0.007073 → PHISHING
+16.  this                | Impact: 0.006515 → PHISHING
+17.  money               | Impact: 0.006515 → PHISHING
+18.  to                  | Impact: 0.006479 → PHISHING
+19.  my                  | Impact: 0.006479 → PHISHING
+20.  government          | Impact: 0.006479 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.012603
+ 2.  names               | Impact: 0.012603
+ 3.  ,                   | Impact: 0.012603
+ 4.  past                | Impact: 0.008728
+ 5.  mr                  | Impact: 0.008728
+ 6.  estrada             | Impact: 0.008728
+ 7.  regime              | Impact: 0.008728
+ 8.  in                  | Impact: 0.007312
+ 9.  estrada             | Impact: 0.007312
+10.  government          | Impact: 0.007312
+11.  in                  | Impact: 0.007312
+12.  philippines         | Impact: 0.007073
+13.  that                | Impact: 0.007073
+14.  served              | Impact: 0.007073
+15.  under               | Impact: 0.007073
+16.  this                | Impact: 0.006515
+17.  money               | Impact: 0.006515
+18.  to                  | Impact: 0.006479
+19.  my                  | Impact: 0.006479
+20.  government          | Impact: 0.006479
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  immediately         | Impact: -0.001035
+ 2.  i                   | Impact: -0.001035
+ 3.  got                 | Impact: -0.001035
+ 4.  retired             | Impact: -0.001035
+ 5.  ,                   | Impact: -0.001035
+ 6.  i                   | Impact: -0.000838
+ 7.  have                | Impact: -0.000838
+ 8.  been                | Impact: -0.000838
+ 9.  thinking            | Impact: -0.000838
+10.  of                  | Impact: -0.000838
+11.  the                 | Impact: -0.000838
+12.  particular          | Impact: -0.000838
+13.  thing               | Impact: -0.000838
+14.                      | Impact: -0.000638
+15.  even                | Impact: -0.000638
+16.  though              | Impact: -0.000638
+17.  i                   | Impact: -0.000638
+18.  the                 | Impact: -0.000616
+19.  darkest             | Impact: -0.000616
+20.  valley              | Impact: -0.000616

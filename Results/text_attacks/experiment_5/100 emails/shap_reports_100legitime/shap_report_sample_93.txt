@@ -1,0 +1,75 @@
+Phishing Sample 93
+==================
+
+Sample text preview: FYI only ---------------------- Forwarded by Sara Shackleton/HOU/ECT on // : PM --------------------------- Tanya Rohauer // : PM To: Edmund Cooper/LO...
+
+Model prediction: [9.9977583e-01 2.2417471e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ec                  | Impact: -0.004926 → LEGITIMATE
+ 2.  en                  | Impact: -0.003010 → LEGITIMATE
+ 3.  only                | Impact: 0.002592 → PHISHING
+ 4. a                    | Impact: -0.002536 → LEGITIMATE
+ 5.  sit                 | Impact: 0.001624 → PHISHING
+ 6.  this                | Impact: 0.001602 → PHISHING
+ 7. a                    | Impact: 0.001422 → PHISHING
+ 8.  :                   | Impact: -0.001243 → LEGITIMATE
+ 9.  legal               | Impact: 0.001203 → PHISHING
+10. leton                | Impact: -0.001201 → LEGITIMATE
+11.  -                   | Impact: -0.001036 → LEGITIMATE
+12.  document            | Impact: 0.001033 → PHISHING
+13.  by                  | Impact: -0.000999 → LEGITIMATE
+14.  ec                  | Impact: -0.000906 → LEGITIMATE
+15.  ec                  | Impact: -0.000885 → LEGITIMATE
+16.  receive             | Impact: 0.000855 → PHISHING
+17.  shack               | Impact: -0.000842 → LEGITIMATE
+18. t                    | Impact: 0.000818 → PHISHING
+19.  suggested           | Impact: -0.000810 → LEGITIMATE
+20.  sara                | Impact: -0.000798 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  only                | Impact: 0.002592
+ 2.  sit                 | Impact: 0.001624
+ 3.  this                | Impact: 0.001602
+ 4. a                    | Impact: 0.001422
+ 5.  legal               | Impact: 0.001203
+ 6.  document            | Impact: 0.001033
+ 7.  receive             | Impact: 0.000855
+ 8. t                    | Impact: 0.000818
+ 9.  you                 | Impact: 0.000767
+10.  @                   | Impact: 0.000630
+11.  prepare             | Impact: 0.000521
+12.  tanya               | Impact: 0.000486
+13.  all                 | Impact: 0.000432
+14.  @                   | Impact: 0.000407
+15.  on                  | Impact: 0.000388
+16.  -                   | Impact: 0.000266
+17.  -                   | Impact: 0.000266
+18.  -                   | Impact: 0.000245
+19.  -                   | Impact: 0.000242
+20.  -                   | Impact: 0.000209
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ec                  | Impact: -0.004926
+ 2.  en                  | Impact: -0.003010
+ 3. a                    | Impact: -0.002536
+ 4.  :                   | Impact: -0.001243
+ 5. leton                | Impact: -0.001201
+ 6.  -                   | Impact: -0.001036
+ 7.  by                  | Impact: -0.000999
+ 8.  ec                  | Impact: -0.000906
+ 9.  ec                  | Impact: -0.000885
+10.  shack               | Impact: -0.000842
+11.  suggested           | Impact: -0.000810
+12.  sara                | Impact: -0.000798
+13.  flynn               | Impact: -0.000795
+14.  ec                  | Impact: -0.000741
+15.  law                 | Impact: -0.000725
+16.  /                   | Impact: -0.000678
+17.  has                 | Impact: -0.000627
+18.  ec                  | Impact: -0.000618
+19.  forward             | Impact: -0.000586
+20.  sara                | Impact: -0.000535

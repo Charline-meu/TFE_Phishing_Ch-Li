@@ -1,0 +1,75 @@
+Phishing Sample 13
+==================
+
+Sample text preview: FROM: MRS,JANE ABBAS Phone:+- ATTN:DIRECTOR/CEO Iam Mrs. JANE ABBAS, the wife of the former adviser suliman H. Abbas, who is in charge of arms and acq...
+
+Model prediction: [1.8186129e-04 9.9981815e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mrs                 | Impact: 0.015829 → PHISHING
+ 2.  in                  | Impact: 0.013461 → PHISHING
+ 3.  your                | Impact: 0.013461 → PHISHING
+ 4.  country             | Impact: 0.013461 → PHISHING
+ 5.  your                | Impact: 0.013261 → PHISHING
+ 6.  private             | Impact: 0.013261 → PHISHING
+ 7.  telephone           | Impact: 0.013261 → PHISHING
+ 8.  best                | Impact: 0.012592 → PHISHING
+ 9.  regards             | Impact: 0.012592 → PHISHING
+10.  to                  | Impact: 0.010322 → PHISHING
+11.  us                  | Impact: 0.010322 → PHISHING
+12.  of                  | Impact: 0.010232 → PHISHING
+13.  your                | Impact: 0.010232 → PHISHING
+14.  account             | Impact: 0.010232 → PHISHING
+15.  your                | Impact: 0.008824 → PHISHING
+16.  urgent              | Impact: 0.008824 → PHISHING
+17.  please              | Impact: 0.008494 → PHISHING
+18.  include             | Impact: 0.008494 → PHISHING
+19.  daughter            | Impact: 0.005678 → PHISHING
+20.  to                  | Impact: 0.005678 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mrs                 | Impact: 0.015829
+ 2.  in                  | Impact: 0.013461
+ 3.  your                | Impact: 0.013461
+ 4.  country             | Impact: 0.013461
+ 5.  your                | Impact: 0.013261
+ 6.  private             | Impact: 0.013261
+ 7.  telephone           | Impact: 0.013261
+ 8.  best                | Impact: 0.012592
+ 9.  regards             | Impact: 0.012592
+10.  to                  | Impact: 0.010322
+11.  us                  | Impact: 0.010322
+12.  of                  | Impact: 0.010232
+13.  your                | Impact: 0.010232
+14.  account             | Impact: 0.010232
+15.  your                | Impact: 0.008824
+16.  urgent              | Impact: 0.008824
+17.  please              | Impact: 0.008494
+18.  include             | Impact: 0.008494
+19.  daughter            | Impact: 0.005678
+20.  to                  | Impact: 0.005678
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ?                   | Impact: -0.001050
+ 2.  yahoo               | Impact: -0.001050
+ 3.  !                   | Impact: -0.001050
+ 4.  mail                | Impact: -0.001050
+ 5.  -                   | Impact: -0.001050
+ 6.  now                 | Impact: -0.001050
+ 7.  with                | Impact: -0.001050
+ 8.  mb                  | Impact: -0.001050
+ 9.  free                | Impact: -0.001050
+10.  storage             | Impact: -0.001050
+11.  .                   | Impact: -0.001050
+12.                      | Impact: -0.000778
+13.  learn               | Impact: -0.000778
+14.  more                | Impact: -0.000778
+15.  .                   | Impact: -0.000778
+16.  %                   | Impact: -0.000720
+17.  will                | Impact: -0.000720
+18.  be                  | Impact: -0.000720
+19.  mapped              | Impact: -0.000720
+20.  out                 | Impact: -0.000351

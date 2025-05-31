@@ -1,0 +1,69 @@
+Phishing Sample 28
+==================
+
+Sample text preview: Dear Friend , Greetings to you, I am Barrister Chuks Anthony.A a senior advocate and the legal adviser attached to the former Liberian President Charl...
+
+Model prediction: [1.8645763e-04 9.9981362e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.010692 → PHISHING
+ 2.  .                   | Impact: 0.010692 → PHISHING
+ 3.  nigeria             | Impact: 0.007385 → PHISHING
+ 4.  .                   | Impact: 0.007385 → PHISHING
+ 5.  liberia             | Impact: 0.006006 → PHISHING
+ 6. n                    | Impact: 0.006006 → PHISHING
+ 7.  president           | Impact: 0.006006 → PHISHING
+ 8.  charles             | Impact: 0.006006 → PHISHING
+ 9.  most                | Impact: 0.005545 → PHISHING
+10.  secure              | Impact: 0.005545 → PHISHING
+11.  way                 | Impact: 0.005545 → PHISHING
+12.  to                  | Impact: 0.005545 → PHISHING
+13.  taylor              | Impact: 0.005302 → PHISHING
+14.  who                 | Impact: 0.005302 → PHISHING
+15.  is                  | Impact: 0.005302 → PHISHING
+16.  currently           | Impact: 0.005302 → PHISHING
+17.  securing            | Impact: 0.005171 → PHISHING
+18.  his                 | Impact: 0.005171 → PHISHING
+19.  asylum              | Impact: 0.005171 → PHISHING
+20.  to                  | Impact: 0.005171 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.010692
+ 2.  .                   | Impact: 0.010692
+ 3.  nigeria             | Impact: 0.007385
+ 4.  .                   | Impact: 0.007385
+ 5.  liberia             | Impact: 0.006006
+ 6. n                    | Impact: 0.006006
+ 7.  president           | Impact: 0.006006
+ 8.  charles             | Impact: 0.006006
+ 9.  most                | Impact: 0.005545
+10.  secure              | Impact: 0.005545
+11.  way                 | Impact: 0.005545
+12.  to                  | Impact: 0.005545
+13.  taylor              | Impact: 0.005302
+14.  who                 | Impact: 0.005302
+15.  is                  | Impact: 0.005302
+16.  currently           | Impact: 0.005302
+17.  securing            | Impact: 0.005171
+18.  his                 | Impact: 0.005171
+19.  asylum              | Impact: 0.005171
+20.  to                  | Impact: 0.005171
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  very                | Impact: -0.000346
+ 2.  straight            | Impact: -0.000346
+ 3.  forward             | Impact: -0.000346
+ 4.  generous            | Impact: -0.000346
+ 5.  person              | Impact: -0.000346
+ 6.  .                   | Impact: -0.000346
+ 7.  and                 | Impact: -0.000346
+ 8.  considering         | Impact: -0.000141
+ 9.  it                  | Impact: -0.000141
+10.  '                   | Impact: -0.000141
+11.  s                   | Impact: -0.000141
+12.  delicate            | Impact: -0.000141
+13.  nature              | Impact: -0.000141
+14.  .                   | Impact: -0.000141

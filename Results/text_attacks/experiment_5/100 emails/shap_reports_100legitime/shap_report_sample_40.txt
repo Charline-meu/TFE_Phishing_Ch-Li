@@ -1,0 +1,75 @@
+Phishing Sample 40
+==================
+
+Sample text preview: Seems like Edsger W. Dijkstra has passed away. ------- Forwarded Message From: "Edsger W. Dijkstra" Subject: from the family Cc: version=. Content-Typ...
+
+Model prediction: [0.99668163 0.00331831]
+Predicted class: LEGITIMATE with 0.9967 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  like                | Impact: -0.072984 → LEGITIMATE
+ 2.  our                 | Impact: 0.071614 → PHISHING
+ 3.  husband             | Impact: 0.071614 → PHISHING
+ 4.  dear                | Impact: 0.052046 → PHISHING
+ 5.                      | Impact: -0.045574 → LEGITIMATE
+ 6.  seems               | Impact: -0.045574 → LEGITIMATE
+ 7.  "                   | Impact: -0.033539 → LEGITIMATE
+ 8.  subject             | Impact: -0.033539 → LEGITIMATE
+ 9.  text                | Impact: 0.027523 → PHISHING
+10.  /                   | Impact: 0.027523 → PHISHING
+11.  :                   | Impact: -0.025094 → LEGITIMATE
+12.  from                | Impact: -0.025094 → LEGITIMATE
+13.  marcus              | Impact: -0.023449 → LEGITIMATE
+14.  j                   | Impact: -0.023449 → LEGITIMATE
+15.  him                 | Impact: 0.022339 → PHISHING
+16.  very                | Impact: 0.022339 → PHISHING
+17.  and                 | Impact: 0.022197 → PHISHING
+18.  cc                  | Impact: -0.021973 → LEGITIMATE
+19.  :                   | Impact: -0.021973 → LEGITIMATE
+20.  father              | Impact: 0.019395 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  our                 | Impact: 0.071614
+ 2.  husband             | Impact: 0.071614
+ 3.  dear                | Impact: 0.052046
+ 4.  text                | Impact: 0.027523
+ 5.  /                   | Impact: 0.027523
+ 6.  him                 | Impact: 0.022339
+ 7.  very                | Impact: 0.022339
+ 8.  and                 | Impact: 0.022197
+ 9.  father              | Impact: 0.019395
+10.  .                   | Impact: 0.019395
+11.  please              | Impact: 0.017683
+12.  forward             | Impact: 0.017683
+13.  message             | Impact: 0.015307
+14.  we                  | Impact: 0.015117
+15.  hold                | Impact: 0.015117
+16.  di                  | Impact: 0.015057
+17. jk                   | Impact: 0.015057
+18. tra                  | Impact: 0.015057
+19.  =                   | Impact: 0.012699
+20.  "                   | Impact: 0.012699
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  like                | Impact: -0.072984
+ 2.                      | Impact: -0.045574
+ 3.  seems               | Impact: -0.045574
+ 4.  "                   | Impact: -0.033539
+ 5.  subject             | Impact: -0.033539
+ 6.  :                   | Impact: -0.025094
+ 7.  from                | Impact: -0.025094
+ 8.  marcus              | Impact: -0.023449
+ 9.  j                   | Impact: -0.023449
+10.  cc                  | Impact: -0.021973
+11.  :                   | Impact: -0.021973
+12.  sat                 | Impact: -0.019242
+13. er                   | Impact: -0.019242
+14. day                  | Impact: -0.019242
+15.  the                 | Impact: -0.016845
+16.  family              | Impact: -0.016845
+17.  ,                   | Impact: -0.016010
+18.  .                   | Impact: -0.014773
+19.  :                   | Impact: -0.013452
+20.  pm                  | Impact: -0.013452

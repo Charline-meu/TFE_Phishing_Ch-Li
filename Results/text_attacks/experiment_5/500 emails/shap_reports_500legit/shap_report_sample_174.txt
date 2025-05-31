@@ -1,0 +1,75 @@
+Sample 174
+==========
+
+Sample text preview: Does that mean that you could reach further, but you couldn't take up as much bandwidth then? a. At : PM // +, Bernie Goldbach wrote: >Hi, > >I believ...
+
+Model prediction: [9.9975413e-01 2.4592670e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ii                  | Impact: -0.003889 → LEGITIMATE
+ 2.  >                   | Impact: -0.003879 → LEGITIMATE
+ 3.  >                   | Impact: -0.003802 → LEGITIMATE
+ 4.  encounter           | Impact: 0.003179 → PHISHING
+ 5.  they                | Impact: 0.001897 → PHISHING
+ 6.  -                   | Impact: -0.001748 → LEGITIMATE
+ 7.  to                  | Impact: 0.001635 → PHISHING
+ 8.  -                   | Impact: -0.001610 → LEGITIMATE
+ 9.  -                   | Impact: -0.001573 → LEGITIMATE
+10.  >                   | Impact: -0.001476 → LEGITIMATE
+11. u                    | Impact: -0.001387 → LEGITIMATE
+12.  when                | Impact: 0.001306 → PHISHING
+13.  hop                 | Impact: -0.001296 → LEGITIMATE
+14.  :                   | Impact: -0.001196 → LEGITIMATE
+15.  to                  | Impact: 0.001131 → PHISHING
+16.  >                   | Impact: -0.001099 → LEGITIMATE
+17.  >                   | Impact: -0.001057 → LEGITIMATE
+18.  that                | Impact: -0.001050 → LEGITIMATE
+19.  channel             | Impact: -0.001050 → LEGITIMATE
+20.  strength            | Impact: -0.001024 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  encounter           | Impact: 0.003179
+ 2.  they                | Impact: 0.001897
+ 3.  to                  | Impact: 0.001635
+ 4.  when                | Impact: 0.001306
+ 5.  to                  | Impact: 0.001131
+ 6.  a                   | Impact: 0.000978
+ 7.  you                 | Impact: 0.000768
+ 8.  will                | Impact: 0.000579
+ 9.  have                | Impact: 0.000572
+10.  but                 | Impact: 0.000477
+11.  o                   | Impact: 0.000437
+12.  _                   | Impact: 0.000381
+13.  _                   | Impact: 0.000381
+14.  _                   | Impact: 0.000374
+15.  _                   | Impact: 0.000374
+16.  _                   | Impact: 0.000372
+17.  _                   | Impact: 0.000372
+18.  _                   | Impact: 0.000372
+19.  _                   | Impact: 0.000372
+20.  _                   | Impact: 0.000355
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ii                  | Impact: -0.003889
+ 2.  >                   | Impact: -0.003879
+ 3.  >                   | Impact: -0.003802
+ 4.  -                   | Impact: -0.001748
+ 5.  -                   | Impact: -0.001610
+ 6.  -                   | Impact: -0.001573
+ 7.  >                   | Impact: -0.001476
+ 8. u                    | Impact: -0.001387
+ 9.  hop                 | Impact: -0.001296
+10.  :                   | Impact: -0.001196
+11.  >                   | Impact: -0.001099
+12.  >                   | Impact: -0.001057
+13.  that                | Impact: -0.001050
+14.  channel             | Impact: -0.001050
+15.  strength            | Impact: -0.001024
+16.  list                | Impact: -0.001020
+17.  >                   | Impact: -0.001020
+18.  .                   | Impact: -0.000976
+19.  regards             | Impact: -0.000931
+20.  >                   | Impact: -0.000925

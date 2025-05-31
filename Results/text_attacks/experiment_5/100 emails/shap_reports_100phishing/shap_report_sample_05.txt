@@ -1,0 +1,67 @@
+Phishing Sample 5
+=================
+
+Sample text preview: This text is part of the internal format of your mail folder, and is not a real message. It is created automatically by the mail system software. If d...
+
+Model prediction: [0.00160212 0.9983979 ]
+Predicted class: PHISHING with 0.9984 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  folder              | Impact: 0.154582 → PHISHING
+ 2.  automatically       | Impact: 0.126502 → PHISHING
+ 3.  mail                | Impact: 0.067489 → PHISHING
+ 4.  mail                | Impact: 0.065928 → PHISHING
+ 5.  folder              | Impact: 0.065263 → PHISHING
+ 6.  important           | Impact: 0.063278 → PHISHING
+ 7.  deleted             | Impact: 0.061804 → PHISHING
+ 8.  values              | Impact: -0.054877 → LEGITIMATE
+ 9.  software            | Impact: 0.053302 → PHISHING
+10.  your                | Impact: 0.041756 → PHISHING
+11.  text                | Impact: 0.041008 → PHISHING
+12.  ,                   | Impact: 0.040859 → PHISHING
+13.  be                  | Impact: 0.032778 → PHISHING
+14.  format              | Impact: 0.030235 → PHISHING
+15.  lost                | Impact: 0.029549 → PHISHING
+16.  created             | Impact: -0.024907 → LEGITIMATE
+17.  it                  | Impact: 0.019455 → PHISHING
+18.  re                  | Impact: 0.018310 → PHISHING
+19.  be                  | Impact: 0.016695 → PHISHING
+20.  and                 | Impact: 0.016594 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  folder              | Impact: 0.154582
+ 2.  automatically       | Impact: 0.126502
+ 3.  mail                | Impact: 0.067489
+ 4.  mail                | Impact: 0.065928
+ 5.  folder              | Impact: 0.065263
+ 6.  important           | Impact: 0.063278
+ 7.  deleted             | Impact: 0.061804
+ 8.  software            | Impact: 0.053302
+ 9.  your                | Impact: 0.041756
+10.  text                | Impact: 0.041008
+11.  ,                   | Impact: 0.040859
+12.  be                  | Impact: 0.032778
+13.  format              | Impact: 0.030235
+14.  lost                | Impact: 0.029549
+15.  it                  | Impact: 0.019455
+16.  re                  | Impact: 0.018310
+17.  be                  | Impact: 0.016695
+18.  and                 | Impact: 0.016594
+19.  of                  | Impact: 0.010951
+20.  system              | Impact: 0.010864
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  values              | Impact: -0.054877
+ 2.  created             | Impact: -0.024907
+ 3.  by                  | Impact: -0.015813
+ 4.  if                  | Impact: -0.011966
+ 5.  to                  | Impact: -0.010048
+ 6.  initial             | Impact: -0.010048
+ 7.  the                 | Impact: -0.009020
+ 8.  with                | Impact: -0.007126
+ 9.  the                 | Impact: -0.006202
+10.  ,                   | Impact: -0.006183
+11.  -                   | Impact: -0.003629
+12.  not                 | Impact: -0.000110

@@ -1,0 +1,59 @@
+Sample 161
+==========
+
+Sample text preview: I left Alice Gruber a message. Charles Foster is out on vacation through Jan. th. --LP
+
+Model prediction: [9.993222e-01 6.778373e-04]
+Predicted class: LEGITIMATE with 0.9993 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lp                  | Impact: 0.175699 → PHISHING
+ 2. uber                 | Impact: -0.102651 → LEGITIMATE
+ 3.  .                   | Impact: -0.091794 → LEGITIMATE
+ 4.  -                   | Impact: -0.064947 → LEGITIMATE
+ 5.  left                | Impact: 0.054497 → PHISHING
+ 6.  message             | Impact: 0.053268 → PHISHING
+ 7.  -                   | Impact: -0.050240 → LEGITIMATE
+ 8.  jan                 | Impact: -0.045750 → LEGITIMATE
+ 9.  alice               | Impact: -0.039557 → LEGITIMATE
+10.  .                   | Impact: -0.036489 → LEGITIMATE
+11.  on                  | Impact: 0.033636 → PHISHING
+12.  i                   | Impact: 0.031063 → PHISHING
+13.  out                 | Impact: 0.023865 → PHISHING
+14.  .                   | Impact: -0.021436 → LEGITIMATE
+15.  is                  | Impact: -0.019519 → LEGITIMATE
+16.  through             | Impact: 0.017292 → PHISHING
+17.  vacation            | Impact: -0.014902 → LEGITIMATE
+18.  th                  | Impact: 0.013262 → PHISHING
+19.  charles             | Impact: 0.005665 → PHISHING
+20.  gr                  | Impact: -0.003887 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  lp                  | Impact: 0.175699
+ 2.  left                | Impact: 0.054497
+ 3.  message             | Impact: 0.053268
+ 4.  on                  | Impact: 0.033636
+ 5.  i                   | Impact: 0.031063
+ 6.  out                 | Impact: 0.023865
+ 7.  through             | Impact: 0.017292
+ 8.  th                  | Impact: 0.013262
+ 9.  charles             | Impact: 0.005665
+10.  a                   | Impact: 0.003233
+11.  foster              | Impact: 0.000260
+12.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1. uber                 | Impact: -0.102651
+ 2.  .                   | Impact: -0.091794
+ 3.  -                   | Impact: -0.064947
+ 4.  -                   | Impact: -0.050240
+ 5.  jan                 | Impact: -0.045750
+ 6.  alice               | Impact: -0.039557
+ 7.  .                   | Impact: -0.036489
+ 8.  .                   | Impact: -0.021436
+ 9.  is                  | Impact: -0.019519
+10.  vacation            | Impact: -0.014902
+11.  gr                  | Impact: -0.003887
+12.                      | Impact: -0.000002

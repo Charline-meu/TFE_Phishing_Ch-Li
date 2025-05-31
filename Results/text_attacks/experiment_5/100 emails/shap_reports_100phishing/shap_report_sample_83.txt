@@ -1,0 +1,75 @@
+Phishing Sample 83
+==================
+
+Sample text preview: FROM: MR.CHAD DICKERSON. GROUP AUDIT FOR INTERNATIONAL BUSINESS DIVISION ALPHA BANK LONDON Cannon Street, London ECN. Attn! RE: TRANSFER OF £,,. MILLI...
+
+Model prediction: [1.5944966e-04 9.9984050e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  million             | Impact: 0.034429 → PHISHING
+ 2.  pounds              | Impact: 0.028855 → PHISHING
+ 3.  account             | Impact: 0.026540 → PHISHING
+ 4.  to                  | Impact: 0.026070 → PHISHING
+ 5.  your                | Impact: 0.026070 → PHISHING
+ 6.  his                 | Impact: 0.011567 → PHISHING
+ 7.  family              | Impact: 0.011567 → PHISHING
+ 8.  you                 | Impact: 0.010640 → PHISHING
+ 9.  account             | Impact: 0.009125 → PHISHING
+10.  abroad              | Impact: 0.009125 → PHISHING
+11.  london              | Impact: -0.008972 → LEGITIMATE
+12.  ec                  | Impact: -0.008972 → LEGITIMATE
+13. n                    | Impact: -0.008972 → LEGITIMATE
+14.  business            | Impact: 0.008489 → PHISHING
+15.  safe                | Impact: 0.008244 → PHISHING
+16.  foreign             | Impact: 0.008244 → PHISHING
+17.  like                | Impact: 0.007620 → PHISHING
+18.  to                  | Impact: 0.007620 → PHISHING
+19.  assure              | Impact: 0.007620 → PHISHING
+20.  you                 | Impact: 0.007620 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  million             | Impact: 0.034429
+ 2.  pounds              | Impact: 0.028855
+ 3.  account             | Impact: 0.026540
+ 4.  to                  | Impact: 0.026070
+ 5.  your                | Impact: 0.026070
+ 6.  his                 | Impact: 0.011567
+ 7.  family              | Impact: 0.011567
+ 8.  you                 | Impact: 0.010640
+ 9.  account             | Impact: 0.009125
+10.  abroad              | Impact: 0.009125
+11.  business            | Impact: 0.008489
+12.  safe                | Impact: 0.008244
+13.  foreign             | Impact: 0.008244
+14.  like                | Impact: 0.007620
+15.  to                  | Impact: 0.007620
+16.  assure              | Impact: 0.007620
+17.  you                 | Impact: 0.007620
+18.  died                | Impact: 0.007528
+19.  with                | Impact: 0.007528
+20.  the                 | Impact: 0.007503
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  london              | Impact: -0.008972
+ 2.  ec                  | Impact: -0.008972
+ 3. n                    | Impact: -0.008972
+ 4.  though              | Impact: -0.005265
+ 5.  ,                   | Impact: -0.005265
+ 6.  i                   | Impact: -0.004652
+ 7.  feel                | Impact: -0.004652
+ 8.  chad                | Impact: -0.004221
+ 9.  dick                | Impact: -0.004221
+10. erson                | Impact: -0.004221
+11.  quite               | Impact: -0.004027
+12.  safe                | Impact: -0.004027
+13.  ,                   | Impact: -0.002623
+14.  .                   | Impact: -0.002623
+15.                      | Impact: -0.002485
+16.  from                | Impact: -0.002485
+17.  :                   | Impact: -0.002485
+18.  mr                  | Impact: -0.002485
+19.  chad                | Impact: -0.002398
+20.                      | Impact: -0.002398

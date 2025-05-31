@@ -1,0 +1,75 @@
+Sample 105
+==========
+
+Sample text preview: Sir, I am the chairman of the contract award committee,of the federal ministry of petroleum resources, Nigeria. I am in search of an agent to assist u...
+
+Model prediction: [2.1549875e-04 9.9978453e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  nigeria             | Impact: 0.053630 → PHISHING
+ 2.  regards             | Impact: 0.045567 → PHISHING
+ 3.  lucrative           | Impact: 0.043866 → PHISHING
+ 4.  na                  | Impact: 0.035196 → PHISHING
+ 5.  best                | Impact: 0.029757 → PHISHING
+ 6.  investment          | Impact: 0.028225 → PHISHING
+ 7.  us                  | Impact: 0.026905 → PHISHING
+ 8.  !                   | Impact: 0.026043 → PHISHING
+ 9.  you                 | Impact: 0.024737 → PHISHING
+10.  assist              | Impact: 0.024451 → PHISHING
+11.  leto                | Impact: 0.022657 → PHISHING
+12.  sum                 | Impact: 0.021291 → PHISHING
+13.  purchase            | Impact: 0.020322 → PHISHING
+14.  country             | Impact: 0.017772 → PHISHING
+15.  will                | Impact: 0.016418 → PHISHING
+16.  shall               | Impact: 0.016034 → PHISHING
+17.  ama                 | Impact: 0.015811 → PHISHING
+18.  sir                 | Impact: 0.014156 → PHISHING
+19.  assist              | Impact: 0.013870 → PHISHING
+20.  properties          | Impact: 0.013853 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  nigeria             | Impact: 0.053630
+ 2.  regards             | Impact: 0.045567
+ 3.  lucrative           | Impact: 0.043866
+ 4.  na                  | Impact: 0.035196
+ 5.  best                | Impact: 0.029757
+ 6.  investment          | Impact: 0.028225
+ 7.  us                  | Impact: 0.026905
+ 8.  !                   | Impact: 0.026043
+ 9.  you                 | Impact: 0.024737
+10.  assist              | Impact: 0.024451
+11.  leto                | Impact: 0.022657
+12.  sum                 | Impact: 0.021291
+13.  purchase            | Impact: 0.020322
+14.  country             | Impact: 0.017772
+15.  will                | Impact: 0.016418
+16.  shall               | Impact: 0.016034
+17.  ama                 | Impact: 0.015811
+18.  sir                 | Impact: 0.014156
+19.  assist              | Impact: 0.013870
+20.  properties          | Impact: 0.013853
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.009568
+ 2.  (                   | Impact: -0.009423
+ 3.  )                   | Impact: -0.009423
+ 4.  to                  | Impact: -0.006443
+ 5.  -                   | Impact: -0.006155
+ 6.  -                   | Impact: -0.005619
+ 7.  required            | Impact: -0.004941
+ 8.  ho                  | Impact: -0.002848
+ 9. rke                  | Impact: -0.002848
+10.  (                   | Impact: -0.002655
+11.  )                   | Impact: -0.002655
+12.  advise              | Impact: -0.001273
+13.  .                   | Impact: -0.000691
+14.  vol                 | Impact: -0.000647
+15. ny                   | Impact: -0.000647
+16.  :                   | Impact: -0.000647
+17.  .                   | Impact: -0.000562
+18.  .                   | Impact: -0.000203
+19.  of                  | Impact: -0.000031
+20.  petroleum           | Impact: -0.000031

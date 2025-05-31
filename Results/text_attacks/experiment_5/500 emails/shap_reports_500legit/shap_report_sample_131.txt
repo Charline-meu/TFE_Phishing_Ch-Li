@@ -1,0 +1,75 @@
+Sample 131
+==========
+
+Sample text preview: Ann, Attached is a draft of Enron's response to your request for proposals for gas supply to power generation plant in development by Calpeak Power, L...
+
+Model prediction: [9.9980062e-01 1.9937314e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  thanks              | Impact: -0.006246 → LEGITIMATE
+ 2.  llc                 | Impact: 0.003368 → PHISHING
+ 3.  manager             | Impact: 0.002724 → PHISHING
+ 4. ron                  | Impact: -0.002099 → LEGITIMATE
+ 5.  agreement           | Impact: -0.001869 → LEGITIMATE
+ 6.  look                | Impact: -0.001869 → LEGITIMATE
+ 7.  we                  | Impact: -0.001729 → LEGITIMATE
+ 8.  en                  | Impact: -0.001721 → LEGITIMATE
+ 9. ron                  | Impact: -0.001721 → LEGITIMATE
+10.  en                  | Impact: -0.001671 → LEGITIMATE
+11.  requested           | Impact: -0.001641 → LEGITIMATE
+12. ation                | Impact: -0.001596 → LEGITIMATE
+13.  pricing             | Impact: -0.001481 → LEGITIMATE
+14.  origin              | Impact: -0.001466 → LEGITIMATE
+15.  power               | Impact: -0.001454 → LEGITIMATE
+16.  en                  | Impact: -0.001392 → LEGITIMATE
+17.  i                   | Impact: -0.001352 → LEGITIMATE
+18.  structures          | Impact: -0.001304 → LEGITIMATE
+19.  you                 | Impact: 0.001285 → PHISHING
+20.  proposals           | Impact: -0.001265 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  llc                 | Impact: 0.003368
+ 2.  manager             | Impact: 0.002724
+ 3.  you                 | Impact: 0.001285
+ 4.  available           | Impact: 0.001160
+ 5.  soon                | Impact: 0.001137
+ 6.  is                  | Impact: 0.001110
+ 7.  ward                | Impact: 0.001089
+ 8.  are                 | Impact: 0.001005
+ 9.  west                | Impact: 0.000827
+10.  several             | Impact: 0.000743
+11.  and                 | Impact: 0.000720
+12.  to                  | Impact: 0.000609
+13.  from                | Impact: 0.000602
+14.  to                  | Impact: 0.000450
+15.  priced              | Impact: 0.000428
+16.  kim                 | Impact: 0.000403
+17.  forward             | Impact: 0.000393
+18.  ,                   | Impact: 0.000299
+19.  additional          | Impact: 0.000283
+20.  products            | Impact: 0.000281
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.006246
+ 2. ron                  | Impact: -0.002099
+ 3.  agreement           | Impact: -0.001869
+ 4.  look                | Impact: -0.001869
+ 5.  we                  | Impact: -0.001729
+ 6.  en                  | Impact: -0.001721
+ 7. ron                  | Impact: -0.001721
+ 8.  en                  | Impact: -0.001671
+ 9.  requested           | Impact: -0.001641
+10. ation                | Impact: -0.001596
+11.  pricing             | Impact: -0.001481
+12.  origin              | Impact: -0.001466
+13.  power               | Impact: -0.001454
+14.  en                  | Impact: -0.001392
+15.  i                   | Impact: -0.001352
+16.  structures          | Impact: -0.001304
+17.  proposals           | Impact: -0.001265
+18.  look                | Impact: -0.001207
+19. ron                  | Impact: -0.001064
+20.  .                   | Impact: -0.001059

@@ -1,0 +1,75 @@
+Sample 185
+==========
+
+Sample text preview: ---------------------- Forwarded by Steven J Kean/NA/Enron on // : AM --------------------------- From: Richard B Sanders/Enron@enronXgate on // : AM ...
+
+Model prediction: [9.9979621e-01 2.0384384e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  here                | Impact: 0.006402 → PHISHING
+ 2. by                   | Impact: 0.006402 → PHISHING
+ 3. ron                  | Impact: -0.005453 → LEGITIMATE
+ 4.  you                 | Impact: 0.005045 → PHISHING
+ 5.  are                 | Impact: 0.005045 → PHISHING
+ 6.  en                  | Impact: -0.004799 → LEGITIMATE
+ 7. ron                  | Impact: -0.003907 → LEGITIMATE
+ 8.  en                  | Impact: -0.003848 → LEGITIMATE
+ 9.  reader              | Impact: -0.003038 → LEGITIMATE
+10.  of                  | Impact: -0.003038 → LEGITIMATE
+11.  @                   | Impact: 0.002699 → PHISHING
+12. ron                  | Impact: -0.002662 → LEGITIMATE
+13.  com                 | Impact: -0.002536 → LEGITIMATE
+14.  ]                   | Impact: -0.002536 → LEGITIMATE
+15. ron                  | Impact: -0.002520 → LEGITIMATE
+16.  en                  | Impact: -0.002469 → LEGITIMATE
+17.  strictly            | Impact: -0.002467 → LEGITIMATE
+18.  prohibited          | Impact: -0.002467 → LEGITIMATE
+19.  en                  | Impact: -0.002416 → LEGITIMATE
+20. ron                  | Impact: -0.002416 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  here                | Impact: 0.006402
+ 2. by                   | Impact: 0.006402
+ 3.  you                 | Impact: 0.005045
+ 4.  are                 | Impact: 0.005045
+ 5.  @                   | Impact: 0.002699
+ 6.  -                   | Impact: 0.002316
+ 7.  mail                | Impact: 0.002316
+ 8.  message             | Impact: 0.002316
+ 9.  this                | Impact: 0.001399
+10.  e                   | Impact: 0.001399
+11.  @                   | Impact: 0.001152
+12.  @                   | Impact: 0.000689
+13.  of                  | Impact: 0.000622
+14.  this                | Impact: 0.000622
+15.  steven              | Impact: 0.000285
+16.  j                   | Impact: 0.000285
+17.  ke                  | Impact: 0.000285
+18. an                   | Impact: 0.000285
+19.  mark                | Impact: 0.000150
+20.  palmer              | Impact: 0.000150
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.005453
+ 2.  en                  | Impact: -0.004799
+ 3. ron                  | Impact: -0.003907
+ 4.  en                  | Impact: -0.003848
+ 5.  reader              | Impact: -0.003038
+ 6.  of                  | Impact: -0.003038
+ 7. ron                  | Impact: -0.002662
+ 8.  com                 | Impact: -0.002536
+ 9.  ]                   | Impact: -0.002536
+10. ron                  | Impact: -0.002520
+11.  en                  | Impact: -0.002469
+12.  strictly            | Impact: -0.002467
+13.  prohibited          | Impact: -0.002467
+14.  en                  | Impact: -0.002416
+15. ron                  | Impact: -0.002416
+16.  -                   | Impact: -0.002230
+17.  _                   | Impact: -0.002230
+18.  work                | Impact: -0.002215
+19.  product             | Impact: -0.002215
+20.  rule                | Impact: -0.002215

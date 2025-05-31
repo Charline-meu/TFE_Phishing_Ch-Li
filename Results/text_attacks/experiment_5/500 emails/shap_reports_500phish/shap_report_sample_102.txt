@@ -1,0 +1,75 @@
+Sample 102
+==========
+
+Sample text preview: Good Day Mr. A.G. Furness Branch Manager Bank of Cyprus London Branch Dear Friend, I am Mr. A.G Furness The Branch Manager of the Bank of Cyprus, Lond...
+
+Model prediction: [1.6218168e-04 9.9983776e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.039588 → PHISHING
+ 2.  account             | Impact: 0.039588 → PHISHING
+ 3.  the                 | Impact: 0.025532 → PHISHING
+ 4.  money               | Impact: 0.025532 → PHISHING
+ 5.  paid                | Impact: 0.022198 → PHISHING
+ 6.  into                | Impact: 0.022198 → PHISHING
+ 7.  successful          | Impact: 0.016905 → PHISHING
+ 8.  execution           | Impact: 0.016905 → PHISHING
+ 9.  will                | Impact: 0.014680 → PHISHING
+10.  be                  | Impact: 0.014680 → PHISHING
+11.  of                  | Impact: 0.012227 → PHISHING
+12.  this                | Impact: 0.012227 → PHISHING
+13.  transaction         | Impact: 0.012227 → PHISHING
+14.  branch              | Impact: 0.006112 → PHISHING
+15.  dear                | Impact: 0.006112 → PHISHING
+16.  friend              | Impact: 0.006112 → PHISHING
+17.  ,                   | Impact: 0.006112 → PHISHING
+18.  transaction         | Impact: 0.005803 → PHISHING
+19.  will                | Impact: 0.005803 → PHISHING
+20.  be                  | Impact: 0.005803 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.039588
+ 2.  account             | Impact: 0.039588
+ 3.  the                 | Impact: 0.025532
+ 4.  money               | Impact: 0.025532
+ 5.  paid                | Impact: 0.022198
+ 6.  into                | Impact: 0.022198
+ 7.  successful          | Impact: 0.016905
+ 8.  execution           | Impact: 0.016905
+ 9.  will                | Impact: 0.014680
+10.  be                  | Impact: 0.014680
+11.  of                  | Impact: 0.012227
+12.  this                | Impact: 0.012227
+13.  transaction         | Impact: 0.012227
+14.  branch              | Impact: 0.006112
+15.  dear                | Impact: 0.006112
+16.  friend              | Impact: 0.006112
+17.  ,                   | Impact: 0.006112
+18.  transaction         | Impact: 0.005803
+19.  will                | Impact: 0.005803
+20.  be                  | Impact: 0.005803
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  mead                | Impact: -0.000781
+ 2.  passed              | Impact: -0.000781
+ 3.  away                | Impact: -0.000781
+ 4.  .                   | Impact: -0.000781
+ 5.  jeffrey             | Impact: -0.000781
+ 6.  paul                | Impact: -0.000781
+ 7.  according           | Impact: -0.000096
+ 8.  to                  | Impact: -0.000096
+ 9.  banking             | Impact: -0.000096
+10.  law                 | Impact: -0.000096
+11.  ,                   | Impact: -0.000096
+12.  at                  | Impact: -0.000096
+13.  the                 | Impact: -0.000096
+14.  years               | Impact: -0.000096
+15.  ,                   | Impact: -0.000096
+16.  ex                  | Impact: -0.000096
+17. piration             | Impact: -0.000096
+18.  of                  | Impact: -0.000096
+19.  (                   | Impact: -0.000096
+20.  five                | Impact: -0.000096

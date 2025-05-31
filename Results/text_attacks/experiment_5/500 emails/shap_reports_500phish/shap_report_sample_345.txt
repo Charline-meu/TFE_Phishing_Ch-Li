@@ -1,0 +1,61 @@
+Sample 345
+==========
+
+Sample text preview: IT@MAIL Password will expire in days To keep your password active. Click Here< to update IT- Desk Service Desk
+
+Model prediction: [2.4020116e-04 9.9975985e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.227853 → PHISHING
+ 2.  it                  | Impact: 0.106475 → PHISHING
+ 3.  password            | Impact: 0.081553 → PHISHING
+ 4.  your                | Impact: 0.074531 → PHISHING
+ 5.  here                | Impact: 0.062059 → PHISHING
+ 6.  desk                | Impact: 0.059224 → PHISHING
+ 7.  ex                  | Impact: 0.057436 → PHISHING
+ 8.  mail                | Impact: 0.056280 → PHISHING
+ 9.  -                   | Impact: -0.049892 → LEGITIMATE
+10.  desk                | Impact: 0.045904 → PHISHING
+11.  @                   | Impact: 0.044186 → PHISHING
+12.  password            | Impact: 0.033211 → PHISHING
+13.  keep                | Impact: 0.028588 → PHISHING
+14. pire                 | Impact: 0.026985 → PHISHING
+15.  in                  | Impact: 0.024968 → PHISHING
+16.  it                  | Impact: 0.024347 → PHISHING
+17.  to                  | Impact: 0.023162 → PHISHING
+18.  <                   | Impact: 0.019905 → PHISHING
+19.  update              | Impact: 0.018292 → PHISHING
+20.  service             | Impact: -0.014772 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.227853
+ 2.  it                  | Impact: 0.106475
+ 3.  password            | Impact: 0.081553
+ 4.  your                | Impact: 0.074531
+ 5.  here                | Impact: 0.062059
+ 6.  desk                | Impact: 0.059224
+ 7.  ex                  | Impact: 0.057436
+ 8.  mail                | Impact: 0.056280
+ 9.  desk                | Impact: 0.045904
+10.  @                   | Impact: 0.044186
+11.  password            | Impact: 0.033211
+12.  keep                | Impact: 0.028588
+13. pire                 | Impact: 0.026985
+14.  in                  | Impact: 0.024968
+15.  it                  | Impact: 0.024347
+16.  to                  | Impact: 0.023162
+17.  <                   | Impact: 0.019905
+18.  update              | Impact: 0.018292
+19.  active              | Impact: 0.005601
+20.                      | Impact: 0.000003
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.049892
+ 2.  service             | Impact: -0.014772
+ 3.  to                  | Impact: -0.009262
+ 4.  .                   | Impact: -0.004864
+ 5.  days                | Impact: -0.004658
+ 6.  will                | Impact: -0.000976

@@ -1,0 +1,75 @@
+Sample 332
+==========
+
+Sample text preview: what takes time and money: noting the amounts of each correction and basing the refund delivery method on the amount. yesh, it's silly to spend $. (+ ...
+
+Model prediction: [9.990631e-01 9.369754e-04]
+Predicted class: LEGITIMATE with 0.9991 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.006593 → PHISHING
+ 2.  in                  | Impact: -0.005988 → LEGITIMATE
+ 3.  jax                 | Impact: -0.005988 → LEGITIMATE
+ 4.  )                   | Impact: -0.004049 → LEGITIMATE
+ 5.  we                  | Impact: -0.003482 → LEGITIMATE
+ 6.  '                   | Impact: -0.003482 → LEGITIMATE
+ 7.  city                | Impact: 0.002732 → PHISHING
+ 8.  as                  | Impact: 0.002732 → PHISHING
+ 9.  lump                | Impact: 0.002732 → PHISHING
+10.  sum                 | Impact: 0.002732 → PHISHING
+11.  settlement          | Impact: 0.002732 → PHISHING
+12.  .                   | Impact: 0.002550 → PHISHING
+13.  at                  | Impact: -0.002517 → LEGITIMATE
+14.  &                   | Impact: -0.002517 → LEGITIMATE
+15.  john                | Impact: -0.002295 → LEGITIMATE
+16.  hall                | Impact: -0.002295 → LEGITIMATE
+17.  sent                | Impact: -0.002295 → LEGITIMATE
+18.  :                   | Impact: -0.002295 → LEGITIMATE
+19.  monday              | Impact: -0.002295 → LEGITIMATE
+20.  :                   | Impact: -0.002110 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.006593
+ 2.  city                | Impact: 0.002732
+ 3.  as                  | Impact: 0.002732
+ 4.  lump                | Impact: 0.002732
+ 5.  sum                 | Impact: 0.002732
+ 6.  settlement          | Impact: 0.002732
+ 7.  .                   | Impact: 0.002550
+ 8.  to                  | Impact: 0.001983
+ 9.  mail                | Impact: 0.001983
+10.  you                 | Impact: 0.001983
+11.  the                 | Impact: 0.001983
+12.  check               | Impact: 0.001983
+13.  money               | Impact: 0.001983
+14.  :                   | Impact: 0.001983
+15.  noting              | Impact: 0.001983
+16.  the                 | Impact: 0.001983
+17.  in                  | Impact: 0.001934
+18.  your                | Impact: 0.001934
+19.  the                 | Impact: 0.001723
+20.  ref                 | Impact: 0.001723
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  in                  | Impact: -0.005988
+ 2.  jax                 | Impact: -0.005988
+ 3.  )                   | Impact: -0.004049
+ 4.  we                  | Impact: -0.003482
+ 5.  '                   | Impact: -0.003482
+ 6.  at                  | Impact: -0.002517
+ 7.  &                   | Impact: -0.002517
+ 8.  john                | Impact: -0.002295
+ 9.  hall                | Impact: -0.002295
+10.  sent                | Impact: -0.002295
+11.  :                   | Impact: -0.002295
+12.  monday              | Impact: -0.002295
+13.  :                   | Impact: -0.002110
+14.  -                   | Impact: -0.002110
+15.  (                   | Impact: -0.001721
+16.  see                 | Impact: -0.001721
+17.  john                | Impact: -0.001721
+18.  hall                | Impact: -0.001721
+19.  below               | Impact: -0.001721
+20.  )                   | Impact: -0.001721

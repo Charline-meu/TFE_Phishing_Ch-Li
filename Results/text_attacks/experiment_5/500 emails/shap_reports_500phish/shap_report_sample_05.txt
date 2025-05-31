@@ -1,0 +1,69 @@
+Sample 5
+========
+
+Sample text preview: Your E-mail Sync Failure. E-mail Sync for your E-mailbox as failed and you have [] pending messages on the mail queue. Follow the steps below to downl...
+
+Model prediction: [3.610957e-04 9.996389e-01]
+Predicted class: PHISHING with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mail                | Impact: 0.056880 → PHISHING
+ 2.  pending             | Impact: 0.056233 → PHISHING
+ 3.  your                | Impact: 0.055423 → PHISHING
+ 4.  queue               | Impact: 0.054924 → PHISHING
+ 5.  mail                | Impact: 0.046171 → PHISHING
+ 6.  notification        | Impact: 0.043229 → PHISHING
+ 7. box                  | Impact: 0.041703 → PHISHING
+ 8.  download            | Impact: 0.038970 → PHISHING
+ 9.  account             | Impact: 0.035611 → PHISHING
+10.  pending             | Impact: 0.034864 → PHISHING
+11.  mail                | Impact: 0.034153 → PHISHING
+12.  system              | Impact: 0.027319 → PHISHING
+13.  your                | Impact: 0.025394 → PHISHING
+14.  messages            | Impact: 0.024654 → PHISHING
+15.  message             | Impact: 0.022291 → PHISHING
+16.  note                | Impact: 0.022288 → PHISHING
+17.  now                 | Impact: 0.020946 → PHISHING
+18.  failed              | Impact: 0.019930 → PHISHING
+19.  .                   | Impact: -0.017876 → LEGITIMATE
+20.  reply               | Impact: 0.017409 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mail                | Impact: 0.056880
+ 2.  pending             | Impact: 0.056233
+ 3.  your                | Impact: 0.055423
+ 4.  queue               | Impact: 0.054924
+ 5.  mail                | Impact: 0.046171
+ 6.  notification        | Impact: 0.043229
+ 7. box                  | Impact: 0.041703
+ 8.  download            | Impact: 0.038970
+ 9.  account             | Impact: 0.035611
+10.  pending             | Impact: 0.034864
+11.  mail                | Impact: 0.034153
+12.  system              | Impact: 0.027319
+13.  your                | Impact: 0.025394
+14.  messages            | Impact: 0.024654
+15.  message             | Impact: 0.022291
+16.  note                | Impact: 0.022288
+17.  now                 | Impact: 0.020946
+18.  failed              | Impact: 0.019930
+19.  reply               | Impact: 0.017409
+20.  as                  | Impact: 0.017393
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.017876
+ 2.  [                   | Impact: -0.016665
+ 3.  ]                   | Impact: -0.011637
+ 4.  to                  | Impact: -0.004648
+ 5.  -                   | Impact: -0.002988
+ 6.  .                   | Impact: -0.002407
+ 7.  failure             | Impact: -0.001440
+ 8.  isn                 | Impact: -0.001379
+ 9.  '                   | Impact: -0.001379
+10.  t                   | Impact: -0.001379
+11.  can                 | Impact: -0.000508
+12.  '                   | Impact: -0.000508
+13.  t                   | Impact: -0.000508
+14.  the                 | Impact: -0.000482

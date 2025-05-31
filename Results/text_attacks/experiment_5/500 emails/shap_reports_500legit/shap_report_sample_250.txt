@@ -1,0 +1,45 @@
+Sample 250
+==========
+
+Sample text preview: Please find attached letter from Bill Gang to Mike Keeling at Edwards
+
+Model prediction: [9.9963236e-01 3.6758094e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bill                | Impact: -0.208160 → LEGITIMATE
+ 2.  edwards             | Impact: -0.125735 → LEGITIMATE
+ 3.  mike                | Impact: -0.121522 → LEGITIMATE
+ 4.  letter              | Impact: -0.078947 → LEGITIMATE
+ 5.  to                  | Impact: 0.076122 → PHISHING
+ 6.  attached            | Impact: 0.063191 → PHISHING
+ 7.  please              | Impact: 0.062122 → PHISHING
+ 8.  from                | Impact: -0.053222 → LEGITIMATE
+ 9.  gang                | Impact: 0.046295 → PHISHING
+10.  find                | Impact: 0.036312 → PHISHING
+11.  keel                | Impact: -0.035675 → LEGITIMATE
+12.  at                  | Impact: 0.033168 → PHISHING
+13. ing                  | Impact: 0.032656 → PHISHING
+14.                      | Impact: -0.000000 → LEGITIMATE
+15.                      | Impact: -0.000000 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.076122
+ 2.  attached            | Impact: 0.063191
+ 3.  please              | Impact: 0.062122
+ 4.  gang                | Impact: 0.046295
+ 5.  find                | Impact: 0.036312
+ 6.  at                  | Impact: 0.033168
+ 7. ing                  | Impact: 0.032656
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  bill                | Impact: -0.208160
+ 2.  edwards             | Impact: -0.125735
+ 3.  mike                | Impact: -0.121522
+ 4.  letter              | Impact: -0.078947
+ 5.  from                | Impact: -0.053222
+ 6.  keel                | Impact: -0.035675
+ 7.                      | Impact: -0.000000
+ 8.                      | Impact: -0.000000

@@ -1,0 +1,75 @@
+Sample 253
+==========
+
+Sample text preview: Tana, several months ago you & I worked on a NDA with a company called PARdata. The lawyers worked together and reached a version that was acceptable ...
+
+Model prediction: [9.997955e-01 2.045430e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  disclose            | Impact: 0.011785 → PHISHING
+ 2.  &                   | Impact: 0.011529 → PHISHING
+ 3.  company             | Impact: 0.010238 → PHISHING
+ 4.  months              | Impact: 0.007879 → PHISHING
+ 5.  .                   | Impact: -0.007602 → LEGITIMATE
+ 6.  representatives     | Impact: -0.005967 → LEGITIMATE
+ 7.  information         | Impact: 0.005674 → PHISHING
+ 8.  you                 | Impact: 0.005250 → PHISHING
+ 9.  a                   | Impact: -0.005056 → LEGITIMATE
+10.  tan                 | Impact: 0.004761 → PHISHING
+11.  the                 | Impact: -0.004451 → LEGITIMATE
+12.  version             | Impact: -0.004320 → LEGITIMATE
+13.  several             | Impact: 0.004288 → PHISHING
+14.  .                   | Impact: -0.004212 → LEGITIMATE
+15.  reached             | Impact: -0.004138 → LEGITIMATE
+16.  acceptable          | Impact: -0.003940 → LEGITIMATE
+17.  wednesday           | Impact: -0.003853 → LEGITIMATE
+18.  thursday            | Impact: -0.003766 → LEGITIMATE
+19.  confidential        | Impact: 0.003391 → PHISHING
+20.  ago                 | Impact: 0.003162 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  disclose            | Impact: 0.011785
+ 2.  &                   | Impact: 0.011529
+ 3.  company             | Impact: 0.010238
+ 4.  months              | Impact: 0.007879
+ 5.  information         | Impact: 0.005674
+ 6.  you                 | Impact: 0.005250
+ 7.  tan                 | Impact: 0.004761
+ 8.  several             | Impact: 0.004288
+ 9.  confidential        | Impact: 0.003391
+10.  ago                 | Impact: 0.003162
+11.  some                | Impact: 0.002913
+12.  will                | Impact: 0.001719
+13.  n                   | Impact: 0.001630
+14. ta                   | Impact: 0.001611
+15.  called              | Impact: 0.001591
+16. da                   | Impact: 0.001431
+17.  be                  | Impact: 0.001193
+18.  a                   | Impact: 0.001150
+19.  together            | Impact: 0.000860
+20.  i                   | Impact: 0.000818
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.007602
+ 2.  representatives     | Impact: -0.005967
+ 3.  a                   | Impact: -0.005056
+ 4.  the                 | Impact: -0.004451
+ 5.  version             | Impact: -0.004320
+ 6.  .                   | Impact: -0.004212
+ 7.  reached             | Impact: -0.004138
+ 8.  acceptable          | Impact: -0.003940
+ 9.  wednesday           | Impact: -0.003853
+10.  thursday            | Impact: -0.003766
+11.  co                  | Impact: -0.003157
+12. b                    | Impact: -0.003157
+13.  that                | Impact: -0.003025
+14. da                   | Impact: -0.002987
+15.  lawyers             | Impact: -0.002964
+16.  on                  | Impact: -0.002819
+17. a                    | Impact: -0.002787
+18.  worked              | Impact: -0.002609
+19.  sides               | Impact: -0.002554
+20. ron                  | Impact: -0.002537

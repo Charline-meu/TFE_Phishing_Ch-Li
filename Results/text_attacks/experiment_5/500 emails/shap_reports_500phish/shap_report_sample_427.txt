@@ -1,0 +1,75 @@
+Sample 427
+==========
+
+Sample text preview: FROM: ELOS UBA. AMMAN JORDAN DEAR:Sir, My Name is ELOS UBA,an Iraqis National from the Kurds an Accountant in Oil refinery in Durra. I am presently in...
+
+Model prediction: [1.4834017e-04 9.9985158e-01]
+Predicted class: PHISHING with 0.9999 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  to                  | Impact: 0.016146 → PHISHING
+ 2.  whom                | Impact: 0.016146 → PHISHING
+ 3.  $                   | Impact: -0.014964 → LEGITIMATE
+ 4.  be                  | Impact: 0.014932 → PHISHING
+ 5.  released            | Impact: 0.014932 → PHISHING
+ 6.  jordan              | Impact: 0.008031 → PHISHING
+ 7.  capital             | Impact: 0.008031 → PHISHING
+ 8.  since               | Impact: 0.008031 → PHISHING
+ 9.  u                   | Impact: 0.008031 → PHISHING
+10.  ben                 | Impact: 0.007342 → PHISHING
+11. ef                   | Impact: 0.007342 → PHISHING
+12.  my                  | Impact: 0.006967 → PHISHING
+13.  name                | Impact: 0.006967 → PHISHING
+14.  is                  | Impact: 0.006967 → PHISHING
+15.  amman               | Impact: 0.006877 → PHISHING
+16.  jordan              | Impact: 0.006877 → PHISHING
+17.  dear                | Impact: 0.006877 → PHISHING
+18.  :                   | Impact: 0.006877 → PHISHING
+19.  sir                 | Impact: 0.006877 → PHISHING
+20.  company             | Impact: 0.006759 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.016146
+ 2.  whom                | Impact: 0.016146
+ 3.  be                  | Impact: 0.014932
+ 4.  released            | Impact: 0.014932
+ 5.  jordan              | Impact: 0.008031
+ 6.  capital             | Impact: 0.008031
+ 7.  since               | Impact: 0.008031
+ 8.  u                   | Impact: 0.008031
+ 9.  ben                 | Impact: 0.007342
+10. ef                   | Impact: 0.007342
+11.  my                  | Impact: 0.006967
+12.  name                | Impact: 0.006967
+13.  is                  | Impact: 0.006967
+14.  amman               | Impact: 0.006877
+15.  jordan              | Impact: 0.006877
+16.  dear                | Impact: 0.006877
+17.  :                   | Impact: 0.006877
+18.  sir                 | Impact: 0.006877
+19.  company             | Impact: 0.006759
+20.  in                  | Impact: 0.006759
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  $                   | Impact: -0.014964
+ 2.  deposit             | Impact: -0.006139
+ 3.  of                  | Impact: -0.006139
+ 4.                      | Impact: -0.001437
+ 5.  from                | Impact: -0.001437
+ 6.  :                   | Impact: -0.001437
+ 7.  -                   | Impact: -0.000557
+ 8.  -                   | Impact: -0.000557
+ 9.  -                   | Impact: -0.000557
+10.  -                   | Impact: -0.000557
+11.  -                   | Impact: -0.000557
+12.  -                   | Impact: -0.000557
+13.  -                   | Impact: -0.000557
+14.  -                   | Impact: -0.000557
+15.  -                   | Impact: -0.000424
+16.  -                   | Impact: -0.000424
+17.  -                   | Impact: -0.000424
+18.  -                   | Impact: -0.000424
+19.  -                   | Impact: -0.000424
+20.  -                   | Impact: -0.000424

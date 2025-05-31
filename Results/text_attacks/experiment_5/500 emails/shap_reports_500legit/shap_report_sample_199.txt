@@ -1,0 +1,75 @@
+Sample 199
+==========
+
+Sample text preview: Should I roll this deal to cover August activity ? Volumes todate are as follows: mm / mm / mm / mm / mm / Sitara ticket #: These small meter flows ar...
+
+Model prediction: [9.9979609e-01 2.0387804e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  i                   | Impact: -0.000776 → LEGITIMATE
+ 2.  roll                | Impact: -0.000776 → LEGITIMATE
+ 3.  on                  | Impact: -0.000750 → LEGITIMATE
+ 4.  /                   | Impact: -0.000750 → LEGITIMATE
+ 5.  /                   | Impact: -0.000750 → LEGITIMATE
+ 6.  :                   | Impact: -0.000750 → LEGITIMATE
+ 7.  en                  | Impact: -0.000660 → LEGITIMATE
+ 8. ron                  | Impact: -0.000660 → LEGITIMATE
+ 9.  @                   | Impact: -0.000660 → LEGITIMATE
+10.  /                   | Impact: -0.000596 → LEGITIMATE
+11.  corp                | Impact: -0.000596 → LEGITIMATE
+12.  /                   | Impact: -0.000596 → LEGITIMATE
+13.  en                  | Impact: -0.000596 → LEGITIMATE
+14. ron                  | Impact: -0.000596 → LEGITIMATE
+15.  @                   | Impact: -0.000596 → LEGITIMATE
+16.  ec                  | Impact: -0.000596 → LEGITIMATE
+17. t                    | Impact: -0.000596 → LEGITIMATE
+18.  @                   | Impact: -0.000596 → LEGITIMATE
+19.  ec                  | Impact: -0.000596 → LEGITIMATE
+20. t                    | Impact: -0.000596 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  papa                | Impact: 0.000430
+ 2. yo                   | Impact: 0.000430
+ 3. ti                   | Impact: 0.000430
+ 4.  from                | Impact: 0.000352
+ 5.  :                   | Impact: 0.000352
+ 6.  lee                 | Impact: 0.000352
+ 7.  l                   | Impact: 0.000352
+ 8.  pat                 | Impact: 0.000070
+ 9.  cl                  | Impact: 0.000070
+10. yne                  | Impact: 0.000070
+11. s                    | Impact: 0.000070
+12.  august              | Impact: 0.000057
+13.  th                  | Impact: 0.000057
+14.  .                   | Impact: 0.000057
+15.  a                   | Impact: 0.000057
+16.  reminder            | Impact: 0.000057
+17.  that                | Impact: 0.000057
+18.  "                   | Impact: 0.000057
+19.  allocation          | Impact: 0.000057
+20.  close               | Impact: 0.000057
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.000776
+ 2.  roll                | Impact: -0.000776
+ 3.  on                  | Impact: -0.000750
+ 4.  /                   | Impact: -0.000750
+ 5.  /                   | Impact: -0.000750
+ 6.  :                   | Impact: -0.000750
+ 7.  en                  | Impact: -0.000660
+ 8. ron                  | Impact: -0.000660
+ 9.  @                   | Impact: -0.000660
+10.  /                   | Impact: -0.000596
+11.  corp                | Impact: -0.000596
+12.  /                   | Impact: -0.000596
+13.  en                  | Impact: -0.000596
+14. ron                  | Impact: -0.000596
+15.  @                   | Impact: -0.000596
+16.  ec                  | Impact: -0.000596
+17. t                    | Impact: -0.000596
+18.  @                   | Impact: -0.000596
+19.  ec                  | Impact: -0.000596
+20. t                    | Impact: -0.000596

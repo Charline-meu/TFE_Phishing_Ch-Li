@@ -1,0 +1,75 @@
+Sample 229
+==========
+
+Sample text preview: Hi Internal share file document link has been shared with you below Kindly check the staff memo, referring to the above subject from HR department reg...
+
+Model prediction: [0.00778895 0.9922111 ]
+Predicted class: PHISHING with 0.9922 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.267915 → PHISHING
+ 2.  file                | Impact: 0.097286 → PHISHING
+ 3.  with                | Impact: 0.089861 → PHISHING
+ 4.  document            | Impact: 0.080937 → PHISHING
+ 5.  employees           | Impact: -0.069355 → LEGITIMATE
+ 6.  colour              | Impact: 0.053230 → PHISHING
+ 7.  )                   | Impact: 0.051564 → PHISHING
+ 8.  below               | Impact: 0.050336 → PHISHING
+ 9.  kindly              | Impact: 0.050336 → PHISHING
+10.  green               | Impact: 0.043198 → PHISHING
+11.  vacation            | Impact: -0.035904 → LEGITIMATE
+12.  plan                | Impact: -0.035904 → LEGITIMATE
+13.  comply              | Impact: 0.033092 → PHISHING
+14.  link                | Impact: 0.032898 → PHISHING
+15.  has                 | Impact: 0.032898 → PHISHING
+16.  (                   | Impact: 0.030018 → PHISHING
+17.  been                | Impact: 0.028827 → PHISHING
+18.  shared              | Impact: 0.028827 → PHISHING
+19.                      | Impact: 0.027911 → PHISHING
+20.  hi                  | Impact: 0.027911 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.267915
+ 2.  file                | Impact: 0.097286
+ 3.  with                | Impact: 0.089861
+ 4.  document            | Impact: 0.080937
+ 5.  colour              | Impact: 0.053230
+ 6.  )                   | Impact: 0.051564
+ 7.  below               | Impact: 0.050336
+ 8.  kindly              | Impact: 0.050336
+ 9.  green               | Impact: 0.043198
+10.  comply              | Impact: 0.033092
+11.  link                | Impact: 0.032898
+12.  has                 | Impact: 0.032898
+13.  (                   | Impact: 0.030018
+14.  been                | Impact: 0.028827
+15.  shared              | Impact: 0.028827
+16.                      | Impact: 0.027911
+17.  hi                  | Impact: 0.027911
+18.  check               | Impact: 0.027639
+19.  the                 | Impact: 0.027639
+20.  un                  | Impact: 0.026665
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  employees           | Impact: -0.069355
+ 2.  vacation            | Impact: -0.035904
+ 3.  plan                | Impact: -0.035904
+ 4.  the                 | Impact: -0.027299
+ 5.  annual              | Impact: -0.027299
+ 6.  preferences         | Impact: -0.026345
+ 7.  .                   | Impact: -0.018155
+ 8.  the                 | Impact: -0.014635
+ 9.  annual              | Impact: -0.014635
+10.  staff               | Impact: -0.008378
+11.  memo                | Impact: -0.008378
+12.  ,                   | Impact: -0.008378
+13.  who                 | Impact: -0.007366
+14.  are                 | Impact: -0.007366
+15.  (                   | Impact: -0.005095
+16.  )                   | Impact: -0.005095
+17.  regarding           | Impact: -0.004613
+18.  low                 | Impact: -0.004613
+19.  compliance          | Impact: -0.004613
+20.  to                  | Impact: -0.004613

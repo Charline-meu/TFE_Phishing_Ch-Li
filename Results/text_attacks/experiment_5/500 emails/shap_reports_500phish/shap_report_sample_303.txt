@@ -1,0 +1,74 @@
+Sample 303
+==========
+
+Sample text preview: Mr.Charles Greene Senior Audit Officer Natwest Bank Group UK. Dear Friend, I am Mr.Charles Greene Senior Audit Officer of Natwest Bank Group UK. Natwe...
+
+Model prediction: [1.7384971e-04 9.9982613e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  daughter            | Impact: 0.015300 → PHISHING
+ 2.  dear                | Impact: 0.013005 → PHISHING
+ 3.  friend              | Impact: 0.013005 → PHISHING
+ 4.  customers           | Impact: 0.012216 → PHISHING
+ 5.  late                | Impact: 0.012216 → PHISHING
+ 6.  mr                  | Impact: 0.012216 → PHISHING
+ 7.  best                | Impact: 0.011012 → PHISHING
+ 8.  regards             | Impact: 0.011012 → PHISHING
+ 9.  mr                  | Impact: 0.011012 → PHISHING
+10.  funds               | Impact: 0.009292 → PHISHING
+11.  to                  | Impact: 0.009292 → PHISHING
+12.  you                 | Impact: 0.008456 → PHISHING
+13.  has                 | Impact: 0.008456 → PHISHING
+14.  been                | Impact: 0.008456 → PHISHING
+15.  only                | Impact: 0.008109 → PHISHING
+16.  our                 | Impact: 0.007744 → PHISHING
+17.  foreign             | Impact: 0.007744 → PHISHING
+18.  daughter            | Impact: 0.007230 → PHISHING
+19.  died                | Impact: 0.007230 → PHISHING
+20.  .                   | Impact: 0.005655 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  daughter            | Impact: 0.015300
+ 2.  dear                | Impact: 0.013005
+ 3.  friend              | Impact: 0.013005
+ 4.  customers           | Impact: 0.012216
+ 5.  late                | Impact: 0.012216
+ 6.  mr                  | Impact: 0.012216
+ 7.  best                | Impact: 0.011012
+ 8.  regards             | Impact: 0.011012
+ 9.  mr                  | Impact: 0.011012
+10.  funds               | Impact: 0.009292
+11.  to                  | Impact: 0.009292
+12.  you                 | Impact: 0.008456
+13.  has                 | Impact: 0.008456
+14.  been                | Impact: 0.008456
+15.  only                | Impact: 0.008109
+16.  our                 | Impact: 0.007744
+17.  foreign             | Impact: 0.007744
+18.  daughter            | Impact: 0.007230
+19.  died                | Impact: 0.007230
+20.  .                   | Impact: 0.005655
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  charles             | Impact: -0.002788
+ 2.  greene              | Impact: -0.002788
+ 3.  senior              | Impact: -0.002788
+ 4.  audit               | Impact: -0.002788
+ 5.  officer             | Impact: -0.001632
+ 6.  of                  | Impact: -0.001632
+ 7.  nat                 | Impact: -0.001632
+ 8. west                 | Impact: -0.001632
+ 9.  treasury            | Impact: -0.000359
+10.  as                  | Impact: -0.000359
+11.  un                  | Impact: -0.000359
+12. claim                | Impact: -0.000359
+13. ed                   | Impact: -0.000359
+14.  bill                | Impact: -0.000359
+15.  .                   | Impact: -0.000359
+16.  bank                | Impact: -0.000325
+17.  group               | Impact: -0.000325
+18.  uk                  | Impact: -0.000325
+19.  .                   | Impact: -0.000325

@@ -1,0 +1,75 @@
+Sample 181
+==========
+
+Sample text preview: We offer a product that will let you develop a customer base for your business in no time. We have compiled information over the Internet on every US ...
+
+Model prediction: [3.061199e-04 9.996939e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  us                  | Impact: 0.011659 → PHISHING
+ 2.  businesses          | Impact: 0.011659 → PHISHING
+ 3.  &                   | Impact: 0.011659 → PHISHING
+ 4.  us                  | Impact: 0.011659 → PHISHING
+ 5.  please              | Impact: 0.007304 → PHISHING
+ 6.  send                | Impact: 0.007304 → PHISHING
+ 7.  me                  | Impact: 0.007304 → PHISHING
+ 8.  "                   | Impact: 0.007304 → PHISHING
+ 9.  company             | Impact: 0.006414 → PHISHING
+10.  name                | Impact: 0.006414 → PHISHING
+11.  :                   | Impact: 0.006414 → PHISHING
+12.  *                   | Impact: 0.006414 → PHISHING
+13.  *                   | Impact: 0.006220 → PHISHING
+14.  name                | Impact: 0.006220 → PHISHING
+15.  :                   | Impact: 0.006220 → PHISHING
+16.  *                   | Impact: 0.006220 → PHISHING
+17.  and                 | Impact: 0.005922 → PHISHING
+18.  mail                | Impact: 0.005922 → PHISHING
+19.  or                  | Impact: 0.005922 → PHISHING
+20.  fa                  | Impact: 0.005714 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  us                  | Impact: 0.011659
+ 2.  businesses          | Impact: 0.011659
+ 3.  &                   | Impact: 0.011659
+ 4.  us                  | Impact: 0.011659
+ 5.  please              | Impact: 0.007304
+ 6.  send                | Impact: 0.007304
+ 7.  me                  | Impact: 0.007304
+ 8.  "                   | Impact: 0.007304
+ 9.  company             | Impact: 0.006414
+10.  name                | Impact: 0.006414
+11.  :                   | Impact: 0.006414
+12.  *                   | Impact: 0.006414
+13.  *                   | Impact: 0.006220
+14.  name                | Impact: 0.006220
+15.  :                   | Impact: 0.006220
+16.  *                   | Impact: 0.006220
+17.  and                 | Impact: 0.005922
+18.  mail                | Impact: 0.005922
+19.  or                  | Impact: 0.005922
+20.  fa                  | Impact: 0.005714
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  oakland             | Impact: -0.001498
+ 2.  park                | Impact: -0.001498
+ 3.  b                   | Impact: -0.001498
+ 4. l                    | Impact: -0.001498
+ 5. vd                   | Impact: -0.001498
+ 6.  .                   | Impact: -0.001498
+ 7.  order               | Impact: -0.000615
+ 8.  line                | Impact: -0.000615
+ 9.  :                   | Impact: -0.000615
+10.  -                   | Impact: -0.000615
+11.  -                   | Impact: -0.000615
+12.  -                   | Impact: -0.000615
+13.  via                 | Impact: -0.000615
+14.  fa                  | Impact: -0.000615
+15. x                    | Impact: -0.000615
+16.  :                   | Impact: -0.000615
+17.  -                   | Impact: -0.000615
+18.  -                   | Impact: -0.000615
+19.  -                   | Impact: -0.000615
+20.  or                  | Impact: -0.000615

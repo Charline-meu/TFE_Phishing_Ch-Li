@@ -1,0 +1,75 @@
+Sample 161
+==========
+
+Sample text preview: STRICTLY CONFIDENTIAL PLEASE IDRIS ADAMU NNPC, IKOYI Lagos- Nigeria email: Fax: -- // Attention: The President/Chairman PROPOSAL FOR TRANSFER OF TWENT...
+
+Model prediction: [1.4696171e-04 9.9985301e-01]
+Predicted class: PHISHING with 0.9999 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  for                 | Impact: 0.013046 → PHISHING
+ 2.  your                | Impact: 0.013046 → PHISHING
+ 3.  assistance          | Impact: 0.012920 → PHISHING
+ 4.  we                  | Impact: 0.012920 → PHISHING
+ 5.  this                | Impact: 0.009462 → PHISHING
+ 6.  money               | Impact: 0.009462 → PHISHING
+ 7.  will                | Impact: 0.009462 → PHISHING
+ 8.  be                  | Impact: 0.009462 → PHISHING
+ 9.  lodged              | Impact: 0.009462 → PHISHING
+10.  into                | Impact: 0.009462 → PHISHING
+11.  lagos               | Impact: 0.009178 → PHISHING
+12.  fund                | Impact: 0.008369 → PHISHING
+13.  will                | Impact: 0.008369 → PHISHING
+14.  be                  | Impact: 0.008369 → PHISHING
+15.  shared              | Impact: 0.008369 → PHISHING
+16.  your                | Impact: 0.008279 → PHISHING
+17.  account             | Impact: 0.008279 → PHISHING
+18.  number              | Impact: 0.008279 → PHISHING
+19.  where               | Impact: 0.008279 → PHISHING
+20.  ben                 | Impact: 0.006426 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  for                 | Impact: 0.013046
+ 2.  your                | Impact: 0.013046
+ 3.  assistance          | Impact: 0.012920
+ 4.  we                  | Impact: 0.012920
+ 5.  this                | Impact: 0.009462
+ 6.  money               | Impact: 0.009462
+ 7.  will                | Impact: 0.009462
+ 8.  be                  | Impact: 0.009462
+ 9.  lodged              | Impact: 0.009462
+10.  into                | Impact: 0.009462
+11.  lagos               | Impact: 0.009178
+12.  fund                | Impact: 0.008369
+13.  will                | Impact: 0.008369
+14.  be                  | Impact: 0.008369
+15.  shared              | Impact: 0.008369
+16.  your                | Impact: 0.008279
+17.  account             | Impact: 0.008279
+18.  number              | Impact: 0.008279
+19.  where               | Impact: 0.008279
+20.  ben                 | Impact: 0.006426
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  success             | Impact: -0.000808
+ 2.  of                  | Impact: -0.000808
+ 3.  this                | Impact: -0.000808
+ 4.  transaction         | Impact: -0.000808
+ 5.  .                   | Impact: -0.000808
+ 6.                      | Impact: -0.000706
+ 7.  yours               | Impact: -0.000706
+ 8.  faithful            | Impact: -0.000706
+ 9. ly                   | Impact: -0.000706
+10.  ,                   | Impact: -0.000706
+11.  id                  | Impact: -0.000706
+12. ris                  | Impact: -0.000706
+13.  adam                | Impact: -0.000706
+14. u                    | Impact: -0.000706
+15.  .                   | Impact: -0.000706
+16.  or                  | Impact: -0.000456
+17.  corporate           | Impact: -0.000456
+18.  .                   | Impact: -0.000456
+19.  it                  | Impact: -0.000456
+20.  could               | Impact: -0.000456

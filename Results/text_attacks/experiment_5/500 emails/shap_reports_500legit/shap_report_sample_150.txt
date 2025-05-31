@@ -1,0 +1,75 @@
+Sample 150
+==========
+
+Sample text preview: Hi Kevin, In the past when administering large domains, I've used the DNSTool - One custom change I made to this tool was to modify it so that it used...
+
+Model prediction: [9.9968493e-01 3.1513334e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.001831 → PHISHING
+ 2.  '                   | Impact: 0.001831 → PHISHING
+ 3.  administering       | Impact: -0.001797 → LEGITIMATE
+ 4.  large               | Impact: -0.001797 → LEGITIMATE
+ 5.  kevin               | Impact: -0.001667 → LEGITIMATE
+ 6.  writing             | Impact: -0.001564 → LEGITIMATE
+ 7.  a                   | Impact: -0.001564 → LEGITIMATE
+ 8.  domains             | Impact: -0.001483 → LEGITIMATE
+ 9.  -                   | Impact: -0.001476 → LEGITIMATE
+10.  internet            | Impact: -0.001460 → LEGITIMATE
+11.  technical           | Impact: -0.001460 → LEGITIMATE
+12.  list                | Impact: -0.001351 → LEGITIMATE
+13.  re                  | Impact: -0.001114 → LEGITIMATE
+14.  considering         | Impact: -0.001114 → LEGITIMATE
+15.  ya                  | Impact: 0.000970 → PHISHING
+16. da                   | Impact: 0.000970 → PHISHING
+17.  subscription        | Impact: -0.000936 → LEGITIMATE
+18.  information         | Impact: -0.000936 → LEGITIMATE
+19.  maintenance         | Impact: -0.000930 → LEGITIMATE
+20.  of                  | Impact: -0.000930 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.001831
+ 2.  '                   | Impact: 0.001831
+ 3.  ya                  | Impact: 0.000970
+ 4. da                   | Impact: 0.000970
+ 5.  ya                  | Impact: 0.000838
+ 6. da                   | Impact: 0.000838
+ 7.  past                | Impact: 0.000738
+ 8.  when                | Impact: 0.000738
+ 9.  no                  | Impact: 0.000734
+10.  -                   | Impact: 0.000734
+11.  one                 | Impact: 0.000734
+12.  b                   | Impact: 0.000654
+13.  .                   | Impact: 0.000654
+14.  regards             | Impact: 0.000527
+15.  ,                   | Impact: 0.000527
+16.  else                | Impact: 0.000520
+17. s                    | Impact: 0.000520
+18.  ,                   | Impact: 0.000520
+19.  re                  | Impact: 0.000421
+20.  after               | Impact: 0.000421
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  administering       | Impact: -0.001797
+ 2.  large               | Impact: -0.001797
+ 3.  kevin               | Impact: -0.001667
+ 4.  writing             | Impact: -0.001564
+ 5.  a                   | Impact: -0.001564
+ 6.  domains             | Impact: -0.001483
+ 7.  -                   | Impact: -0.001476
+ 8.  internet            | Impact: -0.001460
+ 9.  technical           | Impact: -0.001460
+10.  list                | Impact: -0.001351
+11.  re                  | Impact: -0.001114
+12.  considering         | Impact: -0.001114
+13.  subscription        | Impact: -0.000936
+14.  information         | Impact: -0.000936
+15.  maintenance         | Impact: -0.000930
+16.  of                  | Impact: -0.000930
+17.  the                 | Impact: -0.000930
+18.  domains             | Impact: -0.000930
+19.  :                   | Impact: -0.000870
+20.  -                   | Impact: -0.000828

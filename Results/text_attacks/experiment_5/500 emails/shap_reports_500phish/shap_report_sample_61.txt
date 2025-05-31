@@ -1,0 +1,75 @@
+Sample 61
+=========
+
+Sample text preview: Dear Sir/Madam, I am Mr MAXWELL TAMBO, Bank Manager of a Reputable bank in Johannesburg, Gauteng Province, and Republic of South Africa. I have an urg...
+
+Model prediction: [1.6046211e-04 9.9983954e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sir                 | Impact: 0.008658 → PHISHING
+ 2.  /                   | Impact: 0.008658 → PHISHING
+ 3.  madam               | Impact: 0.008658 → PHISHING
+ 4.  money               | Impact: 0.008442 → PHISHING
+ 5.  to                  | Impact: 0.008442 → PHISHING
+ 6.  you                 | Impact: 0.008442 → PHISHING
+ 7.  as                  | Impact: 0.008442 → PHISHING
+ 8.  the                 | Impact: 0.008442 → PHISHING
+ 9.                      | Impact: 0.008206 → PHISHING
+10.  dear                | Impact: 0.008206 → PHISHING
+11.  ben                 | Impact: 0.007777 → PHISHING
+12. ef                   | Impact: 0.007777 → PHISHING
+13.  for                 | Impact: 0.007572 → PHISHING
+14.  you                 | Impact: 0.007572 → PHISHING
+15.  to                  | Impact: 0.007561 → PHISHING
+16.  provide             | Impact: 0.007561 → PHISHING
+17.  immediately         | Impact: 0.007561 → PHISHING
+18.  your                | Impact: 0.007561 → PHISHING
+19.  full                | Impact: 0.007561 → PHISHING
+20.  names               | Impact: 0.007561 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sir                 | Impact: 0.008658
+ 2.  /                   | Impact: 0.008658
+ 3.  madam               | Impact: 0.008658
+ 4.  money               | Impact: 0.008442
+ 5.  to                  | Impact: 0.008442
+ 6.  you                 | Impact: 0.008442
+ 7.  as                  | Impact: 0.008442
+ 8.  the                 | Impact: 0.008442
+ 9.                      | Impact: 0.008206
+10.  dear                | Impact: 0.008206
+11.  ben                 | Impact: 0.007777
+12. ef                   | Impact: 0.007777
+13.  for                 | Impact: 0.007572
+14.  you                 | Impact: 0.007572
+15.  to                  | Impact: 0.007561
+16.  provide             | Impact: 0.007561
+17.  immediately         | Impact: 0.007561
+18.  your                | Impact: 0.007561
+19.  full                | Impact: 0.007561
+20.  names               | Impact: 0.007561
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  and                 | Impact: -0.000566
+ 2.  upon                | Impact: -0.000565
+ 3.  maturity            | Impact: -0.000565
+ 4.  ,                   | Impact: -0.000565
+ 5.  please              | Impact: -0.000004
+ 6.  observe             | Impact: -0.000004
+ 7.  utmost              | Impact: -0.000004
+ 8.  confidential        | Impact: -0.000004
+ 9. ity                  | Impact: -0.000004
+10.  ,                   | Impact: -0.000004
+11.  reply               | Impact: -0.000004
+12.  me                  | Impact: -0.000004
+13.  via                 | Impact: -0.000004
+14.  my                  | Impact: -0.000004
+15.  there               | Impact: -0.000004
+16.  is                  | Impact: -0.000004
+17.  no                  | Impact: -0.000004
+18.  risk                | Impact: -0.000004
+19.  at                  | Impact: -0.000004
+20.  all                 | Impact: -0.000004

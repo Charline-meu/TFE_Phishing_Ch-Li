@@ -1,0 +1,75 @@
+Sample 111
+==========
+
+Sample text preview: CDale URLed thusly: > >The assumption that females of all species tend to be less promiscuous >than males simply does not fit the facts, Hrdy contende...
+
+Model prediction: [9.9968886e-01 3.1115793e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  !                   | Impact: 0.032165 → PHISHING
+ 2.  distributions       | Impact: -0.027635 → LEGITIMATE
+ 3.  differ              | Impact: -0.023253 → LEGITIMATE
+ 4.  !                   | Impact: 0.022422 → PHISHING
+ 5.  females             | Impact: 0.017716 → PHISHING
+ 6.  males               | Impact: 0.017498 → PHISHING
+ 7.  heterosexual        | Impact: 0.016206 → PHISHING
+ 8.  may                 | Impact: -0.015964 → LEGITIMATE
+ 9.  precisely           | Impact: -0.013515 → LEGITIMATE
+10.  contend             | Impact: -0.013438 → LEGITIMATE
+11.  of                  | Impact: -0.013434 → LEGITIMATE
+12.  hr                  | Impact: 0.012541 → PHISHING
+13. ed                   | Impact: -0.011375 → LEGITIMATE
+14.  identical           | Impact: 0.011123 → PHISHING
+15.  obvious             | Impact: -0.010220 → LEGITIMATE
+16.  that                | Impact: -0.009565 → LEGITIMATE
+17.  course              | Impact: -0.009336 → LEGITIMATE
+18.  and                 | Impact: 0.008834 → PHISHING
+19.  cd                  | Impact: 0.008090 → PHISHING
+20.  (                   | Impact: 0.007792 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.032165
+ 2.  !                   | Impact: 0.022422
+ 3.  females             | Impact: 0.017716
+ 4.  males               | Impact: 0.017498
+ 5.  heterosexual        | Impact: 0.016206
+ 6.  hr                  | Impact: 0.012541
+ 7.  identical           | Impact: 0.011123
+ 8.  and                 | Impact: 0.008834
+ 9.  cd                  | Impact: 0.008090
+10.  (                   | Impact: 0.007792
+11.  males               | Impact: 0.005890
+12. is                   | Impact: 0.005278
+13.  simply              | Impact: 0.003663
+14. cu                   | Impact: 0.003533
+15.  it                  | Impact: 0.003403
+16.  !                   | Impact: 0.002805
+17.  is                  | Impact: 0.002574
+18.  between             | Impact: 0.002048
+19. ous                  | Impact: 0.001804
+20.  of                  | Impact: 0.001770
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  distributions       | Impact: -0.027635
+ 2.  differ              | Impact: -0.023253
+ 3.  may                 | Impact: -0.015964
+ 4.  precisely           | Impact: -0.013515
+ 5.  contend             | Impact: -0.013438
+ 6.  of                  | Impact: -0.013434
+ 7. ed                   | Impact: -0.011375
+ 8.  obvious             | Impact: -0.010220
+ 9.  that                | Impact: -0.009565
+10.  course              | Impact: -0.009336
+11.  r                   | Impact: -0.007781
+12.  .                   | Impact: -0.006870
+13.  .                   | Impact: -0.006094
+14.  perfectly           | Impact: -0.005228
+15. dy                   | Impact: -0.005103
+16.  well                | Impact: -0.004031
+17.  shapes              | Impact: -0.003987
+18.  exactly             | Impact: -0.003932
+19.  thus                | Impact: -0.003898
+20.  is                  | Impact: -0.003029

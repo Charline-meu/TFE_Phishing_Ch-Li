@@ -1,0 +1,75 @@
+Sample 359
+==========
+
+Sample text preview: From:Mr.Usman Bello. Attention Sir: Before I proceed, may I humbly introduce myself to your good self, My Name is Mr.Usman Bello, an Iraqi refugee ,my...
+
+Model prediction: [1.5922116e-04 9.9984074e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  as                  | Impact: 0.011889 → PHISHING
+ 2.  the                 | Impact: 0.011889 → PHISHING
+ 3.  only                | Impact: 0.011889 → PHISHING
+ 4.  surviving           | Impact: 0.011889 → PHISHING
+ 5.  son                 | Impact: 0.011889 → PHISHING
+ 6.  .                   | Impact: 0.011117 → PHISHING
+ 7.  country             | Impact: 0.008909 → PHISHING
+ 8.  for                 | Impact: 0.008909 → PHISHING
+ 9.  investment          | Impact: 0.008909 → PHISHING
+10.  father              | Impact: 0.008878 → PHISHING
+11.  was                 | Impact: 0.008878 → PHISHING
+12.  this                | Impact: 0.007315 → PHISHING
+13.  fund                | Impact: 0.007315 → PHISHING
+14.  to                  | Impact: 0.007315 → PHISHING
+15.  your                | Impact: 0.007315 → PHISHING
+16.  yours               | Impact: 0.007120 → PHISHING
+17.  sincerely           | Impact: 0.007120 → PHISHING
+18.  .                   | Impact: 0.007120 → PHISHING
+19.  my                  | Impact: 0.007052 → PHISHING
+20.  late                | Impact: 0.007052 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  as                  | Impact: 0.011889
+ 2.  the                 | Impact: 0.011889
+ 3.  only                | Impact: 0.011889
+ 4.  surviving           | Impact: 0.011889
+ 5.  son                 | Impact: 0.011889
+ 6.  .                   | Impact: 0.011117
+ 7.  country             | Impact: 0.008909
+ 8.  for                 | Impact: 0.008909
+ 9.  investment          | Impact: 0.008909
+10.  father              | Impact: 0.008878
+11.  was                 | Impact: 0.008878
+12.  this                | Impact: 0.007315
+13.  fund                | Impact: 0.007315
+14.  to                  | Impact: 0.007315
+15.  your                | Impact: 0.007315
+16.  yours               | Impact: 0.007120
+17.  sincerely           | Impact: 0.007120
+18.  .                   | Impact: 0.007120
+19.  my                  | Impact: 0.007052
+20.  late                | Impact: 0.007052
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.000622
+ 2.  proceed             | Impact: -0.000622
+ 3.  ,                   | Impact: -0.000622
+ 4.  ass                 | Impact: -0.000235
+ 5. oc                   | Impact: -0.000235
+ 6. iating               | Impact: -0.000235
+ 7.  i                   | Impact: -0.000235
+ 8.  strongly            | Impact: -0.000235
+ 9.  believe             | Impact: -0.000235
+10.  that                | Impact: -0.000235
+11.  and                 | Impact: -0.000173
+12.  private             | Impact: -0.000173
+13.  e                   | Impact: -0.000173
+14.  -                   | Impact: -0.000173
+15.  mail                | Impact: -0.000173
+16.  when                | Impact: -0.000173
+17.  reply               | Impact: -0.000173
+18. ing                  | Impact: -0.000173
+19.  .                   | Impact: -0.000173
+20.  or                  | Impact: -0.000152

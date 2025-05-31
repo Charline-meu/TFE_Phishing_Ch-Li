@@ -1,0 +1,75 @@
+Phishing Sample 39
+==================
+
+Sample text preview: Dear Friend Compliments of the seasons This letter is written to you based on contact information I came across on web while searching for investment ...
+
+Model prediction: [1.5369043e-04 9.9984634e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.020787 → PHISHING
+ 2.  name                | Impact: 0.020787 → PHISHING
+ 3.  friend              | Impact: 0.018174 → PHISHING
+ 4.                      | Impact: 0.014303 → PHISHING
+ 5.  dear                | Impact: 0.014303 → PHISHING
+ 6.  foreigner           | Impact: 0.012373 → PHISHING
+ 7.  i                   | Impact: 0.012373 → PHISHING
+ 8.  this                | Impact: 0.010745 → PHISHING
+ 9.  money               | Impact: 0.010745 → PHISHING
+10.  is                  | Impact: 0.009818 → PHISHING
+11.  *                   | Impact: 0.009818 → PHISHING
+12.  you                 | Impact: 0.009593 → PHISHING
+13.  based               | Impact: 0.009593 → PHISHING
+14.  written             | Impact: 0.008367 → PHISHING
+15.  to                  | Impact: 0.008367 → PHISHING
+16.  prince              | Impact: 0.008221 → PHISHING
+17.  victor              | Impact: 0.008221 → PHISHING
+18.  who                 | Impact: 0.008221 → PHISHING
+19.  was                 | Impact: 0.008221 → PHISHING
+20.  of                  | Impact: 0.008106 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.020787
+ 2.  name                | Impact: 0.020787
+ 3.  friend              | Impact: 0.018174
+ 4.                      | Impact: 0.014303
+ 5.  dear                | Impact: 0.014303
+ 6.  foreigner           | Impact: 0.012373
+ 7.  i                   | Impact: 0.012373
+ 8.  this                | Impact: 0.010745
+ 9.  money               | Impact: 0.010745
+10.  is                  | Impact: 0.009818
+11.  *                   | Impact: 0.009818
+12.  you                 | Impact: 0.009593
+13.  based               | Impact: 0.009593
+14.  written             | Impact: 0.008367
+15.  to                  | Impact: 0.008367
+16.  prince              | Impact: 0.008221
+17.  victor              | Impact: 0.008221
+18.  who                 | Impact: 0.008221
+19.  was                 | Impact: 0.008221
+20.  of                  | Impact: 0.008106
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  tony                | Impact: -0.004026
+ 2.  silver              | Impact: -0.004026
+ 3.  compliment          | Impact: -0.002316
+ 4. s                    | Impact: -0.002316
+ 5.  of                  | Impact: -0.002316
+ 6.  the                 | Impact: -0.002316
+ 7.                      | Impact: -0.002201
+ 8.  while               | Impact: -0.001204
+ 9.  searching           | Impact: -0.001204
+10.  for                 | Impact: -0.001204
+11.  investment          | Impact: -0.001204
+12.  options             | Impact: -0.001204
+13.  overseas            | Impact: -0.001204
+14.  .                   | Impact: -0.001204
+15.  i                   | Impact: -0.000749
+16.  work                | Impact: -0.000749
+17.  as                  | Impact: -0.000749
+18.  a                   | Impact: -0.000749
+19.  of                  | Impact: -0.000673
+20.  the                 | Impact: -0.000673

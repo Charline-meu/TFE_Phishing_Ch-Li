@@ -1,0 +1,75 @@
+Phishing Sample 32
+==================
+
+Sample text preview: FROM:ROSLIN MATHEW ABIDJAN-COTE D'IVOR FROM:ROSLIN MATHEW PLEASE MAIL BACK My Dearest ONE May the peace of gracious God be with you,please I have a pr...
+
+Model prediction: [1.6279428e-04 9.9983716e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.015142 → PHISHING
+ 2.  family              | Impact: 0.015142 → PHISHING
+ 3.  .                   | Impact: 0.015142 → PHISHING
+ 4.  and                 | Impact: 0.015142 → PHISHING
+ 5.  is                  | Impact: 0.008877 → PHISHING
+ 6.  in                  | Impact: 0.008877 → PHISHING
+ 7.  your                | Impact: 0.008877 → PHISHING
+ 8.  account             | Impact: 0.008877 → PHISHING
+ 9.  ?                   | Impact: 0.008877 → PHISHING
+10.  sincere             | Impact: 0.008551 → PHISHING
+11.  desire              | Impact: 0.008551 → PHISHING
+12.  of                  | Impact: 0.008551 → PHISHING
+13.  your                | Impact: 0.008551 → PHISHING
+14.  i                   | Impact: 0.006077 → PHISHING
+15.  am                  | Impact: 0.006077 → PHISHING
+16.  in                  | Impact: 0.006077 → PHISHING
+17.  a                   | Impact: 0.006077 → PHISHING
+18.  my                  | Impact: 0.005939 → PHISHING
+19.  late                | Impact: 0.005939 → PHISHING
+20.  parents             | Impact: 0.005939 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.015142
+ 2.  family              | Impact: 0.015142
+ 3.  .                   | Impact: 0.015142
+ 4.  and                 | Impact: 0.015142
+ 5.  is                  | Impact: 0.008877
+ 6.  in                  | Impact: 0.008877
+ 7.  your                | Impact: 0.008877
+ 8.  account             | Impact: 0.008877
+ 9.  ?                   | Impact: 0.008877
+10.  sincere             | Impact: 0.008551
+11.  desire              | Impact: 0.008551
+12.  of                  | Impact: 0.008551
+13.  your                | Impact: 0.008551
+14.  i                   | Impact: 0.006077
+15.  am                  | Impact: 0.006077
+16.  in                  | Impact: 0.006077
+17.  a                   | Impact: 0.006077
+18.  my                  | Impact: 0.005939
+19.  late                | Impact: 0.005939
+20.  parents             | Impact: 0.005939
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  feb                 | Impact: -0.002347
+ 2. uary                 | Impact: -0.002347
+ 3.  .                   | Impact: -0.002347
+ 4.  it                  | Impact: -0.000872
+ 5.  is                  | Impact: -0.000872
+ 6.  sad                 | Impact: -0.000872
+ 7.  to                  | Impact: -0.000872
+ 8.  say                 | Impact: -0.000872
+ 9.  that                | Impact: -0.000872
+10.  he                  | Impact: -0.000872
+11.  passed              | Impact: -0.000872
+12.  consider            | Impact: -0.000716
+13.  this                | Impact: -0.000716
+14.  and                 | Impact: -0.000716
+15.  get                 | Impact: -0.000716
+16.  back                | Impact: -0.000716
+17.  to                  | Impact: -0.000716
+18.  me                  | Impact: -0.000716
+19.  thank               | Impact: -0.000670
+20.  you                 | Impact: -0.000670

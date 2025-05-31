@@ -1,0 +1,75 @@
+Sample 129
+==========
+
+Sample text preview: Dearest In Christ, It is with Heavy Heart i am reaching you regarding the death of my late client. I am Barrister Robert Beaud, the legal adviser to l...
+
+Model prediction: [1.662506e-04 9.998337e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.008386 → PHISHING
+ 2.  child               | Impact: 0.008386 → PHISHING
+ 3.  of                  | Impact: 0.008386 → PHISHING
+ 4.  zion                | Impact: 0.008386 → PHISHING
+ 5.  late                | Impact: 0.007572 → PHISHING
+ 6.  mr                  | Impact: 0.007572 → PHISHING
+ 7.  .                   | Impact: 0.007572 → PHISHING
+ 8.  of                  | Impact: 0.006892 → PHISHING
+ 9.  my                  | Impact: 0.006892 → PHISHING
+10.  country             | Impact: 0.006892 → PHISHING
+11.  as                  | Impact: 0.005915 → PHISHING
+12.  instructed          | Impact: 0.005915 → PHISHING
+13.  by                  | Impact: 0.005915 → PHISHING
+14.  mr                  | Impact: 0.005915 → PHISHING
+15.  the                 | Impact: 0.005751 → PHISHING
+16.  husband             | Impact: 0.005751 → PHISHING
+17.  mr                  | Impact: 0.005751 → PHISHING
+18.  .                   | Impact: 0.005751 → PHISHING
+19.  a                   | Impact: 0.005708 → PHISHING
+20.  very                | Impact: 0.005708 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.008386
+ 2.  child               | Impact: 0.008386
+ 3.  of                  | Impact: 0.008386
+ 4.  zion                | Impact: 0.008386
+ 5.  late                | Impact: 0.007572
+ 6.  mr                  | Impact: 0.007572
+ 7.  .                   | Impact: 0.007572
+ 8.  of                  | Impact: 0.006892
+ 9.  my                  | Impact: 0.006892
+10.  country             | Impact: 0.006892
+11.  as                  | Impact: 0.005915
+12.  instructed          | Impact: 0.005915
+13.  by                  | Impact: 0.005915
+14.  mr                  | Impact: 0.005915
+15.  the                 | Impact: 0.005751
+16.  husband             | Impact: 0.005751
+17.  mr                  | Impact: 0.005751
+18.  .                   | Impact: 0.005751
+19.  a                   | Impact: 0.005708
+20.  very                | Impact: 0.005708
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  internet            | Impact: -0.000720
+ 2.  as                  | Impact: -0.000720
+ 3.  i                   | Impact: -0.000720
+ 4.  was                 | Impact: -0.000720
+ 5.  brows               | Impact: -0.000352
+ 6. ing                  | Impact: -0.000352
+ 7.  through             | Impact: -0.000352
+ 8.  a                   | Impact: -0.000352
+ 9.  christian           | Impact: -0.000352
+10.  site                | Impact: -0.000352
+11.  .                   | Impact: -0.000352
+12.  as                  | Impact: -0.000042
+13.  a                   | Impact: -0.000042
+14.  matter              | Impact: -0.000042
+15.  of                  | Impact: -0.000042
+16.  fact                | Impact: -0.000042
+17.  the                 | Impact: -0.000042
+18.  total               | Impact: -0.000042
+19.  amount              | Impact: -0.000042
+20.  after               | Impact: -0.000017

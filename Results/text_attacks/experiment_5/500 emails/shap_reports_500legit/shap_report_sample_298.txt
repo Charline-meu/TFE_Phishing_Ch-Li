@@ -1,0 +1,75 @@
+Sample 298
+==========
+
+Sample text preview: > PS I know my English isn't good, but... "negative score added", can > you really say that? Adding something negative... hmmm... Yes, that is perfect...
+
+Model prediction: [9.997447e-01 2.552470e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  thing               | Impact: -0.014606 → LEGITIMATE
+ 2.  math                | Impact: -0.014457 → LEGITIMATE
+ 3.  bob                 | Impact: -0.012618 → LEGITIMATE
+ 4.  hmm                 | Impact: -0.010430 → LEGITIMATE
+ 5.  bank                | Impact: 0.009271 → PHISHING
+ 6.  >                   | Impact: -0.009124 → LEGITIMATE
+ 7.  but                 | Impact: -0.006520 → LEGITIMATE
+ 8.  accounting          | Impact: -0.006118 → LEGITIMATE
+ 9.  -                   | Impact: -0.005211 → LEGITIMATE
+10.  .                   | Impact: 0.005137 → PHISHING
+11.  /                   | Impact: -0.004229 → LEGITIMATE
+12.  legitimate          | Impact: 0.004170 → PHISHING
+13.  good                | Impact: -0.004054 → LEGITIMATE
+14.  additions           | Impact: -0.003820 → LEGITIMATE
+15.  items               | Impact: -0.003685 → LEGITIMATE
+16.  .                   | Impact: -0.003457 → LEGITIMATE
+17.  +                   | Impact: 0.003435 → PHISHING
+18.  pay                 | Impact: 0.003383 → PHISHING
+19. che                  | Impact: 0.003383 → PHISHING
+20.  .                   | Impact: 0.003009 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.009271
+ 2.  .                   | Impact: 0.005137
+ 3.  legitimate          | Impact: 0.004170
+ 4.  +                   | Impact: 0.003435
+ 5.  pay                 | Impact: 0.003383
+ 6. che                  | Impact: 0.003383
+ 7.  .                   | Impact: 0.003009
+ 8.  perfectly           | Impact: 0.002971
+ 9.  is                  | Impact: 0.002147
+10.  a                   | Impact: 0.001863
+11.  bill                | Impact: 0.001863
+12. m                    | Impact: 0.001756
+13.  long                | Impact: 0.001575
+14. ck                   | Impact: 0.001463
+15.  ps                  | Impact: 0.001086
+16.  .                   | Impact: 0.001063
+17.  it                  | Impact: 0.001050
+18.  for                 | Impact: 0.001028
+19.  $                   | Impact: 0.001028
+20.  you                 | Impact: 0.000953
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thing               | Impact: -0.014606
+ 2.  math                | Impact: -0.014457
+ 3.  bob                 | Impact: -0.012618
+ 4.  hmm                 | Impact: -0.010430
+ 5.  >                   | Impact: -0.009124
+ 6.  but                 | Impact: -0.006520
+ 7.  accounting          | Impact: -0.006118
+ 8.  -                   | Impact: -0.005211
+ 9.  /                   | Impact: -0.004229
+10.  good                | Impact: -0.004054
+11.  additions           | Impact: -0.003820
+12.  items               | Impact: -0.003685
+13.  .                   | Impact: -0.003457
+14.  the                 | Impact: -0.002963
+15.  .                   | Impact: -0.002907
+16.  ,                   | Impact: -0.002509
+17.  items               | Impact: -0.002475
+18.  yes                 | Impact: -0.002335
+19.  english             | Impact: -0.002207
+20.  negative            | Impact: -0.002054

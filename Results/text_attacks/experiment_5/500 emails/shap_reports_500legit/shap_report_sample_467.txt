@@ -1,0 +1,75 @@
+Sample 467
+==========
+
+Sample text preview: URL: Date: Not supplied Daniel Berlinger has noticed[] that Mac software shops are starting to move to OS X-only development. This makes sense, for tw...
+
+Model prediction: [9.9968767e-01 3.1238078e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  '                   | Impact: 0.004144 → PHISHING
+ 2.  you                 | Impact: 0.003280 → PHISHING
+ 3.  investment          | Impact: -0.003033 → LEGITIMATE
+ 4.  _                   | Impact: -0.002877 → LEGITIMATE
+ 5.  me                  | Impact: 0.002322 → PHISHING
+ 6.  why                 | Impact: 0.002322 → PHISHING
+ 7.  _                   | Impact: -0.001437 → LEGITIMATE
+ 8.  os                  | Impact: -0.001367 → LEGITIMATE
+ 9.  x                   | Impact: -0.001367 → LEGITIMATE
+10.  times               | Impact: -0.001290 → LEGITIMATE
+11.  as                  | Impact: -0.001290 → LEGITIMATE
+12.  many                | Impact: -0.001290 → LEGITIMATE
+13.  users               | Impact: -0.001290 → LEGITIMATE
+14.  mac                 | Impact: -0.001220 → LEGITIMATE
+15.  software            | Impact: -0.001220 → LEGITIMATE
+16.  _                   | Impact: -0.001164 → LEGITIMATE
+17.  appeal              | Impact: -0.001164 → LEGITIMATE
+18.  to                  | Impact: -0.001164 → LEGITIMATE
+19.  developing          | Impact: -0.001164 → LEGITIMATE
+20.  for                 | Impact: -0.001164 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  '                   | Impact: 0.004144
+ 2.  you                 | Impact: 0.003280
+ 3.  me                  | Impact: 0.002322
+ 4.  why                 | Impact: 0.002322
+ 5.  are                 | Impact: 0.000875
+ 6.  opening             | Impact: 0.000875
+ 7.  their               | Impact: 0.000875
+ 8.  can                 | Impact: 0.000873
+ 9.  '                   | Impact: 0.000873
+10.  don                 | Impact: 0.000820
+11.  '                   | Impact: 0.000820
+12.  t                   | Impact: 0.000820
+13.  people              | Impact: 0.000785
+14.  who                 | Impact: 0.000785
+15.  t                   | Impact: 0.000689
+16.  we                  | Impact: 0.000660
+17.  '                   | Impact: 0.000660
+18.  as                  | Impact: 0.000549
+19.  long                | Impact: 0.000549
+20.  as                  | Impact: 0.000549
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  investment          | Impact: -0.003033
+ 2.  _                   | Impact: -0.002877
+ 3.  _                   | Impact: -0.001437
+ 4.  os                  | Impact: -0.001367
+ 5.  x                   | Impact: -0.001367
+ 6.  times               | Impact: -0.001290
+ 7.  as                  | Impact: -0.001290
+ 8.  many                | Impact: -0.001290
+ 9.  users               | Impact: -0.001290
+10.  mac                 | Impact: -0.001220
+11.  software            | Impact: -0.001220
+12.  _                   | Impact: -0.001164
+13.  appeal              | Impact: -0.001164
+14.  to                  | Impact: -0.001164
+15.  developing          | Impact: -0.001164
+16.  for                 | Impact: -0.001164
+17.  the                 | Impact: -0.001164
+18.  mac                 | Impact: -0.001164
+19.  .                   | Impact: -0.001164
+20.  mixed               | Impact: -0.001118

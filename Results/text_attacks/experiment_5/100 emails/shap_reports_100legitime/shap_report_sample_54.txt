@@ -1,0 +1,75 @@
+Phishing Sample 54
+==================
+
+Sample text preview: Strata just walked up to me in a cafe in Somerville, MA and asked me how I was getting net here. And _then_ we figured out that we have shared context...
+
+Model prediction: [9.9935013e-01 6.4988679e-04]
+Predicted class: LEGITIMATE with 0.9994 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  context             | Impact: -0.010274 → LEGITIMATE
+ 2.  figured             | Impact: -0.009129 → LEGITIMATE
+ 3.  !                   | Impact: 0.008259 → PHISHING
+ 4.  we                  | Impact: 0.008101 → PHISHING
+ 5.  .                   | Impact: -0.006816 → LEGITIMATE
+ 6.  reed                | Impact: -0.005335 → LEGITIMATE
+ 7.  _                   | Impact: 0.005250 → PHISHING
+ 8.  peer                | Impact: -0.004673 → LEGITIMATE
+ 9.  review              | Impact: -0.004384 → LEGITIMATE
+10.  psi                 | Impact: -0.004110 → LEGITIMATE
+11. on                   | Impact: -0.003983 → LEGITIMATE
+12.  and                 | Impact: -0.003518 → LEGITIMATE
+13.  ,                   | Impact: -0.003136 → LEGITIMATE
+14.  c                   | Impact: 0.002910 → PHISHING
+15.  marc                | Impact: -0.002749 → LEGITIMATE
+16.  then                | Impact: 0.002737 → PHISHING
+17.  int                 | Impact: 0.002643 → PHISHING
+18.  he                  | Impact: 0.002643 → PHISHING
+19.  out                 | Impact: -0.002533 → LEGITIMATE
+20.  !                   | Impact: 0.002477 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.008259
+ 2.  we                  | Impact: 0.008101
+ 3.  _                   | Impact: 0.005250
+ 4.  c                   | Impact: 0.002910
+ 5.  then                | Impact: 0.002737
+ 6.  int                 | Impact: 0.002643
+ 7.  he                  | Impact: 0.002643
+ 8.  !                   | Impact: 0.002477
+ 9.  d                   | Impact: 0.002381
+10.  other               | Impact: 0.002276
+11.  that                | Impact: 0.002074
+12.  we                  | Impact: 0.001806
+13.  blood               | Impact: 0.001794
+14.  ,                   | Impact: 0.001794
+15.  by                  | Impact: 0.001605
+16.  several             | Impact: 0.001605
+17.  a                   | Impact: 0.001508
+18.  covered             | Impact: 0.001374
+19.  in                  | Impact: 0.001374
+20.  mud                 | Impact: 0.001374
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  context             | Impact: -0.010274
+ 2.  figured             | Impact: -0.009129
+ 3.  .                   | Impact: -0.006816
+ 4.  reed                | Impact: -0.005335
+ 5.  peer                | Impact: -0.004673
+ 6.  review              | Impact: -0.004384
+ 7.  psi                 | Impact: -0.004110
+ 8. on                   | Impact: -0.003983
+ 9.  and                 | Impact: -0.003518
+10.  ,                   | Impact: -0.003136
+11.  marc                | Impact: -0.002749
+12.  out                 | Impact: -0.002533
+13.  vincent             | Impact: -0.002283
+14.  monty               | Impact: -0.002215
+15.  jesse               | Impact: -0.002162
+16.  -                   | Impact: -0.002099
+17.  -                   | Impact: -0.001981
+18.  -                   | Impact: -0.001980
+19.  -                   | Impact: -0.001678
+20.  -                   | Impact: -0.001678

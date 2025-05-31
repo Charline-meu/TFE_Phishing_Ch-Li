@@ -1,0 +1,66 @@
+Phishing Sample 87
+==================
+
+Sample text preview: Joe: After speaking with Andy, I think it is fair to say that there is a substantial (% probability) that the clawback triggered by our closing a deal...
+
+Model prediction: [9.9971777e-01 2.8225034e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  cf                  | Impact: -0.008952 → LEGITIMATE
+ 2. ron                  | Impact: -0.007821 → LEGITIMATE
+ 3.  joe                 | Impact: -0.006239 → LEGITIMATE
+ 4.  :                   | Impact: -0.006198 → LEGITIMATE
+ 5.  triggered           | Impact: -0.005997 → LEGITIMATE
+ 6.  triggered           | Impact: -0.005239 → LEGITIMATE
+ 7.  .                   | Impact: -0.005112 → LEGITIMATE
+ 8.  closing             | Impact: -0.004836 → LEGITIMATE
+ 9.  statutory           | Impact: -0.004661 → LEGITIMATE
+10.  platform            | Impact: -0.004496 → LEGITIMATE
+11.  en                  | Impact: -0.004415 → LEGITIMATE
+12.  probability         | Impact: -0.003539 → LEGITIMATE
+13.  disqualification    | Impact: -0.003230 → LEGITIMATE
+14.  %                   | Impact: -0.003005 → LEGITIMATE
+15.  advise              | Impact: -0.002953 → LEGITIMATE
+16.  deal                | Impact: 0.002933 → PHISHING
+17.  andy                | Impact: -0.002920 → LEGITIMATE
+18.  triggered           | Impact: -0.002906 → LEGITIMATE
+19.  .                   | Impact: -0.002905 → LEGITIMATE
+20.  representation      | Impact: -0.002857 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  deal                | Impact: 0.002933
+ 2.  -                   | Impact: 0.001502
+ 3.  a                   | Impact: 0.000937
+ 4.  our                 | Impact: 0.000599
+ 5.                      | Impact: 0.000302
+ 6.  ,                   | Impact: 0.000186
+ 7.  with                | Impact: 0.000090
+ 8.  a                   | Impact: 0.000090
+ 9.  smith               | Impact: 0.000052
+10.  street              | Impact: 0.000052
+11.  after               | Impact: 0.000002
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  cf                  | Impact: -0.008952
+ 2. ron                  | Impact: -0.007821
+ 3.  joe                 | Impact: -0.006239
+ 4.  :                   | Impact: -0.006198
+ 5.  triggered           | Impact: -0.005997
+ 6.  triggered           | Impact: -0.005239
+ 7.  .                   | Impact: -0.005112
+ 8.  closing             | Impact: -0.004836
+ 9.  statutory           | Impact: -0.004661
+10.  platform            | Impact: -0.004496
+11.  en                  | Impact: -0.004415
+12.  probability         | Impact: -0.003539
+13.  disqualification    | Impact: -0.003230
+14.  %                   | Impact: -0.003005
+15.  advise              | Impact: -0.002953
+16.  andy                | Impact: -0.002920
+17.  triggered           | Impact: -0.002906
+18.  .                   | Impact: -0.002905
+19.  representation      | Impact: -0.002857
+20.  competing           | Impact: -0.002778

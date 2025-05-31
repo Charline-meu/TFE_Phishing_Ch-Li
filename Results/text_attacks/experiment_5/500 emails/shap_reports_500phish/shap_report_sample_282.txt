@@ -1,0 +1,75 @@
+Sample 282
+==========
+
+Sample text preview: ATTN DEAR SIR, It is my pleasure to write you at this hour.How is your health, family and business?.I hope normal. I got your E-mail contact from the ...
+
+Model prediction: [1.5974444e-04 9.9984026e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.023153 → PHISHING
+ 2.  sir                 | Impact: 0.020562 → PHISHING
+ 3.  ghana               | Impact: 0.018461 → PHISHING
+ 4.  late                | Impact: 0.015789 → PHISHING
+ 5.  father              | Impact: 0.015789 → PHISHING
+ 6.  note                | Impact: -0.011409 → LEGITIMATE
+ 7.  foreign             | Impact: 0.009138 → PHISHING
+ 8.  business            | Impact: 0.009138 → PHISHING
+ 9.  -                   | Impact: 0.009062 → PHISHING
+10.  acc                 | Impact: 0.008799 → PHISHING
+11. ra                   | Impact: 0.008799 → PHISHING
+12.  his                 | Impact: 0.008414 → PHISHING
+13.  son                 | Impact: 0.008414 → PHISHING
+14.  course              | Impact: 0.006897 → PHISHING
+15.  of                  | Impact: 0.006897 → PHISHING
+16.  this                | Impact: 0.006897 → PHISHING
+17.  transaction         | Impact: 0.006897 → PHISHING
+18.  the                 | Impact: 0.006576 → PHISHING
+19.  bank                | Impact: 0.006576 → PHISHING
+20.  .                   | Impact: 0.006576 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.023153
+ 2.  sir                 | Impact: 0.020562
+ 3.  ghana               | Impact: 0.018461
+ 4.  late                | Impact: 0.015789
+ 5.  father              | Impact: 0.015789
+ 6.  foreign             | Impact: 0.009138
+ 7.  business            | Impact: 0.009138
+ 8.  -                   | Impact: 0.009062
+ 9.  acc                 | Impact: 0.008799
+10. ra                   | Impact: 0.008799
+11.  his                 | Impact: 0.008414
+12.  son                 | Impact: 0.008414
+13.  course              | Impact: 0.006897
+14.  of                  | Impact: 0.006897
+15.  this                | Impact: 0.006897
+16.  transaction         | Impact: 0.006897
+17.  the                 | Impact: 0.006576
+18.  bank                | Impact: 0.006576
+19.  .                   | Impact: 0.006576
+20.  release             | Impact: 0.006544
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  note                | Impact: -0.011409
+ 2.  ,                   | Impact: -0.002681
+ 3.  sum                 | Impact: -0.001465
+ 4.  for                 | Impact: -0.001465
+ 5.  you                 | Impact: -0.001465
+ 6.  .                   | Impact: -0.001448
+ 7.  the                 | Impact: -0.001316
+ 8.  total               | Impact: -0.001316
+ 9.  however             | Impact: -0.001056
+10.  ,                   | Impact: -0.001056
+11.  .                   | Impact: -0.000649
+12.  i                   | Impact: -0.000649
+13.  hope                | Impact: -0.000649
+14.  normal              | Impact: -0.000649
+15.  .                   | Impact: -0.000649
+16.  aside               | Impact: -0.000560
+17.  %                   | Impact: -0.000560
+18.  out                 | Impact: -0.000560
+19.  of                  | Impact: -0.000560
+20.  i                   | Impact: -0.000508

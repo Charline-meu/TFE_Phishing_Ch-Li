@@ -1,0 +1,75 @@
+Sample 462
+==========
+
+Sample text preview: ATTN: Dear Sir, I am a Barrister and a member of Nigeria Bar Association (NBA). Your contact reached me through the World Business Encyclopaedia and m...
+
+Model prediction: [1.6040640e-04 9.9983954e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.025673 → PHISHING
+ 2.  in                  | Impact: 0.025673 → PHISHING
+ 3.  business            | Impact: 0.015149 → PHISHING
+ 4.  to                  | Impact: 0.015149 → PHISHING
+ 5. cl                   | Impact: -0.009296 → LEGITIMATE
+ 6. opa                  | Impact: -0.009296 → LEGITIMATE
+ 7.  your                | Impact: 0.009258 → PHISHING
+ 8.  personal            | Impact: 0.009258 → PHISHING
+ 9.  en                  | Impact: -0.008978 → LEGITIMATE
+10. cy                   | Impact: -0.008978 → LEGITIMATE
+11.  family              | Impact: 0.008837 → PHISHING
+12.  attorney            | Impact: 0.008837 → PHISHING
+13.  confidence          | Impact: 0.008217 → PHISHING
+14.  for                 | Impact: 0.008217 → PHISHING
+15.  contact             | Impact: 0.007852 → PHISHING
+16.  address             | Impact: 0.007852 → PHISHING
+17.  you                 | Impact: 0.007417 → PHISHING
+18.  for                 | Impact: 0.007417 → PHISHING
+19.  your                | Impact: 0.007417 → PHISHING
+20.  assistance          | Impact: 0.007417 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.025673
+ 2.  in                  | Impact: 0.025673
+ 3.  business            | Impact: 0.015149
+ 4.  to                  | Impact: 0.015149
+ 5.  your                | Impact: 0.009258
+ 6.  personal            | Impact: 0.009258
+ 7.  family              | Impact: 0.008837
+ 8.  attorney            | Impact: 0.008837
+ 9.  confidence          | Impact: 0.008217
+10.  for                 | Impact: 0.008217
+11.  contact             | Impact: 0.007852
+12.  address             | Impact: 0.007852
+13.  you                 | Impact: 0.007417
+14.  for                 | Impact: 0.007417
+15.  your                | Impact: 0.007417
+16.  assistance          | Impact: 0.007417
+17.  as                  | Impact: 0.007023
+18.  such                | Impact: 0.007023
+19.  he                  | Impact: 0.007023
+20.  where               | Impact: 0.006963
+
+Top features pushing towards LEGITIMATE classification:
+ 1. cl                   | Impact: -0.009296
+ 2. opa                  | Impact: -0.009296
+ 3.  en                  | Impact: -0.008978
+ 4. cy                   | Impact: -0.008978
+ 5.  matter              | Impact: -0.001900
+ 6.  of                  | Impact: -0.001900
+ 7.  fact                | Impact: -0.001900
+ 8.  as                  | Impact: -0.001900
+ 9.  a                   | Impact: -0.001900
+10. ed                   | Impact: -0.001270
+11. ia                   | Impact: -0.001270
+12.  because             | Impact: -0.001172
+13.  we                  | Impact: -0.001172
+14.  cannot              | Impact: -0.001172
+15.  claim               | Impact: -0.001172
+16.  your                | Impact: -0.000922
+17.  contact             | Impact: -0.000922
+18.  reached             | Impact: -0.000922
+19.  me                  | Impact: -0.000922
+20.  sending             | Impact: -0.000739

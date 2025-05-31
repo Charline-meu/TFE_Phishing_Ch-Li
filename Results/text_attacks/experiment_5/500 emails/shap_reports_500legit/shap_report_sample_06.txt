@@ -1,0 +1,75 @@
+Sample 6
+========
+
+Sample text preview: >>>>> "G" == Gordon Mohr writes: G> Gary Lawrence Murphy writes: >> , years ago, one of them the size of Mt Everest just ever >> so slightly grazed us...
+
+Model prediction: [9.9976248e-01 2.3748667e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  and                 | Impact: -0.010024 → LEGITIMATE
+ 2.  telescope           | Impact: -0.010024 → LEGITIMATE
+ 3.  writes              | Impact: -0.008359 → LEGITIMATE
+ 4.  question            | Impact: -0.008306 → LEGITIMATE
+ 5.  :                   | Impact: -0.008091 → LEGITIMATE
+ 6.  >                   | Impact: -0.008091 → LEGITIMATE
+ 7.  >                   | Impact: -0.008091 → LEGITIMATE
+ 8.  :                   | Impact: -0.007437 → LEGITIMATE
+ 9.  ago                 | Impact: 0.007142 → PHISHING
+10.  years               | Impact: 0.006844 → PHISHING
+11.  easy                | Impact: -0.006476 → LEGITIMATE
+12.  ;                   | Impact: -0.005622 → LEGITIMATE
+13.  murphy              | Impact: -0.005599 → LEGITIMATE
+14.  writes              | Impact: -0.005599 → LEGITIMATE
+15.  good                | Impact: -0.004029 → LEGITIMATE
+16.  be                  | Impact: -0.003977 → LEGITIMATE
+17.  )                   | Impact: -0.003953 → LEGITIMATE
+18.  earth               | Impact: -0.003894 → LEGITIMATE
+19.  would               | Impact: -0.003894 → LEGITIMATE
+20.  pretty              | Impact: -0.003878 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ago                 | Impact: 0.007142
+ 2.  years               | Impact: 0.006844
+ 3.  =                   | Impact: 0.002082
+ 4.  the                 | Impact: 0.001535
+ 5.  amateur             | Impact: 0.001535
+ 6.  rags                | Impact: 0.001535
+ 7.  one                 | Impact: 0.001382
+ 8.  of                  | Impact: 0.001382
+ 9.  ,                   | Impact: 0.000744
+10.  long                | Impact: 0.000704
+11.  before              | Impact: 0.000704
+12.  there               | Impact: 0.000704
+13.  was                 | Impact: 0.000704
+14.  ,                   | Impact: 0.000646
+15.  this                | Impact: 0.000579
+16.  was                 | Impact: 0.000579
+17.  covered             | Impact: 0.000579
+18.  in                  | Impact: 0.000579
+19.  with                | Impact: 0.000390
+20.  ages                | Impact: 0.000390
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  and                 | Impact: -0.010024
+ 2.  telescope           | Impact: -0.010024
+ 3.  writes              | Impact: -0.008359
+ 4.  question            | Impact: -0.008306
+ 5.  :                   | Impact: -0.008091
+ 6.  >                   | Impact: -0.008091
+ 7.  >                   | Impact: -0.008091
+ 8.  :                   | Impact: -0.007437
+ 9.  easy                | Impact: -0.006476
+10.  ;                   | Impact: -0.005622
+11.  murphy              | Impact: -0.005599
+12.  writes              | Impact: -0.005599
+13.  good                | Impact: -0.004029
+14.  be                  | Impact: -0.003977
+15.  )                   | Impact: -0.003953
+16.  earth               | Impact: -0.003894
+17.  would               | Impact: -0.003894
+18.  pretty              | Impact: -0.003878
+19.  find                | Impact: -0.003661
+20.  systems             | Impact: -0.003387

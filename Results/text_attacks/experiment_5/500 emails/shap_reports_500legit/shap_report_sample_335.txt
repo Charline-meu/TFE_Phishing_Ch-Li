@@ -1,0 +1,75 @@
+Sample 335
+==========
+
+Sample text preview: ----- Forwarded by Jeff Dasovich/NA/Enron on // : PM ----- Jean Munoz // : PM To: "'Andy Brown (E-mail)'" "'B Brown Andy (E-mail)'" "'Baker Carolyn (E...
+
+Model prediction: [9.9978095e-01 2.1903505e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  '                   | Impact: -0.000881 → LEGITIMATE
+ 2.  "                   | Impact: -0.000881 → LEGITIMATE
+ 3.  "                   | Impact: -0.000881 → LEGITIMATE
+ 4.  '                   | Impact: -0.000881 → LEGITIMATE
+ 5.  bill                | Impact: -0.000881 → LEGITIMATE
+ 6.  carlson             | Impact: -0.000881 → LEGITIMATE
+ 7.  '                   | Impact: -0.000753 → LEGITIMATE
+ 8.  "                   | Impact: -0.000753 → LEGITIMATE
+ 9.  "                   | Impact: -0.000753 → LEGITIMATE
+10.  '                   | Impact: -0.000753 → LEGITIMATE
+11.  bill                | Impact: -0.000753 → LEGITIMATE
+12.  woods               | Impact: -0.000753 → LEGITIMATE
+13.  (                   | Impact: 0.000602 → PHISHING
+14.  e                   | Impact: 0.000602 → PHISHING
+15.  -                   | Impact: 0.000602 → PHISHING
+16.  mail                | Impact: 0.000602 → PHISHING
+17.  )                   | Impact: 0.000602 → PHISHING
+18.  (                   | Impact: -0.000513 → LEGITIMATE
+19.  e                   | Impact: -0.000513 → LEGITIMATE
+20.  -                   | Impact: -0.000513 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  (                   | Impact: 0.000602
+ 2.  e                   | Impact: 0.000602
+ 3.  -                   | Impact: 0.000602
+ 4.  mail                | Impact: 0.000602
+ 5.  )                   | Impact: 0.000602
+ 6.  '                   | Impact: 0.000358
+ 7.  "                   | Impact: 0.000358
+ 8.  "                   | Impact: 0.000358
+ 9.  '                   | Impact: 0.000358
+10.  bob                 | Impact: 0.000358
+11.  elle                | Impact: 0.000358
+12. ry                   | Impact: 0.000358
+13.  (                   | Impact: 0.000142
+14.  e                   | Impact: 0.000142
+15.  -                   | Impact: 0.000142
+16.  mail                | Impact: 0.000142
+17.  )                   | Impact: 0.000142
+18.  "                   | Impact: 0.000135
+19.  "                   | Impact: 0.000135
+20.  '                   | Impact: 0.000135
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  '                   | Impact: -0.000881
+ 2.  "                   | Impact: -0.000881
+ 3.  "                   | Impact: -0.000881
+ 4.  '                   | Impact: -0.000881
+ 5.  bill                | Impact: -0.000881
+ 6.  carlson             | Impact: -0.000881
+ 7.  '                   | Impact: -0.000753
+ 8.  "                   | Impact: -0.000753
+ 9.  "                   | Impact: -0.000753
+10.  '                   | Impact: -0.000753
+11.  bill                | Impact: -0.000753
+12.  woods               | Impact: -0.000753
+13.  (                   | Impact: -0.000513
+14.  e                   | Impact: -0.000513
+15.  -                   | Impact: -0.000513
+16.  mail                | Impact: -0.000513
+17.  )                   | Impact: -0.000513
+18.  '                   | Impact: -0.000504
+19.  "                   | Impact: -0.000504
+20.  "                   | Impact: -0.000504

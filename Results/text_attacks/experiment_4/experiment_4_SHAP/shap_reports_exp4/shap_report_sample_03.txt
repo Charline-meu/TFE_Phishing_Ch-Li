@@ -1,0 +1,75 @@
+Phishing Sample 3
+=================
+
+Sample text preview: We offer some of the best bulk e-mail prices on the Internet. Bulk e-mail can get you the best exposure on the net. What makes this kind of advertisin...
+
+Model prediction: [3.1984667e-04 9.9968016e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  for                 | Impact: 0.019884 → PHISHING
+ 2.  you                 | Impact: 0.019884 → PHISHING
+ 3.  mail                | Impact: 0.016316 → PHISHING
+ 4. ing                  | Impact: 0.016316 → PHISHING
+ 5.  larger              | Impact: 0.015176 → PHISHING
+ 6.  packages            | Impact: 0.015176 → PHISHING
+ 7.  !                   | Impact: 0.015176 → PHISHING
+ 8.  your                | Impact: 0.011123 → PHISHING
+ 9.  message             | Impact: 0.011123 → PHISHING
+10.  email               | Impact: 0.011123 → PHISHING
+11. ed                   | Impact: 0.011123 → PHISHING
+12.  dollar              | Impact: 0.010947 → PHISHING
+13.  bulk                | Impact: 0.010947 → PHISHING
+14.  dollar              | Impact: 0.009468 → PHISHING
+15.  for                 | Impact: 0.009468 → PHISHING
+16.  /                   | Impact: 0.008260 → PHISHING
+17.  bulk                | Impact: 0.008260 → PHISHING
+18.  mail                | Impact: 0.008260 → PHISHING
+19. ing                  | Impact: 0.008260 → PHISHING
+20.  !                   | Impact: 0.007978 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  for                 | Impact: 0.019884
+ 2.  you                 | Impact: 0.019884
+ 3.  mail                | Impact: 0.016316
+ 4. ing                  | Impact: 0.016316
+ 5.  larger              | Impact: 0.015176
+ 6.  packages            | Impact: 0.015176
+ 7.  !                   | Impact: 0.015176
+ 8.  your                | Impact: 0.011123
+ 9.  message             | Impact: 0.011123
+10.  email               | Impact: 0.011123
+11. ed                   | Impact: 0.011123
+12.  dollar              | Impact: 0.010947
+13.  bulk                | Impact: 0.010947
+14.  dollar              | Impact: 0.009468
+15.  for                 | Impact: 0.009468
+16.  /                   | Impact: 0.008260
+17.  bulk                | Impact: 0.008260
+18.  mail                | Impact: 0.008260
+19. ing                  | Impact: 0.008260
+20.  !                   | Impact: 0.007978
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.007703
+ 2.  -                   | Impact: -0.006155
+ 3.  -                   | Impact: -0.006155
+ 4.  is                  | Impact: -0.002898
+ 5.  also                | Impact: -0.002898
+ 6.  the                 | Impact: -0.002898
+ 7.  most                | Impact: -0.002898
+ 8.  economical          | Impact: -0.002898
+ 9.  not                 | Impact: -0.002861
+10.  like                | Impact: -0.002861
+11.  search              | Impact: -0.002861
+12.  engines             | Impact: -0.002861
+13.  see                 | Impact: -0.002755
+14.  what                | Impact: -0.002755
+15.  it                  | Impact: -0.002755
+16.  is                  | Impact: -0.002755
+17.  call                | Impact: -0.002394
+18.  anytime             | Impact: -0.002394
+19.  what                | Impact: -0.002394
+20.  makes               | Impact: -0.002394

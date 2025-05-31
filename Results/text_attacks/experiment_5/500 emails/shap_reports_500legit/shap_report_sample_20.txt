@@ -1,0 +1,75 @@
+Sample 20
+=========
+
+Sample text preview: Many employees here at Enron knew Cliff Baxter well and were inspired by his spirit and his dedication to his family and to Enron. For those of you wh...
+
+Model prediction: [9.9978727e-01 2.1272784e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.049941 → LEGITIMATE
+ 2.  family              | Impact: 0.044806 → PHISHING
+ 3.  cliff               | Impact: -0.035171 → LEGITIMATE
+ 4.  his                 | Impact: 0.021116 → PHISHING
+ 5. ron                  | Impact: -0.018834 → LEGITIMATE
+ 6.  family              | Impact: 0.015344 → PHISHING
+ 7.  honor               | Impact: 0.010667 → PHISHING
+ 8.  flowers             | Impact: -0.009959 → LEGITIMATE
+ 9.  who                 | Impact: 0.009737 → PHISHING
+10.  you                 | Impact: 0.009484 → PHISHING
+11.  cancer              | Impact: -0.008366 → LEGITIMATE
+12.  tx                  | Impact: -0.007820 → LEGITIMATE
+13.  be                  | Impact: 0.007577 → PHISHING
+14.  wish                | Impact: 0.007473 → PHISHING
+15.  society             | Impact: 0.007215 → PHISHING
+16.  houston             | Impact: 0.006468 → PHISHING
+17.  richmond            | Impact: 0.006416 → PHISHING
+18.  american            | Impact: -0.006312 → LEGITIMATE
+19.  lieu                | Impact: -0.006080 → LEGITIMATE
+20.  or                  | Impact: -0.006040 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  family              | Impact: 0.044806
+ 2.  his                 | Impact: 0.021116
+ 3.  family              | Impact: 0.015344
+ 4.  honor               | Impact: 0.010667
+ 5.  who                 | Impact: 0.009737
+ 6.  you                 | Impact: 0.009484
+ 7.  be                  | Impact: 0.007577
+ 8.  wish                | Impact: 0.007473
+ 9.  society             | Impact: 0.007215
+10.  houston             | Impact: 0.006468
+11.  richmond            | Impact: 0.006416
+12.  hometown            | Impact: 0.005490
+13.  ave                 | Impact: 0.005406
+14.  made                | Impact: 0.004126
+15.  of                  | Impact: 0.004000
+16.  east                | Impact: 0.003606
+17.  houston             | Impact: 0.003009
+18.  circle              | Impact: 0.002779
+19.  in                  | Impact: 0.002615
+20.  held                | Impact: 0.002534
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.049941
+ 2.  cliff               | Impact: -0.035171
+ 3. ron                  | Impact: -0.018834
+ 4.  flowers             | Impact: -0.009959
+ 5.  cancer              | Impact: -0.008366
+ 6.  tx                  | Impact: -0.007820
+ 7.  american            | Impact: -0.006312
+ 8.  lieu                | Impact: -0.006080
+ 9.  or                  | Impact: -0.006040
+10.  en                  | Impact: -0.005913
+11.  those               | Impact: -0.005391
+12.  .                   | Impact: -0.005057
+13.  ,                   | Impact: -0.004246
+14.  ,                   | Impact: -0.004246
+15.  of                  | Impact: -0.003857
+16.  -                   | Impact: -0.003811
+17.  -                   | Impact: -0.003811
+18.  .                   | Impact: -0.003750
+19.  (                   | Impact: -0.003652
+20.  )                   | Impact: -0.003652

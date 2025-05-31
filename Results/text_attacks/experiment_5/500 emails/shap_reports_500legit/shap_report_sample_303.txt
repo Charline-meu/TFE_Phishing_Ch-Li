@@ -1,0 +1,71 @@
+Sample 303
+==========
+
+Sample text preview: I'm attaching the letter we drafted for the CEOs to send to Davis and the top six legislators: Jennifer Thome // : PM To: Richard Shapiro/NA/Enron@Enr...
+
+Model prediction: [9.9979919e-01 2.0088004e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  solutions           | Impact: -0.011266 → LEGITIMATE
+ 2.  en                  | Impact: -0.006807 → LEGITIMATE
+ 3.  ago                 | Impact: 0.005660 → PHISHING
+ 4.  document            | Impact: -0.005343 → LEGITIMATE
+ 5. ron                  | Impact: -0.005165 → LEGITIMATE
+ 6. ron                  | Impact: -0.004608 → LEGITIMATE
+ 7.  en                  | Impact: -0.004340 → LEGITIMATE
+ 8.  subject             | Impact: -0.004271 → LEGITIMATE
+ 9.  :                   | Impact: -0.004084 → LEGITIMATE
+10.  en                  | Impact: -0.003939 → LEGITIMATE
+11.  en                  | Impact: -0.003763 → LEGITIMATE
+12.  :                   | Impact: -0.003617 → LEGITIMATE
+13.  attach              | Impact: -0.003581 → LEGITIMATE
+14.  we                  | Impact: -0.003388 → LEGITIMATE
+15.  drafted             | Impact: -0.003388 → LEGITIMATE
+16. ron                  | Impact: -0.003323 → LEGITIMATE
+17.  the                 | Impact: -0.003210 → LEGITIMATE
+18.  letter              | Impact: -0.003210 → LEGITIMATE
+19.  ca                  | Impact: -0.003171 → LEGITIMATE
+20.  materials           | Impact: -0.003171 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ago                 | Impact: 0.005660
+ 2.  weeks               | Impact: 0.003011
+ 3.  .                   | Impact: 0.002346
+ 4.  @                   | Impact: 0.002345
+ 5.  trip                | Impact: 0.002029
+ 6.  ken                 | Impact: 0.001447
+ 7.  @                   | Impact: 0.001243
+ 8.  .                   | Impact: 0.000367
+ 9.  and                 | Impact: 0.000172
+10.  first               | Impact: 0.000037
+11.  "                   | Impact: 0.000037
+12.  james               | Impact: 0.000013
+13.  d                   | Impact: 0.000013
+14.  ste                 | Impact: 0.000013
+15. ffe                  | Impact: 0.000013
+16. s                    | Impact: 0.000013
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  solutions           | Impact: -0.011266
+ 2.  en                  | Impact: -0.006807
+ 3.  document            | Impact: -0.005343
+ 4. ron                  | Impact: -0.005165
+ 5. ron                  | Impact: -0.004608
+ 6.  en                  | Impact: -0.004340
+ 7.  subject             | Impact: -0.004271
+ 8.  :                   | Impact: -0.004084
+ 9.  en                  | Impact: -0.003939
+10.  en                  | Impact: -0.003763
+11.  :                   | Impact: -0.003617
+12.  attach              | Impact: -0.003581
+13.  we                  | Impact: -0.003388
+14.  drafted             | Impact: -0.003388
+15. ron                  | Impact: -0.003323
+16.  the                 | Impact: -0.003210
+17.  letter              | Impact: -0.003210
+18.  ca                  | Impact: -0.003171
+19.  materials           | Impact: -0.003171
+20. ron                  | Impact: -0.003128

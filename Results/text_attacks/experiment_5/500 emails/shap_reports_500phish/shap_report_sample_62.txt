@@ -1,0 +1,61 @@
+Sample 62
+=========
+
+Sample text preview: E-mail User Your Network/mailbox will be blocked You have hours to reset your Mail before the link expires.Please Click Here< Nοw to Update your email...
+
+Model prediction: [2.6836793e-04 9.9973160e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.085137 → PHISHING
+ 2.  ex                  | Impact: 0.069995 → PHISHING
+ 3.  mail                | Impact: 0.068796 → PHISHING
+ 4.  email               | Impact: 0.061963 → PHISHING
+ 5.  link                | Impact: 0.053066 → PHISHING
+ 6.  blocked             | Impact: 0.051917 → PHISHING
+ 7.  your                | Impact: 0.049773 → PHISHING
+ 8.  mail                | Impact: 0.044432 → PHISHING
+ 9.  information         | Impact: 0.040831 → PHISHING
+10.  your                | Impact: 0.039885 → PHISHING
+11.  <                   | Impact: 0.034919 → PHISHING
+12.  your                | Impact: 0.034513 → PHISHING
+13.  thank               | Impact: 0.028855 → PHISHING
+14.  you                 | Impact: 0.028575 → PHISHING
+15.  here                | Impact: 0.027011 → PHISHING
+16.  update              | Impact: 0.025138 → PHISHING
+17. pire                 | Impact: 0.023629 → PHISHING
+18. w                    | Impact: 0.023131 → PHISHING
+19.  please              | Impact: 0.022634 → PHISHING
+20.  e                   | Impact: 0.016819 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.085137
+ 2.  ex                  | Impact: 0.069995
+ 3.  mail                | Impact: 0.068796
+ 4.  email               | Impact: 0.061963
+ 5.  link                | Impact: 0.053066
+ 6.  blocked             | Impact: 0.051917
+ 7.  your                | Impact: 0.049773
+ 8.  mail                | Impact: 0.044432
+ 9.  information         | Impact: 0.040831
+10.  your                | Impact: 0.039885
+11.  <                   | Impact: 0.034919
+12.  your                | Impact: 0.034513
+13.  thank               | Impact: 0.028855
+14.  you                 | Impact: 0.028575
+15.  here                | Impact: 0.027011
+16.  update              | Impact: 0.025138
+17. pire                 | Impact: 0.023629
+18. w                    | Impact: 0.023131
+19.  please              | Impact: 0.022634
+20.  e                   | Impact: 0.016819
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ο                    | Impact: -0.007934
+ 2.  -                   | Impact: -0.007347
+ 3.  security            | Impact: -0.006782
+ 4.  ,                   | Impact: -0.004040
+ 5.  .                   | Impact: -0.001546
+ 6.  be                  | Impact: -0.000217

@@ -1,0 +1,66 @@
+Sample 381
+==========
+
+Sample text preview: On Thu, Aug , at :: +, Matthew French wrote: > JPL suggested: > > Recursion is only truely useful if you have an infinite stack. People > > that think...
+
+Model prediction: [9.9978203e-01 2.1802972e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.012038 → LEGITIMATE
+ 2.  :                   | Impact: -0.009759 → LEGITIMATE
+ 3.  >                   | Impact: -0.007267 → LEGITIMATE
+ 4.  >                   | Impact: -0.006065 → LEGITIMATE
+ 5.  linux               | Impact: -0.005344 → LEGITIMATE
+ 6.  think               | Impact: -0.005074 → LEGITIMATE
+ 7.  aug                 | Impact: -0.004624 → LEGITIMATE
+ 8.  useful              | Impact: -0.004586 → LEGITIMATE
+ 9.  maintain            | Impact: -0.004496 → LEGITIMATE
+10.  stack               | Impact: -0.004107 → LEGITIMATE
+11.  >                   | Impact: -0.004084 → LEGITIMATE
+12.  >                   | Impact: -0.004015 → LEGITIMATE
+13.  >                   | Impact: -0.003960 → LEGITIMATE
+14.  .                   | Impact: -0.003744 → LEGITIMATE
+15.  stack               | Impact: -0.003726 → LEGITIMATE
+16.  >                   | Impact: -0.003618 → LEGITIMATE
+17.  >                   | Impact: -0.003299 → LEGITIMATE
+18.  at                  | Impact: -0.003285 → LEGITIMATE
+19.  :                   | Impact: -0.003222 → LEGITIMATE
+20.  thumb               | Impact: -0.003186 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  people              | Impact: 0.000764
+ 2.  they                | Impact: 0.000675
+ 3.  ,                   | Impact: 0.000369
+ 4.  i                   | Impact: 0.000349
+ 5.  inherited           | Impact: 0.000349
+ 6.  the                 | Impact: 0.000349
+ 7.  dos                 | Impact: 0.000349
+ 8.  part                | Impact: 0.000098
+ 9.  of                  | Impact: 0.000098
+10.  it                  | Impact: 0.000098
+11.  and                 | Impact: 0.000098
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.012038
+ 2.  :                   | Impact: -0.009759
+ 3.  >                   | Impact: -0.007267
+ 4.  >                   | Impact: -0.006065
+ 5.  linux               | Impact: -0.005344
+ 6.  think               | Impact: -0.005074
+ 7.  aug                 | Impact: -0.004624
+ 8.  useful              | Impact: -0.004586
+ 9.  maintain            | Impact: -0.004496
+10.  stack               | Impact: -0.004107
+11.  >                   | Impact: -0.004084
+12.  >                   | Impact: -0.004015
+13.  >                   | Impact: -0.003960
+14.  .                   | Impact: -0.003744
+15.  stack               | Impact: -0.003726
+16.  >                   | Impact: -0.003618
+17.  >                   | Impact: -0.003299
+18.  at                  | Impact: -0.003285
+19.  :                   | Impact: -0.003222
+20.  thumb               | Impact: -0.003186

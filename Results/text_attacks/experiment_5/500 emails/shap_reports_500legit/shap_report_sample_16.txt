@@ -1,0 +1,75 @@
+Sample 16
+=========
+
+Sample text preview: This is the Postfix program at host kci.kciLink.com. #################################################################### # THIS IS A WARNING ONLY. YO...
+
+Model prediction: [0.4212804  0.57871956]
+Predicted class: PHISHING with 0.5787 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  #                   | Impact: 0.052818 → PHISHING
+ 2.  your                | Impact: 0.052818 → PHISHING
+ 3.  message             | Impact: 0.052818 → PHISHING
+ 4.  could               | Impact: 0.052818 → PHISHING
+ 5.  kc                  | Impact: -0.045972 → LEGITIMATE
+ 6. ili                  | Impact: -0.045972 → LEGITIMATE
+ 7. nk                   | Impact: -0.045972 → LEGITIMATE
+ 8.  ]                   | Impact: -0.037186 → LEGITIMATE
+ 9.  :                   | Impact: -0.036594 → LEGITIMATE
+10.  .                   | Impact: -0.036223 → LEGITIMATE
+11.  your                | Impact: 0.035553 → PHISHING
+12.  message             | Impact: 0.035553 → PHISHING
+13.  com                 | Impact: 0.033515 → PHISHING
+14.  hours               | Impact: 0.028573 → PHISHING
+15.  .                   | Impact: 0.027529 → PHISHING
+16.  out                 | Impact: 0.027345 → PHISHING
+17.  the                 | Impact: -0.025908 → LEGITIMATE
+18.  is                  | Impact: -0.025611 → LEGITIMATE
+19.  #                   | Impact: 0.025190 → PHISHING
+20.  #                   | Impact: 0.025190 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  #                   | Impact: 0.052818
+ 2.  your                | Impact: 0.052818
+ 3.  message             | Impact: 0.052818
+ 4.  could               | Impact: 0.052818
+ 5.  your                | Impact: 0.035553
+ 6.  message             | Impact: 0.035553
+ 7.  com                 | Impact: 0.033515
+ 8.  hours               | Impact: 0.028573
+ 9.  .                   | Impact: 0.027529
+10.  out                 | Impact: 0.027345
+11.  #                   | Impact: 0.025190
+12.  #                   | Impact: 0.025190
+13.  #                   | Impact: 0.025190
+14.  #                   | Impact: 0.025190
+15.  warning             | Impact: 0.023057
+16.  only                | Impact: 0.023057
+17.  .                   | Impact: 0.023057
+18.  res                 | Impact: 0.021410
+19. end                  | Impact: 0.021410
+20.  .                   | Impact: 0.021218
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  kc                  | Impact: -0.045972
+ 2. ili                  | Impact: -0.045972
+ 3. nk                   | Impact: -0.045972
+ 4.  ]                   | Impact: -0.037186
+ 5.  :                   | Impact: -0.036594
+ 6.  .                   | Impact: -0.036223
+ 7.  the                 | Impact: -0.025908
+ 8.  is                  | Impact: -0.025611
+ 9.  com                 | Impact: -0.015563
+10.  [                   | Impact: -0.015563
+11.  .                   | Impact: -0.015563
+12.  .                   | Impact: -0.008872
+13.                      | Impact: -0.008025
+14.  this                | Impact: -0.008025
+15.  program             | Impact: -0.007820
+16.  at                  | Impact: -0.007820
+17.  host                | Impact: -0.007820
+18.  .                   | Impact: -0.006591
+19.  post                | Impact: -0.005919
+20. fi                   | Impact: -0.005919

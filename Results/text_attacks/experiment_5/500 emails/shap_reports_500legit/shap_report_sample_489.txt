@@ -1,0 +1,75 @@
+Sample 489
+==========
+
+Sample text preview: The Ximian Security Team has been issuing advisories for security problems in Ximian GNOME for some time now at this URL: Starting today we will begin...
+
+Model prediction: [9.9973220e-01 2.6784316e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mail                | Impact: 0.072542 → PHISHING
+ 2.  issuing             | Impact: 0.044220 → PHISHING
+ 3.  ur                  | Impact: -0.043835 → LEGITIMATE
+ 4. l                    | Impact: -0.042589 → LEGITIMATE
+ 5.  advisor             | Impact: -0.035687 → LEGITIMATE
+ 6.  :                   | Impact: -0.029597 → LEGITIMATE
+ 7. list                 | Impact: 0.026836 → PHISHING
+ 8.  instead             | Impact: -0.024162 → LEGITIMATE
+ 9.  !                   | Impact: 0.022703 → PHISHING
+10.  gnome               | Impact: -0.020820 → LEGITIMATE
+11. mian                 | Impact: 0.020288 → PHISHING
+12.  xi                  | Impact: -0.020190 → LEGITIMATE
+13.  raise               | Impact: 0.019199 → PHISHING
+14.  starting            | Impact: -0.018165 → LEGITIMATE
+15.  reply               | Impact: 0.017212 → PHISHING
+16.  to                  | Impact: 0.017212 → PHISHING
+17.  xi                  | Impact: -0.016900 → LEGITIMATE
+18.  advisor             | Impact: -0.015348 → LEGITIMATE
+19.  this                | Impact: 0.013121 → PHISHING
+20.  list                | Impact: 0.013121 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mail                | Impact: 0.072542
+ 2.  issuing             | Impact: 0.044220
+ 3. list                 | Impact: 0.026836
+ 4.  !                   | Impact: 0.022703
+ 5. mian                 | Impact: 0.020288
+ 6.  raise               | Impact: 0.019199
+ 7.  reply               | Impact: 0.017212
+ 8.  to                  | Impact: 0.017212
+ 9.  this                | Impact: 0.013121
+10.  list                | Impact: 0.013121
+11.  will                | Impact: 0.013003
+12.  has                 | Impact: 0.011675
+13.  team                | Impact: 0.011551
+14.  email               | Impact: 0.009292
+15.  security            | Impact: 0.009219
+16.  awareness           | Impact: 0.009168
+17.  of                  | Impact: 0.009168
+18.  begin               | Impact: 0.008589
+19.  been                | Impact: 0.007344
+20.  this                | Impact: 0.007042
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ur                  | Impact: -0.043835
+ 2. l                    | Impact: -0.042589
+ 3.  advisor             | Impact: -0.035687
+ 4.  :                   | Impact: -0.029597
+ 5.  instead             | Impact: -0.024162
+ 6.  gnome               | Impact: -0.020820
+ 7.  xi                  | Impact: -0.020190
+ 8.  starting            | Impact: -0.018165
+ 9.  xi                  | Impact: -0.016900
+10.  advisor             | Impact: -0.015348
+11. ies                  | Impact: -0.012804
+12.  this                | Impact: -0.011305
+13.  to                  | Impact: -0.011164
+14.  use                 | Impact: -0.010239
+15.  or                  | Impact: -0.009377
+16.  the                 | Impact: -0.009254
+17. mian                 | Impact: -0.008752
+18.  the                 | Impact: -0.007644
+19.  team                | Impact: -0.007225
+20.  .                   | Impact: -0.007001

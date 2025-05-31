@@ -1,0 +1,68 @@
+Sample 250
+==========
+
+Sample text preview: FROM THE DESK OF : MR MOHAMAT ALI, AUDITING AND ACCOUNTING SECTION, AFRICAN DEVLOPMENT BANK ( A.D.B ) OUAGADOUGOU BURKINA-FASO,WEST AFRICA. Attention ...
+
+Model prediction: [2.2459214e-04 9.9977547e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.015694 → PHISHING
+ 2.  will                | Impact: 0.015694 → PHISHING
+ 3.  be                  | Impact: 0.015694 → PHISHING
+ 4.  entitled            | Impact: 0.015694 → PHISHING
+ 5.  risk                | Impact: 0.009465 → PHISHING
+ 6.  free                | Impact: 0.009465 → PHISHING
+ 7.  .                   | Impact: 0.009465 → PHISHING
+ 8.  to                  | Impact: 0.008512 → PHISHING
+ 9.  inform              | Impact: 0.008512 → PHISHING
+10.  you                 | Impact: 0.008512 → PHISHING
+11.  that                | Impact: 0.008512 → PHISHING
+12.  to                  | Impact: 0.007599 → PHISHING
+13.  %                   | Impact: 0.007599 → PHISHING
+14.  of                  | Impact: 0.007599 → PHISHING
+15.  the                 | Impact: 0.007599 → PHISHING
+16.  total               | Impact: 0.007599 → PHISHING
+17.  sum                 | Impact: 0.007599 → PHISHING
+18.  as                  | Impact: 0.007599 → PHISHING
+19.  this                | Impact: 0.007041 → PHISHING
+20.  transaction         | Impact: 0.007041 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.015694
+ 2.  will                | Impact: 0.015694
+ 3.  be                  | Impact: 0.015694
+ 4.  entitled            | Impact: 0.015694
+ 5.  risk                | Impact: 0.009465
+ 6.  free                | Impact: 0.009465
+ 7.  .                   | Impact: 0.009465
+ 8.  to                  | Impact: 0.008512
+ 9.  inform              | Impact: 0.008512
+10.  you                 | Impact: 0.008512
+11.  that                | Impact: 0.008512
+12.  to                  | Impact: 0.007599
+13.  %                   | Impact: 0.007599
+14.  of                  | Impact: 0.007599
+15.  the                 | Impact: 0.007599
+16.  total               | Impact: 0.007599
+17.  sum                 | Impact: 0.007599
+18.  as                  | Impact: 0.007599
+19.  this                | Impact: 0.007041
+20.  transaction         | Impact: 0.007041
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  and                 | Impact: -0.001196
+ 2.  also                | Impact: -0.001196
+ 3.  telephone           | Impact: -0.001196
+ 4.  and                 | Impact: -0.001196
+ 5.  internet            | Impact: -0.001196
+ 6.  bills               | Impact: -0.001196
+ 7.  ,                   | Impact: -0.001196
+ 8.  and                 | Impact: -0.000471
+ 9.  my                  | Impact: -0.000471
+10.  cole                | Impact: -0.000471
+11. ag                   | Impact: -0.000471
+12. ues                  | Impact: -0.000471
+13.  .                   | Impact: -0.000471

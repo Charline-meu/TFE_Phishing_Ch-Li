@@ -1,0 +1,75 @@
+Sample 224
+==========
+
+Sample text preview: On Sun, Sep , Gordon Mohr wrote: > OK, then. Consider a population of ,,. , men each > pair off with , women. Then, man, let's call him "Wilt", > also...
+
+Model prediction: [9.9978787e-01 2.1220603e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  partners            | Impact: 0.023573 → PHISHING
+ 2.  thousands           | Impact: 0.022870 → PHISHING
+ 3.  uncommon            | Impact: -0.020409 → LEGITIMATE
+ 4.  sex                 | Impact: 0.020358 → PHISHING
+ 5.  (                   | Impact: -0.018952 → LEGITIMATE
+ 6.  died                | Impact: 0.012844 → PHISHING
+ 7.  prostitution        | Impact: 0.009017 → PHISHING
+ 8.  several             | Impact: 0.007783 → PHISHING
+ 9.  het                 | Impact: -0.007222 → LEGITIMATE
+10. s                    | Impact: -0.007222 → LEGITIMATE
+11.  do                  | Impact: -0.007222 → LEGITIMATE
+12.  but                 | Impact: -0.007159 → LEGITIMATE
+13.  .                   | Impact: -0.007082 → LEGITIMATE
+14.  who                 | Impact: 0.006839 → PHISHING
+15.  )                   | Impact: 0.005231 → PHISHING
+16.  particularly        | Impact: -0.004793 → LEGITIMATE
+17.  something           | Impact: -0.004606 → LEGITIMATE
+18.  what                | Impact: -0.004606 → LEGITIMATE
+19.  with                | Impact: 0.004423 → PHISHING
+20.  look                | Impact: -0.004203 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  partners            | Impact: 0.023573
+ 2.  thousands           | Impact: 0.022870
+ 3.  sex                 | Impact: 0.020358
+ 4.  died                | Impact: 0.012844
+ 5.  prostitution        | Impact: 0.009017
+ 6.  several             | Impact: 0.007783
+ 7.  who                 | Impact: 0.006839
+ 8.  )                   | Impact: 0.005231
+ 9.  with                | Impact: 0.004423
+10.  gay                 | Impact: 0.004060
+11.  is                  | Impact: 0.003755
+12.  not                 | Impact: 0.003541
+13.  have                | Impact: 0.003488
+14.  to                  | Impact: 0.003219
+15.  find                | Impact: 0.002806
+16.  ,                   | Impact: 0.002755
+17.  .                   | Impact: 0.001941
+18.  had                 | Impact: 0.001916
+19.  women               | Impact: 0.001703
+20.  males               | Impact: 0.001684
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  uncommon            | Impact: -0.020409
+ 2.  (                   | Impact: -0.018952
+ 3.  het                 | Impact: -0.007222
+ 4. s                    | Impact: -0.007222
+ 5.  do                  | Impact: -0.007222
+ 6.  but                 | Impact: -0.007159
+ 7.  .                   | Impact: -0.007082
+ 8.  particularly        | Impact: -0.004793
+ 9.  something           | Impact: -0.004606
+10.  what                | Impact: -0.004606
+11.  look                | Impact: -0.004203
+12.  probably            | Impact: -0.004139
+13.  account             | Impact: -0.003860
+14.  doesn               | Impact: -0.003518
+15.  '                   | Impact: -0.003518
+16.  t                   | Impact: -0.003518
+17.  there               | Impact: -0.002539
+18.  would               | Impact: -0.002539
+19.  it                  | Impact: -0.002363
+20.  be                  | Impact: -0.001891

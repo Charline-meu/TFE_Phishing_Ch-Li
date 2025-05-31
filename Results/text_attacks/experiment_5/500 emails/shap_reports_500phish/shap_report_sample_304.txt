@@ -1,0 +1,75 @@
+Sample 304
+==========
+
+Sample text preview: >From . Mr. Simon Robson. Date: - - . Kindest Attention: My name is Mr. Simon Robson. I am from Portugal . I have been diagnosed with Esophageal cance...
+
+Model prediction: [1.7020915e-04 9.9982977e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.011327 → LEGITIMATE
+ 2.  -                   | Impact: -0.011327 → LEGITIMATE
+ 3.  make                | Impact: 0.009194 → PHISHING
+ 4.  all                 | Impact: 0.009194 → PHISHING
+ 5.  the                 | Impact: 0.009194 → PHISHING
+ 6.  money               | Impact: 0.009194 → PHISHING
+ 7.  date                | Impact: -0.009028 → LEGITIMATE
+ 8.  :                   | Impact: -0.009028 → LEGITIMATE
+ 9.  i                   | Impact: 0.007866 → PHISHING
+10.  will                | Impact: 0.007866 → PHISHING
+11.  want                | Impact: 0.007866 → PHISHING
+12.  you                 | Impact: 0.007866 → PHISHING
+13.  of                  | Impact: 0.007727 → PHISHING
+14.  this                | Impact: 0.007727 → PHISHING
+15.  funds               | Impact: 0.007727 → PHISHING
+16.  must                | Impact: 0.007727 → PHISHING
+17.  in                  | Impact: 0.007597 → PHISHING
+18.  united              | Impact: 0.007597 → PHISHING
+19.  states              | Impact: 0.007597 → PHISHING
+20.  charity             | Impact: 0.007597 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  make                | Impact: 0.009194
+ 2.  all                 | Impact: 0.009194
+ 3.  the                 | Impact: 0.009194
+ 4.  money               | Impact: 0.009194
+ 5.  i                   | Impact: 0.007866
+ 6.  will                | Impact: 0.007866
+ 7.  want                | Impact: 0.007866
+ 8.  you                 | Impact: 0.007866
+ 9.  of                  | Impact: 0.007727
+10.  this                | Impact: 0.007727
+11.  funds               | Impact: 0.007727
+12.  must                | Impact: 0.007727
+13.  in                  | Impact: 0.007597
+14.  united              | Impact: 0.007597
+15.  states              | Impact: 0.007597
+16.  charity             | Impact: 0.007597
+17.  organization        | Impact: 0.007597
+18.  ,                   | Impact: 0.007597
+19.  this                | Impact: 0.007019
+20.  deposit             | Impact: 0.007019
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.011327
+ 2.  -                   | Impact: -0.011327
+ 3.  date                | Impact: -0.009028
+ 4.  :                   | Impact: -0.009028
+ 5.  .                   | Impact: -0.006813
+ 6.                      | Impact: -0.006788
+ 7.  >                   | Impact: -0.006788
+ 8.  from                | Impact: -0.006788
+ 9.  .                   | Impact: -0.004835
+10.  (                   | Impact: -0.001509
+11.  $                   | Impact: -0.001509
+12.  ,                   | Impact: -0.001509
+13.  ,                   | Impact: -0.001509
+14.  .                   | Impact: -0.001509
+15.  )                   | Impact: -0.001509
+16.  that                | Impact: -0.001478
+17.  i                   | Impact: -0.001478
+18.  have                | Impact: -0.001478
+19.  with                | Impact: -0.001478
+20.  an                  | Impact: -0.001478

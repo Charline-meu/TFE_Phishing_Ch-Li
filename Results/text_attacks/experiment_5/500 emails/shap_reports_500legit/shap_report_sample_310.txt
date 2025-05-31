@@ -1,0 +1,35 @@
+Sample 310
+==========
+
+Sample text preview: These deals need contacts added. Thanks!
+
+Model prediction: [9.9965799e-01 3.4199987e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  thanks              | Impact: -0.191295 → LEGITIMATE
+ 2.  .                   | Impact: -0.169056 → LEGITIMATE
+ 3.  deals               | Impact: -0.081239 → LEGITIMATE
+ 4.  these               | Impact: 0.042375 → PHISHING
+ 5.  added               | Impact: -0.032944 → LEGITIMATE
+ 6.  !                   | Impact: -0.031723 → LEGITIMATE
+ 7.  contacts            | Impact: 0.010224 → PHISHING
+ 8.  need                | Impact: -0.005017 → LEGITIMATE
+ 9.                      | Impact: -0.000000 → LEGITIMATE
+10.                      | Impact: -0.000000 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  these               | Impact: 0.042375
+ 2.  contacts            | Impact: 0.010224
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.191295
+ 2.  .                   | Impact: -0.169056
+ 3.  deals               | Impact: -0.081239
+ 4.  added               | Impact: -0.032944
+ 5.  !                   | Impact: -0.031723
+ 6.  need                | Impact: -0.005017
+ 7.                      | Impact: -0.000000
+ 8.                      | Impact: -0.000000

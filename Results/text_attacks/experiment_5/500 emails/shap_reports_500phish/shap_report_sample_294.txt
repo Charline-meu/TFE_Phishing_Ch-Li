@@ -1,0 +1,70 @@
+Sample 294
+==========
+
+Sample text preview: Head of computing Department Dr. David Smith + A Caledonian Rd, King's Cross,London,N DX U. K. Greeting Dear, My names are Dr. David Smith, I am Staff...
+
+Model prediction: [1.7000674e-04 9.9983001e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  reply               | Impact: 0.036021 → PHISHING
+ 2.  here                | Impact: 0.029015 → PHISHING
+ 3.  private             | Impact: 0.028087 → PHISHING
+ 4.  my                  | Impact: 0.020780 → PHISHING
+ 5.  succeeded           | Impact: 0.018444 → PHISHING
+ 6.  million             | Impact: 0.018374 → PHISHING
+ 7.  this                | Impact: 0.018189 → PHISHING
+ 8.  bank                | Impact: 0.018189 → PHISHING
+ 9.  have                | Impact: 0.017147 → PHISHING
+10.  sum                 | Impact: 0.016362 → PHISHING
+11.  while               | Impact: 0.016362 → PHISHING
+12.  you                 | Impact: 0.015431 → PHISHING
+13.  greeting            | Impact: 0.013920 → PHISHING
+14.  dear                | Impact: 0.013920 → PHISHING
+15.  be                  | Impact: 0.013663 → PHISHING
+16.  urgently            | Impact: 0.013643 → PHISHING
+17.  before              | Impact: 0.013643 → PHISHING
+18.  transfer            | Impact: 0.013588 → PHISHING
+19.  is                  | Impact: 0.012701 → PHISHING
+20.  email               | Impact: 0.012654 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  reply               | Impact: 0.036021
+ 2.  here                | Impact: 0.029015
+ 3.  private             | Impact: 0.028087
+ 4.  my                  | Impact: 0.020780
+ 5.  succeeded           | Impact: 0.018444
+ 6.  million             | Impact: 0.018374
+ 7.  this                | Impact: 0.018189
+ 8.  bank                | Impact: 0.018189
+ 9.  have                | Impact: 0.017147
+10.  sum                 | Impact: 0.016362
+11.  while               | Impact: 0.016362
+12.  you                 | Impact: 0.015431
+13.  greeting            | Impact: 0.013920
+14.  dear                | Impact: 0.013920
+15.  be                  | Impact: 0.013663
+16.  urgently            | Impact: 0.013643
+17.  before              | Impact: 0.013643
+18.  transfer            | Impact: 0.013588
+19.  is                  | Impact: 0.012701
+20.  email               | Impact: 0.012654
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  david               | Impact: -0.006467
+ 2.  smith               | Impact: -0.006467
+ 3.  of                  | Impact: -0.003570
+ 4.  computing           | Impact: -0.003570
+ 5.  thanks              | Impact: -0.002533
+ 6.  sincerely           | Impact: -0.002533
+ 7.  ,                   | Impact: -0.002533
+ 8.                      | Impact: -0.001959
+ 9.  head                | Impact: -0.001959
+10.  dr                  | Impact: -0.001171
+11.  .                   | Impact: -0.001171
+12.                      | Impact: -0.000808
+13.  .                   | Impact: -0.000265
+14.  ,                   | Impact: -0.000181
+15.  .                   | Impact: -0.000181

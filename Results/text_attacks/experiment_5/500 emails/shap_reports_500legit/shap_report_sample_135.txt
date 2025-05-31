@@ -1,0 +1,75 @@
+Sample 135
+==========
+
+Sample text preview: Sami: I'm concerned about the deals showing up on the origination list which we received on Friday. There are multiple references to swaps. We need to...
+
+Model prediction: [9.996464e-01 3.535247e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sara                | Impact: -0.016766 → LEGITIMATE
+ 2.  you                 | Impact: 0.011582 → PHISHING
+ 3.  argentina           | Impact: 0.007644 → PHISHING
+ 4.  .                   | Impact: 0.007415 → PHISHING
+ 5.  references          | Impact: -0.005134 → LEGITIMATE
+ 6.  tomorrow            | Impact: 0.004701 → PHISHING
+ 7.  m                   | Impact: -0.003655 → LEGITIMATE
+ 8.  :                   | Impact: -0.003589 → LEGITIMATE
+ 9.  try                 | Impact: -0.003441 → LEGITIMATE
+10.  .                   | Impact: -0.003067 → LEGITIMATE
+11.  origin              | Impact: -0.003039 → LEGITIMATE
+12.  sami                | Impact: -0.002738 → LEGITIMATE
+13. ation                | Impact: -0.002657 → LEGITIMATE
+14. s                    | Impact: -0.002646 → LEGITIMATE
+15.  and                 | Impact: -0.002392 → LEGITIMATE
+16.  .                   | Impact: -0.002044 → LEGITIMATE
+17.  .                   | Impact: -0.001978 → LEGITIMATE
+18.  to                  | Impact: 0.001659 → PHISHING
+19.  .                   | Impact: -0.001641 → LEGITIMATE
+20.  in                  | Impact: 0.001599 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.011582
+ 2.  argentina           | Impact: 0.007644
+ 3.  .                   | Impact: 0.007415
+ 4.  tomorrow            | Impact: 0.004701
+ 5.  to                  | Impact: 0.001659
+ 6.  in                  | Impact: 0.001599
+ 7.  we                  | Impact: 0.000604
+ 8.  received            | Impact: 0.000474
+ 9.  i                   | Impact: 0.000283
+10.  friday              | Impact: 0.000282
+11.  up                  | Impact: 0.000177
+12.  make                | Impact: 0.000156
+13.  the                 | Impact: 0.000156
+14.  on                  | Impact: 0.000150
+15.  need                | Impact: 0.000098
+16.  we                  | Impact: 0.000086
+17.  to                  | Impact: 0.000068
+18.  have                | Impact: 0.000050
+19.  meeting             | Impact: 0.000050
+20.  outside             | Impact: 0.000050
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  sara                | Impact: -0.016766
+ 2.  references          | Impact: -0.005134
+ 3.  m                   | Impact: -0.003655
+ 4.  :                   | Impact: -0.003589
+ 5.  try                 | Impact: -0.003441
+ 6.  .                   | Impact: -0.003067
+ 7.  origin              | Impact: -0.003039
+ 8.  sami                | Impact: -0.002738
+ 9. ation                | Impact: -0.002657
+10. s                    | Impact: -0.002646
+11.  and                 | Impact: -0.002392
+12.  .                   | Impact: -0.002044
+13.  .                   | Impact: -0.001978
+14.  .                   | Impact: -0.001641
+15.  '                   | Impact: -0.001437
+16.  i                   | Impact: -0.001293
+17.  call                | Impact: -0.001284
+18.  which               | Impact: -0.001264
+19.  i                   | Impact: -0.001261
+20.  tomorrow            | Impact: -0.001224

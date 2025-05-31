@@ -1,0 +1,75 @@
+Sample 295
+==========
+
+Sample text preview: wrote: >>>Wishful thinking. People are just bigger dickheads now. Culture is changing >>>and it is becoming acceptable to get in peoples face and shou...
+
+Model prediction: [9.9971801e-01 2.8199537e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  perspective         | Impact: -0.015938 → LEGITIMATE
+ 2.  historical          | Impact: -0.006715 → LEGITIMATE
+ 3.  owen                | Impact: 0.004957 → PHISHING
+ 4.  whatever            | Impact: -0.004712 → LEGITIMATE
+ 5.  makes               | Impact: -0.003184 → LEGITIMATE
+ 6.  produce             | Impact: -0.002858 → LEGITIMATE
+ 7.  a                   | Impact: -0.002858 → LEGITIMATE
+ 8.  >                   | Impact: -0.002721 → LEGITIMATE
+ 9.  remark              | Impact: -0.002505 → LEGITIMATE
+10.  that                | Impact: -0.002505 → LEGITIMATE
+11.  of                  | Impact: -0.002495 → LEGITIMATE
+12.  authority           | Impact: -0.002495 → LEGITIMATE
+13.  )                   | Impact: -0.002495 → LEGITIMATE
+14.  larger              | Impact: -0.002384 → LEGITIMATE
+15.  proportion          | Impact: -0.002384 → LEGITIMATE
+16.  >                   | Impact: -0.002361 → LEGITIMATE
+17.  to                  | Impact: -0.002352 → LEGITIMATE
+18.  insult              | Impact: -0.002352 → LEGITIMATE
+19.  >                   | Impact: -0.002311 → LEGITIMATE
+20.  >                   | Impact: -0.002311 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  owen                | Impact: 0.004957
+ 2.  we                  | Impact: 0.000909
+ 3.  had                 | Impact: 0.000827
+ 4.  a                   | Impact: 0.000616
+ 5.                      | Impact: 0.000449
+ 6.  of                  | Impact: 0.000356
+ 7.  a                   | Impact: 0.000356
+ 8.  .                   | Impact: 0.000356
+ 9.  and                 | Impact: 0.000326
+10.  i                   | Impact: 0.000326
+11.  don                 | Impact: 0.000326
+12.  '                   | Impact: 0.000326
+13.  t                   | Impact: 0.000326
+14.  outside             | Impact: 0.000258
+15.  of                  | Impact: 0.000258
+16.  the                 | Impact: 0.000258
+17.  us                  | Impact: 0.000258
+18.  and                 | Impact: 0.000235
+19.  the                 | Impact: 0.000097
+20.  people              | Impact: 0.000097
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  perspective         | Impact: -0.015938
+ 2.  historical          | Impact: -0.006715
+ 3.  whatever            | Impact: -0.004712
+ 4.  makes               | Impact: -0.003184
+ 5.  produce             | Impact: -0.002858
+ 6.  a                   | Impact: -0.002858
+ 7.  >                   | Impact: -0.002721
+ 8.  remark              | Impact: -0.002505
+ 9.  that                | Impact: -0.002505
+10.  of                  | Impact: -0.002495
+11.  authority           | Impact: -0.002495
+12.  )                   | Impact: -0.002495
+13.  larger              | Impact: -0.002384
+14.  proportion          | Impact: -0.002384
+15.  >                   | Impact: -0.002361
+16.  to                  | Impact: -0.002352
+17.  insult              | Impact: -0.002352
+18.  >                   | Impact: -0.002311
+19.  >                   | Impact: -0.002311
+20.  -                   | Impact: -0.002272

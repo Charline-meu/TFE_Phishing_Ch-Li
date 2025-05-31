@@ -1,0 +1,75 @@
+Sample 152
+==========
+
+Sample text preview: Dear Usaa Customer, Due to a recent upgrade in our server, we are currently reviewing member's account and we request you to please take just a second...
+
+Model prediction: [2.0550010e-04 9.9979454e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.129775 → PHISHING
+ 2.  your                | Impact: 0.127503 → PHISHING
+ 3.  account             | Impact: 0.078408 → PHISHING
+ 4.  account             | Impact: 0.045530 → PHISHING
+ 5.  click               | Impact: 0.043265 → PHISHING
+ 6.  account             | Impact: 0.042243 → PHISHING
+ 7.  your                | Impact: 0.040838 → PHISHING
+ 8.  click               | Impact: 0.036457 → PHISHING
+ 9.  server              | Impact: 0.028247 → PHISHING
+10.  access              | Impact: 0.028013 → PHISHING
+11.  upgrade             | Impact: 0.027394 → PHISHING
+12.  usa                 | Impact: 0.026694 → PHISHING
+13.  link                | Impact: 0.025934 → PHISHING
+14.  your                | Impact: 0.024444 → PHISHING
+15.  link                | Impact: 0.023045 → PHISHING
+16.  your                | Impact: 0.018198 → PHISHING
+17.  comply              | Impact: 0.018016 → PHISHING
+18.  our                 | Impact: 0.017677 → PHISHING
+19.  upgrade             | Impact: 0.016563 → PHISHING
+20.  for                 | Impact: 0.016308 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.129775
+ 2.  your                | Impact: 0.127503
+ 3.  account             | Impact: 0.078408
+ 4.  account             | Impact: 0.045530
+ 5.  click               | Impact: 0.043265
+ 6.  account             | Impact: 0.042243
+ 7.  your                | Impact: 0.040838
+ 8.  click               | Impact: 0.036457
+ 9.  server              | Impact: 0.028247
+10.  access              | Impact: 0.028013
+11.  upgrade             | Impact: 0.027394
+12.  usa                 | Impact: 0.026694
+13.  link                | Impact: 0.025934
+14.  your                | Impact: 0.024444
+15.  link                | Impact: 0.023045
+16.  your                | Impact: 0.018198
+17.  comply              | Impact: 0.018016
+18.  our                 | Impact: 0.017677
+19.  upgrade             | Impact: 0.016563
+20.  for                 | Impact: 0.016308
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  problem             | Impact: -0.011560
+ 2.  due                 | Impact: -0.009088
+ 3.  out                 | Impact: -0.004938
+ 4.  :                   | Impact: -0.004818
+ 5.  on                  | Impact: -0.004541
+ 6.  ,                   | Impact: -0.003886
+ 7.  .                   | Impact: -0.003479
+ 8.  the                 | Impact: -0.002965
+ 9.  second              | Impact: -0.002318
+10.  .                   | Impact: -0.002281
+11.  or                  | Impact: -0.002191
+12.  thank               | Impact: -0.001504
+13.  you                 | Impact: -0.001504
+14.  log                 | Impact: -0.000838
+15. ind                  | Impact: -0.000838
+16. en                   | Impact: -0.000838
+17.  .                   | Impact: -0.000838
+18.  to                  | Impact: -0.000400
+19. ing                  | Impact: -0.000380
+20.  .                   | Impact: -0.000308

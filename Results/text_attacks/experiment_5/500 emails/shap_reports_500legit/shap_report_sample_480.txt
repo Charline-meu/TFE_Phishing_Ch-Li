@@ -1,0 +1,75 @@
+Sample 480
+==========
+
+Sample text preview: [IMAGE] SuperBowl.com Playoff Challenge -- Experience the NFL playoffs like never before. Select a team of players and follow their performance from W...
+
+Model prediction: [9.992487e-01 7.513075e-04]
+Predicted class: LEGITIMATE with 0.9992 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: -0.001585 → LEGITIMATE
+ 2.  here                | Impact: -0.001585 → LEGITIMATE
+ 3.  !                   | Impact: 0.001371 → PHISHING
+ 4.  win                 | Impact: -0.001218 → LEGITIMATE
+ 5.  a                   | Impact: -0.001218 → LEGITIMATE
+ 6.  you                 | Impact: -0.001172 → LEGITIMATE
+ 7.  could               | Impact: -0.001172 → LEGITIMATE
+ 8.  local               | Impact: 0.001107 → PHISHING
+ 9.  bar                 | Impact: 0.001107 → PHISHING
+10.  or                  | Impact: 0.001107 → PHISHING
+11.                      | Impact: -0.001018 → LEGITIMATE
+12.  [                   | Impact: -0.001018 → LEGITIMATE
+13.  image               | Impact: -0.001018 → LEGITIMATE
+14.  ]                   | Impact: -0.001018 → LEGITIMATE
+15.  more                | Impact: -0.000838 → LEGITIMATE
+16.  fireworks           | Impact: -0.000838 → LEGITIMATE
+17.  love                | Impact: 0.000785 → PHISHING
+18.  to                  | Impact: 0.000785 → PHISHING
+19.  online              | Impact: 0.000728 → PHISHING
+20.  with                | Impact: 0.000728 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.001371
+ 2.  local               | Impact: 0.001107
+ 3.  bar                 | Impact: 0.001107
+ 4.  or                  | Impact: 0.001107
+ 5.  love                | Impact: 0.000785
+ 6.  to                  | Impact: 0.000785
+ 7.  online              | Impact: 0.000728
+ 8.  with                | Impact: 0.000728
+ 9.  us                  | Impact: 0.000728
+10.  .                   | Impact: 0.000728
+11.  !                   | Impact: 0.000722
+12.  movies              | Impact: 0.000722
+13.  &                   | Impact: 0.000722
+14.  games               | Impact: 0.000722
+15.  surf                | Impact: 0.000544
+16.  the                 | Impact: 0.000544
+17.  cbs                 | Impact: 0.000544
+18.  com                 | Impact: 0.000474
+19.  for                 | Impact: 0.000474
+20.  half                | Impact: 0.000474
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  click               | Impact: -0.001585
+ 2.  here                | Impact: -0.001585
+ 3.  win                 | Impact: -0.001218
+ 4.  a                   | Impact: -0.001218
+ 5.  you                 | Impact: -0.001172
+ 6.  could               | Impact: -0.001172
+ 7.                      | Impact: -0.001018
+ 8.  [                   | Impact: -0.001018
+ 9.  image               | Impact: -0.001018
+10.  ]                   | Impact: -0.001018
+11.  more                | Impact: -0.000838
+12.  fireworks           | Impact: -0.000838
+13.  terre               | Impact: -0.000723
+14. ll                   | Impact: -0.000723
+15.  fletcher            | Impact: -0.000723
+16.  ,                   | Impact: -0.000723
+17.  it                  | Impact: -0.000659
+18.  '                   | Impact: -0.000659
+19.  s                   | Impact: -0.000659
+20.  miller              | Impact: -0.000659

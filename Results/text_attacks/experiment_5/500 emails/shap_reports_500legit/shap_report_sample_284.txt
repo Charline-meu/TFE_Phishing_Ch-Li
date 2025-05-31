@@ -1,0 +1,75 @@
+Sample 284
+==========
+
+Sample text preview: ---------------------- Forwarded by Darron C Giron/HOU/ECT on // : AM --------------------------- From: Veronica Espinoza/ENRON@enronXgate on // : AM ...
+
+Model prediction: [9.9980599e-01 1.9406878e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.001755 → LEGITIMATE
+ 2. ron                  | Impact: -0.001755 → LEGITIMATE
+ 3.  ec                  | Impact: -0.001409 → LEGITIMATE
+ 4.  /                   | Impact: -0.001183 → LEGITIMATE
+ 5. t                    | Impact: -0.000977 → LEGITIMATE
+ 6.  @                   | Impact: 0.000976 → PHISHING
+ 7.  ec                  | Impact: -0.000859 → LEGITIMATE
+ 8. t                    | Impact: -0.000859 → LEGITIMATE
+ 9.  /                   | Impact: -0.000743 → LEGITIMATE
+10.  ec                  | Impact: -0.000743 → LEGITIMATE
+11. t                    | Impact: -0.000743 → LEGITIMATE
+12.  en                  | Impact: -0.000738 → LEGITIMATE
+13.  en                  | Impact: -0.000737 → LEGITIMATE
+14. ron                  | Impact: -0.000737 → LEGITIMATE
+15.  patricia            | Impact: 0.000707 → PHISHING
+16.  en                  | Impact: -0.000673 → LEGITIMATE
+17.  en                  | Impact: -0.000663 → LEGITIMATE
+18.  ec                  | Impact: -0.000628 → LEGITIMATE
+19. t                    | Impact: -0.000628 → LEGITIMATE
+20.  /                   | Impact: -0.000606 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  @                   | Impact: 0.000976
+ 2.  patricia            | Impact: 0.000707
+ 3.  @                   | Impact: 0.000588
+ 4.  ag                  | Impact: 0.000552
+ 5. ua                   | Impact: 0.000552
+ 6. yo                   | Impact: 0.000552
+ 7.  go                  | Impact: 0.000425
+ 8. sse                  | Impact: 0.000425
+ 9.  jeffrey             | Impact: 0.000332
+10.  @                   | Impact: 0.000293
+11.  ,                   | Impact: 0.000174
+12.  c                   | Impact: 0.000160
+13. tt                   | Impact: 0.000155
+14.  david               | Impact: 0.000139
+15.  ba                  | Impact: 0.000139
+16. umb                  | Impact: 0.000139
+17. ach                  | Impact: 0.000139
+18.  se                  | Impact: 0.000138
+19. ib                   | Impact: 0.000138
+20.  @                   | Impact: 0.000097
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.001755
+ 2. ron                  | Impact: -0.001755
+ 3.  ec                  | Impact: -0.001409
+ 4.  /                   | Impact: -0.001183
+ 5. t                    | Impact: -0.000977
+ 6.  ec                  | Impact: -0.000859
+ 7. t                    | Impact: -0.000859
+ 8.  /                   | Impact: -0.000743
+ 9.  ec                  | Impact: -0.000743
+10. t                    | Impact: -0.000743
+11.  en                  | Impact: -0.000738
+12.  en                  | Impact: -0.000737
+13. ron                  | Impact: -0.000737
+14.  en                  | Impact: -0.000673
+15.  en                  | Impact: -0.000663
+16.  ec                  | Impact: -0.000628
+17. t                    | Impact: -0.000628
+18.  /                   | Impact: -0.000606
+19.  :                   | Impact: -0.000606
+20. ron                  | Impact: -0.000569

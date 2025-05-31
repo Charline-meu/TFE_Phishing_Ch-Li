@@ -1,0 +1,75 @@
+Sample 31
+=========
+
+Sample text preview: Tom, I appreciate the background on issues with Peter's funding. I'll be sure not that we do not incur any expenses as a result of any collaboration. ...
+
+Model prediction: [9.9978834e-01 2.1162751e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  earlier             | Impact: -0.001334 → LEGITIMATE
+ 2.  drafts              | Impact: -0.001334 → LEGITIMATE
+ 3.  of                  | Impact: -0.001334 → LEGITIMATE
+ 4.  ieee                | Impact: -0.001334 → LEGITIMATE
+ 5.  ieee                | Impact: -0.000773 → LEGITIMATE
+ 6.  draft               | Impact: -0.000773 → LEGITIMATE
+ 7.  .                   | Impact: -0.000773 → LEGITIMATE
+ 8.  ,                   | Impact: -0.000753 → LEGITIMATE
+ 9.  that                | Impact: -0.000553 → LEGITIMATE
+10.  the                 | Impact: -0.000553 → LEGITIMATE
+11.  current             | Impact: -0.000553 → LEGITIMATE
+12.  ieee                | Impact: -0.000553 → LEGITIMATE
+13.  ieee                | Impact: -0.000525 → LEGITIMATE
+14.  draft               | Impact: -0.000525 → LEGITIMATE
+15.  ,                   | Impact: -0.000525 → LEGITIMATE
+16.  result              | Impact: -0.000500 → LEGITIMATE
+17.  of                  | Impact: -0.000500 → LEGITIMATE
+18.  any                 | Impact: -0.000500 → LEGITIMATE
+19.  collaboration       | Impact: -0.000500 → LEGITIMATE
+20.  en                  | Impact: -0.000494 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ,                   | Impact: 0.000410
+ 2.                      | Impact: 0.000232
+ 3.  tom                 | Impact: 0.000232
+ 4.  and                 | Impact: 0.000123
+ 5.  why                 | Impact: 0.000123
+ 6.  ,                   | Impact: 0.000123
+ 7.  steve               | Impact: 0.000116
+ 8.  mont                | Impact: 0.000116
+ 9. ova                  | Impact: 0.000116
+10. no                   | Impact: 0.000116
+11.  jeff                | Impact: 0.000057
+12.  das                 | Impact: 0.000057
+13. ovich                | Impact: 0.000057
+14.  /                   | Impact: 0.000057
+15.  na                  | Impact: 0.000057
+16.  /                   | Impact: 0.000057
+17.  which               | Impact: 0.000033
+18.  have                | Impact: 0.000033
+19.  been                | Impact: 0.000033
+20.  ex                  | Impact: 0.000033
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  earlier             | Impact: -0.001334
+ 2.  drafts              | Impact: -0.001334
+ 3.  of                  | Impact: -0.001334
+ 4.  ieee                | Impact: -0.001334
+ 5.  ieee                | Impact: -0.000773
+ 6.  draft               | Impact: -0.000773
+ 7.  .                   | Impact: -0.000773
+ 8.  ,                   | Impact: -0.000753
+ 9.  that                | Impact: -0.000553
+10.  the                 | Impact: -0.000553
+11.  current             | Impact: -0.000553
+12.  ieee                | Impact: -0.000553
+13.  ieee                | Impact: -0.000525
+14.  draft               | Impact: -0.000525
+15.  ,                   | Impact: -0.000525
+16.  result              | Impact: -0.000500
+17.  of                  | Impact: -0.000500
+18.  any                 | Impact: -0.000500
+19.  collaboration       | Impact: -0.000500
+20.  en                  | Impact: -0.000494

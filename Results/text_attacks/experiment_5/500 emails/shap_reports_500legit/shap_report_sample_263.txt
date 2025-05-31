@@ -1,0 +1,75 @@
+Sample 263
+==========
+
+Sample text preview: Where are the actuals coming from? Is this someone changing the supply matched up with the Clinton deal? From: Donnie Myers @ ENRON // : AM To: Chris ...
+
+Model prediction: [9.9980205e-01 1.9796286e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dt                  | Impact: -0.020495 → LEGITIMATE
+ 2.  agreed              | Impact: -0.016261 → LEGITIMATE
+ 3.  supply              | Impact: -0.015046 → LEGITIMATE
+ 4.  correct             | Impact: -0.010644 → LEGITIMATE
+ 5.  clinton             | Impact: -0.008810 → LEGITIMATE
+ 6.  this                | Impact: 0.008779 → PHISHING
+ 7.  already             | Impact: -0.007881 → LEGITIMATE
+ 8.  the                 | Impact: 0.007718 → PHISHING
+ 9. s                    | Impact: -0.007684 → LEGITIMATE
+10.  actual              | Impact: -0.007166 → LEGITIMATE
+11.  :                   | Impact: -0.006683 → LEGITIMATE
+12.  clinton             | Impact: -0.006429 → LEGITIMATE
+13.  sure                | Impact: -0.006345 → LEGITIMATE
+14.  are                 | Impact: 0.006106 → PHISHING
+15.  dt                  | Impact: -0.005840 → LEGITIMATE
+16.  coming              | Impact: -0.005107 → LEGITIMATE
+17.  deal                | Impact: -0.005068 → LEGITIMATE
+18.  make                | Impact: -0.005044 → LEGITIMATE
+19.  is                  | Impact: 0.004637 → PHISHING
+20.  change              | Impact: -0.004549 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  this                | Impact: 0.008779
+ 2.  the                 | Impact: 0.007718
+ 3.  are                 | Impact: 0.006106
+ 4.  is                  | Impact: 0.004637
+ 5.  someone             | Impact: 0.003735
+ 6.  changing            | Impact: 0.003735
+ 7.  @                   | Impact: 0.003024
+ 8.  was                 | Impact: 0.002380
+ 9.  this                | Impact: 0.002107
+10.  and                 | Impact: 0.001868
+11.  where               | Impact: 0.001579
+12. h                    | Impact: 0.001219
+13.  that                | Impact: 0.001215
+14.  you                 | Impact: 0.000974
+15.  find                | Impact: 0.000974
+16.  at                  | Impact: 0.000968
+17.  this                | Impact: 0.000968
+18.  for                 | Impact: 0.000968
+19.  me                  | Impact: 0.000968
+20.  out                 | Impact: 0.000605
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  dt                  | Impact: -0.020495
+ 2.  agreed              | Impact: -0.016261
+ 3.  supply              | Impact: -0.015046
+ 4.  correct             | Impact: -0.010644
+ 5.  clinton             | Impact: -0.008810
+ 6.  already             | Impact: -0.007881
+ 7. s                    | Impact: -0.007684
+ 8.  actual              | Impact: -0.007166
+ 9.  :                   | Impact: -0.006683
+10.  clinton             | Impact: -0.006429
+11.  sure                | Impact: -0.006345
+12.  dt                  | Impact: -0.005840
+13.  coming              | Impact: -0.005107
+14.  deal                | Impact: -0.005068
+15.  make                | Impact: -0.005044
+16.  change              | Impact: -0.004549
+17.  let                 | Impact: -0.004474
+18.  me                  | Impact: -0.004474
+19.  the                 | Impact: -0.004405
+20.  .                   | Impact: -0.004062

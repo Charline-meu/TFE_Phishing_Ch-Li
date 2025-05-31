@@ -1,0 +1,75 @@
+Sample 11
+=========
+
+Sample text preview: *Online* Security ************************* Verify your email address ************************* To verify your email address, please enter the followi...
+
+Model prediction: [2.6551139e-04 9.9973446e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.091113 → PHISHING
+ 2.  your                | Impact: 0.088621 → PHISHING
+ 3.  ltd                 | Impact: 0.075594 → PHISHING
+ 4.  verify              | Impact: 0.063927 → PHISHING
+ 5.  online              | Impact: 0.051046 → PHISHING
+ 6.  safe                | Impact: 0.039898 → PHISHING
+ 7.  online              | Impact: 0.036374 → PHISHING
+ 8.  keeping             | Impact: 0.032283 → PHISHING
+ 9.  online              | Impact: 0.029159 → PHISHING
+10.  contact             | Impact: 0.028126 → PHISHING
+11.  address             | Impact: 0.025785 → PHISHING
+12.  email               | Impact: 0.025732 → PHISHING
+13.  email               | Impact: 0.022409 → PHISHING
+14.  address             | Impact: 0.022409 → PHISHING
+15.  enter               | Impact: 0.019018 → PHISHING
+16.  .                   | Impact: -0.018661 → LEGITIMATE
+17.  email               | Impact: 0.018039 → PHISHING
+18.  verify              | Impact: 0.017518 → PHISHING
+19.  your                | Impact: 0.017518 → PHISHING
+20.  *                   | Impact: 0.015984 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.091113
+ 2.  your                | Impact: 0.088621
+ 3.  ltd                 | Impact: 0.075594
+ 4.  verify              | Impact: 0.063927
+ 5.  online              | Impact: 0.051046
+ 6.  safe                | Impact: 0.039898
+ 7.  online              | Impact: 0.036374
+ 8.  keeping             | Impact: 0.032283
+ 9.  online              | Impact: 0.029159
+10.  contact             | Impact: 0.028126
+11.  address             | Impact: 0.025785
+12.  email               | Impact: 0.025732
+13.  email               | Impact: 0.022409
+14.  address             | Impact: 0.022409
+15.  enter               | Impact: 0.019018
+16.  email               | Impact: 0.018039
+17.  verify              | Impact: 0.017518
+18.  your                | Impact: 0.017518
+19.  *                   | Impact: 0.015984
+20.  security            | Impact: 0.015606
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.018661
+ 2. cu                   | Impact: -0.004489
+ 3. rity                 | Impact: -0.004489
+ 4.  *                   | Impact: -0.002740
+ 5.  *                   | Impact: -0.002740
+ 6.  security            | Impact: -0.002505
+ 7.  *                   | Impact: -0.002020
+ 8.  request             | Impact: -0.002002
+ 9.  this                | Impact: -0.002002
+10.  code                | Impact: -0.002002
+11.  for                 | Impact: -0.001921
+12.  the                 | Impact: -0.001921
+13.  next                | Impact: -0.001921
+14.  minutes             | Impact: -0.001921
+15.  code                | Impact: -0.001888
+16.  is                  | Impact: -0.001888
+17.  *                   | Impact: -0.001677
+18.  *                   | Impact: -0.001677
+19.  *                   | Impact: -0.001495
+20.  *                   | Impact: -0.001495

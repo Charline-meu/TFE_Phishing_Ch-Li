@@ -1,0 +1,75 @@
+Sample 426
+==========
+
+Sample text preview: On Sat Jul :, you wrote: > On Fri, Jul , at ::PM +, John Gay wrote: > > A while ago I asked what other packages I should optomize for Pentium. > > One...
+
+Model prediction: [9.9978596e-01 2.1406097e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  but                 | Impact: -0.001184 → LEGITIMATE
+ 2.  keep                | Impact: -0.001184 → LEGITIMATE
+ 3.  in                  | Impact: -0.001184 → LEGITIMATE
+ 4.  mind                | Impact: -0.001184 → LEGITIMATE
+ 5.  that                | Impact: -0.001184 → LEGITIMATE
+ 6.  compiler            | Impact: -0.001184 → LEGITIMATE
+ 7.  errors              | Impact: -0.001184 → LEGITIMATE
+ 8.  suck                | Impact: -0.001184 → LEGITIMATE
+ 9.  .                   | Impact: -0.001184 → LEGITIMATE
+10.  the                 | Impact: -0.000422 → LEGITIMATE
+11.  pg                  | Impact: -0.000422 → LEGITIMATE
+12. cc                   | Impact: -0.000422 → LEGITIMATE
+13.  site                | Impact: -0.000422 → LEGITIMATE
+14.  does                | Impact: -0.000422 → LEGITIMATE
+15.  not                 | Impact: -0.000422 → LEGITIMATE
+16.  seem                | Impact: -0.000422 → LEGITIMATE
+17.  generated           | Impact: -0.000361 → LEGITIMATE
+18.  code                | Impact: -0.000361 → LEGITIMATE
+19.  can                 | Impact: -0.000361 → LEGITIMATE
+20.  be                  | Impact: -0.000361 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  as                  | Impact: 0.000154
+ 2.  isa                 | Impact: 0.000154
+ 3. id                   | Impact: 0.000154
+ 4.  ,                   | Impact: 0.000154
+ 5.  now                 | Impact: 0.000084
+ 6.  that                | Impact: 0.000084
+ 7.  the                 | Impact: 0.000084
+ 8.  .                   | Impact: 0.000084
+ 9.  the                 | Impact: 0.000055
+10.  first               | Impact: 0.000055
+11.  time                | Impact: 0.000055
+12.  i                   | Impact: 0.000055
+13.  it                  | Impact: 0.000052
+14.  took                | Impact: 0.000052
+15.  over                | Impact: 0.000052
+16.  hours               | Impact: 0.000052
+17.  .                   | Impact: 0.000052
+18.  and                 | Impact: 0.000029
+19.  since               | Impact: 0.000029
+20.  g                   | Impact: 0.000029
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  but                 | Impact: -0.001184
+ 2.  keep                | Impact: -0.001184
+ 3.  in                  | Impact: -0.001184
+ 4.  mind                | Impact: -0.001184
+ 5.  that                | Impact: -0.001184
+ 6.  compiler            | Impact: -0.001184
+ 7.  errors              | Impact: -0.001184
+ 8.  suck                | Impact: -0.001184
+ 9.  .                   | Impact: -0.001184
+10.  the                 | Impact: -0.000422
+11.  pg                  | Impact: -0.000422
+12. cc                   | Impact: -0.000422
+13.  site                | Impact: -0.000422
+14.  does                | Impact: -0.000422
+15.  not                 | Impact: -0.000422
+16.  seem                | Impact: -0.000422
+17.  generated           | Impact: -0.000361
+18.  code                | Impact: -0.000361
+19.  can                 | Impact: -0.000361
+20.  be                  | Impact: -0.000361

@@ -1,0 +1,74 @@
+Sample 179
+==========
+
+Sample text preview: FROM MR HENRY KABORE THE CHIEF AUDITOR INCHARGE FOREIGN REMITTANCE UNIT, AFRICAN DEVELOPMENT BANK{ADB}. OUAGADOUGOU BURKINA FASO. Dear Partner, I pres...
+
+Model prediction: [1.7424484e-04 9.9982578e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.020675 → PHISHING
+ 2.  partner             | Impact: 0.014913 → PHISHING
+ 3.  you                 | Impact: 0.008827 → PHISHING
+ 4.  over                | Impact: 0.008827 → PHISHING
+ 5.  this                | Impact: 0.007571 → PHISHING
+ 6.  financial           | Impact: 0.007571 → PHISHING
+ 7.  transferred         | Impact: 0.006256 → PHISHING
+ 8.  into                | Impact: 0.006256 → PHISHING
+ 9.  your                | Impact: 0.006256 → PHISHING
+10.  account             | Impact: 0.006256 → PHISHING
+11.  bank                | Impact: 0.004487 → PHISHING
+12.  account             | Impact: 0.004487 → PHISHING
+13.  as                  | Impact: 0.004487 → PHISHING
+14.  the                 | Impact: 0.004487 → PHISHING
+15.  your                | Impact: 0.004433 → PHISHING
+16.  family              | Impact: 0.004433 → PHISHING
+17.  .                   | Impact: 0.004433 → PHISHING
+18.  the                 | Impact: 0.004271 → PHISHING
+19.  fund                | Impact: 0.004271 → PHISHING
+20.  into                | Impact: 0.004271 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.020675
+ 2.  partner             | Impact: 0.014913
+ 3.  you                 | Impact: 0.008827
+ 4.  over                | Impact: 0.008827
+ 5.  this                | Impact: 0.007571
+ 6.  financial           | Impact: 0.007571
+ 7.  transferred         | Impact: 0.006256
+ 8.  into                | Impact: 0.006256
+ 9.  your                | Impact: 0.006256
+10.  account             | Impact: 0.006256
+11.  bank                | Impact: 0.004487
+12.  account             | Impact: 0.004487
+13.  as                  | Impact: 0.004487
+14.  the                 | Impact: 0.004487
+15.  your                | Impact: 0.004433
+16.  family              | Impact: 0.004433
+17.  .                   | Impact: 0.004433
+18.  the                 | Impact: 0.004271
+19.  fund                | Impact: 0.004271
+20.  into                | Impact: 0.004271
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  submit              | Impact: -0.000103
+ 2.  to                  | Impact: -0.000103
+ 3.  the                 | Impact: -0.000103
+ 4.  entire              | Impact: -0.000103
+ 5.  bank                | Impact: -0.000103
+ 6.  management          | Impact: -0.000103
+ 7.  for                 | Impact: -0.000103
+ 8.  an                  | Impact: -0.000103
+ 9.  official            | Impact: -0.000103
+10.  re                  | Impact: -0.000103
+11.  -                   | Impact: -0.000103
+12.  documentation       | Impact: -0.000103
+13.  the                 | Impact: -0.000103
+14.  year                | Impact: -0.000103
+15.  against             | Impact: -0.000103
+16.  .                   | Impact: -0.000103
+17.  and                 | Impact: -0.000103
+18.  audit               | Impact: -0.000103
+19.  of                  | Impact: -0.000103

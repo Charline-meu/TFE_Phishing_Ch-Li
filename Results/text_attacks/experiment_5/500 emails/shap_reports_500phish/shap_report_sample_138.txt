@@ -1,0 +1,64 @@
+Sample 138
+==========
+
+Sample text preview: Good Day, Hello, i am years of age now, i will not forget to ask you about your health i hope fine, i want to ask you if your interesting to help me, ...
+
+Model prediction: [1.6855824e-04 9.9983144e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  age                 | Impact: 0.029123 → PHISHING
+ 2.  hello               | Impact: 0.028812 → PHISHING
+ 3.  now                 | Impact: 0.021438 → PHISHING
+ 4.  the                 | Impact: 0.020213 → PHISHING
+ 5.  money               | Impact: 0.020213 → PHISHING
+ 6.  here                | Impact: 0.018653 → PHISHING
+ 7.  am                  | Impact: 0.018215 → PHISHING
+ 8.  your                | Impact: 0.017927 → PHISHING
+ 9.  am                  | Impact: 0.017853 → PHISHING
+10.  account             | Impact: 0.016640 → PHISHING
+11.  such                | Impact: 0.014001 → PHISHING
+12.  as                  | Impact: 0.014001 → PHISHING
+13.  death               | Impact: 0.013557 → PHISHING
+14.  certificate         | Impact: 0.013557 → PHISHING
+15.  family              | Impact: 0.013305 → PHISHING
+16.  i                   | Impact: 0.011778 → PHISHING
+17.  and                 | Impact: 0.011751 → PHISHING
+18.  extend              | Impact: 0.010545 → PHISHING
+19.  my                  | Impact: 0.009914 → PHISHING
+20.  bin                 | Impact: 0.009774 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  age                 | Impact: 0.029123
+ 2.  hello               | Impact: 0.028812
+ 3.  now                 | Impact: 0.021438
+ 4.  the                 | Impact: 0.020213
+ 5.  money               | Impact: 0.020213
+ 6.  here                | Impact: 0.018653
+ 7.  am                  | Impact: 0.018215
+ 8.  your                | Impact: 0.017927
+ 9.  am                  | Impact: 0.017853
+10.  account             | Impact: 0.016640
+11.  such                | Impact: 0.014001
+12.  as                  | Impact: 0.014001
+13.  death               | Impact: 0.013557
+14.  certificate         | Impact: 0.013557
+15.  family              | Impact: 0.013305
+16.  i                   | Impact: 0.011778
+17.  and                 | Impact: 0.011751
+18.  extend              | Impact: 0.010545
+19.  my                  | Impact: 0.009914
+20.  bin                 | Impact: 0.009774
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.001419
+ 2.  .                   | Impact: -0.001419
+ 3.  response            | Impact: -0.000451
+ 4.  i                   | Impact: -0.000451
+ 5.  .                   | Impact: -0.000118
+ 6.  will                | Impact: -0.000070
+ 7.  forward             | Impact: -0.000070
+ 8.  all                 | Impact: -0.000070
+ 9.  the                 | Impact: -0.000070

@@ -1,0 +1,75 @@
+Sample 142
+==========
+
+Sample text preview: Hello Unlimited International Telephone Call Marketer, If you ordered a flat-rate domestic calling product or a minute free trial using a local access...
+
+Model prediction: [6.2988227e-04 9.9937016e-01]
+Predicted class: PHISHING with 0.9994 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.040753 → PHISHING
+ 2.  your                | Impact: 0.024536 → PHISHING
+ 3.  service             | Impact: 0.024413 → PHISHING
+ 4.  service             | Impact: 0.019643 → PHISHING
+ 5.  hello               | Impact: 0.018188 → PHISHING
+ 6.  unlimited           | Impact: 0.015932 → PHISHING
+ 7.  international       | Impact: 0.015771 → PHISHING
+ 8.                      | Impact: 0.013888 → PHISHING
+ 9.  will                | Impact: 0.010897 → PHISHING
+10.  be                  | Impact: 0.010897 → PHISHING
+11.  you                 | Impact: 0.009541 → PHISHING
+12.  will                | Impact: 0.009541 → PHISHING
+13.  never               | Impact: 0.009541 → PHISHING
+14.  pay                 | Impact: 0.009541 → PHISHING
+15.  please              | Impact: 0.009481 → PHISHING
+16.  contact             | Impact: 0.009481 → PHISHING
+17.  us                  | Impact: 0.009481 → PHISHING
+18.  for                 | Impact: 0.009481 → PHISHING
+19.  +                   | Impact: 0.008773 → PHISHING
+20.  digit               | Impact: 0.008773 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.040753
+ 2.  your                | Impact: 0.024536
+ 3.  service             | Impact: 0.024413
+ 4.  service             | Impact: 0.019643
+ 5.  hello               | Impact: 0.018188
+ 6.  unlimited           | Impact: 0.015932
+ 7.  international       | Impact: 0.015771
+ 8.                      | Impact: 0.013888
+ 9.  will                | Impact: 0.010897
+10.  be                  | Impact: 0.010897
+11.  you                 | Impact: 0.009541
+12.  will                | Impact: 0.009541
+13.  never               | Impact: 0.009541
+14.  pay                 | Impact: 0.009541
+15.  please              | Impact: 0.009481
+16.  contact             | Impact: 0.009481
+17.  us                  | Impact: 0.009481
+18.  for                 | Impact: 0.009481
+19.  +                   | Impact: 0.008773
+20.  digit               | Impact: 0.008773
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  op                  | Impact: -0.003345
+ 2. ex                   | Impact: -0.003345
+ 3.  ,                   | Impact: -0.003345
+ 4.  usual               | Impact: -0.002196
+ 5.  rates               | Impact: -0.002196
+ 6.  are                 | Impact: -0.002196
+ 7.  .                   | Impact: -0.002196
+ 8.  for                 | Impact: -0.002064
+ 9.  more                | Impact: -0.002064
+10.  information         | Impact: -0.002064
+11.  on                  | Impact: -0.002064
+12.  on                  | Impact: -0.001989
+13.  :                   | Impact: -0.001989
+14.                      | Impact: -0.001989
+15.  have                | Impact: -0.001948
+16.  any                 | Impact: -0.001948
+17.  questions           | Impact: -0.001948
+18.  ,                   | Impact: -0.001948
+19.  if                  | Impact: -0.001948
+20.  you                 | Impact: -0.001948

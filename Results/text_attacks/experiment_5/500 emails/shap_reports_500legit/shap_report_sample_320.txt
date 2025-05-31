@@ -1,0 +1,66 @@
+Sample 320
+==========
+
+Sample text preview: Dan is seriously considering going for this job in TO. What do you think? Let me know what would be a good time to talk. Chris
+
+Model prediction: [9.997335e-01 2.664662e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  chris               | Impact: -0.089136 → LEGITIMATE
+ 2.  you                 | Impact: 0.065098 → PHISHING
+ 3.  dan                 | Impact: -0.062886 → LEGITIMATE
+ 4.  job                 | Impact: 0.046633 → PHISHING
+ 5.  let                 | Impact: 0.036424 → PHISHING
+ 6.  think               | Impact: -0.035591 → LEGITIMATE
+ 7.  considering         | Impact: -0.032656 → LEGITIMATE
+ 8.  .                   | Impact: -0.030675 → LEGITIMATE
+ 9.  to                  | Impact: 0.029807 → PHISHING
+10.  time                | Impact: 0.028605 → PHISHING
+11.  in                  | Impact: 0.028263 → PHISHING
+12.  is                  | Impact: -0.020374 → LEGITIMATE
+13.  to                  | Impact: 0.019486 → PHISHING
+14.  this                | Impact: 0.017333 → PHISHING
+15.  talk                | Impact: -0.016472 → LEGITIMATE
+16.  ?                   | Impact: -0.011903 → LEGITIMATE
+17.  what                | Impact: -0.010621 → LEGITIMATE
+18.  for                 | Impact: 0.009666 → PHISHING
+19.  know                | Impact: -0.009059 → LEGITIMATE
+20.  good                | Impact: -0.007951 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.065098
+ 2.  job                 | Impact: 0.046633
+ 3.  let                 | Impact: 0.036424
+ 4.  to                  | Impact: 0.029807
+ 5.  time                | Impact: 0.028605
+ 6.  in                  | Impact: 0.028263
+ 7.  to                  | Impact: 0.019486
+ 8.  this                | Impact: 0.017333
+ 9.  for                 | Impact: 0.009666
+10.  do                  | Impact: 0.005046
+11.  would               | Impact: 0.004886
+12.  a                   | Impact: 0.002559
+13.  be                  | Impact: 0.001532
+14.  what                | Impact: 0.000393
+15.  .                   | Impact: 0.000275
+16.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  chris               | Impact: -0.089136
+ 2.  dan                 | Impact: -0.062886
+ 3.  think               | Impact: -0.035591
+ 4.  considering         | Impact: -0.032656
+ 5.  .                   | Impact: -0.030675
+ 6.  is                  | Impact: -0.020374
+ 7.  talk                | Impact: -0.016472
+ 8.  ?                   | Impact: -0.011903
+ 9.  what                | Impact: -0.010621
+10.  know                | Impact: -0.009059
+11.  good                | Impact: -0.007951
+12.  going               | Impact: -0.007329
+13.  me                  | Impact: -0.006114
+14.  seriously           | Impact: -0.000188
+15.                      | Impact: -0.000145

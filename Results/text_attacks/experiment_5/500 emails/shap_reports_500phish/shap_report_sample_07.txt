@@ -1,0 +1,75 @@
+Sample 7
+========
+
+Sample text preview: This is the worst job market we've seen in over years. The recent corporate scandals have further deepened the lack confidence in our economy and the ...
+
+Model prediction: [0.00212412 0.9978759 ]
+Predicted class: PHISHING with 0.9979 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  invest              | Impact: 0.020912 → PHISHING
+ 2.  $                   | Impact: 0.020912 → PHISHING
+ 3.  teach               | Impact: 0.016498 → PHISHING
+ 4.  you                 | Impact: 0.016498 → PHISHING
+ 5.  everything          | Impact: 0.015465 → PHISHING
+ 6.  you                 | Impact: 0.015465 → PHISHING
+ 7.  our                 | Impact: 0.012830 → PHISHING
+ 8.  cd                  | Impact: 0.012830 → PHISHING
+ 9.  program             | Impact: 0.012830 → PHISHING
+10.  will                | Impact: 0.012830 → PHISHING
+11.  your                | Impact: 0.011924 → PHISHING
+12.  posting             | Impact: 0.008795 → PHISHING
+13.  your                | Impact: 0.008795 → PHISHING
+14.  quickly             | Impact: 0.008553 → PHISHING
+15.  succeed             | Impact: 0.008553 → PHISHING
+16.  in                  | Impact: 0.008553 → PHISHING
+17.  any                 | Impact: 0.008553 → PHISHING
+18.  job                 | Impact: 0.008553 → PHISHING
+19.  market              | Impact: 0.008553 → PHISHING
+20.  .                   | Impact: 0.008553 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  invest              | Impact: 0.020912
+ 2.  $                   | Impact: 0.020912
+ 3.  teach               | Impact: 0.016498
+ 4.  you                 | Impact: 0.016498
+ 5.  everything          | Impact: 0.015465
+ 6.  you                 | Impact: 0.015465
+ 7.  our                 | Impact: 0.012830
+ 8.  cd                  | Impact: 0.012830
+ 9.  program             | Impact: 0.012830
+10.  will                | Impact: 0.012830
+11.  your                | Impact: 0.011924
+12.  posting             | Impact: 0.008795
+13.  your                | Impact: 0.008795
+14.  quickly             | Impact: 0.008553
+15.  succeed             | Impact: 0.008553
+16.  in                  | Impact: 0.008553
+17.  any                 | Impact: 0.008553
+18.  job                 | Impact: 0.008553
+19.  market              | Impact: 0.008553
+20.  .                   | Impact: 0.008553
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  is                  | Impact: -0.003959
+ 2.  sponsored           | Impact: -0.003959
+ 3.  net                 | Impact: -0.002969
+ 4.  email               | Impact: -0.002969
+ 5.  a                   | Impact: -0.002178
+ 6.  whole               | Impact: -0.002178
+ 7.  new                 | Impact: -0.002178
+ 8.  ball                | Impact: -0.002178
+ 9. game                 | Impact: -0.002178
+10.  .                   | Impact: -0.002178
+11.  mail                | Impact: -0.001814
+12. ing                  | Impact: -0.001814
+13.  list                | Impact: -0.001814
+14.                      | Impact: -0.001814
+15.  _                   | Impact: -0.001586
+16.  _                   | Impact: -0.001586
+17.  _                   | Impact: -0.001586
+18.  _                   | Impact: -0.001586
+19.  _                   | Impact: -0.001586
+20.  _                   | Impact: -0.001586

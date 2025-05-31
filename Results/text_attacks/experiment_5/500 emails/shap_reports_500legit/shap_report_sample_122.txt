@@ -1,0 +1,75 @@
+Sample 122
+==========
+
+Sample text preview: I just updated to the latest CVS - I had been running a build from June. Hitting the Flist button gives the following traceback: syntax error in expre...
+
+Model prediction: [9.9976152e-01 2.3847735e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  list                | Impact: -0.006253 → LEGITIMATE
+ 2.  invoked             | Impact: -0.005954 → LEGITIMATE
+ 3.  your                | Impact: -0.003756 → LEGITIMATE
+ 4.  recent              | Impact: -0.003756 → LEGITIMATE
+ 5.  changes             | Impact: -0.003756 → LEGITIMATE
+ 6.  workers             | Impact: -0.003513 → LEGITIMATE
+ 7.  invoked             | Impact: -0.003170 → LEGITIMATE
+ 8.  from                | Impact: -0.003170 → LEGITIMATE
+ 9.  -                   | Impact: -0.002812 → LEGITIMATE
+10.  ]                   | Impact: -0.002791 → LEGITIMATE
+11.  procedure           | Impact: -0.002586 → LEGITIMATE
+12.  "                   | Impact: -0.002586 → LEGITIMATE
+13.  updated             | Impact: -0.002270 → LEGITIMATE
+14.  related             | Impact: -0.002214 → LEGITIMATE
+15.  to                  | Impact: -0.002214 → LEGITIMATE
+16.  within              | Impact: -0.002155 → LEGITIMATE
+17.  "                   | Impact: -0.002155 → LEGITIMATE
+18.  _                   | Impact: -0.002108 → LEGITIMATE
+19.  within              | Impact: -0.002103 → LEGITIMATE
+20.  "                   | Impact: -0.002103 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mail                | Impact: 0.000758
+ 2. ing                  | Impact: 0.000758
+ 3.  scott               | Impact: 0.000394
+ 4.  _                   | Impact: 0.000394
+ 5.  _                   | Impact: 0.000394
+ 6.  _                   | Impact: 0.000394
+ 7.  _                   | Impact: 0.000387
+ 8.  _                   | Impact: 0.000387
+ 9.  _                   | Impact: 0.000387
+10.  _                   | Impact: 0.000387
+11.  "                   | Impact: 0.000312
+12.  *                   | Impact: 0.000303
+13.  f                   | Impact: 0.000210
+14. ops                  | Impact: 0.000210
+15.  .                   | Impact: 0.000210
+16.  _                   | Impact: 0.000178
+17.  _                   | Impact: 0.000178
+18.  _                   | Impact: 0.000178
+19.  _                   | Impact: 0.000178
+20.  _                   | Impact: 0.000178
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  list                | Impact: -0.006253
+ 2.  invoked             | Impact: -0.005954
+ 3.  your                | Impact: -0.003756
+ 4.  recent              | Impact: -0.003756
+ 5.  changes             | Impact: -0.003756
+ 6.  workers             | Impact: -0.003513
+ 7.  invoked             | Impact: -0.003170
+ 8.  from                | Impact: -0.003170
+ 9.  -                   | Impact: -0.002812
+10.  ]                   | Impact: -0.002791
+11.  procedure           | Impact: -0.002586
+12.  "                   | Impact: -0.002586
+13.  updated             | Impact: -0.002270
+14.  related             | Impact: -0.002214
+15.  to                  | Impact: -0.002214
+16.  within              | Impact: -0.002155
+17.  "                   | Impact: -0.002155
+18.  _                   | Impact: -0.002108
+19.  within              | Impact: -0.002103
+20.  "                   | Impact: -0.002103

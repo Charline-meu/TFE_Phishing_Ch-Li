@@ -1,0 +1,75 @@
+Phishing Sample 78
+==================
+
+Sample text preview: Your Freebie is here! WEEKLY FREEBIES UNTIL CHRISTMAS! Click below and download from the Freebie Club. Available only in December! Digital Planners | ...
+
+Model prediction: [9.9978679e-01 2.1323799e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  download            | Impact: 0.159650 → PHISHING
+ 2.  christmas           | Impact: -0.080836 → LEGITIMATE
+ 3.  click               | Impact: 0.079929 → PHISHING
+ 4.  click               | Impact: 0.070067 → PHISHING
+ 5.  planners            | Impact: -0.053897 → LEGITIMATE
+ 6.  digital             | Impact: -0.053124 → LEGITIMATE
+ 7.  planners            | Impact: -0.053124 → LEGITIMATE
+ 8.  planners            | Impact: -0.051446 → LEGITIMATE
+ 9.  below               | Impact: 0.043033 → PHISHING
+10. bie                  | Impact: -0.032342 → LEGITIMATE
+11.  available           | Impact: 0.031949 → PHISHING
+12.  please              | Impact: 0.029857 → PHISHING
+13.  if                  | Impact: -0.026779 → LEGITIMATE
+14. bies                 | Impact: -0.026701 → LEGITIMATE
+15.  digital             | Impact: -0.024504 → LEGITIMATE
+16.  december            | Impact: -0.024458 → LEGITIMATE
+17.  you                 | Impact: -0.023414 → LEGITIMATE
+18.  |                   | Impact: -0.022642 → LEGITIMATE
+19.  here                | Impact: 0.022399 → PHISHING
+20.  free                | Impact: -0.019654 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  download            | Impact: 0.159650
+ 2.  click               | Impact: 0.079929
+ 3.  click               | Impact: 0.070067
+ 4.  below               | Impact: 0.043033
+ 5.  available           | Impact: 0.031949
+ 6.  please              | Impact: 0.029857
+ 7.  here                | Impact: 0.022399
+ 8.  from                | Impact: 0.019473
+ 9.  only                | Impact: 0.018033
+10.  your                | Impact: 0.012664
+11.  club                | Impact: 0.010333
+12.  the                 | Impact: 0.010200
+13.  link                | Impact: 0.010200
+14.  until               | Impact: 0.009630
+15.  |                   | Impact: 0.009257
+16.  digital             | Impact: 0.009257
+17.  .                   | Impact: 0.008656
+18.  this                | Impact: 0.006973
+19.  email               | Impact: 0.006973
+20.  below               | Impact: 0.006578
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  christmas           | Impact: -0.080836
+ 2.  planners            | Impact: -0.053897
+ 3.  digital             | Impact: -0.053124
+ 4.  planners            | Impact: -0.053124
+ 5.  planners            | Impact: -0.051446
+ 6. bie                  | Impact: -0.032342
+ 7.  if                  | Impact: -0.026779
+ 8. bies                 | Impact: -0.026701
+ 9.  digital             | Impact: -0.024504
+10.  december            | Impact: -0.024458
+11.  you                 | Impact: -0.023414
+12.  |                   | Impact: -0.022642
+13.  free                | Impact: -0.019654
+14.  feel                | Impact: -0.016861
+15.  you                 | Impact: -0.016861
+16.  the                 | Impact: -0.011846
+17.  digital             | Impact: -0.011126
+18.  planners            | Impact: -0.011126
+19.  free                | Impact: -0.010759
+20. bie                  | Impact: -0.010759

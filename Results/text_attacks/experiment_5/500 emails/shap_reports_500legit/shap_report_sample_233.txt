@@ -1,0 +1,75 @@
+Sample 233
+==========
+
+Sample text preview: Martha, I don't have any bullets but could you please send me last week's -- I think there are some old ones that need to be deleted. Thanks. MARTHA B...
+
+Model prediction: [9.9980587e-01 1.9414909e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.011924 → LEGITIMATE
+ 2.  bullets             | Impact: 0.004302 → PHISHING
+ 3.  :                   | Impact: -0.003898 → LEGITIMATE
+ 4.  martha              | Impact: -0.003857 → LEGITIMATE
+ 5.  -                   | Impact: -0.003349 → LEGITIMATE
+ 6.  christmas           | Impact: -0.003258 → LEGITIMATE
+ 7.  please              | Impact: 0.003056 → PHISHING
+ 8.  be                  | Impact: 0.002281 → PHISHING
+ 9.  -                   | Impact: -0.002251 → LEGITIMATE
+10. ron                  | Impact: -0.002181 → LEGITIMATE
+11.  your                | Impact: 0.002144 → PHISHING
+12.  party               | Impact: -0.001838 → LEGITIMATE
+13.  bullets             | Impact: 0.001647 → PHISHING
+14.  think               | Impact: -0.001574 → LEGITIMATE
+15. ron                  | Impact: -0.001313 → LEGITIMATE
+16. ron                  | Impact: -0.001170 → LEGITIMATE
+17.  subject             | Impact: 0.001117 → PHISHING
+18.  i                   | Impact: -0.001017 → LEGITIMATE
+19.  @                   | Impact: 0.000941 → PHISHING
+20.  get                 | Impact: 0.000850 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bullets             | Impact: 0.004302
+ 2.  please              | Impact: 0.003056
+ 3.  be                  | Impact: 0.002281
+ 4.  your                | Impact: 0.002144
+ 5.  bullets             | Impact: 0.001647
+ 6.  subject             | Impact: 0.001117
+ 7.  @                   | Impact: 0.000941
+ 8.  get                 | Impact: 0.000850
+ 9.  our                 | Impact: 0.000825
+10.  me                  | Impact: 0.000781
+11.  deleted             | Impact: 0.000772
+12.  last                | Impact: 0.000736
+13.  @                   | Impact: 0.000711
+14.  you                 | Impact: 0.000671
+15.  is                  | Impact: 0.000554
+16.  bullets             | Impact: 0.000547
+17.  tomorrow            | Impact: 0.000491
+18.  send                | Impact: 0.000488
+19.  in                  | Impact: 0.000478
+20.  please              | Impact: 0.000452
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.011924
+ 2.  :                   | Impact: -0.003898
+ 3.  martha              | Impact: -0.003857
+ 4.  -                   | Impact: -0.003349
+ 5.  christmas           | Impact: -0.003258
+ 6.  -                   | Impact: -0.002251
+ 7. ron                  | Impact: -0.002181
+ 8.  party               | Impact: -0.001838
+ 9.  think               | Impact: -0.001574
+10. ron                  | Impact: -0.001313
+11. ron                  | Impact: -0.001170
+12.  i                   | Impact: -0.001017
+13.  thanks              | Impact: -0.000745
+14. ron                  | Impact: -0.000684
+15.  en                  | Impact: -0.000680
+16.  .                   | Impact: -0.000664
+17.  .                   | Impact: -0.000576
+18. ron                  | Impact: -0.000573
+19.  .                   | Impact: -0.000506
+20.  et                  | Impact: -0.000372

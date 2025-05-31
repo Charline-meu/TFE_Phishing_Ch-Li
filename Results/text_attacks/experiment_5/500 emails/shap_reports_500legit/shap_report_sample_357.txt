@@ -1,0 +1,75 @@
+Sample 357
+==========
+
+Sample text preview: URL: Date: --T::-: I've added a new blog category: Yahoo. Why? Because occasionally I post stuff about work, so I might as well categorize. Plus, some...
+
+Model prediction: [9.9975377e-01 2.4622158e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  (                   | Impact: -0.101371 → LEGITIMATE
+ 2.  who                 | Impact: 0.066203 → PHISHING
+ 3.  are                 | Impact: 0.049983 → PHISHING
+ 4.  you                 | Impact: 0.039045 → PHISHING
+ 5.  you                 | Impact: -0.033355 → LEGITIMATE
+ 6.  .                   | Impact: -0.022485 → LEGITIMATE
+ 7.  know                | Impact: -0.012575 → LEGITIMATE
+ 8.  private             | Impact: 0.011027 → PHISHING
+ 9.  ,                   | Impact: -0.008883 → LEGITIMATE
+10.  mail                | Impact: 0.007405 → PHISHING
+11.  me                  | Impact: -0.005998 → LEGITIMATE
+12.  plus                | Impact: 0.005754 → PHISHING
+13.  added               | Impact: -0.005645 → LEGITIMATE
+14.  .                   | Impact: 0.005179 → PHISHING
+15.  convinced           | Impact: -0.004006 → LEGITIMATE
+16.  :                   | Impact: -0.002343 → LEGITIMATE
+17.  good                | Impact: -0.002283 → LEGITIMATE
+18.  idea                | Impact: -0.002179 → LEGITIMATE
+19.  ur                  | Impact: -0.002158 → LEGITIMATE
+20.  why                 | Impact: -0.002117 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  who                 | Impact: 0.066203
+ 2.  are                 | Impact: 0.049983
+ 3.  you                 | Impact: 0.039045
+ 4.  private             | Impact: 0.011027
+ 5.  mail                | Impact: 0.007405
+ 6.  plus                | Impact: 0.005754
+ 7.  .                   | Impact: 0.005179
+ 8.  .                   | Impact: 0.002058
+ 9.  blog                | Impact: 0.001033
+10.  new                 | Impact: 0.000975
+11.  has                 | Impact: 0.000945
+12.  -                   | Impact: 0.000467
+13.  yahoo               | Impact: 0.000357
+14.  e                   | Impact: 0.000325
+15.  a                   | Impact: 0.000265
+16.  category            | Impact: 0.000127
+17.  t                   | Impact: 0.000105
+18.  i                   | Impact: 0.000097
+19.  post                | Impact: 0.000097
+20.  because             | Impact: 0.000012
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.101371
+ 2.  you                 | Impact: -0.033355
+ 3.  .                   | Impact: -0.022485
+ 4.  know                | Impact: -0.012575
+ 5.  ,                   | Impact: -0.008883
+ 6.  me                  | Impact: -0.005998
+ 7.  added               | Impact: -0.005645
+ 8.  convinced           | Impact: -0.004006
+ 9.  :                   | Impact: -0.002343
+10.  good                | Impact: -0.002283
+11.  idea                | Impact: -0.002179
+12.  ur                  | Impact: -0.002158
+13.  why                 | Impact: -0.002117
+14.  some                | Impact: -0.001659
+15.  ?                   | Impact: -0.001642
+16.  .                   | Impact: -0.001487
+17.  .                   | Impact: -0.001388
+18.  :                   | Impact: -0.001325
+19.  :                   | Impact: -0.001281
+20.  :                   | Impact: -0.001243

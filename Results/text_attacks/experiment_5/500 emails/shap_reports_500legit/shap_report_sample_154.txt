@@ -1,0 +1,57 @@
+Sample 154
+==========
+
+Sample text preview: MTBE plant is up and running. Production for Tuesday, May , was in excess of MB.
+
+Model prediction: [0.99004525 0.0099547 ]
+Predicted class: LEGITIMATE with 0.9900 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  tuesday             | Impact: -0.261583 → LEGITIMATE
+ 2.  production          | Impact: 0.144660 → PHISHING
+ 3. be                   | Impact: 0.124806 → PHISHING
+ 4.  and                 | Impact: 0.078981 → PHISHING
+ 5.  .                   | Impact: -0.078577 → LEGITIMATE
+ 6.  may                 | Impact: -0.075769 → LEGITIMATE
+ 7.  ,                   | Impact: -0.073914 → LEGITIMATE
+ 8.  was                 | Impact: -0.062693 → LEGITIMATE
+ 9.  is                  | Impact: 0.057757 → PHISHING
+10.  ,                   | Impact: -0.057127 → LEGITIMATE
+11.  of                  | Impact: -0.055069 → LEGITIMATE
+12.  running             | Impact: 0.053967 → PHISHING
+13.  up                  | Impact: 0.048431 → PHISHING
+14.  mb                  | Impact: -0.042496 → LEGITIMATE
+15.  excess              | Impact: 0.035572 → PHISHING
+16.  in                  | Impact: 0.032313 → PHISHING
+17.  plant               | Impact: 0.023121 → PHISHING
+18.  .                   | Impact: 0.017635 → PHISHING
+19.  mt                  | Impact: -0.007226 → LEGITIMATE
+20.  for                 | Impact: -0.006400 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  production          | Impact: 0.144660
+ 2. be                   | Impact: 0.124806
+ 3.  and                 | Impact: 0.078981
+ 4.  is                  | Impact: 0.057757
+ 5.  running             | Impact: 0.053967
+ 6.  up                  | Impact: 0.048431
+ 7.  excess              | Impact: 0.035572
+ 8.  in                  | Impact: 0.032313
+ 9.  plant               | Impact: 0.023121
+10.  .                   | Impact: 0.017635
+11.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  tuesday             | Impact: -0.261583
+ 2.  .                   | Impact: -0.078577
+ 3.  may                 | Impact: -0.075769
+ 4.  ,                   | Impact: -0.073914
+ 5.  was                 | Impact: -0.062693
+ 6.  ,                   | Impact: -0.057127
+ 7.  of                  | Impact: -0.055069
+ 8.  mb                  | Impact: -0.042496
+ 9.  mt                  | Impact: -0.007226
+10.  for                 | Impact: -0.006400
+11.                      | Impact: -0.000020

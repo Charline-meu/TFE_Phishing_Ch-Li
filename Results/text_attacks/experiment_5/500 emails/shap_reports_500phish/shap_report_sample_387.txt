@@ -1,0 +1,75 @@
+Sample 387
+==========
+
+Sample text preview: MR. KALADA HART ORIENT BANK (NIG.) LTD. IDUMOTA BRANCH LAGOS. - NIGERIA. Dear Sir, I am Mr Kalada Hart, Bank Manager of Orient Bank of Nigeria, Lagos ...
+
+Model prediction: [1.757890e-04 9.998242e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.022709 → PHISHING
+ 2.  corporation         | Impact: 0.011194 → PHISHING
+ 3.  that                | Impact: 0.011194 → PHISHING
+ 4.  mr                  | Impact: 0.011194 → PHISHING
+ 5.  .                   | Impact: 0.010513 → PHISHING
+ 6.  the                 | Impact: 0.010313 → PHISHING
+ 7.  nigerian            | Impact: 0.010313 → PHISHING
+ 8.  national            | Impact: 0.010313 → PHISHING
+ 9.  petroleum           | Impact: 0.010313 → PHISHING
+10.  lagos               | Impact: 0.008132 → PHISHING
+11.  you                 | Impact: 0.007621 → PHISHING
+12.  as                  | Impact: 0.007621 → PHISHING
+13.  the                 | Impact: 0.007621 → PHISHING
+14.  money               | Impact: 0.007621 → PHISHING
+15.  to                  | Impact: 0.007621 → PHISHING
+16.  bank                | Impact: 0.006610 → PHISHING
+17.  of                  | Impact: 0.006610 → PHISHING
+18.  nigeria             | Impact: 0.006610 → PHISHING
+19.  paid                | Impact: 0.006502 → PHISHING
+20.  into                | Impact: 0.006502 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.022709
+ 2.  corporation         | Impact: 0.011194
+ 3.  that                | Impact: 0.011194
+ 4.  mr                  | Impact: 0.011194
+ 5.  .                   | Impact: 0.010513
+ 6.  the                 | Impact: 0.010313
+ 7.  nigerian            | Impact: 0.010313
+ 8.  national            | Impact: 0.010313
+ 9.  petroleum           | Impact: 0.010313
+10.  lagos               | Impact: 0.008132
+11.  you                 | Impact: 0.007621
+12.  as                  | Impact: 0.007621
+13.  the                 | Impact: 0.007621
+14.  money               | Impact: 0.007621
+15.  to                  | Impact: 0.007621
+16.  bank                | Impact: 0.006610
+17.  of                  | Impact: 0.006610
+18.  nigeria             | Impact: 0.006610
+19.  paid                | Impact: 0.006502
+20.  into                | Impact: 0.006502
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  an                  | Impact: -0.000251
+ 2.  automobile          | Impact: -0.000251
+ 3.  accident            | Impact: -0.000251
+ 4.  .                   | Impact: -0.000251
+ 5.  i                   | Impact: -0.000006
+ 6.  shall               | Impact: -0.000006
+ 7.  then                | Impact: -0.000006
+ 8.  provide             | Impact: -0.000006
+ 9.  relevant            | Impact: -0.000006
+10.  documents           | Impact: -0.000006
+11.  that                | Impact: -0.000006
+12.  will                | Impact: -0.000006
+13.  help                | Impact: -0.000006
+14.  you                 | Impact: -0.000006
+15.  understand          | Impact: -0.000006
+16.  the                 | Impact: -0.000006
+17.  transaction         | Impact: -0.000006
+18.  .                   | Impact: -0.000006
+19.  there               | Impact: -0.000006
+20.  is                  | Impact: -0.000006

@@ -1,0 +1,33 @@
+Sample 382
+==========
+
+Sample text preview: Any interest in this conference? Vince
+
+Model prediction: [9.9969435e-01 3.0563900e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  vince               | Impact: -0.247969 → LEGITIMATE
+ 2.  conference          | Impact: -0.210374 → LEGITIMATE
+ 3.  in                  | Impact: -0.041986 → LEGITIMATE
+ 4.  interest            | Impact: -0.030416 → LEGITIMATE
+ 5.  any                 | Impact: 0.024219 → PHISHING
+ 6.  ?                   | Impact: -0.023339 → LEGITIMATE
+ 7.  this                | Impact: 0.022908 → PHISHING
+ 8.                      | Impact: -0.000000 → LEGITIMATE
+ 9.                      | Impact: 0.000000 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  any                 | Impact: 0.024219
+ 2.  this                | Impact: 0.022908
+ 3.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  vince               | Impact: -0.247969
+ 2.  conference          | Impact: -0.210374
+ 3.  in                  | Impact: -0.041986
+ 4.  interest            | Impact: -0.030416
+ 5.  ?                   | Impact: -0.023339
+ 6.                      | Impact: -0.000000

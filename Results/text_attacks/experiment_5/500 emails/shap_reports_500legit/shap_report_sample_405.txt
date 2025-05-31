@@ -1,0 +1,75 @@
+Sample 405
+==========
+
+Sample text preview: This Sunday, October th, is the Juvenile Diabetes Research Foundation (JDRF) Walk to Cure Diabetes at Greenspoint Mall at : a.m. In preparation for th...
+
+Model prediction: [9.9980408e-01 1.9588956e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.005479 → LEGITIMATE
+ 2. ron                  | Impact: -0.003229 → LEGITIMATE
+ 3.  jd                  | Impact: 0.003156 → PHISHING
+ 4. rf                   | Impact: 0.003156 → PHISHING
+ 5.  en                  | Impact: -0.002856 → LEGITIMATE
+ 6. ron                  | Impact: -0.002856 → LEGITIMATE
+ 7.  the                 | Impact: -0.002610 → LEGITIMATE
+ 8.  )                   | Impact: 0.002541 → PHISHING
+ 9.  en                  | Impact: -0.002102 → LEGITIMATE
+10. ron                  | Impact: -0.002102 → LEGITIMATE
+11.  employees           | Impact: -0.002102 → LEGITIMATE
+12.  walk                | Impact: -0.001780 → LEGITIMATE
+13.  to                  | Impact: -0.001780 → LEGITIMATE
+14.  (                   | Impact: 0.001382 → PHISHING
+15.  tent                | Impact: -0.001311 → LEGITIMATE
+16.  will                | Impact: -0.001311 → LEGITIMATE
+17.  be                  | Impact: -0.001311 → LEGITIMATE
+18.  great               | Impact: -0.001311 → LEGITIMATE
+19.  to                  | Impact: -0.001184 → LEGITIMATE
+20.  the                 | Impact: -0.001184 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  jd                  | Impact: 0.003156
+ 2. rf                   | Impact: 0.003156
+ 3.  )                   | Impact: 0.002541
+ 4.  (                   | Impact: 0.001382
+ 5.  m                   | Impact: 0.000926
+ 6.  research            | Impact: 0.000782
+ 7.  foundation          | Impact: 0.000782
+ 8.  sunday              | Impact: 0.000689
+ 9.  street              | Impact: 0.000683
+10.  in                  | Impact: 0.000683
+11.  .                   | Impact: 0.000616
+12.  on                  | Impact: 0.000577
+13.  andrews             | Impact: 0.000577
+14.  for                 | Impact: 0.000364
+15.  those               | Impact: 0.000364
+16.  of                  | Impact: 0.000364
+17.  you                 | Impact: 0.000364
+18.  we                  | Impact: 0.000356
+19.  want                | Impact: 0.000356
+20.  to                  | Impact: 0.000356
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.005479
+ 2. ron                  | Impact: -0.003229
+ 3.  en                  | Impact: -0.002856
+ 4. ron                  | Impact: -0.002856
+ 5.  the                 | Impact: -0.002610
+ 6.  en                  | Impact: -0.002102
+ 7. ron                  | Impact: -0.002102
+ 8.  employees           | Impact: -0.002102
+ 9.  walk                | Impact: -0.001780
+10.  to                  | Impact: -0.001780
+11.  tent                | Impact: -0.001311
+12.  will                | Impact: -0.001311
+13.  be                  | Impact: -0.001311
+14.  great               | Impact: -0.001311
+15.  to                  | Impact: -0.001184
+16.  the                 | Impact: -0.001184
+17.  en                  | Impact: -0.001184
+18. ron                  | Impact: -0.001184
+19.  cure                | Impact: -0.001065
+20.  diabetes            | Impact: -0.001065

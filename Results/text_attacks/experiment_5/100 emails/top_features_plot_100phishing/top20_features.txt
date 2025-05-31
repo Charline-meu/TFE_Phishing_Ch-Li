@@ -1,0 +1,23 @@
+Top 20 Most Influential Features Across All Emails:
+Rank | Feature | Total Impact | Direction
+--------------------------------------------------
+ 1. your | 2.432135 | PHISHING
+ 2. dear | 1.395663 | PHISHING
+ 3. you | 1.120867 | PHISHING
+ 4. account | 1.073964 | PHISHING
+ 5. to | 0.732069 | PHISHING
+ 6. this | 0.441585 | PHISHING
+ 7. money | 0.375432 | PHISHING
+ 8. © | 0.342961 | PHISHING
+ 9. mr | 0.328069 | PHISHING
+10. mail | 0.324327 | PHISHING
+11. contact | 0.301540 | PHISHING
+12. email | 0.292174 | PHISHING
+13. in | 0.274763 | PHISHING
+14. be | 0.264863 | PHISHING
+15. free | 0.264560 | PHISHING
+16. ! | 0.263416 | PHISHING
+17. my | 0.261443 | PHISHING
+18. . | 0.254367 | PHISHING
+19. is | 0.246420 | PHISHING
+20. bank | 0.244614 | PHISHING

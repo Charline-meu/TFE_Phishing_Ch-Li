@@ -1,0 +1,75 @@
+Sample 188
+==========
+
+Sample text preview: Try Hack Me ( # )Byte Unlock cutting-edge training & insights for security experts of all levels! Empowering security professionals at all skill level...
+
+Model prediction: [0.99879336 0.0012066 ]
+Predicted class: LEGITIMATE with 0.9988 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  cyber               | Impact: -0.003286 → LEGITIMATE
+ 2.  security            | Impact: -0.003286 → LEGITIMATE
+ 3.  launch              | Impact: -0.002743 → LEGITIMATE
+ 4.  career              | Impact: -0.002743 → LEGITIMATE
+ 5.  quiz                | Impact: -0.002743 → LEGITIMATE
+ 6.  (                   | Impact: -0.002743 → LEGITIMATE
+ 7.  )                   | Impact: -0.002743 → LEGITIMATE
+ 8.  out                 | Impact: -0.002602 → LEGITIMATE
+ 9.  which               | Impact: -0.002602 → LEGITIMATE
+10.  successful          | Impact: -0.001561 → LEGITIMATE
+11.  security            | Impact: -0.001561 → LEGITIMATE
+12.  analyst             | Impact: -0.001561 → LEGITIMATE
+13.  .                   | Impact: -0.001561 → LEGITIMATE
+14.  careers             | Impact: -0.000953 → LEGITIMATE
+15.  hub                 | Impact: -0.000953 → LEGITIMATE
+16.  :                   | Impact: -0.000953 → LEGITIMATE
+17.  (                   | Impact: -0.000953 → LEGITIMATE
+18.  )                   | Impact: -0.000953 → LEGITIMATE
+19.  with                | Impact: -0.000953 → LEGITIMATE
+20.  our                 | Impact: -0.000953 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  *                   | Impact: 0.000686
+ 2.  *                   | Impact: 0.000686
+ 3.  *                   | Impact: 0.000686
+ 4.  *                   | Impact: 0.000686
+ 5.  *                   | Impact: 0.000686
+ 6.  *                   | Impact: 0.000686
+ 7.  the                 | Impact: 0.000686
+ 8.  latest              | Impact: 0.000686
+ 9.  news                | Impact: 0.000686
+10.  from                | Impact: 0.000686
+11.  *                   | Impact: 0.000679
+12.  *                   | Impact: 0.000679
+13.  *                   | Impact: 0.000679
+14.  *                   | Impact: 0.000679
+15.  *                   | Impact: 0.000679
+16.  *                   | Impact: 0.000679
+17.  *                   | Impact: 0.000679
+18.  *                   | Impact: 0.000679
+19.  try                 | Impact: 0.000521
+20. ha                   | Impact: 0.000521
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  cyber               | Impact: -0.003286
+ 2.  security            | Impact: -0.003286
+ 3.  launch              | Impact: -0.002743
+ 4.  career              | Impact: -0.002743
+ 5.  quiz                | Impact: -0.002743
+ 6.  (                   | Impact: -0.002743
+ 7.  )                   | Impact: -0.002743
+ 8.  out                 | Impact: -0.002602
+ 9.  which               | Impact: -0.002602
+10.  successful          | Impact: -0.001561
+11.  security            | Impact: -0.001561
+12.  analyst             | Impact: -0.001561
+13.  .                   | Impact: -0.001561
+14.  careers             | Impact: -0.000953
+15.  hub                 | Impact: -0.000953
+16.  :                   | Impact: -0.000953
+17.  (                   | Impact: -0.000953
+18.  )                   | Impact: -0.000953
+19.  with                | Impact: -0.000953
+20.  our                 | Impact: -0.000953

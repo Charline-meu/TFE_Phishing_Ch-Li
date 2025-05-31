@@ -1,0 +1,75 @@
+Sample 170
+==========
+
+Sample text preview: i am waiting on the conference call and no one is on it yet? -----Original Message----- From: Sent: Tuesday, February , : AM To: Zufferli, John; Gorny...
+
+Model prediction: [9.9956185e-01 4.3810593e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  room                | Impact: -0.025293 → LEGITIMATE
+ 2.  for                 | Impact: -0.025293 → LEGITIMATE
+ 3.  those               | Impact: -0.025293 → LEGITIMATE
+ 4.  participants        | Impact: -0.025293 → LEGITIMATE
+ 5.  houston             | Impact: -0.019556 → LEGITIMATE
+ 6.  time                | Impact: -0.019556 → LEGITIMATE
+ 7.  in                  | Impact: -0.016856 → LEGITIMATE
+ 8.  houston             | Impact: -0.016856 → LEGITIMATE
+ 9.  .                   | Impact: -0.016856 → LEGITIMATE
+10.  -                   | Impact: 0.016232 → PHISHING
+11.  mail                | Impact: 0.016232 → PHISHING
+12.  from                | Impact: 0.016232 → PHISHING
+13.  your                | Impact: 0.016232 → PHISHING
+14.  system              | Impact: 0.016232 → PHISHING
+15.  .                   | Impact: 0.015022 → PHISHING
+16.  has                 | Impact: -0.011686 → LEGITIMATE
+17.  been                | Impact: -0.011686 → LEGITIMATE
+18.  scheduled           | Impact: -0.011686 → LEGITIMATE
+19.  for                 | Impact: -0.011686 → LEGITIMATE
+20.  the                 | Impact: -0.011611 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  -                   | Impact: 0.016232
+ 2.  mail                | Impact: 0.016232
+ 3.  from                | Impact: 0.016232
+ 4.  your                | Impact: 0.016232
+ 5.  system              | Impact: 0.016232
+ 6.  .                   | Impact: 0.015022
+ 7.  if                  | Impact: 0.010291
+ 8.  you                 | Impact: 0.010291
+ 9.  are                 | Impact: 0.010291
+10.  not                 | Impact: 0.010291
+11.  j                   | Impact: 0.009456
+12. m                    | Impact: 0.009456
+13.  visit               | Impact: 0.009456
+14.  our                 | Impact: 0.009456
+15.  website             | Impact: 0.009456
+16.  at                  | Impact: 0.009456
+17.  this                | Impact: 0.009456
+18.  message             | Impact: 0.009456
+19.  the                 | Impact: 0.008606
+20.  named               | Impact: 0.008606
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  room                | Impact: -0.025293
+ 2.  for                 | Impact: -0.025293
+ 3.  those               | Impact: -0.025293
+ 4.  participants        | Impact: -0.025293
+ 5.  houston             | Impact: -0.019556
+ 6.  time                | Impact: -0.019556
+ 7.  in                  | Impact: -0.016856
+ 8.  houston             | Impact: -0.016856
+ 9.  .                   | Impact: -0.016856
+10.  has                 | Impact: -0.011686
+11.  been                | Impact: -0.011686
+12.  scheduled           | Impact: -0.011686
+13.  for                 | Impact: -0.011686
+14.  the                 | Impact: -0.011611
+15.  market              | Impact: -0.011611
+16.  risk                | Impact: -0.011611
+17.  meeting             | Impact: -0.011611
+18.  vladimir            | Impact: -0.011379
+19.  ;                   | Impact: -0.011379
+20.  hayden              | Impact: -0.011379

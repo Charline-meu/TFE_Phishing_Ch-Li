@@ -1,0 +1,14 @@
+apple
+orange
+computer
+university
+security
+account
+paypal
+login
+microsoft
+password
+verify
+customer
+bank
+update

@@ -1,0 +1,75 @@
+Sample 408
+==========
+
+Sample text preview: ATTENTION:PRESIDENT/DIRECTOR, MY REASON FOR CONTACTING YOU IS BASED ON AN URGENT NEED TO INVEST SOME FUND AMOUNTING TO $,,. (EIGHT MILLION,TWO HUNDRED...
+
+Model prediction: [1.5572215e-04 9.9984431e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  contact             | Impact: 0.013880 → PHISHING
+ 2.  me                  | Impact: 0.013880 → PHISHING
+ 3.  information         | Impact: 0.012493 → PHISHING
+ 4.  please              | Impact: 0.012493 → PHISHING
+ 5.  address             | Impact: 0.012379 → PHISHING
+ 6.  mail                | Impact: 0.010495 → PHISHING
+ 7.  for                 | Impact: 0.010348 → PHISHING
+ 8.  you                 | Impact: 0.010348 → PHISHING
+ 9.  foreign             | Impact: 0.008565 → PHISHING
+10.  bank                | Impact: 0.008565 → PHISHING
+11.  for                 | Impact: 0.008188 → PHISHING
+12.  further             | Impact: 0.008188 → PHISHING
+13.  your                | Impact: 0.007689 → PHISHING
+14.  country             | Impact: 0.007689 → PHISHING
+15.  for                 | Impact: 0.007689 → PHISHING
+16.  your                | Impact: 0.007269 → PHISHING
+17.  country             | Impact: 0.007269 → PHISHING
+18.  .                   | Impact: 0.007269 → PHISHING
+19.  se                  | Impact: 0.007248 → PHISHING
+20. kk                   | Impact: 0.007248 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.013880
+ 2.  me                  | Impact: 0.013880
+ 3.  information         | Impact: 0.012493
+ 4.  please              | Impact: 0.012493
+ 5.  address             | Impact: 0.012379
+ 6.  mail                | Impact: 0.010495
+ 7.  for                 | Impact: 0.010348
+ 8.  you                 | Impact: 0.010348
+ 9.  foreign             | Impact: 0.008565
+10.  bank                | Impact: 0.008565
+11.  for                 | Impact: 0.008188
+12.  further             | Impact: 0.008188
+13.  your                | Impact: 0.007689
+14.  country             | Impact: 0.007689
+15.  for                 | Impact: 0.007689
+16.  your                | Impact: 0.007269
+17.  country             | Impact: 0.007269
+18.  .                   | Impact: 0.007269
+19.  se                  | Impact: 0.007248
+20. kk                   | Impact: 0.007248
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  mail                | Impact: -0.007076
+ 2.  ;                   | Impact: -0.007076
+ 3.                      | Impact: -0.002228
+ 4.  on                  | Impact: -0.001336
+ 5.  the                 | Impact: -0.001336
+ 6.  other               | Impact: -0.001336
+ 7.  hand                | Impact: -0.001336
+ 8.  stating             | Impact: -0.001320
+ 9.  your                | Impact: -0.001320
+10.  wish                | Impact: -0.001320
+11.  in                  | Impact: -0.001320
+12.  ,                   | Impact: -0.000738
+13.  .                   | Impact: -0.000738
+14.  and                 | Impact: -0.000643
+15.  %                   | Impact: -0.000643
+16.  would               | Impact: -0.000643
+17.  be                  | Impact: -0.000643
+18.  for                 | Impact: -0.000643
+19.  me                  | Impact: -0.000643
+20.  and                 | Impact: -0.000643

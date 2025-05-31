@@ -1,0 +1,75 @@
+Sample 350
+==========
+
+Sample text preview: To : NYISO Business Issues Committee What : Additional Material () For : Business Issues Committee Meeting When: December , Attached, please find addi...
+
+Model prediction: [9.9974233e-01 2.5767554e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  services            | Impact: 0.013279 → PHISHING
+ 2.  kristen             | Impact: -0.013177 → LEGITIMATE
+ 3.  ny                  | Impact: -0.009681 → LEGITIMATE
+ 4.  agenda              | Impact: -0.009326 → LEGITIMATE
+ 5.  technical           | Impact: -0.008714 → LEGITIMATE
+ 6.  pdf                 | Impact: 0.007700 → PHISHING
+ 7.  -                   | Impact: 0.006916 → PHISHING
+ 8. ran                  | Impact: -0.006674 → LEGITIMATE
+ 9.  pdf                 | Impact: 0.006341 → PHISHING
+10.  -                   | Impact: 0.006116 → PHISHING
+11.  fa                  | Impact: 0.006026 → PHISHING
+12.  #                   | Impact: 0.005959 → PHISHING
+13.  )                   | Impact: -0.005089 → LEGITIMATE
+14.  -                   | Impact: 0.005048 → PHISHING
+15. iso                  | Impact: -0.004170 → LEGITIMATE
+16. z                    | Impact: -0.003855 → LEGITIMATE
+17.  agenda              | Impact: -0.003500 → LEGITIMATE
+18.  .                   | Impact: -0.003438 → LEGITIMATE
+19.  item                | Impact: -0.002862 → LEGITIMATE
+20.  committee           | Impact: -0.002799 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  services            | Impact: 0.013279
+ 2.  pdf                 | Impact: 0.007700
+ 3.  -                   | Impact: 0.006916
+ 4.  pdf                 | Impact: 0.006341
+ 5.  -                   | Impact: 0.006116
+ 6.  fa                  | Impact: 0.006026
+ 7.  #                   | Impact: 0.005959
+ 8.  -                   | Impact: 0.005048
+ 9.  -                   | Impact: 0.002722
+10.  covered             | Impact: 0.002509
+11.  business            | Impact: 0.002447
+12.  will                | Impact: 0.002253
+13.  find                | Impact: 0.002050
+14.  b                   | Impact: 0.001884
+15.  k                   | Impact: 0.001821
+16. x                    | Impact: 0.001385
+17.  (                   | Impact: 0.001363
+18.  be                  | Impact: 0.001324
+19.  ,                   | Impact: 0.001104
+20.  additional          | Impact: 0.001099
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  kristen             | Impact: -0.013177
+ 2.  ny                  | Impact: -0.009681
+ 3.  agenda              | Impact: -0.009326
+ 4.  technical           | Impact: -0.008714
+ 5. ran                  | Impact: -0.006674
+ 6.  )                   | Impact: -0.005089
+ 7. iso                  | Impact: -0.004170
+ 8. z                    | Impact: -0.003855
+ 9.  agenda              | Impact: -0.003500
+10.  .                   | Impact: -0.003438
+11.  item                | Impact: -0.002862
+12.  committee           | Impact: -0.002799
+13.  agenda              | Impact: -0.002692
+14.  material            | Impact: -0.002547
+15.  issues              | Impact: -0.002462
+16. ion                  | Impact: -0.002358
+17.  please              | Impact: -0.002329
+18.  :                   | Impact: -0.002168
+19.  that                | Impact: -0.002082
+20.  meeting             | Impact: -0.002003

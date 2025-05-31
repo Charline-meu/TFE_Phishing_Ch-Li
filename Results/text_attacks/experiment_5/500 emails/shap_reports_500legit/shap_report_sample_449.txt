@@ -1,0 +1,75 @@
+Sample 449
+==========
+
+Sample text preview: burga.com [North Star - Samsung Galaxy S Plus Case]( [North Star - Samsung Galaxy S Plus Case]( Love us but not our emails? [Click here]( to control w...
+
+Model prediction: [9.9965596e-01 3.4399258e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ©                   | Impact: 0.052922 → PHISHING
+ 2.  ©                   | Impact: 0.024772 → PHISHING
+ 3.  (                   | Impact: -0.020538 → LEGITIMATE
+ 4.  |                   | Impact: 0.016863 → PHISHING
+ 5.  click               | Impact: 0.011244 → PHISHING
+ 6. unas                 | Impact: -0.010592 → LEGITIMATE
+ 7.  :                   | Impact: -0.010483 → LEGITIMATE
+ 8. ish                  | Impact: -0.010483 → LEGITIMATE
+ 9.  your                | Impact: 0.009654 → PHISHING
+10.  ,                   | Impact: 0.009511 → PHISHING
+11.  (                   | Impact: -0.009135 → LEGITIMATE
+12.  but                 | Impact: -0.007901 → LEGITIMATE
+13.  [                   | Impact: -0.006288 → LEGITIMATE
+14.  .                   | Impact: -0.005592 → LEGITIMATE
+15.  eu                  | Impact: -0.005470 → LEGITIMATE
+16.  love                | Impact: 0.005193 → PHISHING
+17.  ka                  | Impact: -0.005117 → LEGITIMATE
+18. iu                   | Impact: -0.004992 → LEGITIMATE
+19.  ga                  | Impact: -0.004108 → LEGITIMATE
+20.  .                   | Impact: -0.004086 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.052922
+ 2.  ©                   | Impact: 0.024772
+ 3.  |                   | Impact: 0.016863
+ 4.  click               | Impact: 0.011244
+ 5.  your                | Impact: 0.009654
+ 6.  ,                   | Impact: 0.009511
+ 7.  love                | Impact: 0.005193
+ 8.  us                  | Impact: 0.003845
+ 9.  here                | Impact: 0.002876
+10.  %                   | Impact: 0.002563
+11. nu                   | Impact: 0.002549
+12.  reserved            | Impact: 0.002044
+13.  |                   | Impact: 0.001908
+14.  be                  | Impact: 0.001156
+15.  rights              | Impact: 0.001109
+16.  bu                  | Impact: 0.001003
+17.  will                | Impact: 0.000848
+18. box                  | Impact: 0.000643
+19.  reserved            | Impact: 0.000560
+20.  your                | Impact: 0.000522
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.020538
+ 2. unas                 | Impact: -0.010592
+ 3.  :                   | Impact: -0.010483
+ 4. ish                  | Impact: -0.010483
+ 5.  (                   | Impact: -0.009135
+ 6.  but                 | Impact: -0.007901
+ 7.  [                   | Impact: -0.006288
+ 8.  .                   | Impact: -0.005592
+ 9.  eu                  | Impact: -0.005470
+10.  ka                  | Impact: -0.005117
+11. iu                   | Impact: -0.004992
+12.  ga                  | Impact: -0.004108
+13.  .                   | Impact: -0.004086
+14.  .                   | Impact: -0.003927
+15.  bu                  | Impact: -0.003662
+16.  ]                   | Impact: -0.003426
+17.  :                   | Impact: -0.002874
+18. unas                 | Impact: -0.002779
+19. iz                   | Impact: -0.002596
+20.  st                  | Impact: -0.002592

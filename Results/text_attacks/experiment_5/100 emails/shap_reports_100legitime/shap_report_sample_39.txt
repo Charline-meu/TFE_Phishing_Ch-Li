@@ -1,0 +1,75 @@
+Phishing Sample 39
+==================
+
+Sample text preview: Date: Thu, Aug :: - From: Chris Garrigues Message-ID: | hmmm, I assume you're going to report this to the nmh folks? Yes, I will, sometime, after I lo...
+
+Model prediction: [9.9966598e-01 3.3403074e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.006766 → PHISHING
+ 2.  assume              | Impact: 0.003970 → PHISHING
+ 3.  the                 | Impact: -0.003737 → LEGITIMATE
+ 4.  report              | Impact: -0.003202 → LEGITIMATE
+ 5.  to                  | Impact: -0.003029 → LEGITIMATE
+ 6.  going               | Impact: -0.002830 → LEGITIMATE
+ 7.  i                   | Impact: 0.002281 → PHISHING
+ 8.  follows             | Impact: -0.001830 → LEGITIMATE
+ 9.  folks               | Impact: 0.001595 → PHISHING
+10.  patch               | Impact: -0.001509 → LEGITIMATE
+11.  this                | Impact: -0.001422 → LEGITIMATE
+12.  to                  | Impact: -0.001285 → LEGITIMATE
+13.  re                  | Impact: -0.001250 → LEGITIMATE
+14.  hmm                 | Impact: -0.001143 → LEGITIMATE
+15. m                    | Impact: -0.001143 → LEGITIMATE
+16.  '                   | Impact: -0.000991 → LEGITIMATE
+17.  ?                   | Impact: 0.000892 → PHISHING
+18.  ga                  | Impact: -0.000784 → LEGITIMATE
+19. rri                  | Impact: -0.000784 → LEGITIMATE
+20. gues                 | Impact: -0.000784 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.006766
+ 2.  assume              | Impact: 0.003970
+ 3.  i                   | Impact: 0.002281
+ 4.  folks               | Impact: 0.001595
+ 5.  ?                   | Impact: 0.000892
+ 6.  don                 | Impact: 0.000635
+ 7.  '                   | Impact: 0.000635
+ 8.  @                   | Impact: 0.000552
+ 9.  @                   | Impact: 0.000552
+10.  -                   | Impact: 0.000552
+11.  t                   | Impact: 0.000435
+12.  th                  | Impact: 0.000415
+13. u                    | Impact: 0.000415
+14.  ,                   | Impact: 0.000415
+15.  _                   | Impact: 0.000333
+16.  _                   | Impact: 0.000333
+17.  _                   | Impact: 0.000333
+18.  _                   | Impact: 0.000333
+19.  }                   | Impact: 0.000315
+20.  {                   | Impact: 0.000315
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.003737
+ 2.  report              | Impact: -0.003202
+ 3.  to                  | Impact: -0.003029
+ 4.  going               | Impact: -0.002830
+ 5.  follows             | Impact: -0.001830
+ 6.  patch               | Impact: -0.001509
+ 7.  this                | Impact: -0.001422
+ 8.  to                  | Impact: -0.001285
+ 9.  re                  | Impact: -0.001250
+10.  hmm                 | Impact: -0.001143
+11. m                    | Impact: -0.001143
+12.  '                   | Impact: -0.000991
+13.  ga                  | Impact: -0.000784
+14. rri                  | Impact: -0.000784
+15. gues                 | Impact: -0.000784
+16.  message             | Impact: -0.000756
+17.  -                   | Impact: -0.000756
+18.  +                   | Impact: -0.000673
+19.  after               | Impact: -0.000636
+20.  i                   | Impact: -0.000636

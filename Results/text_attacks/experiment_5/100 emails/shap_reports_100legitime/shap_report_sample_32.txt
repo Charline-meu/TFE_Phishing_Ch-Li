@@ -1,0 +1,75 @@
+Phishing Sample 32
+==================
+
+Sample text preview: Just heard this on an IEP call and wanted to pass it along. SoCal gas has announced that it may have to curtail gas to power plants this summer. SoCal...
+
+Model prediction: [9.9971181e-01 2.8811704e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.008853 → LEGITIMATE
+ 2.  -                   | Impact: 0.005730 → PHISHING
+ 3.  gas                 | Impact: -0.004888 → LEGITIMATE
+ 4.  :                   | Impact: -0.003864 → LEGITIMATE
+ 5.  corp                | Impact: 0.003781 → PHISHING
+ 6.  en                  | Impact: -0.003166 → LEGITIMATE
+ 7.  wanted              | Impact: 0.002889 → PHISHING
+ 8.  this                | Impact: 0.002877 → PHISHING
+ 9.  it                  | Impact: -0.002863 → LEGITIMATE
+10.  announced           | Impact: 0.002710 → PHISHING
+11.  )                   | Impact: 0.002490 → PHISHING
+12.  :                   | Impact: -0.002254 → LEGITIMATE
+13.  ie                  | Impact: -0.002179 → LEGITIMATE
+14.  )                   | Impact: 0.002011 → PHISHING
+15.  soc                 | Impact: -0.001961 → LEGITIMATE
+16.  and                 | Impact: -0.001929 → LEGITIMATE
+17.  .                   | Impact: -0.001772 → LEGITIMATE
+18.  apparently          | Impact: -0.001723 → LEGITIMATE
+19.  .                   | Impact: -0.001522 → LEGITIMATE
+20.  on                  | Impact: -0.001431 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  -                   | Impact: 0.005730
+ 2.  corp                | Impact: 0.003781
+ 3.  wanted              | Impact: 0.002889
+ 4.  this                | Impact: 0.002877
+ 5.  announced           | Impact: 0.002710
+ 6.  )                   | Impact: 0.002490
+ 7.  )                   | Impact: 0.002011
+ 8.  -                   | Impact: 0.001337
+ 9.  may                 | Impact: 0.001079
+10.  tel                 | Impact: 0.000996
+11.  .                   | Impact: 0.000751
+12.  fa                  | Impact: 0.000687
+13. x                    | Impact: 0.000658
+14.  call                | Impact: 0.000553
+15.  have                | Impact: 0.000411
+16.  that                | Impact: 0.000296
+17.  ,                   | Impact: 0.000171
+18.  has                 | Impact: 0.000164
+19. ail                  | Impact: 0.000067
+20.  curt                | Impact: 0.000023
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.008853
+ 2.  gas                 | Impact: -0.004888
+ 3.  :                   | Impact: -0.003864
+ 4.  en                  | Impact: -0.003166
+ 5.  it                  | Impact: -0.002863
+ 6.  :                   | Impact: -0.002254
+ 7.  ie                  | Impact: -0.002179
+ 8.  soc                 | Impact: -0.001961
+ 9.  and                 | Impact: -0.001929
+10.  .                   | Impact: -0.001772
+11.  apparently          | Impact: -0.001723
+12.  .                   | Impact: -0.001522
+13.  on                  | Impact: -0.001431
+14.  pass                | Impact: -0.001342
+15.  (                   | Impact: -0.001339
+16. al                   | Impact: -0.001292
+17.  mara                | Impact: -0.001224
+18.  .                   | Impact: -0.001113
+19.  this                | Impact: -0.001109
+20.  .                   | Impact: -0.001032

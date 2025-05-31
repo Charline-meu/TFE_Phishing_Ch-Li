@@ -1,0 +1,75 @@
+Sample 237
+==========
+
+Sample text preview: Good day. I am writting this letter with due respect and heartful of tears since we have not known or met ourselves previously. I am asking for your a...
+
+Model prediction: [1.540314e-04 9.998460e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.015379 → PHISHING
+ 2.  contact             | Impact: 0.015379 → PHISHING
+ 3.  your                | Impact: 0.012963 → PHISHING
+ 4.  country             | Impact: 0.012963 → PHISHING
+ 5.  your                | Impact: 0.008568 → PHISHING
+ 6.  assistance          | Impact: 0.008568 → PHISHING
+ 7.  across              | Impact: 0.007846 → PHISHING
+ 8.  your                | Impact: 0.007846 → PHISHING
+ 9.  name                | Impact: 0.007846 → PHISHING
+10.  this                | Impact: 0.007692 → PHISHING
+11.  letter              | Impact: 0.007692 → PHISHING
+12.  phi                 | Impact: 0.007623 → PHISHING
+13. ri                   | Impact: 0.007623 → PHISHING
+14.  ab                  | Impact: 0.007623 → PHISHING
+15. oa                   | Impact: 0.007623 → PHISHING
+16.  you                 | Impact: 0.006527 → PHISHING
+17.  to                  | Impact: 0.006527 → PHISHING
+18.  investment          | Impact: 0.005917 → PHISHING
+19.  at                  | Impact: 0.005917 → PHISHING
+20.  from                | Impact: 0.005913 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.015379
+ 2.  contact             | Impact: 0.015379
+ 3.  your                | Impact: 0.012963
+ 4.  country             | Impact: 0.012963
+ 5.  your                | Impact: 0.008568
+ 6.  assistance          | Impact: 0.008568
+ 7.  across              | Impact: 0.007846
+ 8.  your                | Impact: 0.007846
+ 9.  name                | Impact: 0.007846
+10.  this                | Impact: 0.007692
+11.  letter              | Impact: 0.007692
+12.  phi                 | Impact: 0.007623
+13. ri                   | Impact: 0.007623
+14.  ab                  | Impact: 0.007623
+15. oa                   | Impact: 0.007623
+16.  you                 | Impact: 0.006527
+17.  to                  | Impact: 0.006527
+18.  investment          | Impact: 0.005917
+19.  at                  | Impact: 0.005917
+20.  from                | Impact: 0.005913
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  after               | Impact: -0.003717
+ 2.  praying             | Impact: -0.003717
+ 3.  over                | Impact: -0.003717
+ 4.  it                  | Impact: -0.003717
+ 5.  issue               | Impact: -0.002112
+ 6.  to                  | Impact: -0.002112
+ 7.  be                  | Impact: -0.002112
+ 8.  well                | Impact: -0.002112
+ 9.  the                 | Impact: -0.002003
+10.  procedure           | Impact: -0.002003
+11.  to                  | Impact: -0.002003
+12.  this                | Impact: -0.002003
+13.  as                  | Impact: -0.001034
+14.  i                   | Impact: -0.001034
+15.  have                | Impact: -0.001034
+16.  mention             | Impact: -0.001034
+17.  earlier             | Impact: -0.001034
+18.  i                   | Impact: -0.001034
+19.  will                | Impact: -0.001034
+20.  make                | Impact: -0.001034

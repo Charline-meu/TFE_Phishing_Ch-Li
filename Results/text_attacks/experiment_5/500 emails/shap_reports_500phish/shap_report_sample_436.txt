@@ -1,0 +1,70 @@
+Sample 436
+==========
+
+Sample text preview: Dear MB MB We noticed your e-mail account has almost exceed it's limit. And you may not be able to send or receive messages any moment from now, Click...
+
+Model prediction: [1.7293624e-04 9.9982709e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.093628 → PHISHING
+ 2.  account             | Impact: 0.089325 → PHISHING
+ 3.  your                | Impact: 0.065307 → PHISHING
+ 4.  account             | Impact: 0.065283 → PHISHING
+ 5.  service             | Impact: 0.063021 → PHISHING
+ 6.  mail                | Impact: 0.058495 → PHISHING
+ 7.  click               | Impact: 0.055886 → PHISHING
+ 8.  permanently         | Impact: 0.044125 → PHISHING
+ 9.  disabled            | Impact: 0.038574 → PHISHING
+10.  thanks              | Impact: 0.038009 → PHISHING
+11.  account             | Impact: 0.036931 → PHISHING
+12.  account             | Impact: 0.028767 → PHISHING
+13.  your                | Impact: 0.026387 → PHISHING
+14.  moment              | Impact: 0.025993 → PHISHING
+15.  mb                  | Impact: 0.025905 → PHISHING
+16.  renew               | Impact: 0.025374 → PHISHING
+17.  mb                  | Impact: 0.024227 → PHISHING
+18.  your                | Impact: 0.023754 → PHISHING
+19.  mail                | Impact: 0.018667 → PHISHING
+20.  .                   | Impact: -0.017781 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.093628
+ 2.  account             | Impact: 0.089325
+ 3.  your                | Impact: 0.065307
+ 4.  account             | Impact: 0.065283
+ 5.  service             | Impact: 0.063021
+ 6.  mail                | Impact: 0.058495
+ 7.  click               | Impact: 0.055886
+ 8.  permanently         | Impact: 0.044125
+ 9.  disabled            | Impact: 0.038574
+10.  thanks              | Impact: 0.038009
+11.  account             | Impact: 0.036931
+12.  account             | Impact: 0.028767
+13.  your                | Impact: 0.026387
+14.  moment              | Impact: 0.025993
+15.  mb                  | Impact: 0.025905
+16.  renew               | Impact: 0.025374
+17.  mb                  | Impact: 0.024227
+18.  your                | Impact: 0.023754
+19.  mail                | Impact: 0.018667
+20.  send                | Impact: 0.017561
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.017781
+ 2.  ,                   | Impact: -0.012327
+ 3.  .                   | Impact: -0.011401
+ 4.  any                 | Impact: -0.009875
+ 5.  -                   | Impact: -0.009743
+ 6.  e                   | Impact: -0.004849
+ 7.  and                 | Impact: -0.004026
+ 8.  it                  | Impact: -0.003564
+ 9.  to                  | Impact: -0.002044
+10.  almost              | Impact: -0.001879
+11.  or                  | Impact: -0.001869
+12.  noticed             | Impact: -0.001799
+13.  :                   | Impact: -0.000854
+14.  messages            | Impact: -0.000848
+15.  '                   | Impact: -0.000597

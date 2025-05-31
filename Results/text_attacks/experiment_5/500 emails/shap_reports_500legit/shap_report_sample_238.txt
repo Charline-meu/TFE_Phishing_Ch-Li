@@ -1,0 +1,75 @@
+Sample 238
+==========
+
+Sample text preview: Sally, Congratulations on the continued success that you have brought to ENA. (I still get updates from Moscoso.) But cudos to you on the unbeleivable...
+
+Model prediction: [9.9975520e-01 2.4478344e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  opportunity         | Impact: 0.045641 → PHISHING
+ 2. a                    | Impact: -0.039867 → LEGITIMATE
+ 3.  .                   | Impact: -0.033265 → LEGITIMATE
+ 4.  person              | Impact: 0.028010 → PHISHING
+ 5.  better              | Impact: -0.022667 → LEGITIMATE
+ 6.  but                 | Impact: -0.021051 → LEGITIMATE
+ 7.  en                  | Impact: -0.019981 → LEGITIMATE
+ 8. dos                  | Impact: -0.017628 → LEGITIMATE
+ 9.  success             | Impact: 0.016755 → PHISHING
+10.  regards             | Impact: 0.016750 → PHISHING
+11.  your                | Impact: 0.016028 → PHISHING
+12.  kevin               | Impact: -0.014267 → LEGITIMATE
+13.  found               | Impact: 0.010528 → PHISHING
+14.  continued           | Impact: 0.009652 → PHISHING
+15. ei                   | Impact: -0.007865 → LEGITIMATE
+16.  that                | Impact: -0.007463 → LEGITIMATE
+17.  brought             | Impact: 0.006971 → PHISHING
+18.  ,                   | Impact: -0.006945 → LEGITIMATE
+19.  congratulations     | Impact: 0.006913 → PHISHING
+20.  lies                | Impact: 0.006878 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  opportunity         | Impact: 0.045641
+ 2.  person              | Impact: 0.028010
+ 3.  success             | Impact: 0.016755
+ 4.  regards             | Impact: 0.016750
+ 5.  your                | Impact: 0.016028
+ 6.  found               | Impact: 0.010528
+ 7.  continued           | Impact: 0.009652
+ 8.  brought             | Impact: 0.006971
+ 9.  congratulations     | Impact: 0.006913
+10.  lies                | Impact: 0.006878
+11.  .                   | Impact: 0.006065
+12.  to                  | Impact: 0.004947
+13.  in                  | Impact: 0.003989
+14.  position            | Impact: 0.003796
+15.  to                  | Impact: 0.003320
+16.  they                | Impact: 0.002678
+17.  couldn              | Impact: 0.002623
+18.  have                | Impact: 0.002533
+19.  you                 | Impact: 0.001761
+20.  you                 | Impact: 0.001714
+
+Top features pushing towards LEGITIMATE classification:
+ 1. a                    | Impact: -0.039867
+ 2.  .                   | Impact: -0.033265
+ 3.  better              | Impact: -0.022667
+ 4.  but                 | Impact: -0.021051
+ 5.  en                  | Impact: -0.019981
+ 6. dos                  | Impact: -0.017628
+ 7.  kevin               | Impact: -0.014267
+ 8. ei                   | Impact: -0.007865
+ 9.  that                | Impact: -0.007463
+10.  ,                   | Impact: -0.006945
+11.  cu                  | Impact: -0.006219
+12.  and                 | Impact: -0.004954
+13.  updates             | Impact: -0.003612
+14.  sally               | Impact: -0.003378
+15.  on                  | Impact: -0.003127
+16.  get                 | Impact: -0.002865
+17.  .                   | Impact: -0.002856
+18.  .                   | Impact: -0.002827
+19.  on                  | Impact: -0.002780
+20.  a                   | Impact: -0.002609

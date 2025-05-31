@@ -1,0 +1,75 @@
+Sample 10
+=========
+
+Sample text preview: beberg, would you rather into plastics too, schuman -----Original Message----- From: Behalf Of Joseph S. Barrera III Sent: Sunday, September , : PM To...
+
+Model prediction: [9.9971312e-01 2.8687515e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  .                   | Impact: -0.022848 → LEGITIMATE
+ 2.  deed                | Impact: 0.021416 → PHISHING
+ 3.  your                | Impact: 0.019377 → PHISHING
+ 4.  only                | Impact: 0.019377 → PHISHING
+ 5.  protector           | Impact: 0.016839 → PHISHING
+ 6.  joe                 | Impact: -0.016532 → LEGITIMATE
+ 7.  -                   | Impact: -0.015187 → LEGITIMATE
+ 8.  boogie              | Impact: -0.010881 → LEGITIMATE
+ 9. pop                  | Impact: -0.010881 → LEGITIMATE
+10.  your                | Impact: 0.008716 → PHISHING
+11.  father              | Impact: 0.008716 → PHISHING
+12.  funny               | Impact: -0.008275 → LEGITIMATE
+13.  .                   | Impact: 0.007612 → PHISHING
+14.  -                   | Impact: -0.006909 → LEGITIMATE
+15.  -                   | Impact: -0.006909 → LEGITIMATE
+16.  man                 | Impact: 0.006630 → PHISHING
+17.  who                 | Impact: 0.006630 → PHISHING
+18.  your                | Impact: 0.005977 → PHISHING
+19.  mother              | Impact: 0.005977 → PHISHING
+20.  and                 | Impact: 0.005175 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  deed                | Impact: 0.021416
+ 2.  your                | Impact: 0.019377
+ 3.  only                | Impact: 0.019377
+ 4.  protector           | Impact: 0.016839
+ 5.  your                | Impact: 0.008716
+ 6.  father              | Impact: 0.008716
+ 7.  .                   | Impact: 0.007612
+ 8.  man                 | Impact: 0.006630
+ 9.  who                 | Impact: 0.006630
+10.  your                | Impact: 0.005977
+11.  mother              | Impact: 0.005977
+12.  and                 | Impact: 0.005175
+13.  denies              | Impact: 0.004739
+14.  that                | Impact: 0.004739
+15.  of                  | Impact: 0.004303
+16.  your                | Impact: 0.004303
+17.  interests           | Impact: 0.004303
+18.  .                   | Impact: 0.004048
+19.  .                   | Impact: 0.003763
+20.  ?                   | Impact: 0.003505
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.022848
+ 2.  joe                 | Impact: -0.016532
+ 3.  -                   | Impact: -0.015187
+ 4.  boogie              | Impact: -0.010881
+ 5. pop                  | Impact: -0.010881
+ 6.  funny               | Impact: -0.008275
+ 7.  -                   | Impact: -0.006909
+ 8.  -                   | Impact: -0.006909
+ 9.  the                 | Impact: -0.004634
+10.  adam                | Impact: -0.004115
+11.  knows               | Impact: -0.004115
+12.  what                | Impact: -0.004115
+13.  anime               | Impact: -0.004115
+14.  get                 | Impact: -0.003779
+15.  any                 | Impact: -0.003779
+16.  points              | Impact: -0.003779
+17.  ,                   | Impact: -0.003004
+18.  ,                   | Impact: -0.002972
+19.  didn                | Impact: -0.002938
+20.  '                   | Impact: -0.002938

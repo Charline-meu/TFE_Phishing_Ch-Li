@@ -1,0 +1,66 @@
+Sample 98
+=========
+
+Sample text preview: Dear , Your Web mail Has Exceeded It Quota/Limit As Set By Your Administration, And You May Not Be Able To Send Or Receive New Mails Until You Re-Vali...
+
+Model prediction: [1.7825581e-04 9.9982172e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.080763 → PHISHING
+ 2.  your                | Impact: 0.066758 → PHISHING
+ 3.  click               | Impact: 0.063155 → PHISHING
+ 4.  account             | Impact: 0.060354 → PHISHING
+ 5.  valid               | Impact: 0.059914 → PHISHING
+ 6.  your                | Impact: 0.058048 → PHISHING
+ 7.  mail                | Impact: 0.056052 → PHISHING
+ 8.  your                | Impact: 0.053808 → PHISHING
+ 9.  receive             | Impact: 0.049324 → PHISHING
+10.  team                | Impact: 0.047888 → PHISHING
+11.  mail                | Impact: 0.037982 → PHISHING
+12.  account             | Impact: 0.033228 → PHISHING
+13.  regards             | Impact: -0.029357 → LEGITIMATE
+14.  here                | Impact: 0.027443 → PHISHING
+15.  email               | Impact: 0.026025 → PHISHING
+16.  new                 | Impact: 0.024149 → PHISHING
+17.  web                 | Impact: 0.022025 → PHISHING
+18.  this                | Impact: 0.019969 → PHISHING
+19.  permanent           | Impact: 0.019285 → PHISHING
+20.  /                   | Impact: 0.018033 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.080763
+ 2.  your                | Impact: 0.066758
+ 3.  click               | Impact: 0.063155
+ 4.  account             | Impact: 0.060354
+ 5.  valid               | Impact: 0.059914
+ 6.  your                | Impact: 0.058048
+ 7.  mail                | Impact: 0.056052
+ 8.  your                | Impact: 0.053808
+ 9.  receive             | Impact: 0.049324
+10.  team                | Impact: 0.047888
+11.  mail                | Impact: 0.037982
+12.  account             | Impact: 0.033228
+13.  here                | Impact: 0.027443
+14.  email               | Impact: 0.026025
+15.  new                 | Impact: 0.024149
+16.  web                 | Impact: 0.022025
+17.  this                | Impact: 0.019969
+18.  permanent           | Impact: 0.019285
+19.  /                   | Impact: 0.018033
+20.  follow              | Impact: 0.013202
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  regards             | Impact: -0.029357
+ 2. ate                  | Impact: -0.013182
+ 3.  ,                   | Impact: -0.012252
+ 4. bra                  | Impact: -0.008229
+ 5. ate                  | Impact: -0.003082
+ 6.  .                   | Impact: -0.002605
+ 7.  ,                   | Impact: -0.001468
+ 8.  to                  | Impact: -0.000488
+ 9.  re                  | Impact: -0.000488
+10.  -                   | Impact: -0.000488
+11.  .                   | Impact: -0.000376

@@ -1,0 +1,75 @@
+Phishing Sample 3
+=================
+
+Sample text preview: Dearest in the Lord, Greetings to you and your family, I am Mrs VILLARAN NENITA, from Philippines. I am married to Mr. MARIO NENITA who worked with Ph...
+
+Model prediction: [1.9546194e-04 9.9980456e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  in                  | Impact: 0.017943 → PHISHING
+ 2.  ivory               | Impact: 0.017943 → PHISHING
+ 3.  coast               | Impact: 0.017943 → PHISHING
+ 4.  ,                   | Impact: 0.017943 → PHISHING
+ 5.  shall               | Impact: 0.010190 → PHISHING
+ 6.  give                | Impact: 0.010190 → PHISHING
+ 7.  you                 | Impact: 0.010190 → PHISHING
+ 8.  the                 | Impact: 0.010190 → PHISHING
+ 9.  contact             | Impact: 0.010190 → PHISHING
+10.  of                  | Impact: 0.010190 → PHISHING
+11.  the                 | Impact: 0.010190 → PHISHING
+12.  bank                | Impact: 0.010190 → PHISHING
+13.  have                | Impact: 0.006872 → PHISHING
+14.  any                 | Impact: 0.006872 → PHISHING
+15.  child               | Impact: 0.006872 → PHISHING
+16.  that                | Impact: 0.006872 → PHISHING
+17.  will                | Impact: 0.006872 → PHISHING
+18.  inherit             | Impact: 0.006872 → PHISHING
+19.  this                | Impact: 0.006872 → PHISHING
+20.  money               | Impact: 0.006872 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  in                  | Impact: 0.017943
+ 2.  ivory               | Impact: 0.017943
+ 3.  coast               | Impact: 0.017943
+ 4.  ,                   | Impact: 0.017943
+ 5.  shall               | Impact: 0.010190
+ 6.  give                | Impact: 0.010190
+ 7.  you                 | Impact: 0.010190
+ 8.  the                 | Impact: 0.010190
+ 9.  contact             | Impact: 0.010190
+10.  of                  | Impact: 0.010190
+11.  the                 | Impact: 0.010190
+12.  bank                | Impact: 0.010190
+13.  have                | Impact: 0.006872
+14.  any                 | Impact: 0.006872
+15.  child               | Impact: 0.006872
+16.  that                | Impact: 0.006872
+17.  will                | Impact: 0.006872
+18.  inherit             | Impact: 0.006872
+19.  this                | Impact: 0.006872
+20.  money               | Impact: 0.006872
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  exodus              | Impact: -0.002048
+ 2.  vs                  | Impact: -0.002048
+ 3.  says                | Impact: -0.002048
+ 4.  that                | Impact: -0.002048
+ 5.  "                   | Impact: -0.002048
+ 6.  the                 | Impact: -0.002048
+ 7.  lord                | Impact: -0.002048
+ 8.  will                | Impact: -0.002048
+ 9.  the                 | Impact: -0.000605
+10.  bible               | Impact: -0.000605
+11.  made                | Impact: -0.000605
+12.  us                  | Impact: -0.000605
+13.  to                  | Impact: -0.000605
+14.  understand          | Impact: -0.000605
+15.  that                | Impact: -0.000605
+16.  "                   | Impact: -0.000605
+17.  i                   | Impact: -0.000505
+18.  shall               | Impact: -0.000505
+19.  hold                | Impact: -0.000505
+20.  my                  | Impact: -0.000505

@@ -1,0 +1,75 @@
+Sample 497
+==========
+
+Sample text preview: >>>>> "J" == Justin Mason writes: J> What about Tibetan Buddhism BTW? They seem like an awfully J> nice bunch of chaps (and chapesses). Yes, them too....
+
+Model prediction: [9.9978215e-01 2.1783209e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  water               | Impact: -0.010084 → LEGITIMATE
+ 2.  there               | Impact: 0.008810 → PHISHING
+ 3.  you                 | Impact: 0.008781 → PHISHING
+ 4.  writes              | Impact: -0.008671 → LEGITIMATE
+ 5.  .                   | Impact: -0.007902 → LEGITIMATE
+ 6.  arrived             | Impact: 0.007880 → PHISHING
+ 7.  chinese             | Impact: 0.007156 → PHISHING
+ 8.  >                   | Impact: -0.006879 → LEGITIMATE
+ 9.  hole                | Impact: -0.006741 → LEGITIMATE
+10.  sam                 | Impact: -0.006041 → LEGITIMATE
+11. ska                  | Impact: -0.006041 → LEGITIMATE
+12.  years               | Impact: 0.006023 → PHISHING
+13.  picasso             | Impact: -0.006001 → LEGITIMATE
+14.  )                   | Impact: -0.006001 → LEGITIMATE
+15.  happened            | Impact: 0.005509 → PHISHING
+16. r                    | Impact: -0.005477 → LEGITIMATE
+17.  killing             | Impact: 0.005090 → PHISHING
+18.  >                   | Impact: -0.004981 → LEGITIMATE
+19.  =                   | Impact: 0.004550 → PHISHING
+20.  had                 | Impact: 0.004424 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  there               | Impact: 0.008810
+ 2.  you                 | Impact: 0.008781
+ 3.  arrived             | Impact: 0.007880
+ 4.  chinese             | Impact: 0.007156
+ 5.  years               | Impact: 0.006023
+ 6.  happened            | Impact: 0.005509
+ 7.  killing             | Impact: 0.005090
+ 8.  =                   | Impact: 0.004550
+ 9.  had                 | Impact: 0.004424
+10.  been                | Impact: 0.004373
+11.  =                   | Impact: 0.004298
+12.  in                  | Impact: 0.004032
+13.  over                | Impact: 0.004032
+14.  ago                 | Impact: 0.003634
+15.  a                   | Impact: 0.003621
+16.  not                 | Impact: 0.003490
+17.  "                   | Impact: 0.003462
+18.  several             | Impact: 0.003076
+19.  generations         | Impact: 0.003076
+20.  cliffs              | Impact: 0.003012
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  water               | Impact: -0.010084
+ 2.  writes              | Impact: -0.008671
+ 3.  .                   | Impact: -0.007902
+ 4.  >                   | Impact: -0.006879
+ 5.  hole                | Impact: -0.006741
+ 6.  sam                 | Impact: -0.006041
+ 7. ska                  | Impact: -0.006041
+ 8.  picasso             | Impact: -0.006001
+ 9.  )                   | Impact: -0.006001
+10. r                    | Impact: -0.005477
+11.  >                   | Impact: -0.004981
+12.  mason               | Impact: -0.004258
+13.  ,                   | Impact: -0.003858
+14.  (                   | Impact: -0.003709
+15.  "                   | Impact: -0.003284
+16.  seem                | Impact: -0.003082
+17.  ,                   | Impact: -0.003075
+18.  nice                | Impact: -0.002801
+19.  justin              | Impact: -0.002789
+20. ly                   | Impact: -0.002699

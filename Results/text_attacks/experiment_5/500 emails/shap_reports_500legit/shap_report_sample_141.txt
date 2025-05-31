@@ -1,0 +1,75 @@
+Sample 141
+==========
+
+Sample text preview: vivify (VIV-i-FY) verb tr. . To endow with life; animate. . To impart vitality or liveliness. [From Latin vivus (alive) via Late Latin vivificare.] "Y...
+
+Model prediction: [9.995720e-01 4.280313e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.010255 → PHISHING
+ 2.  verbs               | Impact: -0.009543 → LEGITIMATE
+ 3.  live                | Impact: 0.007779 → PHISHING
+ 4.  ohio                | Impact: -0.006337 → LEGITIMATE
+ 5.  tr                  | Impact: -0.006047 → LEGITIMATE
+ 6.  oscar               | Impact: -0.005952 → LEGITIMATE
+ 7.  theme               | Impact: -0.005728 → LEGITIMATE
+ 8.  :                   | Impact: -0.005728 → LEGITIMATE
+ 9. imate                | Impact: -0.005203 → LEGITIMATE
+10.  (                   | Impact: -0.005103 → LEGITIMATE
+11.  verb                | Impact: -0.005026 → LEGITIMATE
+12.  -                   | Impact: -0.004518 → LEGITIMATE
+13.  .                   | Impact: -0.004384 → LEGITIMATE
+14.  -                   | Impact: -0.004061 → LEGITIMATE
+15.  )                   | Impact: -0.004061 → LEGITIMATE
+16.  are                 | Impact: 0.003979 → PHISHING
+17.  (                   | Impact: 0.003932 → PHISHING
+18.  an                  | Impact: -0.002986 → LEGITIMATE
+19.  pm                  | Impact: -0.002925 → LEGITIMATE
+20.  .                   | Impact: -0.002821 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.010255
+ 2.  live                | Impact: 0.007779
+ 3.  are                 | Impact: 0.003979
+ 4.  (                   | Impact: 0.003932
+ 5.  aw                  | Impact: 0.001772
+ 6. ad                   | Impact: 0.001772
+ 7.  with                | Impact: 0.001270
+ 8.  life                | Impact: 0.001270
+ 9.  vi                  | Impact: 0.001216
+10. v                    | Impact: 0.001216
+11.  culture             | Impact: 0.001080
+12.  with                | Impact: 0.001080
+13.  vi                  | Impact: 0.000710
+14. vi                   | Impact: 0.000710
+15.  ;                   | Impact: 0.000709
+16.  alive               | Impact: 0.000644
+17.  )                   | Impact: 0.000644
+18.  f                   | Impact: 0.000550
+19. y                    | Impact: 0.000550
+20.  )                   | Impact: 0.000550
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  verbs               | Impact: -0.009543
+ 2.  ohio                | Impact: -0.006337
+ 3.  tr                  | Impact: -0.006047
+ 4.  oscar               | Impact: -0.005952
+ 5.  theme               | Impact: -0.005728
+ 6.  :                   | Impact: -0.005728
+ 7. imate                | Impact: -0.005203
+ 8.  (                   | Impact: -0.005103
+ 9.  verb                | Impact: -0.005026
+10.  -                   | Impact: -0.004518
+11.  .                   | Impact: -0.004384
+12.  -                   | Impact: -0.004061
+13.  )                   | Impact: -0.004061
+14.  an                  | Impact: -0.002986
+15.  pm                  | Impact: -0.002925
+16.  .                   | Impact: -0.002821
+17.  .                   | Impact: -0.002798
+18.  invited             | Impact: -0.002735
+19.  ]                   | Impact: -0.002469
+20.  "                   | Impact: -0.002238

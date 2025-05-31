@@ -1,0 +1,75 @@
+Phishing Sample 92
+==================
+
+Sample text preview: What are the best options available on Linux ? SFTP ? WebDAV ? Something else ? Linux servers - Linux and Mac OS-X clients. Niall -- Irish Linux Users...
+
+Model prediction: [9.9979490e-01 2.0512892e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  something           | Impact: -0.081279 → LEGITIMATE
+ 2.  available           | Impact: 0.050079 → PHISHING
+ 3.  web                 | Impact: 0.040997 → PHISHING
+ 4.  niall               | Impact: -0.038628 → LEGITIMATE
+ 5. dav                  | Impact: 0.030669 → PHISHING
+ 6.  users               | Impact: 0.029461 → PHISHING
+ 7. tp                   | Impact: 0.028017 → PHISHING
+ 8.  ?                   | Impact: -0.027872 → LEGITIMATE
+ 9.  else                | Impact: -0.027248 → LEGITIMATE
+10.  subscription        | Impact: 0.023204 → PHISHING
+11.  linux               | Impact: -0.021484 → LEGITIMATE
+12.  ?                   | Impact: 0.020546 → PHISHING
+13.  options             | Impact: -0.020383 → LEGITIMATE
+14.  clients             | Impact: 0.018110 → PHISHING
+15.  what                | Impact: -0.014909 → LEGITIMATE
+16.  on                  | Impact: 0.014332 → PHISHING
+17.  best                | Impact: -0.014148 → LEGITIMATE
+18.  os                  | Impact: -0.012173 → LEGITIMATE
+19.  un                  | Impact: -0.011351 → LEGITIMATE
+20.  group               | Impact: -0.010730 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  available           | Impact: 0.050079
+ 2.  web                 | Impact: 0.040997
+ 3. dav                  | Impact: 0.030669
+ 4.  users               | Impact: 0.029461
+ 5. tp                   | Impact: 0.028017
+ 6.  subscription        | Impact: 0.023204
+ 7.  ?                   | Impact: 0.020546
+ 8.  clients             | Impact: 0.018110
+ 9.  on                  | Impact: 0.014332
+10.  sf                  | Impact: 0.010069
+11.  )                   | Impact: 0.009051
+12.  -                   | Impact: 0.007364
+13.  :                   | Impact: 0.006734
+14.  :                   | Impact: 0.004578
+15.  x                   | Impact: 0.004272
+16.  (                   | Impact: 0.003782
+17.  -                   | Impact: 0.003418
+18.  and                 | Impact: 0.003012
+19.  ?                   | Impact: 0.002942
+20.  linux               | Impact: 0.002037
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  something           | Impact: -0.081279
+ 2.  niall               | Impact: -0.038628
+ 3.  ?                   | Impact: -0.027872
+ 4.  else                | Impact: -0.027248
+ 5.  linux               | Impact: -0.021484
+ 6.  options             | Impact: -0.020383
+ 7.  what                | Impact: -0.014909
+ 8.  best                | Impact: -0.014148
+ 9.  os                  | Impact: -0.012173
+10.  un                  | Impact: -0.011351
+11.  group               | Impact: -0.010730
+12.  are                 | Impact: -0.008175
+13.  irish               | Impact: -0.008157
+14.                      | Impact: -0.007366
+15.  '                   | Impact: -0.007252
+16.  the                 | Impact: -0.007195
+17.  mac                 | Impact: -0.007113
+18.  .                   | Impact: -0.006866
+19.  maintain            | Impact: -0.006584
+20. er                   | Impact: -0.005682

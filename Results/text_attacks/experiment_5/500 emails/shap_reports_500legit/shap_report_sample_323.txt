@@ -1,0 +1,75 @@
+Sample 323
+==========
+
+Sample text preview: Notice to PTM - coming out today - about the same as last week Strategy for Spring/ Summer - coming out next week - flexibility in light of extreme vo...
+
+Model prediction: [9.9969673e-01 3.0325662e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  document            | Impact: 0.062029 → PHISHING
+ 2.  -                   | Impact: -0.053873 → LEGITIMATE
+ 3.  sent                | Impact: 0.039316 → PHISHING
+ 4.  rain                | Impact: -0.026989 → LEGITIMATE
+ 5.  strategy            | Impact: -0.019125 → LEGITIMATE
+ 6.  you                 | Impact: 0.014527 → PHISHING
+ 7.  today               | Impact: -0.012789 → LEGITIMATE
+ 8.  coming              | Impact: 0.012688 → PHISHING
+ 9.  conservation        | Impact: -0.012137 → LEGITIMATE
+10.  last                | Impact: -0.011576 → LEGITIMATE
+11.  treasury            | Impact: 0.011389 → PHISHING
+12.  flexibility         | Impact: -0.011026 → LEGITIMATE
+13.  .                   | Impact: 0.010556 → PHISHING
+14.  -                   | Impact: -0.010244 → LEGITIMATE
+15.  vol                 | Impact: 0.009808 → PHISHING
+16.  summer              | Impact: -0.009806 → LEGITIMATE
+17.  week                | Impact: -0.009043 → LEGITIMATE
+18.  about               | Impact: -0.008733 → LEGITIMATE
+19.  notice              | Impact: -0.008278 → LEGITIMATE
+20.  short               | Impact: 0.008125 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  document            | Impact: 0.062029
+ 2.  sent                | Impact: 0.039316
+ 3.  you                 | Impact: 0.014527
+ 4.  coming              | Impact: 0.012688
+ 5.  treasury            | Impact: 0.011389
+ 6.  .                   | Impact: 0.010556
+ 7.  vol                 | Impact: 0.009808
+ 8.  short               | Impact: 0.008125
+ 9.  nothing             | Impact: 0.007623
+10.  to                  | Impact: 0.006083
+11.  -                   | Impact: 0.005810
+12.  from                | Impact: 0.005236
+13.  in                  | Impact: 0.004869
+14.  new                 | Impact: 0.004771
+15. ati                  | Impact: 0.004237
+16. lity                 | Impact: 0.003906
+17.  week                | Impact: 0.002904
+18.  without             | Impact: 0.002897
+19.  pt                  | Impact: 0.002144
+20.  -                   | Impact: 0.001731
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.053873
+ 2.  rain                | Impact: -0.026989
+ 3.  strategy            | Impact: -0.019125
+ 4.  today               | Impact: -0.012789
+ 5.  conservation        | Impact: -0.012137
+ 6.  last                | Impact: -0.011576
+ 7.  flexibility         | Impact: -0.011026
+ 8.  -                   | Impact: -0.010244
+ 9.  summer              | Impact: -0.009806
+10.  week                | Impact: -0.009043
+11.  about               | Impact: -0.008733
+12.  notice              | Impact: -0.008278
+13.  spring              | Impact: -0.007879
+14.  i                   | Impact: -0.007796
+15. m                    | Impact: -0.007776
+16.  possible            | Impact: -0.006356
+17.  the                 | Impact: -0.006335
+18.  out                 | Impact: -0.005833
+19. fall                 | Impact: -0.004970
+20.  coming              | Impact: -0.004967

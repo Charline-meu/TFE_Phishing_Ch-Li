@@ -1,0 +1,75 @@
+Sample 389
+==========
+
+Sample text preview: Permit me to first of all introduce myself. My name is Kenneth.c. Ndlovu, the eldest child of Mr Tarcisious Ndlovu from Zimbabwe. During the current c...
+
+Model prediction: [1.5959401e-04 9.9984038e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  child               | Impact: 0.010582 → PHISHING
+ 2.  of                  | Impact: 0.010582 → PHISHING
+ 3.  mr                  | Impact: 0.010582 → PHISHING
+ 4.  the                 | Impact: 0.008524 → PHISHING
+ 5.  eldest              | Impact: 0.008524 → PHISHING
+ 6.  in                  | Impact: 0.006155 → PHISHING
+ 7.  your                | Impact: 0.006155 → PHISHING
+ 8.  country             | Impact: 0.006155 → PHISHING
+ 9.  .                   | Impact: 0.006155 → PHISHING
+10.  my                  | Impact: 0.005566 → PHISHING
+11.  father              | Impact: 0.005566 → PHISHING
+12.  from                | Impact: 0.005003 → PHISHING
+13.  zimbabwe            | Impact: 0.005003 → PHISHING
+14.  .                   | Impact: 0.005003 → PHISHING
+15.  to                  | Impact: 0.004554 → PHISHING
+16.  invest              | Impact: 0.004554 → PHISHING
+17.  my                  | Impact: 0.004554 → PHISHING
+18.  share               | Impact: 0.004554 → PHISHING
+19.  way                 | Impact: -0.004226 → LEGITIMATE
+20.  i                   | Impact: -0.004226 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  child               | Impact: 0.010582
+ 2.  of                  | Impact: 0.010582
+ 3.  mr                  | Impact: 0.010582
+ 4.  the                 | Impact: 0.008524
+ 5.  eldest              | Impact: 0.008524
+ 6.  in                  | Impact: 0.006155
+ 7.  your                | Impact: 0.006155
+ 8.  country             | Impact: 0.006155
+ 9.  .                   | Impact: 0.006155
+10.  my                  | Impact: 0.005566
+11.  father              | Impact: 0.005566
+12.  from                | Impact: 0.005003
+13.  zimbabwe            | Impact: 0.005003
+14.  .                   | Impact: 0.005003
+15.  to                  | Impact: 0.004554
+16.  invest              | Impact: 0.004554
+17.  my                  | Impact: 0.004554
+18.  share               | Impact: 0.004554
+19.  africa              | Impact: 0.004008
+20.  we                  | Impact: 0.004008
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  way                 | Impact: -0.004226
+ 2.  i                   | Impact: -0.004226
+ 3.  packaged            | Impact: -0.004226
+ 4.  the                 | Impact: -0.004226
+ 5.  because             | Impact: -0.004215
+ 6.  >                   | Impact: -0.004215
+ 7.  of                  | Impact: -0.004215
+ 8.  the                 | Impact: -0.004215
+ 9.  before              | Impact: -0.001143
+10.  we                  | Impact: -0.001143
+11.  moved               | Impact: -0.001143
+12.  ,                   | Impact: -0.001143
+13.  we                  | Impact: -0.000697
+14.  were                | Impact: -0.000697
+15.  able                | Impact: -0.000697
+16.  to                  | Impact: -0.000697
+17.  ,                   | Impact: -0.000697
+18.  which               | Impact: -0.000222
+19.  amounted            | Impact: -0.000222
+20.  to                  | Impact: -0.000222

@@ -1,0 +1,75 @@
+Phishing Sample 36
+==================
+
+Sample text preview: Kate, Good morning, hope you had a good weekend. I have run the SAR for Friday's West-BOM piece. The SAR and INC sheet are matching if the mw purchase...
+
+Model prediction: [9.995716e-01 4.283301e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  management          | Impact: -0.009840 → LEGITIMATE
+ 2.  please              | Impact: 0.005980 → PHISHING
+ 3.  make                | Impact: 0.004999 → PHISHING
+ 4.  monday              | Impact: -0.004751 → LEGITIMATE
+ 5.  volume              | Impact: -0.004657 → LEGITIMATE
+ 6.  anderson            | Impact: -0.004556 → LEGITIMATE
+ 7.  saturday            | Impact: -0.004300 → LEGITIMATE
+ 8.  through             | Impact: -0.004300 → LEGITIMATE
+ 9.  john                | Impact: -0.003863 → LEGITIMATE
+10.  is                  | Impact: 0.003150 → PHISHING
+11.  the                 | Impact: 0.002901 → PHISHING
+12.  over                | Impact: 0.002896 → PHISHING
+13.  walk                | Impact: 0.002771 → PHISHING
+14.  under               | Impact: 0.002507 → PHISHING
+15.  accounted           | Impact: 0.002247 → PHISHING
+16.  morning             | Impact: 0.002129 → PHISHING
+17.  this                | Impact: 0.002089 → PHISHING
+18.  hopefully           | Impact: -0.002082 → LEGITIMATE
+19.  everything          | Impact: -0.002082 → LEGITIMATE
+20.  $                   | Impact: 0.002066 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  please              | Impact: 0.005980
+ 2.  make                | Impact: 0.004999
+ 3.  is                  | Impact: 0.003150
+ 4.  the                 | Impact: 0.002901
+ 5.  over                | Impact: 0.002896
+ 6.  walk                | Impact: 0.002771
+ 7.  under               | Impact: 0.002507
+ 8.  accounted           | Impact: 0.002247
+ 9.  morning             | Impact: 0.002129
+10.  this                | Impact: 0.002089
+11.  $                   | Impact: 0.002066
+12.  may                 | Impact: 0.001847
+13.  that                | Impact: 0.001798
+14.  and                 | Impact: 0.001697
+15.  sure                | Impact: 0.001697
+16.  is                  | Impact: 0.001557
+17.  you                 | Impact: 0.001452
+18.  in                  | Impact: 0.001430
+19.  this                | Impact: 0.001203
+20.  flash               | Impact: 0.001103
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  management          | Impact: -0.009840
+ 2.  monday              | Impact: -0.004751
+ 3.  volume              | Impact: -0.004657
+ 4.  anderson            | Impact: -0.004556
+ 5.  saturday            | Impact: -0.004300
+ 6.  through             | Impact: -0.004300
+ 7.  john                | Impact: -0.003863
+ 8.  hopefully           | Impact: -0.002082
+ 9.  everything          | Impact: -0.002082
+10.  weekend             | Impact: -0.002054
+11.  kate                | Impact: -0.001373
+12.  sar                 | Impact: -0.001350
+13.  for                 | Impact: -0.001350
+14.  cut                 | Impact: -0.001350
+15.  .                   | Impact: -0.001325
+16.  mw                  | Impact: -0.001202
+17.  purchase            | Impact: -0.001202
+18.  bill                | Impact: -0.001143
+19.                      | Impact: -0.001143
+20.  .                   | Impact: -0.001133

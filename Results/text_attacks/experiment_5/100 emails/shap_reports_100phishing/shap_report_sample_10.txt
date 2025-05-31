@@ -1,0 +1,55 @@
+Phishing Sample 10
+==================
+
+Sample text preview: Mrs. Grace Obaseki Flat Block NNPC Quarters Garki Abuja Nigeria Email, HELLO DEAR. I presume this letter will come to you as a surprise, but as things...
+
+Model prediction: [1.6494791e-04 9.9983501e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.010912 → PHISHING
+ 2.  country             | Impact: 0.010912 → PHISHING
+ 3.  .                   | Impact: 0.010912 → PHISHING
+ 4.  be                  | Impact: 0.006519 → PHISHING
+ 5.  informed            | Impact: 0.006519 → PHISHING
+ 6.  that                | Impact: 0.006519 → PHISHING
+ 7.  this                | Impact: 0.006519 → PHISHING
+ 8.  this                | Impact: 0.006043 → PHISHING
+ 9.  money               | Impact: 0.006043 → PHISHING
+10.  was                 | Impact: 0.006043 → PHISHING
+11.  deposited           | Impact: 0.006043 → PHISHING
+12.                      | Impact: 0.004689 → PHISHING
+13.  mrs                 | Impact: 0.004689 → PHISHING
+14.  .                   | Impact: 0.004689 → PHISHING
+15.  my                  | Impact: 0.004644 → PHISHING
+16.  husband             | Impact: 0.004644 → PHISHING
+17.  has                 | Impact: 0.004644 → PHISHING
+18.  decided             | Impact: 0.004644 → PHISHING
+19.  money               | Impact: 0.004519 → PHISHING
+20.  is                  | Impact: 0.004519 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.010912
+ 2.  country             | Impact: 0.010912
+ 3.  .                   | Impact: 0.010912
+ 4.  be                  | Impact: 0.006519
+ 5.  informed            | Impact: 0.006519
+ 6.  that                | Impact: 0.006519
+ 7.  this                | Impact: 0.006519
+ 8.  this                | Impact: 0.006043
+ 9.  money               | Impact: 0.006043
+10.  was                 | Impact: 0.006043
+11.  deposited           | Impact: 0.006043
+12.                      | Impact: 0.004689
+13.  mrs                 | Impact: 0.004689
+14.  .                   | Impact: 0.004689
+15.  my                  | Impact: 0.004644
+16.  husband             | Impact: 0.004644
+17.  has                 | Impact: 0.004644
+18.  decided             | Impact: 0.004644
+19.  money               | Impact: 0.004519
+20.  is                  | Impact: 0.004519
+
+Top features pushing towards LEGITIMATE classification:

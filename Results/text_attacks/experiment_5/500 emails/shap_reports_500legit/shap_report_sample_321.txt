@@ -1,0 +1,75 @@
+Sample 321
+==========
+
+Sample text preview: Dear Amazon.com Customer, The holidays are almost here... but our free shipping offer is almost gone. So don't delay--order through December to get fr...
+
+Model prediction: [0.9923592 0.0076408]
+Predicted class: LEGITIMATE with 0.9924 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  holiday             | Impact: -0.082565 → LEGITIMATE
+ 2.  amazon              | Impact: -0.056288 → LEGITIMATE
+ 3.  sincerely           | Impact: 0.046494 → PHISHING
+ 4.  mail                | Impact: 0.029370 → PHISHING
+ 5.  address             | Impact: 0.027332 → PHISHING
+ 6.  click               | Impact: 0.026668 → PHISHING
+ 7.  com                 | Impact: -0.025154 → LEGITIMATE
+ 8.  amazon              | Impact: -0.023158 → LEGITIMATE
+ 9.  .                   | Impact: -0.013379 → LEGITIMATE
+10.  .                   | Impact: -0.011066 → LEGITIMATE
+11.  however             | Impact: -0.010061 → LEGITIMATE
+12.  please              | Impact: 0.009801 → PHISHING
+13.  visit               | Impact: 0.009801 → PHISHING
+14.  com                 | Impact: 0.008728 → PHISHING
+15.  sort                | Impact: -0.008249 → LEGITIMATE
+16.  from                | Impact: -0.008249 → LEGITIMATE
+17.  message             | Impact: 0.007460 → PHISHING
+18.  for                 | Impact: 0.006688 → PHISHING
+19.  yourself            | Impact: 0.006688 → PHISHING
+20.  was                 | Impact: 0.004958 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sincerely           | Impact: 0.046494
+ 2.  mail                | Impact: 0.029370
+ 3.  address             | Impact: 0.027332
+ 4.  click               | Impact: 0.026668
+ 5.  please              | Impact: 0.009801
+ 6.  visit               | Impact: 0.009801
+ 7.  com                 | Impact: 0.008728
+ 8.  message             | Impact: 0.007460
+ 9.  for                 | Impact: 0.006688
+10.  yourself            | Impact: 0.006688
+11.  was                 | Impact: 0.004958
+12.  additional          | Impact: 0.004606
+13.  savings             | Impact: 0.004606
+14.  link                | Impact: 0.004083
+15.  below               | Impact: 0.004083
+16.  ,                   | Impact: 0.003826
+17.  then                | Impact: 0.003626
+18.  loved               | Impact: 0.003474
+19.  ones                | Impact: 0.003474
+20.  with                | Impact: 0.002901
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  holiday             | Impact: -0.082565
+ 2.  amazon              | Impact: -0.056288
+ 3.  com                 | Impact: -0.025154
+ 4.  amazon              | Impact: -0.023158
+ 5.  .                   | Impact: -0.013379
+ 6.  .                   | Impact: -0.011066
+ 7.  however             | Impact: -0.010061
+ 8.  sort                | Impact: -0.008249
+ 9.  from                | Impact: -0.008249
+10.  the                 | Impact: -0.002448
+11.  holidays            | Impact: -0.002448
+12.  team                | Impact: -0.002373
+13.  we                  | Impact: -0.002373
+14.  ,                   | Impact: -0.002140
+15.  .                   | Impact: -0.002042
+16.  communication       | Impact: -0.001499
+17.  preferences         | Impact: -0.001499
+18.  link                | Impact: -0.001499
+19.  yet                 | Impact: -0.001289
+20.  explored            | Impact: -0.001289

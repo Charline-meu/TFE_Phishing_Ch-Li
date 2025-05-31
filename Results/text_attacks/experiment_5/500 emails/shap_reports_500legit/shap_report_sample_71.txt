@@ -1,0 +1,75 @@
+Sample 71
+=========
+
+Sample text preview: mack brown lost in austin to north carolina st. -----Original Message----- From: On Behalf Of Sent: Sunday, October , : PM To: Lenhart, Matthew; Landr...
+
+Model prediction: [9.995529e-01 4.470313e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  hasn                | Impact: 0.003343 → PHISHING
+ 2.  '                   | Impact: 0.003343 → PHISHING
+ 3.  t                   | Impact: 0.003343 → PHISHING
+ 4.  triple              | Impact: -0.002921 → LEGITIMATE
+ 5.  threat              | Impact: -0.002921 → LEGITIMATE
+ 6.  that                | Impact: -0.002921 → LEGITIMATE
+ 7.  ut                  | Impact: -0.002921 → LEGITIMATE
+ 8.  can                 | Impact: 0.002158 → PHISHING
+ 9.  '                   | Impact: 0.002158 → PHISHING
+10.  t                   | Impact: 0.002158 → PHISHING
+11.  only                | Impact: 0.002077 → PHISHING
+12.  recruit             | Impact: 0.002077 → PHISHING
+13.  -                   | Impact: 0.002077 → PHISHING
+14.  he                  | Impact: 0.002077 → PHISHING
+15.  has                 | Impact: -0.001874 → LEGITIMATE
+16.  with                | Impact: -0.001874 → LEGITIMATE
+17.  sim                 | Impact: -0.001874 → LEGITIMATE
+18. ms                   | Impact: -0.001874 → LEGITIMATE
+19.  ,                   | Impact: -0.001874 → LEGITIMATE
+20.  carolina            | Impact: 0.001453 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  hasn                | Impact: 0.003343
+ 2.  '                   | Impact: 0.003343
+ 3.  t                   | Impact: 0.003343
+ 4.  can                 | Impact: 0.002158
+ 5.  '                   | Impact: 0.002158
+ 6.  t                   | Impact: 0.002158
+ 7.  only                | Impact: 0.002077
+ 8.  recruit             | Impact: 0.002077
+ 9.  -                   | Impact: 0.002077
+10.  he                  | Impact: 0.002077
+11.  carolina            | Impact: 0.001453
+12.  st                  | Impact: 0.001453
+13.  .                   | Impact: 0.001453
+14.  .                   | Impact: 0.001025
+15.  i                   | Impact: 0.000645
+16.  can                 | Impact: 0.000645
+17.  '                   | Impact: 0.000645
+18.  t                   | Impact: 0.000645
+19.  loss                | Impact: 0.000559
+20.  -                   | Impact: 0.000559
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  triple              | Impact: -0.002921
+ 2.  threat              | Impact: -0.002921
+ 3.  that                | Impact: -0.002921
+ 4.  ut                  | Impact: -0.002921
+ 5.  has                 | Impact: -0.001874
+ 6.  with                | Impact: -0.001874
+ 7.  sim                 | Impact: -0.001874
+ 8. ms                   | Impact: -0.001874
+ 9.  ,                   | Impact: -0.001874
+10.  a                   | Impact: -0.000876
+11.  top                 | Impact: -0.000876
+12.  nfl                 | Impact: -0.000876
+13.  pick                | Impact: -0.000876
+14.  right               | Impact: -0.000832
+15.  -                   | Impact: -0.000832
+16.  lsu                 | Impact: -0.000832
+17.  could               | Impact: -0.000832
+18.  is                  | Impact: -0.000811
+19.  the                 | Impact: -0.000811
+20.  most                | Impact: -0.000811

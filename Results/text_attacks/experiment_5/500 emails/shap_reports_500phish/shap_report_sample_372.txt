@@ -1,0 +1,75 @@
+Sample 372
+==========
+
+Sample text preview: Dear sir, This business will be of interest to you and your business and involves $,,., which emanated from over invoiced contracts executed on behalf...
+
+Model prediction: [1.5040956e-04 9.9984956e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sir                 | Impact: 0.023475 → PHISHING
+ 2.                      | Impact: 0.016566 → PHISHING
+ 3.  dear                | Impact: 0.016566 → PHISHING
+ 4.  ben                 | Impact: 0.014380 → PHISHING
+ 5. ef                   | Impact: 0.014380 → PHISHING
+ 6. icia                 | Impact: 0.011526 → PHISHING
+ 7. ry                   | Impact: 0.011526 → PHISHING
+ 8.  of                  | Impact: 0.010275 → PHISHING
+ 9.  interest            | Impact: 0.010275 → PHISHING
+10.  to                  | Impact: 0.010275 → PHISHING
+11.  you                 | Impact: 0.010275 → PHISHING
+12.  and                 | Impact: 0.008077 → PHISHING
+13.  your                | Impact: 0.008077 → PHISHING
+14.  business            | Impact: 0.008077 → PHISHING
+15.  and                 | Impact: 0.008077 → PHISHING
+16.  i                   | Impact: 0.007297 → PHISHING
+17.  shall               | Impact: 0.007297 → PHISHING
+18.  supply              | Impact: 0.007297 → PHISHING
+19.  you                 | Impact: 0.007297 → PHISHING
+20.  this                | Impact: 0.007101 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sir                 | Impact: 0.023475
+ 2.                      | Impact: 0.016566
+ 3.  dear                | Impact: 0.016566
+ 4.  ben                 | Impact: 0.014380
+ 5. ef                   | Impact: 0.014380
+ 6. icia                 | Impact: 0.011526
+ 7. ry                   | Impact: 0.011526
+ 8.  of                  | Impact: 0.010275
+ 9.  interest            | Impact: 0.010275
+10.  to                  | Impact: 0.010275
+11.  you                 | Impact: 0.010275
+12.  and                 | Impact: 0.008077
+13.  your                | Impact: 0.008077
+14.  business            | Impact: 0.008077
+15.  and                 | Impact: 0.008077
+16.  i                   | Impact: 0.007297
+17.  shall               | Impact: 0.007297
+18.  supply              | Impact: 0.007297
+19.  you                 | Impact: 0.007297
+20.  this                | Impact: 0.007101
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  deal                | Impact: -0.000898
+ 2.  perfectly           | Impact: -0.000898
+ 3.  both                | Impact: -0.000898
+ 4.  in                  | Impact: -0.000898
+ 5.  guild               | Impact: -0.000777
+ 6. er                   | Impact: -0.000777
+ 7.  mining              | Impact: -0.000777
+ 8.  (                   | Impact: -0.000777
+ 9.  pt                  | Impact: -0.000777
+10. y                    | Impact: -0.000777
+11.  )                   | Impact: -0.000777
+12.  sa                  | Impact: -0.000777
+13.  ,                   | Impact: -0.000777
+14.  of                  | Impact: -0.000662
+15.  my                  | Impact: -0.000662
+16.  ministry            | Impact: -0.000662
+17.  of                  | Impact: -0.000662
+18.  minerals            | Impact: -0.000662
+19.  and                 | Impact: -0.000662
+20.  energy              | Impact: -0.000662

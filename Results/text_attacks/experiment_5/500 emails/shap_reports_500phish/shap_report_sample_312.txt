@@ -1,0 +1,75 @@
+Sample 312
+==========
+
+Sample text preview: This is a copy of a security alert sent to If you don't recognize this account, remove it. A new sign-in on Windows We noticed a new sign-in to your m...
+
+Model prediction: [1.9596991e-04 9.9980408e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ©                   | Impact: 0.144788 → PHISHING
+ 2.  org                 | Impact: 0.054483 → PHISHING
+ 3.  this                | Impact: 0.054483 → PHISHING
+ 4.  remove              | Impact: 0.037441 → PHISHING
+ 5.  email               | Impact: 0.028692 → PHISHING
+ 6.  has                 | Impact: 0.028692 → PHISHING
+ 7.  your                | Impact: 0.027067 → PHISHING
+ 8.  account             | Impact: 0.027067 → PHISHING
+ 9.  here                | Impact: 0.024935 → PHISHING
+10.  account             | Impact: 0.024745 → PHISHING
+11.  click               | Impact: 0.024233 → PHISHING
+12.  monkey              | Impact: 0.023841 → PHISHING
+13.  org                 | Impact: 0.023564 → PHISHING
+14.  account             | Impact: 0.019297 → PHISHING
+15.  your                | Impact: 0.018773 → PHISHING
+16.  service             | Impact: 0.010899 → PHISHING
+17.  been                | Impact: 0.010763 → PHISHING
+18.  scanned             | Impact: 0.010763 → PHISHING
+19.  by                  | Impact: 0.010763 → PHISHING
+20.  the                 | Impact: 0.010763 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.144788
+ 2.  org                 | Impact: 0.054483
+ 3.  this                | Impact: 0.054483
+ 4.  remove              | Impact: 0.037441
+ 5.  email               | Impact: 0.028692
+ 6.  has                 | Impact: 0.028692
+ 7.  your                | Impact: 0.027067
+ 8.  account             | Impact: 0.027067
+ 9.  here                | Impact: 0.024935
+10.  account             | Impact: 0.024745
+11.  click               | Impact: 0.024233
+12.  monkey              | Impact: 0.023841
+13.  org                 | Impact: 0.023564
+14.  account             | Impact: 0.019297
+15.  your                | Impact: 0.018773
+16.  service             | Impact: 0.010899
+17.  been                | Impact: 0.010763
+18.  scanned             | Impact: 0.010763
+19.  by                  | Impact: 0.010763
+20.  the                 | Impact: 0.010763
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ,                   | Impact: -0.007242
+ 2.  .                   | Impact: -0.004272
+ 3.  un                  | Impact: -0.004055
+ 4. sus                  | Impact: -0.004055
+ 5. cr                   | Impact: -0.004055
+ 6. ibe                  | Impact: -0.004055
+ 7.  to                  | Impact: -0.003562
+ 8.  email               | Impact: -0.001559
+ 9.  security            | Impact: -0.001559
+10.  .                   | Impact: -0.001559
+11.  sy                  | Impact: -0.001057
+12. man                  | Impact: -0.001057
+13. tec                  | Impact: -0.001057
+14.  a                   | Impact: -0.000381
+15.  new                 | Impact: -0.000381
+16.  sign                | Impact: -0.000381
+17.  -                   | Impact: -0.000381
+18.  in                  | Impact: -0.000381
+19.  on                  | Impact: -0.000381
+20.  windows             | Impact: -0.000381

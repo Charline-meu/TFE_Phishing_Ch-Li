@@ -1,0 +1,75 @@
+Sample 327
+==========
+
+Sample text preview: Received: from smtpin--.bryant.webtv.net (...) by storefull-.iap.bryant.webtv.net with WTV-SMTP; Sun, Apr :: - (PDT) Received: by smtpin--.bryant.webt...
+
+Model prediction: [9.9941444e-01 5.8551761e-04]
+Predicted class: LEGITIMATE with 0.9994 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  from                | Impact: 0.018400 → PHISHING
+ 2.  mail                | Impact: 0.018400 → PHISHING
+ 3.  pickup              | Impact: 0.015779 → PHISHING
+ 4.  service             | Impact: 0.015779 → PHISHING
+ 5.  by                  | Impact: 0.015779 → PHISHING
+ 6.  michael             | Impact: -0.010171 → LEGITIMATE
+ 7.  bryant              | Impact: -0.006960 → LEGITIMATE
+ 8.  .                   | Impact: -0.006960 → LEGITIMATE
+ 9.  net                 | Impact: 0.006718 → PHISHING
+10.  hot                 | Impact: 0.006397 → PHISHING
+11. mail                 | Impact: 0.006397 → PHISHING
+12.  .                   | Impact: 0.006397 → PHISHING
+13. s                    | Impact: 0.006174 → PHISHING
+14. vc                   | Impact: 0.006174 → PHISHING
+15.  sm                  | Impact: 0.006045 → PHISHING
+16. tp                   | Impact: 0.006045 → PHISHING
+17.  rod                 | Impact: -0.005986 → LEGITIMATE
+18. rigues               | Impact: -0.005986 → LEGITIMATE
+19.  delivered           | Impact: 0.005649 → PHISHING
+20.  -                   | Impact: 0.005649 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  from                | Impact: 0.018400
+ 2.  mail                | Impact: 0.018400
+ 3.  pickup              | Impact: 0.015779
+ 4.  service             | Impact: 0.015779
+ 5.  by                  | Impact: 0.015779
+ 6.  net                 | Impact: 0.006718
+ 7.  hot                 | Impact: 0.006397
+ 8. mail                 | Impact: 0.006397
+ 9.  .                   | Impact: 0.006397
+10. s                    | Impact: 0.006174
+11. vc                   | Impact: 0.006174
+12.  sm                  | Impact: 0.006045
+13. tp                   | Impact: 0.006045
+14.  delivered           | Impact: 0.005649
+15.  -                   | Impact: 0.005649
+16.  to                  | Impact: 0.005649
+17.  :                   | Impact: 0.005649
+18.  net                 | Impact: 0.004950
+19.  (                   | Impact: 0.004634
+20.  web                 | Impact: 0.004634
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  michael             | Impact: -0.010171
+ 2.  bryant              | Impact: -0.006960
+ 3.  .                   | Impact: -0.006960
+ 4.  rod                 | Impact: -0.005986
+ 5. rigues               | Impact: -0.005986
+ 6.  ms                  | Impact: -0.004850
+ 7. n                    | Impact: -0.004850
+ 8.  explorer            | Impact: -0.004850
+ 9.  .                   | Impact: -0.004850
+10.  hillary             | Impact: -0.004627
+11.  stood               | Impact: -0.004627
+12.  york                | Impact: -0.004260
+13.  where               | Impact: -0.004260
+14.  saturday            | Impact: -0.003819
+15.  ,                   | Impact: -0.003819
+16.  -                   | Impact: -0.003706
+17.  liberty             | Impact: -0.003706
+18.  .                   | Impact: -0.003706
+19.  the                 | Impact: -0.003573
+20.  scene               | Impact: -0.003573

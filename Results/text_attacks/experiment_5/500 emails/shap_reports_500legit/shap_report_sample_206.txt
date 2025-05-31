@@ -1,0 +1,75 @@
+Sample 206
+==========
+
+Sample text preview: [Image of Cobbler Shaker]( [Cobbler Shaker]( [Image of Gold Teardrop Barspoon]( [Gold Teardrop Barspoon]( [Image of The All Night Candle Set]( [The Al...
+
+Model prediction: [9.996772e-01 3.227948e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  (                   | Impact: -0.009766 → LEGITIMATE
+ 2.  ]                   | Impact: -0.006851 → LEGITIMATE
+ 3.  &                   | Impact: 0.006309 → PHISHING
+ 4.  &                   | Impact: 0.005513 → PHISHING
+ 5.  ]                   | Impact: -0.005364 → LEGITIMATE
+ 6.  ]                   | Impact: -0.003677 → LEGITIMATE
+ 7.  emails              | Impact: -0.003330 → LEGITIMATE
+ 8.  [                   | Impact: -0.003114 → LEGITIMATE
+ 9.  these               | Impact: 0.003113 → PHISHING
+10.  [                   | Impact: -0.002788 → LEGITIMATE
+11.  [                   | Impact: -0.002783 → LEGITIMATE
+12.  longer              | Impact: 0.002434 → PHISHING
+13.  brooklyn            | Impact: 0.002303 → PHISHING
+14.  night               | Impact: 0.002184 → PHISHING
+15.  image               | Impact: -0.002179 → LEGITIMATE
+16.  ?                   | Impact: 0.002080 → PHISHING
+17.  york                | Impact: 0.002072 → PHISHING
+18.  (                   | Impact: -0.002068 → LEGITIMATE
+19.  receive             | Impact: 0.001785 → PHISHING
+20.  [                   | Impact: -0.001721 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  &                   | Impact: 0.006309
+ 2.  &                   | Impact: 0.005513
+ 3.  these               | Impact: 0.003113
+ 4.  longer              | Impact: 0.002434
+ 5.  brooklyn            | Impact: 0.002303
+ 6.  night               | Impact: 0.002184
+ 7.  ?                   | Impact: 0.002080
+ 8.  york                | Impact: 0.002072
+ 9.  receive             | Impact: 0.001785
+10.  parties             | Impact: 0.001500
+11.  want                | Impact: 0.001500
+12.  night               | Impact: 0.000975
+13.  new                 | Impact: 0.000974
+14.  big                 | Impact: 0.000778
+15.  of                  | Impact: 0.000759
+16.  parties             | Impact: 0.000757
+17.  no                  | Impact: 0.000696
+18.  st                  | Impact: 0.000668
+19.  image               | Impact: 0.000613
+20.  parties             | Impact: 0.000600
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.009766
+ 2.  ]                   | Impact: -0.006851
+ 3.  ]                   | Impact: -0.005364
+ 4.  ]                   | Impact: -0.003677
+ 5.  emails              | Impact: -0.003330
+ 6.  [                   | Impact: -0.003114
+ 7.  [                   | Impact: -0.002788
+ 8.  [                   | Impact: -0.002783
+ 9.  image               | Impact: -0.002179
+10.  (                   | Impact: -0.002068
+11.  [                   | Impact: -0.001721
+12.  .                   | Impact: -0.001641
+13.  dinner              | Impact: -0.001340
+14.  ]                   | Impact: -0.001028
+15.  (                   | Impact: -0.000835
+16.  ]                   | Impact: -0.000698
+17.  [                   | Impact: -0.000698
+18. su                   | Impact: -0.000674
+19.  ]                   | Impact: -0.000564
+20.  night               | Impact: -0.000487

@@ -1,0 +1,68 @@
+Sample 98
+=========
+
+Sample text preview: Lawmoney article sent to you by FYI MEXICO DRAFTING NEW E-COMMERCE TAX LAW Read the full story at This service has been brought to you by
+
+Model prediction: [0.5039669  0.49603307]
+Predicted class: LEGITIMATE with 0.5040 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. mon                  | Impact: 0.226587 → PHISHING
+ 2.  article             | Impact: -0.218763 → LEGITIMATE
+ 3.  law                 | Impact: -0.217929 → LEGITIMATE
+ 4.  service             | Impact: 0.202711 → PHISHING
+ 5.  sent                | Impact: 0.165237 → PHISHING
+ 6.  brought             | Impact: 0.130613 → PHISHING
+ 7.  you                 | Impact: 0.127438 → PHISHING
+ 8.  at                  | Impact: -0.113516 → LEGITIMATE
+ 9.  by                  | Impact: 0.100100 → PHISHING
+10.  to                  | Impact: 0.095815 → PHISHING
+11. ey                   | Impact: 0.092941 → PHISHING
+12.  drafting            | Impact: -0.078401 → LEGITIMATE
+13.  to                  | Impact: 0.077199 → PHISHING
+14.  story               | Impact: -0.060589 → LEGITIMATE
+15.  commerce            | Impact: -0.052841 → LEGITIMATE
+16.  law                 | Impact: -0.033782 → LEGITIMATE
+17.  full                | Impact: 0.030273 → PHISHING
+18.  mexico              | Impact: -0.027951 → LEGITIMATE
+19.  the                 | Impact: -0.021146 → LEGITIMATE
+20.  been                | Impact: 0.019788 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1. mon                  | Impact: 0.226587
+ 2.  service             | Impact: 0.202711
+ 3.  sent                | Impact: 0.165237
+ 4.  brought             | Impact: 0.130613
+ 5.  you                 | Impact: 0.127438
+ 6.  by                  | Impact: 0.100100
+ 7.  to                  | Impact: 0.095815
+ 8. ey                   | Impact: 0.092941
+ 9.  to                  | Impact: 0.077199
+10.  full                | Impact: 0.030273
+11.  been                | Impact: 0.019788
+12.  read                | Impact: 0.018245
+13. yi                   | Impact: 0.014279
+14.  has                 | Impact: 0.013895
+15.  tax                 | Impact: 0.013188
+16.  you                 | Impact: 0.009517
+17.                      | Impact: 0.001536
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  article             | Impact: -0.218763
+ 2.  law                 | Impact: -0.217929
+ 3.  at                  | Impact: -0.113516
+ 4.  drafting            | Impact: -0.078401
+ 5.  story               | Impact: -0.060589
+ 6.  commerce            | Impact: -0.052841
+ 7.  law                 | Impact: -0.033782
+ 8.  mexico              | Impact: -0.027951
+ 9.  the                 | Impact: -0.021146
+10.  -                   | Impact: -0.019367
+11.  f                   | Impact: -0.012699
+12.  e                   | Impact: -0.011276
+13.  by                  | Impact: -0.003199
+14.  this                | Impact: -0.002113
+15.  new                 | Impact: -0.000795
+16.                      | Impact: -0.000000

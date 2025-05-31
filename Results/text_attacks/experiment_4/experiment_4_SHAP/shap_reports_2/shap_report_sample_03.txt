@@ -1,0 +1,75 @@
+Phishing Sample 3
+=================
+
+Sample text preview: Outreach Solutions for High-Volume Campaigns Looking for effective digital reach? We provide strategic communication services that bring your offer di...
+
+Model prediction: [0.00498851 0.99501157]
+Predicted class: PHISHING with 0.9950 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.028725 → PHISHING
+ 2.  active              | Impact: 0.018978 → PHISHING
+ 3.  deliveries          | Impact: 0.018978 → PHISHING
+ 4.  +                   | Impact: 0.018978 → PHISHING
+ 5.  extended            | Impact: 0.018978 → PHISHING
+ 6.  reaching            | Impact: 0.018849 → PHISHING
+ 7.  millions            | Impact: 0.018849 → PHISHING
+ 8.  daily               | Impact: 0.018849 → PHISHING
+ 9.  services            | Impact: 0.018692 → PHISHING
+10.  that                | Impact: 0.018692 → PHISHING
+11.  bring               | Impact: 0.018692 → PHISHING
+12.  your                | Impact: 0.018692 → PHISHING
+13.  hours               | Impact: 0.016178 → PHISHING
+14.  charge              | Impact: 0.014455 → PHISHING
+15.  request             | Impact: 0.013410 → PHISHING
+16.  within              | Impact: 0.013410 → PHISHING
+17.  we                  | Impact: 0.013343 → PHISHING
+18.  provide             | Impact: 0.013343 → PHISHING
+19.  strategic           | Impact: 0.013343 → PHISHING
+20.  communication       | Impact: 0.013343 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.028725
+ 2.  active              | Impact: 0.018978
+ 3.  deliveries          | Impact: 0.018978
+ 4.  +                   | Impact: 0.018978
+ 5.  extended            | Impact: 0.018978
+ 6.  reaching            | Impact: 0.018849
+ 7.  millions            | Impact: 0.018849
+ 8.  daily               | Impact: 0.018849
+ 9.  services            | Impact: 0.018692
+10.  that                | Impact: 0.018692
+11.  bring               | Impact: 0.018692
+12.  your                | Impact: 0.018692
+13.  hours               | Impact: 0.016178
+14.  charge              | Impact: 0.014455
+15.  request             | Impact: 0.013410
+16.  within              | Impact: 0.013410
+17.  we                  | Impact: 0.013343
+18.  provide             | Impact: 0.013343
+19.  strategic           | Impact: 0.013343
+20.  communication       | Impact: 0.013343
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.007986
+ 2.  includes            | Impact: -0.007986
+ 3.  up                  | Impact: -0.007986
+ 4.  to                  | Impact: -0.007986
+ 5.  m                   | Impact: -0.007986
+ 6.  ?                   | Impact: -0.006626
+ 7.  (                   | Impact: -0.006471
+ 8.  subject             | Impact: -0.006471
+ 9.  :                   | Impact: -0.006471
+10.  want                | Impact: -0.004514
+11.  to                  | Impact: -0.004514
+12.  learn               | Impact: -0.004514
+13.  more                | Impact: -0.004514
+14.  example             | Impact: -0.004173
+15.  campaign            | Impact: -0.004173
+16.  tier                | Impact: -0.004173
+17. s                    | Impact: -0.004173
+18.  new                 | Impact: -0.003414
+19.  campaign            | Impact: -0.003414
+20.  partner             | Impact: -0.003414

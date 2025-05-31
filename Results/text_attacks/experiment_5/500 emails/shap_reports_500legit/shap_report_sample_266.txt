@@ -1,0 +1,75 @@
+Sample 266
+==========
+
+Sample text preview: I'd do it as soon as possible. Your call on exactly when. Regards Richard Vince J Kaminski // : To: Richard Lewis/LON/ECT@ECT cc: John Sherriff/LON/EC...
+
+Model prediction: [9.9974376e-01 2.5624136e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  research            | Impact: -0.001395 → LEGITIMATE
+ 2.  /                   | Impact: -0.001314 → LEGITIMATE
+ 3.  :                   | Impact: -0.001314 → LEGITIMATE
+ 4.  ec                  | Impact: -0.001224 → LEGITIMATE
+ 5.  london              | Impact: -0.001010 → LEGITIMATE
+ 6. t                    | Impact: -0.000771 → LEGITIMATE
+ 7.  /                   | Impact: -0.000632 → LEGITIMATE
+ 8.  ec                  | Impact: -0.000632 → LEGITIMATE
+ 9. t                    | Impact: -0.000632 → LEGITIMATE
+10.  ec                  | Impact: -0.000631 → LEGITIMATE
+11. t                    | Impact: -0.000631 → LEGITIMATE
+12.  @                   | Impact: -0.000631 → LEGITIMATE
+13.  ec                  | Impact: -0.000597 → LEGITIMATE
+14. t                    | Impact: -0.000597 → LEGITIMATE
+15.  subject             | Impact: -0.000597 → LEGITIMATE
+16.  :                   | Impact: -0.000597 → LEGITIMATE
+17.  @                   | Impact: -0.000512 → LEGITIMATE
+18.  ec                  | Impact: -0.000512 → LEGITIMATE
+19. t                    | Impact: -0.000512 → LEGITIMATE
+20.  ec                  | Impact: -0.000433 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  steve               | Impact: 0.000402
+ 2.  '                   | Impact: 0.000402
+ 3.  s                   | Impact: 0.000402
+ 4.  to                  | Impact: 0.000383
+ 5.  break               | Impact: 0.000383
+ 6.  the                 | Impact: 0.000383
+ 7.  news                | Impact: 0.000383
+ 8.  to                  | Impact: 0.000383
+ 9.  him                 | Impact: 0.000383
+10.  .                   | Impact: 0.000383
+11.  i                   | Impact: 0.000348
+12.  would               | Impact: 0.000348
+13.  like                | Impact: 0.000348
+14.  to                  | Impact: 0.000348
+15.  he                  | Impact: 0.000339
+16.  has                 | Impact: 0.000339
+17.  .                   | Impact: 0.000339
+18.  a                   | Impact: 0.000279
+19.  few                 | Impact: 0.000279
+20.  days                | Impact: 0.000279
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  research            | Impact: -0.001395
+ 2.  /                   | Impact: -0.001314
+ 3.  :                   | Impact: -0.001314
+ 4.  ec                  | Impact: -0.001224
+ 5.  london              | Impact: -0.001010
+ 6. t                    | Impact: -0.000771
+ 7.  /                   | Impact: -0.000632
+ 8.  ec                  | Impact: -0.000632
+ 9. t                    | Impact: -0.000632
+10.  ec                  | Impact: -0.000631
+11. t                    | Impact: -0.000631
+12.  @                   | Impact: -0.000631
+13.  ec                  | Impact: -0.000597
+14. t                    | Impact: -0.000597
+15.  subject             | Impact: -0.000597
+16.  :                   | Impact: -0.000597
+17.  @                   | Impact: -0.000512
+18.  ec                  | Impact: -0.000512
+19. t                    | Impact: -0.000512
+20.  ec                  | Impact: -0.000433

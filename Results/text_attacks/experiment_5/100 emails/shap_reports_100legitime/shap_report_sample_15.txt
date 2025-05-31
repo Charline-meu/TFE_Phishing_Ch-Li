@@ -1,0 +1,75 @@
+Phishing Sample 15
+==================
+
+Sample text preview: Debra Perlingiere Enron North America Corp. Legal Department Smith Street, EB Houston, Texas Phone -- Fax -- ----- Forwarded by Debra Perlingiere/HOU/...
+
+Model prediction: [9.9979120e-01 2.0876322e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  transactions        | Impact: -0.002269 → LEGITIMATE
+ 2.  gas                 | Impact: -0.001928 → LEGITIMATE
+ 3.  issue               | Impact: -0.001826 → LEGITIMATE
+ 4.  price               | Impact: -0.001538 → LEGITIMATE
+ 5.  etc                 | Impact: -0.001475 → LEGITIMATE
+ 6.  mr                  | Impact: 0.001276 → PHISHING
+ 7.  contact             | Impact: 0.001266 → PHISHING
+ 8. ron                  | Impact: -0.001207 → LEGITIMATE
+ 9.  houston             | Impact: -0.001038 → LEGITIMATE
+10.  singer              | Impact: 0.000990 → PHISHING
+11.  ec                  | Impact: -0.000909 → LEGITIMATE
+12.  en                  | Impact: -0.000893 → LEGITIMATE
+13.  agreement           | Impact: -0.000820 → LEGITIMATE
+14.  curious             | Impact: -0.000738 → LEGITIMATE
+15.  ?                   | Impact: 0.000732 → PHISHING
+16.  him                 | Impact: 0.000729 → PHISHING
+17.  en                  | Impact: -0.000690 → LEGITIMATE
+18. ron                  | Impact: -0.000690 → LEGITIMATE
+19. t                    | Impact: -0.000626 → LEGITIMATE
+20.  as                  | Impact: -0.000620 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.001276
+ 2.  contact             | Impact: 0.001266
+ 3.  singer              | Impact: 0.000990
+ 4.  ?                   | Impact: 0.000732
+ 5.  him                 | Impact: 0.000729
+ 6.  i                   | Impact: 0.000517
+ 7.  let                 | Impact: 0.000506
+ 8.  bought              | Impact: 0.000490
+ 9.  know                | Impact: 0.000488
+10.  me                  | Impact: 0.000453
+11.  singer              | Impact: 0.000327
+12.  ?                   | Impact: 0.000320
+13.  have                | Impact: 0.000222
+14.  is                  | Impact: 0.000210
+15.  there               | Impact: 0.000200
+16.  .                   | Impact: 0.000199
+17.  i                   | Impact: 0.000169
+18.  under               | Impact: 0.000161
+19.  are                 | Impact: 0.000118
+20.  ,                   | Impact: 0.000103
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  transactions        | Impact: -0.002269
+ 2.  gas                 | Impact: -0.001928
+ 3.  issue               | Impact: -0.001826
+ 4.  price               | Impact: -0.001538
+ 5.  etc                 | Impact: -0.001475
+ 6. ron                  | Impact: -0.001207
+ 7.  houston             | Impact: -0.001038
+ 8.  ec                  | Impact: -0.000909
+ 9.  en                  | Impact: -0.000893
+10.  agreement           | Impact: -0.000820
+11.  curious             | Impact: -0.000738
+12.  en                  | Impact: -0.000690
+13. ron                  | Impact: -0.000690
+14. t                    | Impact: -0.000626
+15.  as                  | Impact: -0.000620
+16.  to                  | Impact: -0.000620
+17.  :                   | Impact: -0.000619
+18.  debra               | Impact: -0.000567
+19.  ec                  | Impact: -0.000561
+20. ron                  | Impact: -0.000517

@@ -1,0 +1,75 @@
+Sample 44
+=========
+
+Sample text preview: Travel plans for Monday. ---------------------- Forwarded by Kay Mann/Corp/Enron on // : AM --------------------------- CHRISTY CHAPMAN @ ECT // : PM ...
+
+Model prediction: [9.9979180e-01 2.0819867e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  payment             | Impact: -0.003788 → LEGITIMATE
+ 2.  :                   | Impact: -0.003788 → LEGITIMATE
+ 3.  usd                 | Impact: 0.003677 → PHISHING
+ 4.  air                 | Impact: 0.003375 → PHISHING
+ 5.  total               | Impact: 0.003375 → PHISHING
+ 6.  /                   | Impact: -0.002843 → LEGITIMATE
+ 7.  /                   | Impact: -0.002843 → LEGITIMATE
+ 8.  a                   | Impact: -0.002843 → LEGITIMATE
+ 9.  reservation         | Impact: -0.002843 → LEGITIMATE
+10.  number              | Impact: -0.002843 → LEGITIMATE
+11.  cc                  | Impact: -0.002676 → LEGITIMATE
+12. ax                   | Impact: -0.002676 → LEGITIMATE
+13.  en                  | Impact: -0.002631 → LEGITIMATE
+14. ron                  | Impact: -0.002631 → LEGITIMATE
+15.  total               | Impact: 0.002496 → PHISHING
+16.  usd                 | Impact: 0.002496 → PHISHING
+17.  .                   | Impact: 0.002003 → PHISHING
+18.  kay                 | Impact: 0.001836 → PHISHING
+19.  air                 | Impact: 0.001836 → PHISHING
+20.  fare                | Impact: 0.001836 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  usd                 | Impact: 0.003677
+ 2.  air                 | Impact: 0.003375
+ 3.  total               | Impact: 0.003375
+ 4.  total               | Impact: 0.002496
+ 5.  usd                 | Impact: 0.002496
+ 6.  .                   | Impact: 0.002003
+ 7.  kay                 | Impact: 0.001836
+ 8.  air                 | Impact: 0.001836
+ 9.  fare                | Impact: 0.001836
+10.  /                   | Impact: 0.001628
+11.  c                   | Impact: 0.001628
+12.  total               | Impact: 0.001527
+13.  usd                 | Impact: 0.001527
+14.  .                   | Impact: 0.001527
+15.  .                   | Impact: 0.001281
+16.  in                  | Impact: 0.001254
+17. vo                   | Impact: 0.001254
+18. ice                  | Impact: 0.001254
+19.  tax                 | Impact: 0.001090
+20.  .                   | Impact: 0.001090
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  payment             | Impact: -0.003788
+ 2.  :                   | Impact: -0.003788
+ 3.  /                   | Impact: -0.002843
+ 4.  /                   | Impact: -0.002843
+ 5.  a                   | Impact: -0.002843
+ 6.  reservation         | Impact: -0.002843
+ 7.  number              | Impact: -0.002843
+ 8.  cc                  | Impact: -0.002676
+ 9. ax                   | Impact: -0.002676
+10.  en                  | Impact: -0.002631
+11. ron                  | Impact: -0.002631
+12.  service             | Impact: -0.001549
+13.  date                | Impact: -0.001549
+14.  no                  | Impact: -0.001544
+15.  smoking             | Impact: -0.001544
+16.  confirmed           | Impact: -0.001544
+17.  mann                | Impact: -0.001544
+18.  em                  | Impact: -0.001338
+19. bra                  | Impact: -0.001338
+20. er                   | Impact: -0.001338

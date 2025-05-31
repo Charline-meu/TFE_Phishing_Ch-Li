@@ -1,0 +1,63 @@
+Sample 319
+==========
+
+Sample text preview: September , Hello, I am Mr. Huston J. Shoetan, an Account officer to Late Engr. Noah Neiman who used to work with Aramaz Oil Servicing and Constructio...
+
+Model prediction: [1.6262256e-04 9.9983740e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ben                 | Impact: 0.013214 → PHISHING
+ 2. ef                   | Impact: 0.013214 → PHISHING
+ 3. icia                 | Impact: 0.013214 → PHISHING
+ 4. ry                   | Impact: 0.013214 → PHISHING
+ 5.  .                   | Impact: 0.013214 → PHISHING
+ 6.  .                   | Impact: 0.011228 → PHISHING
+ 7.  i                   | Impact: 0.011228 → PHISHING
+ 8.  contacted           | Impact: 0.011228 → PHISHING
+ 9.  you                 | Impact: 0.011228 → PHISHING
+10.  to                  | Impact: 0.009196 → PHISHING
+11.  present             | Impact: 0.009196 → PHISHING
+12.  you                 | Impact: 0.009196 → PHISHING
+13.  as                  | Impact: 0.009196 → PHISHING
+14.  i                   | Impact: 0.009136 → PHISHING
+15.  seek                | Impact: 0.009136 → PHISHING
+16.  your                | Impact: 0.009136 → PHISHING
+17.  consent             | Impact: 0.009136 → PHISHING
+18.  million             | Impact: 0.008691 → PHISHING
+19.  dollars             | Impact: 0.008691 → PHISHING
+20.  can                 | Impact: 0.008691 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ben                 | Impact: 0.013214
+ 2. ef                   | Impact: 0.013214
+ 3. icia                 | Impact: 0.013214
+ 4. ry                   | Impact: 0.013214
+ 5.  .                   | Impact: 0.013214
+ 6.  .                   | Impact: 0.011228
+ 7.  i                   | Impact: 0.011228
+ 8.  contacted           | Impact: 0.011228
+ 9.  you                 | Impact: 0.011228
+10.  to                  | Impact: 0.009196
+11.  present             | Impact: 0.009196
+12.  you                 | Impact: 0.009196
+13.  as                  | Impact: 0.009196
+14.  i                   | Impact: 0.009136
+15.  seek                | Impact: 0.009136
+16.  your                | Impact: 0.009136
+17.  consent             | Impact: 0.009136
+18.  million             | Impact: 0.008691
+19.  dollars             | Impact: 0.008691
+20.  can                 | Impact: 0.008691
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  eng                 | Impact: -0.007305
+ 2. r                    | Impact: -0.007305
+ 3.  by                  | Impact: -0.002320
+ 4.  late                | Impact: -0.002320
+ 5.  (                   | Impact: -0.000034
+ 6.  eng                 | Impact: -0.000034
+ 7. r                    | Impact: -0.000034
+ 8.  .                   | Impact: -0.000034

@@ -1,0 +1,75 @@
+Sample 80
+=========
+
+Sample text preview: Hello Jose, This is the march meeting decision of sf_ucfirst(sf_substring(monkey.org, , sf_pos(monkey.org, . , ))) HR and Executives on your employmen...
+
+Model prediction: [0.56458783 0.4354121 ]
+Predicted class: LEGITIMATE with 0.5646 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.151794 → PHISHING
+ 2.  file                | Impact: 0.147932 → PHISHING
+ 3.  jose                | Impact: 0.085393 → PHISHING
+ 4.  meeting             | Impact: -0.061162 → LEGITIMATE
+ 5.  decision            | Impact: -0.061162 → LEGITIMATE
+ 6.  view                | Impact: 0.058934 → PHISHING
+ 7.  /                   | Impact: 0.050173 → PHISHING
+ 8.  .                   | Impact: 0.046766 → PHISHING
+ 9.  march               | Impact: -0.045639 → LEGITIMATE
+10.  message             | Impact: 0.045152 → PHISHING
+11.  was                 | Impact: 0.045152 → PHISHING
+12.  created             | Impact: 0.041346 → PHISHING
+13.  automatically       | Impact: 0.041346 → PHISHING
+14.  the                 | Impact: -0.035953 → LEGITIMATE
+15. rst                  | Impact: -0.035579 → LEGITIMATE
+16.  do                  | Impact: 0.034111 → PHISHING
+17.  not                 | Impact: 0.034111 → PHISHING
+18.  reply               | Impact: 0.032813 → PHISHING
+19.  to                  | Impact: 0.032813 → PHISHING
+20.  hello               | Impact: 0.032777 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.151794
+ 2.  file                | Impact: 0.147932
+ 3.  jose                | Impact: 0.085393
+ 4.  view                | Impact: 0.058934
+ 5.  /                   | Impact: 0.050173
+ 6.  .                   | Impact: 0.046766
+ 7.  message             | Impact: 0.045152
+ 8.  was                 | Impact: 0.045152
+ 9.  created             | Impact: 0.041346
+10.  automatically       | Impact: 0.041346
+11.  do                  | Impact: 0.034111
+12.  not                 | Impact: 0.034111
+13.  reply               | Impact: 0.032813
+14.  to                  | Impact: 0.032813
+15.  hello               | Impact: 0.032777
+16.  your                | Impact: 0.029317
+17.  employment          | Impact: 0.029317
+18.  pm                  | Impact: 0.028893
+19.  open                | Impact: 0.026385
+20.  here                | Impact: 0.025615
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  meeting             | Impact: -0.061162
+ 2.  decision            | Impact: -0.061162
+ 3.  march               | Impact: -0.045639
+ 4.  the                 | Impact: -0.035953
+ 5. rst                  | Impact: -0.035579
+ 6.  uc                  | Impact: -0.030744
+ 7. fi                   | Impact: -0.030744
+ 8.  software            | Impact: -0.018996
+ 9.  of                  | Impact: -0.017943
+10.  sf                  | Impact: -0.017943
+11.  _                   | Impact: -0.017943
+12.  )                   | Impact: -0.017603
+13.  uc                  | Impact: -0.016601
+14. fi                   | Impact: -0.016601
+15.  ceo                 | Impact: -0.015953
+16.  date                | Impact: -0.015953
+17.  :                   | Impact: -0.015953
+18.  thursday            | Impact: -0.015953
+19.  (                   | Impact: -0.015259
+20. rst                  | Impact: -0.011901

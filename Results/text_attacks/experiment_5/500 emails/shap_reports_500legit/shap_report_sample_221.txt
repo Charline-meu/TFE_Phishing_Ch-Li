@@ -1,0 +1,75 @@
+Sample 221
+==========
+
+Sample text preview: Shane, Sandi has initialed Tennessee's TPA form because of time restraints, but asked that this form be worked on in the future. Had she had time befo...
+
+Model prediction: [9.9973625e-01 2.6374400e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.048481 → PHISHING
+ 2.  originals           | Impact: -0.046236 → LEGITIMATE
+ 3.  execution           | Impact: 0.035283 → PHISHING
+ 4.  thank               | Impact: -0.033370 → LEGITIMATE
+ 5.  kim                 | Impact: -0.031566 → LEGITIMATE
+ 6.  questions           | Impact: -0.030666 → LEGITIMATE
+ 7.  sent                | Impact: 0.023509 → PHISHING
+ 8.  ben                 | Impact: -0.012115 → LEGITIMATE
+ 9.  please              | Impact: 0.011256 → PHISHING
+10.  .                   | Impact: -0.010540 → LEGITIMATE
+11.  further             | Impact: 0.009975 → PHISHING
+12.  if                  | Impact: -0.009826 → LEGITIMATE
+13.  being               | Impact: 0.009150 → PHISHING
+14.  any                 | Impact: -0.008198 → LEGITIMATE
+15.  are                 | Impact: 0.007707 → PHISHING
+16.  move                | Impact: -0.007381 → LEGITIMATE
+17.  have                | Impact: -0.007321 → LEGITIMATE
+18.  to                  | Impact: 0.006941 → PHISHING
+19.  future              | Impact: 0.006722 → PHISHING
+20.  attention           | Impact: 0.004989 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.048481
+ 2.  execution           | Impact: 0.035283
+ 3.  sent                | Impact: 0.023509
+ 4.  please              | Impact: 0.011256
+ 5.  further             | Impact: 0.009975
+ 6.  being               | Impact: 0.009150
+ 7.  are                 | Impact: 0.007707
+ 8.  to                  | Impact: 0.006941
+ 9.  future              | Impact: 0.006722
+10.  attention           | Impact: 0.004989
+11.  she                 | Impact: 0.003618
+12.  .                   | Impact: 0.003288
+13.  call                | Impact: 0.003054
+14.  had                 | Impact: 0.002712
+15.  had                 | Impact: 0.001727
+16.  two                 | Impact: 0.001529
+17.  be                  | Impact: 0.000815
+18.  time                | Impact: 0.000642
+19.  for                 | Impact: 0.000314
+20.  sand                | Impact: 0.000183
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  originals           | Impact: -0.046236
+ 2.  thank               | Impact: -0.033370
+ 3.  kim                 | Impact: -0.031566
+ 4.  questions           | Impact: -0.030666
+ 5.  ben                 | Impact: -0.012115
+ 6.  .                   | Impact: -0.010540
+ 7.  if                  | Impact: -0.009826
+ 8.  any                 | Impact: -0.008198
+ 9.  move                | Impact: -0.007381
+10.  have                | Impact: -0.007321
+11.  x                   | Impact: -0.004079
+12.  but                 | Impact: -0.003927
+13.  ,                   | Impact: -0.003769
+14.  asked               | Impact: -0.003474
+15.  the                 | Impact: -0.003354
+16.  me                  | Impact: -0.003104
+17.  at                  | Impact: -0.003104
+18.  called              | Impact: -0.002919
+19.  ,                   | Impact: -0.002894
+20.  shane               | Impact: -0.002506

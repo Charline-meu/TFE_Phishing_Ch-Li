@@ -1,0 +1,75 @@
+Sample 241
+==========
+
+Sample text preview: Lance wrote*: > >well, from the looks of things, Evolution mail client isn't supported >just yet, so I reckon I'll wait a bit. Whoever posted these gn...
+
+Model prediction: [9.997814e-01 2.185571e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  rpm                 | Impact: -0.010046 → LEGITIMATE
+ 2.  geometry            | Impact: -0.003086 → LEGITIMATE
+ 3.  -                   | Impact: -0.002626 → LEGITIMATE
+ 4.  -                   | Impact: -0.002550 → LEGITIMATE
+ 5.  >                   | Impact: -0.001973 → LEGITIMATE
+ 6.  .                   | Impact: -0.001853 → LEGITIMATE
+ 7.  "                   | Impact: -0.001760 → LEGITIMATE
+ 8.  havoc               | Impact: -0.001582 → LEGITIMATE
+ 9.  '                   | Impact: -0.001582 → LEGITIMATE
+10.  in                  | Impact: -0.001571 → LEGITIMATE
+11.  suspect             | Impact: -0.001447 → LEGITIMATE
+12.  that                | Impact: -0.001418 → LEGITIMATE
+13.  angle               | Impact: -0.001407 → LEGITIMATE
+14.  gnome               | Impact: -0.001333 → LEGITIMATE
+15.  thanks              | Impact: -0.001139 → LEGITIMATE
+16.  i                   | Impact: -0.000937 → LEGITIMATE
+17.  remember            | Impact: 0.000915 → PHISHING
+18.  s                   | Impact: -0.000876 → LEGITIMATE
+19.  as                  | Impact: -0.000834 → LEGITIMATE
+20.  apt                 | Impact: -0.000827 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  remember            | Impact: 0.000915
+ 2.  file                | Impact: 0.000733
+ 3.  _                   | Impact: 0.000625
+ 4.  _                   | Impact: 0.000625
+ 5.  _                   | Impact: 0.000619
+ 6.  _                   | Impact: 0.000619
+ 7.  that                | Impact: 0.000544
+ 8.  just                | Impact: 0.000544
+ 9.  _                   | Impact: 0.000543
+10.  _                   | Impact: 0.000543
+11.  _                   | Impact: 0.000500
+12.  _                   | Impact: 0.000500
+13.  _                   | Impact: 0.000499
+14.  _                   | Impact: 0.000499
+15.  there               | Impact: 0.000492
+16.  is                  | Impact: 0.000492
+17.  _                   | Impact: 0.000469
+18.  _                   | Impact: 0.000469
+19.  _                   | Impact: 0.000427
+20.  _                   | Impact: 0.000427
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  rpm                 | Impact: -0.010046
+ 2.  geometry            | Impact: -0.003086
+ 3.  -                   | Impact: -0.002626
+ 4.  -                   | Impact: -0.002550
+ 5.  >                   | Impact: -0.001973
+ 6.  .                   | Impact: -0.001853
+ 7.  "                   | Impact: -0.001760
+ 8.  havoc               | Impact: -0.001582
+ 9.  '                   | Impact: -0.001582
+10.  in                  | Impact: -0.001571
+11.  suspect             | Impact: -0.001447
+12.  that                | Impact: -0.001418
+13.  angle               | Impact: -0.001407
+14.  gnome               | Impact: -0.001333
+15.  thanks              | Impact: -0.001139
+16.  i                   | Impact: -0.000937
+17.  s                   | Impact: -0.000876
+18.  as                  | Impact: -0.000834
+19.  apt                 | Impact: -0.000827
+20.  "                   | Impact: -0.000792

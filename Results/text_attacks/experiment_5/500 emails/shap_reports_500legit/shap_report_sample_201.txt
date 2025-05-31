@@ -1,0 +1,75 @@
+Sample 201
+==========
+
+Sample text preview: FREE SHIPPING ORDERS OVER € Fable England and the Natural History Museum proudly present our first collaborative capsule collection, Floral Engravings...
+
+Model prediction: [9.994874e-01 5.125492e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  collection          | Impact: -0.005623 → LEGITIMATE
+ 2.  more                | Impact: -0.003297 → LEGITIMATE
+ 3.  ]                   | Impact: -0.003297 → LEGITIMATE
+ 4.  [                   | Impact: -0.003135 → LEGITIMATE
+ 5.  discover            | Impact: -0.003135 → LEGITIMATE
+ 6.  [                   | Impact: -0.002923 → LEGITIMATE
+ 7.  ]                   | Impact: -0.002886 → LEGITIMATE
+ 8.  image               | Impact: -0.002209 → LEGITIMATE
+ 9.  her                 | Impact: 0.001542 → PHISHING
+10.  daughter            | Impact: 0.001542 → PHISHING
+11.  [                   | Impact: -0.001270 → LEGITIMATE
+12.  shop                | Impact: -0.001270 → LEGITIMATE
+13.  to                  | Impact: 0.001007 → PHISHING
+14.  their               | Impact: 0.001007 → PHISHING
+15.  craft               | Impact: 0.001007 → PHISHING
+16.  ,                   | Impact: 0.001007 → PHISHING
+17.  ,                   | Impact: 0.000983 → PHISHING
+18.  plum                | Impact: -0.000850 → LEGITIMATE
+19.  backpack            | Impact: -0.000850 → LEGITIMATE
+20.  ]                   | Impact: -0.000850 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  her                 | Impact: 0.001542
+ 2.  daughter            | Impact: 0.001542
+ 3.  to                  | Impact: 0.001007
+ 4.  their               | Impact: 0.001007
+ 5.  craft               | Impact: 0.001007
+ 6.  ,                   | Impact: 0.001007
+ 7.  ,                   | Impact: 0.000983
+ 8.  un                  | Impact: 0.000849
+ 9. con                  | Impact: 0.000849
+10. ditional             | Impact: 0.000849
+11.  love                | Impact: 0.000849
+12.  floral              | Impact: 0.000758
+13.  engravings          | Impact: 0.000758
+14.  ,                   | Impact: 0.000758
+15.  and                 | Impact: 0.000733
+16.  eternal             | Impact: 0.000733
+17.  devotion            | Impact: 0.000733
+18.  each                | Impact: 0.000677
+19.  other               | Impact: 0.000677
+20.  .                   | Impact: 0.000677
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  collection          | Impact: -0.005623
+ 2.  more                | Impact: -0.003297
+ 3.  ]                   | Impact: -0.003297
+ 4.  [                   | Impact: -0.003135
+ 5.  discover            | Impact: -0.003135
+ 6.  [                   | Impact: -0.002923
+ 7.  ]                   | Impact: -0.002886
+ 8.  image               | Impact: -0.002209
+ 9.  [                   | Impact: -0.001270
+10.  shop                | Impact: -0.001270
+11.  plum                | Impact: -0.000850
+12.  backpack            | Impact: -0.000850
+13.  ]                   | Impact: -0.000850
+14.  (                   | Impact: -0.000810
+15.  of                  | Impact: -0.000774
+16.  floral              | Impact: -0.000774
+17.  (                   | Impact: -0.000654
+18.  [                   | Impact: -0.000654
+19.  custom              | Impact: -0.000654
+20.  ]                   | Impact: -0.000654

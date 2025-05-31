@@ -1,0 +1,73 @@
+Sample 164
+==========
+
+Sample text preview: ..more to come. Margaret ---------------------- Forwarded by Margaret Carson/Corp/Enron on // : AM --------------------------- From: Simon Shih on // ...
+
+Model prediction: [9.9978155e-01 2.1842169e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  .                   | Impact: -0.020008 → LEGITIMATE
+ 2.  @                   | Impact: 0.018855 → PHISHING
+ 3. ron                  | Impact: -0.010746 → LEGITIMATE
+ 4.  @                   | Impact: 0.009344 → PHISHING
+ 5.  en                  | Impact: -0.007447 → LEGITIMATE
+ 6.  :                   | Impact: -0.007382 → LEGITIMATE
+ 7.  /                   | Impact: -0.006996 → LEGITIMATE
+ 8. ron                  | Impact: -0.005218 → LEGITIMATE
+ 9.  rob                 | Impact: 0.005005 → PHISHING
+10.  @                   | Impact: 0.004961 → PHISHING
+11.  ee                  | Impact: -0.004924 → LEGITIMATE
+12.  margaret            | Impact: 0.004866 → PHISHING
+13.  en                  | Impact: -0.004269 → LEGITIMATE
+14.  en                  | Impact: -0.004146 → LEGITIMATE
+15.  ,                   | Impact: -0.004034 → LEGITIMATE
+16. ron                  | Impact: -0.003728 → LEGITIMATE
+17.  subject             | Impact: -0.003678 → LEGITIMATE
+18.  en                  | Impact: -0.003457 → LEGITIMATE
+19.  carson              | Impact: -0.003410 → LEGITIMATE
+20.  :                   | Impact: -0.003241 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  @                   | Impact: 0.018855
+ 2.  @                   | Impact: 0.009344
+ 3.  rob                 | Impact: 0.005005
+ 4.  @                   | Impact: 0.004961
+ 5.  margaret            | Impact: 0.004866
+ 6.  come                | Impact: 0.002636
+ 7.  /                   | Impact: 0.001838
+ 8. h                    | Impact: 0.001609
+ 9.  /                   | Impact: 0.001317
+10.  on                  | Impact: 0.000796
+11.  das                 | Impact: 0.000770
+12.  .                   | Impact: 0.000385
+13.  margaret            | Impact: 0.000287
+14.  /                   | Impact: 0.000262
+15.  -                   | Impact: 0.000228
+16.  shi                 | Impact: 0.000220
+17.  corp                | Impact: 0.000171
+18.  -                   | Impact: 0.000002
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.020008
+ 2. ron                  | Impact: -0.010746
+ 3.  en                  | Impact: -0.007447
+ 4.  :                   | Impact: -0.007382
+ 5.  /                   | Impact: -0.006996
+ 6. ron                  | Impact: -0.005218
+ 7.  ee                  | Impact: -0.004924
+ 8.  en                  | Impact: -0.004269
+ 9.  en                  | Impact: -0.004146
+10.  ,                   | Impact: -0.004034
+11. ron                  | Impact: -0.003728
+12.  subject             | Impact: -0.003678
+13.  en                  | Impact: -0.003457
+14.  carson              | Impact: -0.003410
+15.  :                   | Impact: -0.003241
+16.  forward             | Impact: -0.003211
+17.  jeff                | Impact: -0.003195
+18.  .                   | Impact: -0.003174
+19. ron                  | Impact: -0.003144
+20.  -                   | Impact: -0.003125

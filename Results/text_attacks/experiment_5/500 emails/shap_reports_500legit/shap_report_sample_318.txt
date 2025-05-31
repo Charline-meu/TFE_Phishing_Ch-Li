@@ -1,0 +1,75 @@
+Sample 318
+==========
+
+Sample text preview: Steve -- here is another installment on the continuing California story. There is another cartoon idea here. I am ready to get our cartoonist rolling,...
+
+Model prediction: [9.9969304e-01 3.0699465e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.021502 → LEGITIMATE
+ 2.  house               | Impact: 0.020552 → PHISHING
+ 3.  -                   | Impact: -0.014718 → LEGITIMATE
+ 4.  but                 | Impact: 0.012692 → PHISHING
+ 5.  cass                | Impact: -0.012069 → LEGITIMATE
+ 6.  .                   | Impact: -0.011034 → LEGITIMATE
+ 7.  (                   | Impact: 0.010363 → PHISHING
+ 8.  -                   | Impact: -0.009948 → LEGITIMATE
+ 9. e                    | Impact: 0.009932 → PHISHING
+10.  idea                | Impact: -0.009746 → LEGITIMATE
+11.  -                   | Impact: 0.007604 → PHISHING
+12.  )                   | Impact: 0.006201 → PHISHING
+13.  -                   | Impact: -0.005779 → LEGITIMATE
+14.  -                   | Impact: -0.005640 → LEGITIMATE
+15.  daniel              | Impact: 0.005415 → PHISHING
+16.  idea                | Impact: -0.005377 → LEGITIMATE
+17.  cartoonist          | Impact: -0.004999 → LEGITIMATE
+18.  doc                 | Impact: 0.004956 → PHISHING
+19.  -                   | Impact: -0.004752 → LEGITIMATE
+20.  jan                 | Impact: 0.004483 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  house               | Impact: 0.020552
+ 2.  but                 | Impact: 0.012692
+ 3.  (                   | Impact: 0.010363
+ 4. e                    | Impact: 0.009932
+ 5.  -                   | Impact: 0.007604
+ 6.  )                   | Impact: 0.006201
+ 7.  daniel              | Impact: 0.005415
+ 8.  doc                 | Impact: 0.004956
+ 9.  jan                 | Impact: 0.004483
+10.  is                  | Impact: 0.003576
+11. x                    | Impact: 0.002158
+12.  let                 | Impact: 0.002115
+13.  fa                  | Impact: 0.002018
+14.  to                  | Impact: 0.001806
+15.  here                | Impact: 0.001618
+16.  white               | Impact: 0.001579
+17.  california          | Impact: 0.001473
+18.  previous            | Impact: 0.001461
+19.  continuing          | Impact: 0.001460
+20.  ready               | Impact: 0.001250
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.021502
+ 2.  -                   | Impact: -0.014718
+ 3.  cass                | Impact: -0.012069
+ 4.  .                   | Impact: -0.011034
+ 5.  -                   | Impact: -0.009948
+ 6.  idea                | Impact: -0.009746
+ 7.  -                   | Impact: -0.005779
+ 8.  -                   | Impact: -0.005640
+ 9.  idea                | Impact: -0.005377
+10.  cartoonist          | Impact: -0.004999
+11.  -                   | Impact: -0.004752
+12.  the                 | Impact: -0.003802
+13.  .                   | Impact: -0.003688
+14.  writers             | Impact: -0.003201
+15.  -                   | Impact: -0.002905
+16.  know                | Impact: -0.002758
+17.  story               | Impact: -0.002595
+18.  .                   | Impact: -0.002569
+19.  steve               | Impact: -0.002454
+20. or                   | Impact: -0.002351

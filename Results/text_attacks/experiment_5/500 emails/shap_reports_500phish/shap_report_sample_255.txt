@@ -1,0 +1,73 @@
+Sample 255
+==========
+
+Sample text preview: Your web-mail account will expire in days on Monday, March . or you will be unable to use your web mail account resources. Kindly update your email ac...
+
+Model prediction: [1.9067657e-04 9.9980932e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  account             | Impact: 0.107604 → PHISHING
+ 2.  account             | Impact: 0.095682 → PHISHING
+ 3.  mail                | Impact: 0.071955 → PHISHING
+ 4.  account             | Impact: 0.066791 → PHISHING
+ 5.  your                | Impact: 0.065513 → PHISHING
+ 6.  account             | Impact: 0.058580 → PHISHING
+ 7.  your                | Impact: 0.054868 → PHISHING
+ 8.  mail                | Impact: 0.044169 → PHISHING
+ 9.  email               | Impact: 0.029283 → PHISHING
+10.  click               | Impact: 0.029225 → PHISHING
+11. ivated               | Impact: 0.024399 → PHISHING
+12.  web                 | Impact: 0.022454 → PHISHING
+13.  portal              | Impact: 0.021296 → PHISHING
+14.  kindly              | Impact: 0.021109 → PHISHING
+15.  your                | Impact: 0.020191 → PHISHING
+16.  your                | Impact: 0.020012 → PHISHING
+17.  email               | Impact: 0.020001 → PHISHING
+18.  web                 | Impact: 0.019219 → PHISHING
+19.  email               | Impact: 0.017942 → PHISHING
+20.  dea                 | Impact: 0.016133 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  account             | Impact: 0.107604
+ 2.  account             | Impact: 0.095682
+ 3.  mail                | Impact: 0.071955
+ 4.  account             | Impact: 0.066791
+ 5.  your                | Impact: 0.065513
+ 6.  account             | Impact: 0.058580
+ 7.  your                | Impact: 0.054868
+ 8.  mail                | Impact: 0.044169
+ 9.  email               | Impact: 0.029283
+10.  click               | Impact: 0.029225
+11. ivated               | Impact: 0.024399
+12.  web                 | Impact: 0.022454
+13.  portal              | Impact: 0.021296
+14.  kindly              | Impact: 0.021109
+15.  your                | Impact: 0.020191
+16.  your                | Impact: 0.020012
+17.  email               | Impact: 0.020001
+18.  web                 | Impact: 0.019219
+19.  email               | Impact: 0.017942
+20.  dea                 | Impact: 0.016133
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  use                 | Impact: -0.008431
+ 2.  will                | Impact: -0.007478
+ 3.  .                   | Impact: -0.005885
+ 4.  >                   | Impact: -0.005813
+ 5.  .                   | Impact: -0.005193
+ 6.  resources           | Impact: -0.005133
+ 7.  >                   | Impact: -0.004636
+ 8.  or                  | Impact: -0.004041
+ 9.  -                   | Impact: -0.001622
+10.  .                   | Impact: -0.001492
+11.  to                  | Impact: -0.001436
+12.  >                   | Impact: -0.001057
+13.  march               | Impact: -0.000974
+14.  >                   | Impact: -0.000710
+15.  if                  | Impact: -0.000669
+16.  you                 | Impact: -0.000669
+17.  do                  | Impact: -0.000669
+18.  not                 | Impact: -0.000669

@@ -1,0 +1,75 @@
+Phishing Sample 7
+=================
+
+Sample text preview: ATTENTION. Hello Sir, I am PRINCE OGO,a member of the Movement For Democratic Change in Zimbabwe...my party is opposed to the Zanu-PF party of the inc...
+
+Model prediction: [1.8972484e-04 9.9981028e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.019128 → PHISHING
+ 2.  country             | Impact: 0.019128 → PHISHING
+ 3.  account             | Impact: 0.015169 → PHISHING
+ 4.  in                  | Impact: 0.015169 → PHISHING
+ 5.  the                 | Impact: 0.012318 → PHISHING
+ 6.  money               | Impact: 0.012318 → PHISHING
+ 7.  through             | Impact: 0.012318 → PHISHING
+ 8.  your                | Impact: 0.012318 → PHISHING
+ 9.  assist              | Impact: 0.010651 → PHISHING
+10.  us                  | Impact: 0.010651 → PHISHING
+11.  to                  | Impact: 0.010651 → PHISHING
+12.  relocate            | Impact: 0.010651 → PHISHING
+13.  fund                | Impact: 0.009922 → PHISHING
+14.  in                  | Impact: 0.009922 → PHISHING
+15.  your                | Impact: 0.009922 → PHISHING
+16.  proper              | Impact: 0.007633 → PHISHING
+17.  investment          | Impact: 0.007633 → PHISHING
+18.  of                  | Impact: 0.007633 → PHISHING
+19.  the                 | Impact: 0.007633 → PHISHING
+20.  con                 | Impact: 0.006564 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.019128
+ 2.  country             | Impact: 0.019128
+ 3.  account             | Impact: 0.015169
+ 4.  in                  | Impact: 0.015169
+ 5.  the                 | Impact: 0.012318
+ 6.  money               | Impact: 0.012318
+ 7.  through             | Impact: 0.012318
+ 8.  your                | Impact: 0.012318
+ 9.  assist              | Impact: 0.010651
+10.  us                  | Impact: 0.010651
+11.  to                  | Impact: 0.010651
+12.  relocate            | Impact: 0.010651
+13.  fund                | Impact: 0.009922
+14.  in                  | Impact: 0.009922
+15.  your                | Impact: 0.009922
+16.  proper              | Impact: 0.007633
+17.  investment          | Impact: 0.007633
+18.  of                  | Impact: 0.007633
+19.  the                 | Impact: 0.007633
+20.  con                 | Impact: 0.006564
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.000514
+ 2.  attention           | Impact: -0.000514
+ 3.  .                   | Impact: -0.000514
+ 4.  i                   | Impact: -0.000271
+ 5.  have                | Impact: -0.000271
+ 6.  also                | Impact: -0.000271
+ 7.  mapped              | Impact: -0.000271
+ 8.  out                 | Impact: -0.000271
+ 9.  %                   | Impact: -0.000271
+10.  of                  | Impact: -0.000271
+11.  the                 | Impact: -0.000271
+12.  money               | Impact: -0.000271
+13.  for                 | Impact: -0.000271
+14.  all                 | Impact: -0.000271
+15.  kinds               | Impact: -0.000271
+16.  of                  | Impact: -0.000271
+17.  expenses            | Impact: -0.000271
+18.  inc                 | Impact: -0.000271
+19. ured                 | Impact: -0.000271
+20.  in                  | Impact: -0.000271

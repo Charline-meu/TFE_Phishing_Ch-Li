@@ -1,0 +1,75 @@
+Sample 456
+==========
+
+Sample text preview: FROM THE DESK OF : MR MOSE MALIKI AUDITING AND ACCOUNTING SECTION, AFRICAN DEVLOPMENT BANK ( A.D.B ) OUAGADOUGOU BURKINA-FASO,WEST AFRICA. ATTENTION P...
+
+Model prediction: [2.4394561e-04 9.9975604e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  designation         | Impact: 0.007997 → PHISHING
+ 2.  bank                | Impact: 0.007997 → PHISHING
+ 3.  account             | Impact: 0.007997 → PHISHING
+ 4.  .                   | Impact: 0.007997 → PHISHING
+ 5.  transfer            | Impact: 0.007576 → PHISHING
+ 6.  this                | Impact: 0.007576 → PHISHING
+ 7.  money               | Impact: 0.007576 → PHISHING
+ 8.  to                  | Impact: 0.007576 → PHISHING
+ 9.  need                | Impact: 0.005360 → PHISHING
+10.  the                 | Impact: 0.005360 → PHISHING
+11.  money               | Impact: 0.005360 → PHISHING
+12.  to                  | Impact: 0.005360 → PHISHING
+13.  be                  | Impact: 0.005360 → PHISHING
+14.  re                  | Impact: 0.005360 → PHISHING
+15.  -                   | Impact: 0.005360 → PHISHING
+16.  transferred         | Impact: 0.005360 → PHISHING
+17.  re                  | Impact: 0.005343 → PHISHING
+18. mit                  | Impact: 0.005343 → PHISHING
+19. ted                  | Impact: 0.005343 → PHISHING
+20.  from                | Impact: 0.005343 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  designation         | Impact: 0.007997
+ 2.  bank                | Impact: 0.007997
+ 3.  account             | Impact: 0.007997
+ 4.  .                   | Impact: 0.007997
+ 5.  transfer            | Impact: 0.007576
+ 6.  this                | Impact: 0.007576
+ 7.  money               | Impact: 0.007576
+ 8.  to                  | Impact: 0.007576
+ 9.  need                | Impact: 0.005360
+10.  the                 | Impact: 0.005360
+11.  money               | Impact: 0.005360
+12.  to                  | Impact: 0.005360
+13.  be                  | Impact: 0.005360
+14.  re                  | Impact: 0.005360
+15.  -                   | Impact: 0.005360
+16.  transferred         | Impact: 0.005360
+17.  re                  | Impact: 0.005343
+18. mit                  | Impact: 0.005343
+19. ted                  | Impact: 0.005343
+20.  from                | Impact: 0.005343
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  internet            | Impact: -0.000430
+ 2.  bills               | Impact: -0.000430
+ 3.  ,                   | Impact: -0.000430
+ 4.  and                 | Impact: -0.000430
+ 5.  and                 | Impact: -0.000430
+ 6.  also                | Impact: -0.000430
+ 7.  telephone           | Impact: -0.000430
+ 8.  eye                 | Impact: -0.000292
+ 9.  brow                | Impact: -0.000292
+10.  on                  | Impact: -0.000292
+11.  my                  | Impact: -0.000292
+12.  side                | Impact: -0.000292
+13.  during              | Impact: -0.000292
+14.  the                 | Impact: -0.000292
+15.  time                | Impact: -0.000292
+16.  and                 | Impact: -0.000292
+17.  would               | Impact: -0.000292
+18.  eventually          | Impact: -0.000292
+19.  raise               | Impact: -0.000292
+20.  an                  | Impact: -0.000292

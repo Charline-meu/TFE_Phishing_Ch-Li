@@ -1,0 +1,75 @@
+Sample 253
+==========
+
+Sample text preview: Dear USAA Member, We are sorry to inform you that, your contact information was not received by the USAA Security IPD Sever (USIS). We request you to ...
+
+Model prediction: [1.8702545e-04 9.9981302e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  usa                 | Impact: 0.071554 → PHISHING
+ 2.  you                 | Impact: 0.059758 → PHISHING
+ 3.  dear                | Impact: 0.046294 → PHISHING
+ 4.  serve               | Impact: 0.045576 → PHISHING
+ 5.  account             | Impact: 0.042873 → PHISHING
+ 6.  your                | Impact: 0.042106 → PHISHING
+ 7.  protected           | Impact: 0.033394 → PHISHING
+ 8.  us                  | Impact: 0.032827 → PHISHING
+ 9.  your                | Impact: 0.032645 → PHISHING
+10.  you                 | Impact: 0.028429 → PHISHING
+11.  immediate           | Impact: 0.026703 → PHISHING
+12.  you                 | Impact: 0.026535 → PHISHING
+13.  security            | Impact: 0.025158 → PHISHING
+14.  request             | Impact: 0.023701 → PHISHING
+15.  contact             | Impact: 0.022750 → PHISHING
+16.  to                  | Impact: 0.021395 → PHISHING
+17.  click               | Impact: 0.020998 → PHISHING
+18.  valid               | Impact: 0.017670 → PHISHING
+19.  sorry               | Impact: 0.017130 → PHISHING
+20.  here                | Impact: 0.015984 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  usa                 | Impact: 0.071554
+ 2.  you                 | Impact: 0.059758
+ 3.  dear                | Impact: 0.046294
+ 4.  serve               | Impact: 0.045576
+ 5.  account             | Impact: 0.042873
+ 6.  your                | Impact: 0.042106
+ 7.  protected           | Impact: 0.033394
+ 8.  us                  | Impact: 0.032827
+ 9.  your                | Impact: 0.032645
+10.  you                 | Impact: 0.028429
+11.  immediate           | Impact: 0.026703
+12.  you                 | Impact: 0.026535
+13.  security            | Impact: 0.025158
+14.  request             | Impact: 0.023701
+15.  contact             | Impact: 0.022750
+16.  to                  | Impact: 0.021395
+17.  click               | Impact: 0.020998
+18.  valid               | Impact: 0.017670
+19.  sorry               | Impact: 0.017130
+20.  here                | Impact: 0.015984
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thank               | Impact: -0.009857
+ 2.  update              | Impact: -0.009081
+ 3.  quick               | Impact: -0.004846
+ 4.  ,                   | Impact: -0.002937
+ 5.  that                | Impact: -0.002807
+ 6.  to                  | Impact: -0.001085
+ 7.  have                | Impact: -0.000657
+ 8.  a                   | Impact: -0.000657
+ 9.  ,                   | Impact: -0.000488
+10.  ip                  | Impact: -0.000303
+11. d                    | Impact: -0.000303
+12.  se                  | Impact: -0.000303
+13. ver                  | Impact: -0.000303
+14.  (                   | Impact: -0.000303
+15.  us                  | Impact: -0.000303
+16. is                   | Impact: -0.000303
+17.  )                   | Impact: -0.000303
+18.  .                   | Impact: -0.000303
+19.  for                 | Impact: -0.000194
+20.  helping             | Impact: -0.000194

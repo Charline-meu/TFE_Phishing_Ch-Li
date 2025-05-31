@@ -1,0 +1,75 @@
+Sample 9
+========
+
+Sample text preview: FROM AUDITOR HEAD OF DEPARTMENT BANK OF SCOTLAND UNITED KINGDOM // ATTENTION! ATTENTION! ATTENTION! (CONFIDENTIAL BUSINESS) DEAR FRIEND I WANT TO TRAN...
+
+Model prediction: [1.7756980e-04 9.9982244e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.007088 → PHISHING
+ 2.  friend              | Impact: 0.007088 → PHISHING
+ 3.  i                   | Impact: 0.007088 → PHISHING
+ 4.  want                | Impact: 0.007088 → PHISHING
+ 5.  to                  | Impact: 0.006335 → PHISHING
+ 6.  transfer            | Impact: 0.006335 → PHISHING
+ 7.  out                 | Impact: 0.006335 → PHISHING
+ 8.  in                  | Impact: 0.006199 → PHISHING
+ 9.  scotland            | Impact: 0.006199 → PHISHING
+10.  .                   | Impact: 0.006199 → PHISHING
+11.  from                | Impact: 0.006199 → PHISHING
+12.  our                 | Impact: 0.006199 → PHISHING
+13.  bank                | Impact: 0.006199 → PHISHING
+14.  here                | Impact: 0.006199 → PHISHING
+15.  of                  | Impact: 0.005886 → PHISHING
+16.  this                | Impact: 0.005886 → PHISHING
+17.  account             | Impact: 0.005886 → PHISHING
+18.  is                  | Impact: 0.005886 → PHISHING
+19.  mr                  | Impact: 0.005886 → PHISHING
+20.  john                | Impact: 0.005886 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.007088
+ 2.  friend              | Impact: 0.007088
+ 3.  i                   | Impact: 0.007088
+ 4.  want                | Impact: 0.007088
+ 5.  to                  | Impact: 0.006335
+ 6.  transfer            | Impact: 0.006335
+ 7.  out                 | Impact: 0.006335
+ 8.  in                  | Impact: 0.006199
+ 9.  scotland            | Impact: 0.006199
+10.  .                   | Impact: 0.006199
+11.  from                | Impact: 0.006199
+12.  our                 | Impact: 0.006199
+13.  bank                | Impact: 0.006199
+14.  here                | Impact: 0.006199
+15.  of                  | Impact: 0.005886
+16.  this                | Impact: 0.005886
+17.  account             | Impact: 0.005886
+18.  is                  | Impact: 0.005886
+19.  mr                  | Impact: 0.005886
+20.  john                | Impact: 0.005886
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  /                   | Impact: -0.000955
+ 2.  attention           | Impact: -0.000955
+ 3.  !                   | Impact: -0.000955
+ 4.  scotland            | Impact: -0.000955
+ 5.  united              | Impact: -0.000955
+ 6.  kingdom             | Impact: -0.000955
+ 7.  /                   | Impact: -0.000955
+ 8.                      | Impact: -0.000689
+ 9.  from                | Impact: -0.000689
+10.  auditor             | Impact: -0.000689
+11.  head                | Impact: -0.000689
+12.  of                  | Impact: -0.000689
+13.  department          | Impact: -0.000689
+14.  bank                | Impact: -0.000689
+15.  of                  | Impact: -0.000689
+16.  pending             | Impact: -0.000000
+17.  my                  | Impact: -0.000000
+18.  physical            | Impact: -0.000000
+19.  arrival             | Impact: -0.000000
+20.  to                  | Impact: -0.000000

@@ -1,0 +1,44 @@
+Phishing Sample 9
+=================
+
+Sample text preview: USAA Security Preferences Message Alert.Click below to view secured Message
+
+Model prediction: [0.00926667 0.99073327]
+Predicted class: PHISHING with 0.9907 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  preferences         | Impact: -0.370832 → LEGITIMATE
+ 2.  security            | Impact: 0.256594 → PHISHING
+ 3.  message             | Impact: 0.204683 → PHISHING
+ 4.  alert               | Impact: 0.121769 → PHISHING
+ 5.  .                   | Impact: 0.104966 → PHISHING
+ 6.  click               | Impact: 0.100853 → PHISHING
+ 7.  secured             | Impact: 0.082658 → PHISHING
+ 8.  message             | Impact: 0.073562 → PHISHING
+ 9.  view                | Impact: 0.067860 → PHISHING
+10.  below               | Impact: 0.036324 → PHISHING
+11. a                    | Impact: 0.014833 → PHISHING
+12.  usa                 | Impact: 0.012174 → PHISHING
+13.  to                  | Impact: 0.011527 → PHISHING
+14.                      | Impact: 0.000000 → PHISHING
+15.                      | Impact: 0.000000 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  security            | Impact: 0.256594
+ 2.  message             | Impact: 0.204683
+ 3.  alert               | Impact: 0.121769
+ 4.  .                   | Impact: 0.104966
+ 5.  click               | Impact: 0.100853
+ 6.  secured             | Impact: 0.082658
+ 7.  message             | Impact: 0.073562
+ 8.  view                | Impact: 0.067860
+ 9.  below               | Impact: 0.036324
+10. a                    | Impact: 0.014833
+11.  usa                 | Impact: 0.012174
+12.  to                  | Impact: 0.011527
+13.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  preferences         | Impact: -0.370832

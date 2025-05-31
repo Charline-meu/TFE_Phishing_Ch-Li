@@ -1,0 +1,75 @@
+Phishing Sample 69
+==================
+
+Sample text preview: Date: Tuesday, August , (Not October, sorry for confusion) Time: : p.m. (CDT) Dial in: --- Host Code: Participante Code: Conference Room C has been re...
+
+Model prediction: [9.9926096e-01 7.3898851e-04]
+Predicted class: LEGITIMATE with 0.9993 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  thanks              | Impact: -0.036133 → LEGITIMATE
+ 2.  !                   | Impact: 0.024102 → PHISHING
+ 3. t                    | Impact: -0.014073 → LEGITIMATE
+ 4.  date                | Impact: 0.013285 → PHISHING
+ 5.  tuesday             | Impact: -0.012673 → LEGITIMATE
+ 6.  cd                  | Impact: 0.011791 → PHISHING
+ 7.  :                   | Impact: -0.008858 → LEGITIMATE
+ 8.  -                   | Impact: -0.008067 → LEGITIMATE
+ 9.  ,                   | Impact: -0.006875 → LEGITIMATE
+10.  .                   | Impact: -0.006761 → LEGITIMATE
+11.  :                   | Impact: -0.006455 → LEGITIMATE
+12.  (                   | Impact: 0.005854 → PHISHING
+13.  code                | Impact: 0.005471 → PHISHING
+14.  m                   | Impact: 0.005088 → PHISHING
+15.  .                   | Impact: -0.004641 → LEGITIMATE
+16.  participant         | Impact: -0.004514 → LEGITIMATE
+17.  those               | Impact: -0.004457 → LEGITIMATE
+18.  room                | Impact: 0.004159 → PHISHING
+19.  !                   | Impact: 0.003920 → PHISHING
+20.  :                   | Impact: -0.003837 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.024102
+ 2.  date                | Impact: 0.013285
+ 3.  cd                  | Impact: 0.011791
+ 4.  (                   | Impact: 0.005854
+ 5.  code                | Impact: 0.005471
+ 6.  m                   | Impact: 0.005088
+ 7.  room                | Impact: 0.004159
+ 8.  !                   | Impact: 0.003920
+ 9.  been                | Impact: 0.003823
+10.  )                   | Impact: 0.003424
+11.  (                   | Impact: 0.002912
+12.  august              | Impact: 0.002301
+13.  host                | Impact: 0.001563
+14.  dial                | Impact: 0.001459
+15.  in                  | Impact: 0.001357
+16.  .                   | Impact: 0.001019
+17.  houston             | Impact: 0.000841
+18.  c                   | Impact: 0.000625
+19. e                    | Impact: 0.000578
+20.  code                | Impact: 0.000546
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.036133
+ 2. t                    | Impact: -0.014073
+ 3.  tuesday             | Impact: -0.012673
+ 4.  :                   | Impact: -0.008858
+ 5.  -                   | Impact: -0.008067
+ 6.  ,                   | Impact: -0.006875
+ 7.  .                   | Impact: -0.006761
+ 8.  :                   | Impact: -0.006455
+ 9.  .                   | Impact: -0.004641
+10.  participant         | Impact: -0.004514
+11.  those               | Impact: -0.004457
+12.  :                   | Impact: -0.003837
+13.  conference          | Impact: -0.003817
+14.  -                   | Impact: -0.003492
+15.  :                   | Impact: -0.003002
+16.  not                 | Impact: -0.002795
+17.  :                   | Impact: -0.002435
+18.  ,                   | Impact: -0.002210
+19.  )                   | Impact: -0.002013
+20.  :                   | Impact: -0.001979

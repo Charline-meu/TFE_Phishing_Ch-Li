@@ -1,0 +1,75 @@
+Sample 110
+==========
+
+Sample text preview: On Tue, Sep wrote: --]Klez, most likely. It'll pick up your address and send mail to all your --]friends, and your strangers, as if coming from you. N...
+
+Model prediction: [9.997484e-01 2.516072e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ,                   | Impact: -0.014351 → LEGITIMATE
+ 2.  friends             | Impact: 0.012789 → PHISHING
+ 3.  wrote               | Impact: -0.011870 → LEGITIMATE
+ 4.  strangers           | Impact: 0.010803 → PHISHING
+ 5.  your                | Impact: 0.010593 → PHISHING
+ 6.  likely              | Impact: -0.010410 → LEGITIMATE
+ 7.  -                   | Impact: -0.009448 → LEGITIMATE
+ 8.  ]                   | Impact: -0.009448 → LEGITIMATE
+ 9.  outlook             | Impact: -0.009047 → LEGITIMATE
+10.  use                 | Impact: -0.008884 → LEGITIMATE
+11.  nice                | Impact: -0.008288 → LEGITIMATE
+12.  tu                  | Impact: -0.007313 → LEGITIMATE
+13.  address             | Impact: 0.006749 → PHISHING
+14.  ]                   | Impact: -0.006584 → LEGITIMATE
+15.  sep                 | Impact: -0.006518 → LEGITIMATE
+16.  ll                  | Impact: -0.005907 → LEGITIMATE
+17.  pick                | Impact: -0.005831 → LEGITIMATE
+18.  meet                | Impact: 0.005354 → PHISHING
+19.  .                   | Impact: -0.005195 → LEGITIMATE
+20.  lose                | Impact: 0.005097 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  friends             | Impact: 0.012789
+ 2.  strangers           | Impact: 0.010803
+ 3.  your                | Impact: 0.010593
+ 4.  address             | Impact: 0.006749
+ 5.  meet                | Impact: 0.005354
+ 6.  lose                | Impact: 0.005097
+ 7.  strangers           | Impact: 0.004768
+ 8.  you                 | Impact: 0.003980
+ 9.  friends             | Impact: 0.003796
+10.  .                   | Impact: 0.002869
+11.  and                 | Impact: 0.002677
+12.  up                  | Impact: 0.002539
+13.  your                | Impact: 0.002539
+14.  your                | Impact: 0.001546
+15.  send                | Impact: 0.001528
+16.  all                 | Impact: 0.001485
+17.  hands               | Impact: 0.001481
+18.  .                   | Impact: 0.001411
+19.  on                  | Impact: 0.001372
+20.  to                  | Impact: 0.001189
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ,                   | Impact: -0.014351
+ 2.  wrote               | Impact: -0.011870
+ 3.  likely              | Impact: -0.010410
+ 4.  -                   | Impact: -0.009448
+ 5.  ]                   | Impact: -0.009448
+ 6.  outlook             | Impact: -0.009047
+ 7.  use                 | Impact: -0.008884
+ 8.  nice                | Impact: -0.008288
+ 9.  tu                  | Impact: -0.007313
+10.  ]                   | Impact: -0.006584
+11.  sep                 | Impact: -0.006518
+12.  ll                  | Impact: -0.005907
+13.  pick                | Impact: -0.005831
+14.  .                   | Impact: -0.005195
+15.  .                   | Impact: -0.005039
+16. t                    | Impact: -0.004200
+17.  friends             | Impact: -0.003871
+18.  ,                   | Impact: -0.003509
+19.  -                   | Impact: -0.003380
+20.  ]                   | Impact: -0.003380

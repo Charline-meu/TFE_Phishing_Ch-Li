@@ -1,0 +1,75 @@
+Sample 473
+==========
+
+Sample text preview: writes to the NYISO_TECH_EXCHANGE Discussion List: In its Order on Rehearing issued by FERC in Docket ER-- on November , , the Commission directed the...
+
+Model prediction: [9.9977738e-01 2.2267565e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  writes              | Impact: -0.006130 → LEGITIMATE
+ 2.  issued              | Impact: -0.004668 → LEGITIMATE
+ 3.  advisory            | Impact: -0.003729 → LEGITIMATE
+ 4.  billing             | Impact: -0.003729 → LEGITIMATE
+ 5.  should              | Impact: -0.002908 → LEGITIMATE
+ 6.  complete            | Impact: -0.002908 → LEGITIMATE
+ 7. ices                 | Impact: -0.002899 → LEGITIMATE
+ 8.  amount              | Impact: -0.002799 → LEGITIMATE
+ 9.  statements          | Impact: -0.002664 → LEGITIMATE
+10.  have                | Impact: -0.002664 → LEGITIMATE
+11.  .                   | Impact: 0.002582 → PHISHING
+12.  calculate           | Impact: -0.002519 → LEGITIMATE
+13.  in                  | Impact: -0.002513 → LEGITIMATE
+14. vo                   | Impact: -0.002513 → LEGITIMATE
+15.  commission          | Impact: -0.002487 → LEGITIMATE
+16.  been                | Impact: -0.002343 → LEGITIMATE
+17.  posting             | Impact: -0.002343 → LEGITIMATE
+18.  to                  | Impact: -0.002343 → LEGITIMATE
+19.  customer            | Impact: -0.002343 → LEGITIMATE
+20.  by                  | Impact: -0.002288 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.002582
+ 2.  manager             | Impact: 0.001800
+ 3.  ,                   | Impact: 0.000979
+ 4.  -                   | Impact: 0.000689
+ 5.  november            | Impact: 0.000593
+ 6.  .                   | Impact: 0.000570
+ 7.  ,                   | Impact: 0.000300
+ 8.  .                   | Impact: 0.000250
+ 9.  ny                  | Impact: 0.000214
+10. iso                  | Impact: 0.000214
+11.  ,                   | Impact: 0.000196
+12.  bow                 | Impact: 0.000055
+13. ers                  | Impact: 0.000055
+14.  manager             | Impact: 0.000055
+15.  -                   | Impact: 0.000055
+16.  regards             | Impact: 0.000055
+17.  ,                   | Impact: 0.000055
+18.  randy               | Impact: 0.000055
+19.  a                   | Impact: 0.000055
+20.  .                   | Impact: 0.000055
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  writes              | Impact: -0.006130
+ 2.  issued              | Impact: -0.004668
+ 3.  advisory            | Impact: -0.003729
+ 4.  billing             | Impact: -0.003729
+ 5.  should              | Impact: -0.002908
+ 6.  complete            | Impact: -0.002908
+ 7. ices                 | Impact: -0.002899
+ 8.  amount              | Impact: -0.002799
+ 9.  statements          | Impact: -0.002664
+10.  have                | Impact: -0.002664
+11.  calculate           | Impact: -0.002519
+12.  in                  | Impact: -0.002513
+13. vo                   | Impact: -0.002513
+14.  commission          | Impact: -0.002487
+15.  been                | Impact: -0.002343
+16.  posting             | Impact: -0.002343
+17.  to                  | Impact: -0.002343
+18.  customer            | Impact: -0.002343
+19.  by                  | Impact: -0.002288
+20.  :                   | Impact: -0.002288

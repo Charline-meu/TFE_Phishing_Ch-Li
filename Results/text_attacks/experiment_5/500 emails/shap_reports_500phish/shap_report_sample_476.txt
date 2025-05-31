@@ -1,0 +1,75 @@
+Sample 476
+==========
+
+Sample text preview: Dear Friend, How are you doing? I would be very interested in offering you a part-time paying job in which you could earn a lot. My name is Kenneth Sc...
+
+Model prediction: [1.6901466e-04 9.9983096e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  name                | Impact: 0.011642 → PHISHING
+ 2.  address             | Impact: 0.011642 → PHISHING
+ 3.  state               | Impact: 0.011642 → PHISHING
+ 4.  city                | Impact: 0.011642 → PHISHING
+ 5.  name                | Impact: 0.009836 → PHISHING
+ 6.  your                | Impact: 0.009763 → PHISHING
+ 7.  bank                | Impact: 0.009763 → PHISHING
+ 8.  .                   | Impact: 0.009763 → PHISHING
+ 9.  my                  | Impact: 0.009381 → PHISHING
+10.  cash                | Impact: 0.008596 → PHISHING
+11.  the                 | Impact: 0.008596 → PHISHING
+12.  payments            | Impact: 0.008596 → PHISHING
+13.  at                  | Impact: 0.008596 → PHISHING
+14.                      | Impact: 0.007419 → PHISHING
+15.  dear                | Impact: 0.007419 → PHISHING
+16.  friend              | Impact: 0.007419 → PHISHING
+17.  representative      | Impact: 0.006646 → PHISHING
+18.  in                  | Impact: 0.006646 → PHISHING
+19.  your                | Impact: 0.006646 → PHISHING
+20.  country             | Impact: 0.006646 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  name                | Impact: 0.011642
+ 2.  address             | Impact: 0.011642
+ 3.  state               | Impact: 0.011642
+ 4.  city                | Impact: 0.011642
+ 5.  name                | Impact: 0.009836
+ 6.  your                | Impact: 0.009763
+ 7.  bank                | Impact: 0.009763
+ 8.  .                   | Impact: 0.009763
+ 9.  my                  | Impact: 0.009381
+10.  cash                | Impact: 0.008596
+11.  the                 | Impact: 0.008596
+12.  payments            | Impact: 0.008596
+13.  at                  | Impact: 0.008596
+14.                      | Impact: 0.007419
+15.  dear                | Impact: 0.007419
+16.  friend              | Impact: 0.007419
+17.  representative      | Impact: 0.006646
+18.  in                  | Impact: 0.006646
+19.  your                | Impact: 0.006646
+20.  country             | Impact: 0.006646
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.001220
+ 2.  i                   | Impact: -0.001220
+ 3.  .                   | Impact: -0.001220
+ 4.  e                   | Impact: -0.001220
+ 5.  .                   | Impact: -0.001220
+ 6.  job                 | Impact: -0.000508
+ 7.  description         | Impact: -0.000508
+ 8.  ?                   | Impact: -0.000508
+ 9.  .                   | Impact: -0.000508
+10.  your                | Impact: -0.000072
+11.  commission          | Impact: -0.000072
+12.  /                   | Impact: -0.000072
+13.  percentage          | Impact: -0.000072
+14.  on                  | Impact: -0.000072
+15.  payment             | Impact: -0.000072
+16.  processed           | Impact: -0.000072
+17.  .                   | Impact: -0.000072
+18.  i                   | Impact: -0.000003
+19.  just                | Impact: -0.000003
+20.  resigned            | Impact: -0.000003

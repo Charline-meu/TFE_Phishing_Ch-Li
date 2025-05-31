@@ -1,0 +1,75 @@
+Phishing Sample 10
+==================
+
+Sample text preview: [IMAGE] [IMAGE] [IMAGE] We can help you get it! The House of Education, the leading online education portal, lets you shop and compare certificate and...
+
+Model prediction: [0.9986527  0.00134729]
+Predicted class: LEGITIMATE with 0.9987 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  com                 | Impact: -0.013076 → LEGITIMATE
+ 2.  image               | Impact: -0.010537 → LEGITIMATE
+ 3.  ]                   | Impact: -0.010006 → LEGITIMATE
+ 4.  income              | Impact: 0.009625 → PHISHING
+ 5.  your                | Impact: 0.007903 → PHISHING
+ 6.  [                   | Impact: -0.007844 → LEGITIMATE
+ 7.  degree              | Impact: -0.007842 → LEGITIMATE
+ 8.  ]                   | Impact: -0.007523 → LEGITIMATE
+ 9.  please              | Impact: 0.007355 → PHISHING
+10.  click               | Impact: 0.006363 → PHISHING
+11.  here                | Impact: 0.005919 → PHISHING
+12.  future              | Impact: 0.004791 → PHISHING
+13.  earn                | Impact: 0.004695 → PHISHING
+14.  image               | Impact: -0.003734 → LEGITIMATE
+15.  member              | Impact: -0.003567 → LEGITIMATE
+16.  [                   | Impact: -0.003520 → LEGITIMATE
+17. su                   | Impact: -0.003394 → LEGITIMATE
+18.  you                 | Impact: 0.003153 → PHISHING
+19.  are                 | Impact: 0.002988 → PHISHING
+20.  image               | Impact: -0.002877 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  income              | Impact: 0.009625
+ 2.  your                | Impact: 0.007903
+ 3.  please              | Impact: 0.007355
+ 4.  click               | Impact: 0.006363
+ 5.  here                | Impact: 0.005919
+ 6.  future              | Impact: 0.004791
+ 7.  earn                | Impact: 0.004695
+ 8.  you                 | Impact: 0.003153
+ 9.  are                 | Impact: 0.002988
+10.  successful          | Impact: 0.002531
+11.  you                 | Impact: 0.002144
+12.  more                | Impact: 0.001856
+13.  special             | Impact: 0.001827
+14.  offer               | Impact: 0.001827
+15.  receiving           | Impact: 0.001692
+16.  this                | Impact: 0.001692
+17.  to                  | Impact: 0.001586
+18.  as                  | Impact: 0.001488
+19.  a                   | Impact: 0.001488
+20.  valued              | Impact: 0.001488
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  com                 | Impact: -0.013076
+ 2.  image               | Impact: -0.010537
+ 3.  ]                   | Impact: -0.010006
+ 4.  [                   | Impact: -0.007844
+ 5.  degree              | Impact: -0.007842
+ 6.  ]                   | Impact: -0.007523
+ 7.  image               | Impact: -0.003734
+ 8.  member              | Impact: -0.003567
+ 9.  [                   | Impact: -0.003520
+10. su                   | Impact: -0.003394
+11.  image               | Impact: -0.002877
+12.  ]                   | Impact: -0.002744
+13.  [                   | Impact: -0.002536
+14.  .                   | Impact: -0.002361
+15.  ]                   | Impact: -0.002309
+16.  .                   | Impact: -0.002245
+17.  image               | Impact: -0.002086
+18.  .                   | Impact: -0.001873
+19. ibe                  | Impact: -0.001855
+20.  prepare             | Impact: -0.001155

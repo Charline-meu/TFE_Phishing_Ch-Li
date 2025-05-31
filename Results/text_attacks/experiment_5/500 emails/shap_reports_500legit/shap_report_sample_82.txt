@@ -1,0 +1,75 @@
+Sample 82
+=========
+
+Sample text preview: Attached please find the latest LV Cogen Turbine Agreement (second document below), as well as a blackline (first document below) showing changes made...
+
+Model prediction: [9.9978667e-01 2.1333438e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  agreement           | Impact: -0.007494 → LEGITIMATE
+ 2.  turbine             | Impact: -0.006041 → LEGITIMATE
+ 3.  i                   | Impact: -0.005656 → LEGITIMATE
+ 4.  doc                 | Impact: -0.004036 → LEGITIMATE
+ 5.  need                | Impact: -0.003582 → LEGITIMATE
+ 6.  insert              | Impact: 0.003484 → PHISHING
+ 7.  contained           | Impact: 0.003212 → PHISHING
+ 8.  changes             | Impact: -0.003155 → LEGITIMATE
+ 9.  to                  | Impact: -0.002909 → LEGITIMATE
+10.  please              | Impact: 0.002851 → PHISHING
+11.  _                   | Impact: 0.002733 → PHISHING
+12.  find                | Impact: 0.002541 → PHISHING
+13.  (                   | Impact: 0.002531 → PHISHING
+14.  have                | Impact: -0.002488 → LEGITIMATE
+15.  ship                | Impact: 0.002326 → PHISHING
+16.  guaranteed          | Impact: 0.002116 → PHISHING
+17.  delivery            | Impact: 0.002116 → PHISHING
+18.  dates               | Impact: 0.002116 → PHISHING
+19.  gas                 | Impact: -0.001950 → LEGITIMATE
+20.  turbine             | Impact: -0.001950 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  insert              | Impact: 0.003484
+ 2.  contained           | Impact: 0.003212
+ 3.  please              | Impact: 0.002851
+ 4.  _                   | Impact: 0.002733
+ 5.  find                | Impact: 0.002541
+ 6.  (                   | Impact: 0.002531
+ 7.  ship                | Impact: 0.002326
+ 8.  guaranteed          | Impact: 0.002116
+ 9.  delivery            | Impact: 0.002116
+10.  dates               | Impact: 0.002116
+11.  in                  | Impact: 0.001734
+12.  the                 | Impact: 0.001470
+13.  <                   | Impact: 0.001448
+14.  <                   | Impact: 0.001268
+15.  .                   | Impact: 0.000953
+16.  execution           | Impact: 0.000878
+17.  below               | Impact: 0.000852
+18.  )                   | Impact: 0.000852
+19.  second              | Impact: 0.000823
+20.  document            | Impact: 0.000823
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  agreement           | Impact: -0.007494
+ 2.  turbine             | Impact: -0.006041
+ 3.  i                   | Impact: -0.005656
+ 4.  doc                 | Impact: -0.004036
+ 5.  need                | Impact: -0.003582
+ 6.  changes             | Impact: -0.003155
+ 7.  to                  | Impact: -0.002909
+ 8.  have                | Impact: -0.002488
+ 9.  gas                 | Impact: -0.001950
+10.  turbine             | Impact: -0.001950
+11.  doc                 | Impact: -0.001923
+12.  .                   | Impact: -0.001892
+13.  dates               | Impact: -0.001878
+14.  agreement           | Impact: -0.001871
+15.  in                  | Impact: -0.001615
+16.  principle           | Impact: -0.001615
+17.  agreement           | Impact: -0.001586
+18.  latest              | Impact: -0.001562
+19.  the                 | Impact: -0.001446
+20.  version             | Impact: -0.001410

@@ -1,0 +1,75 @@
+Sample 272
+==========
+
+Sample text preview: FROM Mr. Gamudi MbomaP.O.BOX , VICTORIA STREET, LONDON SWH, UNITED KINGDOM I NEED YOUR ASSISTANCE; Greeting from Mr.Gamudi Mboma, the Chief Auditor wi...
+
+Model prediction: [1.545304e-04 9.998455e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.020429 → PHISHING
+ 2.  o                   | Impact: 0.012748 → PHISHING
+ 3.  your                | Impact: 0.012081 → PHISHING
+ 4.  assistance          | Impact: 0.012081 → PHISHING
+ 5.  .                   | Impact: 0.011648 → PHISHING
+ 6.  to                  | Impact: 0.011370 → PHISHING
+ 7.  you                 | Impact: 0.011370 → PHISHING
+ 8.  consent             | Impact: 0.008880 → PHISHING
+ 9.  to                  | Impact: 0.008880 → PHISHING
+10.  present             | Impact: 0.008880 → PHISHING
+11.  you                 | Impact: 0.008880 → PHISHING
+12.  be                  | Impact: 0.008719 → PHISHING
+13.  paid                | Impact: 0.008719 → PHISHING
+14.  to                  | Impact: 0.008719 → PHISHING
+15.  you                 | Impact: 0.008719 → PHISHING
+16.  after               | Impact: 0.007888 → PHISHING
+17.  necessary           | Impact: 0.007888 → PHISHING
+18.  and                 | Impact: 0.007864 → PHISHING
+19.  ben                 | Impact: 0.007864 → PHISHING
+20. ef                   | Impact: 0.007864 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.020429
+ 2.  o                   | Impact: 0.012748
+ 3.  your                | Impact: 0.012081
+ 4.  assistance          | Impact: 0.012081
+ 5.  .                   | Impact: 0.011648
+ 6.  to                  | Impact: 0.011370
+ 7.  you                 | Impact: 0.011370
+ 8.  consent             | Impact: 0.008880
+ 9.  to                  | Impact: 0.008880
+10.  present             | Impact: 0.008880
+11.  you                 | Impact: 0.008880
+12.  be                  | Impact: 0.008719
+13.  paid                | Impact: 0.008719
+14.  to                  | Impact: 0.008719
+15.  you                 | Impact: 0.008719
+16.  after               | Impact: 0.007888
+17.  necessary           | Impact: 0.007888
+18.  and                 | Impact: 0.007864
+19.  ben                 | Impact: 0.007864
+20. ef                   | Impact: 0.007864
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  _                   | Impact: -0.001535
+ 2.  _                   | Impact: -0.001535
+ 3.  _                   | Impact: -0.001535
+ 4.  _                   | Impact: -0.001535
+ 5.  _                   | Impact: -0.001535
+ 6.  _                   | Impact: -0.001535
+ 7.  _                   | Impact: -0.001535
+ 8.  _                   | Impact: -0.001535
+ 9.  _                   | Impact: -0.001352
+10.  _                   | Impact: -0.001352
+11.  _                   | Impact: -0.001352
+12.  _                   | Impact: -0.001352
+13.  _                   | Impact: -0.001352
+14.  _                   | Impact: -0.001352
+15.  _                   | Impact: -0.001352
+16.  _                   | Impact: -0.001352
+17.  _                   | Impact: -0.001207
+18.  _                   | Impact: -0.001207
+19.  _                   | Impact: -0.001207
+20.  _                   | Impact: -0.001207

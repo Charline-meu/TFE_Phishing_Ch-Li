@@ -1,0 +1,75 @@
+Sample 288
+==========
+
+Sample text preview: e-matters GmbH -= Security Advisory =- Advisory: Remote Compromise/DOS Vulnerability in PHP Release Date: // Last Modified: // Author: Stefan Esser Ap...
+
+Model prediction: [9.9963892e-01 3.6106198e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ia                  | Impact: -0.001366 → LEGITIMATE
+ 2.  cpu                 | Impact: -0.001366 → LEGITIMATE
+ 3.  .                   | Impact: -0.001366 → LEGITIMATE
+ 4.  if                  | Impact: 0.000949 → PHISHING
+ 5.  you                 | Impact: 0.000949 → PHISHING
+ 6.  cannot              | Impact: 0.000949 → PHISHING
+ 7.  upgrade             | Impact: 0.000949 → PHISHING
+ 8.  runs                | Impact: -0.000922 → LEGITIMATE
+ 9.  on                  | Impact: -0.000922 → LEGITIMATE
+10.  a                   | Impact: -0.000922 → LEGITIMATE
+11.  non                 | Impact: -0.000922 → LEGITIMATE
+12.  header              | Impact: -0.000706 → LEGITIMATE
+13. s                    | Impact: -0.000706 → LEGITIMATE
+14.  architecture        | Impact: -0.000684 → LEGITIMATE
+15. s                    | Impact: -0.000684 → LEGITIMATE
+16.  .                   | Impact: -0.000684 → LEGITIMATE
+17.  implementations     | Impact: -0.000651 → LEGITIMATE
+18.  that                | Impact: -0.000651 → LEGITIMATE
+19.  mi                  | Impact: -0.000621 → LEGITIMATE
+20. me                   | Impact: -0.000621 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  if                  | Impact: 0.000949
+ 2.  you                 | Impact: 0.000949
+ 3.  cannot              | Impact: 0.000949
+ 4.  upgrade             | Impact: 0.000949
+ 5.  happen              | Impact: 0.000269
+ 6.  that                | Impact: 0.000269
+ 7.  an                  | Impact: 0.000269
+ 8.  ia                  | Impact: 0.000265
+ 9. lis                  | Impact: 0.000265
+10. ed                   | Impact: 0.000265
+11.  un                  | Impact: 0.000239
+12. ini                  | Impact: 0.000239
+13. t                    | Impact: 0.000239
+14.  -                   | Impact: 0.000239
+15.  st                  | Impact: 0.000228
+16. ru                   | Impact: 0.000228
+17. ct                   | Impact: 0.000228
+18.  for                 | Impact: 0.000194
+19.  whatever            | Impact: 0.000194
+20.  reason              | Impact: 0.000194
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ia                  | Impact: -0.001366
+ 2.  cpu                 | Impact: -0.001366
+ 3.  .                   | Impact: -0.001366
+ 4.  runs                | Impact: -0.000922
+ 5.  on                  | Impact: -0.000922
+ 6.  a                   | Impact: -0.000922
+ 7.  non                 | Impact: -0.000922
+ 8.  header              | Impact: -0.000706
+ 9. s                    | Impact: -0.000706
+10.  architecture        | Impact: -0.000684
+11. s                    | Impact: -0.000684
+12.  .                   | Impact: -0.000684
+13.  implementations     | Impact: -0.000651
+14.  that                | Impact: -0.000651
+15.  mi                  | Impact: -0.000621
+16. me                   | Impact: -0.000621
+17.  compromise          | Impact: -0.000497
+18.  /                   | Impact: -0.000497
+19.  application         | Impact: -0.000479
+20.  :                   | Impact: -0.000479

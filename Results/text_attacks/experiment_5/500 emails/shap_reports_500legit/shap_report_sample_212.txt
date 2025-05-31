@@ -1,0 +1,75 @@
+Sample 212
+==========
+
+Sample text preview: (See attached file: Ballmer.rtf) +-------------------------------------------------------------+ | This message may contain confidential and/or privil...
+
+Model prediction: [0.9496569 0.0503431]
+Predicted class: LEGITIMATE with 0.9497 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  rt                  | Impact: -0.066372 → LEGITIMATE
+ 2.  ball                | Impact: -0.049977 → LEGITIMATE
+ 3. mer                  | Impact: -0.038508 → LEGITIMATE
+ 4.  rt                  | Impact: -0.032747 → LEGITIMATE
+ 5.  reply               | Impact: 0.020228 → PHISHING
+ 6.  e                   | Impact: 0.020228 → PHISHING
+ 7.  -                   | Impact: 0.020228 → PHISHING
+ 8.  mail                | Impact: 0.020228 → PHISHING
+ 9.  |                   | Impact: 0.020228 → PHISHING
+10.  |                   | Impact: 0.020228 → PHISHING
+11.  and                 | Impact: 0.020228 → PHISHING
+12.  (                   | Impact: -0.019445 → LEGITIMATE
+13.  thank               | Impact: -0.017763 → LEGITIMATE
+14.  you                 | Impact: -0.017763 → LEGITIMATE
+15.  see                 | Impact: -0.016326 → LEGITIMATE
+16.  attached            | Impact: -0.016326 → LEGITIMATE
+17.  file                | Impact: -0.016326 → LEGITIMATE
+18.  :                   | Impact: -0.016326 → LEGITIMATE
+19.  .                   | Impact: 0.016036 → PHISHING
+20.  here                | Impact: 0.015326 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  reply               | Impact: 0.020228
+ 2.  e                   | Impact: 0.020228
+ 3.  -                   | Impact: 0.020228
+ 4.  mail                | Impact: 0.020228
+ 5.  |                   | Impact: 0.020228
+ 6.  |                   | Impact: 0.020228
+ 7.  and                 | Impact: 0.020228
+ 8.  .                   | Impact: 0.016036
+ 9.  here                | Impact: 0.015326
+10. in                   | Impact: 0.015326
+11.  please              | Impact: 0.014680
+12.  advise              | Impact: 0.014680
+13.  the                 | Impact: 0.014680
+14.  send                | Impact: 0.014680
+15. er                   | Impact: 0.014680
+16.  immediately         | Impact: 0.014680
+17.  by                  | Impact: 0.014680
+18.  |                   | Impact: 0.014444
+19.  information         | Impact: 0.014444
+20.  privileged          | Impact: 0.013778
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  rt                  | Impact: -0.066372
+ 2.  ball                | Impact: -0.049977
+ 3. mer                  | Impact: -0.038508
+ 4.  rt                  | Impact: -0.032747
+ 5.  (                   | Impact: -0.019445
+ 6.  thank               | Impact: -0.017763
+ 7.  you                 | Impact: -0.017763
+ 8.  see                 | Impact: -0.016326
+ 9.  attached            | Impact: -0.016326
+10.  file                | Impact: -0.016326
+11.  :                   | Impact: -0.016326
+12.  ball                | Impact: -0.011164
+13. mer                  | Impact: -0.011164
+14.  .                   | Impact: -0.011164
+15.  for                 | Impact: -0.008977
+16.  your                | Impact: -0.008977
+17.  cooperation         | Impact: -0.008977
+18.  copy                | Impact: -0.007647
+19.  ,                   | Impact: -0.007647
+20. f                    | Impact: -0.007074

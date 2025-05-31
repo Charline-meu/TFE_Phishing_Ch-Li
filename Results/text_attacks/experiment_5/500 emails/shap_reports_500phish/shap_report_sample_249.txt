@@ -1,0 +1,75 @@
+Sample 249
+==========
+
+Sample text preview: Proven Year Old Better Business Registered Company Provides A Real And Legitimate Opportunity To Make Some SERIOUS MONEY! No Selling! No Phone Calls! ...
+
+Model prediction: [1.9183858e-04 9.9980813e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  money               | Impact: 0.051649 → PHISHING
+ 2.  your                | Impact: 0.048608 → PHISHING
+ 3.  remove              | Impact: 0.034177 → PHISHING
+ 4.  in                  | Impact: 0.034177 → PHISHING
+ 5.  year                | Impact: 0.031301 → PHISHING
+ 6.  removed             | Impact: 0.024702 → PHISHING
+ 7.  from                | Impact: 0.024702 → PHISHING
+ 8.  company             | Impact: 0.023928 → PHISHING
+ 9.  registered          | Impact: 0.023530 → PHISHING
+10.  legitimate          | Impact: 0.023268 → PHISHING
+11.  please              | Impact: 0.022276 → PHISHING
+12.  put                 | Impact: 0.022276 → PHISHING
+13.  old                 | Impact: 0.021648 → PHISHING
+14.  build               | Impact: 0.020309 → PHISHING
+15.  business            | Impact: 0.018307 → PHISHING
+16.  with                | Impact: 0.018307 → PHISHING
+17.  to                  | Impact: 0.012710 → PHISHING
+18.  be                  | Impact: 0.012710 → PHISHING
+19.  opportunity         | Impact: 0.012203 → PHISHING
+20.  subject             | Impact: 0.011472 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.051649
+ 2.  your                | Impact: 0.048608
+ 3.  remove              | Impact: 0.034177
+ 4.  in                  | Impact: 0.034177
+ 5.  year                | Impact: 0.031301
+ 6.  removed             | Impact: 0.024702
+ 7.  from                | Impact: 0.024702
+ 8.  company             | Impact: 0.023928
+ 9.  registered          | Impact: 0.023530
+10.  legitimate          | Impact: 0.023268
+11.  please              | Impact: 0.022276
+12.  put                 | Impact: 0.022276
+13.  old                 | Impact: 0.021648
+14.  build               | Impact: 0.020309
+15.  business            | Impact: 0.018307
+16.  with                | Impact: 0.018307
+17.  to                  | Impact: 0.012710
+18.  be                  | Impact: 0.012710
+19.  opportunity         | Impact: 0.012203
+20.  subject             | Impact: 0.011472
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  provides            | Impact: -0.003338
+ 2.  a                   | Impact: -0.003338
+ 3.  check               | Impact: -0.001612
+ 4.  out                 | Impact: -0.001612
+ 5.  :                   | Impact: -0.001612
+ 6.  -                   | Impact: -0.001612
+ 7.  -                   | Impact: -0.001109
+ 8.  -                   | Impact: -0.001109
+ 9.  -                   | Impact: -0.001109
+10.  -                   | Impact: -0.001109
+11.  "                   | Impact: -0.000691
+12.  f                   | Impact: -0.000691
+13. sms                  | Impact: -0.000691
+14.  -                   | Impact: -0.000691
+15.  l                   | Impact: -0.000691
+16.                      | Impact: -0.000691
+17.  real                | Impact: -0.000372
+18.  -                   | Impact: -0.000293
+19.  -                   | Impact: -0.000293
+20.  -                   | Impact: -0.000293

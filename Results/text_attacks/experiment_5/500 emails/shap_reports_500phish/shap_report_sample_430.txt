@@ -1,0 +1,66 @@
+Sample 430
+==========
+
+Sample text preview: Dear Customer, We have upgraded our system security service, bringing significant performance improvements and new features, which all USAA Bank custo...
+
+Model prediction: [2.2544106e-04 9.9977452e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.211243 → PHISHING
+ 2.  customer            | Impact: 0.065090 → PHISHING
+ 3.  bank                | Impact: 0.053369 → PHISHING
+ 4.  bank                | Impact: 0.050358 → PHISHING
+ 5.  please              | Impact: 0.044220 → PHISHING
+ 6.  click               | Impact: 0.043057 → PHISHING
+ 7.  account             | Impact: 0.040792 → PHISHING
+ 8.  usa                 | Impact: 0.029946 → PHISHING
+ 9.  kindly              | Impact: 0.027919 → PHISHING
+10.  security            | Impact: 0.024068 → PHISHING
+11.  our                 | Impact: 0.023895 → PHISHING
+12.  customers           | Impact: 0.023158 → PHISHING
+13.  you                 | Impact: 0.022729 → PHISHING
+14.  purpose             | Impact: 0.020648 → PHISHING
+15.  features            | Impact: 0.020057 → PHISHING
+16.  will                | Impact: 0.019648 → PHISHING
+17.  service             | Impact: 0.017814 → PHISHING
+18.  service             | Impact: 0.017313 → PHISHING
+19.  due                 | Impact: 0.015042 → PHISHING
+20.  this                | Impact: 0.015039 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.211243
+ 2.  customer            | Impact: 0.065090
+ 3.  bank                | Impact: 0.053369
+ 4.  bank                | Impact: 0.050358
+ 5.  please              | Impact: 0.044220
+ 6.  click               | Impact: 0.043057
+ 7.  account             | Impact: 0.040792
+ 8.  usa                 | Impact: 0.029946
+ 9.  kindly              | Impact: 0.027919
+10.  security            | Impact: 0.024068
+11.  our                 | Impact: 0.023895
+12.  customers           | Impact: 0.023158
+13.  you                 | Impact: 0.022729
+14.  purpose             | Impact: 0.020648
+15.  features            | Impact: 0.020057
+16.  will                | Impact: 0.019648
+17.  service             | Impact: 0.017814
+18.  service             | Impact: 0.017313
+19.  due                 | Impact: 0.015042
+20.  this                | Impact: 0.015039
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thank               | Impact: -0.012217
+ 2.  ,                   | Impact: -0.009864
+ 3.  significant         | Impact: -0.009280
+ 4.  upgraded            | Impact: -0.008043
+ 5.  ,                   | Impact: -0.007746
+ 6.  system              | Impact: -0.006147
+ 7.  .                   | Impact: -0.005205
+ 8.  bringing            | Impact: -0.004466
+ 9.  .                   | Impact: -0.001166
+10. a                    | Impact: -0.000626
+11. a                    | Impact: -0.000310

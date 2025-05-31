@@ -1,0 +1,75 @@
+Sample 448
+==========
+
+Sample text preview: Football Commissioner Tailgate in Style! Save % on NFL Team Sports Chairs. . . Shop MVP.com and enter coupon code IPCHSMT @ checkout to receive this e...
+
+Model prediction: [0.9949668 0.0050332]
+Predicted class: LEGITIMATE with 0.9950 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.                      | Impact: -0.003042 → LEGITIMATE
+ 2.  football            | Impact: -0.003042 → LEGITIMATE
+ 3.  commissioner        | Impact: -0.003042 → LEGITIMATE
+ 4.  click               | Impact: 0.002437 → PHISHING
+ 5.  here                | Impact: 0.002437 → PHISHING
+ 6.  to                  | Impact: 0.002437 → PHISHING
+ 7.  apply               | Impact: 0.002437 → PHISHING
+ 8.  online              | Impact: 0.002437 → PHISHING
+ 9.  .                   | Impact: 0.002437 → PHISHING
+10.  or                  | Impact: 0.001916 → PHISHING
+11.  win                 | Impact: 0.001916 → PHISHING
+12.  $                   | Impact: 0.001916 → PHISHING
+13.  cash                | Impact: 0.001916 → PHISHING
+14.  !                   | Impact: 0.001916 → PHISHING
+15.  save                | Impact: 0.001916 → PHISHING
+16.  $                   | Impact: 0.001916 → PHISHING
+17.  .                   | Impact: 0.001916 → PHISHING
+18.  win                 | Impact: 0.001889 → PHISHING
+19.  a                   | Impact: 0.001889 → PHISHING
+20.  vegas               | Impact: 0.001889 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.002437
+ 2.  here                | Impact: 0.002437
+ 3.  to                  | Impact: 0.002437
+ 4.  apply               | Impact: 0.002437
+ 5.  online              | Impact: 0.002437
+ 6.  .                   | Impact: 0.002437
+ 7.  or                  | Impact: 0.001916
+ 8.  win                 | Impact: 0.001916
+ 9.  $                   | Impact: 0.001916
+10.  cash                | Impact: 0.001916
+11.  !                   | Impact: 0.001916
+12.  save                | Impact: 0.001916
+13.  $                   | Impact: 0.001916
+14.  .                   | Impact: 0.001916
+15.  win                 | Impact: 0.001889
+16.  a                   | Impact: 0.001889
+17.  vegas               | Impact: 0.001889
+18.  vacation            | Impact: 0.001889
+19.  auction             | Impact: 0.001889
+20.  today               | Impact: 0.001889
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.003042
+ 2.  football            | Impact: -0.003042
+ 3.  commissioner        | Impact: -0.003042
+ 4.  norton              | Impact: -0.001661
+ 5.  combines            | Impact: -0.001661
+ 6.  the                 | Impact: -0.001661
+ 7.  this                | Impact: -0.001661
+ 8.  terrific            | Impact: -0.001661
+ 9.  suite               | Impact: -0.001661
+10.  of                  | Impact: -0.001661
+11.  products            | Impact: -0.001661
+12.  from                | Impact: -0.001661
+13.  tail                | Impact: -0.001591
+14. gate                 | Impact: -0.001591
+15.  in                  | Impact: -0.001591
+16.  style               | Impact: -0.001591
+17.  !                   | Impact: -0.001591
+18.  #                   | Impact: -0.001398
+19.  utility             | Impact: -0.001398
+20.  suite               | Impact: -0.001398

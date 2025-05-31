@@ -1,0 +1,75 @@
+Sample 439
+==========
+
+Sample text preview: Greetings from Amazon.com. We thought you'd like to know that we shipped this portion of your order separately to give you quicker service. You won't ...
+
+Model prediction: [0.5185729 0.4814271]
+Predicted class: LEGITIMATE with 0.5186 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  online              | Impact: 0.012774 → PHISHING
+ 2.  by                  | Impact: 0.012774 → PHISHING
+ 3.  visiting            | Impact: 0.012774 → PHISHING
+ 4.  your                | Impact: 0.012774 → PHISHING
+ 5.  account             | Impact: 0.012774 → PHISHING
+ 6.  at                  | Impact: 0.012774 → PHISHING
+ 7.  there               | Impact: 0.012774 → PHISHING
+ 8.  you                 | Impact: 0.012774 → PHISHING
+ 9.  com                 | Impact: -0.010924 → LEGITIMATE
+10.  .                   | Impact: -0.010924 → LEGITIMATE
+11.  -                   | Impact: -0.010403 → LEGITIMATE
+12.  barbie              | Impact: -0.010403 → LEGITIMATE
+13.  as                  | Impact: -0.010403 → LEGITIMATE
+14.  the                 | Impact: -0.010403 → LEGITIMATE
+15.  sugar               | Impact: -0.010403 → LEGITIMATE
+16.  plum                | Impact: -0.010403 → LEGITIMATE
+17.  pri                 | Impact: -0.010403 → LEGITIMATE
+18. nc                   | Impact: -0.010403 → LEGITIMATE
+19.  $                   | Impact: -0.010403 → LEGITIMATE
+20.  .                   | Impact: -0.010403 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  online              | Impact: 0.012774
+ 2.  by                  | Impact: 0.012774
+ 3.  visiting            | Impact: 0.012774
+ 4.  your                | Impact: 0.012774
+ 5.  account             | Impact: 0.012774
+ 6.  at                  | Impact: 0.012774
+ 7.  there               | Impact: 0.012774
+ 8.  you                 | Impact: 0.012774
+ 9.  be                  | Impact: 0.010328
+10.  charged             | Impact: 0.010328
+11.  any                 | Impact: 0.010328
+12.  extra               | Impact: 0.010328
+13.  shipping            | Impact: 0.010328
+14.  fees                | Impact: 0.010328
+15.  ,                   | Impact: 0.010328
+16.  can                 | Impact: 0.009261
+17.  :                   | Impact: 0.009261
+18.  *                   | Impact: 0.009261
+19.  track               | Impact: 0.009261
+20.  order               | Impact: 0.009261
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  com                 | Impact: -0.010924
+ 2.  .                   | Impact: -0.010924
+ 3.  -                   | Impact: -0.010403
+ 4.  barbie              | Impact: -0.010403
+ 5.  as                  | Impact: -0.010403
+ 6.  the                 | Impact: -0.010403
+ 7.  sugar               | Impact: -0.010403
+ 8.  plum                | Impact: -0.010403
+ 9.  pri                 | Impact: -0.010403
+10. nc                   | Impact: -0.010403
+11.  $                   | Impact: -0.010403
+12.  .                   | Impact: -0.010403
+13.  com                 | Impact: -0.008094
+14.  ,                   | Impact: -0.008094
+15.  llc                 | Impact: -0.008094
+16.  item                | Impact: -0.008094
+17.  sold                | Impact: -0.008094
+18.  by                  | Impact: -0.008094
+19.  amazon              | Impact: -0.008094
+20.  .                   | Impact: -0.008094

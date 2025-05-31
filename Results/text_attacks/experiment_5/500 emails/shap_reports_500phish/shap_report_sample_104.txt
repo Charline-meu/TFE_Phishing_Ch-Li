@@ -1,0 +1,75 @@
+Sample 104
+==========
+
+Sample text preview: Dearest In Christ, I am Mrs Elizabeth Williams,from Kuwait.I am married to late Mr Jerry Williams, who worked with Kuwait Embassy in Ivory Coast for T...
+
+Model prediction: [2.1846898e-04 9.9978155e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  i                   | Impact: 0.006640 → PHISHING
+ 2.  am                  | Impact: 0.006640 → PHISHING
+ 3.  married             | Impact: 0.006640 → PHISHING
+ 4.  to                  | Impact: 0.006640 → PHISHING
+ 5.  i                   | Impact: 0.006426 → PHISHING
+ 6.  am                  | Impact: 0.006426 → PHISHING
+ 7.  mrs                 | Impact: 0.006426 → PHISHING
+ 8.  elizabeth           | Impact: 0.006426 → PHISHING
+ 9.  williams            | Impact: 0.006426 → PHISHING
+10.  when                | Impact: 0.006288 → PHISHING
+11.  my                  | Impact: 0.006288 → PHISHING
+12.  late                | Impact: 0.006288 → PHISHING
+13.  husband             | Impact: 0.006288 → PHISHING
+14.  late                | Impact: 0.005472 → PHISHING
+15.  mr                  | Impact: 0.005472 → PHISHING
+16.  jerry               | Impact: 0.005472 → PHISHING
+17.  williams            | Impact: 0.005472 → PHISHING
+18.  ,                   | Impact: 0.005472 → PHISHING
+19.  ,                   | Impact: 0.004916 → PHISHING
+20.                      | Impact: 0.004442 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  i                   | Impact: 0.006640
+ 2.  am                  | Impact: 0.006640
+ 3.  married             | Impact: 0.006640
+ 4.  to                  | Impact: 0.006640
+ 5.  i                   | Impact: 0.006426
+ 6.  am                  | Impact: 0.006426
+ 7.  mrs                 | Impact: 0.006426
+ 8.  elizabeth           | Impact: 0.006426
+ 9.  williams            | Impact: 0.006426
+10.  when                | Impact: 0.006288
+11.  my                  | Impact: 0.006288
+12.  late                | Impact: 0.006288
+13.  husband             | Impact: 0.006288
+14.  late                | Impact: 0.005472
+15.  mr                  | Impact: 0.005472
+16.  jerry               | Impact: 0.005472
+17.  williams            | Impact: 0.005472
+18.  ,                   | Impact: 0.005472
+19.  ,                   | Impact: 0.004916
+20.                      | Impact: 0.004442
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  exodus              | Impact: -0.000094
+ 2.  vs                  | Impact: -0.000094
+ 3.  says                | Impact: -0.000094
+ 4.  that                | Impact: -0.000094
+ 5.  "                   | Impact: -0.000094
+ 6.  the                 | Impact: -0.000094
+ 7.  lord                | Impact: -0.000094
+ 8.  will                | Impact: -0.000094
+ 9.  fight               | Impact: -0.000094
+10.  my                  | Impact: -0.000094
+11.  case                | Impact: -0.000094
+12.  and                 | Impact: -0.000094
+13.  peace               | Impact: -0.000094
+14.  "                   | Impact: -0.000094
+15.  .                   | Impact: -0.000094
+16.  i                   | Impact: -0.000094
+17.  know                | Impact: -0.000094
+18.  that                | Impact: -0.000094
+19.  i                   | Impact: -0.000094
+20.  am                  | Impact: -0.000094

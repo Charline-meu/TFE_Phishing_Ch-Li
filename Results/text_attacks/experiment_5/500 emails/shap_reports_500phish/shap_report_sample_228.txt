@@ -1,0 +1,75 @@
+Sample 228
+==========
+
+Sample text preview: My Dear, Greetings and l hope this message finds you well, and pardon me for contacting you this way , it is because of the urgent nature of my reques...
+
+Model prediction: [1.7370889e-04 9.9982637e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mrs                 | Impact: 0.023894 → PHISHING
+ 2.  .                   | Impact: 0.020956 → PHISHING
+ 3.  my                  | Impact: 0.014930 → PHISHING
+ 4.  life                | Impact: 0.014930 → PHISHING
+ 5.  my                  | Impact: 0.013439 → PHISHING
+ 6.  children            | Impact: 0.013439 → PHISHING
+ 7.  with                | Impact: 0.011829 → PHISHING
+ 8.  my                  | Impact: 0.011829 → PHISHING
+ 9.  children            | Impact: 0.011829 → PHISHING
+10.  kind                | Impact: 0.011373 → PHISHING
+11.  regards             | Impact: 0.011373 → PHISHING
+12.  ,                   | Impact: 0.011373 → PHISHING
+13.  my                  | Impact: 0.009073 → PHISHING
+14.  family              | Impact: 0.009073 → PHISHING
+15.  my                  | Impact: 0.007772 → PHISHING
+16.  name                | Impact: 0.007772 → PHISHING
+17.  is                  | Impact: 0.006847 → PHISHING
+18.  mrs                 | Impact: 0.006847 → PHISHING
+19.  former              | Impact: 0.006101 → PHISHING
+20.  ghanaian            | Impact: 0.006101 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mrs                 | Impact: 0.023894
+ 2.  .                   | Impact: 0.020956
+ 3.  my                  | Impact: 0.014930
+ 4.  life                | Impact: 0.014930
+ 5.  my                  | Impact: 0.013439
+ 6.  children            | Impact: 0.013439
+ 7.  with                | Impact: 0.011829
+ 8.  my                  | Impact: 0.011829
+ 9.  children            | Impact: 0.011829
+10.  kind                | Impact: 0.011373
+11.  regards             | Impact: 0.011373
+12.  ,                   | Impact: 0.011373
+13.  my                  | Impact: 0.009073
+14.  family              | Impact: 0.009073
+15.  my                  | Impact: 0.007772
+16.  name                | Impact: 0.007772
+17.  is                  | Impact: 0.006847
+18.  mrs                 | Impact: 0.006847
+19.  former              | Impact: 0.006101
+20.  ghanaian            | Impact: 0.006101
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  generation          | Impact: -0.001302
+ 2.  of                  | Impact: -0.001302
+ 3.  search              | Impact: -0.001302
+ 4.  with                | Impact: -0.001302
+ 5.  windows             | Impact: -0.001302
+ 6.  live                | Impact: -0.001302
+ 7.  search              | Impact: -0.001302
+ 8.  today               | Impact: -0.001302
+ 9.  !                   | Impact: -0.001302
+10.  what                | Impact: -0.001023
+11.  can                 | Impact: -0.001023
+12.  i                   | Impact: -0.001023
+13.  do                  | Impact: -0.001023
+14.  ?                   | Impact: -0.001023
+15.  severely            | Impact: -0.000876
+16.  sick                | Impact: -0.000876
+17.  .                   | Impact: -0.000876
+18.  .                   | Impact: -0.000850
+19.  _                   | Impact: -0.000809
+20.  _                   | Impact: -0.000809

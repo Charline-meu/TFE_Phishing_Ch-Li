@@ -1,0 +1,75 @@
+Phishing Sample 46
+==================
+
+Sample text preview: ---------------------- Forwarded by Vince J Kaminski/HOU/ECT on // : AM --------------------------- on // :: AM To: cc: Subject: Additional analysis u...
+
+Model prediction: [9.997240e-01 2.759597e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.011847 → LEGITIMATE
+ 2.  zip                 | Impact: 0.006729 → PHISHING
+ 3.  .                   | Impact: -0.006224 → LEGITIMATE
+ 4.  /                   | Impact: -0.004114 → LEGITIMATE
+ 5.  ec                  | Impact: -0.003596 → LEGITIMATE
+ 6.  -                   | Impact: 0.003317 → PHISHING
+ 7.  let                 | Impact: -0.003047 → LEGITIMATE
+ 8.  _                   | Impact: -0.002758 → LEGITIMATE
+ 9. ed                   | Impact: -0.002310 → LEGITIMATE
+10.  am                  | Impact: -0.002227 → LEGITIMATE
+11.  kam                 | Impact: 0.001934 → PHISHING
+12.  analysis            | Impact: -0.001797 → LEGITIMATE
+13.  forward             | Impact: -0.001780 → LEGITIMATE
+14.  using               | Impact: -0.001749 → LEGITIMATE
+15.  -                   | Impact: 0.001651 → PHISHING
+16.  _                   | Impact: -0.001446 → LEGITIMATE
+17.  -                   | Impact: 0.001256 → PHISHING
+18. inski                | Impact: -0.001144 → LEGITIMATE
+19.  .                   | Impact: -0.001131 → LEGITIMATE
+20.  see                 | Impact: 0.001104 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  zip                 | Impact: 0.006729
+ 2.  -                   | Impact: 0.003317
+ 3.  kam                 | Impact: 0.001934
+ 4.  -                   | Impact: 0.001651
+ 5.  -                   | Impact: 0.001256
+ 6.  see                 | Impact: 0.001104
+ 7.  -                   | Impact: 0.001030
+ 8.  please              | Impact: 0.000969
+ 9.  -                   | Impact: 0.000925
+10. s                    | Impact: 0.000923
+11.  -                   | Impact: 0.000876
+12.  -                   | Impact: 0.000676
+13.  -                   | Impact: 0.000666
+14.  -                   | Impact: 0.000631
+15.  on                  | Impact: 0.000623
+16.  -                   | Impact: 0.000615
+17.  new                 | Impact: 0.000569
+18.  -                   | Impact: 0.000532
+19.  -                   | Impact: 0.000485
+20.  -                   | Impact: 0.000472
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.011847
+ 2.  .                   | Impact: -0.006224
+ 3.  /                   | Impact: -0.004114
+ 4.  ec                  | Impact: -0.003596
+ 5.  let                 | Impact: -0.003047
+ 6.  _                   | Impact: -0.002758
+ 7. ed                   | Impact: -0.002310
+ 8.  am                  | Impact: -0.002227
+ 9.  analysis            | Impact: -0.001797
+10.  forward             | Impact: -0.001780
+11.  using               | Impact: -0.001749
+12.  _                   | Impact: -0.001446
+13. inski                | Impact: -0.001144
+14.  .                   | Impact: -0.001131
+15.  attachment          | Impact: -0.001084
+16.  -                   | Impact: -0.001011
+17.  -                   | Impact: -0.000927
+18.  -                   | Impact: -0.000862
+19.  vince               | Impact: -0.000817
+20.  by                  | Impact: -0.000752

@@ -1,0 +1,75 @@
+Sample 147
+==========
+
+Sample text preview: Module - Spring Faculty, I am contacting you today to remind you book orders for your Module course needs to be placed through the Campus Book Store. ...
+
+Model prediction: [0.9983858  0.00161424]
+Predicted class: LEGITIMATE with 0.9984 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.009094 → PHISHING
+ 2.  today               | Impact: 0.006671 → PHISHING
+ 3.  address             | Impact: 0.005682 → PHISHING
+ 4.  module              | Impact: -0.004164 → LEGITIMATE
+ 5.  your                | Impact: -0.003584 → LEGITIMATE
+ 6.  module              | Impact: -0.003584 → LEGITIMATE
+ 7.  i                   | Impact: 0.003391 → PHISHING
+ 8.  am                  | Impact: 0.003391 → PHISHING
+ 9.  contact             | Impact: 0.003138 → PHISHING
+10. ing                  | Impact: 0.003138 → PHISHING
+11.  orders              | Impact: -0.003096 → LEGITIMATE
+12.  ms                  | Impact: -0.002993 → LEGITIMATE
+13.  course              | Impact: -0.002841 → LEGITIMATE
+14.  needs               | Impact: -0.002841 → LEGITIMATE
+15.  faculty             | Impact: -0.002517 → LEGITIMATE
+16.  book                | Impact: -0.002513 → LEGITIMATE
+17.  store               | Impact: -0.002513 → LEGITIMATE
+18.  enrollment          | Impact: -0.002342 → LEGITIMATE
+19.  numbers             | Impact: -0.002342 → LEGITIMATE
+20.  you                 | Impact: 0.002219 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.009094
+ 2.  today               | Impact: 0.006671
+ 3.  address             | Impact: 0.005682
+ 4.  i                   | Impact: 0.003391
+ 5.  am                  | Impact: 0.003391
+ 6.  contact             | Impact: 0.003138
+ 7. ing                  | Impact: 0.003138
+ 8.  you                 | Impact: 0.002219
+ 9.  to                  | Impact: 0.001738
+10.  remind              | Impact: 0.001738
+11.  contact             | Impact: 0.001590
+12. ing                  | Impact: 0.001590
+13.  ,                   | Impact: 0.001366
+14.  i                   | Impact: 0.001341
+15.  will                | Impact: 0.001341
+16.  be                  | Impact: 0.001341
+17.  your                | Impact: 0.001219
+18.  help                | Impact: 0.001219
+19.  to                  | Impact: 0.000788
+20.  be                  | Impact: 0.000788
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  module              | Impact: -0.004164
+ 2.  your                | Impact: -0.003584
+ 3.  module              | Impact: -0.003584
+ 4.  orders              | Impact: -0.003096
+ 5.  ms                  | Impact: -0.002993
+ 6.  course              | Impact: -0.002841
+ 7.  needs               | Impact: -0.002841
+ 8.  faculty             | Impact: -0.002517
+ 9.  book                | Impact: -0.002513
+10.  store               | Impact: -0.002513
+11.  enrollment          | Impact: -0.002342
+12.  numbers             | Impact: -0.002342
+13.  for                 | Impact: -0.002210
+14.  (                   | Impact: -0.002182
+15.  thanks              | Impact: -0.002151
+16.  in                  | Impact: -0.002151
+17.  questions           | Impact: -0.001973
+18.  regarding           | Impact: -0.001973
+19.  contact             | Impact: -0.001858
+20.  pam                 | Impact: -0.001858

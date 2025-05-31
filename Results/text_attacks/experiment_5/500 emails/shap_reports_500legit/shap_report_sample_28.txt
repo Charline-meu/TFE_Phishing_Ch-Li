@@ -1,0 +1,75 @@
+Sample 28
+=========
+
+Sample text preview: FREE SHIPPING ORDERS OVER € [Human score]( [Trustpilot Stars]( [number of reviews]( [Trustpilot Logo]( A heap of treasures for half price! With furthe...
+
+Model prediction: [9.9968159e-01 3.1846133e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ]                   | Impact: -0.017830 → LEGITIMATE
+ 2.  bishops             | Impact: -0.012738 → LEGITIMATE
+ 3.  (                   | Impact: -0.012401 → LEGITIMATE
+ 4.  eu                  | Impact: -0.009853 → LEGITIMATE
+ 5. su                   | Impact: -0.006793 → LEGITIMATE
+ 6.  ]                   | Impact: -0.006212 → LEGITIMATE
+ 7.  ©                   | Impact: 0.006074 → PHISHING
+ 8.  orders              | Impact: -0.005822 → LEGITIMATE
+ 9.  [                   | Impact: -0.005423 → LEGITIMATE
+10.  [                   | Impact: -0.005242 → LEGITIMATE
+11.  image               | Impact: -0.005136 → LEGITIMATE
+12.  fable               | Impact: -0.005119 → LEGITIMATE
+13.  england             | Impact: -0.005119 → LEGITIMATE
+14.  €                   | Impact: -0.005096 → LEGITIMATE
+15.  ]                   | Impact: -0.004752 → LEGITIMATE
+16.  €                   | Impact: -0.004746 → LEGITIMATE
+17.  €                   | Impact: -0.004610 → LEGITIMATE
+18.  [                   | Impact: -0.004536 → LEGITIMATE
+19.  receive             | Impact: -0.004445 → LEGITIMATE
+20.  these               | Impact: -0.004445 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.006074
+ 2.  shop                | Impact: 0.002023
+ 3.  england             | Impact: 0.000981
+ 4.  hp                  | Impact: 0.000981
+ 5.  re                  | Impact: 0.000981
+ 6.                      | Impact: 0.000981
+ 7.  lincoln             | Impact: 0.000618
+ 8.  road                | Impact: 0.000618
+ 9.  high                | Impact: 0.000618
+10.  w                   | Impact: 0.000618
+11. y                    | Impact: 0.000618
+12. combe                | Impact: 0.000618
+13.  ,                   | Impact: 0.000618
+14.  li                  | Impact: 0.000551
+15. col                  | Impact: 0.000551
+16. n                    | Impact: 0.000551
+17.  '                   | Impact: 0.000551
+18.  s                   | Impact: 0.000551
+19.  inn                 | Impact: 0.000551
+20.  ,                   | Impact: 0.000551
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ]                   | Impact: -0.017830
+ 2.  bishops             | Impact: -0.012738
+ 3.  (                   | Impact: -0.012401
+ 4.  eu                  | Impact: -0.009853
+ 5. su                   | Impact: -0.006793
+ 6.  ]                   | Impact: -0.006212
+ 7.  orders              | Impact: -0.005822
+ 8.  [                   | Impact: -0.005423
+ 9.  [                   | Impact: -0.005242
+10.  image               | Impact: -0.005136
+11.  fable               | Impact: -0.005119
+12.  england             | Impact: -0.005119
+13.  €                   | Impact: -0.005096
+14.  ]                   | Impact: -0.004752
+15.  €                   | Impact: -0.004746
+16.  €                   | Impact: -0.004610
+17.  [                   | Impact: -0.004536
+18.  receive             | Impact: -0.004445
+19.  these               | Impact: -0.004445
+20.  emails              | Impact: -0.004445

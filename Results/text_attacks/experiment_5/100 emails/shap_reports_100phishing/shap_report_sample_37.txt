@@ -1,0 +1,75 @@
+Phishing Sample 37
+==================
+
+Sample text preview: Dear My name is Lillian A.Ofori I am the only daughter of Late Nana A. Ofori the traditional Ruler of BIBIANI before his death on th June , after my m...
+
+Model prediction: [1.6937085e-04 9.9983060e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ghana               | Impact: 0.020965 → PHISHING
+ 2.  ghana               | Impact: 0.012790 → PHISHING
+ 3.  third               | Impact: 0.012790 → PHISHING
+ 4.  this                | Impact: 0.012217 → PHISHING
+ 5.  money               | Impact: 0.012217 → PHISHING
+ 6.  more                | Impact: 0.012082 → PHISHING
+ 7.  my                  | Impact: 0.011292 → PHISHING
+ 8.  father              | Impact: 0.011292 → PHISHING
+ 9.  here                | Impact: 0.008319 → PHISHING
+10.  in                  | Impact: 0.008319 → PHISHING
+11.  kw                  | Impact: 0.005862 → PHISHING
+12. ame                  | Impact: 0.005862 → PHISHING
+13.                      | Impact: 0.005845 → PHISHING
+14.  dear                | Impact: 0.005845 → PHISHING
+15.  you                 | Impact: 0.005800 → PHISHING
+16.  will                | Impact: 0.005800 → PHISHING
+17.  a                   | Impact: 0.005660 → PHISHING
+18.  young               | Impact: 0.005660 → PHISHING
+19.  girl                | Impact: 0.005660 → PHISHING
+20.  death               | Impact: 0.005564 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ghana               | Impact: 0.020965
+ 2.  ghana               | Impact: 0.012790
+ 3.  third               | Impact: 0.012790
+ 4.  this                | Impact: 0.012217
+ 5.  money               | Impact: 0.012217
+ 6.  more                | Impact: 0.012082
+ 7.  my                  | Impact: 0.011292
+ 8.  father              | Impact: 0.011292
+ 9.  here                | Impact: 0.008319
+10.  in                  | Impact: 0.008319
+11.  kw                  | Impact: 0.005862
+12. ame                  | Impact: 0.005862
+13.                      | Impact: 0.005845
+14.  dear                | Impact: 0.005845
+15.  you                 | Impact: 0.005800
+16.  will                | Impact: 0.005800
+17.  a                   | Impact: 0.005660
+18.  young               | Impact: 0.005660
+19.  girl                | Impact: 0.005660
+20.  death               | Impact: 0.005564
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  sol                 | Impact: -0.003941
+ 2. ici                  | Impact: -0.003941
+ 3. ting                 | Impact: -0.003941
+ 4.  .                   | Impact: -0.003495
+ 5.  (                   | Impact: -0.003401
+ 6.  $                   | Impact: -0.003401
+ 7.  ,                   | Impact: -0.003401
+ 8.  this                | Impact: -0.002998
+ 9.  informed            | Impact: -0.002998
+10.  my                  | Impact: -0.002998
+11.  assistance          | Impact: -0.002486
+12.  for                 | Impact: -0.002486
+13.  dispute             | Impact: -0.002267
+14.  that                | Impact: -0.002267
+15.  course              | Impact: -0.001926
+16.  the                 | Impact: -0.001926
+17.  any                 | Impact: -0.001891
+18.  information         | Impact: -0.001891
+19.  .                   | Impact: -0.001774
+20.  most                | Impact: -0.001392

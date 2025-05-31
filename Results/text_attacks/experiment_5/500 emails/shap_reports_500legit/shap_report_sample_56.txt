@@ -1,0 +1,75 @@
+Sample 56
+=========
+
+Sample text preview: FYI. Note that PSEG wants to sign a binding LOI. Carlos and I will discuss how to move forward. Thanks, Kay ---------------------- Forwarded by Kay Ma...
+
+Model prediction: [9.9979287e-01 2.0709727e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  forward             | Impact: -0.006010 → LEGITIMATE
+ 2.  en                  | Impact: -0.005341 → LEGITIMATE
+ 3.  en                  | Impact: -0.004999 → LEGITIMATE
+ 4. ron                  | Impact: -0.004323 → LEGITIMATE
+ 5.  carlos              | Impact: 0.003971 → PHISHING
+ 6.  en                  | Impact: -0.003955 → LEGITIMATE
+ 7.  note                | Impact: -0.003739 → LEGITIMATE
+ 8.  @                   | Impact: 0.003649 → PHISHING
+ 9. ron                  | Impact: -0.003422 → LEGITIMATE
+10.  balance             | Impact: -0.003381 → LEGITIMATE
+11.  mm                  | Impact: -0.002950 → LEGITIMATE
+12.  that                | Impact: -0.002928 → LEGITIMATE
+13.  -                   | Impact: -0.002814 → LEGITIMATE
+14.  forward             | Impact: -0.002606 → LEGITIMATE
+15.  .                   | Impact: -0.002580 → LEGITIMATE
+16.  ec                  | Impact: -0.002575 → LEGITIMATE
+17. ron                  | Impact: -0.002549 → LEGITIMATE
+18.  ec                  | Impact: -0.002416 → LEGITIMATE
+19. t                    | Impact: -0.002416 → LEGITIMATE
+20.  en                  | Impact: -0.002395 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  carlos              | Impact: 0.003971
+ 2.  @                   | Impact: 0.003649
+ 3.  @                   | Impact: 0.002193
+ 4.  @                   | Impact: 0.001956
+ 5.  and                 | Impact: 0.001492
+ 6.  @                   | Impact: 0.000901
+ 7.  by                  | Impact: 0.000383
+ 8.  kay                 | Impact: 0.000383
+ 9.  call                | Impact: 0.000150
+10.  me                  | Impact: 0.000150
+11.  to                  | Impact: 0.000150
+12.  discuss             | Impact: 0.000150
+13.  scott               | Impact: 0.000121
+14.  healy               | Impact: 0.000121
+15.  /                   | Impact: 0.000121
+16.  sf                  | Impact: 0.000121
+17.  /                   | Impact: 0.000121
+18.  such                | Impact: 0.000112
+19.  an                  | Impact: 0.000112
+20.  lo                  | Impact: 0.000112
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  forward             | Impact: -0.006010
+ 2.  en                  | Impact: -0.005341
+ 3.  en                  | Impact: -0.004999
+ 4. ron                  | Impact: -0.004323
+ 5.  en                  | Impact: -0.003955
+ 6.  note                | Impact: -0.003739
+ 7. ron                  | Impact: -0.003422
+ 8.  balance             | Impact: -0.003381
+ 9.  mm                  | Impact: -0.002950
+10.  that                | Impact: -0.002928
+11.  -                   | Impact: -0.002814
+12.  forward             | Impact: -0.002606
+13.  .                   | Impact: -0.002580
+14.  ec                  | Impact: -0.002575
+15. ron                  | Impact: -0.002549
+16.  ec                  | Impact: -0.002416
+17. t                    | Impact: -0.002416
+18.  en                  | Impact: -0.002395
+19.  :                   | Impact: -0.002387
+20. ron                  | Impact: -0.002340

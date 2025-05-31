@@ -1,0 +1,75 @@
+Sample 243
+==========
+
+Sample text preview: Stevens- Destin does not feel comfortable with volumes yet at your meter. They are waiting for final meter numbers before allocating to our transport ...
+
+Model prediction: [9.9981016e-01 1.8987940e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  thanks              | Impact: -0.036879 → LEGITIMATE
+ 2.  name                | Impact: 0.019670 → PHISHING
+ 3.  you                 | Impact: 0.012750 → PHISHING
+ 4.  stevens             | Impact: 0.012088 → PHISHING
+ 5.  please              | Impact: 0.011538 → PHISHING
+ 6.  your                | Impact: 0.011221 → PHISHING
+ 7.  pricing             | Impact: -0.009129 → LEGITIMATE
+ 8.  you                 | Impact: -0.008638 → LEGITIMATE
+ 9.  stevens             | Impact: -0.008156 → LEGITIMATE
+10.  provide             | Impact: 0.007894 → PHISHING
+11.  contract            | Impact: 0.006135 → PHISHING
+12.  ?                   | Impact: 0.005917 → PHISHING
+13.  me                  | Impact: 0.005853 → PHISHING
+14.  we                  | Impact: 0.005211 → PHISHING
+15.  october             | Impact: -0.005042 → LEGITIMATE
+16. ron                  | Impact: -0.004812 → LEGITIMATE
+17.  transport           | Impact: 0.004727 → PHISHING
+18.  me                  | Impact: 0.004713 → PHISHING
+19.  allocation          | Impact: -0.004424 → LEGITIMATE
+20.  will                | Impact: 0.004327 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  name                | Impact: 0.019670
+ 2.  you                 | Impact: 0.012750
+ 3.  stevens             | Impact: 0.012088
+ 4.  please              | Impact: 0.011538
+ 5.  your                | Impact: 0.011221
+ 6.  provide             | Impact: 0.007894
+ 7.  contract            | Impact: 0.006135
+ 8.  ?                   | Impact: 0.005917
+ 9.  me                  | Impact: 0.005853
+10.  we                  | Impact: 0.005211
+11.  transport           | Impact: 0.004727
+12.  me                  | Impact: 0.004713
+13.  will                | Impact: 0.004327
+14.  give                | Impact: 0.003632
+15.  prices              | Impact: 0.002737
+16.  send                | Impact: 0.002418
+17.  and                 | Impact: 0.001692
+18.  the                 | Impact: 0.001413
+19.  they                | Impact: 0.001286
+20.  are                 | Impact: 0.001286
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.036879
+ 2.  pricing             | Impact: -0.009129
+ 3.  you                 | Impact: -0.008638
+ 4.  stevens             | Impact: -0.008156
+ 5.  october             | Impact: -0.005042
+ 6. ron                  | Impact: -0.004812
+ 7.  allocation          | Impact: -0.004424
+ 8.  ,                   | Impact: -0.004055
+ 9.  can                 | Impact: -0.003916
+10.  en                  | Impact: -0.003566
+11.  meter               | Impact: -0.003498
+12.  susan               | Impact: -0.003461
+13.  pereira             | Impact: -0.003145
+14.  thanks              | Impact: -0.002945
+15.  comfortable         | Impact: -0.002861
+16.  gas                 | Impact: -0.002593
+17.  numbers             | Impact: -0.002543
+18.  volumes             | Impact: -0.002272
+19.  final               | Impact: -0.002221
+20.  provide             | Impact: -0.001923

@@ -1,0 +1,75 @@
+Sample 458
+==========
+
+Sample text preview: > So now Osama bin Laden is Hitler. And Saddam Hussein is Hitler. And > George Bush is fighting the Nazis. Someone should shout "Godwin!" at him at a ...
+
+Model prediction: [9.9980766e-01 1.9240208e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.004483 → LEGITIMATE
+ 2.  free                | Impact: 0.004257 → PHISHING
+ 3.  &                   | Impact: 0.003728 → PHISHING
+ 4.  +                   | Impact: 0.002726 → PHISHING
+ 5.  is                  | Impact: 0.001785 → PHISHING
+ 6.  saddam              | Impact: 0.001384 → PHISHING
+ 7.  hussein             | Impact: 0.001348 → PHISHING
+ 8.  groups              | Impact: -0.001221 → LEGITIMATE
+ 9.  p                   | Impact: -0.001208 → LEGITIMATE
+10.  george              | Impact: -0.001034 → LEGITIMATE
+11.  s                   | Impact: 0.001033 → PHISHING
+12.  sponsor             | Impact: -0.001032 → LEGITIMATE
+13.  join                | Impact: -0.000959 → LEGITIMATE
+14.  .                   | Impact: -0.000953 → LEGITIMATE
+15.  now                 | Impact: 0.000900 → PHISHING
+16.  hitler              | Impact: 0.000862 → PHISHING
+17.  group               | Impact: -0.000850 → LEGITIMATE
+18.  groups              | Impact: -0.000823 → LEGITIMATE
+19.  -                   | Impact: -0.000754 → LEGITIMATE
+20.  -                   | Impact: -0.000744 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  free                | Impact: 0.004257
+ 2.  &                   | Impact: 0.003728
+ 3.  +                   | Impact: 0.002726
+ 4.  is                  | Impact: 0.001785
+ 5.  saddam              | Impact: 0.001384
+ 6.  hussein             | Impact: 0.001348
+ 7.  s                   | Impact: 0.001033
+ 8.  now                 | Impact: 0.000900
+ 9.  hitler              | Impact: 0.000862
+10.  -                   | Impact: 0.000567
+11.  -                   | Impact: 0.000567
+12.  and                 | Impact: 0.000551
+13.  -                   | Impact: 0.000536
+14.  -                   | Impact: 0.000536
+15.  -                   | Impact: 0.000436
+16.  -                   | Impact: 0.000436
+17.  -                   | Impact: 0.000378
+18.  -                   | Impact: 0.000378
+19.  >                   | Impact: 0.000344
+20.  dvds                | Impact: 0.000344
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.004483
+ 2.  groups              | Impact: -0.001221
+ 3.  p                   | Impact: -0.001208
+ 4.  george              | Impact: -0.001034
+ 5.  sponsor             | Impact: -0.001032
+ 6.  join                | Impact: -0.000959
+ 7.  .                   | Impact: -0.000953
+ 8.  group               | Impact: -0.000850
+ 9.  groups              | Impact: -0.000823
+10.  -                   | Impact: -0.000754
+11.  -                   | Impact: -0.000744
+12.  -                   | Impact: -0.000735
+13.  -                   | Impact: -0.000727
+14.  -                   | Impact: -0.000727
+15.  -                   | Impact: -0.000719
+16.  from                | Impact: -0.000669
+17.  this                | Impact: -0.000669
+18.  .                   | Impact: -0.000666
+19.  bush                | Impact: -0.000660
+20.  is                  | Impact: -0.000660

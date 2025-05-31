@@ -1,0 +1,70 @@
+Sample 297
+==========
+
+Sample text preview: YIPPEEE. Carolyn, I think we should tender by email. Kay ---------------------- Forwarded by Kay Mann/Corp/Enron on // : PM --------------------------...
+
+Model prediction: [9.9979490e-01 2.0511229e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.009197 → LEGITIMATE
+ 2.  should              | Impact: -0.006764 → LEGITIMATE
+ 3.  email               | Impact: -0.005893 → LEGITIMATE
+ 4.  .                   | Impact: -0.005803 → LEGITIMATE
+ 5.  carolyn             | Impact: -0.005597 → LEGITIMATE
+ 6.  think               | Impact: -0.005023 → LEGITIMATE
+ 7.  cc                  | Impact: -0.004774 → LEGITIMATE
+ 8.  tender              | Impact: -0.004768 → LEGITIMATE
+ 9.  by                  | Impact: -0.004768 → LEGITIMATE
+10.  versions            | Impact: -0.004594 → LEGITIMATE
+11.  sent                | Impact: -0.004581 → LEGITIMATE
+12.  :                   | Impact: -0.004581 → LEGITIMATE
+13.  i                   | Impact: -0.003900 → LEGITIMATE
+14.  .                   | Impact: -0.003807 → LEGITIMATE
+15.  we                  | Impact: -0.003747 → LEGITIMATE
+16.  agreement           | Impact: -0.003728 → LEGITIMATE
+17.  -                   | Impact: -0.003043 → LEGITIMATE
+18.  -                   | Impact: -0.003043 → LEGITIMATE
+19.  to                  | Impact: -0.002994 → LEGITIMATE
+20.  :                   | Impact: -0.002994 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  j                   | Impact: 0.002789
+ 2.  .                   | Impact: 0.001091
+ 3.  peter               | Impact: 0.001051
+ 4.  pip                 | Impact: 0.000514
+ 5. ito                  | Impact: 0.000514
+ 6. ne                   | Impact: 0.000514
+ 7.  (                   | Impact: 0.000471
+ 8.  (                   | Impact: 0.000360
+ 9.  yi                  | Impact: 0.000192
+10. ppe                  | Impact: 0.000192
+11. ee                   | Impact: 0.000192
+12.                      | Impact: 0.000192
+13.  lee                 | Impact: 0.000004
+14.  '                   | Impact: 0.000004
+15.  s                   | Impact: 0.000004
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.009197
+ 2.  should              | Impact: -0.006764
+ 3.  email               | Impact: -0.005893
+ 4.  .                   | Impact: -0.005803
+ 5.  carolyn             | Impact: -0.005597
+ 6.  think               | Impact: -0.005023
+ 7.  cc                  | Impact: -0.004774
+ 8.  tender              | Impact: -0.004768
+ 9.  by                  | Impact: -0.004768
+10.  versions            | Impact: -0.004594
+11.  sent                | Impact: -0.004581
+12.  :                   | Impact: -0.004581
+13.  i                   | Impact: -0.003900
+14.  .                   | Impact: -0.003807
+15.  we                  | Impact: -0.003747
+16.  agreement           | Impact: -0.003728
+17.  -                   | Impact: -0.003043
+18.  -                   | Impact: -0.003043
+19.  to                  | Impact: -0.002994
+20.  :                   | Impact: -0.002994

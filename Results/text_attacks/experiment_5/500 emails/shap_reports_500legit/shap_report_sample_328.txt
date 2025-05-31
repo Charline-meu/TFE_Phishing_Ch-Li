@@ -1,0 +1,75 @@
+Sample 328
+==========
+
+Sample text preview: Developing countries vs. China • Scam payments • AI models’ human needs • Job interviews post-AI ( ) December , The monday.com ( ) weekly monday.com (...
+
+Model prediction: [9.9970430e-01 2.9569905e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  the                 | Impact: -0.012388 → LEGITIMATE
+ 2.  monday              | Impact: -0.012388 → LEGITIMATE
+ 3.  .                   | Impact: -0.012388 → LEGITIMATE
+ 4.  weekly              | Impact: -0.010519 → LEGITIMATE
+ 5.  monday              | Impact: -0.010519 → LEGITIMATE
+ 6.  .                   | Impact: -0.010519 → LEGITIMATE
+ 7.  com                 | Impact: -0.008421 → LEGITIMATE
+ 8.  (                   | Impact: -0.008421 → LEGITIMATE
+ 9.  )                   | Impact: -0.008421 → LEGITIMATE
+10.  monday              | Impact: -0.008131 → LEGITIMATE
+11.  insights            | Impact: -0.008131 → LEGITIMATE
+12.  page                | Impact: -0.008131 → LEGITIMATE
+13.  (                   | Impact: -0.007724 → LEGITIMATE
+14.  )                   | Impact: -0.007724 → LEGITIMATE
+15.  countries           | Impact: 0.007184 → PHISHING
+16.  vs                  | Impact: 0.007184 → PHISHING
+17.  tuesday             | Impact: -0.006427 → LEGITIMATE
+18. s                    | Impact: -0.006427 → LEGITIMATE
+19.  inside              | Impact: -0.006427 → LEGITIMATE
+20.  this                | Impact: -0.006427 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  countries           | Impact: 0.007184
+ 2.  vs                  | Impact: 0.007184
+ 3.                      | Impact: 0.004780
+ 4.  developing          | Impact: 0.004780
+ 5.  indonesia           | Impact: 0.003893
+ 6.  '                   | Impact: 0.003893
+ 7.  s                   | Impact: 0.003893
+ 8.  recent              | Impact: 0.003893
+ 9.  ban                 | Impact: 0.003893
+10.  of                  | Impact: 0.003893
+11.  much                | Impact: 0.002642
+12.  of                  | Impact: 0.002642
+13.  the                 | Impact: 0.002642
+14.  country             | Impact: 0.002642
+15.  ’                   | Impact: 0.002642
+16.  s                   | Impact: 0.002642
+17.  shrinking           | Impact: 0.002642
+18.  industrial          | Impact: 0.002642
+19.  business            | Impact: 0.002642
+20.  leaders             | Impact: 0.002642
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.012388
+ 2.  monday              | Impact: -0.012388
+ 3.  .                   | Impact: -0.012388
+ 4.  weekly              | Impact: -0.010519
+ 5.  monday              | Impact: -0.010519
+ 6.  .                   | Impact: -0.010519
+ 7.  com                 | Impact: -0.008421
+ 8.  (                   | Impact: -0.008421
+ 9.  )                   | Impact: -0.008421
+10.  monday              | Impact: -0.008131
+11.  insights            | Impact: -0.008131
+12.  page                | Impact: -0.008131
+13.  (                   | Impact: -0.007724
+14.  )                   | Impact: -0.007724
+15.  tuesday             | Impact: -0.006427
+16. s                    | Impact: -0.006427
+17.  inside              | Impact: -0.006427
+18.  this                | Impact: -0.006427
+19.  (                   | Impact: -0.006241
+20.  )                   | Impact: -0.006241

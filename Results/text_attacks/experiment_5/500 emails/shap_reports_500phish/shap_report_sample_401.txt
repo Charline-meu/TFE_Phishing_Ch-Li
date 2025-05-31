@@ -1,0 +1,75 @@
+Sample 401
+==========
+
+Sample text preview: I have a new email address!You can now email me at: Attention please,.... I humbly ask for your assistance to enable me transfer the money my late fat...
+
+Model prediction: [1.5439195e-04 9.9984562e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  son                 | Impact: 0.024618 → PHISHING
+ 2.  your                | Impact: 0.015831 → PHISHING
+ 3.  contact             | Impact: 0.015831 → PHISHING
+ 4.  address             | Impact: 0.015831 → PHISHING
+ 5.  your                | Impact: 0.012151 → PHISHING
+ 6.  private             | Impact: 0.012151 → PHISHING
+ 7.  best                | Impact: 0.011348 → PHISHING
+ 8.  regards             | Impact: 0.011348 → PHISHING
+ 9.  mobile              | Impact: 0.010800 → PHISHING
+10.  phone               | Impact: 0.010800 → PHISHING
+11.  elder               | Impact: 0.009027 → PHISHING
+12.  brothers            | Impact: 0.009027 → PHISHING
+13.  your                | Impact: 0.008429 → PHISHING
+14.  bank                | Impact: 0.008429 → PHISHING
+15.  now                 | Impact: 0.007601 → PHISHING
+16.  my                  | Impact: 0.007601 → PHISHING
+17.  )                   | Impact: 0.007310 → PHISHING
+18.  account             | Impact: 0.007288 → PHISHING
+19.  details             | Impact: 0.007288 → PHISHING
+20.  family              | Impact: 0.007253 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  son                 | Impact: 0.024618
+ 2.  your                | Impact: 0.015831
+ 3.  contact             | Impact: 0.015831
+ 4.  address             | Impact: 0.015831
+ 5.  your                | Impact: 0.012151
+ 6.  private             | Impact: 0.012151
+ 7.  best                | Impact: 0.011348
+ 8.  regards             | Impact: 0.011348
+ 9.  mobile              | Impact: 0.010800
+10.  phone               | Impact: 0.010800
+11.  elder               | Impact: 0.009027
+12.  brothers            | Impact: 0.009027
+13.  your                | Impact: 0.008429
+14.  bank                | Impact: 0.008429
+15.  now                 | Impact: 0.007601
+16.  my                  | Impact: 0.007601
+17.  )                   | Impact: 0.007310
+18.  account             | Impact: 0.007288
+19.  details             | Impact: 0.007288
+20.  family              | Impact: 0.007253
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.006702
+ 2.  -                   | Impact: -0.003859
+ 3.  bass                | Impact: -0.003072
+ 4. ey                   | Impact: -0.003072
+ 5.  +                   | Impact: -0.002478
+ 6.  -                   | Impact: -0.002478
+ 7.  (                   | Impact: -0.002103
+ 8.  fa                  | Impact: -0.001307
+ 9. x                    | Impact: -0.001307
+10.  numbers             | Impact: -0.001307
+11.  and                 | Impact: -0.000760
+12.  as                  | Impact: -0.000250
+13.  shown               | Impact: -0.000250
+14.  in                  | Impact: -0.000250
+15.  the                 | Impact: -0.000250
+16.  legal               | Impact: -0.000250
+17.  documents           | Impact: -0.000250
+18.  ,                   | Impact: -0.000250
+19.  so                  | Impact: -0.000061
+20.  that                | Impact: -0.000061

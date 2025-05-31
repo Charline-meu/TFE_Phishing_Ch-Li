@@ -1,0 +1,75 @@
+Sample 88
+=========
+
+Sample text preview: I call PacBell/SBC every two or three months about a recurring problem we have at my house: We get a phone bill every month for someone who no longer ...
+
+Model prediction: [0.9987136  0.00128639]
+Predicted class: LEGITIMATE with 0.9987 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lives               | Impact: 0.009479 → PHISHING
+ 2.  at                  | Impact: 0.007998 → PHISHING
+ 3.  our                 | Impact: 0.006956 → PHISHING
+ 4.  house               | Impact: 0.006956 → PHISHING
+ 5.  ]                   | Impact: -0.006195 → LEGITIMATE
+ 6.  >                   | Impact: -0.006195 → LEGITIMATE
+ 7.  hold                | Impact: 0.006155 → PHISHING
+ 8.  please              | Impact: 0.006155 → PHISHING
+ 9.  >                   | Impact: -0.005822 → LEGITIMATE
+10.  >                   | Impact: -0.005822 → LEGITIMATE
+11.  [                   | Impact: -0.005822 → LEGITIMATE
+12.  "                   | Impact: -0.004570 → LEGITIMATE
+13.  huh                 | Impact: -0.004570 → LEGITIMATE
+14.  ?                   | Impact: -0.004570 → LEGITIMATE
+15.  or                  | Impact: -0.003830 → LEGITIMATE
+16.  sb                  | Impact: -0.003699 → LEGITIMATE
+17. c                    | Impact: -0.003699 → LEGITIMATE
+18.  every               | Impact: -0.003699 → LEGITIMATE
+19.  two                 | Impact: -0.003699 → LEGITIMATE
+20.  the                 | Impact: -0.003409 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  lives               | Impact: 0.009479
+ 2.  at                  | Impact: 0.007998
+ 3.  our                 | Impact: 0.006956
+ 4.  house               | Impact: 0.006956
+ 5.  hold                | Impact: 0.006155
+ 6.  please              | Impact: 0.006155
+ 7.  .                   | Impact: 0.003348
+ 8.  has                 | Impact: 0.002635
+ 9.  been                | Impact: 0.002635
+10.  disconnected        | Impact: 0.002635
+11.  for                 | Impact: 0.002635
+12.  three               | Impact: 0.002635
+13.  years               | Impact: 0.002635
+14.  and                 | Impact: 0.002635
+15.  verify              | Impact: 0.002464
+16.  that                | Impact: 0.002464
+17.  the                 | Impact: 0.002464
+18.  line                | Impact: 0.002464
+19.  please              | Impact: 0.001871
+20.  f                   | Impact: 0.001871
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ]                   | Impact: -0.006195
+ 2.  >                   | Impact: -0.006195
+ 3.  >                   | Impact: -0.005822
+ 4.  >                   | Impact: -0.005822
+ 5.  [                   | Impact: -0.005822
+ 6.  "                   | Impact: -0.004570
+ 7.  huh                 | Impact: -0.004570
+ 8.  ?                   | Impact: -0.004570
+ 9.  or                  | Impact: -0.003830
+10.  sb                  | Impact: -0.003699
+11. c                    | Impact: -0.003699
+12.  every               | Impact: -0.003699
+13.  two                 | Impact: -0.003699
+14.  the                 | Impact: -0.003409
+15.  account             | Impact: -0.003409
+16.  balance             | Impact: -0.003409
+17.  is                  | Impact: -0.003409
+18.  $                   | Impact: -0.003391
+19.  .                   | Impact: -0.003391
+20.  we                  | Impact: -0.002853

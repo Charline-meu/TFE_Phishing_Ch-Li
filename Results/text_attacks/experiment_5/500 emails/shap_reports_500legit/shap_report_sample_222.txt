@@ -1,0 +1,75 @@
+Sample 222
+==========
+
+Sample text preview: This report relates to a message you sent with the following header fields: Message-id: Date: Thu, Oct :: - From: "Panus, Stephanie" To: Subject: Mom'...
+
+Model prediction: [9.9978215e-01 2.1785287e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.005091 → PHISHING
+ 2.  message             | Impact: 0.005091 → PHISHING
+ 3.  funeral             | Impact: 0.003307 → PHISHING
+ 4.  expenses            | Impact: 0.003307 → PHISHING
+ 5.  :                   | Impact: 0.003249 → PHISHING
+ 6.  recipient           | Impact: 0.003249 → PHISHING
+ 7.  address             | Impact: 0.003243 → PHISHING
+ 8.  :                   | Impact: 0.003243 → PHISHING
+ 9.  has                 | Impact: 0.003019 → PHISHING
+10.  been                | Impact: 0.003019 → PHISHING
+11.  successfully        | Impact: 0.003019 → PHISHING
+12.  delivered           | Impact: 0.003019 → PHISHING
+13.                      | Impact: -0.002737 → LEGITIMATE
+14.  this                | Impact: -0.002737 → LEGITIMATE
+15.  report              | Impact: -0.002737 → LEGITIMATE
+16.  relates             | Impact: -0.002737 → LEGITIMATE
+17.  subject             | Impact: -0.002538 → LEGITIMATE
+18.  :                   | Impact: -0.002538 → LEGITIMATE
+19.  mom                 | Impact: -0.002252 → LEGITIMATE
+20.  '                   | Impact: -0.002252 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.005091
+ 2.  message             | Impact: 0.005091
+ 3.  funeral             | Impact: 0.003307
+ 4.  expenses            | Impact: 0.003307
+ 5.  :                   | Impact: 0.003249
+ 6.  recipient           | Impact: 0.003249
+ 7.  address             | Impact: 0.003243
+ 8.  :                   | Impact: 0.003243
+ 9.  has                 | Impact: 0.003019
+10.  been                | Impact: 0.003019
+11.  successfully        | Impact: 0.003019
+12.  delivered           | Impact: 0.003019
+13.  dt                  | Impact: 0.001221
+14. f                    | Impact: 0.001221
+15.  return              | Impact: 0.001221
+16.  -                   | Impact: 0.001221
+17.  to                  | Impact: 0.000940
+18.  the                 | Impact: 0.000940
+19.  following           | Impact: 0.000940
+20.  recipients          | Impact: 0.000940
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.002737
+ 2.  this                | Impact: -0.002737
+ 3.  report              | Impact: -0.002737
+ 4.  relates             | Impact: -0.002737
+ 5.  subject             | Impact: -0.002538
+ 6.  :                   | Impact: -0.002538
+ 7.  mom                 | Impact: -0.002252
+ 8.  '                   | Impact: -0.002252
+ 9.  s                   | Impact: -0.002252
+10.  en                  | Impact: -0.002172
+11. ron                  | Impact: -0.002172
+12.  .                   | Impact: -0.002172
+13.  -                   | Impact: -0.002026
+14.  daemon              | Impact: -0.002026
+15.  by                  | Impact: -0.002026
+16.  sims                | Impact: -0.002026
+17.  com                 | Impact: -0.001904
+18.  .                   | Impact: -0.001612
+19.  from                | Impact: -0.001235
+20.  sims                | Impact: -0.001235

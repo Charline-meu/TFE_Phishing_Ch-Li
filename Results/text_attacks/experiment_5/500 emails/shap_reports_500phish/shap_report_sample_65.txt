@@ -1,0 +1,75 @@
+Sample 65
+=========
+
+Sample text preview: From:Dan Wilson Kenya Commercial Bank City Centre, P.O. Box ,Nairobi. Kenya Dear Sir/Madam, May I crave your indulgence to open this business discussi...
+
+Model prediction: [1.8433388e-04 9.9981564e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ben                 | Impact: 0.030620 → PHISHING
+ 2. ef                   | Impact: 0.030620 → PHISHING
+ 3. icia                 | Impact: 0.027896 → PHISHING
+ 4. ry                   | Impact: 0.027896 → PHISHING
+ 5.  to                  | Impact: 0.016708 → PHISHING
+ 6.  provide             | Impact: 0.016708 → PHISHING
+ 7.  immediately         | Impact: 0.016708 → PHISHING
+ 8.  your                | Impact: 0.016708 → PHISHING
+ 9.  mr                  | Impact: 0.016457 → PHISHING
+10.  .                   | Impact: 0.013163 → PHISHING
+11.  put                 | Impact: 0.009435 → PHISHING
+12.  you                 | Impact: 0.009435 → PHISHING
+13.  in                  | Impact: 0.009435 → PHISHING
+14.  place               | Impact: 0.009435 → PHISHING
+15.  as                  | Impact: 0.009435 → PHISHING
+16.  the                 | Impact: 0.009435 → PHISHING
+17.  of                  | Impact: 0.008629 → PHISHING
+18.  the                 | Impact: 0.008629 → PHISHING
+19.  funds               | Impact: 0.008629 → PHISHING
+20.  .                   | Impact: 0.008629 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ben                 | Impact: 0.030620
+ 2. ef                   | Impact: 0.030620
+ 3. icia                 | Impact: 0.027896
+ 4. ry                   | Impact: 0.027896
+ 5.  to                  | Impact: 0.016708
+ 6.  provide             | Impact: 0.016708
+ 7.  immediately         | Impact: 0.016708
+ 8.  your                | Impact: 0.016708
+ 9.  mr                  | Impact: 0.016457
+10.  .                   | Impact: 0.013163
+11.  put                 | Impact: 0.009435
+12.  you                 | Impact: 0.009435
+13.  in                  | Impact: 0.009435
+14.  place               | Impact: 0.009435
+15.  as                  | Impact: 0.009435
+16.  the                 | Impact: 0.009435
+17.  of                  | Impact: 0.008629
+18.  the                 | Impact: 0.008629
+19.  funds               | Impact: 0.008629
+20.  .                   | Impact: 0.008629
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.001487
+ 2.  sent                | Impact: -0.001487
+ 3.  a                   | Impact: -0.001487
+ 4.  routine             | Impact: -0.001487
+ 5.  notification        | Impact: -0.001487
+ 6.  to                  | Impact: -0.001487
+ 7.  his                 | Impact: -0.001487
+ 8.  forward             | Impact: -0.001487
+ 9. ing                  | Impact: -0.001487
+10.  address             | Impact: -0.001487
+11.  but                 | Impact: -0.000395
+12.  .                   | Impact: -0.000395
+13.  got                 | Impact: -0.000395
+14.  no                  | Impact: -0.000395
+15.  reply               | Impact: -0.000395
+16.  clifford            | Impact: -0.000150
+17.  stone               | Impact: -0.000150
+18.  made                | Impact: -0.000150
+19.  a                   | Impact: -0.000150
+20.  deposit             | Impact: -0.000150

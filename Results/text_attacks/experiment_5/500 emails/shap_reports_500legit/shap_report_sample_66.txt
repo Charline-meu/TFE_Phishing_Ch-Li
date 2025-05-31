@@ -1,0 +1,75 @@
+Sample 66
+=========
+
+Sample text preview: Theo, Thank you very much, it solves the problem!!!! Eugene -----Original Message----- From: Behalf Of Theo Van Dinter Sent: September , : PM To: Euge...
+
+Model prediction: [9.9978441e-01 2.1558753e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.007519 → LEGITIMATE
+ 2.  users               | Impact: -0.007519 → LEGITIMATE
+ 3. d                    | Impact: -0.006939 → LEGITIMATE
+ 4.  os                  | Impact: -0.005942 → LEGITIMATE
+ 5.  here                | Impact: 0.005599 → PHISHING
+ 6.  email               | Impact: -0.003576 → LEGITIMATE
+ 7.  net                 | Impact: -0.003261 → LEGITIMATE
+ 8.  sponsored           | Impact: -0.002943 → LEGITIMATE
+ 9.  !                   | Impact: 0.002823 → PHISHING
+10.  an                  | Impact: 0.002304 → PHISHING
+11.  accident            | Impact: 0.002304 → PHISHING
+12.  is                  | Impact: -0.002156 → LEGITIMATE
+13.  for                 | Impact: 0.002146 → PHISHING
+14.  free                | Impact: 0.002146 → PHISHING
+15.  by                  | Impact: -0.001987 → LEGITIMATE
+16.  :                   | Impact: -0.001987 → LEGITIMATE
+17.  randomly            | Impact: -0.001834 → LEGITIMATE
+18.  generated           | Impact: -0.001834 → LEGITIMATE
+19.  :                   | Impact: -0.001678 → LEGITIMATE
+20.  "                   | Impact: -0.001678 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  here                | Impact: 0.005599
+ 2.  !                   | Impact: 0.002823
+ 3.  an                  | Impact: 0.002304
+ 4.  accident            | Impact: 0.002304
+ 5.  for                 | Impact: 0.002146
+ 6.  free                | Impact: 0.002146
+ 7.  new                 | Impact: 0.001443
+ 8.  .                   | Impact: 0.000992
+ 9.  same                | Impact: 0.000910
+10.  old                 | Impact: 0.000910
+11.  _                   | Impact: 0.000687
+12.  _                   | Impact: 0.000687
+13.  _                   | Impact: 0.000563
+14.  _                   | Impact: 0.000563
+15.  _                   | Impact: 0.000561
+16.  _                   | Impact: 0.000561
+17.  _                   | Impact: 0.000428
+18.  _                   | Impact: 0.000428
+19.  "                   | Impact: 0.000418
+20.  ,                   | Impact: 0.000418
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.007519
+ 2.  users               | Impact: -0.007519
+ 3. d                    | Impact: -0.006939
+ 4.  os                  | Impact: -0.005942
+ 5.  email               | Impact: -0.003576
+ 6.  net                 | Impact: -0.003261
+ 7.  sponsored           | Impact: -0.002943
+ 8.  is                  | Impact: -0.002156
+ 9.  by                  | Impact: -0.001987
+10.  :                   | Impact: -0.001987
+11.  randomly            | Impact: -0.001834
+12.  generated           | Impact: -0.001834
+13.  :                   | Impact: -0.001678
+14.  "                   | Impact: -0.001678
+15.  list                | Impact: -0.001653
+16.                      | Impact: -0.001653
+17.  -                   | Impact: -0.001517
+18.  -                   | Impact: -0.001517
+19.  the                 | Impact: -0.001307
+20.  problem             | Impact: -0.001307

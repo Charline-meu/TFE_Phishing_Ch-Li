@@ -1,0 +1,75 @@
+Sample 392
+==========
+
+Sample text preview: Dearest in the lord, I am Mrs mary Clement from Solomon Islands near Australia. I am married to Mr.William Clement from Romania who worked with Romani...
+
+Model prediction: [2.1210345e-04 9.9978787e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  married             | Impact: 0.009660 → PHISHING
+ 2.  to                  | Impact: 0.009660 → PHISHING
+ 3.  mr                  | Impact: 0.009660 → PHISHING
+ 4.  ben                 | Impact: 0.009310 → PHISHING
+ 5. ef                   | Impact: 0.009310 → PHISHING
+ 6. icia                 | Impact: 0.009310 → PHISHING
+ 7. ry                   | Impact: 0.009310 → PHISHING
+ 8.  of                  | Impact: 0.006868 → PHISHING
+ 9.  this                | Impact: 0.006868 → PHISHING
+10.  fund                | Impact: 0.006868 → PHISHING
+11.  .                   | Impact: 0.006868 → PHISHING
+12.  late                | Impact: 0.006637 → PHISHING
+13.  husband             | Impact: 0.006637 → PHISHING
+14.  husband             | Impact: 0.006038 → PHISHING
+15.  '                   | Impact: 0.006038 → PHISHING
+16.  s                   | Impact: 0.006038 → PHISHING
+17.  when                | Impact: 0.005889 → PHISHING
+18.  my                  | Impact: 0.005889 → PHISHING
+19.  relatives           | Impact: 0.005223 → PHISHING
+20.  around              | Impact: 0.005223 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  married             | Impact: 0.009660
+ 2.  to                  | Impact: 0.009660
+ 3.  mr                  | Impact: 0.009660
+ 4.  ben                 | Impact: 0.009310
+ 5. ef                   | Impact: 0.009310
+ 6. icia                 | Impact: 0.009310
+ 7. ry                   | Impact: 0.009310
+ 8.  of                  | Impact: 0.006868
+ 9.  this                | Impact: 0.006868
+10.  fund                | Impact: 0.006868
+11.  .                   | Impact: 0.006868
+12.  late                | Impact: 0.006637
+13.  husband             | Impact: 0.006637
+14.  husband             | Impact: 0.006038
+15.  '                   | Impact: 0.006038
+16.  s                   | Impact: 0.006038
+17.  when                | Impact: 0.005889
+18.  my                  | Impact: 0.005889
+19.  relatives           | Impact: 0.005223
+20.  around              | Impact: 0.005223
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  exodus              | Impact: -0.001308
+ 2.  vs                  | Impact: -0.001308
+ 3.  says                | Impact: -0.001308
+ 4.  that                | Impact: -0.001308
+ 5.  "                   | Impact: -0.001308
+ 6.  the                 | Impact: -0.001308
+ 7.  lord                | Impact: -0.001308
+ 8.  will                | Impact: -0.001308
+ 9.  i                   | Impact: -0.000414
+10.  shall               | Impact: -0.000414
+11.  hold                | Impact: -0.000414
+12.  my                  | Impact: -0.000414
+13.  peace               | Impact: -0.000414
+14.  "                   | Impact: -0.000414
+15.  .                   | Impact: -0.000414
+16.  fight               | Impact: -0.000373
+17.  my                  | Impact: -0.000373
+18.  case                | Impact: -0.000373
+19.  and                 | Impact: -0.000373
+20.  the                 | Impact: -0.000056

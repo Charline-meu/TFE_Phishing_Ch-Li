@@ -1,0 +1,75 @@
+Sample 420
+==========
+
+Sample text preview: The Beneficiary, Estate of Engr. Terry Williams. FINAL NOTIFICATION Please confirm your receipt of this mail because previous correspondence have been...
+
+Model prediction: [1.7465121e-04 9.9982542e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  of                  | Impact: 0.011515 → PHISHING
+ 2.  this                | Impact: 0.011515 → PHISHING
+ 3.  funds               | Impact: 0.011515 → PHISHING
+ 4.  to                  | Impact: 0.011515 → PHISHING
+ 5.  you                 | Impact: 0.011515 → PHISHING
+ 6.  terry               | Impact: -0.010084 → LEGITIMATE
+ 7.  williams            | Impact: -0.010084 → LEGITIMATE
+ 8.  here                | Impact: 0.009031 → PHISHING
+ 9. by                   | Impact: 0.009031 → PHISHING
+10.  your                | Impact: 0.008624 → PHISHING
+11.  current             | Impact: 0.008624 → PHISHING
+12.                      | Impact: 0.008531 → PHISHING
+13.  the                 | Impact: 0.008531 → PHISHING
+14.  ben                 | Impact: 0.008531 → PHISHING
+15. ef                   | Impact: 0.008531 → PHISHING
+16. icia                 | Impact: 0.008531 → PHISHING
+17. ry                   | Impact: 0.008531 → PHISHING
+18.  ben                 | Impact: 0.008090 → PHISHING
+19. ef                   | Impact: 0.008090 → PHISHING
+20. icia                 | Impact: 0.008090 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  of                  | Impact: 0.011515
+ 2.  this                | Impact: 0.011515
+ 3.  funds               | Impact: 0.011515
+ 4.  to                  | Impact: 0.011515
+ 5.  you                 | Impact: 0.011515
+ 6.  here                | Impact: 0.009031
+ 7. by                   | Impact: 0.009031
+ 8.  your                | Impact: 0.008624
+ 9.  current             | Impact: 0.008624
+10.                      | Impact: 0.008531
+11.  the                 | Impact: 0.008531
+12.  ben                 | Impact: 0.008531
+13. ef                   | Impact: 0.008531
+14. icia                 | Impact: 0.008531
+15. ry                   | Impact: 0.008531
+16.  ben                 | Impact: 0.008090
+17. ef                   | Impact: 0.008090
+18. icia                 | Impact: 0.008090
+19. ry                   | Impact: 0.008090
+20.  i                   | Impact: 0.007494
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  terry               | Impact: -0.010084
+ 2.  williams            | Impact: -0.010084
+ 3.  terry               | Impact: -0.003443
+ 4.  williams            | Impact: -0.003443
+ 5.  .                   | Impact: -0.003443
+ 6.  .                   | Impact: -0.003132
+ 7.  endorsement         | Impact: -0.002518
+ 8.  of                  | Impact: -0.002518
+ 9.  rev                 | Impact: -0.002518
+10.  .                   | Impact: -0.002518
+11.  pro                 | Impact: -0.001512
+12. bate                 | Impact: -0.001512
+13.  expenses            | Impact: -0.001512
+14.  has                 | Impact: -0.001512
+15.                      | Impact: -0.001468
+16.  been                | Impact: -0.000546
+17.  provided            | Impact: -0.000546
+18.  for                 | Impact: -0.000546
+19.  .                   | Impact: -0.000546
+20.  please              | Impact: -0.000331

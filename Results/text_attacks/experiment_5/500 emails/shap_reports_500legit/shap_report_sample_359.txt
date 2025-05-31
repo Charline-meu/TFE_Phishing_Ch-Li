@@ -1,0 +1,72 @@
+Sample 359
+==========
+
+Sample text preview: Partitioning is an ambiguous term but I think I know what you mean. Have you looked at: Pdraig. -- Irish Linux Users' Group: for (un)subscription info...
+
+Model prediction: [9.998049e-01 1.950635e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  users               | Impact: 0.055453 → PHISHING
+ 2.  subscription        | Impact: 0.033957 → PHISHING
+ 3.  linux               | Impact: -0.024971 → LEGITIMATE
+ 4.  :                   | Impact: -0.019396 → LEGITIMATE
+ 5.  term                | Impact: -0.018091 → LEGITIMATE
+ 6.  you                 | Impact: 0.017906 → PHISHING
+ 7.  group               | Impact: -0.017642 → LEGITIMATE
+ 8.  un                  | Impact: -0.016808 → LEGITIMATE
+ 9.  is                  | Impact: 0.014608 → PHISHING
+10.  -                   | Impact: -0.013112 → LEGITIMATE
+11.  -                   | Impact: -0.012738 → LEGITIMATE
+12.  ambiguous           | Impact: -0.010308 → LEGITIMATE
+13.  pd                  | Impact: -0.008806 → LEGITIMATE
+14.  '                   | Impact: -0.008181 → LEGITIMATE
+15.  have                | Impact: 0.007634 → PHISHING
+16. rai                  | Impact: 0.006799 → PHISHING
+17.  you                 | Impact: 0.006334 → PHISHING
+18.  .                   | Impact: -0.005920 → LEGITIMATE
+19.  at                  | Impact: -0.005797 → LEGITIMATE
+20.  an                  | Impact: 0.004694 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  users               | Impact: 0.055453
+ 2.  subscription        | Impact: 0.033957
+ 3.  you                 | Impact: 0.017906
+ 4.  is                  | Impact: 0.014608
+ 5.  have                | Impact: 0.007634
+ 6. rai                  | Impact: 0.006799
+ 7.  you                 | Impact: 0.006334
+ 8.  an                  | Impact: 0.004694
+ 9. ing                  | Impact: 0.004118
+10.  know                | Impact: 0.003056
+11.  :                   | Impact: 0.002884
+12.  )                   | Impact: 0.002537
+13.  for                 | Impact: 0.001886
+14.  :                   | Impact: 0.001722
+15.  (                   | Impact: 0.001577
+16.  i                   | Impact: 0.001547
+17.  list                | Impact: 0.000315
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  linux               | Impact: -0.024971
+ 2.  :                   | Impact: -0.019396
+ 3.  term                | Impact: -0.018091
+ 4.  group               | Impact: -0.017642
+ 5.  un                  | Impact: -0.016808
+ 6.  -                   | Impact: -0.013112
+ 7.  -                   | Impact: -0.012738
+ 8.  ambiguous           | Impact: -0.010308
+ 9.  pd                  | Impact: -0.008806
+10.  '                   | Impact: -0.008181
+11.  .                   | Impact: -0.005920
+12.  at                  | Impact: -0.005797
+13.  maintain            | Impact: -0.004529
+14.  irish               | Impact: -0.003291
+15.  what                | Impact: -0.002948
+16. er                   | Impact: -0.002772
+17.  mean                | Impact: -0.002354
+18.  but                 | Impact: -0.001925
+19.  think               | Impact: -0.001677
+20.  .                   | Impact: -0.001375

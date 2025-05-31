@@ -1,0 +1,75 @@
+Sample 130
+==========
+
+Sample text preview: >From The Office of The Director of International Relation,Access Bank Plc Marina Street,Marina Lagos-Nigeria Dear, Please permit me to introduce my h...
+
+Model prediction: [1.7341992e-04 9.9982661e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.009774 → PHISHING
+ 2.  .                   | Impact: 0.009774 → PHISHING
+ 3.  his                 | Impact: 0.008462 → PHISHING
+ 4.  only                | Impact: 0.008462 → PHISHING
+ 5.  son                 | Impact: 0.008462 → PHISHING
+ 6.  whom                | Impact: 0.008462 → PHISHING
+ 7.  from                | Impact: 0.007853 → PHISHING
+ 8.  our                 | Impact: 0.007853 → PHISHING
+ 9.  bank                | Impact: 0.007853 → PHISHING
+10.  this                | Impact: 0.007853 → PHISHING
+11.  money               | Impact: 0.007853 → PHISHING
+12.  .                   | Impact: 0.007853 → PHISHING
+13.  claim               | Impact: 0.006054 → PHISHING
+14.  mr                  | Impact: 0.006054 → PHISHING
+15.  .                   | Impact: 0.006054 → PHISHING
+16.  i                   | Impact: 0.005201 → PHISHING
+17.  want                | Impact: 0.005201 → PHISHING
+18.  you                 | Impact: 0.005201 → PHISHING
+19.  to                  | Impact: 0.005201 → PHISHING
+20.  stand               | Impact: 0.005201 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.009774
+ 2.  .                   | Impact: 0.009774
+ 3.  his                 | Impact: 0.008462
+ 4.  only                | Impact: 0.008462
+ 5.  son                 | Impact: 0.008462
+ 6.  whom                | Impact: 0.008462
+ 7.  from                | Impact: 0.007853
+ 8.  our                 | Impact: 0.007853
+ 9.  bank                | Impact: 0.007853
+10.  this                | Impact: 0.007853
+11.  money               | Impact: 0.007853
+12.  .                   | Impact: 0.007853
+13.  claim               | Impact: 0.006054
+14.  mr                  | Impact: 0.006054
+15.  .                   | Impact: 0.006054
+16.  i                   | Impact: 0.005201
+17.  want                | Impact: 0.005201
+18.  you                 | Impact: 0.005201
+19.  to                  | Impact: 0.005201
+20.  stand               | Impact: 0.005201
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  unfortunately       | Impact: -0.001022
+ 2.  he                  | Impact: -0.001022
+ 3.  ran                 | Impact: -0.001022
+ 4.  into                | Impact: -0.001022
+ 5.  a                   | Impact: -0.001022
+ 6.  trailer             | Impact: -0.001022
+ 7.  truck               | Impact: -0.001022
+ 8.  load                | Impact: -0.001022
+ 9.  of                  | Impact: -0.001022
+10.  ground              | Impact: -0.000611
+11. nut                  | Impact: -0.000611
+12.  oil                 | Impact: -0.000611
+13.  and                 | Impact: -0.000611
+14.  died                | Impact: -0.000611
+15.  immediately         | Impact: -0.000611
+16.  .                   | Impact: -0.000611
+17.  your                | Impact: -0.000000
+18.  own                 | Impact: -0.000000
+19.  account             | Impact: -0.000000
+20.  as                  | Impact: -0.000000

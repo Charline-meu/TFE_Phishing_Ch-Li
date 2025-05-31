@@ -1,0 +1,75 @@
+Phishing Sample 7
+=================
+
+Sample text preview: Attached please find the memorandum prepared by Allen & Overy, outlining the arguments made during the hearing by counsel for the Peregrine liquidator...
+
+Model prediction: [9.9977750e-01 2.2256465e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. da                   | Impact: -0.098421 → LEGITIMATE
+ 2.  mail                | Impact: 0.046494 → PHISHING
+ 3.  is                  | Impact: -0.039038 → LEGITIMATE
+ 4.  reply               | Impact: 0.035318 → PHISHING
+ 5. da                   | Impact: -0.033782 → LEGITIMATE
+ 6.  please              | Impact: 0.024736 → PHISHING
+ 7.  &                   | Impact: 0.021549 → PHISHING
+ 8.  contact             | Impact: 0.019893 → PHISHING
+ 9.  memorandum          | Impact: -0.019508 → LEGITIMATE
+10.  is                  | Impact: -0.011004 → LEGITIMATE
+11.  please              | Impact: 0.009725 → PHISHING
+12.  office              | Impact: 0.008614 → PHISHING
+13.  prepared            | Impact: -0.008595 → LEGITIMATE
+14.  on                  | Impact: 0.007648 → PHISHING
+15.  incoming            | Impact: 0.006987 → PHISHING
+16.  read                | Impact: 0.006665 → PHISHING
+17.  email               | Impact: 0.006509 → PHISHING
+18.  this                | Impact: 0.006351 → PHISHING
+19.  staff               | Impact: -0.006098 → LEGITIMATE
+20.  note                | Impact: 0.005724 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mail                | Impact: 0.046494
+ 2.  reply               | Impact: 0.035318
+ 3.  please              | Impact: 0.024736
+ 4.  &                   | Impact: 0.021549
+ 5.  contact             | Impact: 0.019893
+ 6.  please              | Impact: 0.009725
+ 7.  office              | Impact: 0.008614
+ 8.  on                  | Impact: 0.007648
+ 9.  incoming            | Impact: 0.006987
+10.  read                | Impact: 0.006665
+11.  email               | Impact: 0.006509
+12.  this                | Impact: 0.006351
+13.  note                | Impact: 0.005724
+14.  you                 | Impact: 0.005356
+15.  automatic           | Impact: 0.004529
+16.  encounter           | Impact: 0.003927
+17.  be                  | Impact: 0.002756
+18.  over                | Impact: 0.002618
+19.  and                 | Impact: 0.002444
+20.  find                | Impact: 0.002353
+
+Top features pushing towards LEGITIMATE classification:
+ 1. da                   | Impact: -0.098421
+ 2.  is                  | Impact: -0.039038
+ 3. da                   | Impact: -0.033782
+ 4.  memorandum          | Impact: -0.019508
+ 5.  is                  | Impact: -0.011004
+ 6.  prepared            | Impact: -0.008595
+ 7.  staff               | Impact: -0.006098
+ 8.  by                  | Impact: -0.005294
+ 9.  -                   | Impact: -0.005078
+10.  allen               | Impact: -0.004278
+11.  problems            | Impact: -0.004256
+12.  entirely            | Impact: -0.004105
+13.  >                   | Impact: -0.003266
+14.  .                   | Impact: -0.003094
+15.  <                   | Impact: -0.002108
+16.  memo                | Impact: -0.002102
+17.  >                   | Impact: -0.002083
+18.  <                   | Impact: -0.001833
+19.  attached            | Impact: -0.001747
+20.  the                 | Impact: -0.001611

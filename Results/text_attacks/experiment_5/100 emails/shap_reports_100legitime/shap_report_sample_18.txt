@@ -1,0 +1,75 @@
+Phishing Sample 18
+==================
+
+Sample text preview: i agree with rob. i think if the phones (and mms is building traction in europe in handsets), this might be interesting. bottom line is will it a) hel...
+
+Model prediction: [9.9957234e-01 4.2761612e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  agree               | Impact: 0.000622 → PHISHING
+ 2.  with                | Impact: 0.000622 → PHISHING
+ 3.  rob                 | Impact: 0.000622 → PHISHING
+ 4.  bottom              | Impact: -0.000545 → LEGITIMATE
+ 5.  line                | Impact: -0.000545 → LEGITIMATE
+ 6.  is                  | Impact: -0.000545 → LEGITIMATE
+ 7.  will                | Impact: -0.000545 → LEGITIMATE
+ 8.  is                  | Impact: -0.000538 → LEGITIMATE
+ 9.  fundamental         | Impact: -0.000538 → LEGITIMATE
+10.  .                   | Impact: -0.000538 → LEGITIMATE
+11.  just                | Impact: -0.000538 → LEGITIMATE
+12.  >                   | Impact: -0.000538 → LEGITIMATE
+13.  that                | Impact: -0.000538 → LEGITIMATE
+14.  it                  | Impact: -0.000538 → LEGITIMATE
+15.  this                | Impact: -0.000437 → LEGITIMATE
+16.  might               | Impact: -0.000437 → LEGITIMATE
+17.  be                  | Impact: -0.000437 → LEGITIMATE
+18.  interesting         | Impact: -0.000437 → LEGITIMATE
+19.  .                   | Impact: -0.000437 → LEGITIMATE
+20.  if                  | Impact: -0.000420 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  agree               | Impact: 0.000622
+ 2.  with                | Impact: 0.000622
+ 3.  rob                 | Impact: 0.000622
+ 4.                      | Impact: 0.000315
+ 5.  i                   | Impact: 0.000315
+ 6.  and                 | Impact: 0.000224
+ 7.  b                   | Impact: 0.000224
+ 8.  )                   | Impact: 0.000224
+ 9.  i                   | Impact: 0.000200
+10.  don                 | Impact: 0.000200
+11.  '                   | Impact: 0.000200
+12.  t                   | Impact: 0.000200
+13.  >                   | Impact: 0.000095
+14.  date                | Impact: 0.000095
+15.  :                   | Impact: 0.000095
+16.  wed                 | Impact: 0.000095
+17.  ,                   | Impact: 0.000095
+18.  think               | Impact: 0.000073
+19.  mm                  | Impact: 0.000073
+20. s                    | Impact: 0.000073
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  bottom              | Impact: -0.000545
+ 2.  line                | Impact: -0.000545
+ 3.  is                  | Impact: -0.000545
+ 4.  will                | Impact: -0.000545
+ 5.  is                  | Impact: -0.000538
+ 6.  fundamental         | Impact: -0.000538
+ 7.  .                   | Impact: -0.000538
+ 8.  just                | Impact: -0.000538
+ 9.  >                   | Impact: -0.000538
+10.  that                | Impact: -0.000538
+11.  it                  | Impact: -0.000538
+12.  this                | Impact: -0.000437
+13.  might               | Impact: -0.000437
+14.  be                  | Impact: -0.000437
+15.  interesting         | Impact: -0.000437
+16.  .                   | Impact: -0.000437
+17.  if                  | Impact: -0.000420
+18.  the                 | Impact: -0.000420
+19.  phones              | Impact: -0.000420
+20.  it                  | Impact: -0.000408

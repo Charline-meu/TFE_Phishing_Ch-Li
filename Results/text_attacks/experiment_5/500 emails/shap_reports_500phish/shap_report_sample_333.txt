@@ -1,0 +1,75 @@
+Sample 333
+==========
+
+Sample text preview: Greetings: You may be surprised to receive my letter, however, I got your contact from the Chamber of Commerce and Trade. I have decided to contact yo...
+
+Model prediction: [1.7150513e-04 9.9982846e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  contact             | Impact: 0.023840 → PHISHING
+ 2.  you                 | Impact: 0.023840 → PHISHING
+ 3.  for                 | Impact: 0.017118 → PHISHING
+ 4.  confidential        | Impact: 0.017118 → PHISHING
+ 5.  my                  | Impact: 0.015775 → PHISHING
+ 6.  name                | Impact: 0.015775 → PHISHING
+ 7.  the                 | Impact: 0.012940 → PHISHING
+ 8.  money               | Impact: 0.012940 → PHISHING
+ 9.  transfer            | Impact: 0.011042 → PHISHING
+10.  to                  | Impact: 0.011042 → PHISHING
+11.  you                 | Impact: 0.011042 → PHISHING
+12.  to                  | Impact: 0.011042 → PHISHING
+13.  to                  | Impact: 0.010754 → PHISHING
+14.  you                 | Impact: 0.010754 → PHISHING
+15.  reward              | Impact: 0.010434 → PHISHING
+16. ing                  | Impact: 0.010434 → PHISHING
+17.  joint               | Impact: 0.010434 → PHISHING
+18.  business            | Impact: 0.010434 → PHISHING
+19.  as                  | Impact: 0.007390 → PHISHING
+20.  follows             | Impact: 0.007390 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.023840
+ 2.  you                 | Impact: 0.023840
+ 3.  for                 | Impact: 0.017118
+ 4.  confidential        | Impact: 0.017118
+ 5.  my                  | Impact: 0.015775
+ 6.  name                | Impact: 0.015775
+ 7.  the                 | Impact: 0.012940
+ 8.  money               | Impact: 0.012940
+ 9.  transfer            | Impact: 0.011042
+10.  to                  | Impact: 0.011042
+11.  you                 | Impact: 0.011042
+12.  to                  | Impact: 0.011042
+13.  to                  | Impact: 0.010754
+14.  you                 | Impact: 0.010754
+15.  reward              | Impact: 0.010434
+16. ing                  | Impact: 0.010434
+17.  joint               | Impact: 0.010434
+18.  business            | Impact: 0.010434
+19.  as                  | Impact: 0.007390
+20.  follows             | Impact: 0.007390
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  however             | Impact: -0.004228
+ 2.  ,                   | Impact: -0.004228
+ 3.  donald              | Impact: -0.002964
+ 4.  du                  | Impact: -0.002964
+ 5. ru                   | Impact: -0.002964
+ 6.  .                   | Impact: -0.001582
+ 7.  who                 | Impact: -0.001051
+ 8.  i                   | Impact: -0.001051
+ 9.  can                 | Impact: -0.001051
+10.  (                   | Impact: -0.000813
+11.  _                   | Impact: -0.000642
+12.  _                   | Impact: -0.000642
+13.  _                   | Impact: -0.000642
+14.  _                   | Impact: -0.000642
+15.  _                   | Impact: -0.000642
+16.  _                   | Impact: -0.000642
+17.  _                   | Impact: -0.000642
+18.  _                   | Impact: -0.000642
+19.  laurent             | Impact: -0.000637
+20.  ka                  | Impact: -0.000637

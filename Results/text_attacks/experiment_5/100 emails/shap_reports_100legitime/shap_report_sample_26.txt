@@ -1,0 +1,68 @@
+Phishing Sample 26
+==================
+
+Sample text preview: We do not understand our VAR. Can you please get us all the detailed reports and component VAR reports that you can produce? The sooner the better. Ph...
+
+Model prediction: [9.997477e-01 2.523031e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  var                 | Impact: -0.060570 → LEGITIMATE
+ 2.  you                 | Impact: 0.059907 → PHISHING
+ 3.  understand          | Impact: -0.055625 → LEGITIMATE
+ 4.  phillip             | Impact: -0.047387 → LEGITIMATE
+ 5.  component           | Impact: -0.042625 → LEGITIMATE
+ 6.  we                  | Impact: 0.040911 → PHISHING
+ 7.  and                 | Impact: 0.039046 → PHISHING
+ 8.  please              | Impact: 0.037015 → PHISHING
+ 9.  reports             | Impact: -0.035215 → LEGITIMATE
+10.  sooner              | Impact: 0.033632 → PHISHING
+11.  the                 | Impact: -0.032493 → LEGITIMATE
+12.  us                  | Impact: 0.031918 → PHISHING
+13.  do                  | Impact: -0.030861 → LEGITIMATE
+14.  reports             | Impact: -0.026155 → LEGITIMATE
+15.  our                 | Impact: 0.023360 → PHISHING
+16.  get                 | Impact: 0.020973 → PHISHING
+17.  not                 | Impact: 0.020477 → PHISHING
+18.  can                 | Impact: 0.019867 → PHISHING
+19.  you                 | Impact: 0.017086 → PHISHING
+20.  that                | Impact: -0.014003 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.059907
+ 2.  we                  | Impact: 0.040911
+ 3.  and                 | Impact: 0.039046
+ 4.  please              | Impact: 0.037015
+ 5.  sooner              | Impact: 0.033632
+ 6.  us                  | Impact: 0.031918
+ 7.  our                 | Impact: 0.023360
+ 8.  get                 | Impact: 0.020973
+ 9.  not                 | Impact: 0.020477
+10.  can                 | Impact: 0.019867
+11.  you                 | Impact: 0.017086
+12.  var                 | Impact: 0.008431
+13.  ?                   | Impact: 0.006616
+14.  .                   | Impact: 0.003722
+15.  the                 | Impact: 0.001446
+16.  better              | Impact: 0.001249
+17.                      | Impact: 0.000158
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  var                 | Impact: -0.060570
+ 2.  understand          | Impact: -0.055625
+ 3.  phillip             | Impact: -0.047387
+ 4.  component           | Impact: -0.042625
+ 5.  reports             | Impact: -0.035215
+ 6.  the                 | Impact: -0.032493
+ 7.  do                  | Impact: -0.030861
+ 8.  reports             | Impact: -0.026155
+ 9.  that                | Impact: -0.014003
+10.  detailed            | Impact: -0.013576
+11.  produce             | Impact: -0.012138
+12.  .                   | Impact: -0.009461
+13.  all                 | Impact: -0.008429
+14.  the                 | Impact: -0.007142
+15.  can                 | Impact: -0.000461
+16.                      | Impact: -0.000461

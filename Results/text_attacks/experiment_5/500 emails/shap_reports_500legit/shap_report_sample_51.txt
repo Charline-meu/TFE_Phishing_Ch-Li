@@ -1,0 +1,75 @@
+Sample 51
+=========
+
+Sample text preview: Carolyn, Please make arrange for distribution to the Delta team. Thanks, Kay ---------------------- Forwarded by Kay Mann/Corp/Enron on // : PM ------...
+
+Model prediction: [9.9977976e-01 2.2024382e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  carolyn             | Impact: -0.004132 → LEGITIMATE
+ 2.  )                   | Impact: 0.001885 → PHISHING
+ 3.  distribution        | Impact: -0.001856 → LEGITIMATE
+ 4.  delta               | Impact: -0.001672 → LEGITIMATE
+ 5.  "                   | Impact: -0.001383 → LEGITIMATE
+ 6.  arrange             | Impact: 0.001274 → PHISHING
+ 7.  kent                | Impact: 0.001212 → PHISHING
+ 8.  for                 | Impact: 0.001152 → PHISHING
+ 9.  please              | Impact: 0.001145 → PHISHING
+10.  pm                  | Impact: -0.001045 → LEGITIMATE
+11.  the                 | Impact: -0.001013 → LEGITIMATE
+12.  :                   | Impact: -0.000991 → LEGITIMATE
+13.  :                   | Impact: -0.000952 → LEGITIMATE
+14.  /                   | Impact: -0.000946 → LEGITIMATE
+15.  /                   | Impact: -0.000847 → LEGITIMATE
+16.  (                   | Impact: 0.000840 → PHISHING
+17.  :                   | Impact: -0.000798 → LEGITIMATE
+18. maker                | Impact: -0.000760 → LEGITIMATE
+19.  .                   | Impact: 0.000752 → PHISHING
+20.  team                | Impact: 0.000742 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  )                   | Impact: 0.001885
+ 2.  arrange             | Impact: 0.001274
+ 3.  kent                | Impact: 0.001212
+ 4.  for                 | Impact: 0.001152
+ 5.  please              | Impact: 0.001145
+ 6.  (                   | Impact: 0.000840
+ 7.  .                   | Impact: 0.000752
+ 8.  team                | Impact: 0.000742
+ 9.  here                | Impact: 0.000607
+10.  make                | Impact: 0.000586
+11.  consent             | Impact: 0.000429
+12.  are                 | Impact: 0.000373
+13.  consent             | Impact: 0.000269
+14.  ge                  | Impact: 0.000266
+15.  my                  | Impact: 0.000206
+16.  to                  | Impact: 0.000188
+17.  l                   | Impact: 0.000093
+18.  subject             | Impact: 0.000087
+19.  and                 | Impact: 0.000073
+20.  to                  | Impact: 0.000043
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  carolyn             | Impact: -0.004132
+ 2.  distribution        | Impact: -0.001856
+ 3.  delta               | Impact: -0.001672
+ 4.  "                   | Impact: -0.001383
+ 5.  pm                  | Impact: -0.001045
+ 6.  the                 | Impact: -0.001013
+ 7.  :                   | Impact: -0.000991
+ 8.  :                   | Impact: -0.000952
+ 9.  /                   | Impact: -0.000946
+10.  /                   | Impact: -0.000847
+11.  :                   | Impact: -0.000798
+12. maker                | Impact: -0.000760
+13.  shoe                | Impact: -0.000726
+14. ae                   | Impact: -0.000684
+15.  comments            | Impact: -0.000679
+16.  >                   | Impact: -0.000660
+17.  energy              | Impact: -0.000659
+18.  .                   | Impact: -0.000559
+19.  >                   | Impact: -0.000518
+20.  agreement           | Impact: -0.000512

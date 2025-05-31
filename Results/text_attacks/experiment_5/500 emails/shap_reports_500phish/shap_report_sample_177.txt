@@ -1,0 +1,75 @@
+Sample 177
+==========
+
+Sample text preview: Dear Sir/Madam, ASSISTANCE REQUIRED FOR ACQUISITION OF ESTATE IN YOUR COUNTRY. I write to inform you of my desire to acquire estates or landed propert...
+
+Model prediction: [1.5582897e-04 9.9984419e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  overseas            | Impact: 0.012759 → PHISHING
+ 2.  agent               | Impact: 0.012759 → PHISHING
+ 3.  your                | Impact: 0.009824 → PHISHING
+ 4.  personal            | Impact: 0.009824 → PHISHING
+ 5.  of                  | Impact: 0.009681 → PHISHING
+ 6.  dubai               | Impact: 0.009681 → PHISHING
+ 7.  uae                 | Impact: 0.009681 → PHISHING
+ 8.  dubai               | Impact: 0.009126 → PHISHING
+ 9.  municipality        | Impact: 0.009126 → PHISHING
+10.  united              | Impact: 0.008533 → PHISHING
+11.  arab                | Impact: 0.008533 → PHISHING
+12.  emirates            | Impact: 0.008533 → PHISHING
+13.  to                  | Impact: 0.008260 → PHISHING
+14.  your                | Impact: 0.008260 → PHISHING
+15.  telephone           | Impact: 0.008132 → PHISHING
+16.  number              | Impact: 0.008132 → PHISHING
+17.                      | Impact: 0.007249 → PHISHING
+18.  dear                | Impact: 0.007249 → PHISHING
+19.  country             | Impact: 0.006801 → PHISHING
+20.  in                  | Impact: 0.006801 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  overseas            | Impact: 0.012759
+ 2.  agent               | Impact: 0.012759
+ 3.  your                | Impact: 0.009824
+ 4.  personal            | Impact: 0.009824
+ 5.  of                  | Impact: 0.009681
+ 6.  dubai               | Impact: 0.009681
+ 7.  uae                 | Impact: 0.009681
+ 8.  dubai               | Impact: 0.009126
+ 9.  municipality        | Impact: 0.009126
+10.  united              | Impact: 0.008533
+11.  arab                | Impact: 0.008533
+12.  emirates            | Impact: 0.008533
+13.  to                  | Impact: 0.008260
+14.  your                | Impact: 0.008260
+15.  telephone           | Impact: 0.008132
+16.  number              | Impact: 0.008132
+17.                      | Impact: 0.007249
+18.  dear                | Impact: 0.007249
+19.  country             | Impact: 0.006801
+20.  in                  | Impact: 0.006801
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  tay                 | Impact: -0.003441
+ 2. er                   | Impact: -0.003441
+ 3.  assistant           | Impact: -0.003441
+ 4.  director            | Impact: -0.003441
+ 5.  general             | Impact: -0.002551
+ 6.  for                 | Impact: -0.002551
+ 7.  roads               | Impact: -0.002551
+ 8.  ,                   | Impact: -0.002551
+ 9.  matt                | Impact: -0.002097
+10. ar                   | Impact: -0.002097
+11.  al                  | Impact: -0.002097
+12.  assistance          | Impact: -0.001525
+13.  required            | Impact: -0.001525
+14.  and                 | Impact: -0.000430
+15.  the                 | Impact: -0.000430
+16.  amount              | Impact: -0.000430
+17.  mentioned           | Impact: -0.000430
+18.  above               | Impact: -0.000430
+19.  the                 | Impact: -0.000404
+20.  director            | Impact: -0.000404

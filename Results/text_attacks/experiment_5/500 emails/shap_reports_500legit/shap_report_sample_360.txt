@@ -1,0 +1,75 @@
+Sample 360
+==========
+
+Sample text preview: Forwarded-by: Nev Dull A guy struck up a conversation with a young lady in a bar. After a half dozen drinks, he suggested they get their own bottle an...
+
+Model prediction: [9.9973720e-01 2.6284484e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  .                   | Impact: -0.009140 → LEGITIMATE
+ 2.  huh                 | Impact: -0.008382 → LEGITIMATE
+ 3.  :                   | Impact: -0.007777 → LEGITIMATE
+ 4.  young               | Impact: 0.006529 → PHISHING
+ 5.  "                   | Impact: -0.006501 → LEGITIMATE
+ 6.  lady                | Impact: 0.005311 → PHISHING
+ 7.  asked               | Impact: -0.005258 → LEGITIMATE
+ 8.  drinks              | Impact: -0.004581 → LEGITIMATE
+ 9.  forward             | Impact: -0.004009 → LEGITIMATE
+10.  ne                  | Impact: -0.003847 → LEGITIMATE
+11. v                    | Impact: -0.003847 → LEGITIMATE
+12.  .                   | Impact: -0.003836 → LEGITIMATE
+13.  anyway              | Impact: -0.003721 → LEGITIMATE
+14.  conversation        | Impact: -0.003713 → LEGITIMATE
+15. ed                   | Impact: -0.003618 → LEGITIMATE
+16.  "                   | Impact: -0.003596 → LEGITIMATE
+17.  super               | Impact: -0.003574 → LEGITIMATE
+18. sti                  | Impact: -0.003574 → LEGITIMATE
+19. tious                | Impact: -0.003574 → LEGITIMATE
+20.  ,                   | Impact: -0.003289 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  young               | Impact: 0.006529
+ 2.  lady                | Impact: 0.005311
+ 3.  of                  | Impact: 0.001245
+ 4.  here                | Impact: 0.001245
+ 5.  !                   | Impact: 0.001245
+ 6.  on                  | Impact: 0.001128
+ 7.  at                  | Impact: 0.001128
+ 8.  once                | Impact: 0.001128
+ 9.  and                 | Impact: 0.001128
+10.  get                 | Impact: 0.001111
+11.  your                | Impact: 0.001111
+12.  clothes             | Impact: 0.001111
+13.  back                | Impact: 0.001111
+14.  "                   | Impact: 0.001091
+15.  thirteen            | Impact: 0.000955
+16.  a                   | Impact: 0.000774
+17.  thunder             | Impact: 0.000615
+18. ed                   | Impact: 0.000615
+19.  as                  | Impact: 0.000593
+20.  she                 | Impact: 0.000593
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.009140
+ 2.  huh                 | Impact: -0.008382
+ 3.  :                   | Impact: -0.007777
+ 4.  "                   | Impact: -0.006501
+ 5.  asked               | Impact: -0.005258
+ 6.  drinks              | Impact: -0.004581
+ 7.  forward             | Impact: -0.004009
+ 8.  ne                  | Impact: -0.003847
+ 9. v                    | Impact: -0.003847
+10.  .                   | Impact: -0.003836
+11.  anyway              | Impact: -0.003721
+12.  conversation        | Impact: -0.003713
+13. ed                   | Impact: -0.003618
+14.  "                   | Impact: -0.003596
+15.  super               | Impact: -0.003574
+16. sti                  | Impact: -0.003574
+17. tious                | Impact: -0.003574
+18.  ,                   | Impact: -0.003289
+19.  "                   | Impact: -0.003160
+20.  -                   | Impact: -0.002813

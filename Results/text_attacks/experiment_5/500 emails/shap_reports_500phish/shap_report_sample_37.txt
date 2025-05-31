@@ -1,0 +1,75 @@
+Sample 37
+=========
+
+Sample text preview: >From The Desk Of Mr.Jim Brown Address: No Bishopsgate, London,ECM Email: Phone: + th May For your kind attention, Transfer of fund / Investment cum j...
+
+Model prediction: [1.7033076e-04 9.9982965e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ec                  | Impact: -0.051659 → LEGITIMATE
+ 2. m                    | Impact: -0.051659 → LEGITIMATE
+ 3.  investment          | Impact: 0.042424 → PHISHING
+ 4.  cum                 | Impact: 0.037502 → PHISHING
+ 5.  our                 | Impact: 0.033101 → PHISHING
+ 6.  bank                | Impact: 0.033101 → PHISHING
+ 7.  joint               | Impact: 0.031521 → PHISHING
+ 8.  venture             | Impact: 0.031521 → PHISHING
+ 9.  fund                | Impact: 0.024947 → PHISHING
+10.  /                   | Impact: 0.024947 → PHISHING
+11.  transfer            | Impact: 0.021436 → PHISHING
+12.  of                  | Impact: 0.021436 → PHISHING
+13.  here                | Impact: 0.020220 → PHISHING
+14.  in                  | Impact: 0.020220 → PHISHING
+15.  london              | Impact: 0.020220 → PHISHING
+16.  .                   | Impact: -0.017799 → LEGITIMATE
+17.  mr                  | Impact: 0.016870 → PHISHING
+18.  v                   | Impact: 0.016245 → PHISHING
+19.  online              | Impact: 0.016245 → PHISHING
+20.  ?                   | Impact: 0.012615 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  investment          | Impact: 0.042424
+ 2.  cum                 | Impact: 0.037502
+ 3.  our                 | Impact: 0.033101
+ 4.  bank                | Impact: 0.033101
+ 5.  joint               | Impact: 0.031521
+ 6.  venture             | Impact: 0.031521
+ 7.  fund                | Impact: 0.024947
+ 8.  /                   | Impact: 0.024947
+ 9.  transfer            | Impact: 0.021436
+10.  of                  | Impact: 0.021436
+11.  here                | Impact: 0.020220
+12.  in                  | Impact: 0.020220
+13.  london              | Impact: 0.020220
+14.  mr                  | Impact: 0.016870
+15.  v                   | Impact: 0.016245
+16.  online              | Impact: 0.016245
+17.  ?                   | Impact: 0.012615
+18.  z                   | Impact: 0.012607
+19. ji                   | Impact: 0.012607
+20.  si                  | Impact: 0.010668
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ec                  | Impact: -0.051659
+ 2. m                    | Impact: -0.051659
+ 3.  .                   | Impact: -0.017799
+ 4.  jim                 | Impact: -0.010109
+ 5.  brown               | Impact: -0.010109
+ 6.  _                   | Impact: -0.010109
+ 7.  _                   | Impact: -0.010109
+ 8.  from                | Impact: -0.006740
+ 9.  the                 | Impact: -0.006740
+10.                      | Impact: -0.006263
+11.  >                   | Impact: -0.006263
+12.  email               | Impact: -0.004949
+13.  :                   | Impact: -0.004949
+14.  _                   | Impact: -0.003899
+15.  _                   | Impact: -0.003899
+16.  _                   | Impact: -0.003899
+17.  _                   | Impact: -0.003899
+18.  .                   | Impact: -0.003214
+19.  i                   | Impact: -0.002729
+20.  discovered          | Impact: -0.002729

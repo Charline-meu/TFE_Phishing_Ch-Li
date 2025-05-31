@@ -1,0 +1,75 @@
+Sample 232
+==========
+
+Sample text preview: The North American Electric Reliability Council (NERC) on December , , posted for public comment a proposed Wholesale Electric Standards Model (WESM) ...
+
+Model prediction: [9.9978501e-01 2.1500373e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  december            | Impact: -0.014182 → LEGITIMATE
+ 2.  reliability         | Impact: -0.004213 → LEGITIMATE
+ 3.  maintaining         | Impact: -0.002686 → LEGITIMATE
+ 4.  -                   | Impact: -0.002645 → LEGITIMATE
+ 5.  )                   | Impact: -0.002645 → LEGITIMATE
+ 6.  balanced            | Impact: 0.002598 → PHISHING
+ 7.  december            | Impact: 0.002557 → PHISHING
+ 8.  electric            | Impact: -0.002203 → LEGITIMATE
+ 9.  industry            | Impact: -0.002203 → LEGITIMATE
+10.  energy              | Impact: -0.001930 → LEGITIMATE
+11.  regulatory          | Impact: -0.001930 → LEGITIMATE
+12.  commission          | Impact: -0.001930 → LEGITIMATE
+13.  standards           | Impact: -0.001805 → LEGITIMATE
+14.  development         | Impact: -0.001805 → LEGITIMATE
+15.  rm                  | Impact: -0.001669 → LEGITIMATE
+16.  -                   | Impact: -0.001669 → LEGITIMATE
+17.  the                 | Impact: -0.001604 → LEGITIMATE
+18.  federal             | Impact: -0.001604 → LEGITIMATE
+19.  ,                   | Impact: 0.001563 → PHISHING
+20.  consensus           | Impact: -0.001505 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  balanced            | Impact: 0.002598
+ 2.  december            | Impact: 0.002557
+ 3.  ,                   | Impact: 0.001563
+ 4.  ,                   | Impact: 0.001503
+ 5.  open                | Impact: 0.001362
+ 6.  ,                   | Impact: 0.001362
+ 7.  business            | Impact: 0.001286
+ 8.  practice            | Impact: 0.001286
+ 9.  standards           | Impact: 0.001286
+10.  through             | Impact: 0.001286
+11.  interface           | Impact: 0.001248
+12.  in                  | Impact: 0.001048
+13.  an                  | Impact: 0.001048
+14.  integrated          | Impact: 0.001048
+15.  way                 | Impact: 0.001048
+16.  sincerely           | Impact: 0.000970
+17.  ,                   | Impact: 0.000970
+18.  ,                   | Impact: 0.000866
+19.  and                 | Impact: 0.000843
+20.  (                   | Impact: 0.000834
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  december            | Impact: -0.014182
+ 2.  reliability         | Impact: -0.004213
+ 3.  maintaining         | Impact: -0.002686
+ 4.  -                   | Impact: -0.002645
+ 5.  )                   | Impact: -0.002645
+ 6.  electric            | Impact: -0.002203
+ 7.  industry            | Impact: -0.002203
+ 8.  energy              | Impact: -0.001930
+ 9.  regulatory          | Impact: -0.001930
+10.  commission          | Impact: -0.001930
+11.  standards           | Impact: -0.001805
+12.  development         | Impact: -0.001805
+13.  rm                  | Impact: -0.001669
+14.  -                   | Impact: -0.001669
+15.  the                 | Impact: -0.001604
+16.  federal             | Impact: -0.001604
+17.  consensus           | Impact: -0.001505
+18.  process             | Impact: -0.001505
+19.  .                   | Impact: -0.001455
+20.  organization        | Impact: -0.001395

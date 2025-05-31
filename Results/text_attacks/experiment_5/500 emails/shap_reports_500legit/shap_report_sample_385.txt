@@ -1,0 +1,70 @@
+Sample 385
+==========
+
+Sample text preview: These are all done. Kate Lester Rawson // : PM To: Kate Symes/PDX/ECT@ECT cc: Subject: Annuites Kate, Please approve and auotschedule annuities. # // ...
+
+Model prediction: [9.9979848e-01 2.0158688e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  les                 | Impact: 0.195565 → PHISHING
+ 2.  au                  | Impact: 0.080539 → PHISHING
+ 3.  done                | Impact: -0.069175 → LEGITIMATE
+ 4.  /                   | Impact: -0.050451 → LEGITIMATE
+ 5.  #                   | Impact: -0.049065 → LEGITIMATE
+ 6.  approve             | Impact: -0.035636 → LEGITIMATE
+ 7.  all                 | Impact: -0.030820 → LEGITIMATE
+ 8.  #                   | Impact: -0.029221 → LEGITIMATE
+ 9.  these               | Impact: 0.028993 → PHISHING
+10. ots                  | Impact: -0.026611 → LEGITIMATE
+11.  and                 | Impact: 0.026007 → PHISHING
+12.  ann                 | Impact: 0.023489 → PHISHING
+13.  /                   | Impact: -0.022488 → LEGITIMATE
+14.  .                   | Impact: -0.022454 → LEGITIMATE
+15.  /                   | Impact: -0.021295 → LEGITIMATE
+16. uit                  | Impact: 0.020322 → PHISHING
+17.  .                   | Impact: 0.018803 → PHISHING
+18.  kate                | Impact: -0.018039 → LEGITIMATE
+19.  /                   | Impact: 0.017696 → PHISHING
+20.  kate                | Impact: -0.016260 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  les                 | Impact: 0.195565
+ 2.  au                  | Impact: 0.080539
+ 3.  these               | Impact: 0.028993
+ 4.  and                 | Impact: 0.026007
+ 5.  ann                 | Impact: 0.023489
+ 6. uit                  | Impact: 0.020322
+ 7.  .                   | Impact: 0.018803
+ 8.  /                   | Impact: 0.017696
+ 9.  please              | Impact: 0.014691
+10. ule                  | Impact: 0.008504
+11.  /                   | Impact: 0.004170
+12.  ,                   | Impact: 0.002821
+13. son                  | Impact: 0.002146
+14.  @                   | Impact: 0.001514
+15.                      | Impact: 0.000574
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  done                | Impact: -0.069175
+ 2.  /                   | Impact: -0.050451
+ 3.  #                   | Impact: -0.049065
+ 4.  approve             | Impact: -0.035636
+ 5.  all                 | Impact: -0.030820
+ 6.  #                   | Impact: -0.029221
+ 7. ots                  | Impact: -0.026611
+ 8.  /                   | Impact: -0.022488
+ 9.  .                   | Impact: -0.022454
+10.  /                   | Impact: -0.021295
+11.  kate                | Impact: -0.018039
+12.  kate                | Impact: -0.016260
+13. ched                 | Impact: -0.014828
+14.  #                   | Impact: -0.014072
+15.  sy                  | Impact: -0.008827
+16.  pm                  | Impact: -0.008776
+17.  :                   | Impact: -0.008451
+18.  /                   | Impact: -0.006784
+19.  raw                 | Impact: -0.006669
+20.  ec                  | Impact: -0.006585

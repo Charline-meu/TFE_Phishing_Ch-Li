@@ -1,0 +1,75 @@
+Sample 63
+=========
+
+Sample text preview: Hello, I hope you are safe from the Covid . We are currently back to work and our company hope to place our urgent orders as previously discussed befo...
+
+Model prediction: [0.00136308 0.9986369 ]
+Predicted class: PHISHING with 0.9986 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  hello               | Impact: 0.113642 → PHISHING
+ 2.  company             | Impact: 0.086272 → PHISHING
+ 3.  kindly              | Impact: 0.081279 → PHISHING
+ 4.  urgent              | Impact: 0.060262 → PHISHING
+ 5.  our                 | Impact: 0.055121 → PHISHING
+ 6.  find                | Impact: 0.049378 → PHISHING
+ 7.  you                 | Impact: 0.045183 → PHISHING
+ 8.  your                | Impact: 0.040107 → PHISHING
+ 9.  kindly              | Impact: 0.039080 → PHISHING
+10.  send                | Impact: 0.034513 → PHISHING
+11.  in                  | Impact: 0.032730 → PHISHING
+12.  via                 | Impact: 0.031924 → PHISHING
+13.  shortest            | Impact: 0.029352 → PHISHING
+14.  delivery            | Impact: 0.029352 → PHISHING
+15.  import              | Impact: 0.027245 → PHISHING
+16.  manager             | Impact: 0.027245 → PHISHING
+17.  )                   | Impact: 0.027245 → PHISHING
+18.  orders              | Impact: 0.024509 → PHISHING
+19.  are                 | Impact: 0.023235 → PHISHING
+20.  below               | Impact: 0.022566 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  hello               | Impact: 0.113642
+ 2.  company             | Impact: 0.086272
+ 3.  kindly              | Impact: 0.081279
+ 4.  urgent              | Impact: 0.060262
+ 5.  our                 | Impact: 0.055121
+ 6.  find                | Impact: 0.049378
+ 7.  you                 | Impact: 0.045183
+ 8.  your                | Impact: 0.040107
+ 9.  kindly              | Impact: 0.039080
+10.  send                | Impact: 0.034513
+11.  in                  | Impact: 0.032730
+12.  via                 | Impact: 0.031924
+13.  shortest            | Impact: 0.029352
+14.  delivery            | Impact: 0.029352
+15.  import              | Impact: 0.027245
+16.  manager             | Impact: 0.027245
+17.  )                   | Impact: 0.027245
+18.  orders              | Impact: 0.024509
+19.  are                 | Impact: 0.023235
+20.  below               | Impact: 0.022566
+
+Top features pushing towards LEGITIMATE classification:
+ 1. vid                  | Impact: -0.019710
+ 2.  discussed           | Impact: -0.019462
+ 3.  before              | Impact: -0.019462
+ 4.  i                   | Impact: -0.016951
+ 5.  hope                | Impact: -0.016951
+ 6.  the                 | Impact: -0.016227
+ 7.  greeting            | Impact: -0.012024
+ 8.  ,                   | Impact: -0.011929
+ 9.  .                   | Impact: -0.010227
+10.  co                  | Impact: -0.010105
+11. s                    | Impact: -0.009133
+12.  !                   | Impact: -0.008459
+13.  best                | Impact: -0.007449
+14.  quote               | Impact: -0.007449
+15.  the                 | Impact: -0.005032
+16.  as                  | Impact: -0.005016
+17.  previously          | Impact: -0.005016
+18.  and                 | Impact: -0.002949
+19.  and                 | Impact: -0.001945
+20.  maria               | Impact: -0.000907

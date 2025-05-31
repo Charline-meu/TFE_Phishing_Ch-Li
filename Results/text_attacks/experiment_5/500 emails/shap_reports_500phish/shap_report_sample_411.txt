@@ -1,0 +1,55 @@
+Sample 411
+==========
+
+Sample text preview: FROM EMMANUEL AND JOY SULMAN Avenu Reu ABIDJAN DANANI REFUGEE CAMP, ABIDJAN REPUBLIC OF COTE-D'IVOIRE Please contact us through this our privat EMAIL ...
+
+Model prediction: [1.7623928e-04 9.9982375e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  yours               | Impact: 0.008870 → PHISHING
+ 2.  sincerely           | Impact: 0.008870 → PHISHING
+ 3.  dear                | Impact: 0.007615 → PHISHING
+ 4.  ,                   | Impact: 0.007615 → PHISHING
+ 5.  ,                   | Impact: 0.007174 → PHISHING
+ 6.  please              | Impact: 0.007040 → PHISHING
+ 7.  contact             | Impact: 0.007040 → PHISHING
+ 8.  us                  | Impact: 0.007040 → PHISHING
+ 9.  through             | Impact: 0.007040 → PHISHING
+10.  ab                  | Impact: 0.006849 → PHISHING
+11. id                   | Impact: 0.006849 → PHISHING
+12. jan                  | Impact: 0.006849 → PHISHING
+13.  this                | Impact: 0.006701 → PHISHING
+14.  our                 | Impact: 0.006701 → PHISHING
+15.  dana                | Impact: 0.006378 → PHISHING
+16. ni                   | Impact: 0.006378 → PHISHING
+17.  refugee             | Impact: 0.006378 → PHISHING
+18.  camp                | Impact: 0.006378 → PHISHING
+19.  pri                 | Impact: 0.005484 → PHISHING
+20. vat                  | Impact: 0.005484 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  yours               | Impact: 0.008870
+ 2.  sincerely           | Impact: 0.008870
+ 3.  dear                | Impact: 0.007615
+ 4.  ,                   | Impact: 0.007615
+ 5.  ,                   | Impact: 0.007174
+ 6.  please              | Impact: 0.007040
+ 7.  contact             | Impact: 0.007040
+ 8.  us                  | Impact: 0.007040
+ 9.  through             | Impact: 0.007040
+10.  ab                  | Impact: 0.006849
+11. id                   | Impact: 0.006849
+12. jan                  | Impact: 0.006849
+13.  this                | Impact: 0.006701
+14.  our                 | Impact: 0.006701
+15.  dana                | Impact: 0.006378
+16. ni                   | Impact: 0.006378
+17.  refugee             | Impact: 0.006378
+18.  camp                | Impact: 0.006378
+19.  pri                 | Impact: 0.005484
+20. vat                  | Impact: 0.005484
+
+Top features pushing towards LEGITIMATE classification:

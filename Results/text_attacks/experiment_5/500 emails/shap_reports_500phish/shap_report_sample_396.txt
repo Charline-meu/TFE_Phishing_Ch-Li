@@ -1,0 +1,75 @@
+Sample 396
+==========
+
+Sample text preview: DEAR PARTNER. I am Sabastian Gomez. an auditor and accountant with a bank here in Afica Nigeria precisely. There is a fixed deposit of £,,. ( Fifteen ...
+
+Model prediction: [1.7760402e-04 9.9982244e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  am                  | Impact: 0.026590 → PHISHING
+ 2.                      | Impact: 0.017526 → PHISHING
+ 3.  dear                | Impact: 0.017526 → PHISHING
+ 4.  partner             | Impact: 0.017434 → PHISHING
+ 5.  this                | Impact: 0.016247 → PHISHING
+ 6.  bank                | Impact: 0.016247 → PHISHING
+ 7.  pounds              | Impact: 0.014889 → PHISHING
+ 8.  fifteen             | Impact: 0.014500 → PHISHING
+ 9.  million             | Impact: 0.014500 → PHISHING
+10.  i                   | Impact: 0.014349 → PHISHING
+11. tian                 | Impact: 0.010698 → PHISHING
+12.  made                | Impact: 0.010359 → PHISHING
+13.  to                  | Impact: 0.010359 → PHISHING
+14.  nigerian            | Impact: 0.010076 → PHISHING
+15.  government          | Impact: 0.010076 → PHISHING
+16.  .                   | Impact: 0.010076 → PHISHING
+17.  sa                  | Impact: 0.009862 → PHISHING
+18. bas                  | Impact: 0.009862 → PHISHING
+19.  your                | Impact: 0.009099 → PHISHING
+20.  reward              | Impact: 0.009099 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  am                  | Impact: 0.026590
+ 2.                      | Impact: 0.017526
+ 3.  dear                | Impact: 0.017526
+ 4.  partner             | Impact: 0.017434
+ 5.  this                | Impact: 0.016247
+ 6.  bank                | Impact: 0.016247
+ 7.  pounds              | Impact: 0.014889
+ 8.  fifteen             | Impact: 0.014500
+ 9.  million             | Impact: 0.014500
+10.  i                   | Impact: 0.014349
+11. tian                 | Impact: 0.010698
+12.  made                | Impact: 0.010359
+13.  to                  | Impact: 0.010359
+14.  nigerian            | Impact: 0.010076
+15.  government          | Impact: 0.010076
+16.  .                   | Impact: 0.010076
+17.  sa                  | Impact: 0.009862
+18. bas                  | Impact: 0.009862
+19.  your                | Impact: 0.009099
+20.  reward              | Impact: 0.009099
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  in                  | Impact: -0.002983
+ 2.  because             | Impact: -0.002983
+ 3.  i                   | Impact: -0.002983
+ 4.  know                | Impact: -0.002983
+ 5.  rate                | Impact: -0.001868
+ 6.  per                 | Impact: -0.001868
+ 7.  annum               | Impact: -0.001868
+ 8.  .                   | Impact: -0.001868
+ 9.  very                | Impact: -0.001861
+10.  well                | Impact: -0.001861
+11.  that                | Impact: -0.001861
+12.  the                 | Impact: -0.001861
+13.  the                 | Impact: -0.001811
+14.  interesting         | Impact: -0.001811
+15.  part                | Impact: -0.001811
+16.  of                  | Impact: -0.001811
+17.  it                  | Impact: -0.001811
+18.  is                  | Impact: -0.001811
+19.  that                | Impact: -0.001811
+20.  the                 | Impact: -0.001811

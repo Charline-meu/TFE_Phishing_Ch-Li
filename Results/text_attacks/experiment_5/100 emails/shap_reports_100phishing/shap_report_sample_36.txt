@@ -1,0 +1,62 @@
+Phishing Sample 36
+==================
+
+Sample text preview: Dear sir/madam, Assalamalekum Before I introduce myself, I wish to inform you that this letter is not a hoax mail and I urge you to treat it serious. ...
+
+Model prediction: [1.8503141e-04 9.9981505e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.011494 → PHISHING
+ 2.  bank                | Impact: 0.011494 → PHISHING
+ 3.  ,                   | Impact: 0.011494 → PHISHING
+ 4.  of                  | Impact: 0.011494 → PHISHING
+ 5.  this                | Impact: 0.011494 → PHISHING
+ 6.  matter              | Impact: 0.011494 → PHISHING
+ 7.  in                  | Impact: 0.011494 → PHISHING
+ 8.  accounts            | Impact: 0.009422 → PHISHING
+ 9.  officer             | Impact: 0.009422 → PHISHING
+10.  .                   | Impact: 0.009422 → PHISHING
+11.  i                   | Impact: 0.008889 → PHISHING
+12.  shall               | Impact: 0.008889 → PHISHING
+13.  provide             | Impact: 0.008889 → PHISHING
+14.  you                 | Impact: 0.008889 → PHISHING
+15.  robert              | Impact: 0.007255 → PHISHING
+16.  when                | Impact: 0.007255 → PHISHING
+17.  he                  | Impact: 0.007255 → PHISHING
+18.  deposited           | Impact: 0.007255 → PHISHING
+19.  the                 | Impact: 0.007255 → PHISHING
+20.  funds               | Impact: 0.007255 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.011494
+ 2.  bank                | Impact: 0.011494
+ 3.  ,                   | Impact: 0.011494
+ 4.  of                  | Impact: 0.011494
+ 5.  this                | Impact: 0.011494
+ 6.  matter              | Impact: 0.011494
+ 7.  in                  | Impact: 0.011494
+ 8.  accounts            | Impact: 0.009422
+ 9.  officer             | Impact: 0.009422
+10.  .                   | Impact: 0.009422
+11.  i                   | Impact: 0.008889
+12.  shall               | Impact: 0.008889
+13.  provide             | Impact: 0.008889
+14.  you                 | Impact: 0.008889
+15.  robert              | Impact: 0.007255
+16.  when                | Impact: 0.007255
+17.  he                  | Impact: 0.007255
+18.  deposited           | Impact: 0.007255
+19.  the                 | Impact: 0.007255
+20.  funds               | Impact: 0.007255
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  html                | Impact: -0.000987
+ 2.  and                 | Impact: -0.000987
+ 3.  also                | Impact: -0.000987
+ 4.  in                  | Impact: -0.000987
+ 5.  this                | Impact: -0.000987
+ 6.  website             | Impact: -0.000987
+ 7.  ,                   | Impact: -0.000987

@@ -1,0 +1,75 @@
+Sample 268
+==========
+
+Sample text preview: EngineerAhmed Salihu Shell Petroleum saudi arabia REPLY Greeting to you. I am Ahmed Salihu, a director of contracts evaluation and implemention depart...
+
+Model prediction: [1.552560e-04 9.998447e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ahmed               | Impact: 0.029057 → PHISHING
+ 2.  country             | Impact: 0.015262 → PHISHING
+ 3.  under               | Impact: 0.015262 → PHISHING
+ 4.  to                  | Impact: 0.012606 → PHISHING
+ 5.  you                 | Impact: 0.012606 → PHISHING
+ 6.  sal                 | Impact: 0.011683 → PHISHING
+ 7. ih                   | Impact: 0.011683 → PHISHING
+ 8. u                    | Impact: 0.011683 → PHISHING
+ 9.  in                  | Impact: 0.011648 → PHISHING
+10.  your                | Impact: 0.011648 → PHISHING
+11.  reply               | Impact: 0.010072 → PHISHING
+12.  greeting            | Impact: 0.010072 → PHISHING
+13.  your                | Impact: 0.009728 → PHISHING
+14.  bank                | Impact: 0.009728 → PHISHING
+15.  name                | Impact: 0.009728 → PHISHING
+16.  i                   | Impact: 0.008991 → PHISHING
+17.  am                  | Impact: 0.008991 → PHISHING
+18.  ahmed               | Impact: 0.008321 → PHISHING
+19.  ben                 | Impact: 0.007519 → PHISHING
+20. ef                   | Impact: 0.007519 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ahmed               | Impact: 0.029057
+ 2.  country             | Impact: 0.015262
+ 3.  under               | Impact: 0.015262
+ 4.  to                  | Impact: 0.012606
+ 5.  you                 | Impact: 0.012606
+ 6.  sal                 | Impact: 0.011683
+ 7. ih                   | Impact: 0.011683
+ 8. u                    | Impact: 0.011683
+ 9.  in                  | Impact: 0.011648
+10.  your                | Impact: 0.011648
+11.  reply               | Impact: 0.010072
+12.  greeting            | Impact: 0.010072
+13.  your                | Impact: 0.009728
+14.  bank                | Impact: 0.009728
+15.  name                | Impact: 0.009728
+16.  i                   | Impact: 0.008991
+17.  am                  | Impact: 0.008991
+18.  ahmed               | Impact: 0.008321
+19.  ben                 | Impact: 0.007519
+20. ef                   | Impact: 0.007519
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  of                  | Impact: -0.003241
+ 2.  contracts           | Impact: -0.003241
+ 3.  evaluation          | Impact: -0.003241
+ 4.  a                   | Impact: -0.003241
+ 5.  director            | Impact: -0.003241
+ 6.  hold                | Impact: -0.002168
+ 7.  degrees             | Impact: -0.002168
+ 8.  in                  | Impact: -0.002168
+ 9.  economics           | Impact: -0.002168
+10.  petrol              | Impact: -0.002111
+11. eo                   | Impact: -0.002111
+12. um                   | Impact: -0.002111
+13.  ,                   | Impact: -0.002111
+14.  and                 | Impact: -0.002111
+15.  implement           | Impact: -0.002111
+16. ion                  | Impact: -0.002111
+17.  department          | Impact: -0.002111
+18.  of                  | Impact: -0.002111
+19.  shell               | Impact: -0.002111
+20.  and                 | Impact: -0.001509

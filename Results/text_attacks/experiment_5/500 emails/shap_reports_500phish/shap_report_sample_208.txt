@@ -1,0 +1,75 @@
+Sample 208
+==========
+
+Sample text preview: Dear fellow eBay user, I listed this CD on eBay a few months ago and here's what happened. I got an email from Safeharbor saying that all my auctions ...
+
+Model prediction: [0.10917331 0.89082664]
+Predicted class: PHISHING with 0.8908 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  e                   | Impact: -0.015896 → LEGITIMATE
+ 2. bay                  | Impact: -0.015896 → LEGITIMATE
+ 3.  user                | Impact: -0.015896 → LEGITIMATE
+ 4.  ,                   | Impact: -0.015896 → LEGITIMATE
+ 5.  months              | Impact: -0.012091 → LEGITIMATE
+ 6.  ago                 | Impact: -0.012091 → LEGITIMATE
+ 7.  and                 | Impact: -0.012091 → LEGITIMATE
+ 8.  i                   | Impact: -0.012091 → LEGITIMATE
+ 9.  listed              | Impact: -0.012091 → LEGITIMATE
+10.  e                   | Impact: -0.012091 → LEGITIMATE
+11. bay                  | Impact: -0.012091 → LEGITIMATE
+12.  a                   | Impact: -0.012091 → LEGITIMATE
+13.  few                 | Impact: -0.012091 → LEGITIMATE
+14.  this                | Impact: -0.012091 → LEGITIMATE
+15.  cd                  | Impact: -0.012091 → LEGITIMATE
+16.  on                  | Impact: -0.012091 → LEGITIMATE
+17.  *                   | Impact: 0.011649 → PHISHING
+18.  *                   | Impact: 0.011649 → PHISHING
+19.  *                   | Impact: 0.011649 → PHISHING
+20.  over                | Impact: 0.011649 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  *                   | Impact: 0.011649
+ 2.  *                   | Impact: 0.011649
+ 3.  *                   | Impact: 0.011649
+ 4.  over                | Impact: 0.011649
+ 5.  million             | Impact: 0.011649
+ 6.  email               | Impact: 0.011649
+ 7.  addresses           | Impact: 0.011649
+ 8.  ,                   | Impact: 0.011649
+ 9.  fresh               | Impact: 0.011649
+10.  and                 | Impact: 0.011649
+11.  targeted            | Impact: 0.011649
+12.  !                   | Impact: 0.011649
+13.  you                 | Impact: 0.011649
+14.  can                 | Impact: 0.011649
+15.  use                 | Impact: 0.011649
+16.  these               | Impact: 0.011649
+17.  to                  | Impact: 0.011649
+18.  contact             | Impact: 0.011649
+19.  the                 | Impact: 0.011649
+20.  people              | Impact: 0.011649
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  e                   | Impact: -0.015896
+ 2. bay                  | Impact: -0.015896
+ 3.  user                | Impact: -0.015896
+ 4.  ,                   | Impact: -0.015896
+ 5.  months              | Impact: -0.012091
+ 6.  ago                 | Impact: -0.012091
+ 7.  and                 | Impact: -0.012091
+ 8.  i                   | Impact: -0.012091
+ 9.  listed              | Impact: -0.012091
+10.  e                   | Impact: -0.012091
+11. bay                  | Impact: -0.012091
+12.  a                   | Impact: -0.012091
+13.  few                 | Impact: -0.012091
+14.  this                | Impact: -0.012091
+15.  cd                  | Impact: -0.012091
+16.  on                  | Impact: -0.012091
+17.                      | Impact: -0.008504
+18.  dear                | Impact: -0.008504
+19.  fellow              | Impact: -0.008504
+20.  had                 | Impact: -0.006581

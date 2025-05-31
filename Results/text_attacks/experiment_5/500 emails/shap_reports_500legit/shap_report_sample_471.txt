@@ -1,0 +1,75 @@
+Sample 471
+==========
+
+Sample text preview: wintermute wrote: >>Anyone know where in Ireland I can get a replacement external dongle >>for a Xircom CEB- PCMCIA NIC? >> >>Failing that, who delive...
+
+Model prediction: [9.9979132e-01 2.0872481e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  fact                | Impact: 0.003691 → PHISHING
+ 2.  to                  | Impact: 0.003689 → PHISHING
+ 3.  .                   | Impact: -0.003040 → LEGITIMATE
+ 4.  live                | Impact: 0.002743 → PHISHING
+ 5.  (                   | Impact: -0.002356 → LEGITIMATE
+ 6.  >                   | Impact: -0.002267 → LEGITIMATE
+ 7.  >                   | Impact: -0.002062 → LEGITIMATE
+ 8.  i                   | Impact: 0.001951 → PHISHING
+ 9.  just                | Impact: 0.001793 → PHISHING
+10.  .                   | Impact: -0.001716 → LEGITIMATE
+11.  i                   | Impact: 0.001568 → PHISHING
+12.  linux               | Impact: -0.001468 → LEGITIMATE
+13.  !                   | Impact: 0.001387 → PHISHING
+14.  which               | Impact: -0.001321 → LEGITIMATE
+15.  i                   | Impact: -0.001321 → LEGITIMATE
+16.  only                | Impact: 0.001309 → PHISHING
+17.  tricky              | Impact: -0.001226 → LEGITIMATE
+18.  my                  | Impact: -0.001151 → LEGITIMATE
+19.  nic                 | Impact: -0.001151 → LEGITIMATE
+20.  vin                 | Impact: -0.001115 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  fact                | Impact: 0.003691
+ 2.  to                  | Impact: 0.003689
+ 3.  live                | Impact: 0.002743
+ 4.  i                   | Impact: 0.001951
+ 5.  just                | Impact: 0.001793
+ 6.  i                   | Impact: 0.001568
+ 7.  !                   | Impact: 0.001387
+ 8.  only                | Impact: 0.001309
+ 9.  certain             | Impact: 0.001062
+10.  be                  | Impact: 0.001010
+11.  with                | Impact: 0.000958
+12.  the                 | Impact: 0.000948
+13.  will                | Impact: 0.000718
+14.  fall                | Impact: 0.000718
+15.  a                   | Impact: 0.000531
+16.  told                | Impact: 0.000520
+17.  to                  | Impact: 0.000498
+18.  out                 | Impact: 0.000482
+19.  have                | Impact: 0.000425
+20.  ?                   | Impact: 0.000417
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.003040
+ 2.  (                   | Impact: -0.002356
+ 3.  >                   | Impact: -0.002267
+ 4.  >                   | Impact: -0.002062
+ 5.  .                   | Impact: -0.001716
+ 6.  linux               | Impact: -0.001468
+ 7.  which               | Impact: -0.001321
+ 8.  i                   | Impact: -0.001321
+ 9.  tricky              | Impact: -0.001226
+10.  my                  | Impact: -0.001151
+11.  nic                 | Impact: -0.001151
+12.  vin                 | Impact: -0.001115
+13.  >                   | Impact: -0.001115
+14.  :                   | Impact: -0.000963
+15.  angle               | Impact: -0.000922
+16.  to                  | Impact: -0.000922
+17.  i                   | Impact: -0.000825
+18.  >                   | Impact: -0.000817
+19.  i                   | Impact: -0.000817
+20.  >                   | Impact: -0.000814

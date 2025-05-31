@@ -1,0 +1,61 @@
+Sample 353
+==========
+
+Sample text preview: Sally, Congratulations on the promotion to Managing Director!!!!!! VERY WELL deserved. Continued success. Liz Taylor
+
+Model prediction: [0.9983523  0.00164777]
+Predicted class: LEGITIMATE with 0.9984 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sally               | Impact: -0.308750 → LEGITIMATE
+ 2.  liz                 | Impact: -0.197139 → LEGITIMATE
+ 3.  promotion           | Impact: 0.127471 → PHISHING
+ 4.  .                   | Impact: -0.110094 → LEGITIMATE
+ 5.  deserved            | Impact: 0.078278 → PHISHING
+ 6.  success             | Impact: 0.068950 → PHISHING
+ 7.  managing            | Impact: 0.063982 → PHISHING
+ 8.  !                   | Impact: 0.060520 → PHISHING
+ 9.  !                   | Impact: 0.057529 → PHISHING
+10.  continued           | Impact: 0.053131 → PHISHING
+11.  congratulations     | Impact: -0.050209 → LEGITIMATE
+12.  director            | Impact: 0.036607 → PHISHING
+13.  !                   | Impact: 0.032166 → PHISHING
+14.  the                 | Impact: -0.026688 → LEGITIMATE
+15.  ,                   | Impact: -0.021248 → LEGITIMATE
+16.  !                   | Impact: 0.019097 → PHISHING
+17.  taylor              | Impact: -0.018380 → LEGITIMATE
+18.  very                | Impact: 0.017795 → PHISHING
+19.  !                   | Impact: 0.017689 → PHISHING
+20.  !                   | Impact: 0.017280 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  promotion           | Impact: 0.127471
+ 2.  deserved            | Impact: 0.078278
+ 3.  success             | Impact: 0.068950
+ 4.  managing            | Impact: 0.063982
+ 5.  !                   | Impact: 0.060520
+ 6.  !                   | Impact: 0.057529
+ 7.  continued           | Impact: 0.053131
+ 8.  director            | Impact: 0.036607
+ 9.  !                   | Impact: 0.032166
+10.  !                   | Impact: 0.019097
+11.  very                | Impact: 0.017795
+12.  !                   | Impact: 0.017689
+13.  !                   | Impact: 0.017280
+14.  well                | Impact: 0.013289
+15.  on                  | Impact: 0.010137
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  sally               | Impact: -0.308750
+ 2.  liz                 | Impact: -0.197139
+ 3.  .                   | Impact: -0.110094
+ 4.  congratulations     | Impact: -0.050209
+ 5.  the                 | Impact: -0.026688
+ 6.  ,                   | Impact: -0.021248
+ 7.  taylor              | Impact: -0.018380
+ 8.  .                   | Impact: -0.008212
+ 9.  to                  | Impact: -0.000673
+10.                      | Impact: -0.000000
+11.                      | Impact: -0.000000

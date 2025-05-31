@@ -1,0 +1,75 @@
+Phishing Sample 62
+==================
+
+Sample text preview: Wow, what a flash, I just got the _perfect_ idea for a new suspense/crime TV drama: Every week, some poor schmuck answers one of these Nigerian Scams ...
+
+Model prediction: [9.9966276e-01 3.3720184e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  nigerian            | Impact: 0.065252 → PHISHING
+ 2.  tv                  | Impact: 0.035393 → PHISHING
+ 3.  :                   | Impact: -0.029357 → LEGITIMATE
+ 4.  answers             | Impact: -0.029019 → LEGITIMATE
+ 5.  poor                | Impact: 0.022648 → PHISHING
+ 6.  .                   | Impact: -0.020143 → LEGITIMATE
+ 7.  drama               | Impact: 0.015110 → PHISHING
+ 8.  i                   | Impact: -0.014420 → LEGITIMATE
+ 9.  idea                | Impact: -0.013791 → LEGITIMATE
+10.  suspense            | Impact: 0.012892 → PHISHING
+11.  week                | Impact: -0.012635 → LEGITIMATE
+12.  every               | Impact: -0.012537 → LEGITIMATE
+13.  new                 | Impact: 0.010260 → PHISHING
+14. uck                  | Impact: -0.009634 → LEGITIMATE
+15.  sc                  | Impact: -0.009579 → LEGITIMATE
+16.  wow                 | Impact: -0.009388 → LEGITIMATE
+17.  )                   | Impact: 0.008146 → PHISHING
+18.  got                 | Impact: -0.007671 → LEGITIMATE
+19. ams                  | Impact: -0.007483 → LEGITIMATE
+20.  sc                  | Impact: -0.006780 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  nigerian            | Impact: 0.065252
+ 2.  tv                  | Impact: 0.035393
+ 3.  poor                | Impact: 0.022648
+ 4.  drama               | Impact: 0.015110
+ 5.  suspense            | Impact: 0.012892
+ 6.  new                 | Impact: 0.010260
+ 7.  )                   | Impact: 0.008146
+ 8.  crime               | Impact: 0.005916
+ 9.  inc                 | Impact: 0.004616
+10.  flash               | Impact: 0.004591
+11.  some                | Impact: 0.003888
+12.  one                 | Impact: 0.003665
+13.  business            | Impact: 0.003531
+14.  picasso             | Impact: 0.003257
+15.  these               | Impact: 0.002917
+16. hm                   | Impact: 0.002658
+17.  communications      | Impact: 0.002574
+18.  of                  | Impact: 0.001783
+19.  innovations         | Impact: 0.001583
+20.  _                   | Impact: 0.001479
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.029357
+ 2.  answers             | Impact: -0.029019
+ 3.  .                   | Impact: -0.020143
+ 4.  i                   | Impact: -0.014420
+ 5.  idea                | Impact: -0.013791
+ 6.  week                | Impact: -0.012635
+ 7.  every               | Impact: -0.012537
+ 8. uck                  | Impact: -0.009634
+ 9.  sc                  | Impact: -0.009579
+10.  wow                 | Impact: -0.009388
+11.  got                 | Impact: -0.007671
+12. ams                  | Impact: -0.007483
+13.  sc                  | Impact: -0.006780
+14.  ,                   | Impact: -0.005290
+15.  answers             | Impact: -0.004619
+16. yna                  | Impact: -0.004478
+17.  can                 | Impact: -0.004049
+18.  just                | Impact: -0.003813
+19.  ,                   | Impact: -0.003620
+20. mics                 | Impact: -0.003516

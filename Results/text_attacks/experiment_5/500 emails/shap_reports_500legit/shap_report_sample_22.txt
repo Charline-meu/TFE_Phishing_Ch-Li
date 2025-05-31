@@ -1,0 +1,75 @@
+Sample 22
+=========
+
+Sample text preview: kevin lyda wrote: > speaking of things considered harmful, line lengths of over chars > are considered harmful. cut it out. :-) In fairness he was usi...
+
+Model prediction: [9.9977010e-01 2.2987003e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.005885 → LEGITIMATE
+ 2.  >                   | Impact: -0.003297 → LEGITIMATE
+ 3.  -                   | Impact: -0.001960 → LEGITIMATE
+ 4.  )                   | Impact: -0.001684 → LEGITIMATE
+ 5.  kevin               | Impact: -0.001423 → LEGITIMATE
+ 6.  harmful             | Impact: -0.001200 → LEGITIMATE
+ 7.  per                 | Impact: -0.001192 → LEGITIMATE
+ 8.  are                 | Impact: 0.001173 → PHISHING
+ 9.  out                 | Impact: 0.001099 → PHISHING
+10.  >                   | Impact: -0.001078 → LEGITIMATE
+11.  :                   | Impact: -0.000979 → LEGITIMATE
+12.  wrote               | Impact: -0.000946 → LEGITIMATE
+13.  char                | Impact: -0.000923 → LEGITIMATE
+14.  .                   | Impact: -0.000882 → LEGITIMATE
+15.  it                  | Impact: 0.000872 → PHISHING
+16.  harmful             | Impact: -0.000802 → LEGITIMATE
+17. l                    | Impact: -0.000796 → LEGITIMATE
+18.  >                   | Impact: -0.000787 → LEGITIMATE
+19.  always              | Impact: 0.000728 → PHISHING
+20.  cut                 | Impact: 0.000681 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  are                 | Impact: 0.001173
+ 2.  out                 | Impact: 0.001099
+ 3.  it                  | Impact: 0.000872
+ 4.  always              | Impact: 0.000728
+ 5.  cut                 | Impact: 0.000681
+ 6.  was                 | Impact: 0.000642
+ 7.  i                   | Impact: 0.000401
+ 8.  )                   | Impact: 0.000308
+ 9.  he                  | Impact: 0.000307
+10.  (                   | Impact: 0.000241
+11.  ve                  | Impact: 0.000241
+12.  '                   | Impact: 0.000237
+13.  deserved            | Impact: 0.000151
+14. ly                   | Impact: 0.000151
+15.  line                | Impact: 0.000137
+16.  lengths             | Impact: 0.000137
+17.  s                   | Impact: 0.000109
+18.  winter              | Impact: 0.000077
+19.  it                  | Impact: 0.000070
+20.  '                   | Impact: 0.000070
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.005885
+ 2.  >                   | Impact: -0.003297
+ 3.  -                   | Impact: -0.001960
+ 4.  )                   | Impact: -0.001684
+ 5.  kevin               | Impact: -0.001423
+ 6.  harmful             | Impact: -0.001200
+ 7.  per                 | Impact: -0.001192
+ 8.  >                   | Impact: -0.001078
+ 9.  :                   | Impact: -0.000979
+10.  wrote               | Impact: -0.000946
+11.  char                | Impact: -0.000923
+12.  .                   | Impact: -0.000882
+13.  harmful             | Impact: -0.000802
+14. l                    | Impact: -0.000796
+15.  >                   | Impact: -0.000787
+16.  considered          | Impact: -0.000659
+17.  list                | Impact: -0.000640
+18. s                    | Impact: -0.000545
+19.  on                  | Impact: -0.000491
+20. er                   | Impact: -0.000461

@@ -1,0 +1,31 @@
+=== LIME Explanation for Email #7 ===
+True Label: Phishing
+Model Prediction: Legitimate
+Prediction Probability: 0.9627
+
+Top Features Influencing the Prediction:
+refers: -0.1845 (pushes toward Legitimate)
+the: -0.1826 (pushes toward Legitimate)
+regarding: -0.1487 (pushes toward Legitimate)
+African: 0.1447 (pushes toward Phishing)
+procedural: -0.1332 (pushes toward Legitimate)
+business: 0.1319 (pushes toward Phishing)
+million: 0.1277 (pushes toward Phishing)
+commercial: 0.1265 (pushes toward Phishing)
+evaluate: -0.1194 (pushes toward Legitimate)
+point: -0.1077 (pushes toward Legitimate)
+of: -0.1047 (pushes toward Legitimate)
+resource: -0.1011 (pushes toward Legitimate)
+proceeds: 0.0993 (pushes toward Phishing)
+to: -0.0966 (pushes toward Legitimate)
+contact: 0.0835 (pushes toward Phishing)
+former: 0.0816 (pushes toward Phishing)
+objective: 0.0744 (pushes toward Phishing)
+and: 0.0714 (pushes toward Phishing)
+a: -0.0689 (pushes toward Legitimate)
+enterprise: 0.0619 (pushes toward Phishing)
+political: 0.0592 (pushes toward Phishing)
+repositioning: 0.0496 (pushes toward Phishing)
+maintained: 0.0438 (pushes toward Phishing)
+secured: 0.0338 (pushes toward Phishing)
+developments: 0.0332 (pushes toward Phishing)

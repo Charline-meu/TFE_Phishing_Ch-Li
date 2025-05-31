@@ -1,0 +1,73 @@
+Sample 466
+==========
+
+Sample text preview: FROM MR.MAZURI MARTINS JOHANESSBURG, REPUBLIC OF SOUTH AFRICA. PHONE+ STRICTLY CONFIDENTIAL Sir/Madam, You may be surprised to receive this letter fro...
+
+Model prediction: [1.7303093e-04 9.9982697e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  johannesburg        | Impact: 0.010128 → PHISHING
+ 2.  south               | Impact: 0.010128 → PHISHING
+ 3.  africa              | Impact: 0.010128 → PHISHING
+ 4.  as                  | Impact: 0.009274 → PHISHING
+ 5.  the                 | Impact: 0.009274 → PHISHING
+ 6.  eldest              | Impact: 0.009274 → PHISHING
+ 7.  son                 | Impact: 0.009274 → PHISHING
+ 8.  bank                | Impact: 0.008648 → PHISHING
+ 9.  account             | Impact: 0.008648 → PHISHING
+10.  where               | Impact: 0.008648 → PHISHING
+11.  this                | Impact: 0.008648 → PHISHING
+12.  million             | Impact: 0.008575 → PHISHING
+13.  of                  | Impact: 0.007336 → PHISHING
+14.  my                  | Impact: 0.007336 → PHISHING
+15.  father              | Impact: 0.007336 → PHISHING
+16.  ,                   | Impact: 0.007336 → PHISHING
+17.  and                 | Impact: 0.006224 → PHISHING
+18.  come                | Impact: 0.006224 → PHISHING
+19.  to                  | Impact: 0.006224 → PHISHING
+20.  assist              | Impact: 0.006215 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  johannesburg        | Impact: 0.010128
+ 2.  south               | Impact: 0.010128
+ 3.  africa              | Impact: 0.010128
+ 4.  as                  | Impact: 0.009274
+ 5.  the                 | Impact: 0.009274
+ 6.  eldest              | Impact: 0.009274
+ 7.  son                 | Impact: 0.009274
+ 8.  bank                | Impact: 0.008648
+ 9.  account             | Impact: 0.008648
+10.  where               | Impact: 0.008648
+11.  this                | Impact: 0.008648
+12.  million             | Impact: 0.008575
+13.  of                  | Impact: 0.007336
+14.  my                  | Impact: 0.007336
+15.  father              | Impact: 0.007336
+16.  ,                   | Impact: 0.007336
+17.  and                 | Impact: 0.006224
+18.  come                | Impact: 0.006224
+19.  to                  | Impact: 0.006224
+20.  assist              | Impact: 0.006215
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  bbc                 | Impact: -0.001309
+ 2.  .                   | Impact: -0.001309
+ 3.  the                 | Impact: -0.000926
+ 4.  cnn                 | Impact: -0.000926
+ 5.  and                 | Impact: -0.000926
+ 6.  every               | Impact: -0.000926
+ 7.  where               | Impact: -0.000926
+ 8.  both                | Impact: -0.000926
+ 9.  in                  | Impact: -0.000926
+10.  from                | Impact: -0.000131
+11.  the                 | Impact: -0.000131
+12.  security            | Impact: -0.000131
+13.  company             | Impact: -0.000131
+14.  .                   | Impact: -0.000131
+15.  in                  | Impact: -0.000077
+16.  the                 | Impact: -0.000077
+17.  security            | Impact: -0.000077
+18.  /                   | Impact: -0.000077

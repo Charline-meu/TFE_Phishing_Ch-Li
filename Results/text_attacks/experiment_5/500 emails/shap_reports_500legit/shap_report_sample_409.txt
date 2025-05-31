@@ -1,0 +1,75 @@
+Sample 409
+==========
+
+Sample text preview: ISDA PRESS REPORT - MARCH , * EU's single financial market in the balance - The Financial Times * BIS Survey Sparks Speculation - The Wall Street Jour...
+
+Model prediction: [9.9972326e-01 2.7675333e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  per                 | Impact: -0.002290 → LEGITIMATE
+ 2. sson                 | Impact: -0.002290 → LEGITIMATE
+ 3.  yesterday           | Impact: -0.002290 → LEGITIMATE
+ 4.  stressed            | Impact: -0.002290 → LEGITIMATE
+ 5.  would               | Impact: 0.001465 → PHISHING
+ 6.  spur                | Impact: 0.001465 → PHISHING
+ 7.  economic            | Impact: 0.001465 → PHISHING
+ 8.  growth              | Impact: 0.001465 → PHISHING
+ 9.  and                 | Impact: 0.001465 → PHISHING
+10.  the                 | Impact: -0.001223 → LEGITIMATE
+11.  responsibility      | Impact: -0.001223 → LEGITIMATE
+12.  of                  | Impact: -0.001223 → LEGITIMATE
+13.  the                 | Impact: -0.001223 → LEGITIMATE
+14.  ambitious           | Impact: 0.001123 → PHISHING
+15.  year                | Impact: 0.001123 → PHISHING
+16.  -                   | Impact: 0.001123 → PHISHING
+17.  old                 | Impact: 0.001123 → PHISHING
+18.  project             | Impact: 0.001123 → PHISHING
+19.  to                  | Impact: 0.001123 → PHISHING
+20.  turn                | Impact: 0.001123 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  would               | Impact: 0.001465
+ 2.  spur                | Impact: 0.001465
+ 3.  economic            | Impact: 0.001465
+ 4.  growth              | Impact: 0.001465
+ 5.  and                 | Impact: 0.001465
+ 6.  ambitious           | Impact: 0.001123
+ 7.  year                | Impact: 0.001123
+ 8.  -                   | Impact: 0.001123
+ 9.  old                 | Impact: 0.001123
+10.  project             | Impact: 0.001123
+11.  to                  | Impact: 0.001123
+12.  turn                | Impact: 0.001123
+13.  europe              | Impact: 0.001123
+14.  ina                 | Impact: 0.000850
+15. us                   | Impact: 0.000850
+16. pic                  | Impact: 0.000850
+17. ious                 | Impact: 0.000850
+18.  backdrop            | Impact: 0.000850
+19.  to                  | Impact: 0.000850
+20.  the                 | Impact: 0.000850
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  per                 | Impact: -0.002290
+ 2. sson                 | Impact: -0.002290
+ 3.  yesterday           | Impact: -0.002290
+ 4.  stressed            | Impact: -0.002290
+ 5.  the                 | Impact: -0.001223
+ 6.  responsibility      | Impact: -0.001223
+ 7.  of                  | Impact: -0.001223
+ 8.  the                 | Impact: -0.001223
+ 9.  the                 | Impact: -0.001037
+10.  european            | Impact: -0.001037
+11.  commission          | Impact: -0.001037
+12.  and                 | Impact: -0.001037
+13.  the                 | Impact: -0.001037
+14.  european            | Impact: -0.001037
+15.  parliament          | Impact: -0.001037
+16.  all                 | Impact: -0.001037
+17.  acknowledge         | Impact: -0.001037
+18.  that                | Impact: -0.001037
+19.  rapid               | Impact: -0.001037
+20.  development         | Impact: -0.001037

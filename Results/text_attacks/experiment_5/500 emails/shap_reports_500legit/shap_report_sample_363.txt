@@ -1,0 +1,75 @@
+Sample 363
+==========
+
+Sample text preview: On Tue, Aug , David Raistrick wrote: > On Tue, Aug , Patrick wrote: > > > On Tue, Aug , Justin Shore wrote: > > > > > I'm assuming I need to strip the...
+
+Model prediction: [9.9979252e-01 2.0753256e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  green               | Impact: -0.028662 → LEGITIMATE
+ 2. well                 | Impact: -0.028662 → LEGITIMATE
+ 3.  asking              | Impact: -0.020963 → LEGITIMATE
+ 4.  the                 | Impact: -0.020963 → LEGITIMATE
+ 5.  wrong               | Impact: -0.017742 → LEGITIMATE
+ 6.  questions           | Impact: -0.017742 → LEGITIMATE
+ 7.  is                  | Impact: -0.017445 → LEGITIMATE
+ 8.  the                 | Impact: -0.017445 → LEGITIMATE
+ 9.  leading             | Impact: -0.003816 → LEGITIMATE
+10.  cause               | Impact: -0.003816 → LEGITIMATE
+11.  of                  | Impact: -0.003816 → LEGITIMATE
+12.  wrong               | Impact: -0.003816 → LEGITIMATE
+13.  answers             | Impact: -0.003816 → LEGITIMATE
+14.  \                   | Impact: -0.003816 → LEGITIMATE
+15.  /                   | Impact: -0.003816 → LEGITIMATE
+16.  \                   | Impact: -0.003816 → LEGITIMATE
+17.  /                   | Impact: 0.002847 → PHISHING
+18.  \                   | Impact: 0.002847 → PHISHING
+19.  /                   | Impact: 0.002847 → PHISHING
+20.  \                   | Impact: 0.002847 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  /                   | Impact: 0.002847
+ 2.  \                   | Impact: 0.002847
+ 3.  /                   | Impact: 0.002847
+ 4.  \                   | Impact: 0.002847
+ 5.  /                   | Impact: 0.002709
+ 6.  \                   | Impact: 0.002709
+ 7.  /                   | Impact: 0.002709
+ 8.  \                   | Impact: 0.002709
+ 9.  /                   | Impact: 0.002520
+10.  \                   | Impact: 0.002520
+11.  /                   | Impact: 0.002520
+12.  \                   | Impact: 0.002520
+13.  /                   | Impact: 0.002520
+14.  \                   | Impact: 0.002520
+15.  patrick             | Impact: 0.002520
+16.  /                   | Impact: 0.002359
+17.  \                   | Impact: 0.002359
+18.  /                   | Impact: 0.002359
+19.  \                   | Impact: 0.002359
+20.  /                   | Impact: 0.002359
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  green               | Impact: -0.028662
+ 2. well                 | Impact: -0.028662
+ 3.  asking              | Impact: -0.020963
+ 4.  the                 | Impact: -0.020963
+ 5.  wrong               | Impact: -0.017742
+ 6.  questions           | Impact: -0.017742
+ 7.  is                  | Impact: -0.017445
+ 8.  the                 | Impact: -0.017445
+ 9.  leading             | Impact: -0.003816
+10.  cause               | Impact: -0.003816
+11.  of                  | Impact: -0.003816
+12.  wrong               | Impact: -0.003816
+13.  answers             | Impact: -0.003816
+14.  \                   | Impact: -0.003816
+15.  /                   | Impact: -0.003816
+16.  \                   | Impact: -0.003816
+17.  if                  | Impact: -0.001690
+18.  the                 | Impact: -0.001690
+19.  message             | Impact: -0.001690
+20.  contains            | Impact: -0.001690

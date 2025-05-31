@@ -1,0 +1,75 @@
+Sample 427
+==========
+
+Sample text preview: duly noted definately would make the extra effort to talk directly with these people and mention to the IFC (local arts cinema) about a more approriat...
+
+Model prediction: [9.9976200e-01 2.3805913e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wrote               | Impact: -0.002585 → LEGITIMATE
+ 2.  :                   | Impact: -0.002585 → LEGITIMATE
+ 3.  >                   | Impact: -0.002585 → LEGITIMATE
+ 4.  date                | Impact: -0.002585 → LEGITIMATE
+ 5.  ]                   | Impact: -0.002387 → LEGITIMATE
+ 6.  linux               | Impact: -0.002387 → LEGITIMATE
+ 7.  later               | Impact: 0.002018 → PHISHING
+ 8.  alan                | Impact: 0.002018 → PHISHING
+ 9.  on                  | Impact: 0.002018 → PHISHING
+10.  wed                 | Impact: 0.002018 → PHISHING
+11.  ,                   | Impact: 0.001801 → PHISHING
+12.  >                   | Impact: -0.001639 → LEGITIMATE
+13.  from                | Impact: -0.001639 → LEGITIMATE
+14.  :                   | Impact: -0.001639 → LEGITIMATE
+15.  rick                | Impact: -0.001639 → LEGITIMATE
+16.  >                   | Impact: -0.001589 → LEGITIMATE
+17.  cc                  | Impact: -0.001589 → LEGITIMATE
+18.  :                   | Impact: -0.001589 → LEGITIMATE
+19.  >                   | Impact: -0.001589 → LEGITIMATE
+20.  rick                | Impact: -0.001424 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  later               | Impact: 0.002018
+ 2.  alan                | Impact: 0.002018
+ 3.  on                  | Impact: 0.002018
+ 4.  wed                 | Impact: 0.002018
+ 5.  ,                   | Impact: 0.001801
+ 6.  is                  | Impact: 0.001110
+ 7.  this                | Impact: 0.001110
+ 8.  the                 | Impact: 0.001110
+ 9.  same                | Impact: 0.001110
+10.  :                   | Impact: 0.000741
+11.  wed                 | Impact: 0.000741
+12.  ,                   | Impact: 0.000741
+13.  film                | Impact: 0.000695
+14.  the                 | Impact: 0.000695
+15.  people              | Impact: 0.000695
+16.  are                 | Impact: 0.000695
+17.  (                   | Impact: 0.000545
+18.  local               | Impact: 0.000545
+19.  arts                | Impact: 0.000545
+20.  cinema              | Impact: 0.000545
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  wrote               | Impact: -0.002585
+ 2.  :                   | Impact: -0.002585
+ 3.  >                   | Impact: -0.002585
+ 4.  date                | Impact: -0.002585
+ 5.  ]                   | Impact: -0.002387
+ 6.  linux               | Impact: -0.002387
+ 7.  >                   | Impact: -0.001639
+ 8.  from                | Impact: -0.001639
+ 9.  :                   | Impact: -0.001639
+10.  rick                | Impact: -0.001639
+11.  >                   | Impact: -0.001589
+12.  cc                  | Impact: -0.001589
+13.  :                   | Impact: -0.001589
+14.  >                   | Impact: -0.001589
+15.  rick                | Impact: -0.001424
+16.  moe                 | Impact: -0.001424
+17. n                    | Impact: -0.001424
+18.  subject             | Impact: -0.001388
+19.  :                   | Impact: -0.001388
+20.  moe                 | Impact: -0.001253

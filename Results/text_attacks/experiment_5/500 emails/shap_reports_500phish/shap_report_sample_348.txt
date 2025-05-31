@@ -1,0 +1,75 @@
+Sample 348
+==========
+
+Sample text preview: >From Onwa Williams Ave Abobo, P.o.box Bp- Bp. West Africa. Tel/. Dear Sir, Please i wish to solicit your help. My name is Mr.Onwa Williams. I am the ...
+
+Model prediction: [2.0257378e-04 9.9979740e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.009078 → PHISHING
+ 2.  sir                 | Impact: 0.009078 → PHISHING
+ 3.  ,                   | Impact: 0.009078 → PHISHING
+ 4.  my                  | Impact: 0.008693 → PHISHING
+ 5.  name                | Impact: 0.008693 → PHISHING
+ 6.  is                  | Impact: 0.008693 → PHISHING
+ 7.  mr                  | Impact: 0.008693 → PHISHING
+ 8.  dollars             | Impact: 0.008147 → PHISHING
+ 9.  in                  | Impact: 0.008147 → PHISHING
+10.  your                | Impact: 0.008147 → PHISHING
+11.  country             | Impact: 0.008147 → PHISHING
+12.  father              | Impact: 0.008039 → PHISHING
+13.  which               | Impact: 0.008039 → PHISHING
+14.  he                  | Impact: 0.008039 → PHISHING
+15.  inherited           | Impact: 0.008039 → PHISHING
+16.  during              | Impact: 0.008039 → PHISHING
+17.  his                 | Impact: 0.008039 → PHISHING
+18.  life                | Impact: 0.008039 → PHISHING
+19.  time                | Impact: 0.008039 → PHISHING
+20.  belongs             | Impact: 0.007359 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.009078
+ 2.  sir                 | Impact: 0.009078
+ 3.  ,                   | Impact: 0.009078
+ 4.  my                  | Impact: 0.008693
+ 5.  name                | Impact: 0.008693
+ 6.  is                  | Impact: 0.008693
+ 7.  mr                  | Impact: 0.008693
+ 8.  dollars             | Impact: 0.008147
+ 9.  in                  | Impact: 0.008147
+10.  your                | Impact: 0.008147
+11.  country             | Impact: 0.008147
+12.  father              | Impact: 0.008039
+13.  which               | Impact: 0.008039
+14.  he                  | Impact: 0.008039
+15.  inherited           | Impact: 0.008039
+16.  during              | Impact: 0.008039
+17.  his                 | Impact: 0.008039
+18.  life                | Impact: 0.008039
+19.  time                | Impact: 0.008039
+20.  belongs             | Impact: 0.007359
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  following           | Impact: -0.000355
+ 2.  the                 | Impact: -0.000355
+ 3.  brake               | Impact: -0.000355
+ 4.  out                 | Impact: -0.000355
+ 5.  of                  | Impact: -0.000355
+ 6.  the                 | Impact: -0.000355
+ 7.  war                 | Impact: -0.000355
+ 8.  ,                   | Impact: -0.000355
+ 9.  almost              | Impact: -0.000355
+10.  all                 | Impact: -0.000355
+11.  government          | Impact: -0.000355
+12.  offices             | Impact: -0.000355
+13.  ,                   | Impact: -0.000355
+14.  cope                | Impact: -0.000254
+15. rations              | Impact: -0.000254
+16.  and                 | Impact: -0.000254
+17.  van                 | Impact: -0.000254
+18. dal                  | Impact: -0.000254
+19. ized                 | Impact: -0.000254
+20.  .                   | Impact: -0.000254

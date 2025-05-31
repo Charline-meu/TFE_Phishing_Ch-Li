@@ -1,0 +1,75 @@
+Phishing Sample 28
+==================
+
+Sample text preview: Attached for your review and comment please find drafts of Amendment to Firm Gathering Agreement for Enron and Burlington. Please review and provide a...
+
+Model prediction: [9.9978310e-01 2.1688189e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.036034 → LEGITIMATE
+ 2.  best                | Impact: 0.018282 → PHISHING
+ 3.  en                  | Impact: -0.016766 → LEGITIMATE
+ 4.  suite               | Impact: 0.015187 → PHISHING
+ 5.  counsel             | Impact: -0.013933 → LEGITIMATE
+ 6.  general             | Impact: -0.013253 → LEGITIMATE
+ 7.  regards             | Impact: 0.008601 → PHISHING
+ 8.  street              | Impact: 0.008207 → PHISHING
+ 9.  assistant           | Impact: -0.008153 → LEGITIMATE
+10.  -                   | Impact: 0.007513 → PHISHING
+11. x                    | Impact: 0.007484 → PHISHING
+12.  ,                   | Impact: 0.007285 → PHISHING
+13.  ,                   | Impact: 0.006891 → PHISHING
+14.  review              | Impact: -0.005812 → LEGITIMATE
+15.  corp                | Impact: 0.005703 → PHISHING
+16.  (                   | Impact: -0.005679 → LEGITIMATE
+17.  daniel              | Impact: -0.005220 → LEGITIMATE
+18. nni                  | Impact: 0.004872 → PHISHING
+19.  -                   | Impact: 0.004327 → PHISHING
+20.  locate              | Impact: 0.003871 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  best                | Impact: 0.018282
+ 2.  suite               | Impact: 0.015187
+ 3.  regards             | Impact: 0.008601
+ 4.  street              | Impact: 0.008207
+ 5.  -                   | Impact: 0.007513
+ 6. x                    | Impact: 0.007484
+ 7.  ,                   | Impact: 0.007285
+ 8.  ,                   | Impact: 0.006891
+ 9.  corp                | Impact: 0.005703
+10. nni                  | Impact: 0.004872
+11.  -                   | Impact: 0.004327
+12.  locate              | Impact: 0.003871
+13.  ,                   | Impact: 0.003817
+14.  your                | Impact: 0.002953
+15.  sho                 | Impact: 0.002786
+16.  fa                  | Impact: 0.002269
+17.  )                   | Impact: 0.001392
+18.  phone               | Impact: 0.001162
+19.  signed              | Impact: 0.001093
+20.  been                | Impact: 0.001061
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.036034
+ 2.  en                  | Impact: -0.016766
+ 3.  counsel             | Impact: -0.013933
+ 4.  general             | Impact: -0.013253
+ 5.  assistant           | Impact: -0.008153
+ 6.  review              | Impact: -0.005812
+ 7.  (                   | Impact: -0.005679
+ 8.  daniel              | Impact: -0.005220
+ 9.  we                  | Impact: -0.003862
+10.  .                   | Impact: -0.003103
+11.  )                   | Impact: -0.003090
+12.  review              | Impact: -0.002988
+13.  amendment           | Impact: -0.002724
+14.  america             | Impact: -0.002545
+15.  comments            | Impact: -0.002481
+16.  north               | Impact: -0.001847
+17.  texas               | Impact: -0.001825
+18.  you                 | Impact: -0.001322
+19.  houston             | Impact: -0.001313
+20.  .                   | Impact: -0.001226

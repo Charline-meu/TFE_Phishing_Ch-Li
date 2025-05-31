@@ -1,0 +1,75 @@
+Sample 148
+==========
+
+Sample text preview: Your Account Password is due for expiration Yesterday: Please kindly use the below to continue with same password. Click Here This email has been auto...
+
+Model prediction: [1.7292042e-04 9.9982709e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.080085 → PHISHING
+ 2.  account             | Impact: 0.070641 → PHISHING
+ 3.  click               | Impact: 0.062654 → PHISHING
+ 4. ©                    | Impact: 0.061390 → PHISHING
+ 5.  your                | Impact: 0.056512 → PHISHING
+ 6.  email               | Impact: 0.045397 → PHISHING
+ 7.  send                | Impact: 0.040542 → PHISHING
+ 8. er                   | Impact: 0.040542 → PHISHING
+ 9.  here                | Impact: 0.040535 → PHISHING
+10.  immediately         | Impact: 0.034224 → PHISHING
+11.  message             | Impact: 0.034192 → PHISHING
+12.  password            | Impact: 0.032685 → PHISHING
+13.  this                | Impact: 0.025669 → PHISHING
+14.  kindly              | Impact: 0.024441 → PHISHING
+15.  copyright           | Impact: -0.021520 → LEGITIMATE
+16.  prompt              | Impact: 0.021322 → PHISHING
+17.  address             | Impact: 0.021013 → PHISHING
+18.  ex                  | Impact: 0.018815 → PHISHING
+19.  ]                   | Impact: -0.018294 → LEGITIMATE
+20.  to                  | Impact: 0.015033 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.080085
+ 2.  account             | Impact: 0.070641
+ 3.  click               | Impact: 0.062654
+ 4. ©                    | Impact: 0.061390
+ 5.  your                | Impact: 0.056512
+ 6.  email               | Impact: 0.045397
+ 7.  send                | Impact: 0.040542
+ 8. er                   | Impact: 0.040542
+ 9.  here                | Impact: 0.040535
+10.  immediately         | Impact: 0.034224
+11.  message             | Impact: 0.034192
+12.  password            | Impact: 0.032685
+13.  this                | Impact: 0.025669
+14.  kindly              | Impact: 0.024441
+15.  prompt              | Impact: 0.021322
+16.  address             | Impact: 0.021013
+17.  ex                  | Impact: 0.018815
+18.  to                  | Impact: 0.015033
+19.  book                | Impact: 0.014354
+20.  please              | Impact: 0.013457
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  copyright           | Impact: -0.021520
+ 2.  ]                   | Impact: -0.018294
+ 3.  if                  | Impact: -0.010185
+ 4.  [                   | Impact: -0.008355
+ 5.  the                 | Impact: -0.004029
+ 6.  .                   | Impact: -0.003309
+ 7.  date                | Impact: -0.002922
+ 8.                      | Impact: -0.002730
+ 9.  use                 | Impact: -0.002336
+10.  is                  | Impact: -0.002170
+11.  intended            | Impact: -0.002170
+12.  this                | Impact: -0.001904
+13.  and                 | Impact: -0.001687
+14.  list                | Impact: -0.001536
+15.  yesterday           | Impact: -0.001000
+16.  :                   | Impact: -0.001000
+17.  for                 | Impact: -0.000984
+18.  designated          | Impact: -0.000984
+19.  the                 | Impact: -0.000844
+20.  original            | Impact: -0.000844

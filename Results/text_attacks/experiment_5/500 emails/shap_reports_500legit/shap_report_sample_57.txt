@@ -1,0 +1,69 @@
+Sample 57
+=========
+
+Sample text preview: URL: Date: --T::+: *Business:* Illness and City's mailing of sports empire share are blamed for death.
+
+Model prediction: [9.9975616e-01 2.4387911e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ur                  | Impact: -0.127843 → LEGITIMATE
+ 2.  death               | Impact: 0.108682 → PHISHING
+ 3.  date                | Impact: -0.095358 → LEGITIMATE
+ 4.  +                   | Impact: 0.089592 → PHISHING
+ 5.  business            | Impact: 0.088755 → PHISHING
+ 6.  blamed              | Impact: -0.070514 → LEGITIMATE
+ 7.  mail                | Impact: 0.049508 → PHISHING
+ 8.  :                   | Impact: -0.041477 → LEGITIMATE
+ 9.  s                   | Impact: 0.038985 → PHISHING
+10.  city                | Impact: 0.038899 → PHISHING
+11.  :                   | Impact: -0.031057 → LEGITIMATE
+12.  *                   | Impact: -0.029528 → LEGITIMATE
+13.  :                   | Impact: -0.028868 → LEGITIMATE
+14.  for                 | Impact: 0.027627 → PHISHING
+15.  empire              | Impact: 0.026863 → PHISHING
+16.  :                   | Impact: -0.025006 → LEGITIMATE
+17.  share               | Impact: -0.023894 → LEGITIMATE
+18.  :                   | Impact: -0.019650 → LEGITIMATE
+19. l                    | Impact: -0.018010 → LEGITIMATE
+20.  :                   | Impact: -0.015722 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  death               | Impact: 0.108682
+ 2.  +                   | Impact: 0.089592
+ 3.  business            | Impact: 0.088755
+ 4.  mail                | Impact: 0.049508
+ 5.  s                   | Impact: 0.038985
+ 6.  city                | Impact: 0.038899
+ 7.  for                 | Impact: 0.027627
+ 8.  empire              | Impact: 0.026863
+ 9.  illness             | Impact: 0.009380
+10.  sports              | Impact: 0.009160
+11. ing                  | Impact: 0.008159
+12.  t                   | Impact: 0.007566
+13.  *                   | Impact: 0.007155
+14.  '                   | Impact: 0.006411
+15.  .                   | Impact: 0.003200
+16.  -                   | Impact: 0.002230
+17.  and                 | Impact: 0.000038
+18.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ur                  | Impact: -0.127843
+ 2.  date                | Impact: -0.095358
+ 3.  blamed              | Impact: -0.070514
+ 4.  :                   | Impact: -0.041477
+ 5.  :                   | Impact: -0.031057
+ 6.  *                   | Impact: -0.029528
+ 7.  :                   | Impact: -0.028868
+ 8.  :                   | Impact: -0.025006
+ 9.  share               | Impact: -0.023894
+10.  :                   | Impact: -0.019650
+11. l                    | Impact: -0.018010
+12.  :                   | Impact: -0.015722
+13.  are                 | Impact: -0.009802
+14.  of                  | Impact: -0.006622
+15.  -                   | Impact: -0.001591
+16.                      | Impact: -0.000874

@@ -1,0 +1,60 @@
+Sample 380
+==========
+
+Sample text preview: griese was great, but it looks like he will be out for awhile. ian gold is a stud.
+
+Model prediction: [9.992879e-01 7.121718e-04]
+Predicted class: LEGITIMATE with 0.9993 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  gold                | Impact: 0.181301 → PHISHING
+ 2.  stud                | Impact: 0.129097 → PHISHING
+ 3.  ian                 | Impact: -0.090724 → LEGITIMATE
+ 4.  is                  | Impact: -0.062657 → LEGITIMATE
+ 5. ies                  | Impact: -0.058363 → LEGITIMATE
+ 6.  ,                   | Impact: -0.051833 → LEGITIMATE
+ 7.  gr                  | Impact: -0.042280 → LEGITIMATE
+ 8.  great               | Impact: -0.042106 → LEGITIMATE
+ 9. e                    | Impact: -0.030847 → LEGITIMATE
+10.  was                 | Impact: 0.029039 → PHISHING
+11.  .                   | Impact: 0.027466 → PHISHING
+12.  but                 | Impact: -0.024562 → LEGITIMATE
+13.  be                  | Impact: -0.022656 → LEGITIMATE
+14.  he                  | Impact: 0.021408 → PHISHING
+15.  awhile              | Impact: -0.016245 → LEGITIMATE
+16.  .                   | Impact: 0.014903 → PHISHING
+17.  a                   | Impact: -0.013567 → LEGITIMATE
+18.  out                 | Impact: -0.012915 → LEGITIMATE
+19.  for                 | Impact: 0.009371 → PHISHING
+20.  like                | Impact: -0.009121 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  gold                | Impact: 0.181301
+ 2.  stud                | Impact: 0.129097
+ 3.  was                 | Impact: 0.029039
+ 4.  .                   | Impact: 0.027466
+ 5.  he                  | Impact: 0.021408
+ 6.  .                   | Impact: 0.014903
+ 7.  for                 | Impact: 0.009371
+ 8.  it                  | Impact: 0.005644
+ 9.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ian                 | Impact: -0.090724
+ 2.  is                  | Impact: -0.062657
+ 3. ies                  | Impact: -0.058363
+ 4.  ,                   | Impact: -0.051833
+ 5.  gr                  | Impact: -0.042280
+ 6.  great               | Impact: -0.042106
+ 7. e                    | Impact: -0.030847
+ 8.  but                 | Impact: -0.024562
+ 9.  be                  | Impact: -0.022656
+10.  awhile              | Impact: -0.016245
+11.  a                   | Impact: -0.013567
+12.  out                 | Impact: -0.012915
+13.  like                | Impact: -0.009121
+14.  will                | Impact: -0.005407
+15.  looks               | Impact: -0.004679
+16.                      | Impact: -0.000000

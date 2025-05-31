@@ -1,0 +1,75 @@
+Sample 258
+==========
+
+Sample text preview: BEN IGWE & ASSOCIATES A martin clouse lagos Nigeria Dear Sir, RE: ABACHA'S FAMILY We were intstructed to contact you by the Abacha's family (family of...
+
+Model prediction: [2.0928557e-04 9.9979073e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lagos               | Impact: 0.010920 → PHISHING
+ 2.  nigeria             | Impact: 0.010920 → PHISHING
+ 3.  improved            | Impact: -0.010179 → LEGITIMATE
+ 4.  yahoo               | Impact: -0.010179 → LEGITIMATE
+ 5.  !                   | Impact: -0.010179 → LEGITIMATE
+ 6.  this                | Impact: 0.009886 → PHISHING
+ 7.  money               | Impact: 0.009886 → PHISHING
+ 8.  you                 | Impact: 0.009357 → PHISHING
+ 9.  nigerian            | Impact: 0.007529 → PHISHING
+10.  government          | Impact: 0.007529 → PHISHING
+11.  to                  | Impact: 0.007529 → PHISHING
+12.  get                 | Impact: 0.007529 → PHISHING
+13.  cl                  | Impact: 0.007052 → PHISHING
+14. ouse                 | Impact: 0.007052 → PHISHING
+15.  from                | Impact: 0.006952 → PHISHING
+16.  dear                | Impact: 0.006425 → PHISHING
+17.  sir                 | Impact: 0.006425 → PHISHING
+18.  ,                   | Impact: 0.006425 → PHISHING
+19.  nigerian            | Impact: 0.006341 → PHISHING
+20.  military            | Impact: 0.006341 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  lagos               | Impact: 0.010920
+ 2.  nigeria             | Impact: 0.010920
+ 3.  this                | Impact: 0.009886
+ 4.  money               | Impact: 0.009886
+ 5.  you                 | Impact: 0.009357
+ 6.  nigerian            | Impact: 0.007529
+ 7.  government          | Impact: 0.007529
+ 8.  to                  | Impact: 0.007529
+ 9.  get                 | Impact: 0.007529
+10.  cl                  | Impact: 0.007052
+11. ouse                 | Impact: 0.007052
+12.  from                | Impact: 0.006952
+13.  dear                | Impact: 0.006425
+14.  sir                 | Impact: 0.006425
+15.  ,                   | Impact: 0.006425
+16.  nigerian            | Impact: 0.006341
+17.  military            | Impact: 0.006341
+18.  dictator            | Impact: 0.006341
+19.  and                 | Impact: 0.006341
+20.  (                   | Impact: 0.005682
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  improved            | Impact: -0.010179
+ 2.  yahoo               | Impact: -0.010179
+ 3.  !                   | Impact: -0.010179
+ 4.  peru                | Impact: -0.005422
+ 5. sal                  | Impact: -0.005422
+ 6.  new                 | Impact: -0.003533
+ 7.  and                 | Impact: -0.003533
+ 8.  publication         | Impact: -0.003086
+ 9.  for                 | Impact: -0.003086
+10.  your                | Impact: -0.003086
+11.  see                 | Impact: -0.001610
+12.  attach              | Impact: -0.001610
+13.  bbc                 | Impact: -0.001610
+14.  news                | Impact: -0.001610
+15.  peru                | Impact: -0.001560
+16. sal                  | Impact: -0.001560
+17.  publication         | Impact: -0.001560
+18.  for                 | Impact: -0.001560
+19.  your                | Impact: -0.001560
+20.  see                 | Impact: -0.001475

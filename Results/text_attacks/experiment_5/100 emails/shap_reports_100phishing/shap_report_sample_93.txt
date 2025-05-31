@@ -1,0 +1,75 @@
+Phishing Sample 93
+==================
+
+Sample text preview: ECOWAS BANK LIMITED. Add: rue du la mission B.P Lome Togo. West- Africa. My name is Mr. Balarabe Zamani, the Manager, credit and foreign bills of ECOW...
+
+Model prediction: [1.9807238e-04 9.9980193e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.041326 → PHISHING
+ 2.  is                  | Impact: 0.027973 → PHISHING
+ 3.  name                | Impact: 0.026099 → PHISHING
+ 4.  my                  | Impact: 0.023937 → PHISHING
+ 5.  my                  | Impact: 0.022002 → PHISHING
+ 6.  bank                | Impact: 0.022002 → PHISHING
+ 7.  foreign             | Impact: -0.018611 → LEGITIMATE
+ 8.  bills               | Impact: -0.018611 → LEGITIMATE
+ 9.  bank                | Impact: 0.017531 → PHISHING
+10.  limited             | Impact: 0.016110 → PHISHING
+11.  customer            | Impact: 0.011947 → PHISHING
+12.  of                  | Impact: 0.011947 → PHISHING
+13.  come                | Impact: 0.009179 → PHISHING
+14.  to                  | Impact: 0.009179 → PHISHING
+15.  claim               | Impact: 0.009179 → PHISHING
+16.  his                 | Impact: 0.009179 → PHISHING
+17.  funds               | Impact: 0.008974 → PHISHING
+18.  of                  | Impact: 0.008974 → PHISHING
+19.  usd                 | Impact: 0.008974 → PHISHING
+20.  because             | Impact: 0.007711 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.041326
+ 2.  is                  | Impact: 0.027973
+ 3.  name                | Impact: 0.026099
+ 4.  my                  | Impact: 0.023937
+ 5.  my                  | Impact: 0.022002
+ 6.  bank                | Impact: 0.022002
+ 7.  bank                | Impact: 0.017531
+ 8.  limited             | Impact: 0.016110
+ 9.  customer            | Impact: 0.011947
+10.  of                  | Impact: 0.011947
+11.  come                | Impact: 0.009179
+12.  to                  | Impact: 0.009179
+13.  claim               | Impact: 0.009179
+14.  his                 | Impact: 0.009179
+15.  funds               | Impact: 0.008974
+16.  of                  | Impact: 0.008974
+17.  usd                 | Impact: 0.008974
+18.  because             | Impact: 0.007711
+19.  money               | Impact: 0.007711
+20.  will                | Impact: 0.007711
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  foreign             | Impact: -0.018611
+ 2.  bills               | Impact: -0.018611
+ 3.  i                   | Impact: -0.004272
+ 4.  am                  | Impact: -0.004272
+ 5.  writing             | Impact: -0.004272
+ 6.  in                  | Impact: -0.004272
+ 7.  on                  | Impact: -0.003370
+ 8.  this                | Impact: -0.003370
+ 9.  note                | Impact: -0.003370
+10.  ,                   | Impact: -0.003142
+11.  of                  | Impact: -0.003110
+12.  respect             | Impact: -0.002251
+13.  of                  | Impact: -0.002251
+14.  a                   | Impact: -0.002251
+15.  foreign             | Impact: -0.002251
+16.  add                 | Impact: -0.002141
+17.  :                   | Impact: -0.002141
+18.  ut                  | Impact: -0.001505
+19. b                    | Impact: -0.001505
+20.  /                   | Impact: -0.001505

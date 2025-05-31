@@ -1,0 +1,75 @@
+Sample 461
+==========
+
+Sample text preview: ---------- If your day starts with a tee time, then visit our Golf Section. weather.com ---------- SEVERE THUNDERSTORM WARNING NATIONAL WEATHER SERVIC...
+
+Model prediction: [0.96572936 0.03427061]
+Predicted class: LEGITIMATE with 0.9657 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  albany              | Impact: -0.008741 → LEGITIMATE
+ 2.  your                | Impact: 0.008319 → PHISHING
+ 3.  has                 | Impact: -0.007871 → LEGITIMATE
+ 4.  if                  | Impact: -0.005138 → LEGITIMATE
+ 5.  our                 | Impact: 0.004400 → PHISHING
+ 6.  ave                 | Impact: -0.004054 → LEGITIMATE
+ 7. rill                 | Impact: -0.004054 → LEGITIMATE
+ 8.  park                | Impact: -0.004054 → LEGITIMATE
+ 9.  .                   | Impact: 0.003938 → PHISHING
+10.  damaging            | Impact: 0.003850 → PHISHING
+11.  winds               | Impact: 0.003850 → PHISHING
+12.  .                   | Impact: -0.003798 → LEGITIMATE
+13.  berlin              | Impact: -0.003232 → LEGITIMATE
+14.  at                  | Impact: -0.003232 → LEGITIMATE
+15.  golf                | Impact: 0.003135 → PHISHING
+16.  starts              | Impact: 0.003064 → PHISHING
+17.  visit               | Impact: 0.003031 → PHISHING
+18.  warning             | Impact: 0.002947 → PHISHING
+19.  ed                  | Impact: -0.002920 → LEGITIMATE
+20. t                    | Impact: -0.002920 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.008319
+ 2.  our                 | Impact: 0.004400
+ 3.  .                   | Impact: 0.003938
+ 4.  damaging            | Impact: 0.003850
+ 5.  winds               | Impact: 0.003850
+ 6.  golf                | Impact: 0.003135
+ 7.  starts              | Impact: 0.003064
+ 8.  visit               | Impact: 0.003031
+ 9.  warning             | Impact: 0.002947
+10.  day                 | Impact: 0.002884
+11.  prepare             | Impact: 0.002859
+12.  for                 | Impact: 0.002859
+13.  then                | Impact: 0.002622
+14.  its                 | Impact: 0.002430
+15.  path                | Impact: 0.002430
+16.  you                 | Impact: 0.002308
+17.  should              | Impact: 0.002308
+18.  .                   | Impact: 0.002138
+19.  with                | Impact: 0.001935
+20.  if                  | Impact: 0.001810
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  albany              | Impact: -0.008741
+ 2.  has                 | Impact: -0.007871
+ 3.  if                  | Impact: -0.005138
+ 4.  ave                 | Impact: -0.004054
+ 5. rill                 | Impact: -0.004054
+ 6.  park                | Impact: -0.004054
+ 7.  .                   | Impact: -0.003798
+ 8.  berlin              | Impact: -0.003232
+ 9.  at                  | Impact: -0.003232
+10.  ed                  | Impact: -0.002920
+11. t                    | Impact: -0.002920
+12.  grafton             | Impact: -0.002920
+13.  and                 | Impact: -0.002920
+14.  pm                  | Impact: -0.002735
+15.  .                   | Impact: -0.002599
+16.  and                 | Impact: -0.002558
+17.  ray                 | Impact: -0.002217
+18. mer                  | Impact: -0.002217
+19. town                 | Impact: -0.002217
+20.  at                  | Impact: -0.002217

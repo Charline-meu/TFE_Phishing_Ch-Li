@@ -1,0 +1,75 @@
+Phishing Sample 34
+==================
+
+Sample text preview: Justin Mason wrote: > Phil R Lawrence said: > > >>>something to watch out for is to use "nomime" => in the Mail::Audit >>>ctor; the M:A folks changed ...
+
+Model prediction: [9.9976689e-01 2.3315876e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.004709 → LEGITIMATE
+ 2.  >                   | Impact: -0.003684 → LEGITIMATE
+ 3.  >                   | Impact: -0.003348 → LEGITIMATE
+ 4.  methods             | Impact: -0.002523 → LEGITIMATE
+ 5.  >                   | Impact: -0.002014 → LEGITIMATE
+ 6.  unavailable         | Impact: -0.001723 → LEGITIMATE
+ 7.  for                 | Impact: -0.001723 → LEGITIMATE
+ 8.  :                   | Impact: -0.001588 → LEGITIMATE
+ 9.  phil                | Impact: -0.001545 → LEGITIMATE
+10.  user                | Impact: -0.001535 → LEGITIMATE
+11.  =                   | Impact: 0.001460 → PHISHING
+12.  modules             | Impact: -0.001456 → LEGITIMATE
+13.  option              | Impact: -0.001445 → LEGITIMATE
+14.  >                   | Impact: -0.001439 → LEGITIMATE
+15.  the                 | Impact: -0.001436 → LEGITIMATE
+16.  dots                | Impact: -0.001436 → LEGITIMATE
+17.  do                  | Impact: -0.001414 → LEGITIMATE
+18.  which               | Impact: -0.001402 → LEGITIMATE
+19.  methods             | Impact: -0.001342 → LEGITIMATE
+20.  >                   | Impact: -0.001342 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  =                   | Impact: 0.001460
+ 2.  *                   | Impact: 0.000655
+ 3.  want                | Impact: 0.000655
+ 4.  to                  | Impact: 0.000655
+ 5.  know                | Impact: 0.000655
+ 6.  folks               | Impact: 0.000641
+ 7.  ma                  | Impact: 0.000523
+ 8.  ?                   | Impact: 0.000482
+ 9.  i                   | Impact: 0.000356
+10.  found               | Impact: 0.000356
+11.  you                 | Impact: 0.000284
+12.  do                  | Impact: 0.000284
+13.  *                   | Impact: 0.000284
+14.  not                 | Impact: 0.000284
+15.  what                | Impact: 0.000249
+16.  i                   | Impact: 0.000249
+17.  thought             | Impact: 0.000249
+18.  of                  | Impact: 0.000249
+19.                      | Impact: 0.000178
+20.  if                  | Impact: 0.000127
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.004709
+ 2.  >                   | Impact: -0.003684
+ 3.  >                   | Impact: -0.003348
+ 4.  methods             | Impact: -0.002523
+ 5.  >                   | Impact: -0.002014
+ 6.  unavailable         | Impact: -0.001723
+ 7.  for                 | Impact: -0.001723
+ 8.  :                   | Impact: -0.001588
+ 9.  phil                | Impact: -0.001545
+10.  user                | Impact: -0.001535
+11.  modules             | Impact: -0.001456
+12.  option              | Impact: -0.001445
+13.  >                   | Impact: -0.001439
+14.  the                 | Impact: -0.001436
+15.  dots                | Impact: -0.001436
+16.  do                  | Impact: -0.001414
+17.  which               | Impact: -0.001402
+18.  methods             | Impact: -0.001342
+19.  >                   | Impact: -0.001342
+20.  thanks              | Impact: -0.001320

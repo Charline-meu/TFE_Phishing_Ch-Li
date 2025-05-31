@@ -1,0 +1,75 @@
+Sample 116
+==========
+
+Sample text preview: --- begin forwarded text Delivered-To: To: Subject: Re: Optical analog computing? From: Dave Long Sender: Date: Wed, Oct :: - > > "the first computer ...
+
+Model prediction: [9.9975294e-01 2.4701067e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wed                 | Impact: 0.002194 → PHISHING
+ 2.  dave                | Impact: 0.001236 → PHISHING
+ 3.  >                   | Impact: -0.000922 → LEGITIMATE
+ 4.  >                   | Impact: -0.000895 → LEGITIMATE
+ 5.  :                   | Impact: -0.000848 → LEGITIMATE
+ 6.  :                   | Impact: -0.000848 → LEGITIMATE
+ 7.  *                   | Impact: -0.000848 → LEGITIMATE
+ 8.  ko                  | Impact: -0.000848 → LEGITIMATE
+ 9. ern                  | Impact: -0.000848 → LEGITIMATE
+10. er                   | Impact: -0.000848 → LEGITIMATE
+11.  ,                   | Impact: -0.000848 → LEGITIMATE
+12.  :                   | Impact: -0.000848 → LEGITIMATE
+13.  :                   | Impact: -0.000848 → LEGITIMATE
+14.  :                   | Impact: -0.000848 → LEGITIMATE
+15.  :                   | Impact: -0.000848 → LEGITIMATE
+16.  ,                   | Impact: 0.000759 → PHISHING
+17.  this                | Impact: -0.000663 → LEGITIMATE
+18.  was                 | Impact: -0.000663 → LEGITIMATE
+19.  >                   | Impact: -0.000663 → LEGITIMATE
+20.  the                 | Impact: -0.000663 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  wed                 | Impact: 0.002194
+ 2.  dave                | Impact: 0.001236
+ 3.  ,                   | Impact: 0.000759
+ 4.  :                   | Impact: 0.000614
+ 5.  long                | Impact: 0.000397
+ 6.  :                   | Impact: 0.000320
+ 7.  date                | Impact: 0.000320
+ 8.  send                | Impact: 0.000178
+ 9. er                   | Impact: 0.000178
+10.  the                 | Impact: 0.000109
+11.  germans             | Impact: 0.000109
+12.  invaded             | Impact: 0.000109
+13.  france              | Impact: 0.000109
+14.  and                 | Impact: 0.000109
+15.  ,                   | Impact: 0.000109
+16.  on                  | Impact: 0.000108
+17.  the                 | Impact: 0.000108
+18.  same                | Impact: 0.000108
+19.  day                 | Impact: 0.000108
+20.  ,                   | Impact: 0.000108
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.000922
+ 2.  >                   | Impact: -0.000895
+ 3.  :                   | Impact: -0.000848
+ 4.  :                   | Impact: -0.000848
+ 5.  *                   | Impact: -0.000848
+ 6.  ko                  | Impact: -0.000848
+ 7. ern                  | Impact: -0.000848
+ 8. er                   | Impact: -0.000848
+ 9.  ,                   | Impact: -0.000848
+10.  :                   | Impact: -0.000848
+11.  :                   | Impact: -0.000848
+12.  :                   | Impact: -0.000848
+13.  :                   | Impact: -0.000848
+14.  this                | Impact: -0.000663
+15.  was                 | Impact: -0.000663
+16.  >                   | Impact: -0.000663
+17.  the                 | Impact: -0.000663
+18.  interference        | Impact: -0.000625
+19.  patterns            | Impact: -0.000625
+20.  case                | Impact: -0.000564

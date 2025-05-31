@@ -1,0 +1,64 @@
+Sample 290
+==========
+
+Sample text preview: Messages blocked For incoming Message has been blocked by due to mail setting on privacy policy . See technical details below to unblock. CLICK HERE T...
+
+Model prediction: [4.3260012e-04 9.9956745e-01]
+Predicted class: PHISHING with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  messages            | Impact: 0.095570 → PHISHING
+ 2.  mail                | Impact: 0.074516 → PHISHING
+ 3.  message             | Impact: 0.066548 → PHISHING
+ 4.  blocked             | Impact: 0.062550 → PHISHING
+ 5.  delivered           | Impact: 0.057658 → PHISHING
+ 6.  incoming            | Impact: 0.052925 → PHISHING
+ 7.  blocked             | Impact: 0.042039 → PHISHING
+ 8.  message             | Impact: 0.037665 → PHISHING
+ 9.  and                 | Impact: 0.026911 → PHISHING
+10.  this                | Impact: 0.024943 → PHISHING
+11.  can                 | Impact: 0.024082 → PHISHING
+12.  server              | Impact: 0.023345 → PHISHING
+13.  email               | Impact: 0.022282 → PHISHING
+14.  mail                | Impact: 0.020602 → PHISHING
+15. box                  | Impact: 0.018587 → PHISHING
+16.  secure              | Impact: 0.018129 → PHISHING
+17.  account             | Impact: 0.017393 → PHISHING
+18.  for                 | Impact: 0.017380 → PHISHING
+19.  be                  | Impact: 0.017138 → PHISHING
+20.  this                | Impact: 0.015619 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  messages            | Impact: 0.095570
+ 2.  mail                | Impact: 0.074516
+ 3.  message             | Impact: 0.066548
+ 4.  blocked             | Impact: 0.062550
+ 5.  delivered           | Impact: 0.057658
+ 6.  incoming            | Impact: 0.052925
+ 7.  blocked             | Impact: 0.042039
+ 8.  message             | Impact: 0.037665
+ 9.  and                 | Impact: 0.026911
+10.  this                | Impact: 0.024943
+11.  can                 | Impact: 0.024082
+12.  server              | Impact: 0.023345
+13.  email               | Impact: 0.022282
+14.  mail                | Impact: 0.020602
+15. box                  | Impact: 0.018587
+16.  secure              | Impact: 0.018129
+17.  account             | Impact: 0.017393
+18.  for                 | Impact: 0.017380
+19.  be                  | Impact: 0.017138
+20.  this                | Impact: 0.015619
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.011921
+ 2.  .                   | Impact: -0.009228
+ 3.  generated           | Impact: -0.006071
+ 4.  technical           | Impact: -0.006025
+ 5.  policy              | Impact: -0.005512
+ 6.  for                 | Impact: -0.004095
+ 7.  to                  | Impact: -0.002295
+ 8.  -                   | Impact: -0.002054
+ 9. block                | Impact: -0.000248

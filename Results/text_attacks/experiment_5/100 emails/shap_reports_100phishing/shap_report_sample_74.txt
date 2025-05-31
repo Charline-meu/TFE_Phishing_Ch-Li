@@ -1,0 +1,75 @@
+Phishing Sample 74
+==================
+
+Sample text preview: Attn, Compliment of the season. Forgive my indignation if this message come to you as a surprise and if it might offend you without your prior consent...
+
+Model prediction: [1.8115122e-04 9.9981886e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  this                | Impact: 0.027902 → PHISHING
+ 2.  money               | Impact: 0.027902 → PHISHING
+ 3.  in                  | Impact: 0.020553 → PHISHING
+ 4.  your                | Impact: 0.020553 → PHISHING
+ 5.  country             | Impact: 0.020553 → PHISHING
+ 6.  in                  | Impact: 0.017510 → PHISHING
+ 7.  your                | Impact: 0.017510 → PHISHING
+ 8.  country             | Impact: 0.017510 → PHISHING
+ 9.  your                | Impact: 0.016507 → PHISHING
+10.  country             | Impact: 0.015776 → PHISHING
+11.  like                | Impact: 0.015776 → PHISHING
+12.  political           | Impact: 0.009154 → PHISHING
+13.  stable              | Impact: 0.009154 → PHISHING
+14.  compensation        | Impact: 0.008719 → PHISHING
+15.  for                 | Impact: 0.008719 → PHISHING
+16.  your                | Impact: 0.008719 → PHISHING
+17.  assistance          | Impact: 0.008719 → PHISHING
+18.  my                  | Impact: 0.008092 → PHISHING
+19.  lives               | Impact: 0.008092 → PHISHING
+20.  to                  | Impact: 0.007098 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  this                | Impact: 0.027902
+ 2.  money               | Impact: 0.027902
+ 3.  in                  | Impact: 0.020553
+ 4.  your                | Impact: 0.020553
+ 5.  country             | Impact: 0.020553
+ 6.  in                  | Impact: 0.017510
+ 7.  your                | Impact: 0.017510
+ 8.  country             | Impact: 0.017510
+ 9.  your                | Impact: 0.016507
+10.  country             | Impact: 0.015776
+11.  like                | Impact: 0.015776
+12.  political           | Impact: 0.009154
+13.  stable              | Impact: 0.009154
+14.  compensation        | Impact: 0.008719
+15.  for                 | Impact: 0.008719
+16.  your                | Impact: 0.008719
+17.  assistance          | Impact: 0.008719
+18.  my                  | Impact: 0.008092
+19.  lives               | Impact: 0.008092
+20.  to                  | Impact: 0.007098
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.006115
+ 2.  peaceful            | Impact: -0.005722
+ 3. l                    | Impact: -0.005722
+ 4.  and                 | Impact: -0.005722
+ 5.  to                  | Impact: -0.005572
+ 6.  assist              | Impact: -0.005572
+ 7.  suitable            | Impact: -0.005442
+ 8.  percentage          | Impact: -0.005442
+ 9.  .                   | Impact: -0.004943
+10.  compliment          | Impact: -0.004631
+11.  of                  | Impact: -0.004631
+12.  the                 | Impact: -0.004631
+13.  season              | Impact: -0.004631
+14.  ,                   | Impact: -0.002190
+15.  us                  | Impact: -0.002160
+16.  get                 | Impact: -0.002160
+17.  a                   | Impact: -0.002160
+18.  .                   | Impact: -0.002000
+19.  willingly           | Impact: -0.001540
+20.  agree               | Impact: -0.001540

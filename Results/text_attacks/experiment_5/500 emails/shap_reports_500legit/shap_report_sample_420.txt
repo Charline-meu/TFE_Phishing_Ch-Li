@@ -1,0 +1,75 @@
+Sample 420
+==========
+
+Sample text preview: I took a stab at drafting the memo. I pooped out on the last question, however and was only able to jot down some thoughts. Caution: The memo ain't be...
+
+Model prediction: [9.9957889e-01 4.2116604e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  caution             | Impact: -0.003202 → LEGITIMATE
+ 2.  .                   | Impact: -0.002477 → LEGITIMATE
+ 3.  memo                | Impact: -0.002234 → LEGITIMATE
+ 4.  :                   | Impact: -0.002216 → LEGITIMATE
+ 5.  questions           | Impact: -0.002091 → LEGITIMATE
+ 6.  .                   | Impact: -0.002091 → LEGITIMATE
+ 7.  think               | Impact: -0.002022 → LEGITIMATE
+ 8.  .                   | Impact: -0.002007 → LEGITIMATE
+ 9.  been                | Impact: 0.001704 → PHISHING
+10.  .                   | Impact: -0.001650 → LEGITIMATE
+11.  question            | Impact: -0.001573 → LEGITIMATE
+12.  however             | Impact: -0.001502 → LEGITIMATE
+13.  files               | Impact: -0.001382 → LEGITIMATE
+14.  memo                | Impact: -0.001359 → LEGITIMATE
+15.  attach              | Impact: -0.001295 → LEGITIMATE
+16.  .                   | Impact: -0.001239 → LEGITIMATE
+17.  the                 | Impact: -0.001229 → LEGITIMATE
+18.  my                  | Impact: -0.001225 → LEGITIMATE
+19.  plate               | Impact: -0.001225 → LEGITIMATE
+20.  .                   | Impact: -0.001204 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  been                | Impact: 0.001704
+ 2.  ain                 | Impact: 0.000774
+ 3.  days                | Impact: 0.000363
+ 4.  while               | Impact: 0.000363
+ 5.  '                   | Impact: 0.000336
+ 6.  next                | Impact: 0.000261
+ 7.  few                 | Impact: 0.000261
+ 8.  san                 | Impact: 0.000260
+ 9.  francisco           | Impact: 0.000260
+10.  t                   | Impact: 0.000253
+11.  doc                 | Impact: 0.000196
+12.                      | Impact: 0.000159
+13.  as                  | Impact: 0.000156
+14.  needed              | Impact: 0.000156
+15.  .                   | Impact: 0.000156
+16.  also                | Impact: 0.000152
+17.  i                   | Impact: 0.000107
+18.  will                | Impact: 0.000107
+19.  still               | Impact: 0.000107
+20.  help                | Impact: 0.000107
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  caution             | Impact: -0.003202
+ 2.  .                   | Impact: -0.002477
+ 3.  memo                | Impact: -0.002234
+ 4.  :                   | Impact: -0.002216
+ 5.  questions           | Impact: -0.002091
+ 6.  .                   | Impact: -0.002091
+ 7.  think               | Impact: -0.002022
+ 8.  .                   | Impact: -0.002007
+ 9.  .                   | Impact: -0.001650
+10.  question            | Impact: -0.001573
+11.  however             | Impact: -0.001502
+12.  files               | Impact: -0.001382
+13.  memo                | Impact: -0.001359
+14.  attach              | Impact: -0.001295
+15.  .                   | Impact: -0.001239
+16.  the                 | Impact: -0.001229
+17.  my                  | Impact: -0.001225
+18.  plate               | Impact: -0.001225
+19.  .                   | Impact: -0.001204
+20.  drafting            | Impact: -0.001186

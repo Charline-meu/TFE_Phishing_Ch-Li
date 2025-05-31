@@ -1,0 +1,75 @@
+Sample 305
+==========
+
+Sample text preview: > -----Original Message----- > From: Torsten Bronger > Sent: Wednesday, August , : AM > To: > Subject: Re: RPM's %post, %postun etc > > > Halloechen! ...
+
+Model prediction: [9.9976307e-01 2.3690659e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  rpm                 | Impact: -0.006420 → LEGITIMATE
+ 2.  -                   | Impact: -0.006420 → LEGITIMATE
+ 3.  >                   | Impact: -0.006202 → LEGITIMATE
+ 4.  sent                | Impact: -0.006202 → LEGITIMATE
+ 5.  list                | Impact: -0.005341 → LEGITIMATE
+ 6.  >                   | Impact: -0.004445 → LEGITIMATE
+ 7.  >                   | Impact: -0.004445 → LEGITIMATE
+ 8.  stock               | Impact: -0.003486 → LEGITIMATE
+ 9.  :                   | Impact: -0.003428 → LEGITIMATE
+10.  wednesday           | Impact: -0.003428 → LEGITIMATE
+11.  not                 | Impact: -0.003152 → LEGITIMATE
+12.  defined             | Impact: -0.003152 → LEGITIMATE
+13.  list                | Impact: -0.003090 → LEGITIMATE
+14.  rpm                 | Impact: -0.002740 → LEGITIMATE
+15.  -                   | Impact: -0.002740 → LEGITIMATE
+16.  >                   | Impact: -0.002697 → LEGITIMATE
+17.  >                   | Impact: -0.002678 → LEGITIMATE
+18.  >                   | Impact: -0.002671 → LEGITIMATE
+19.  a                   | Impact: -0.002671 → LEGITIMATE
+20.  >                   | Impact: -0.002648 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.000718
+ 2.  can                 | Impact: 0.000650
+ 3.  '                   | Impact: 0.000650
+ 4.  t                   | Impact: 0.000650
+ 5.  _                   | Impact: 0.000546
+ 6.  _                   | Impact: 0.000546
+ 7.  _                   | Impact: 0.000488
+ 8.  _                   | Impact: 0.000488
+ 9.  tor                 | Impact: 0.000463
+10. sten                 | Impact: 0.000463
+11.  bro                 | Impact: 0.000463
+12. nger                 | Impact: 0.000463
+13.  ,                   | Impact: 0.000462
+14.  _                   | Impact: 0.000369
+15.  _                   | Impact: 0.000369
+16.  _                   | Impact: 0.000340
+17.  _                   | Impact: 0.000340
+18.  ,                   | Impact: 0.000228
+19.  _                   | Impact: 0.000134
+20.  _                   | Impact: 0.000134
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  rpm                 | Impact: -0.006420
+ 2.  -                   | Impact: -0.006420
+ 3.  >                   | Impact: -0.006202
+ 4.  sent                | Impact: -0.006202
+ 5.  list                | Impact: -0.005341
+ 6.  >                   | Impact: -0.004445
+ 7.  >                   | Impact: -0.004445
+ 8.  stock               | Impact: -0.003486
+ 9.  :                   | Impact: -0.003428
+10.  wednesday           | Impact: -0.003428
+11.  not                 | Impact: -0.003152
+12.  defined             | Impact: -0.003152
+13.  list                | Impact: -0.003090
+14.  rpm                 | Impact: -0.002740
+15.  -                   | Impact: -0.002740
+16.  >                   | Impact: -0.002697
+17.  >                   | Impact: -0.002678
+18.  >                   | Impact: -0.002671
+19.  a                   | Impact: -0.002671
+20.  >                   | Impact: -0.002648

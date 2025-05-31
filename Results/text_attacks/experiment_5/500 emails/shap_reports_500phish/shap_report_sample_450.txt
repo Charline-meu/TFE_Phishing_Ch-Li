@@ -1,0 +1,75 @@
+Sample 450
+==========
+
+Sample text preview: FROM : MRS ASHIA HASSAN PRAISE ALLAH, THE MOST BENEVOLENT I am the above named person from Kuwait. I am married to Late herina bana of blessed memory ...
+
+Model prediction: [1.8076919e-04 9.9981922e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ben                 | Impact: 0.010603 → PHISHING
+ 2. ef                   | Impact: 0.010603 → PHISHING
+ 3.  married             | Impact: 0.009954 → PHISHING
+ 4.  to                  | Impact: 0.009954 → PHISHING
+ 5.  late                | Impact: 0.009954 → PHISHING
+ 6. icia                 | Impact: 0.009242 → PHISHING
+ 7. ry                   | Impact: 0.009242 → PHISHING
+ 8.  late                | Impact: 0.008936 → PHISHING
+ 9.  husband             | Impact: 0.008936 → PHISHING
+10.  when                | Impact: 0.008253 → PHISHING
+11.  my                  | Impact: 0.008253 → PHISHING
+12.  of                  | Impact: 0.007270 → PHISHING
+13.  this                | Impact: 0.007270 → PHISHING
+14.  fund                | Impact: 0.007270 → PHISHING
+15.  .                   | Impact: 0.007270 → PHISHING
+16.  of                  | Impact: 0.006742 → PHISHING
+17.  blessed             | Impact: 0.006742 → PHISHING
+18.  memory              | Impact: 0.006742 → PHISHING
+19.  who                 | Impact: 0.006742 → PHISHING
+20.  will                | Impact: 0.006609 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ben                 | Impact: 0.010603
+ 2. ef                   | Impact: 0.010603
+ 3.  married             | Impact: 0.009954
+ 4.  to                  | Impact: 0.009954
+ 5.  late                | Impact: 0.009954
+ 6. icia                 | Impact: 0.009242
+ 7. ry                   | Impact: 0.009242
+ 8.  late                | Impact: 0.008936
+ 9.  husband             | Impact: 0.008936
+10.  when                | Impact: 0.008253
+11.  my                  | Impact: 0.008253
+12.  of                  | Impact: 0.007270
+13.  this                | Impact: 0.007270
+14.  fund                | Impact: 0.007270
+15.  .                   | Impact: 0.007270
+16.  of                  | Impact: 0.006742
+17.  blessed             | Impact: 0.006742
+18.  memory              | Impact: 0.006742
+19.  who                 | Impact: 0.006742
+20.  will                | Impact: 0.006609
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  with                | Impact: -0.000588
+ 2.  both                | Impact: -0.000588
+ 3.  cancer              | Impact: -0.000588
+ 4.  and                 | Impact: -0.000588
+ 5.  problems            | Impact: -0.000588
+ 6.  .                   | Impact: -0.000588
+ 7.  fi                  | Impact: -0.000588
+ 8. bro                  | Impact: -0.000588
+ 9. id                   | Impact: -0.000588
+10.  the                 | Impact: -0.000502
+11.  holy                | Impact: -0.000502
+12.  quran               | Impact: -0.000502
+13.  emphasized          | Impact: -0.000502
+14.  so                  | Impact: -0.000502
+15.  much                | Impact: -0.000502
+16.  on                  | Impact: -0.000502
+17.  allah               | Impact: -0.000502
+18.  '                   | Impact: -0.000502
+19.  s                   | Impact: -0.000502
+20.  i                   | Impact: -0.000359

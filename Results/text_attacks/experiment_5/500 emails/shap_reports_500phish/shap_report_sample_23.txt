@@ -1,0 +1,75 @@
+Sample 23
+=========
+
+Sample text preview: FROM THE DESK OF DR.MOHAMMED MUSTAFA DIRECTOR, PROJECT IMPLEMENTATION FEDERAL MINISTRY OF HEALTH AND SOCIAL SERVICES,DAKAR -SENEGAL PHONE: Personal Em...
+
+Model prediction: [1.6117762e-04 9.9983883e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.027772 → PHISHING
+ 2.  account             | Impact: 0.027373 → PHISHING
+ 3.  dear                | Impact: 0.017170 → PHISHING
+ 4.  friend              | Impact: 0.015365 → PHISHING
+ 5.  your                | Impact: 0.013524 → PHISHING
+ 6.  private             | Impact: 0.013524 → PHISHING
+ 7.  tel                 | Impact: 0.013524 → PHISHING
+ 8.  fund                | Impact: 0.011960 → PHISHING
+ 9.  into                | Impact: 0.011960 → PHISHING
+10.  to                  | Impact: 0.011398 → PHISHING
+11.  secure              | Impact: 0.011398 → PHISHING
+12.  letter              | Impact: 0.011364 → PHISHING
+13.  with                | Impact: 0.011364 → PHISHING
+14.  kindly              | Impact: 0.010601 → PHISHING
+15.  into                | Impact: 0.009275 → PHISHING
+16.  your                | Impact: 0.009275 → PHISHING
+17.  account             | Impact: 0.009275 → PHISHING
+18.  thousand            | Impact: 0.009212 → PHISHING
+19.  united              | Impact: 0.009212 → PHISHING
+20.  five                | Impact: 0.008465 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.027772
+ 2.  account             | Impact: 0.027373
+ 3.  dear                | Impact: 0.017170
+ 4.  friend              | Impact: 0.015365
+ 5.  your                | Impact: 0.013524
+ 6.  private             | Impact: 0.013524
+ 7.  tel                 | Impact: 0.013524
+ 8.  fund                | Impact: 0.011960
+ 9.  into                | Impact: 0.011960
+10.  to                  | Impact: 0.011398
+11.  secure              | Impact: 0.011398
+12.  letter              | Impact: 0.011364
+13.  with                | Impact: 0.011364
+14.  kindly              | Impact: 0.010601
+15.  into                | Impact: 0.009275
+16.  your                | Impact: 0.009275
+17.  account             | Impact: 0.009275
+18.  thousand            | Impact: 0.009212
+19.  united              | Impact: 0.009212
+20.  five                | Impact: 0.008465
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  approval            | Impact: -0.002336
+ 2. s                    | Impact: -0.002336
+ 3.  for                 | Impact: -0.002336
+ 4.  the                 | Impact: -0.002336
+ 5.  .                   | Impact: -0.001740
+ 6.  thanks              | Impact: -0.001637
+ 7.  for                 | Impact: -0.001637
+ 8.  for                 | Impact: -0.001226
+ 9.  a                   | Impact: -0.001226
+10.  formal              | Impact: -0.001226
+11.  application         | Impact: -0.001226
+12.                      | Impact: -0.001096
+13.  from                | Impact: -0.001096
+14.  ,                   | Impact: -0.000691
+15.  .                   | Impact: -0.000691
+16.  )                   | Impact: -0.000691
+17.  your                | Impact: -0.000441
+18.  co                  | Impact: -0.000441
+19.  social              | Impact: -0.000247
+20.  services            | Impact: -0.000247

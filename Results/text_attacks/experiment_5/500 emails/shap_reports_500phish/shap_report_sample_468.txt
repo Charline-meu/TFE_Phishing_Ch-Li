@@ -1,0 +1,75 @@
+Sample 468
+==========
+
+Sample text preview: To ensure delivery to your inbox, please add to your address book. Payment Notice | Privacy Promise | Dear USAA Customer, This is to notify you that y...
+
+Model prediction: [1.630245e-04 9.998369e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.039326 → PHISHING
+ 2.  account             | Impact: 0.030392 → PHISHING
+ 3.  please              | Impact: 0.018568 → PHISHING
+ 4.  do                  | Impact: 0.018568 → PHISHING
+ 5.  your                | Impact: 0.017487 → PHISHING
+ 6.  visit               | Impact: 0.017114 → PHISHING
+ 7.  our                 | Impact: 0.017114 → PHISHING
+ 8.  payment             | Impact: 0.014846 → PHISHING
+ 9.  mail                | Impact: 0.013992 → PHISHING
+10.  privacy             | Impact: 0.013840 → PHISHING
+11.  promise             | Impact: 0.013840 → PHISHING
+12.  not                 | Impact: 0.013161 → PHISHING
+13.  reply               | Impact: 0.013161 → PHISHING
+14.  limited             | Impact: 0.012777 → PHISHING
+15.  company             | Impact: 0.011877 → PHISHING
+16.  ,                   | Impact: 0.011877 → PHISHING
+17.  secure              | Impact: 0.011639 → PHISHING
+18.  contact             | Impact: 0.011639 → PHISHING
+19.  page                | Impact: 0.011639 → PHISHING
+20.  to                  | Impact: 0.010528 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.039326
+ 2.  account             | Impact: 0.030392
+ 3.  please              | Impact: 0.018568
+ 4.  do                  | Impact: 0.018568
+ 5.  your                | Impact: 0.017487
+ 6.  visit               | Impact: 0.017114
+ 7.  our                 | Impact: 0.017114
+ 8.  payment             | Impact: 0.014846
+ 9.  mail                | Impact: 0.013992
+10.  privacy             | Impact: 0.013840
+11.  promise             | Impact: 0.013840
+12.  not                 | Impact: 0.013161
+13.  reply               | Impact: 0.013161
+14.  limited             | Impact: 0.012777
+15.  company             | Impact: 0.011877
+16.  ,                   | Impact: 0.011877
+17.  secure              | Impact: 0.011639
+18.  contact             | Impact: 0.011639
+19.  page                | Impact: 0.011639
+20.  to                  | Impact: 0.010528
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  group               | Impact: -0.008972
+ 2.  membership          | Impact: -0.008972
+ 3.  -                   | Impact: -0.007762
+ 4.  &                   | Impact: -0.007207
+ 5.  c                   | Impact: -0.007207
+ 6.  tx                  | Impact: -0.004936
+ 7.  ,                   | Impact: -0.004936
+ 8.  .                   | Impact: -0.004929
+ 9.  texas               | Impact: -0.003008
+10.                      | Impact: -0.002914
+11.  san                 | Impact: -0.002625
+12.  antonio             | Impact: -0.002625
+13.  ,                   | Impact: -0.002625
+14.  persons             | Impact: -0.000781
+15.  eligible            | Impact: -0.000781
+16.  for                 | Impact: -0.000781
+17.  p                   | Impact: -0.000781
+18.  usa                 | Impact: -0.000619
+19. a                    | Impact: -0.000619
+20.  usa                 | Impact: -0.000065

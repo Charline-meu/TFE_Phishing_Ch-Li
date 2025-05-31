@@ -1,0 +1,118 @@
+2025-04-09 12:41:50,275 - INFO - domain_parser.parse() is running
+2025-04-09 12:41:50,449 - INFO - domain_parser.parse() is running
+2025-04-09 12:41:50,619 - INFO - parse written to file: parse_2025-04-09_12-41-50.txt
+2025-04-09 12:41:50,628 - INFO - rule_extraction.extraction() is running
+2025-04-09 12:43:20,187 - INFO - features written to file: extraction_features.txt
+2025-04-09 12:43:20,233 - INFO - arff written to file.
+2025-04-09 12:46:12,202 - INFO - domain_parser.parse() is running
+2025-04-09 12:46:12,202 - INFO - domain_parser.parse() is running
+2025-04-09 12:46:12,303 - INFO - domain_parser.parse() is running
+2025-04-09 12:46:12,303 - INFO - domain_parser.parse() is running
+2025-04-09 12:46:12,421 - INFO - parse written to file: parse_2025-04-09_12-46-12.txt
+2025-04-09 12:46:12,421 - INFO - parse written to file: parse_2025-04-09_12-46-12.txt
+2025-04-09 12:46:12,421 - INFO - rule_extraction.extraction() is running
+2025-04-09 12:46:12,421 - INFO - rule_extraction.extraction() is running
+2025-04-09 12:47:39,181 - INFO - features written to file: extraction_features.txt
+2025-04-09 12:47:39,181 - INFO - features written to file: extraction_features.txt
+2025-04-09 12:47:39,221 - INFO - arff written to file.
+2025-04-09 12:47:39,221 - INFO - arff written to file.
+2025-04-09 12:48:34,809 - INFO - domain_parser.parse() is running
+2025-04-09 12:48:34,809 - INFO - domain_parser.parse() is running
+2025-04-09 12:48:34,884 - INFO - domain_parser.parse() is running
+2025-04-09 12:48:34,884 - INFO - domain_parser.parse() is running
+2025-04-09 12:48:35,027 - INFO - parse written to file: parse_2025-04-09_12-48-34.txt
+2025-04-09 12:48:35,027 - INFO - parse written to file: parse_2025-04-09_12-48-34.txt
+2025-04-09 12:48:35,027 - INFO - rule_extraction.extraction() is running
+2025-04-09 12:48:35,027 - INFO - rule_extraction.extraction() is running
+2025-04-09 12:50:03,066 - INFO - features written to file: extraction_features.txt
+2025-04-09 12:50:03,066 - INFO - features written to file: extraction_features.txt
+2025-04-09 12:50:03,143 - INFO - arff written to file.
+2025-04-09 12:50:03,143 - INFO - arff written to file.
+2025-04-09 12:54:43,799 - INFO - domain_parser.parse() is running
+2025-04-09 12:54:43,799 - INFO - domain_parser.parse() is running
+2025-04-09 12:54:43,873 - INFO - domain_parser.parse() is running
+2025-04-09 12:54:43,873 - INFO - domain_parser.parse() is running
+2025-04-09 12:54:43,988 - INFO - parse written to file: parse_2025-04-09_12-54-43.txt
+2025-04-09 12:54:43,988 - INFO - parse written to file: parse_2025-04-09_12-54-43.txt
+2025-04-09 12:54:43,988 - INFO - rule_extraction.extraction() is running
+2025-04-09 12:54:43,988 - INFO - rule_extraction.extraction() is running
+2025-04-09 12:56:10,516 - INFO - features written to file: extraction_features.txt
+2025-04-09 12:56:10,516 - INFO - features written to file: extraction_features.txt
+2025-04-09 12:56:10,559 - INFO - arff written to file.
+2025-04-09 12:56:10,559 - INFO - arff written to file.
+2025-04-09 13:02:14,135 - INFO - domain_parser.parse() is running
+2025-04-09 13:02:14,135 - INFO - domain_parser.parse() is running
+2025-04-09 13:02:14,223 - INFO - domain_parser.parse() is running
+2025-04-09 13:02:14,223 - INFO - domain_parser.parse() is running
+2025-04-09 13:02:14,336 - INFO - parse written to file: parse_2025-04-09_13-02-14.txt
+2025-04-09 13:02:14,336 - INFO - parse written to file: parse_2025-04-09_13-02-14.txt
+2025-04-09 13:02:14,336 - INFO - rule_extraction.extraction() is running
+2025-04-09 13:02:14,336 - INFO - rule_extraction.extraction() is running
+2025-04-09 13:03:43,642 - INFO - features written to file: extraction_features.txt
+2025-04-09 13:03:43,642 - INFO - features written to file: extraction_features.txt
+2025-04-09 13:03:43,671 - INFO - arff written to file.
+2025-04-09 13:03:43,671 - INFO - arff written to file.
+2025-04-09 13:11:18,989 - ERROR - an error occurred: Traceback (most recent call last):
+  File "C:\Users\lizad\OneDrive\Documents\pdd\src\train.py", line 31, in domain_parser
+    with open(f"{self.path_input}{param[i]}", "r", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'input/input/urls_pub_english_liza_phishing'
+
+2025-04-09 13:11:18,989 - ERROR - an error occurred: Traceback (most recent call last):
+  File "C:\Users\lizad\OneDrive\Documents\pdd\src\train.py", line 31, in domain_parser
+    with open(f"{self.path_input}{param[i]}", "r", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'input/input/urls_pub_english_liza_phishing'
+
+2025-04-09 13:11:18,991 - DEBUG - Error when processing file: input/urls_pub_english_liza_phishing
+2025-04-09 13:11:18,991 - DEBUG - Error when processing file: input/urls_pub_english_liza_phishing
+2025-04-09 13:11:18,991 - ERROR - an error occurred: Traceback (most recent call last):
+  File "C:\Users\lizad\OneDrive\Documents\pdd\src\train.py", line 31, in domain_parser
+    with open(f"{self.path_input}{param[i]}", "r", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'input/input/urls_pub_english_liza_legitimate.json'
+
+2025-04-09 13:11:18,991 - ERROR - an error occurred: Traceback (most recent call last):
+  File "C:\Users\lizad\OneDrive\Documents\pdd\src\train.py", line 31, in domain_parser
+    with open(f"{self.path_input}{param[i]}", "r", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'input/input/urls_pub_english_liza_legitimate.json'
+
+2025-04-09 13:11:18,992 - DEBUG - Error when processing file: input/urls_pub_english_liza_legitimate.json
+2025-04-09 13:11:18,992 - DEBUG - Error when processing file: input/urls_pub_english_liza_legitimate.json
+2025-04-09 13:11:19,000 - INFO - parse written to file: parse_2025-04-09_13-11-18.txt
+2025-04-09 13:11:19,000 - INFO - parse written to file: parse_2025-04-09_13-11-18.txt
+2025-04-09 13:11:19,000 - INFO - rule_extraction.extraction() is running
+2025-04-09 13:11:19,000 - INFO - rule_extraction.extraction() is running
+2025-04-09 13:11:19,011 - INFO - features written to file: extraction_features.txt
+2025-04-09 13:11:19,011 - INFO - features written to file: extraction_features.txt
+2025-04-09 13:12:04,339 - ERROR - an error occurred: Traceback (most recent call last):
+  File "C:\Users\lizad\OneDrive\Documents\pdd\src\train.py", line 31, in domain_parser
+    with open(f"{self.path_input}{param[i]}", "r", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'input/input/urls_pub_english_liza_legitimate.json'
+
+2025-04-09 13:12:04,339 - ERROR - an error occurred: Traceback (most recent call last):
+  File "C:\Users\lizad\OneDrive\Documents\pdd\src\train.py", line 31, in domain_parser
+    with open(f"{self.path_input}{param[i]}", "r", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'input/input/urls_pub_english_liza_legitimate.json'
+
+2025-04-09 13:12:04,341 - DEBUG - Error when processing file: input/urls_pub_english_liza_legitimate.json
+2025-04-09 13:12:04,341 - DEBUG - Error when processing file: input/urls_pub_english_liza_legitimate.json
+2025-04-09 13:12:04,349 - INFO - parse written to file: parse_2025-04-09_13-12-04.txt
+2025-04-09 13:12:04,349 - INFO - parse written to file: parse_2025-04-09_13-12-04.txt
+2025-04-09 13:12:04,351 - INFO - rule_extraction.extraction() is running
+2025-04-09 13:12:04,351 - INFO - rule_extraction.extraction() is running
+2025-04-09 13:12:04,359 - INFO - features written to file: extraction_features.txt
+2025-04-09 13:12:04,359 - INFO - features written to file: extraction_features.txt
+2025-04-09 13:12:37,699 - INFO - domain_parser.parse() is running
+2025-04-09 13:12:37,699 - INFO - domain_parser.parse() is running
+2025-04-09 13:12:39,395 - INFO - parse written to file: parse_2025-04-09_13-12-38.txt
+2025-04-09 13:12:39,395 - INFO - parse written to file: parse_2025-04-09_13-12-38.txt
+2025-04-09 13:12:39,395 - INFO - rule_extraction.extraction() is running
+2025-04-09 13:12:39,395 - INFO - rule_extraction.extraction() is running
+2025-04-09 13:29:35,129 - INFO - features written to file: extraction_features.txt
+2025-04-09 13:29:35,129 - INFO - features written to file: extraction_features.txt
+2025-04-09 13:29:36,238 - INFO - arff written to file.
+2025-04-09 13:29:36,238 - INFO - arff written to file.

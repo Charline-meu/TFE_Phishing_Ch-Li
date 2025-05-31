@@ -1,0 +1,75 @@
+Sample 196
+==========
+
+Sample text preview: We're writing to let youkn message ow that we detected something unusual aboutre smile cent sign-in to yourCh there aseOn federal linedep soldier osit...
+
+Model prediction: [4.8231822e-04 9.9951768e-01]
+Predicted class: PHISHING with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sincerely           | Impact: 0.026502 → PHISHING
+ 2.  firm                | Impact: 0.020886 → PHISHING
+ 3. i                    | Impact: 0.020886 → PHISHING
+ 4.  hotel               | Impact: 0.020886 → PHISHING
+ 5.  you                 | Impact: 0.012519 → PHISHING
+ 6. k                    | Impact: 0.012519 → PHISHING
+ 7.  ,                   | Impact: 0.011689 → PHISHING
+ 8.  your                | Impact: 0.009098 → PHISHING
+ 9. a                    | Impact: 0.009098 → PHISHING
+10.  hot                 | Impact: 0.009098 → PHISHING
+11.  to                  | Impact: 0.008813 → PHISHING
+12. co                   | Impact: 0.008813 → PHISHING
+13.  car                 | Impact: 0.008813 → PHISHING
+14.  n                   | Impact: 0.008813 → PHISHING
+15. firm                 | Impact: 0.008813 → PHISHING
+16.  your                | Impact: 0.008583 → PHISHING
+17. ac                   | Impact: 0.008583 → PHISHING
+18. c                    | Impact: 0.008583 → PHISHING
+19.  hour                | Impact: 0.008583 → PHISHING
+20.  soldier             | Impact: 0.008451 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sincerely           | Impact: 0.026502
+ 2.  firm                | Impact: 0.020886
+ 3. i                    | Impact: 0.020886
+ 4.  hotel               | Impact: 0.020886
+ 5.  you                 | Impact: 0.012519
+ 6. k                    | Impact: 0.012519
+ 7.  ,                   | Impact: 0.011689
+ 8.  your                | Impact: 0.009098
+ 9. a                    | Impact: 0.009098
+10.  hot                 | Impact: 0.009098
+11.  to                  | Impact: 0.008813
+12. co                   | Impact: 0.008813
+13.  car                 | Impact: 0.008813
+14.  n                   | Impact: 0.008813
+15. firm                 | Impact: 0.008813
+16.  your                | Impact: 0.008583
+17. ac                   | Impact: 0.008583
+18. c                    | Impact: 0.008583
+19.  hour                | Impact: 0.008583
+20.  soldier             | Impact: 0.008451
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  )                   | Impact: -0.004552
+ 2.  (                   | Impact: -0.002462
+ 3.  co                  | Impact: -0.002462
+ 4. o                    | Impact: -0.002462
+ 5.  say                 | Impact: -0.002462
+ 6.  door                | Impact: -0.002276
+ 7.  owing               | Impact: -0.002276
+ 8.  link                | Impact: -0.002276
+ 9.  on                  | Impact: -0.001884
+10.  your                | Impact: -0.001884
+11.  browser             | Impact: -0.001884
+12.  .                   | Impact: -0.001884
+13.  dent                | Impact: -0.001852
+14. ity                  | Impact: -0.001852
+15.  note                | Impact: -0.001852
+16.  :                   | Impact: -0.001852
+17.  this                | Impact: -0.001753
+18. up                   | Impact: -0.001753
+19. da                   | Impact: -0.001753
+20.  figure              | Impact: -0.001753

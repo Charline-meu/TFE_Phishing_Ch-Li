@@ -1,0 +1,75 @@
+Sample 299
+==========
+
+Sample text preview: PHONE:+ - NAME :JAMES NZAMA Attention president/ceo. Your contact was made possible by your country's Trade Journal at the World Trade Centre here in ...
+
+Model prediction: [1.8294674e-04 9.9981707e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  father              | Impact: 0.015354 → PHISHING
+ 2.  was                 | Impact: 0.015354 → PHISHING
+ 3.  mr                  | Impact: 0.012526 → PHISHING
+ 4.  of                  | Impact: 0.010821 → PHISHING
+ 5.  late                | Impact: 0.010821 → PHISHING
+ 6.  the                 | Impact: 0.010554 → PHISHING
+ 7.  son                 | Impact: 0.010554 → PHISHING
+ 8.  my                  | Impact: 0.010005 → PHISHING
+ 9.  late                | Impact: 0.010005 → PHISHING
+10.  zimbabwe            | Impact: 0.007558 → PHISHING
+11. an                   | Impact: 0.007558 → PHISHING
+12.  who                 | Impact: 0.007231 → PHISHING
+13.  was                 | Impact: 0.007231 → PHISHING
+14.  recently            | Impact: 0.007231 → PHISHING
+15.  murdered            | Impact: 0.007231 → PHISHING
+16.  rich                | Impact: 0.006608 → PHISHING
+17.  farmers             | Impact: 0.006608 → PHISHING
+18.  murdered            | Impact: 0.005940 → PHISHING
+19.  in                  | Impact: 0.005940 → PHISHING
+20.  cold                | Impact: 0.005940 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  father              | Impact: 0.015354
+ 2.  was                 | Impact: 0.015354
+ 3.  mr                  | Impact: 0.012526
+ 4.  of                  | Impact: 0.010821
+ 5.  late                | Impact: 0.010821
+ 6.  the                 | Impact: 0.010554
+ 7.  son                 | Impact: 0.010554
+ 8.  my                  | Impact: 0.010005
+ 9.  late                | Impact: 0.010005
+10.  zimbabwe            | Impact: 0.007558
+11. an                   | Impact: 0.007558
+12.  who                 | Impact: 0.007231
+13.  was                 | Impact: 0.007231
+14.  recently            | Impact: 0.007231
+15.  murdered            | Impact: 0.007231
+16.  rich                | Impact: 0.006608
+17.  farmers             | Impact: 0.006608
+18.  murdered            | Impact: 0.005940
+19.  in                  | Impact: 0.005940
+20.  cold                | Impact: 0.005940
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  trade               | Impact: -0.002260
+ 2.  journal             | Impact: -0.002260
+ 3.  at                  | Impact: -0.002260
+ 4.  the                 | Impact: -0.002260
+ 5.  the                 | Impact: -0.001196
+ 6.  sum                 | Impact: -0.001196
+ 7.  of                  | Impact: -0.001196
+ 8.  us                  | Impact: -0.001196
+ 9.  $                   | Impact: -0.001196
+10.  as                  | Impact: -0.000027
+11.  a                   | Impact: -0.000027
+12.  businessman         | Impact: -0.000027
+13.  whom                | Impact: -0.000027
+14.  i                   | Impact: -0.000027
+15.  must                | Impact: -0.000027
+16.  en                  | Impact: -0.000027
+17. trust                | Impact: -0.000027
+18.  my                  | Impact: -0.000027
+19.  future              | Impact: -0.000027
+20.  and                 | Impact: -0.000027

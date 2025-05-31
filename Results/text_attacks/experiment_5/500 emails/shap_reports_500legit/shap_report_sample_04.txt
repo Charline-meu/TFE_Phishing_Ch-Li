@@ -1,0 +1,75 @@
+Sample 4
+========
+
+Sample text preview: Folks: Here are my edits. For simplicity, I accepted all the other changes and put mine in strike-out-underline. They are confined to the direct acces...
+
+Model prediction: [9.9943429e-01 5.6568853e-04]
+Predicted class: LEGITIMATE with 0.9994 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  folks               | Impact: 0.006262 → PHISHING
+ 2.  simplicity          | Impact: -0.004622 → LEGITIMATE
+ 3.  :                   | Impact: -0.003656 → LEGITIMATE
+ 4.  '                   | Impact: 0.002875 → PHISHING
+ 5.  prepared            | Impact: -0.002488 → LEGITIMATE
+ 6.  i                   | Impact: 0.002110 → PHISHING
+ 7.  instead             | Impact: -0.001933 → LEGITIMATE
+ 8.  jeff                | Impact: 0.001881 → PHISHING
+ 9.  edit                | Impact: -0.001729 → LEGITIMATE
+10.  to                  | Impact: -0.001458 → LEGITIMATE
+11.  other               | Impact: -0.001456 → LEGITIMATE
+12.  changes             | Impact: -0.001456 → LEGITIMATE
+13.  effect              | Impact: -0.001386 → LEGITIMATE
+14.  ,                   | Impact: -0.001361 → LEGITIMATE
+15.  the                 | Impact: -0.001350 → LEGITIMATE
+16.  effort              | Impact: -0.001350 → LEGITIMATE
+17.  .                   | Impact: -0.001189 → LEGITIMATE
+18.  m                   | Impact: 0.001152 → PHISHING
+19.  not                 | Impact: 0.001152 → PHISHING
+20.  backs               | Impact: -0.001072 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  folks               | Impact: 0.006262
+ 2.  '                   | Impact: 0.002875
+ 3.  i                   | Impact: 0.002110
+ 4.  jeff                | Impact: 0.001881
+ 5.  m                   | Impact: 0.001152
+ 6.  not                 | Impact: 0.001152
+ 7.  ,                   | Impact: 0.000906
+ 8.  i                   | Impact: 0.000772
+ 9.  '                   | Impact: 0.000772
+10.  d                   | Impact: 0.000559
+11.  request             | Impact: 0.000559
+12.  ,                   | Impact: 0.000266
+13.  ,                   | Impact: 0.000224
+14.  i                   | Impact: 0.000173
+15.  .                   | Impact: 0.000173
+16.  e                   | Impact: 0.000173
+17.  .                   | Impact: 0.000173
+18.  ,                   | Impact: 0.000143
+19.  that                | Impact: 0.000082
+20.  we                  | Impact: 0.000082
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  simplicity          | Impact: -0.004622
+ 2.  :                   | Impact: -0.003656
+ 3.  prepared            | Impact: -0.002488
+ 4.  instead             | Impact: -0.001933
+ 5.  edit                | Impact: -0.001729
+ 6.  to                  | Impact: -0.001458
+ 7.  other               | Impact: -0.001456
+ 8.  changes             | Impact: -0.001456
+ 9.  effect              | Impact: -0.001386
+10.  ,                   | Impact: -0.001361
+11.  the                 | Impact: -0.001350
+12.  effort              | Impact: -0.001350
+13.  .                   | Impact: -0.001189
+14.  backs               | Impact: -0.001072
+15. top                  | Impact: -0.001072
+16.  ,                   | Impact: -0.001072
+17.  for                 | Impact: -0.001017
+18.  all                 | Impact: -0.001017
+19.  and                 | Impact: -0.000939
+20.  ,                   | Impact: -0.000903

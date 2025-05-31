@@ -1,0 +1,75 @@
+Sample 211
+==========
+
+Sample text preview: [Image of Large Cutting Board]( [Large Cutting Board]( [Image of Big Night Check Placemat]( [Big Night Check Placemat]( [Image of Bistrot Flatware Set...
+
+Model prediction: [9.9968326e-01 3.1681184e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  brooklyn            | Impact: 0.003960 → PHISHING
+ 2.  ]                   | Impact: -0.002795 → LEGITIMATE
+ 3.  york                | Impact: 0.002274 → PHISHING
+ 4.  [                   | Impact: -0.002115 → LEGITIMATE
+ 5.  new                 | Impact: 0.001892 → PHISHING
+ 6.  emails              | Impact: -0.001205 → LEGITIMATE
+ 7.  [                   | Impact: -0.001199 → LEGITIMATE
+ 8.  (                   | Impact: -0.001171 → LEGITIMATE
+ 9.  [                   | Impact: -0.000907 → LEGITIMATE
+10.  [                   | Impact: -0.000903 → LEGITIMATE
+11. su                   | Impact: -0.000893 → LEGITIMATE
+12.  ]                   | Impact: -0.000846 → LEGITIMATE
+13.  ]                   | Impact: -0.000821 → LEGITIMATE
+14.  ]                   | Impact: -0.000815 → LEGITIMATE
+15.  [                   | Impact: -0.000814 → LEGITIMATE
+16.  un                  | Impact: -0.000813 → LEGITIMATE
+17.  ]                   | Impact: -0.000787 → LEGITIMATE
+18.  ]                   | Impact: -0.000781 → LEGITIMATE
+19.  .                   | Impact: -0.000746 → LEGITIMATE
+20.  ]                   | Impact: -0.000739 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  brooklyn            | Impact: 0.003960
+ 2.  york                | Impact: 0.002274
+ 3.  new                 | Impact: 0.001892
+ 4.  of                  | Impact: 0.000539
+ 5.  night               | Impact: 0.000513
+ 6.  &                   | Impact: 0.000443
+ 7.  island              | Impact: 0.000359
+ 8.  &                   | Impact: 0.000268
+ 9.  of                  | Impact: 0.000251
+10.  of                  | Impact: 0.000247
+11.  night               | Impact: 0.000212
+12.  big                 | Impact: 0.000194
+13. cloth                | Impact: 0.000112
+14.  image               | Impact: 0.000109
+15. ibe                  | Impact: 0.000091
+16.  (                   | Impact: 0.000074
+17.  bees                | Impact: 0.000065
+18. wa                   | Impact: 0.000065
+19.  of                  | Impact: 0.000047
+20.  large               | Impact: 0.000041
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ]                   | Impact: -0.002795
+ 2.  [                   | Impact: -0.002115
+ 3.  emails              | Impact: -0.001205
+ 4.  [                   | Impact: -0.001199
+ 5.  (                   | Impact: -0.001171
+ 6.  [                   | Impact: -0.000907
+ 7.  [                   | Impact: -0.000903
+ 8. su                   | Impact: -0.000893
+ 9.  ]                   | Impact: -0.000846
+10.  ]                   | Impact: -0.000821
+11.  ]                   | Impact: -0.000815
+12.  [                   | Impact: -0.000814
+13.  un                  | Impact: -0.000813
+14.  ]                   | Impact: -0.000787
+15.  ]                   | Impact: -0.000781
+16.  .                   | Impact: -0.000746
+17.  ]                   | Impact: -0.000739
+18.  [                   | Impact: -0.000716
+19.  [                   | Impact: -0.000706
+20.  want                | Impact: -0.000688

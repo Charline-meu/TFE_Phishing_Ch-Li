@@ -1,0 +1,75 @@
+Phishing Sample 79
+==================
+
+Sample text preview: On Wed, Sep , at ::PM -, David Raistrick wrote: > On Wed, Sep , Stephane Lentz wrote: > > > => I faced a similar problem with the FreeBSD when trying ...
+
+Model prediction: [9.9977463e-01 2.2534994e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wed                 | Impact: 0.015323 → PHISHING
+ 2.  :                   | Impact: -0.009356 → LEGITIMATE
+ 3.  pm                  | Impact: -0.009356 → LEGITIMATE
+ 4.  at                  | Impact: -0.008162 → LEGITIMATE
+ 5.  :                   | Impact: -0.007088 → LEGITIMATE
+ 6.  ,                   | Impact: 0.006834 → PHISHING
+ 7.  wrote               | Impact: -0.006706 → LEGITIMATE
+ 8.  :                   | Impact: -0.006706 → LEGITIMATE
+ 9.  -                   | Impact: -0.005932 → LEGITIMATE
+10.  >                   | Impact: -0.004398 → LEGITIMATE
+11.  >                   | Impact: -0.004360 → LEGITIMATE
+12.  internet            | Impact: -0.003776 → LEGITIMATE
+13.  sep                 | Impact: -0.003745 → LEGITIMATE
+14.  >                   | Impact: -0.003637 → LEGITIMATE
+15.  on                  | Impact: -0.003637 → LEGITIMATE
+16.  wed                 | Impact: -0.003637 → LEGITIMATE
+17.  -                   | Impact: -0.003216 → LEGITIMATE
+18.  services            | Impact: -0.003021 → LEGITIMATE
+19.  ,                   | Impact: -0.002988 → LEGITIMATE
+20.  stephane            | Impact: 0.002755 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  wed                 | Impact: 0.015323
+ 2.  ,                   | Impact: 0.006834
+ 3.  stephane            | Impact: 0.002755
+ 4.                      | Impact: 0.002680
+ 5.  on                  | Impact: 0.002680
+ 6.  _                   | Impact: 0.000866
+ 7.  _                   | Impact: 0.000866
+ 8.  _                   | Impact: 0.000866
+ 9.  _                   | Impact: 0.000866
+10.  ,                   | Impact: 0.000813
+11.  _                   | Impact: 0.000743
+12.  _                   | Impact: 0.000743
+13.  _                   | Impact: 0.000743
+14.  _                   | Impact: 0.000743
+15.  al                  | Impact: 0.000527
+16. can                  | Impact: 0.000527
+17. et                   | Impact: 0.000527
+18.  international       | Impact: 0.000283
+19.  -                   | Impact: 0.000283
+20.  .                   | Impact: 0.000262
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.009356
+ 2.  pm                  | Impact: -0.009356
+ 3.  at                  | Impact: -0.008162
+ 4.  :                   | Impact: -0.007088
+ 5.  wrote               | Impact: -0.006706
+ 6.  :                   | Impact: -0.006706
+ 7.  -                   | Impact: -0.005932
+ 8.  >                   | Impact: -0.004398
+ 9.  >                   | Impact: -0.004360
+10.  internet            | Impact: -0.003776
+11.  sep                 | Impact: -0.003745
+12.  >                   | Impact: -0.003637
+13.  on                  | Impact: -0.003637
+14.  wed                 | Impact: -0.003637
+15.  -                   | Impact: -0.003216
+16.  services            | Impact: -0.003021
+17.  ,                   | Impact: -0.002988
+18.  similar             | Impact: -0.002592
+19.  problem             | Impact: -0.002592
+20.  -                   | Impact: -0.002294

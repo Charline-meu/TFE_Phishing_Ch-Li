@@ -1,0 +1,75 @@
+Sample 260
+==========
+
+Sample text preview: If you're not in Doolin, beg, borrow, or steal your way there before the LBW folk depart. It's far too much fun. Cheers, Waider. Just back. -- / Yes, ...
+
+Model prediction: [9.9949396e-01 5.0597306e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.007810 → LEGITIMATE
+ 2.  maintain            | Impact: -0.005860 → LEGITIMATE
+ 3.  .                   | Impact: -0.005594 → LEGITIMATE
+ 4.  says                | Impact: -0.004967 → LEGITIMATE
+ 5.  if                  | Impact: -0.004964 → LEGITIMATE
+ 6.  .                   | Impact: -0.004247 → LEGITIMATE
+ 7.  -                   | Impact: -0.003971 → LEGITIMATE
+ 8.  "                   | Impact: -0.003854 → LEGITIMATE
+ 9. er                   | Impact: -0.003589 → LEGITIMATE
+10.  beg                 | Impact: 0.003572 → PHISHING
+11.  .                   | Impact: -0.003553 → LEGITIMATE
+12.  ,                   | Impact: 0.003242 → PHISHING
+13.  /                   | Impact: 0.002902 → PHISHING
+14.  i                   | Impact: -0.002836 → LEGITIMATE
+15.  way                 | Impact: -0.002789 → LEGITIMATE
+16.  .                   | Impact: -0.002670 → LEGITIMATE
+17.  much                | Impact: -0.002603 → LEGITIMATE
+18.  fun                 | Impact: -0.002603 → LEGITIMATE
+19.  probably            | Impact: -0.002596 → LEGITIMATE
+20.  realize             | Impact: 0.002531 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  beg                 | Impact: 0.003572
+ 2.  ,                   | Impact: 0.003242
+ 3.  /                   | Impact: 0.002902
+ 4.  realize             | Impact: 0.002531
+ 5.  is                  | Impact: 0.002433
+ 6.  it                  | Impact: 0.002276
+ 7.  /                   | Impact: 0.002074
+ 8.  truly               | Impact: 0.001874
+ 9.  before              | Impact: 0.001711
+10.  doomed              | Impact: 0.001690
+11.  and                 | Impact: 0.001667
+12.  they                | Impact: 0.001293
+13.  that                | Impact: 0.001270
+14.  now                 | Impact: 0.001016
+15.  s                   | Impact: 0.000817
+16.  if                  | Impact: 0.000799
+17.  in                  | Impact: 0.000766
+18.  /                   | Impact: 0.000603
+19.  that                | Impact: 0.000515
+20.  .                   | Impact: 0.000493
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.007810
+ 2.  maintain            | Impact: -0.005860
+ 3.  .                   | Impact: -0.005594
+ 4.  says                | Impact: -0.004967
+ 5.  if                  | Impact: -0.004964
+ 6.  .                   | Impact: -0.004247
+ 7.  -                   | Impact: -0.003971
+ 8.  "                   | Impact: -0.003854
+ 9. er                   | Impact: -0.003589
+10.  .                   | Impact: -0.003553
+11.  i                   | Impact: -0.002836
+12.  way                 | Impact: -0.002789
+13.  .                   | Impact: -0.002670
+14.  much                | Impact: -0.002603
+15.  fun                 | Impact: -0.002603
+16.  probably            | Impact: -0.002596
+17.  "                   | Impact: -0.002280
+18.  un                  | Impact: -0.002276
+19.  ,                   | Impact: -0.002182
+20.  list                | Impact: -0.002135

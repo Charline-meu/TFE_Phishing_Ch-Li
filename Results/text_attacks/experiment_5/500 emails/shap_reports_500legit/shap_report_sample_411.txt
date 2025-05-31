@@ -1,0 +1,75 @@
+Sample 411
+==========
+
+Sample text preview: On Fri, Oct :: - Ben Liblit wrote: > So if your fonts look ugly, lack of bytecode hinting is *not* the cause. Well you are right, sorry, I didn't have...
+
+Model prediction: [9.9977714e-01 2.2281347e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  matthias            | Impact: -0.012365 → LEGITIMATE
+ 2.  rpm                 | Impact: -0.010091 → LEGITIMATE
+ 3.  mail                | Impact: 0.007282 → PHISHING
+ 4.  .                   | Impact: -0.004285 → LEGITIMATE
+ 5.  list                | Impact: 0.004027 → PHISHING
+ 6. ing                  | Impact: 0.003731 → PHISHING
+ 7.  *                   | Impact: 0.003493 → PHISHING
+ 8.  disabled            | Impact: 0.003182 → PHISHING
+ 9.  not                 | Impact: 0.002858 → PHISHING
+10.  list                | Impact: -0.002674 → LEGITIMATE
+11.  _                   | Impact: 0.002241 → PHISHING
+12.  germany             | Impact: -0.002207 → LEGITIMATE
+13.  _                   | Impact: -0.002136 → LEGITIMATE
+14.  if                  | Impact: -0.002131 → LEGITIMATE
+15.  _                   | Impact: 0.002045 → PHISHING
+16. sing                 | Impact: -0.002017 → LEGITIMATE
+17. alia                 | Impact: -0.001980 → LEGITIMATE
+18.  byte                | Impact: -0.001852 → LEGITIMATE
+19.  _                   | Impact: 0.001804 → PHISHING
+20.  _                   | Impact: 0.001804 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mail                | Impact: 0.007282
+ 2.  list                | Impact: 0.004027
+ 3. ing                  | Impact: 0.003731
+ 4.  *                   | Impact: 0.003493
+ 5.  disabled            | Impact: 0.003182
+ 6.  not                 | Impact: 0.002858
+ 7.  _                   | Impact: 0.002241
+ 8.  _                   | Impact: 0.002045
+ 9.  _                   | Impact: 0.001804
+10.  _                   | Impact: 0.001804
+11.  this                | Impact: 0.001593
+12.  regards             | Impact: 0.001484
+13.  _                   | Impact: 0.001383
+14.  _                   | Impact: 0.001383
+15.  from                | Impact: 0.001379
+16.  is                  | Impact: 0.001312
+17.  is                  | Impact: 0.001082
+18.  _                   | Impact: 0.000990
+19.  _                   | Impact: 0.000990
+20.  _                   | Impact: 0.000724
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  matthias            | Impact: -0.012365
+ 2.  rpm                 | Impact: -0.010091
+ 3.  .                   | Impact: -0.004285
+ 4.  list                | Impact: -0.002674
+ 5.  germany             | Impact: -0.002207
+ 6.  _                   | Impact: -0.002136
+ 7.  if                  | Impact: -0.002131
+ 8. sing                 | Impact: -0.002017
+ 9. alia                 | Impact: -0.001980
+10.  byte                | Impact: -0.001852
+11.  anti                | Impact: -0.001782
+12.  hint                | Impact: -0.001631
+13. ing                  | Impact: -0.001472
+14. code                 | Impact: -0.001368
+15.  on                  | Impact: -0.001157
+16. i                    | Impact: -0.001007
+17.  sorry               | Impact: -0.001006
+18.  difficult           | Impact: -0.000895
+19.  fr                  | Impact: -0.000846
+20.  -                   | Impact: -0.000817

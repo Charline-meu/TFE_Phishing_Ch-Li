@@ -1,0 +1,64 @@
+Sample 201
+==========
+
+Sample text preview: Dear Customer, Your parcel have arrived our office, Our courier was unable to deliver the parcel to you due to wrong or invalid delivery information. ...
+
+Model prediction: [2.0236683e-04 9.9979764e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.108342 → PHISHING
+ 2.  download            | Impact: 0.069696 → PHISHING
+ 3.  courier             | Impact: 0.046296 → PHISHING
+ 4.  |                   | Impact: 0.044357 → PHISHING
+ 5.  deliver             | Impact: 0.036940 → PHISHING
+ 6.  our                 | Impact: 0.035805 → PHISHING
+ 7.  your                | Impact: 0.034076 → PHISHING
+ 8.  free                | Impact: 0.033299 → PHISHING
+ 9.  parcel              | Impact: 0.033161 → PHISHING
+10.  express             | Impact: 0.032450 → PHISHING
+11.  arrived             | Impact: 0.029497 → PHISHING
+12.  parcel              | Impact: 0.029296 → PHISHING
+13. ry                   | Impact: -0.028514 → LEGITIMATE
+14.  delivery            | Impact: 0.028471 → PHISHING
+15.  download            | Impact: 0.028414 → PHISHING
+16.  dh                  | Impact: 0.028023 → PHISHING
+17.  you                 | Impact: 0.026958 → PHISHING
+18.  your                | Impact: 0.022113 → PHISHING
+19.  invalid             | Impact: 0.020919 → PHISHING
+20.  receive             | Impact: 0.020559 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.108342
+ 2.  download            | Impact: 0.069696
+ 3.  courier             | Impact: 0.046296
+ 4.  |                   | Impact: 0.044357
+ 5.  deliver             | Impact: 0.036940
+ 6.  our                 | Impact: 0.035805
+ 7.  your                | Impact: 0.034076
+ 8.  free                | Impact: 0.033299
+ 9.  parcel              | Impact: 0.033161
+10.  express             | Impact: 0.032450
+11.  arrived             | Impact: 0.029497
+12.  parcel              | Impact: 0.029296
+13.  delivery            | Impact: 0.028471
+14.  download            | Impact: 0.028414
+15.  dh                  | Impact: 0.028023
+16.  you                 | Impact: 0.026958
+17.  your                | Impact: 0.022113
+18.  invalid             | Impact: 0.020919
+19.  receive             | Impact: 0.020559
+20.  kindly              | Impact: 0.019365
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ry                   | Impact: -0.028514
+ 2.  or                  | Impact: -0.016944
+ 3. iv                   | Impact: -0.005632
+ 4.  ,                   | Impact: -0.002489
+ 5.  customer            | Impact: -0.001739
+ 6.  ,                   | Impact: -0.000972
+ 7.  service             | Impact: -0.000727
+ 8.  the                 | Impact: -0.000368
+ 9.  del                 | Impact: -0.000219

@@ -1,0 +1,75 @@
+Phishing Sample 53
+==================
+
+Sample text preview: ------------------------ New month, new releases! ------------------------ Explore the latest from TryHackMe, including new walkthroughs, challenges, ...
+
+Model prediction: [0.99827206 0.00172796]
+Predicted class: LEGITIMATE with 0.9983 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  training            | Impact: -0.001122 → LEGITIMATE
+ 2.  content             | Impact: -0.001122 → LEGITIMATE
+ 3.  (                   | Impact: -0.001122 → LEGITIMATE
+ 4.  )                   | Impact: -0.001122 → LEGITIMATE
+ 5.  ,                   | Impact: -0.001122 → LEGITIMATE
+ 6.  →                   | Impact: -0.000731 → LEGITIMATE
+ 7.  (                   | Impact: -0.000731 → LEGITIMATE
+ 8.  )                   | Impact: -0.000731 → LEGITIMATE
+ 9.  read                | Impact: -0.000731 → LEGITIMATE
+10.  more                | Impact: -0.000731 → LEGITIMATE
+11.  (                   | Impact: -0.000731 → LEGITIMATE
+12.  )                   | Impact: -0.000731 → LEGITIMATE
+13.  *                   | Impact: -0.000731 → LEGITIMATE
+14.  *                   | Impact: -0.000731 → LEGITIMATE
+15.  *                   | Impact: -0.000731 → LEGITIMATE
+16.  *                   | Impact: -0.000731 → LEGITIMATE
+17.  *                   | Impact: -0.000731 → LEGITIMATE
+18.  *                   | Impact: -0.000731 → LEGITIMATE
+19.  *                   | Impact: -0.000731 → LEGITIMATE
+20.  *                   | Impact: -0.000731 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.000377
+ 2.  won                 | Impact: 0.000377
+ 3.  ’                   | Impact: 0.000377
+ 4.  t                   | Impact: 0.000377
+ 5.                      | Impact: 0.000304
+ 6.  *                   | Impact: 0.000304
+ 7.  *                   | Impact: 0.000304
+ 8.  *                   | Impact: 0.000304
+ 9.  *                   | Impact: 0.000304
+10.  *                   | Impact: 0.000304
+11.  *                   | Impact: 0.000304
+12.  *                   | Impact: 0.000304
+13.  *                   | Impact: 0.000254
+14.  *                   | Impact: 0.000254
+15.  *                   | Impact: 0.000254
+16.  *                   | Impact: 0.000254
+17.  *                   | Impact: 0.000254
+18.  *                   | Impact: 0.000254
+19.  *                   | Impact: 0.000254
+20.  *                   | Impact: 0.000254
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  training            | Impact: -0.001122
+ 2.  content             | Impact: -0.001122
+ 3.  (                   | Impact: -0.001122
+ 4.  )                   | Impact: -0.001122
+ 5.  ,                   | Impact: -0.001122
+ 6.  →                   | Impact: -0.000731
+ 7.  (                   | Impact: -0.000731
+ 8.  )                   | Impact: -0.000731
+ 9.  read                | Impact: -0.000731
+10.  more                | Impact: -0.000731
+11.  (                   | Impact: -0.000731
+12.  )                   | Impact: -0.000731
+13.  *                   | Impact: -0.000731
+14.  *                   | Impact: -0.000731
+15.  *                   | Impact: -0.000731
+16.  *                   | Impact: -0.000731
+17.  *                   | Impact: -0.000731
+18.  *                   | Impact: -0.000731
+19.  *                   | Impact: -0.000731
+20.  *                   | Impact: -0.000731

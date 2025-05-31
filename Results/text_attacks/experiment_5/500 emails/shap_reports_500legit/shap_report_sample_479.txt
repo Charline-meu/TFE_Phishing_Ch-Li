@@ -1,0 +1,75 @@
+Sample 479
+==========
+
+Sample text preview: _____________________DAVID COURSEY_____________________ WHY THE RIAA OWES US ALL AN APOLOGY When recording industry types last week tried to get provi...
+
+Model prediction: [9.9964547e-01 3.5448076e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  news                | Impact: -0.001995 → LEGITIMATE
+ 2.  analysis            | Impact: -0.001995 → LEGITIMATE
+ 3.  '                   | Impact: 0.001485 → PHISHING
+ 4.  _                   | Impact: -0.001470 → LEGITIMATE
+ 5.  _                   | Impact: -0.001470 → LEGITIMATE
+ 6.  who                 | Impact: 0.001412 → PHISHING
+ 7.  a                   | Impact: -0.000790 → LEGITIMATE
+ 8.  good                | Impact: -0.000790 → LEGITIMATE
+ 9.  utility             | Impact: -0.000790 → LEGITIMATE
+10.  and                 | Impact: -0.000766 → LEGITIMATE
+11.  trade               | Impact: -0.000766 → LEGITIMATE
+12.  films               | Impact: -0.000766 → LEGITIMATE
+13.  and                 | Impact: -0.000766 → LEGITIMATE
+14.  videos              | Impact: -0.000766 → LEGITIMATE
+15.  on                  | Impact: -0.000766 → LEGITIMATE
+16.  your                | Impact: -0.000766 → LEGITIMATE
+17.  pc                  | Impact: -0.000766 → LEGITIMATE
+18.  .                   | Impact: -0.000766 → LEGITIMATE
+19.  pc                  | Impact: -0.000499 → LEGITIMATE
+20.  by                  | Impact: -0.000499 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  '                   | Impact: 0.001485
+ 2.  who                 | Impact: 0.001412
+ 3.  d                   | Impact: 0.000365
+ 4.  do                  | Impact: 0.000365
+ 5.  recording           | Impact: 0.000181
+ 6.  industry            | Impact: 0.000181
+ 7.  everyone            | Impact: 0.000142
+ 8.  involved            | Impact: 0.000142
+ 9.  in                  | Impact: 0.000142
+10.  they                | Impact: 0.000119
+11.  trivial             | Impact: 0.000119
+12. ized                 | Impact: 0.000119
+13.  janice              | Impact: 0.000115
+14.  hunts               | Impact: 0.000115
+15.  for                 | Impact: 0.000115
+16.  bargain             | Impact: 0.000115
+17. s                    | Impact: 0.000115
+18.  c                   | Impact: 0.000112
+19.  .                   | Impact: 0.000112
+20.  c                   | Impact: 0.000112
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  news                | Impact: -0.001995
+ 2.  analysis            | Impact: -0.001995
+ 3.  _                   | Impact: -0.001470
+ 4.  _                   | Impact: -0.001470
+ 5.  a                   | Impact: -0.000790
+ 6.  good                | Impact: -0.000790
+ 7.  utility             | Impact: -0.000790
+ 8.  and                 | Impact: -0.000766
+ 9.  trade               | Impact: -0.000766
+10.  films               | Impact: -0.000766
+11.  and                 | Impact: -0.000766
+12.  videos              | Impact: -0.000766
+13.  on                  | Impact: -0.000766
+14.  your                | Impact: -0.000766
+15.  pc                  | Impact: -0.000766
+16.  .                   | Impact: -0.000766
+17.  pc                  | Impact: -0.000499
+18.  by                  | Impact: -0.000499
+19.  tuning              | Impact: -0.000499
+20.  up                  | Impact: -0.000499

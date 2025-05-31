@@ -1,0 +1,75 @@
+Sample 225
+==========
+
+Sample text preview: Diane, I would wait on sending the confirms because we are currently negotiating with NUI on the provisions that Sara added. NUI has told us that thos...
+
+Model prediction: [9.9978846e-01 2.1158333e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.007691 → LEGITIMATE
+ 2.  diane               | Impact: 0.007286 → PHISHING
+ 3. ron                  | Impact: -0.005964 → LEGITIMATE
+ 4.  @                   | Impact: 0.005954 → PHISHING
+ 5.  ec                  | Impact: -0.004657 → LEGITIMATE
+ 6.  hopefully           | Impact: -0.003502 → LEGITIMATE
+ 7. i                    | Impact: -0.002469 → LEGITIMATE
+ 8.  stacy               | Impact: -0.002368 → LEGITIMATE
+ 9.  @                   | Impact: 0.002340 → PHISHING
+10.  provisions          | Impact: -0.002244 → LEGITIMATE
+11.  i                   | Impact: -0.002123 → LEGITIMATE
+12.  .                   | Impact: 0.002069 → PHISHING
+13.  resolved            | Impact: 0.001980 → PHISHING
+14.  ec                  | Impact: -0.001911 → LEGITIMATE
+15.  .                   | Impact: -0.001838 → LEGITIMATE
+16.  .                   | Impact: 0.001651 → PHISHING
+17.  .                   | Impact: 0.001559 → PHISHING
+18.  /                   | Impact: -0.001460 → LEGITIMATE
+19.  will                | Impact: 0.001414 → PHISHING
+20.  will                | Impact: 0.001409 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  diane               | Impact: 0.007286
+ 2.  @                   | Impact: 0.005954
+ 3.  @                   | Impact: 0.002340
+ 4.  .                   | Impact: 0.002069
+ 5.  resolved            | Impact: 0.001980
+ 6.  .                   | Impact: 0.001651
+ 7.  .                   | Impact: 0.001559
+ 8.  will                | Impact: 0.001414
+ 9.  will                | Impact: 0.001409
+10.  @                   | Impact: 0.001387
+11.  .                   | Impact: 0.001186
+12.  this                | Impact: 0.001049
+13.  be                  | Impact: 0.001031
+14.  be                  | Impact: 0.000972
+15.  us                  | Impact: 0.000946
+16.  .                   | Impact: 0.000885
+17.  you                 | Impact: 0.000826
+18.  .                   | Impact: 0.000789
+19.  they                | Impact: 0.000785
+20.  tomorrow            | Impact: 0.000771
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.007691
+ 2. ron                  | Impact: -0.005964
+ 3.  ec                  | Impact: -0.004657
+ 4.  hopefully           | Impact: -0.003502
+ 5. i                    | Impact: -0.002469
+ 6.  stacy               | Impact: -0.002368
+ 7.  provisions          | Impact: -0.002244
+ 8.  i                   | Impact: -0.002123
+ 9.  ec                  | Impact: -0.001911
+10.  .                   | Impact: -0.001838
+11.  /                   | Impact: -0.001460
+12.  outcome             | Impact: -0.001325
+13.  /                   | Impact: -0.001168
+14. t                    | Impact: -0.001033
+15.  assume              | Impact: -0.000933
+16.  ec                  | Impact: -0.000792
+17.  nu                  | Impact: -0.000750
+18.  :                   | Impact: -0.000746
+19. t                    | Impact: -0.000745
+20.  ec                  | Impact: -0.000699

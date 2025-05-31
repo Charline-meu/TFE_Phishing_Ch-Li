@@ -1,0 +1,75 @@
+Sample 278
+==========
+
+Sample text preview: > >> (CNSNews.com) - A pro-family group in Cincinnati that has pressured >> two area hotels to stop showing adult pay-per-view movies has vowed >to >>...
+
+Model prediction: [9.9969912e-01 3.0086262e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.012621 → LEGITIMATE
+ 2.  family              | Impact: 0.012369 → PHISHING
+ 3.  >                   | Impact: -0.008611 → LEGITIMATE
+ 4.  >                   | Impact: -0.008388 → LEGITIMATE
+ 5.  >                   | Impact: -0.008362 → LEGITIMATE
+ 6.  >                   | Impact: -0.008173 → LEGITIMATE
+ 7.  com                 | Impact: 0.007666 → PHISHING
+ 8.  group               | Impact: 0.007397 → PHISHING
+ 9.  >                   | Impact: -0.006765 → LEGITIMATE
+10.  >                   | Impact: -0.006389 → LEGITIMATE
+11.  pressured           | Impact: -0.005776 → LEGITIMATE
+12.  >                   | Impact: -0.005776 → LEGITIMATE
+13.  .                   | Impact: -0.005551 → LEGITIMATE
+14.  )                   | Impact: 0.004913 → PHISHING
+15.  >                   | Impact: -0.004888 → LEGITIMATE
+16.  :                   | Impact: -0.004559 → LEGITIMATE
+17.  the                 | Impact: -0.004559 → LEGITIMATE
+18.  >                   | Impact: -0.004541 → LEGITIMATE
+19.  >                   | Impact: -0.004468 → LEGITIMATE
+20.  thing               | Impact: -0.004392 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  family              | Impact: 0.012369
+ 2.  com                 | Impact: 0.007666
+ 3.  group               | Impact: 0.007397
+ 4.  )                   | Impact: 0.004913
+ 5.  (                   | Impact: 0.002402
+ 6.  !                   | Impact: 0.002224
+ 7.  view                | Impact: 0.001852
+ 8.  movies              | Impact: 0.001852
+ 9.  has                 | Impact: 0.001553
+10.  vowed               | Impact: 0.001553
+11.  in                  | Impact: 0.001510
+12.  cincinnati          | Impact: 0.001510
+13.  robin               | Impact: 0.000699
+14. h                    | Impact: 0.000699
+15.  nuts                | Impact: 0.000351
+16.  to                  | Impact: 0.000351
+17.  stop                | Impact: 0.000351
+18.  sneaking            | Impact: 0.000351
+19.  p                   | Impact: 0.000321
+20.  join                | Impact: 0.000321
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.012621
+ 2.  >                   | Impact: -0.008611
+ 3.  >                   | Impact: -0.008388
+ 4.  >                   | Impact: -0.008362
+ 5.  >                   | Impact: -0.008173
+ 6.  >                   | Impact: -0.006765
+ 7.  >                   | Impact: -0.006389
+ 8.  pressured           | Impact: -0.005776
+ 9.  >                   | Impact: -0.005776
+10.  .                   | Impact: -0.005551
+11.  >                   | Impact: -0.004888
+12.  :                   | Impact: -0.004559
+13.  the                 | Impact: -0.004559
+14.  >                   | Impact: -0.004541
+15.  >                   | Impact: -0.004468
+16.  thing               | Impact: -0.004392
+17.  is                  | Impact: -0.004392
+18.  so                  | Impact: -0.004392
+19.  it                  | Impact: -0.004121
+20.  floats              | Impact: -0.004121

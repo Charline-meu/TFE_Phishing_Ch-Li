@@ -1,0 +1,17 @@
+=== LIME Explanation for Email #1 ===
+True Label: Phishing
+Model Prediction: Phishing
+Prediction Probability: 0.9665
+
+Top Features Influencing the Prediction:
+Preferences: -0.4741 (pushes toward Legitimate)
+communication: 0.2633 (pushes toward Phishing)
+USAA: 0.2423 (pushes toward Phishing)
+access: 0.1982 (pushes toward Phishing)
+your: 0.1715 (pushes toward Phishing)
+Notification: 0.1371 (pushes toward Phishing)
+authorized: 0.0784 (pushes toward Phishing)
+below: -0.0335 (pushes toward Legitimate)
+see: -0.0315 (pushes toward Legitimate)
+to: -0.0247 (pushes toward Legitimate)
+Please: 0.0110 (pushes toward Phishing)

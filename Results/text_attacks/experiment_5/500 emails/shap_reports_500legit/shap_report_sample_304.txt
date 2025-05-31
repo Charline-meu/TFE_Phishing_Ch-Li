@@ -1,0 +1,75 @@
+Sample 304
+==========
+
+Sample text preview: If you are unable to view this email please cut and paste the following url into your browser: [IMAGE] [IMAGE] [IMAGE] [IMAGE] If you received this e-...
+
+Model prediction: [9.9968231e-01 3.1776892e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  image               | Impact: -0.113364 → LEGITIMATE
+ 2.  image               | Impact: -0.095710 → LEGITIMATE
+ 3.  click               | Impact: 0.084534 → PHISHING
+ 4. l                    | Impact: -0.074187 → LEGITIMATE
+ 5.  email               | Impact: 0.065751 → PHISHING
+ 6.  cut                 | Impact: 0.062717 → PHISHING
+ 7.  ur                  | Impact: -0.057871 → LEGITIMATE
+ 8.  remove              | Impact: 0.042038 → PHISHING
+ 9.  or                  | Impact: 0.040689 → PHISHING
+10.  your                | Impact: 0.040243 → PHISHING
+11.  [                   | Impact: -0.038656 → LEGITIMATE
+12.  here                | Impact: 0.035209 → PHISHING
+13.  please              | Impact: 0.033488 → PHISHING
+14.  changes             | Impact: -0.030728 → LEGITIMATE
+15.  if                  | Impact: -0.029103 → LEGITIMATE
+16.  ]                   | Impact: -0.027246 → LEGITIMATE
+17.  mail                | Impact: 0.024475 → PHISHING
+18.  ]                   | Impact: -0.023444 → LEGITIMATE
+19.  image               | Impact: -0.023355 → LEGITIMATE
+20.  are                 | Impact: 0.023083 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.084534
+ 2.  email               | Impact: 0.065751
+ 3.  cut                 | Impact: 0.062717
+ 4.  remove              | Impact: 0.042038
+ 5.  or                  | Impact: 0.040689
+ 6.  your                | Impact: 0.040243
+ 7.  here                | Impact: 0.035209
+ 8.  please              | Impact: 0.033488
+ 9.  mail                | Impact: 0.024475
+10.  are                 | Impact: 0.023083
+11.  you                 | Impact: 0.017089
+12.  and                 | Impact: 0.016328
+13.  your                | Impact: 0.015568
+14.  view                | Impact: 0.014745
+15.  into                | Impact: 0.012521
+16.  this                | Impact: 0.009501
+17.  make                | Impact: 0.007164
+18.  this                | Impact: 0.006778
+19.  to                  | Impact: 0.006576
+20.  to                  | Impact: 0.005594
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  image               | Impact: -0.113364
+ 2.  image               | Impact: -0.095710
+ 3. l                    | Impact: -0.074187
+ 4.  ur                  | Impact: -0.057871
+ 5.  [                   | Impact: -0.038656
+ 6.  changes             | Impact: -0.030728
+ 7.  if                  | Impact: -0.029103
+ 8.  ]                   | Impact: -0.027246
+ 9.  ]                   | Impact: -0.023444
+10.  image               | Impact: -0.023355
+11.  ]                   | Impact: -0.020796
+12.  [                   | Impact: -0.016884
+13.  ]                   | Impact: -0.015354
+14.  [                   | Impact: -0.013763
+15.  paste               | Impact: -0.011286
+16.  [                   | Impact: -0.010594
+17.  image               | Impact: -0.006948
+18.  go                  | Impact: -0.005120
+19.  you                 | Impact: -0.005045
+20.  or                  | Impact: -0.004687

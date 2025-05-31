@@ -1,0 +1,75 @@
+Sample 38
+=========
+
+Sample text preview: [Jeremy Hylton] > I think one step towards deployment is creating a re-usable tokenizer > for mail messages. The current codebase doesn't expose an ea...
+
+Model prediction: [9.9971336e-01 2.8657497e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  doesn               | Impact: 0.001251 → PHISHING
+ 2.  '                   | Impact: 0.001242 → PHISHING
+ 3.  test                | Impact: -0.000997 → LEGITIMATE
+ 4.  data                | Impact: -0.000997 → LEGITIMATE
+ 5.  t                   | Impact: 0.000883 → PHISHING
+ 6.  (                   | Impact: -0.000806 → LEGITIMATE
+ 7.  .                   | Impact: 0.000626 → PHISHING
+ 8.  in                  | Impact: -0.000615 → LEGITIMATE
+ 9.  various             | Impact: -0.000615 → LEGITIMATE
+10.  formats             | Impact: -0.000615 → LEGITIMATE
+11.  people              | Impact: 0.000604 → PHISHING
+12.  .                   | Impact: 0.000581 → PHISHING
+13.  whether             | Impact: -0.000577 → LEGITIMATE
+14.  via                 | Impact: -0.000577 → LEGITIMATE
+15.  issue               | Impact: -0.000576 → LEGITIMATE
+16.  on                  | Impact: -0.000576 → LEGITIMATE
+17.  or                  | Impact: -0.000571 → LEGITIMATE
+18.  generator           | Impact: -0.000571 → LEGITIMATE
+19.  ,                   | Impact: -0.000571 → LEGITIMATE
+20.  explicit            | Impact: -0.000570 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  doesn               | Impact: 0.001251
+ 2.  '                   | Impact: 0.001242
+ 3.  t                   | Impact: 0.000883
+ 4.  .                   | Impact: 0.000626
+ 5.  people              | Impact: 0.000604
+ 6.  .                   | Impact: 0.000581
+ 7.  have                | Impact: 0.000514
+ 8.  if                  | Impact: 0.000337
+ 9.  other               | Impact: 0.000337
+10.  truly               | Impact: 0.000189
+11.  *                   | Impact: 0.000189
+12.  useful              | Impact: 0.000189
+13.  *                   | Impact: 0.000189
+14.  matter              | Impact: 0.000183
+15.  )                   | Impact: 0.000183
+16.  to                  | Impact: 0.000179
+17.  -                   | Impact: 0.000179
+18.  here                | Impact: 0.000174
+19.  when                | Impact: 0.000174
+20.  people              | Impact: 0.000174
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  test                | Impact: -0.000997
+ 2.  data                | Impact: -0.000997
+ 3.  (                   | Impact: -0.000806
+ 4.  in                  | Impact: -0.000615
+ 5.  various             | Impact: -0.000615
+ 6.  formats             | Impact: -0.000615
+ 7.  whether             | Impact: -0.000577
+ 8.  via                 | Impact: -0.000577
+ 9.  issue               | Impact: -0.000576
+10.  on                  | Impact: -0.000576
+11.  or                  | Impact: -0.000571
+12.  generator           | Impact: -0.000571
+13.  ,                   | Impact: -0.000571
+14.  explicit            | Impact: -0.000570
+15.  list                | Impact: -0.000570
+16.  a                   | Impact: -0.000545
+17.  research            | Impact: -0.000545
+18.  custom              | Impact: -0.000544
+19. ize                  | Impact: -0.000544
+20.  token               | Impact: -0.000544

@@ -1,0 +1,75 @@
+Sample 112
+==========
+
+Sample text preview: ----- Forwarded by Chris Long/Corp/Enron on // : AM ----- Lisa Yoho // : AM To: Linda Robertson/NA/Enron@ENRON, Lora Sullivan/Corp/Enron@ENRON cc: Chr...
+
+Model prediction: [9.9979705e-01 2.0300786e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.009743 → LEGITIMATE
+ 2. ron                  | Impact: -0.006933 → LEGITIMATE
+ 3. ron                  | Impact: -0.006541 → LEGITIMATE
+ 4.  thanks              | Impact: -0.006454 → LEGITIMATE
+ 5.  briefing            | Impact: -0.005419 → LEGITIMATE
+ 6. ron                  | Impact: -0.005117 → LEGITIMATE
+ 7.  @                   | Impact: 0.004782 → PHISHING
+ 8.  linda               | Impact: 0.004640 → PHISHING
+ 9.  en                  | Impact: -0.004492 → LEGITIMATE
+10.  lo                  | Impact: -0.004387 → LEGITIMATE
+11.  en                  | Impact: -0.003751 → LEGITIMATE
+12.  -                   | Impact: -0.003716 → LEGITIMATE
+13.  en                  | Impact: -0.003699 → LEGITIMATE
+14.  points              | Impact: -0.003683 → LEGITIMATE
+15. ra                   | Impact: -0.003504 → LEGITIMATE
+16.  @                   | Impact: 0.003457 → PHISHING
+17.  na                  | Impact: -0.003397 → LEGITIMATE
+18.  -                   | Impact: -0.003257 → LEGITIMATE
+19.  long                | Impact: 0.003148 → PHISHING
+20.  chris               | Impact: -0.003009 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  @                   | Impact: 0.004782
+ 2.  linda               | Impact: 0.004640
+ 3.  @                   | Impact: 0.003457
+ 4.  long                | Impact: 0.003148
+ 5.  /                   | Impact: 0.002266
+ 6.  are                 | Impact: 0.002032
+ 7.  insert              | Impact: 0.001814
+ 8.  by                  | Impact: 0.001516
+ 9.  /                   | Impact: 0.001343
+10.  @                   | Impact: 0.001313
+11.  /                   | Impact: 0.001229
+12.  book                | Impact: 0.001066
+13.  -                   | Impact: 0.001030
+14.  robertson           | Impact: 0.000978
+15.  this                | Impact: 0.000884
+16.  yo                  | Impact: 0.000786
+17.  talking             | Impact: 0.000525
+18.  the                 | Impact: 0.000512
+19.  long                | Impact: 0.000438
+20.  page                | Impact: 0.000398
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.009743
+ 2. ron                  | Impact: -0.006933
+ 3. ron                  | Impact: -0.006541
+ 4.  thanks              | Impact: -0.006454
+ 5.  briefing            | Impact: -0.005419
+ 6. ron                  | Impact: -0.005117
+ 7.  en                  | Impact: -0.004492
+ 8.  lo                  | Impact: -0.004387
+ 9.  en                  | Impact: -0.003751
+10.  -                   | Impact: -0.003716
+11.  en                  | Impact: -0.003699
+12.  points              | Impact: -0.003683
+13. ra                   | Impact: -0.003504
+14.  na                  | Impact: -0.003397
+15.  -                   | Impact: -0.003257
+16.  chris               | Impact: -0.003009
+17.  /                   | Impact: -0.002916
+18.  :                   | Impact: -0.002805
+19.  forward             | Impact: -0.002793
+20.  corp                | Impact: -0.002756

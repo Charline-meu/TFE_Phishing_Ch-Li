@@ -1,0 +1,75 @@
+Sample 45
+=========
+
+Sample text preview: Best Buy Selects Instruction Set to Offer Interactive Training Courses and Host Its Online Learning Site=Alliance Will Provide Consumers with Compute...
+
+Model prediction: [0.90340054 0.09659948]
+Predicted class: LEGITIMATE with 0.9034 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  =                   | Impact: 0.066258 → PHISHING
+ 2.  site                | Impact: 0.050864 → PHISHING
+ 3.  com                 | Impact: 0.018156 → PHISHING
+ 4.  harry               | Impact: -0.014192 → LEGITIMATE
+ 5.  boxer               | Impact: -0.014192 → LEGITIMATE
+ 6.  has                 | Impact: -0.014192 → LEGITIMATE
+ 7.  gained              | Impact: -0.014192 → LEGITIMATE
+ 8.  host                | Impact: 0.012150 → PHISHING
+ 9.  its                 | Impact: 0.012150 → PHISHING
+10.  -                   | Impact: -0.011219 → LEGITIMATE
+11.  -                   | Impact: -0.011219 → LEGITIMATE
+12.  instruction         | Impact: -0.011219 → LEGITIMATE
+13.  set                 | Impact: -0.011219 → LEGITIMATE
+14.  ,                   | Impact: -0.011219 → LEGITIMATE
+15.  apr                 | Impact: -0.009955 → LEGITIMATE
+16.  ,                   | Impact: -0.009955 → LEGITIMATE
+17.  com                 | Impact: -0.009300 → LEGITIMATE
+18.  chief               | Impact: -0.009300 → LEGITIMATE
+19.  technical           | Impact: -0.009300 → LEGITIMATE
+20.  analyst             | Impact: -0.009300 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  =                   | Impact: 0.066258
+ 2.  site                | Impact: 0.050864
+ 3.  com                 | Impact: 0.018156
+ 4.  host                | Impact: 0.012150
+ 5.  its                 | Impact: 0.012150
+ 6.  alliance            | Impact: 0.008865
+ 7.  will                | Impact: 0.008865
+ 8.  online              | Impact: 0.007083
+ 9.  learning            | Impact: 0.007083
+10.  education           | Impact: 0.006189
+11.  solutions           | Impact: 0.006189
+12.  provider            | Impact: 0.006189
+13.                      | Impact: 0.005840
+14.  a                   | Impact: 0.005245
+15.  leading             | Impact: 0.005245
+16.  and                 | Impact: 0.004692
+17.  entertainment       | Impact: 0.004219
+18.  soft                | Impact: 0.004219
+19. war                  | Impact: 0.004219
+20.  and                 | Impact: 0.003297
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  harry               | Impact: -0.014192
+ 2.  boxer               | Impact: -0.014192
+ 3.  has                 | Impact: -0.014192
+ 4.  gained              | Impact: -0.014192
+ 5.  -                   | Impact: -0.011219
+ 6.  -                   | Impact: -0.011219
+ 7.  instruction         | Impact: -0.011219
+ 8.  set                 | Impact: -0.011219
+ 9.  ,                   | Impact: -0.011219
+10.  apr                 | Impact: -0.009955
+11.  ,                   | Impact: -0.009955
+12.  com                 | Impact: -0.009300
+13.  chief               | Impact: -0.009300
+14.  technical           | Impact: -0.009300
+15.  analyst             | Impact: -0.009300
+16.  washington          | Impact: -0.008912
+17.  ,                   | Impact: -0.008912
+18.  (                   | Impact: -0.006710
+19.  business            | Impact: -0.006710
+20.  wire                | Impact: -0.006710

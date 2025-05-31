@@ -1,0 +1,72 @@
+Sample 42
+=========
+
+Sample text preview: - This mail is in HTML. Some elements may be ommited in plain text. - Dear I sent you a Google Documents... View Document Below! View Document -------...
+
+Model prediction: [1.8983106e-04 9.9981016e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.176027 → PHISHING
+ 2.  mail                | Impact: 0.097205 → PHISHING
+ 3.  !                   | Impact: 0.097069 → PHISHING
+ 4.  text                | Impact: 0.084927 → PHISHING
+ 5.  below               | Impact: 0.065504 → PHISHING
+ 6.  html                | Impact: 0.058807 → PHISHING
+ 7.  you                 | Impact: 0.058181 → PHISHING
+ 8.  mail                | Impact: 0.048926 → PHISHING
+ 9.  documents           | Impact: 0.047928 → PHISHING
+10. d                    | Impact: 0.038825 → PHISHING
+11.  i                   | Impact: -0.035698 → LEGITIMATE
+12.  reply               | Impact: 0.033676 → PHISHING
+13.  google              | Impact: 0.031598 → PHISHING
+14.  plain               | Impact: 0.028938 → PHISHING
+15.  view                | Impact: 0.026181 → PHISHING
+16.  -                   | Impact: 0.025946 → PHISHING
+17.  please              | Impact: 0.022355 → PHISHING
+18.  this                | Impact: 0.021243 → PHISHING
+19.  google              | Impact: -0.017271 → LEGITIMATE
+20.  sent                | Impact: -0.015284 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.176027
+ 2.  mail                | Impact: 0.097205
+ 3.  !                   | Impact: 0.097069
+ 4.  text                | Impact: 0.084927
+ 5.  below               | Impact: 0.065504
+ 6.  html                | Impact: 0.058807
+ 7.  you                 | Impact: 0.058181
+ 8.  mail                | Impact: 0.048926
+ 9.  documents           | Impact: 0.047928
+10. d                    | Impact: 0.038825
+11.  reply               | Impact: 0.033676
+12.  google              | Impact: 0.031598
+13.  plain               | Impact: 0.028938
+14.  view                | Impact: 0.026181
+15.  -                   | Impact: 0.025946
+16.  please              | Impact: 0.022355
+17.  this                | Impact: 0.021243
+18.  team                | Impact: 0.014250
+19.  .                   | Impact: 0.009702
+20.  this                | Impact: 0.007121
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.035698
+ 2.  google              | Impact: -0.017271
+ 3.  sent                | Impact: -0.015284
+ 4. mite                 | Impact: -0.012462
+ 5.  .                   | Impact: -0.009594
+ 6.  -                   | Impact: -0.009232
+ 7.  .                   | Impact: -0.008481
+ 8.  some                | Impact: -0.007135
+ 9.  elements            | Impact: -0.006933
+10.  do                  | Impact: -0.003366
+11.  not                 | Impact: -0.001455
+12.  .                   | Impact: -0.000904
+13.                      | Impact: -0.000525
+14.  document            | Impact: -0.000364
+15.  -                   | Impact: -0.000199
+16.  view                | Impact: -0.000191
+17.  -                   | Impact: -0.000155

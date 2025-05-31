@@ -1,0 +1,74 @@
+Sample 434
+==========
+
+Sample text preview: On Sat, Aug , at ::PM +, FRLinux mentioned: > I have been using .. since a couple of days on a Mandrake . with > standard RPMs for cdrecord and it did...
+
+Model prediction: [9.9955124e-01 4.4873782e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  cd                  | Impact: 0.012150 → PHISHING
+ 2.  stephane            | Impact: 0.008769 → PHISHING
+ 3.  been                | Impact: 0.006455 → PHISHING
+ 4.  days                | Impact: 0.005499 → PHISHING
+ 5.  +                   | Impact: 0.005440 → PHISHING
+ 6.  pm                  | Impact: -0.004687 → LEGITIMATE
+ 7.  you                 | Impact: -0.004213 → LEGITIMATE
+ 8.  burn                | Impact: 0.003939 → PHISHING
+ 9.  using               | Impact: -0.003733 → LEGITIMATE
+10.  >                   | Impact: -0.003719 → LEGITIMATE
+11.  though              | Impact: -0.003674 → LEGITIMATE
+12.  :                   | Impact: -0.003653 → LEGITIMATE
+13.  .                   | Impact: -0.003522 → LEGITIMATE
+14.  .                   | Impact: -0.003417 → LEGITIMATE
+15.  linux               | Impact: -0.003314 → LEGITIMATE
+16.  have                | Impact: -0.003171 → LEGITIMATE
+17.  aug                 | Impact: -0.003150 → LEGITIMATE
+18.  '                   | Impact: -0.003090 → LEGITIMATE
+19.  a                   | Impact: -0.002995 → LEGITIMATE
+20.  ,                   | Impact: -0.002321 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  cd                  | Impact: 0.012150
+ 2.  stephane            | Impact: 0.008769
+ 3.  been                | Impact: 0.006455
+ 4.  days                | Impact: 0.005499
+ 5.  +                   | Impact: 0.005440
+ 6.  burn                | Impact: 0.003939
+ 7.  irish               | Impact: 0.001696
+ 8.  john                | Impact: 0.001178
+ 9.  a                   | Impact: 0.000923
+10.  couple              | Impact: 0.000767
+11.  cds                 | Impact: 0.000673
+12.  since               | Impact: 0.000355
+13.  a                   | Impact: 0.000355
+14.  subscription        | Impact: 0.000220
+15. er                   | Impact: 0.000130
+16.  '                   | Impact: 0.000033
+17.  ve                  | Impact: 0.000022
+18.                      | Impact: 0.000010
+19.  on                  | Impact: 0.000010
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  pm                  | Impact: -0.004687
+ 2.  you                 | Impact: -0.004213
+ 3.  using               | Impact: -0.003733
+ 4.  >                   | Impact: -0.003719
+ 5.  though              | Impact: -0.003674
+ 6.  :                   | Impact: -0.003653
+ 7.  .                   | Impact: -0.003522
+ 8.  .                   | Impact: -0.003417
+ 9.  linux               | Impact: -0.003314
+10.  have                | Impact: -0.003171
+11.  aug                 | Impact: -0.003150
+12.  '                   | Impact: -0.003090
+13.  a                   | Impact: -0.002995
+14.  ,                   | Impact: -0.002321
+15.  -                   | Impact: -0.002122
+16.  t                   | Impact: -0.001976
+17. ke                   | Impact: -0.001896
+18.  .                   | Impact: -0.001865
+19.  :                   | Impact: -0.001583
+20.  .                   | Impact: -0.001432

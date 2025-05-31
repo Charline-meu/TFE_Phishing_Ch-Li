@@ -1,0 +1,75 @@
+Sample 430
+==========
+
+Sample text preview: ROI of childcare coverage • Tech giants can’t compete in the AI talent war… ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ‌ ­ ͏ ...
+
+Model prediction: [9.9968231e-01 3.1765894e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  .                   | Impact: -0.002739 → LEGITIMATE
+ 2.  goldman             | Impact: -0.002739 → LEGITIMATE
+ 3.  sachs               | Impact: -0.002739 → LEGITIMATE
+ 4.  survey              | Impact: -0.002739 → LEGITIMATE
+ 5.  less                | Impact: 0.002337 → PHISHING
+ 6.  money               | Impact: 0.002337 → PHISHING
+ 7.  saved               | Impact: 0.002337 → PHISHING
+ 8.  by                  | Impact: 0.002337 → PHISHING
+ 9.  per                 | Impact: -0.001951 → LEGITIMATE
+10.  the                 | Impact: -0.001951 → LEGITIMATE
+11.  report              | Impact: -0.001951 → LEGITIMATE
+12.  .                   | Impact: -0.001951 → LEGITIMATE
+13.  according           | Impact: -0.001928 → LEGITIMATE
+14.  to                  | Impact: -0.001928 → LEGITIMATE
+15.  a                   | Impact: -0.001928 → LEGITIMATE
+16.  recent              | Impact: -0.001928 → LEGITIMATE
+17.  of                  | Impact: 0.001836 → PHISHING
+18.  running             | Impact: 0.001836 → PHISHING
+19.  out                 | Impact: 0.001836 → PHISHING
+20.  of                  | Impact: 0.001836 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  less                | Impact: 0.002337
+ 2.  money               | Impact: 0.002337
+ 3.  saved               | Impact: 0.002337
+ 4.  by                  | Impact: 0.002337
+ 5.  of                  | Impact: 0.001836
+ 6.  running             | Impact: 0.001836
+ 7.  out                 | Impact: 0.001836
+ 8.  of                  | Impact: 0.001836
+ 9.  retirement          | Impact: 0.001836
+10.  money               | Impact: 0.001836
+11.  .                   | Impact: 0.001836
+12.  or                  | Impact: 0.001514
+13.  have                | Impact: 0.001514
+14.  no                  | Impact: 0.001514
+15.  spouse              | Impact: 0.001514
+16.  are                 | Impact: 0.001514
+17.  at                  | Impact: 0.001514
+18.  a                   | Impact: 0.001514
+19.  greater             | Impact: 0.001514
+20.  risk                | Impact: 0.001514
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.002739
+ 2.  goldman             | Impact: -0.002739
+ 3.  sachs               | Impact: -0.002739
+ 4.  survey              | Impact: -0.002739
+ 5.  per                 | Impact: -0.001951
+ 6.  the                 | Impact: -0.001951
+ 7.  report              | Impact: -0.001951
+ 8.  .                   | Impact: -0.001951
+ 9.  according           | Impact: -0.001928
+10.  to                  | Impact: -0.001928
+11.  a                   | Impact: -0.001928
+12.  recent              | Impact: -0.001928
+13.  com                 | Impact: -0.001227
+14.  (                   | Impact: -0.001227
+15.  )                   | Impact: -0.001227
+16.  weekly              | Impact: -0.001227
+17.  monday              | Impact: -0.001227
+18.  .                   | Impact: -0.001227
+19.  earn                | Impact: -0.000762
+20.  less                | Impact: -0.000762

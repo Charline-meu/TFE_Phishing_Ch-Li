@@ -1,0 +1,75 @@
+Sample 486
+==========
+
+Sample text preview: I have a new email address!You can now email me at: FROM :DORIS ODOH LOME TOGO WEST AFRICA NOTE:PLEASE KINDLY REPLY ME WITH THIS MY DIRECT EMAIL DEAR ...
+
+Model prediction: [1.5152013e-04 9.9984848e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  togo                | Impact: 0.039146 → PHISHING
+ 2.  your                | Impact: 0.033859 → PHISHING
+ 3. laise                | Impact: 0.026601 → PHISHING
+ 4.  dear                | Impact: 0.026158 → PHISHING
+ 5.  address             | Impact: 0.024730 → PHISHING
+ 6.  your                | Impact: 0.024385 → PHISHING
+ 7.  africa              | Impact: 0.024202 → PHISHING
+ 8.  your                | Impact: 0.023872 → PHISHING
+ 9.  mrs                 | Impact: 0.023528 → PHISHING
+10.  account             | Impact: 0.022620 → PHISHING
+11.  seeking             | Impact: 0.022419 → PHISHING
+12.  contact             | Impact: 0.019443 → PHISHING
+13.  dear                | Impact: 0.019340 → PHISHING
+14.  friend              | Impact: 0.019340 → PHISHING
+15.  account             | Impact: 0.018921 → PHISHING
+16.  overseas            | Impact: 0.018921 → PHISHING
+17.  adams               | Impact: -0.018858 → LEGITIMATE
+18.  am                  | Impact: 0.016798 → PHISHING
+19.  doris               | Impact: 0.016798 → PHISHING
+20.  your                | Impact: 0.016642 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  togo                | Impact: 0.039146
+ 2.  your                | Impact: 0.033859
+ 3. laise                | Impact: 0.026601
+ 4.  dear                | Impact: 0.026158
+ 5.  address             | Impact: 0.024730
+ 6.  your                | Impact: 0.024385
+ 7.  africa              | Impact: 0.024202
+ 8.  your                | Impact: 0.023872
+ 9.  mrs                 | Impact: 0.023528
+10.  account             | Impact: 0.022620
+11.  seeking             | Impact: 0.022419
+12.  contact             | Impact: 0.019443
+13.  dear                | Impact: 0.019340
+14.  friend              | Impact: 0.019340
+15.  account             | Impact: 0.018921
+16.  overseas            | Impact: 0.018921
+17.  am                  | Impact: 0.016798
+18.  doris               | Impact: 0.016798
+19.  your                | Impact: 0.016642
+20.  nominated           | Impact: 0.016642
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  adams               | Impact: -0.018858
+ 2.  i                   | Impact: -0.013037
+ 3.  j                   | Impact: -0.009036
+ 4.  :                   | Impact: -0.006972
+ 5.  doris               | Impact: -0.006972
+ 6.  .                   | Impact: -0.006103
+ 7.  i                   | Impact: -0.005046
+ 8.  got                 | Impact: -0.005046
+ 9.  .                   | Impact: -0.001524
+10.  me                  | Impact: -0.001417
+11.  at                  | Impact: -0.001417
+12.  :                   | Impact: -0.001417
+13.  from                | Impact: -0.001417
+14.  ,                   | Impact: -0.000941
+15.  .                   | Impact: -0.000886
+16.  o                   | Impact: -0.000450
+17. do                   | Impact: -0.000450
+18. h                    | Impact: -0.000450
+19.  o                   | Impact: -0.000198
+20. do                   | Impact: -0.000198

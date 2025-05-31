@@ -1,0 +1,75 @@
+Sample 151
+==========
+
+Sample text preview: Good Morning, Nat. Gas opened about halfway down the bullish candle of yesterday. This is not the confirmation that would be expected to confirm the B...
+
+Model prediction: [9.9973041e-01 2.6958477e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  steve               | Impact: -0.028064 → LEGITIMATE
+ 2.  yesterday           | Impact: -0.017247 → LEGITIMATE
+ 3.  nat                 | Impact: -0.017223 → LEGITIMATE
+ 4.  bull                | Impact: -0.014016 → LEGITIMATE
+ 5.  below               | Impact: 0.012041 → PHISHING
+ 6.  signal              | Impact: 0.010531 → PHISHING
+ 7.  morning             | Impact: 0.010310 → PHISHING
+ 8.  eng                 | Impact: 0.009525 → PHISHING
+ 9.  weak                | Impact: 0.009454 → PHISHING
+10.  trend               | Impact: -0.009323 → LEGITIMATE
+11.  or                  | Impact: -0.008749 → LEGITIMATE
+12. ish                  | Impact: -0.008247 → LEGITIMATE
+13.  near                | Impact: 0.007080 → PHISHING
+14. ulf                  | Impact: 0.006918 → PHISHING
+15.  is                  | Impact: 0.006658 → PHISHING
+16.  this                | Impact: 0.006517 → PHISHING
+17.  today               | Impact: 0.006383 → PHISHING
+18.  close               | Impact: 0.006255 → PHISHING
+19.  confirmation        | Impact: -0.006179 → LEGITIMATE
+20.  if                  | Impact: -0.005935 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  below               | Impact: 0.012041
+ 2.  signal              | Impact: 0.010531
+ 3.  morning             | Impact: 0.010310
+ 4.  eng                 | Impact: 0.009525
+ 5.  weak                | Impact: 0.009454
+ 6.  near                | Impact: 0.007080
+ 7. ulf                  | Impact: 0.006918
+ 8.  is                  | Impact: 0.006658
+ 9.  this                | Impact: 0.006517
+10.  today               | Impact: 0.006383
+11.  close               | Impact: 0.006255
+12.  close               | Impact: 0.005919
+13.  today               | Impact: 0.005006
+14.  below               | Impact: 0.004707
+15.  watch               | Impact: 0.003695
+16.  weakness            | Impact: 0.003678
+17.  .                   | Impact: 0.003167
+18.  would               | Impact: 0.003161
+19.  further             | Impact: 0.002931
+20.  the                 | Impact: 0.002571
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  steve               | Impact: -0.028064
+ 2.  yesterday           | Impact: -0.017247
+ 3.  nat                 | Impact: -0.017223
+ 4.  bull                | Impact: -0.014016
+ 5.  trend               | Impact: -0.009323
+ 6.  or                  | Impact: -0.008749
+ 7. ish                  | Impact: -0.008247
+ 8.  confirmation        | Impact: -0.006179
+ 9.  if                  | Impact: -0.005935
+10.  price               | Impact: -0.005145
+11.  yesterday           | Impact: -0.005128
+12.  indicate            | Impact: -0.004858
+13.  if                  | Impact: -0.004675
+14.  is                  | Impact: -0.004188
+15.  that                | Impact: -0.003908
+16.  up                  | Impact: -0.003707
+17.  .                   | Impact: -0.003644
+18.  would               | Impact: -0.003458
+19.  the                 | Impact: -0.002812
+20.  that                | Impact: -0.002603

@@ -1,0 +1,75 @@
+Sample 134
+==========
+
+Sample text preview: For almost a year, we've been working on a new effort that we're finally ready to show you. We're proud to introduce our new Apparel and Accessories s...
+
+Model prediction: [0.95142776 0.0485723 ]
+Predicted class: LEGITIMATE with 0.9514 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  founder             | Impact: -0.048773 → LEGITIMATE
+ 2.  &                   | Impact: -0.048773 → LEGITIMATE
+ 3.  ceo                 | Impact: -0.048773 → LEGITIMATE
+ 4.  amazon              | Impact: -0.048773 → LEGITIMATE
+ 5.  jeff                | Impact: -0.042850 → LEGITIMATE
+ 6.  be                  | Impact: -0.041803 → LEGITIMATE
+ 7. zos                  | Impact: -0.041803 → LEGITIMATE
+ 8.  .                   | Impact: -0.017880 → LEGITIMATE
+ 9.  show                | Impact: 0.016618 → PHISHING
+10.  you                 | Impact: 0.016618 → PHISHING
+11.  .                   | Impact: 0.016618 → PHISHING
+12.  sincerely           | Impact: 0.012092 → PHISHING
+13.  re                  | Impact: 0.012019 → PHISHING
+14.  finally             | Impact: 0.012019 → PHISHING
+15.  ready               | Impact: 0.012019 → PHISHING
+16.  to                  | Impact: 0.012019 → PHISHING
+17.  receive             | Impact: -0.010663 → LEGITIMATE
+18.  your                | Impact: -0.010663 → LEGITIMATE
+19.  $                   | Impact: -0.010663 → LEGITIMATE
+20.  amazon              | Impact: -0.010663 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  show                | Impact: 0.016618
+ 2.  you                 | Impact: 0.016618
+ 3.  .                   | Impact: 0.016618
+ 4.  sincerely           | Impact: 0.012092
+ 5.  re                  | Impact: 0.012019
+ 6.  finally             | Impact: 0.012019
+ 7.  ready               | Impact: 0.012019
+ 8.  to                  | Impact: 0.012019
+ 9.  ,                   | Impact: 0.007470
+10.  major               | Impact: 0.005855
+11.  clothing            | Impact: 0.005855
+12.  brands              | Impact: 0.005855
+13.  and                 | Impact: 0.004292
+14.  accessories         | Impact: 0.004292
+15.  store               | Impact: 0.004292
+16.  with                | Impact: 0.004292
+17.  over                | Impact: 0.004292
+18.  etc                 | Impact: 0.003818
+19.  .                   | Impact: 0.003818
+20.  our                 | Impact: 0.003777
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  founder             | Impact: -0.048773
+ 2.  &                   | Impact: -0.048773
+ 3.  ceo                 | Impact: -0.048773
+ 4.  amazon              | Impact: -0.048773
+ 5.  jeff                | Impact: -0.042850
+ 6.  be                  | Impact: -0.041803
+ 7. zos                  | Impact: -0.041803
+ 8.  .                   | Impact: -0.017880
+ 9.  receive             | Impact: -0.010663
+10.  your                | Impact: -0.010663
+11.  $                   | Impact: -0.010663
+12.  amazon              | Impact: -0.010663
+13.  .                   | Impact: -0.010663
+14.  you                 | Impact: -0.002091
+15.  '                   | Impact: -0.002091
+16.  ll                  | Impact: -0.002091
+17.  get                 | Impact: -0.002091
+18.  a                   | Impact: -0.002091
+19.  $                   | Impact: -0.002091
+20.  promotional         | Impact: -0.002091

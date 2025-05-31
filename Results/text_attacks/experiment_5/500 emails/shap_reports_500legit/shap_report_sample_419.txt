@@ -1,0 +1,75 @@
+Sample 419
+==========
+
+Sample text preview: On Mon, Aug , Ray Gardener wrote: > setup the config of pine to > enable the enable-unix-pipe-cmd > > then when reading the message > > enter > > | ra...
+
+Model prediction: [9.997992e-01 2.008513e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.010452 → LEGITIMATE
+ 2.  aug                 | Impact: -0.010247 → LEGITIMATE
+ 3.  razor               | Impact: -0.008865 → LEGITIMATE
+ 4.  messages            | Impact: 0.008417 → PHISHING
+ 5.  enter               | Impact: 0.008035 → PHISHING
+ 6.  wrote               | Impact: -0.007846 → LEGITIMATE
+ 7.  pine                | Impact: -0.006195 → LEGITIMATE
+ 8.  message             | Impact: 0.005798 → PHISHING
+ 9.  gardener            | Impact: -0.005783 → LEGITIMATE
+10.  ray                 | Impact: -0.005781 → LEGITIMATE
+11.  enable              | Impact: 0.005443 → PHISHING
+12.  sponsored           | Impact: 0.005311 → PHISHING
+13.  )                   | Impact: 0.005107 → PHISHING
+14.  check               | Impact: 0.004902 → PHISHING
+15.  :                   | Impact: -0.004346 → LEGITIMATE
+16.  >                   | Impact: 0.004302 → PHISHING
+17.  is                  | Impact: 0.004208 → PHISHING
+18.  -                   | Impact: 0.004025 → PHISHING
+19.  >                   | Impact: 0.003926 → PHISHING
+20.  |                   | Impact: -0.003604 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  messages            | Impact: 0.008417
+ 2.  enter               | Impact: 0.008035
+ 3.  message             | Impact: 0.005798
+ 4.  enable              | Impact: 0.005443
+ 5.  sponsored           | Impact: 0.005311
+ 6.  )                   | Impact: 0.005107
+ 7.  check               | Impact: 0.004902
+ 8.  >                   | Impact: 0.004302
+ 9.  is                  | Impact: 0.004208
+10.  -                   | Impact: 0.004025
+11.  >                   | Impact: 0.003926
+12.  net                 | Impact: 0.003327
+13.  you                 | Impact: 0.002909
+14.  should              | Impact: 0.002909
+15.  email               | Impact: 0.002902
+16.  enable              | Impact: 0.002819
+17.  messages            | Impact: 0.002735
+18.  to                  | Impact: 0.002735
+19.  allow               | Impact: 0.002508
+20.  several             | Impact: 0.002508
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.010452
+ 2.  aug                 | Impact: -0.010247
+ 3.  razor               | Impact: -0.008865
+ 4.  wrote               | Impact: -0.007846
+ 5.  pine                | Impact: -0.006195
+ 6.  gardener            | Impact: -0.005783
+ 7.  ray                 | Impact: -0.005781
+ 8.  :                   | Impact: -0.004346
+ 9.  |                   | Impact: -0.003604
+10.  the                 | Impact: -0.003573
+11.  setup               | Impact: -0.003301
+12.  to                  | Impact: -0.003181
+13.  >                   | Impact: -0.003162
+14.  unix                | Impact: -0.002998
+15.  of                  | Impact: -0.002794
+16.  del                 | Impact: -0.002665
+17. imi                  | Impact: -0.002083
+18.  includes            | Impact: -0.001926
+19.  and                 | Impact: -0.001760
+20.                      | Impact: -0.001591

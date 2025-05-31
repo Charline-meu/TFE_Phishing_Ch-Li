@@ -1,0 +1,75 @@
+Sample 159
+==========
+
+Sample text preview: Attn: The president/ceo Dear Sir, My name is Mr.EVANS PETER, I work in the credit andaccounts department of Union Bank of Nigeria Plc,Lagos, Nigeria. ...
+
+Model prediction: [1.6908106e-04 9.9983084e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lagos               | Impact: 0.035483 → PHISHING
+ 2.  ceo                 | Impact: 0.023408 → PHISHING
+ 3.  dear                | Impact: 0.023408 → PHISHING
+ 4.  sir                 | Impact: 0.022394 → PHISHING
+ 5.  nigeria             | Impact: 0.017415 → PHISHING
+ 6.  sir                 | Impact: 0.014938 → PHISHING
+ 7.  is                  | Impact: 0.010539 → PHISHING
+ 8.  mr                  | Impact: 0.010539 → PHISHING
+ 9.  ,                   | Impact: 0.009681 → PHISHING
+10.  my                  | Impact: 0.008865 → PHISHING
+11.  name                | Impact: 0.008865 → PHISHING
+12.  using               | Impact: 0.008023 → PHISHING
+13.  your                | Impact: 0.008023 → PHISHING
+14.  plane               | Impact: 0.007602 → PHISHING
+15.  crash               | Impact: 0.007602 → PHISHING
+16.  here                | Impact: 0.007602 → PHISHING
+17.  in                  | Impact: 0.007602 → PHISHING
+18.  foreign             | Impact: 0.007069 → PHISHING
+19.  offshore            | Impact: 0.007069 → PHISHING
+20.  bank                | Impact: 0.007069 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  lagos               | Impact: 0.035483
+ 2.  ceo                 | Impact: 0.023408
+ 3.  dear                | Impact: 0.023408
+ 4.  sir                 | Impact: 0.022394
+ 5.  nigeria             | Impact: 0.017415
+ 6.  sir                 | Impact: 0.014938
+ 7.  is                  | Impact: 0.010539
+ 8.  mr                  | Impact: 0.010539
+ 9.  ,                   | Impact: 0.009681
+10.  my                  | Impact: 0.008865
+11.  name                | Impact: 0.008865
+12.  using               | Impact: 0.008023
+13.  your                | Impact: 0.008023
+14.  plane               | Impact: 0.007602
+15.  crash               | Impact: 0.007602
+16.  here                | Impact: 0.007602
+17.  in                  | Impact: 0.007602
+18.  foreign             | Impact: 0.007069
+19.  offshore            | Impact: 0.007069
+20.  bank                | Impact: 0.007069
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  he                  | Impact: -0.001838
+ 2.  had                 | Impact: -0.001838
+ 3.  only                | Impact: -0.001838
+ 4.  $                   | Impact: -0.001838
+ 5.  schultz             | Impact: -0.001508
+ 6. man                  | Impact: -0.001508
+ 7.  .                   | Impact: -0.001508
+ 8.  at                  | Impact: -0.001393
+ 9. t                    | Impact: -0.001393
+10. n                    | Impact: -0.001393
+11.                      | Impact: -0.001393
+12.  :                   | Impact: -0.001393
+13.  the                 | Impact: -0.001393
+14.  president           | Impact: -0.001393
+15.  /                   | Impact: -0.001393
+16.  the                 | Impact: -0.001291
+17.  a                   | Impact: -0.001291
+18.  /                   | Impact: -0.001291
+19.  c                   | Impact: -0.001291
+20.  is                  | Impact: -0.001291

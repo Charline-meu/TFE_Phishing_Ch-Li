@@ -1,0 +1,75 @@
+Sample 342
+==========
+
+Sample text preview: A position has recently become available on the California desk reporting to Jeff Richter. Jeff will be holding an information session on Tuesday, Apr...
+
+Model prediction: [9.9979860e-01 2.0137364e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  detail              | Impact: -0.013017 → LEGITIMATE
+ 2.  sql                 | Impact: -0.005390 → LEGITIMATE
+ 3.  basic               | Impact: -0.003933 → LEGITIMATE
+ 4.  volume              | Impact: -0.003903 → LEGITIMATE
+ 5.  visual              | Impact: -0.003571 → LEGITIMATE
+ 6.  oriented            | Impact: -0.003127 → LEGITIMATE
+ 7.  ?                   | Impact: 0.002715 → PHISHING
+ 8.  is                  | Impact: -0.002249 → LEGITIMATE
+ 9.  performing          | Impact: -0.001869 → LEGITIMATE
+10.  preferred           | Impact: -0.001722 → LEGITIMATE
+11.  transactions        | Impact: -0.001613 → LEGITIMATE
+12.  required            | Impact: -0.001547 → LEGITIMATE
+13.  integrity           | Impact: -0.001459 → LEGITIMATE
+14.  desk                | Impact: -0.001418 → LEGITIMATE
+15.  reporting           | Impact: -0.001418 → LEGITIMATE
+16.  of                  | Impact: -0.001413 → LEGITIMATE
+17.  excel               | Impact: -0.001413 → LEGITIMATE
+18.  systems             | Impact: -0.001361 → LEGITIMATE
+19.  interested          | Impact: -0.001355 → LEGITIMATE
+20.  candidates          | Impact: -0.001355 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ?                   | Impact: 0.002715
+ 2.  ?                   | Impact: 0.001337
+ 3.  trading             | Impact: 0.000670
+ 4.  and                 | Impact: 0.000583
+ 5.  ?                   | Impact: 0.000460
+ 6.  would               | Impact: 0.000388
+ 7.  like                | Impact: 0.000388
+ 8.  to                  | Impact: 0.000388
+ 9.  learn               | Impact: 0.000388
+10.  .                   | Impact: 0.000311
+11.  w                   | Impact: 0.000232
+12. sc                   | Impact: 0.000232
+13. c                    | Impact: 0.000232
+14.  .                   | Impact: 0.000193
+15.  of                  | Impact: 0.000121
+16.  day                 | Impact: 0.000121
+17.  more                | Impact: 0.000112
+18.  about               | Impact: 0.000112
+19.  this                | Impact: 0.000112
+20.  opportunity         | Impact: 0.000112
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  detail              | Impact: -0.013017
+ 2.  sql                 | Impact: -0.005390
+ 3.  basic               | Impact: -0.003933
+ 4.  volume              | Impact: -0.003903
+ 5.  visual              | Impact: -0.003571
+ 6.  oriented            | Impact: -0.003127
+ 7.  is                  | Impact: -0.002249
+ 8.  performing          | Impact: -0.001869
+ 9.  preferred           | Impact: -0.001722
+10.  transactions        | Impact: -0.001613
+11.  required            | Impact: -0.001547
+12.  integrity           | Impact: -0.001459
+13.  desk                | Impact: -0.001418
+14.  reporting           | Impact: -0.001418
+15.  of                  | Impact: -0.001413
+16.  excel               | Impact: -0.001413
+17.  systems             | Impact: -0.001361
+18.  interested          | Impact: -0.001355
+19.  candidates          | Impact: -0.001355
+20.  excellent           | Impact: -0.001348

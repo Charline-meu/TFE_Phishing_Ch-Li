@@ -1,0 +1,75 @@
+Sample 399
+==========
+
+Sample text preview: Does anyone know what happened to vCard support in Netscape ./Mozilla .? (Not there yet in Mozilla and therefore not in the new mail engine I presume?...
+
+Model prediction: [9.9974233e-01 2.5764946e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  nets                | Impact: -0.002734 → LEGITIMATE
+ 2.  happened            | Impact: 0.002286 → PHISHING
+ 3.  becoming            | Impact: 0.001926 → PHISHING
+ 4.  anyone              | Impact: 0.001865 → PHISHING
+ 5.  nets                | Impact: -0.001856 → LEGITIMATE
+ 6.  sd                  | Impact: -0.001839 → LEGITIMATE
+ 7. cape                 | Impact: -0.001699 → LEGITIMATE
+ 8.  are                 | Impact: 0.001683 → PHISHING
+ 9.  know                | Impact: 0.001539 → PHISHING
+10.  support             | Impact: -0.001495 → LEGITIMATE
+11.  methods             | Impact: -0.001330 → LEGITIMATE
+12. ap                   | Impact: -0.001062 → LEGITIMATE
+13.  email               | Impact: -0.001041 → LEGITIMATE
+14.  client              | Impact: -0.001041 → LEGITIMATE
+15.  record              | Impact: -0.001024 → LEGITIMATE
+16.  naming              | Impact: -0.000930 → LEGITIMATE
+17.  but                 | Impact: 0.000917 → PHISHING
+18.  linux               | Impact: -0.000902 → LEGITIMATE
+19.  .                   | Impact: -0.000847 → LEGITIMATE
+20.  ld                  | Impact: -0.000795 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  happened            | Impact: 0.002286
+ 2.  becoming            | Impact: 0.001926
+ 3.  anyone              | Impact: 0.001865
+ 4.  are                 | Impact: 0.001683
+ 5.  know                | Impact: 0.001539
+ 6.  but                 | Impact: 0.000917
+ 7.  thanks              | Impact: 0.000780
+ 8.  i                   | Impact: 0.000736
+ 9.  export              | Impact: 0.000673
+10.  reference           | Impact: 0.000553
+11.  can                 | Impact: 0.000519
+12.  '                   | Impact: 0.000519
+13.  two                 | Impact: 0.000505
+14.  )                   | Impact: 0.000484
+15.  t                   | Impact: 0.000463
+16.  between             | Impact: 0.000395
+17.  the                 | Impact: 0.000395
+18.  find                | Impact: 0.000343
+19.  now                 | Impact: 0.000311
+20.  that                | Impact: 0.000311
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  nets                | Impact: -0.002734
+ 2.  nets                | Impact: -0.001856
+ 3.  sd                  | Impact: -0.001839
+ 4. cape                 | Impact: -0.001699
+ 5.  support             | Impact: -0.001495
+ 6.  methods             | Impact: -0.001330
+ 7. ap                   | Impact: -0.001062
+ 8.  email               | Impact: -0.001041
+ 9.  client              | Impact: -0.001041
+10.  record              | Impact: -0.001024
+11.  naming              | Impact: -0.000930
+12.  linux               | Impact: -0.000902
+13.  .                   | Impact: -0.000847
+14.  ld                  | Impact: -0.000795
+15.  windows             | Impact: -0.000784
+16.  oriented            | Impact: -0.000769
+17.  focus               | Impact: -0.000769
+18.  .                   | Impact: -0.000746
+19. lla                  | Impact: -0.000703
+20.  ds                  | Impact: -0.000700

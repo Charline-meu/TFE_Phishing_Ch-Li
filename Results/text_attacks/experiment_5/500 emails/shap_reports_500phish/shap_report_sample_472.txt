@@ -1,0 +1,75 @@
+Sample 472
+==========
+
+Sample text preview: MR. CHEUNG PUI HANG SENG BANK LTD. DES VOEUX RD. BRANCH, CENTRAL HONG KONG, HONG KONG. Let me start by introducing myself. I am Mr.Cheung Pui director...
+
+Model prediction: [1.9533078e-04 9.9980468e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  to                  | Impact: 0.009118 → PHISHING
+ 2.  receive             | Impact: 0.009118 → PHISHING
+ 3.  his                 | Impact: 0.009118 → PHISHING
+ 4.  funds               | Impact: 0.009118 → PHISHING
+ 5.  .                   | Impact: 0.009118 → PHISHING
+ 6.  you                 | Impact: 0.009022 → PHISHING
+ 7.  will                | Impact: 0.009022 → PHISHING
+ 8.  be                  | Impact: 0.009022 → PHISHING
+ 9.  able                | Impact: 0.009022 → PHISHING
+10.  your                | Impact: 0.007144 → PHISHING
+11.  full                | Impact: 0.007144 → PHISHING
+12.  names               | Impact: 0.007144 → PHISHING
+13.  and                 | Impact: 0.007144 → PHISHING
+14.  address             | Impact: 0.006442 → PHISHING
+15.  so                  | Impact: 0.006442 → PHISHING
+16.  that                | Impact: 0.006442 → PHISHING
+17.  the                 | Impact: 0.006442 → PHISHING
+18.  twenty              | Impact: 0.005100 → PHISHING
+19.  four                | Impact: 0.005100 → PHISHING
+20.  millions            | Impact: 0.005100 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.009118
+ 2.  receive             | Impact: 0.009118
+ 3.  his                 | Impact: 0.009118
+ 4.  funds               | Impact: 0.009118
+ 5.  .                   | Impact: 0.009118
+ 6.  you                 | Impact: 0.009022
+ 7.  will                | Impact: 0.009022
+ 8.  be                  | Impact: 0.009022
+ 9.  able                | Impact: 0.009022
+10.  your                | Impact: 0.007144
+11.  full                | Impact: 0.007144
+12.  names               | Impact: 0.007144
+13.  and                 | Impact: 0.007144
+14.  address             | Impact: 0.006442
+15.  so                  | Impact: 0.006442
+16.  that                | Impact: 0.006442
+17.  the                 | Impact: 0.006442
+18.  twenty              | Impact: 0.005100
+19.  four                | Impact: 0.005100
+20.  millions            | Impact: 0.005100
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  we                  | Impact: -0.000135
+ 2.  later               | Impact: -0.000135
+ 3.  find                | Impact: -0.000135
+ 4.  out                 | Impact: -0.000135
+ 5.  that                | Impact: -0.000135
+ 6.  the                 | Impact: -0.000135
+ 7.  major               | Impact: -0.000135
+ 8.  and                 | Impact: -0.000135
+ 9.  and                 | Impact: -0.000039
+10.  he                  | Impact: -0.000039
+11.  also                | Impact: -0.000039
+12.  con                 | Impact: -0.000039
+13. fide                 | Impact: -0.000039
+14. d                    | Impact: -0.000039
+15.  in                  | Impact: -0.000039
+16.  me                  | Impact: -0.000039
+17.  the                 | Impact: -0.000039
+18.  last                | Impact: -0.000039
+19.  time                | Impact: -0.000039
+20.  he                  | Impact: -0.000039

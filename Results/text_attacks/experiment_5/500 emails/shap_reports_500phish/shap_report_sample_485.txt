@@ -1,0 +1,75 @@
+Sample 485
+==========
+
+Sample text preview: ATTN, Dear friend, On behalf of my colleagues and I,I write this letter with great pleasure. Your information were given to me by a member of the Sout...
+
+Model prediction: [1.7232278e-04 9.9982762e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.038292 → PHISHING
+ 2.  friend              | Impact: 0.038292 → PHISHING
+ 3.  -                   | Impact: 0.009662 → PHISHING
+ 4.  operation           | Impact: 0.009662 → PHISHING
+ 5.  with                | Impact: 0.009662 → PHISHING
+ 6.  you                 | Impact: 0.009662 → PHISHING
+ 7.  this                | Impact: 0.008024 → PHISHING
+ 8.  letter              | Impact: 0.008024 → PHISHING
+ 9.  ,                   | Impact: 0.007037 → PHISHING
+10.  here                | Impact: 0.006814 → PHISHING
+11. under                | Impact: 0.006814 → PHISHING
+12.  business            | Impact: 0.006687 → PHISHING
+13.  transaction         | Impact: 0.006687 → PHISHING
+14.  your                | Impact: 0.005736 → PHISHING
+15.  information         | Impact: 0.005736 → PHISHING
+16.  were                | Impact: 0.005736 → PHISHING
+17.  given               | Impact: 0.005736 → PHISHING
+18.  united              | Impact: 0.005165 → PHISHING
+19. sta                  | Impact: 0.005165 → PHISHING
+20. tes                  | Impact: 0.005165 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.038292
+ 2.  friend              | Impact: 0.038292
+ 3.  -                   | Impact: 0.009662
+ 4.  operation           | Impact: 0.009662
+ 5.  with                | Impact: 0.009662
+ 6.  you                 | Impact: 0.009662
+ 7.  this                | Impact: 0.008024
+ 8.  letter              | Impact: 0.008024
+ 9.  ,                   | Impact: 0.007037
+10.  here                | Impact: 0.006814
+11. under                | Impact: 0.006814
+12.  business            | Impact: 0.006687
+13.  transaction         | Impact: 0.006687
+14.  your                | Impact: 0.005736
+15.  information         | Impact: 0.005736
+16.  were                | Impact: 0.005736
+17.  given               | Impact: 0.005736
+18.  united              | Impact: 0.005165
+19. sta                  | Impact: 0.005165
+20. tes                  | Impact: 0.005165
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  work                | Impact: -0.002257
+ 2.  as                  | Impact: -0.002257
+ 3.  the                 | Impact: -0.002257
+ 4.  director            | Impact: -0.002257
+ 5.  of                  | Impact: -0.001671
+ 6.  project             | Impact: -0.001671
+ 7.  implementation      | Impact: -0.001671
+ 8.  ,                   | Impact: -0.001671
+ 9.  (                   | Impact: -0.001046
+10.  government          | Impact: -0.001046
+11.  )                   | Impact: -0.001046
+12.  black               | Impact: -0.001046
+13.  economic            | Impact: -0.001046
+14.  empowerment         | Impact: -0.001046
+15.  commission          | Impact: -0.001046
+16.  it                  | Impact: -0.000459
+17.  to                  | Impact: -0.000459
+18.  other               | Impact: -0.000459
+19.  companies           | Impact: -0.000459
+20.  .                   | Impact: -0.000459

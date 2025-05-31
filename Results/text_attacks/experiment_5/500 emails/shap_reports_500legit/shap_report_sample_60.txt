@@ -1,0 +1,51 @@
+Sample 60
+=========
+
+Sample text preview: Cell: -- Houston: -- Portland: -- Home: --
+
+Model prediction: [9.997569e-01 2.430694e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.041735 → LEGITIMATE
+ 2.  -                   | Impact: -0.036121 → LEGITIMATE
+ 3.  :                   | Impact: -0.025276 → LEGITIMATE
+ 4.  houston             | Impact: -0.019127 → LEGITIMATE
+ 5.  portland            | Impact: 0.019087 → PHISHING
+ 6.  -                   | Impact: -0.014539 → LEGITIMATE
+ 7.  :                   | Impact: -0.014190 → LEGITIMATE
+ 8.  -                   | Impact: -0.009677 → LEGITIMATE
+ 9.  :                   | Impact: -0.009615 → LEGITIMATE
+10.  -                   | Impact: -0.008777 → LEGITIMATE
+11.  home                | Impact: 0.005476 → PHISHING
+12.  -                   | Impact: -0.004935 → LEGITIMATE
+13.  -                   | Impact: 0.003590 → PHISHING
+14.  -                   | Impact: 0.003535 → PHISHING
+15.  cell                | Impact: 0.000561 → PHISHING
+16.  -                   | Impact: -0.000268 → LEGITIMATE
+17.                      | Impact: 0.000000 → PHISHING
+18.                      | Impact: 0.000000 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  portland            | Impact: 0.019087
+ 2.  home                | Impact: 0.005476
+ 3.  -                   | Impact: 0.003590
+ 4.  -                   | Impact: 0.003535
+ 5.  cell                | Impact: 0.000561
+ 6.                      | Impact: 0.000000
+ 7.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.041735
+ 2.  -                   | Impact: -0.036121
+ 3.  :                   | Impact: -0.025276
+ 4.  houston             | Impact: -0.019127
+ 5.  -                   | Impact: -0.014539
+ 6.  :                   | Impact: -0.014190
+ 7.  -                   | Impact: -0.009677
+ 8.  :                   | Impact: -0.009615
+ 9.  -                   | Impact: -0.008777
+10.  -                   | Impact: -0.004935
+11.  -                   | Impact: -0.000268

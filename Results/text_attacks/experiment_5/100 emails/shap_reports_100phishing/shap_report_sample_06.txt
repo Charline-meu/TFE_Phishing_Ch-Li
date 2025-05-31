@@ -1,0 +1,75 @@
+Phishing Sample 6
+=================
+
+Sample text preview: How Are You ? I am Mr. John Mbuli, a native of South Africa, but based in benin, I am a friend to late Engr. GERT I am also the present financial cont...
+
+Model prediction: [1.7369016e-04 9.9982637e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  regards             | Impact: 0.016990 → PHISHING
+ 2.  do                  | Impact: 0.013250 → PHISHING
+ 3.  contact             | Impact: 0.013250 → PHISHING
+ 4.  me                  | Impact: 0.013250 → PHISHING
+ 5.  you                 | Impact: 0.013250 → PHISHING
+ 6. uli                  | Impact: 0.012033 → PHISHING
+ 7.  mb                  | Impact: 0.010892 → PHISHING
+ 8.  mr                  | Impact: 0.010693 → PHISHING
+ 9.  republic            | Impact: 0.010691 → PHISHING
+10.  of                  | Impact: 0.010691 → PHISHING
+11.  benin               | Impact: 0.010691 → PHISHING
+12.  await               | Impact: 0.010585 → PHISHING
+13.  your                | Impact: 0.010585 → PHISHING
+14.  kindly              | Impact: 0.009346 → PHISHING
+15.  provide             | Impact: 0.009346 → PHISHING
+16.  me                  | Impact: 0.009346 → PHISHING
+17.  with                | Impact: 0.009346 → PHISHING
+18.  prof                | Impact: -0.009249 → LEGITIMATE
+19. fe                   | Impact: -0.009249 → LEGITIMATE
+20. sion                 | Impact: -0.009249 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.016990
+ 2.  do                  | Impact: 0.013250
+ 3.  contact             | Impact: 0.013250
+ 4.  me                  | Impact: 0.013250
+ 5.  you                 | Impact: 0.013250
+ 6. uli                  | Impact: 0.012033
+ 7.  mb                  | Impact: 0.010892
+ 8.  mr                  | Impact: 0.010693
+ 9.  republic            | Impact: 0.010691
+10.  of                  | Impact: 0.010691
+11.  benin               | Impact: 0.010691
+12.  await               | Impact: 0.010585
+13.  your                | Impact: 0.010585
+14.  kindly              | Impact: 0.009346
+15.  provide             | Impact: 0.009346
+16.  me                  | Impact: 0.009346
+17.  with                | Impact: 0.009346
+18.  ,                   | Impact: 0.006468
+19.  consent             | Impact: 0.005992
+20.  to                  | Impact: 0.005992
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  prof                | Impact: -0.009249
+ 2. fe                   | Impact: -0.009249
+ 3. sion                 | Impact: -0.009249
+ 4.  :                   | Impact: -0.007844
+ 5.  your                | Impact: -0.007844
+ 6.  .                   | Impact: -0.002599
+ 7.  and                 | Impact: -0.001480
+ 8.  :                   | Impact: -0.001480
+ 9.  your                | Impact: -0.001480
+10.  phone               | Impact: -0.001480
+11.  mutually            | Impact: -0.001261
+12.  agreed              | Impact: -0.001261
+13.  percentage          | Impact: -0.001261
+14.  .                   | Impact: -0.001261
+15.  to                  | Impact: -0.001189
+16.  enable              | Impact: -0.001189
+17.  the                 | Impact: -0.001164
+18.  amount              | Impact: -0.001164
+19.  on                  | Impact: -0.001164
+20.  a                   | Impact: -0.001164

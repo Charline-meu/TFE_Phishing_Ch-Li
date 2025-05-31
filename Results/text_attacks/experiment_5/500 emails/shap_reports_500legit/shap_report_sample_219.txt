@@ -1,0 +1,75 @@
+Sample 219
+==========
+
+Sample text preview: ---------------------- Forwarded by Ross Newlin/ENRON_DEVELOPMENT on // : AM --------------------------- Katherine Padilla // : AM To: Ross Newlin/ENR...
+
+Model prediction: [9.9978501e-01 2.1501908e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.015304 → LEGITIMATE
+ 2.  hello               | Impact: 0.008968 → PHISHING
+ 3.  en                  | Impact: -0.008274 → LEGITIMATE
+ 4.  :                   | Impact: -0.006182 → LEGITIMATE
+ 5. ec                   | Impact: -0.005611 → LEGITIMATE
+ 6.  @                   | Impact: 0.004648 → PHISHING
+ 7.  ladies              | Impact: 0.004458 → PHISHING
+ 8. ron                  | Impact: -0.004434 → LEGITIMATE
+ 9.  chart               | Impact: -0.004330 → LEGITIMATE
+10.  site                | Impact: -0.004287 → LEGITIMATE
+11.  en                  | Impact: -0.003578 → LEGITIMATE
+12.  .                   | Impact: 0.003536 → PHISHING
+13.  plant               | Impact: -0.003374 → LEGITIMATE
+14. ron                  | Impact: -0.003086 → LEGITIMATE
+15.  :                   | Impact: -0.002866 → LEGITIMATE
+16.  o                   | Impact: -0.002698 → LEGITIMATE
+17. ec                   | Impact: -0.002698 → LEGITIMATE
+18. ron                  | Impact: -0.002531 → LEGITIMATE
+19.  subject             | Impact: -0.002525 → LEGITIMATE
+20.  site                | Impact: -0.002457 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  hello               | Impact: 0.008968
+ 2.  @                   | Impact: 0.004648
+ 3.  ladies              | Impact: 0.004458
+ 4.  .                   | Impact: 0.003536
+ 5.  your                | Impact: 0.002231
+ 6.  help                | Impact: 0.002231
+ 7.  .                   | Impact: 0.001862
+ 8.  i                   | Impact: 0.001171
+ 9.  need                | Impact: 0.001171
+10.  org                 | Impact: 0.001159
+11.  chart               | Impact: 0.001159
+12.  of                  | Impact: 0.001159
+13.  your                | Impact: 0.001159
+14.  site                | Impact: 0.000935
+15.  a                   | Impact: 0.000935
+16.  .                   | Impact: 0.000935
+17.  ,                   | Impact: 0.000610
+18.  .                   | Impact: 0.000503
+19.  s                   | Impact: 0.000492
+20.  .                   | Impact: 0.000492
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.015304
+ 2.  en                  | Impact: -0.008274
+ 3.  :                   | Impact: -0.006182
+ 4. ec                   | Impact: -0.005611
+ 5. ron                  | Impact: -0.004434
+ 6.  chart               | Impact: -0.004330
+ 7.  site                | Impact: -0.004287
+ 8.  en                  | Impact: -0.003578
+ 9.  plant               | Impact: -0.003374
+10. ron                  | Impact: -0.003086
+11.  :                   | Impact: -0.002866
+12.  o                   | Impact: -0.002698
+13. ec                   | Impact: -0.002698
+14. ron                  | Impact: -0.002531
+15.  subject             | Impact: -0.002525
+16.  site                | Impact: -0.002457
+17.  assistants          | Impact: -0.002457
+18.  o                   | Impact: -0.002367
+19.  .                   | Impact: -0.002270
+20.  managers            | Impact: -0.002144

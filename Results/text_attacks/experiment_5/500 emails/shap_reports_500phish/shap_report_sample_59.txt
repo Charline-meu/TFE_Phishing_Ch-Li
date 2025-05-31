@@ -1,0 +1,75 @@
+Sample 59
+=========
+
+Sample text preview: Dear sir, As you read this, I don't want you to feel sorry for me, because, I believe everyone will die someday. My name is IDRIS UMAR a merchant in D...
+
+Model prediction: [1.7307021e-04 9.9982697e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  i                   | Impact: 0.009532 → PHISHING
+ 2.  will                | Impact: 0.009532 → PHISHING
+ 3.  want                | Impact: 0.009532 → PHISHING
+ 4.  you                 | Impact: 0.009532 → PHISHING
+ 5.  my                  | Impact: 0.008866 → PHISHING
+ 6.  name                | Impact: 0.008866 → PHISHING
+ 7.  is                  | Impact: 0.008866 → PHISHING
+ 8.  merchant            | Impact: 0.008553 → PHISHING
+ 9.  in                  | Impact: 0.008553 → PHISHING
+10.  dubai               | Impact: 0.008553 → PHISHING
+11.  ,                   | Impact: 0.008553 → PHISHING
+12.  id                  | Impact: 0.008371 → PHISHING
+13. ris                  | Impact: 0.008371 → PHISHING
+14.  umar                | Impact: 0.008371 → PHISHING
+15.  a                   | Impact: 0.008371 → PHISHING
+16.  eighteen            | Impact: 0.007845 → PHISHING
+17.  million             | Impact: 0.007845 → PHISHING
+18.  dollars             | Impact: 0.007845 → PHISHING
+19.  $                   | Impact: 0.007845 → PHISHING
+20.  ,                   | Impact: 0.007845 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  i                   | Impact: 0.009532
+ 2.  will                | Impact: 0.009532
+ 3.  want                | Impact: 0.009532
+ 4.  you                 | Impact: 0.009532
+ 5.  my                  | Impact: 0.008866
+ 6.  name                | Impact: 0.008866
+ 7.  is                  | Impact: 0.008866
+ 8.  merchant            | Impact: 0.008553
+ 9.  in                  | Impact: 0.008553
+10.  dubai               | Impact: 0.008553
+11.  ,                   | Impact: 0.008553
+12.  id                  | Impact: 0.008371
+13. ris                  | Impact: 0.008371
+14.  umar                | Impact: 0.008371
+15.  a                   | Impact: 0.008371
+16.  eighteen            | Impact: 0.007845
+17.  million             | Impact: 0.007845
+18.  dollars             | Impact: 0.007845
+19.  $                   | Impact: 0.007845
+20.  ,                   | Impact: 0.007845
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  them                | Impact: -0.000913
+ 2.  anymore             | Impact: -0.000913
+ 3.  ,                   | Impact: -0.000913
+ 4.  hence               | Impact: -0.000913
+ 5.  ,                   | Impact: -0.000913
+ 6.  i                   | Impact: -0.000913
+ 7.  do                  | Impact: -0.000913
+ 8.  not                 | Impact: -0.000913
+ 9.  trust               | Impact: -0.000913
+10.  .                   | Impact: -0.000776
+11.  in                  | Impact: -0.000776
+12.  the                 | Impact: -0.000776
+13.  u                   | Impact: -0.000776
+14.  as                  | Impact: -0.000745
+15.  they                | Impact: -0.000745
+16.  seem                | Impact: -0.000745
+17.  not                 | Impact: -0.000745
+18.  to                  | Impact: -0.000745
+19.  be                  | Impact: -0.000745
+20.  contend             | Impact: -0.000745

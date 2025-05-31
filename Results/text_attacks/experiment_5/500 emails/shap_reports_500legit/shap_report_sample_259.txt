@@ -1,0 +1,75 @@
+Sample 259
+==========
+
+Sample text preview: o.k. Thanks!! Kate Symes @ ECT // : PM To: Evelyn Metoyer/Corp/Enron@ENRON cc: Subject: Re: -- Checkoutq Chris Mallory and the Prebon broker are curre...
+
+Model prediction: [9.9978572e-01 2.1431153e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  thanks              | Impact: -0.064270 → LEGITIMATE
+ 2.  k                   | Impact: 0.012135 → PHISHING
+ 3. power                | Impact: -0.011606 → LEGITIMATE
+ 4.  !                   | Impact: 0.009388 → PHISHING
+ 5.  has                 | Impact: -0.008434 → LEGITIMATE
+ 6.  en                  | Impact: -0.007689 → LEGITIMATE
+ 7.  !                   | Impact: 0.007114 → PHISHING
+ 8. ron                  | Impact: -0.006010 → LEGITIMATE
+ 9.  .                   | Impact: 0.005652 → PHISHING
+10.  @                   | Impact: 0.005286 → PHISHING
+11.  ec                  | Impact: -0.005160 → LEGITIMATE
+12.  o                   | Impact: 0.005106 → PHISHING
+13.  $                   | Impact: -0.004623 → LEGITIMATE
+14.  en                  | Impact: -0.004443 → LEGITIMATE
+15.  @                   | Impact: 0.003806 → PHISHING
+16.  .                   | Impact: 0.003493 → PHISHING
+17.  .                   | Impact: 0.003135 → PHISHING
+18.  ec                  | Impact: -0.002955 → LEGITIMATE
+19. ron                  | Impact: -0.002544 → LEGITIMATE
+20.  debating            | Impact: -0.002285 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  k                   | Impact: 0.012135
+ 2.  !                   | Impact: 0.009388
+ 3.  !                   | Impact: 0.007114
+ 4.  .                   | Impact: 0.005652
+ 5.  @                   | Impact: 0.005286
+ 6.  o                   | Impact: 0.005106
+ 7.  @                   | Impact: 0.003806
+ 8.  .                   | Impact: 0.003493
+ 9.  .                   | Impact: 0.003135
+10.  @                   | Impact: 0.001864
+11.  @                   | Impact: 0.001656
+12.  .                   | Impact: 0.001628
+13.  .                   | Impact: 0.000856
+14.  /                   | Impact: 0.000855
+15.  currently           | Impact: 0.000378
+16. q                    | Impact: 0.000200
+17.  chris               | Impact: 0.000199
+18.  mallory             | Impact: 0.000199
+19.  /                   | Impact: 0.000198
+20.  shows               | Impact: 0.000015
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.064270
+ 2. power                | Impact: -0.011606
+ 3.  has                 | Impact: -0.008434
+ 4.  en                  | Impact: -0.007689
+ 5. ron                  | Impact: -0.006010
+ 6.  ec                  | Impact: -0.005160
+ 7.  $                   | Impact: -0.004623
+ 8.  en                  | Impact: -0.004443
+ 9.  ec                  | Impact: -0.002955
+10. ron                  | Impact: -0.002544
+11.  debating            | Impact: -0.002285
+12.  thanks              | Impact: -0.002173
+13.  :                   | Impact: -0.001905
+14. t                    | Impact: -0.001866
+15.  en                  | Impact: -0.001702
+16.  price               | Impact: -0.001634
+17.  let                 | Impact: -0.001538
+18.  pre                 | Impact: -0.001397
+19.  pm                  | Impact: -0.001326
+20.  price               | Impact: -0.001224

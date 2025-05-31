@@ -1,0 +1,55 @@
+Sample 489
+==========
+
+Sample text preview: FROM THE DESK OF MR IRU DUNU EDWIN AUDITING AND ACCOUNTING MANEGER , BANK OF AFRICA (B.O.A) OUAGADOUGOU-BURKINA FASO. Dear Friend, I am the manager of...
+
+Model prediction: [2.0116310e-04 9.9979883e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  i                   | Impact: 0.008738 → PHISHING
+ 2.  will                | Impact: 0.008738 → PHISHING
+ 3.  visit               | Impact: 0.008738 → PHISHING
+ 4.  your                | Impact: 0.008738 → PHISHING
+ 5.  country             | Impact: 0.008738 → PHISHING
+ 6.  for                 | Impact: 0.008738 → PHISHING
+ 7.  transfer            | Impact: 0.007460 → PHISHING
+ 8.  of                  | Impact: 0.007460 → PHISHING
+ 9.  this                | Impact: 0.007460 → PHISHING
+10.  fund                | Impact: 0.007460 → PHISHING
+11.  to                  | Impact: 0.006950 → PHISHING
+12.  you                 | Impact: 0.006950 → PHISHING
+13.  arranged            | Impact: 0.006950 → PHISHING
+14.  ,                   | Impact: 0.006950 → PHISHING
+15.  to                  | Impact: 0.006765 → PHISHING
+16.  enable              | Impact: 0.006765 → PHISHING
+17.  the                 | Impact: 0.006765 → PHISHING
+18.  immediate           | Impact: 0.006765 → PHISHING
+19.  me                  | Impact: 0.006356 → PHISHING
+20.  your                | Impact: 0.006356 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  i                   | Impact: 0.008738
+ 2.  will                | Impact: 0.008738
+ 3.  visit               | Impact: 0.008738
+ 4.  your                | Impact: 0.008738
+ 5.  country             | Impact: 0.008738
+ 6.  for                 | Impact: 0.008738
+ 7.  transfer            | Impact: 0.007460
+ 8.  of                  | Impact: 0.007460
+ 9.  this                | Impact: 0.007460
+10.  fund                | Impact: 0.007460
+11.  to                  | Impact: 0.006950
+12.  you                 | Impact: 0.006950
+13.  arranged            | Impact: 0.006950
+14.  ,                   | Impact: 0.006950
+15.  to                  | Impact: 0.006765
+16.  enable              | Impact: 0.006765
+17.  the                 | Impact: 0.006765
+18.  immediate           | Impact: 0.006765
+19.  me                  | Impact: 0.006356
+20.  your                | Impact: 0.006356
+
+Top features pushing towards LEGITIMATE classification:

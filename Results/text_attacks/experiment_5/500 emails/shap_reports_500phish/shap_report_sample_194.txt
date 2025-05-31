@@ -1,0 +1,63 @@
+Sample 194
+==========
+
+Sample text preview: Good Day I am Mr. Patrick Chan, Executive Director and Chief Financial Officer of the Hang Seng Bank Ltd. I have a concealed business suggestion for y...
+
+Model prediction: [1.6936535e-04 9.9983060e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  nominated           | Impact: 0.013086 → PHISHING
+ 2.  bank                | Impact: 0.013086 → PHISHING
+ 3.  account             | Impact: 0.013086 → PHISHING
+ 4.  we                  | Impact: 0.013086 → PHISHING
+ 5.  wife                | Impact: 0.011631 → PHISHING
+ 6.  been                | Impact: 0.010228 → PHISHING
+ 7.  transferred         | Impact: 0.010228 → PHISHING
+ 8.  to                  | Impact: 0.010228 → PHISHING
+ 9.  your                | Impact: 0.010228 → PHISHING
+10.  only                | Impact: 0.008788 → PHISHING
+11.  daughter            | Impact: 0.008788 → PHISHING
+12.  twenty              | Impact: 0.008325 → PHISHING
+13.  four                | Impact: 0.008325 → PHISHING
+14.  million             | Impact: 0.008325 → PHISHING
+15.  five                | Impact: 0.008325 → PHISHING
+16.  hundred             | Impact: 0.008298 → PHISHING
+17.  thousand            | Impact: 0.008298 → PHISHING
+18.  united              | Impact: 0.008298 → PHISHING
+19.  state               | Impact: 0.008298 → PHISHING
+20.  once                | Impact: 0.007909 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  nominated           | Impact: 0.013086
+ 2.  bank                | Impact: 0.013086
+ 3.  account             | Impact: 0.013086
+ 4.  we                  | Impact: 0.013086
+ 5.  wife                | Impact: 0.011631
+ 6.  been                | Impact: 0.010228
+ 7.  transferred         | Impact: 0.010228
+ 8.  to                  | Impact: 0.010228
+ 9.  your                | Impact: 0.010228
+10.  only                | Impact: 0.008788
+11.  daughter            | Impact: 0.008788
+12.  twenty              | Impact: 0.008325
+13.  four                | Impact: 0.008325
+14.  million             | Impact: 0.008325
+15.  five                | Impact: 0.008325
+16.  hundred             | Impact: 0.008298
+17.  thousand            | Impact: 0.008298
+18.  united              | Impact: 0.008298
+19.  state               | Impact: 0.008298
+20.  once                | Impact: 0.007909
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.000934
+ 2.  attorney            | Impact: -0.000934
+ 3.  will                | Impact: -0.000934
+ 4.  also                | Impact: -0.000934
+ 5.  fill                | Impact: -0.000934
+ 6.  in                  | Impact: -0.000934
+ 7.  for                 | Impact: -0.000934
+ 8.  claims              | Impact: -0.000934

@@ -1,0 +1,75 @@
+Sample 28
+=========
+
+Sample text preview: DEAN GRAY CALLE SEVILLA , ,MADRID- SPAIN TELL:+ PRIVATE PROPOSITION: Dear Rrrrr, I am Mr.Dean Gray, the Auditor General of a reputable bank in Spain ,...
+
+Model prediction: [1.8191559e-04 9.9981815e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  me                  | Impact: 0.009704 → PHISHING
+ 2.  file                | Impact: 0.009704 → PHISHING
+ 3.  mr                  | Impact: 0.008351 → PHISHING
+ 4.  .                   | Impact: 0.008351 → PHISHING
+ 5.  money               | Impact: 0.007840 → PHISHING
+ 6.  while               | Impact: 0.007840 → PHISHING
+ 7.  funds               | Impact: 0.007807 → PHISHING
+ 8.  to                  | Impact: 0.007807 → PHISHING
+ 9.  dean                | Impact: -0.007285 → LEGITIMATE
+10.  gray                | Impact: -0.007285 → LEGITIMATE
+11.  bestowed            | Impact: 0.007218 → PHISHING
+12.  in                  | Impact: 0.007218 → PHISHING
+13.  you                 | Impact: 0.007218 → PHISHING
+14.  ,                   | Impact: 0.007218 → PHISHING
+15.  proceed             | Impact: 0.006749 → PHISHING
+16.  on                  | Impact: 0.006749 → PHISHING
+17.  the                 | Impact: 0.006749 → PHISHING
+18.  transfer            | Impact: 0.006749 → PHISHING
+19.  seek                | Impact: 0.006516 → PHISHING
+20.  your                | Impact: 0.006516 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  me                  | Impact: 0.009704
+ 2.  file                | Impact: 0.009704
+ 3.  mr                  | Impact: 0.008351
+ 4.  .                   | Impact: 0.008351
+ 5.  money               | Impact: 0.007840
+ 6.  while               | Impact: 0.007840
+ 7.  funds               | Impact: 0.007807
+ 8.  to                  | Impact: 0.007807
+ 9.  bestowed            | Impact: 0.007218
+10.  in                  | Impact: 0.007218
+11.  you                 | Impact: 0.007218
+12.  ,                   | Impact: 0.007218
+13.  proceed             | Impact: 0.006749
+14.  on                  | Impact: 0.006749
+15.  the                 | Impact: 0.006749
+16.  transfer            | Impact: 0.006749
+17.  seek                | Impact: 0.006516
+18.  your                | Impact: 0.006516
+19.  letter              | Impact: 0.006461
+20.  of                  | Impact: 0.006461
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  dean                | Impact: -0.007285
+ 2.  gray                | Impact: -0.007285
+ 3.                      | Impact: -0.001179
+ 4.                      | Impact: -0.000884
+ 5.  dean                | Impact: -0.000884
+ 6.  gray                | Impact: -0.000884
+ 7.  ,                   | Impact: -0.000884
+ 8.  call                | Impact: -0.000884
+ 9. e                    | Impact: -0.000884
+10.  sevilla             | Impact: -0.000884
+11.  i                   | Impact: -0.000827
+12.  sent                | Impact: -0.000827
+13.  a                   | Impact: -0.000827
+14.  routine             | Impact: -0.000827
+15.  in                  | Impact: -0.000490
+16.  canada              | Impact: -0.000490
+17.  )                   | Impact: -0.000490
+18.  ,                   | Impact: -0.000490
+19.  (                   | Impact: -0.000490
+20.  a                   | Impact: -0.000490

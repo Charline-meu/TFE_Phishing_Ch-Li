@@ -1,0 +1,75 @@
+Sample 180
+==========
+
+Sample text preview: We have extended our Free seat sale until Thursday st November For details see ***********************************************************************...
+
+Model prediction: [0.6533207  0.34667933]
+Predicted class: LEGITIMATE with 0.6533 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: -0.046877 → LEGITIMATE
+ 2.  on                  | Impact: -0.046877 → LEGITIMATE
+ 3.  ryan                | Impact: -0.046877 → LEGITIMATE
+ 4. air                  | Impact: -0.046877 → LEGITIMATE
+ 5.  partner             | Impact: -0.040711 → LEGITIMATE
+ 6.  new                 | Impact: -0.040711 → LEGITIMATE
+ 7.  ryan                | Impact: -0.040711 → LEGITIMATE
+ 8. air                  | Impact: -0.040711 → LEGITIMATE
+ 9.  we                  | Impact: 0.020688 → PHISHING
+10.  are                 | Impact: 0.020688 → PHISHING
+11.  committed           | Impact: 0.020688 → PHISHING
+12.  to                  | Impact: 0.020688 → PHISHING
+13.  giving              | Impact: 0.020688 → PHISHING
+14.  you                 | Impact: 0.020688 → PHISHING
+15.  cheaper             | Impact: 0.020688 → PHISHING
+16.  rates               | Impact: 0.020688 → PHISHING
+17.  all                 | Impact: 0.020688 → PHISHING
+18.  the                 | Impact: 0.020688 → PHISHING
+19.  time                | Impact: 0.020688 → PHISHING
+20.  !                   | Impact: 0.020688 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  we                  | Impact: 0.020688
+ 2.  are                 | Impact: 0.020688
+ 3.  committed           | Impact: 0.020688
+ 4.  to                  | Impact: 0.020688
+ 5.  giving              | Impact: 0.020688
+ 6.  you                 | Impact: 0.020688
+ 7.  cheaper             | Impact: 0.020688
+ 8.  rates               | Impact: 0.020688
+ 9.  all                 | Impact: 0.020688
+10.  the                 | Impact: 0.020688
+11.  time                | Impact: 0.020688
+12.  !                   | Impact: 0.020688
+13.  we                  | Impact: 0.010286
+14.  have                | Impact: 0.010286
+15.  slashed             | Impact: 0.010286
+16.  our                 | Impact: 0.010286
+17.  call                | Impact: 0.010286
+18.  rates               | Impact: 0.010286
+19.  again               | Impact: 0.010286
+20.  -                   | Impact: 0.010286
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  click               | Impact: -0.046877
+ 2.  on                  | Impact: -0.046877
+ 3.  ryan                | Impact: -0.046877
+ 4. air                  | Impact: -0.046877
+ 5.  partner             | Impact: -0.040711
+ 6.  new                 | Impact: -0.040711
+ 7.  ryan                | Impact: -0.040711
+ 8. air                  | Impact: -0.040711
+ 9.  .                   | Impact: -0.012922
+10.  low                 | Impact: -0.010598
+11.  cost                | Impact: -0.010598
+12.  mobile              | Impact: -0.010598
+13.  phone               | Impact: -0.010598
+14.  endorsed            | Impact: -0.009154
+15.  by                  | Impact: -0.009154
+16.  ryan                | Impact: -0.009154
+17. air                  | Impact: -0.009154
+18.  holdings            | Impact: -0.009154
+19.  plc                 | Impact: -0.009154
+20.  or                  | Impact: -0.009154

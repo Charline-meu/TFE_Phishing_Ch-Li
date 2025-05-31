@@ -1,0 +1,72 @@
+Phishing Sample 13
+==================
+
+Sample text preview: Jim: Here is a draft copy of NewCo's trading, risk management & backoffice presentation. The last page is still being worked through. Thanks! Ben Roge...
+
+Model prediction: [9.9977833e-01 2.2168276e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  &                   | Impact: 0.052879 → PHISHING
+ 2.  thanks              | Impact: -0.033229 → LEGITIMATE
+ 3.  through             | Impact: 0.032067 → PHISHING
+ 4.  risk                | Impact: -0.029159 → LEGITIMATE
+ 5.  ben                 | Impact: -0.025691 → LEGITIMATE
+ 6.  last                | Impact: 0.022955 → PHISHING
+ 7.  draft               | Impact: -0.021858 → LEGITIMATE
+ 8.  management          | Impact: -0.018881 → LEGITIMATE
+ 9.  worked              | Impact: -0.016779 → LEGITIMATE
+10. co                   | Impact: 0.016702 → PHISHING
+11.  is                  | Impact: 0.015388 → PHISHING
+12.  the                 | Impact: 0.011215 → PHISHING
+13.  being               | Impact: -0.010767 → LEGITIMATE
+14.  .                   | Impact: 0.009613 → PHISHING
+15.  page                | Impact: 0.009133 → PHISHING
+16.  !                   | Impact: -0.008932 → LEGITIMATE
+17.  new                 | Impact: -0.008853 → LEGITIMATE
+18.  '                   | Impact: -0.006374 → LEGITIMATE
+19.  a                   | Impact: 0.005964 → PHISHING
+20.  :                   | Impact: -0.005630 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  &                   | Impact: 0.052879
+ 2.  through             | Impact: 0.032067
+ 3.  last                | Impact: 0.022955
+ 4. co                   | Impact: 0.016702
+ 5.  is                  | Impact: 0.015388
+ 6.  the                 | Impact: 0.011215
+ 7.  .                   | Impact: 0.009613
+ 8.  page                | Impact: 0.009133
+ 9.  a                   | Impact: 0.005964
+10.  is                  | Impact: 0.004716
+11.  ,                   | Impact: 0.004040
+12.  here                | Impact: 0.002143
+13.  copy                | Impact: 0.001655
+14.  of                  | Impact: 0.001093
+15. off                  | Impact: 0.000802
+16.  still               | Impact: 0.000728
+17.                      | Impact: 0.000001
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.033229
+ 2.  risk                | Impact: -0.029159
+ 3.  ben                 | Impact: -0.025691
+ 4.  draft               | Impact: -0.021858
+ 5.  management          | Impact: -0.018881
+ 6.  worked              | Impact: -0.016779
+ 7.  being               | Impact: -0.010767
+ 8.  !                   | Impact: -0.008932
+ 9.  new                 | Impact: -0.008853
+10.  '                   | Impact: -0.006374
+11.  :                   | Impact: -0.005630
+12.  presentation        | Impact: -0.004900
+13.  jim                 | Impact: -0.004512
+14.  s                   | Impact: -0.004371
+15.  .                   | Impact: -0.002886
+16.  trading             | Impact: -0.002778
+17.  rogers              | Impact: -0.002460
+18.  back                | Impact: -0.000590
+19. ice                  | Impact: -0.000245
+20.                      | Impact: -0.000065

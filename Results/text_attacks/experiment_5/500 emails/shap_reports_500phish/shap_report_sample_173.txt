@@ -1,0 +1,75 @@
+Sample 173
+==========
+
+Sample text preview: Content-Type: text/plain Message-Id: Date: Wed, Mar :: + (CET) Content-Transfer-Encoding: quoted-printable =D Dear friend, =D =D I apollogize in advan...
+
+Model prediction: [1.5595992e-04 9.9984407e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  names               | Impact: 0.016888 → PHISHING
+ 2.  your                | Impact: 0.016430 → PHISHING
+ 3.  full                | Impact: 0.016430 → PHISHING
+ 4.  you                 | Impact: 0.014880 → PHISHING
+ 5.  me                  | Impact: 0.012693 → PHISHING
+ 6.  call                | Impact: 0.012693 → PHISHING
+ 7.  fund                | Impact: 0.009903 → PHISHING
+ 8.  i                   | Impact: 0.009903 → PHISHING
+ 9.  =                   | Impact: 0.009903 → PHISHING
+10.  ,                   | Impact: 0.007354 → PHISHING
+11.  date                | Impact: 0.007354 → PHISHING
+12.  :                   | Impact: 0.007354 → PHISHING
+13.  wed                 | Impact: 0.007354 → PHISHING
+14.  embarrassment       | Impact: 0.006640 → PHISHING
+15.  because             | Impact: 0.006640 → PHISHING
+16.  of                  | Impact: 0.006640 → PHISHING
+17.  =                   | Impact: 0.006640 → PHISHING
+18.  =                   | Impact: 0.006490 → PHISHING
+19.  d                   | Impact: 0.006490 → PHISHING
+20.  here                | Impact: 0.006397 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  names               | Impact: 0.016888
+ 2.  your                | Impact: 0.016430
+ 3.  full                | Impact: 0.016430
+ 4.  you                 | Impact: 0.014880
+ 5.  me                  | Impact: 0.012693
+ 6.  call                | Impact: 0.012693
+ 7.  fund                | Impact: 0.009903
+ 8.  i                   | Impact: 0.009903
+ 9.  =                   | Impact: 0.009903
+10.  ,                   | Impact: 0.007354
+11.  date                | Impact: 0.007354
+12.  :                   | Impact: 0.007354
+13.  wed                 | Impact: 0.007354
+14.  embarrassment       | Impact: 0.006640
+15.  because             | Impact: 0.006640
+16.  of                  | Impact: 0.006640
+17.  =                   | Impact: 0.006640
+18.  =                   | Impact: 0.006490
+19.  d                   | Impact: 0.006490
+20.  here                | Impact: 0.006397
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  n                   | Impact: -0.001069
+ 2. form                 | Impact: -0.001069
+ 3. ation                | Impact: -0.001069
+ 4.  as                  | Impact: -0.001069
+ 5.  soon                | Impact: -0.001069
+ 6.  interest            | Impact: -0.000861
+ 7.  to                  | Impact: -0.000861
+ 8.  deal                | Impact: -0.000861
+ 9.  .                   | Impact: -0.000861
+10.  as                  | Impact: -0.000812
+11.  you                 | Impact: -0.000812
+12.  indicate            | Impact: -0.000812
+13.  app                 | Impact: -0.000812
+14. re                   | Impact: -0.000812
+15. cia                  | Impact: -0.000812
+16. ble                  | Impact: -0.000812
+17.  content             | Impact: -0.000640
+18.  -                   | Impact: -0.000640
+19.  transfer            | Impact: -0.000640
+20.  -                   | Impact: -0.000640

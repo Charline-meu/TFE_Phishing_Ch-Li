@@ -1,0 +1,75 @@
+Sample 459
+==========
+
+Sample text preview: th floor, Guangxing Building, th Nanshan Road,Xiamen , China. Dear madam/sir, I am Mr Yan Chan Lee, Managing Director of APEX STONE. We are group or b...
+
+Model prediction: [1.740169e-04 9.998260e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.026955 → PHISHING
+ 2.  madam               | Impact: 0.026955 → PHISHING
+ 3.  your                | Impact: 0.023453 → PHISHING
+ 4.  full                | Impact: 0.023453 → PHISHING
+ 5.  contact             | Impact: 0.022740 → PHISHING
+ 6.  addresses           | Impact: 0.022740 → PHISHING
+ 7.  mr                  | Impact: 0.019502 → PHISHING
+ 8.  yan                 | Impact: 0.019502 → PHISHING
+ 9.  you                 | Impact: 0.018681 → PHISHING
+10.  to                  | Impact: 0.018681 → PHISHING
+11.  th                  | Impact: 0.014017 → PHISHING
+12.  nan                 | Impact: 0.013237 → PHISHING
+13. shan                 | Impact: 0.013237 → PHISHING
+14.  number              | Impact: 0.011958 → PHISHING
+15.  /                   | Impact: 0.011958 → PHISHING
+16.  your                | Impact: 0.011681 → PHISHING
+17.  phone               | Impact: 0.011681 → PHISHING
+18.  contact             | Impact: 0.010934 → PHISHING
+19. ing                  | Impact: 0.010934 → PHISHING
+20.  be                  | Impact: 0.008414 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.026955
+ 2.  madam               | Impact: 0.026955
+ 3.  your                | Impact: 0.023453
+ 4.  full                | Impact: 0.023453
+ 5.  contact             | Impact: 0.022740
+ 6.  addresses           | Impact: 0.022740
+ 7.  mr                  | Impact: 0.019502
+ 8.  yan                 | Impact: 0.019502
+ 9.  you                 | Impact: 0.018681
+10.  to                  | Impact: 0.018681
+11.  th                  | Impact: 0.014017
+12.  nan                 | Impact: 0.013237
+13. shan                 | Impact: 0.013237
+14.  number              | Impact: 0.011958
+15.  /                   | Impact: 0.011958
+16.  your                | Impact: 0.011681
+17.  phone               | Impact: 0.011681
+18.  contact             | Impact: 0.010934
+19. ing                  | Impact: 0.010934
+20.  be                  | Impact: 0.008414
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  problem             | Impact: -0.005015
+ 2.  .                   | Impact: -0.005015
+ 3.  .                   | Impact: -0.004905
+ 4.  managing            | Impact: -0.003349
+ 5.  director            | Impact: -0.003349
+ 6.  .                   | Impact: -0.003349
+ 7.  with                | Impact: -0.003137
+ 8.  the                 | Impact: -0.003137
+ 9.  ideal               | Impact: -0.003137
+10.  of                  | Impact: -0.003137
+11.  di                  | Impact: -0.002945
+12. stan                 | Impact: -0.002945
+13. s                    | Impact: -0.002945
+14.  building            | Impact: -0.002344
+15.  ,                   | Impact: -0.002344
+16.  thanks              | Impact: -0.002236
+17.  in                  | Impact: -0.002236
+18.  advance             | Impact: -0.002236
+19.  .                   | Impact: -0.002236
+20.  gu                  | Impact: -0.002084

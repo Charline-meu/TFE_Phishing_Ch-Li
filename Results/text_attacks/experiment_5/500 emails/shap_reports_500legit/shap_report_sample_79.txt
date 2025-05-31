@@ -1,0 +1,75 @@
+Sample 79
+=========
+
+Sample text preview: fla- be proud! ---------------------- Forwarded by Matthew Lenhart/HOU/ECT on // : PM --------------------------- on // :: PM To: cc: Subject: FW: FW:...
+
+Model prediction: [9.9955541e-01 4.4462678e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  subject             | Impact: -0.000619 → LEGITIMATE
+ 2.  :                   | Impact: -0.000619 → LEGITIMATE
+ 3.  f                   | Impact: -0.000619 → LEGITIMATE
+ 4. w                    | Impact: -0.000619 → LEGITIMATE
+ 5.  :                   | Impact: -0.000619 → LEGITIMATE
+ 6.  "                   | Impact: -0.000482 → LEGITIMATE
+ 7.  said                | Impact: -0.000482 → LEGITIMATE
+ 8.  utah                | Impact: -0.000482 → LEGITIMATE
+ 9.  senator             | Impact: -0.000482 → LEGITIMATE
+10.  or                  | Impact: -0.000482 → LEGITIMATE
+11. in                   | Impact: -0.000482 → LEGITIMATE
+12.  >                   | Impact: -0.000482 → LEGITIMATE
+13.  hatch               | Impact: -0.000482 → LEGITIMATE
+14.  .                   | Impact: -0.000482 → LEGITIMATE
+15.  ;                   | Impact: 0.000476 → PHISHING
+16.  im                  | Impact: 0.000476 → PHISHING
+17. cea                  | Impact: 0.000476 → PHISHING
+18. cc                   | Impact: 0.000476 → PHISHING
+19. mail                 | Impact: 0.000476 → PHISHING
+20.  pop                 | Impact: 0.000476 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ;                   | Impact: 0.000476
+ 2.  im                  | Impact: 0.000476
+ 3. cea                  | Impact: 0.000476
+ 4. cc                   | Impact: 0.000476
+ 5. mail                 | Impact: 0.000476
+ 6.  pop                 | Impact: 0.000476
+ 7. bes                  | Impact: 0.000476
+ 8. eda                  | Impact: 0.000476
+ 9.  s                   | Impact: 0.000304
+10.  .                   | Impact: 0.000304
+11.  elliott             | Impact: 0.000304
+12.  ;                   | Impact: 0.000304
+13.  k                   | Impact: 0.000304
+14.  .                   | Impact: 0.000304
+15.  "                   | Impact: 0.000295
+16.  >                   | Impact: 0.000295
+17.  several             | Impact: 0.000295
+18.  congress            | Impact: 0.000295
+19. men                  | Impact: 0.000295
+20.  told                | Impact: 0.000295
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  subject             | Impact: -0.000619
+ 2.  :                   | Impact: -0.000619
+ 3.  f                   | Impact: -0.000619
+ 4. w                    | Impact: -0.000619
+ 5.  :                   | Impact: -0.000619
+ 6.  "                   | Impact: -0.000482
+ 7.  said                | Impact: -0.000482
+ 8.  utah                | Impact: -0.000482
+ 9.  senator             | Impact: -0.000482
+10.  or                  | Impact: -0.000482
+11. in                   | Impact: -0.000482
+12.  >                   | Impact: -0.000482
+13.  hatch               | Impact: -0.000482
+14.  .                   | Impact: -0.000482
+15.  :                   | Impact: -0.000472
+16.  am                  | Impact: -0.000472
+17.  to                  | Impact: -0.000472
+18.  :                   | Impact: -0.000472
+19.  cs                  | Impact: -0.000472
+20. train                | Impact: -0.000472

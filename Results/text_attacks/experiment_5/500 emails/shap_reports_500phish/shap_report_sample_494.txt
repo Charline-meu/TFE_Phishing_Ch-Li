@@ -1,0 +1,75 @@
+Sample 494
+==========
+
+Sample text preview: Dear Sir, I am Alhaji Mohammed Abacha, the son of the late Nigerian Head of State who died on the th of June while in active services. Following the s...
+
+Model prediction: [1.7248158e-04 9.9982750e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  father              | Impact: 0.013709 → PHISHING
+ 2.  my                  | Impact: 0.012370 → PHISHING
+ 3.  late                | Impact: 0.012370 → PHISHING
+ 4.  fund                | Impact: 0.012190 → PHISHING
+ 5.  to                  | Impact: 0.012190 → PHISHING
+ 6.  you                 | Impact: 0.012190 → PHISHING
+ 7.  for                 | Impact: 0.012190 → PHISHING
+ 8.                      | Impact: 0.011157 → PHISHING
+ 9.  dear                | Impact: 0.011157 → PHISHING
+10.  sir                 | Impact: 0.010270 → PHISHING
+11.  directly            | Impact: 0.008414 → PHISHING
+12.  with                | Impact: 0.008414 → PHISHING
+13.  you                 | Impact: 0.008414 → PHISHING
+14.  .                   | Impact: 0.008414 → PHISHING
+15.  your                | Impact: 0.007882 → PHISHING
+16.  kind                | Impact: 0.007882 → PHISHING
+17.  assistance          | Impact: 0.007882 → PHISHING
+18.  .                   | Impact: 0.007882 → PHISHING
+19.  father              | Impact: 0.007254 → PHISHING
+20.  did                 | Impact: 0.007254 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  father              | Impact: 0.013709
+ 2.  my                  | Impact: 0.012370
+ 3.  late                | Impact: 0.012370
+ 4.  fund                | Impact: 0.012190
+ 5.  to                  | Impact: 0.012190
+ 6.  you                 | Impact: 0.012190
+ 7.  for                 | Impact: 0.012190
+ 8.                      | Impact: 0.011157
+ 9.  dear                | Impact: 0.011157
+10.  sir                 | Impact: 0.010270
+11.  directly            | Impact: 0.008414
+12.  with                | Impact: 0.008414
+13.  you                 | Impact: 0.008414
+14.  .                   | Impact: 0.008414
+15.  your                | Impact: 0.007882
+16.  kind                | Impact: 0.007882
+17.  assistance          | Impact: 0.007882
+18.  .                   | Impact: 0.007882
+19.  father              | Impact: 0.007254
+20.  did                 | Impact: 0.007254
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  frustration         | Impact: -0.000431
+ 2.  ,                   | Impact: -0.000431
+ 3.  and                 | Impact: -0.000431
+ 4.  hopeless            | Impact: -0.000431
+ 5. ness                 | Impact: -0.000431
+ 6.  .                   | Impact: -0.000431
+ 7.  the                 | Impact: -0.000427
+ 8.  military            | Impact: -0.000427
+ 9.  .                   | Impact: -0.000427
+10.  regime              | Impact: -0.000427
+11.  in                  | Impact: -0.000427
+12.  nigeria             | Impact: -0.000427
+13.  foreign             | Impact: -0.000146
+14.  accounts            | Impact: -0.000146
+15.  together            | Impact: -0.000146
+16.  with                | Impact: -0.000146
+17.  other               | Impact: -0.000146
+18.  assets              | Impact: -0.000146
+19.  of                  | Impact: -0.000146
+20.  my                  | Impact: -0.000146

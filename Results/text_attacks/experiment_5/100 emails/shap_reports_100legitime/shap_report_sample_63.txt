@@ -1,0 +1,75 @@
+Phishing Sample 63
+==================
+
+Sample text preview: < PULP, WRITING & PRINTING PAPER // Welcome to Enron's Pulp, Writing & Printing Paper News Service. This daily mailing brings the most recent news hea...
+
+Model prediction: [9.995364e-01 4.635829e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.027419 → LEGITIMATE
+ 2.  en                  | Impact: -0.026015 → LEGITIMATE
+ 3.  news                | Impact: 0.006135 → PHISHING
+ 4.  headlines           | Impact: 0.006135 → PHISHING
+ 5.  right               | Impact: 0.003423 → PHISHING
+ 6.  to                  | Impact: 0.003423 → PHISHING
+ 7.  your                | Impact: 0.003423 → PHISHING
+ 8.  '                   | Impact: -0.002602 → LEGITIMATE
+ 9.  s                   | Impact: -0.002602 → LEGITIMATE
+10.  service             | Impact: 0.001865 → PHISHING
+11.  specific            | Impact: 0.001865 → PHISHING
+12.  mail                | Impact: 0.001741 → PHISHING
+13. ing                  | Impact: 0.001741 → PHISHING
+14.  you                 | Impact: 0.001660 → PHISHING
+15.  may                 | Impact: 0.001660 → PHISHING
+16.  this                | Impact: 0.001611 → PHISHING
+17.  daily               | Impact: 0.001611 → PHISHING
+18.  this                | Impact: 0.001449 → PHISHING
+19.  daily               | Impact: 0.001449 → PHISHING
+20.  also                | Impact: 0.001443 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  news                | Impact: 0.006135
+ 2.  headlines           | Impact: 0.006135
+ 3.  right               | Impact: 0.003423
+ 4.  to                  | Impact: 0.003423
+ 5.  your                | Impact: 0.003423
+ 6.  service             | Impact: 0.001865
+ 7.  specific            | Impact: 0.001865
+ 8.  mail                | Impact: 0.001741
+ 9. ing                  | Impact: 0.001741
+10.  you                 | Impact: 0.001660
+11.  may                 | Impact: 0.001660
+12.  this                | Impact: 0.001611
+13.  daily               | Impact: 0.001611
+14.  this                | Impact: 0.001449
+15.  daily               | Impact: 0.001449
+16.  also                | Impact: 0.001443
+17.  receive             | Impact: 0.001443
+18.  in                  | Impact: 0.001074
+19. box                  | Impact: 0.001074
+20.  .                   | Impact: 0.001074
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.027419
+ 2.  en                  | Impact: -0.026015
+ 3.  '                   | Impact: -0.002602
+ 4.  s                   | Impact: -0.002602
+ 5.  pulp                | Impact: -0.001333
+ 6.  ,                   | Impact: -0.001333
+ 7.  changes             | Impact: -0.000533
+ 8.  to                  | Impact: -0.000533
+ 9.  its                 | Impact: -0.000533
+10.  board               | Impact: -0.000533
+11.  of                  | Impact: -0.000503
+12.  directors           | Impact: -0.000503
+13.  /                   | Impact: -0.000503
+14.  /                   | Impact: -0.000503
+15.  :                   | Impact: -0.000503
+16.  :                   | Impact: -0.000503
+17.  ,                   | Impact: -0.000503
+18.  /                   | Impact: -0.000390
+19.  /                   | Impact: -0.000390
+20.  welcome             | Impact: -0.000390

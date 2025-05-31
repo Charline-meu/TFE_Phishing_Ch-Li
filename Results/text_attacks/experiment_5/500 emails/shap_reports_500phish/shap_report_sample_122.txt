@@ -1,0 +1,75 @@
+Sample 122
+==========
+
+Sample text preview: DOWNLOAD THE SUMMONS NOW � LISTEN TO IT ON YOUR FREE MP PLAYER! John Grisham is back doing what he does best � delivering the top legal thrillers of h...
+
+Model prediction: [0.47440112 0.5255989 ]
+Predicted class: PHISHING with 0.5256 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  we                  | Impact: 0.033531 → PHISHING
+ 2.  will                | Impact: 0.033531 → PHISHING
+ 3.  send                | Impact: 0.033531 → PHISHING
+ 4.  you                 | Impact: 0.033531 → PHISHING
+ 5.  a                   | Impact: 0.028932 → PHISHING
+ 6.  free                | Impact: 0.028932 → PHISHING
+ 7.  otis                | Impact: 0.028932 → PHISHING
+ 8.  mp                  | Impact: 0.028932 → PHISHING
+ 9.  player              | Impact: 0.028932 → PHISHING
+10.  special             | Impact: 0.017092 → PHISHING
+11.  offer               | Impact: 0.017092 → PHISHING
+12.  join                | Impact: 0.017092 → PHISHING
+13.  one                 | Impact: 0.017092 → PHISHING
+14.  (                   | Impact: 0.013704 → PHISHING
+15.  a                   | Impact: 0.013704 → PHISHING
+16.  $                   | Impact: 0.013704 → PHISHING
+17.  value               | Impact: 0.013704 → PHISHING
+18.  )                   | Impact: 0.013704 → PHISHING
+19.  !                   | Impact: 0.013704 → PHISHING
+20.  money               | Impact: 0.013255 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  we                  | Impact: 0.033531
+ 2.  will                | Impact: 0.033531
+ 3.  send                | Impact: 0.033531
+ 4.  you                 | Impact: 0.033531
+ 5.  a                   | Impact: 0.028932
+ 6.  free                | Impact: 0.028932
+ 7.  otis                | Impact: 0.028932
+ 8.  mp                  | Impact: 0.028932
+ 9.  player              | Impact: 0.028932
+10.  special             | Impact: 0.017092
+11.  offer               | Impact: 0.017092
+12.  join                | Impact: 0.017092
+13.  one                 | Impact: 0.017092
+14.  (                   | Impact: 0.013704
+15.  a                   | Impact: 0.013704
+16.  $                   | Impact: 0.013704
+17.  value               | Impact: 0.013704
+18.  )                   | Impact: 0.013704
+19.  !                   | Impact: 0.013704
+20.  money               | Impact: 0.013255
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.012070
+ 2.  summons             | Impact: -0.012070
+ 3.  is                  | Impact: -0.012070
+ 4.  gr                  | Impact: -0.012070
+ 5. isha                 | Impact: -0.012070
+ 6. ms                   | Impact: -0.012070
+ 7.  the                 | Impact: -0.009496
+ 8.  new                 | Impact: -0.009496
+ 9.  york                | Impact: -0.009496
+10.  times               | Impact: -0.009496
+11.  or                  | Impact: -0.009496
+12.  versions            | Impact: -0.009379
+13.  of                  | Impact: -0.009379
+14.  the                 | Impact: -0.009379
+15.  wall                | Impact: -0.009379
+16.  street              | Impact: -0.009379
+17.  journal             | Impact: -0.009379
+18.  and                 | Impact: -0.009379
+19.  first               | Impact: -0.007579
+20.  suspense            | Impact: -0.007579

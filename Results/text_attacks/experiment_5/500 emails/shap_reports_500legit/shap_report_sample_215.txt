@@ -1,0 +1,75 @@
+Sample 215
+==========
+
+Sample text preview: On Wed, Feb , at ::PM +, Harri Haataja wrote: > I have a few such things (with jdk, imlib, kernel DRI version.. > something) and Ive just made dummy p...
+
+Model prediction: [9.9978584e-01 2.1416201e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wed                 | Impact: 0.005899 → PHISHING
+ 2.  rpm                 | Impact: -0.002543 → LEGITIMATE
+ 3.  -                   | Impact: -0.002543 → LEGITIMATE
+ 4.  list                | Impact: -0.002391 → LEGITIMATE
+ 5.  rpm                 | Impact: -0.002122 → LEGITIMATE
+ 6.  '                   | Impact: -0.001882 → LEGITIMATE
+ 7.  software            | Impact: -0.001736 → LEGITIMATE
+ 8.  wrote               | Impact: -0.001533 → LEGITIMATE
+ 9.  feb                 | Impact: -0.001103 → LEGITIMATE
+10.  pm                  | Impact: -0.001049 → LEGITIMATE
+11.  not                 | Impact: -0.001022 → LEGITIMATE
+12.  "                   | Impact: -0.001019 → LEGITIMATE
+13.  -                   | Impact: -0.001019 → LEGITIMATE
+14.  :                   | Impact: -0.000967 → LEGITIMATE
+15.  ,                   | Impact: 0.000960 → PHISHING
+16.  update              | Impact: -0.000882 → LEGITIMATE
+17.  on                  | Impact: -0.000828 → LEGITIMATE
+18.  node                | Impact: -0.000828 → LEGITIMATE
+19. ps                   | Impact: -0.000828 → LEGITIMATE
+20.  of                  | Impact: -0.000807 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  wed                 | Impact: 0.005899
+ 2.  ,                   | Impact: 0.000960
+ 3.  package             | Impact: 0.000688
+ 4.  do                  | Impact: 0.000597
+ 5.  this                | Impact: 0.000597
+ 6.  without             | Impact: 0.000401
+ 7.  having              | Impact: 0.000401
+ 8.  with                | Impact: 0.000388
+ 9.  package             | Impact: 0.000349
+10.  there               | Impact: 0.000341
+11.  dangerous           | Impact: 0.000333
+12.  to                  | Impact: 0.000325
+13.  make                | Impact: 0.000325
+14.  get                 | Impact: 0.000324
+15.  if                  | Impact: 0.000293
+16.  wondering           | Impact: 0.000289
+17.  that                | Impact: 0.000289
+18.  might               | Impact: 0.000280
+19.  is                  | Impact: 0.000265
+20.  _                   | Impact: 0.000260
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  rpm                 | Impact: -0.002543
+ 2.  -                   | Impact: -0.002543
+ 3.  list                | Impact: -0.002391
+ 4.  rpm                 | Impact: -0.002122
+ 5.  '                   | Impact: -0.001882
+ 6.  software            | Impact: -0.001736
+ 7.  wrote               | Impact: -0.001533
+ 8.  feb                 | Impact: -0.001103
+ 9.  pm                  | Impact: -0.001049
+10.  not                 | Impact: -0.001022
+11.  "                   | Impact: -0.001019
+12.  -                   | Impact: -0.001019
+13.  :                   | Impact: -0.000967
+14.  update              | Impact: -0.000882
+15.  on                  | Impact: -0.000828
+16.  node                | Impact: -0.000828
+17. ps                   | Impact: -0.000828
+18.  of                  | Impact: -0.000807
+19.  too                 | Impact: -0.000803
+20.  s                   | Impact: -0.000782

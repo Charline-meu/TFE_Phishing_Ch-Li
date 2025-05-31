@@ -1,0 +1,66 @@
+Sample 424
+==========
+
+Sample text preview: URL: Date: Not supplied Hundreds of US transfusion patients are set to receive red blood cells cleaned with compounds that inactivate viruses and bact...
+
+Model prediction: [9.9959737e-01 4.0265868e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ur                  | Impact: -0.177655 → LEGITIMATE
+ 2. l                    | Impact: -0.163951 → LEGITIMATE
+ 3.  date                | Impact: -0.123341 → LEGITIMATE
+ 4.  receive             | Impact: 0.098696 → PHISHING
+ 5.  :                   | Impact: -0.095545 → LEGITIMATE
+ 6.  trans               | Impact: 0.089777 → PHISHING
+ 7.  cleaned             | Impact: 0.085136 → PHISHING
+ 8.  :                   | Impact: -0.077459 → LEGITIMATE
+ 9.  are                 | Impact: 0.060335 → PHISHING
+10.  supplied            | Impact: 0.060002 → PHISHING
+11.  set                 | Impact: 0.050118 → PHISHING
+12.  blood               | Impact: 0.047757 → PHISHING
+13.  viruses             | Impact: -0.045607 → LEGITIMATE
+14.  cells               | Impact: 0.045474 → PHISHING
+15.  to                  | Impact: 0.040682 → PHISHING
+16.  hundreds            | Impact: 0.027903 → PHISHING
+17.  patients            | Impact: 0.026415 → PHISHING
+18.  that                | Impact: -0.026171 → LEGITIMATE
+19. ivate                | Impact: 0.026132 → PHISHING
+20.  red                 | Impact: 0.025471 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  receive             | Impact: 0.098696
+ 2.  trans               | Impact: 0.089777
+ 3.  cleaned             | Impact: 0.085136
+ 4.  are                 | Impact: 0.060335
+ 5.  supplied            | Impact: 0.060002
+ 6.  set                 | Impact: 0.050118
+ 7.  blood               | Impact: 0.047757
+ 8.  cells               | Impact: 0.045474
+ 9.  to                  | Impact: 0.040682
+10.  hundreds            | Impact: 0.027903
+11.  patients            | Impact: 0.026415
+12. ivate                | Impact: 0.026132
+13.  red                 | Impact: 0.025471
+14.  with                | Impact: 0.020922
+15. ct                   | Impact: 0.018352
+16.  bacteria            | Impact: 0.011592
+17.  and                 | Impact: 0.004209
+18.                      | Impact: 0.000002
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ur                  | Impact: -0.177655
+ 2. l                    | Impact: -0.163951
+ 3.  date                | Impact: -0.123341
+ 4.  :                   | Impact: -0.095545
+ 5.  :                   | Impact: -0.077459
+ 6.  viruses             | Impact: -0.045607
+ 7.  that                | Impact: -0.026171
+ 8.  of                  | Impact: -0.023766
+ 9.  compounds           | Impact: -0.017869
+10.  us                  | Impact: -0.008920
+11.  ina                 | Impact: -0.008135
+12. fusion               | Impact: -0.007817
+13.  not                 | Impact: -0.000212

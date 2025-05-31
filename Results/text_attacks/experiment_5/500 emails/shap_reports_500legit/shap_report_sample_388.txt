@@ -1,0 +1,75 @@
+Sample 388
+==========
+
+Sample text preview: Given the growth in EES it has become apparent that it is time to consolidate the risk functions between EES and EWS. This will provide EES with the s...
+
+Model prediction: [9.9976701e-01 2.3295941e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  &                   | Impact: 0.007437 → PHISHING
+ 2.  kevin               | Impact: -0.004060 → LEGITIMATE
+ 3.  report              | Impact: -0.003757 → LEGITIMATE
+ 4.  rogers              | Impact: -0.003449 → LEGITIMATE
+ 5.  systems             | Impact: -0.003140 → LEGITIMATE
+ 6.  .                   | Impact: -0.002737 → LEGITIMATE
+ 7.  changes             | Impact: -0.002372 → LEGITIMATE
+ 8.  louise              | Impact: -0.002302 → LEGITIMATE
+ 9.  continue            | Impact: 0.002206 → PHISHING
+10.  risk                | Impact: -0.001961 → LEGITIMATE
+11.  management          | Impact: -0.001961 → LEGITIMATE
+12.  pricing             | Impact: -0.001878 → LEGITIMATE
+13.  energy              | Impact: -0.001769 → LEGITIMATE
+14.  .                   | Impact: -0.001537 → LEGITIMATE
+15.  please              | Impact: -0.001530 → LEGITIMATE
+16.  cong                | Impact: -0.001472 → LEGITIMATE
+17. rat                  | Impact: -0.001472 → LEGITIMATE
+18.  wholesale           | Impact: -0.001437 → LEGITIMATE
+19.  are                 | Impact: -0.001435 → LEGITIMATE
+20.  effective           | Impact: -0.001435 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  &                   | Impact: 0.007437
+ 2.  continue            | Impact: 0.002206
+ 3.  and                 | Impact: 0.001044
+ 4.  kitchen             | Impact: 0.000385
+ 5.                      | Impact: 0.000385
+ 6.  and                 | Impact: 0.000202
+ 7.  two                 | Impact: 0.000155
+ 8.  will                | Impact: 0.000133
+ 9.  to                  | Impact: 0.000109
+10.  grow                | Impact: 0.000109
+11.  and                 | Impact: 0.000109
+12.  for                 | Impact: 0.000083
+13.  it                  | Impact: 0.000083
+14.  to                  | Impact: 0.000083
+15.  continue            | Impact: 0.000083
+16.  with                | Impact: 0.000082
+17.  the                 | Impact: 0.000082
+18.  new                 | Impact: 0.000076
+19.  don                 | Impact: 0.000027
+20.  on                  | Impact: 0.000027
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  kevin               | Impact: -0.004060
+ 2.  report              | Impact: -0.003757
+ 3.  rogers              | Impact: -0.003449
+ 4.  systems             | Impact: -0.003140
+ 5.  .                   | Impact: -0.002737
+ 6.  changes             | Impact: -0.002372
+ 7.  louise              | Impact: -0.002302
+ 8.  risk                | Impact: -0.001961
+ 9.  management          | Impact: -0.001961
+10.  pricing             | Impact: -0.001878
+11.  energy              | Impact: -0.001769
+12.  .                   | Impact: -0.001537
+13.  please              | Impact: -0.001530
+14.  cong                | Impact: -0.001472
+15. rat                  | Impact: -0.001472
+16.  wholesale           | Impact: -0.001437
+17.  are                 | Impact: -0.001435
+18.  effective           | Impact: -0.001435
+19.  immediately         | Impact: -0.001333
+20.  .                   | Impact: -0.001330

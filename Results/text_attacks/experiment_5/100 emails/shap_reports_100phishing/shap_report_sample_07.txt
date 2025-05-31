@@ -1,0 +1,75 @@
+Phishing Sample 7
+=================
+
+Sample text preview: Sorry we missed you! Schedule your next delivery date. grypqs /Comprador /Unfortunately /cell /antlerd /tricolon /inbox /overview /Mon launched /- /d'...
+
+Model prediction: [0.00120333 0.9987967 ]
+Predicted class: PHISHING with 0.9988 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  schedule            | Impact: 0.022519 → PHISHING
+ 2.  your                | Impact: 0.022519 → PHISHING
+ 3.  next                | Impact: 0.022519 → PHISHING
+ 4.  delivery            | Impact: 0.022519 → PHISHING
+ 5.  date                | Impact: 0.022519 → PHISHING
+ 6.  .                   | Impact: 0.022519 → PHISHING
+ 7.                      | Impact: 0.020804 → PHISHING
+ 8.  sorry               | Impact: 0.020804 → PHISHING
+ 9.  we                  | Impact: 0.020804 → PHISHING
+10.  missed              | Impact: 0.020804 → PHISHING
+11.  you                 | Impact: 0.020804 → PHISHING
+12.  !                   | Impact: 0.020804 → PHISHING
+13.  hq                  | Impact: 0.006156 → PHISHING
+14. au                   | Impact: 0.006156 → PHISHING
+15. ete                  | Impact: 0.006156 → PHISHING
+16. g                    | Impact: 0.006156 → PHISHING
+17. wc                   | Impact: 0.006156 → PHISHING
+18. h                    | Impact: 0.006156 → PHISHING
+19.  /                   | Impact: 0.004786 → PHISHING
+20.  broadcaster         | Impact: 0.004786 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  schedule            | Impact: 0.022519
+ 2.  your                | Impact: 0.022519
+ 3.  next                | Impact: 0.022519
+ 4.  delivery            | Impact: 0.022519
+ 5.  date                | Impact: 0.022519
+ 6.  .                   | Impact: 0.022519
+ 7.                      | Impact: 0.020804
+ 8.  sorry               | Impact: 0.020804
+ 9.  we                  | Impact: 0.020804
+10.  missed              | Impact: 0.020804
+11.  you                 | Impact: 0.020804
+12.  !                   | Impact: 0.020804
+13.  hq                  | Impact: 0.006156
+14. au                   | Impact: 0.006156
+15. ete                  | Impact: 0.006156
+16. g                    | Impact: 0.006156
+17. wc                   | Impact: 0.006156
+18. h                    | Impact: 0.006156
+19.  /                   | Impact: 0.004786
+20.  broadcaster         | Impact: 0.004786
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  cook                | Impact: -0.002590
+ 2. pad                  | Impact: -0.002590
+ 3.  /                   | Impact: -0.002590
+ 4.  station             | Impact: -0.002590
+ 5.  /                   | Impact: -0.002590
+ 6.  muscles             | Impact: -0.002590
+ 7.  set                 | Impact: -0.002590
+ 8. t                    | Impact: -0.002590
+ 9.  /                   | Impact: -0.001680
+10.  represent           | Impact: -0.001680
+11.  /                   | Impact: -0.001680
+12.  graf                | Impact: -0.001680
+13. t                    | Impact: -0.001680
+14.  /                   | Impact: -0.001680
+15.  gi                  | Impact: -0.001242
+16. raf                  | Impact: -0.001242
+17. fe                   | Impact: -0.001242
+18. s                    | Impact: -0.001242
+19.  /                   | Impact: -0.001242
+20.  have                | Impact: -0.001242

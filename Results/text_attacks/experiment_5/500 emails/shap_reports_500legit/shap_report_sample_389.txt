@@ -1,0 +1,75 @@
+Sample 389
+==========
+
+Sample text preview: On Wed, Feb , at ::PM +, Harri Haataja wrote: > install. I haven't met an openssh like that and in worst case I've had > different openssl libraries (...
+
+Model prediction: [9.9960560e-01 3.9437064e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wed                 | Impact: 0.036226 → PHISHING
+ 2.  wrote               | Impact: -0.012053 → LEGITIMATE
+ 3.  :                   | Impact: -0.009063 → LEGITIMATE
+ 4.  feb                 | Impact: -0.008441 → LEGITIMATE
+ 5.  pm                  | Impact: -0.007393 → LEGITIMATE
+ 6.  rpm                 | Impact: -0.006907 → LEGITIMATE
+ 7.  :                   | Impact: -0.005820 → LEGITIMATE
+ 8.  ,                   | Impact: 0.004709 → PHISHING
+ 9.  >                   | Impact: -0.004415 → LEGITIMATE
+10.  list                | Impact: -0.003768 → LEGITIMATE
+11.  -                   | Impact: -0.003477 → LEGITIMATE
+12.  on                  | Impact: -0.003384 → LEGITIMATE
+13.  .                   | Impact: -0.003344 → LEGITIMATE
+14.  such                | Impact: 0.002705 → PHISHING
+15.  >                   | Impact: -0.002624 → LEGITIMATE
+16. ata                  | Impact: 0.002607 → PHISHING
+17.  mail                | Impact: 0.002484 → PHISHING
+18.  at                  | Impact: -0.002477 → LEGITIMATE
+19.  ha                  | Impact: 0.002406 → PHISHING
+20.  install             | Impact: 0.002164 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  wed                 | Impact: 0.036226
+ 2.  ,                   | Impact: 0.004709
+ 3.  such                | Impact: 0.002705
+ 4. ata                  | Impact: 0.002607
+ 5.  mail                | Impact: 0.002484
+ 6.  ha                  | Impact: 0.002406
+ 7.  install             | Impact: 0.002164
+ 8. ja                   | Impact: 0.001508
+ 9.  list                | Impact: 0.001409
+10.  ,                   | Impact: 0.001282
+11.  _                   | Impact: 0.001129
+12.  ,                   | Impact: 0.001078
+13. ing                  | Impact: 0.000988
+14.  packages            | Impact: 0.000808
+15.  _                   | Impact: 0.000772
+16.  ?                   | Impact: 0.000607
+17.  )                   | Impact: 0.000577
+18.  (                   | Impact: 0.000486
+19.  or                  | Impact: 0.000486
+20.  !                   | Impact: 0.000447
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  wrote               | Impact: -0.012053
+ 2.  :                   | Impact: -0.009063
+ 3.  feb                 | Impact: -0.008441
+ 4.  pm                  | Impact: -0.007393
+ 5.  rpm                 | Impact: -0.006907
+ 6.  :                   | Impact: -0.005820
+ 7.  >                   | Impact: -0.004415
+ 8.  list                | Impact: -0.003768
+ 9.  -                   | Impact: -0.003477
+10.  on                  | Impact: -0.003384
+11.  .                   | Impact: -0.003344
+12.  >                   | Impact: -0.002624
+13.  at                  | Impact: -0.002477
+14.  make                | Impact: -0.001808
+15.  >                   | Impact: -0.001666
+16.  how                 | Impact: -0.001522
+17.  packages            | Impact: -0.001339
+18.  dummy               | Impact: -0.001200
+19.  +                   | Impact: -0.001158
+20.  libraries           | Impact: -0.000936

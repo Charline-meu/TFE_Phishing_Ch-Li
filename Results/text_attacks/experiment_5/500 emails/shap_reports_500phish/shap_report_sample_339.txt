@@ -1,0 +1,75 @@
+Sample 339
+==========
+
+Sample text preview: Assalam Ailekun, Am contacting you believing you are a honest and trustworthy person.I believe you will not betray the confidence I am willing to repo...
+
+Model prediction: [2.2543162e-04 9.9977463e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.010437 → PHISHING
+ 2.  father              | Impact: 0.010437 → PHISHING
+ 3.  )                   | Impact: 0.010437 → PHISHING
+ 4.  the                 | Impact: 0.009025 → PHISHING
+ 5.  government          | Impact: 0.009025 → PHISHING
+ 6.  of                  | Impact: 0.009025 → PHISHING
+ 7.  mr                  | Impact: 0.009025 → PHISHING
+ 8.  .                   | Impact: 0.009025 → PHISHING
+ 9.  you                 | Impact: 0.008482 → PHISHING
+10.  believing           | Impact: 0.008482 → PHISHING
+11.  you                 | Impact: 0.008482 → PHISHING
+12.  are                 | Impact: 0.008482 → PHISHING
+13.  my                  | Impact: 0.007465 → PHISHING
+14.  mother              | Impact: 0.007465 → PHISHING
+15.  the                 | Impact: 0.006950 → PHISHING
+16.  president           | Impact: 0.006950 → PHISHING
+17.  of                  | Impact: 0.006950 → PHISHING
+18.  cote                | Impact: 0.006950 → PHISHING
+19.  million             | Impact: 0.006880 → PHISHING
+20.  dollars             | Impact: 0.006880 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.010437
+ 2.  father              | Impact: 0.010437
+ 3.  )                   | Impact: 0.010437
+ 4.  the                 | Impact: 0.009025
+ 5.  government          | Impact: 0.009025
+ 6.  of                  | Impact: 0.009025
+ 7.  mr                  | Impact: 0.009025
+ 8.  .                   | Impact: 0.009025
+ 9.  you                 | Impact: 0.008482
+10.  believing           | Impact: 0.008482
+11.  you                 | Impact: 0.008482
+12.  are                 | Impact: 0.008482
+13.  my                  | Impact: 0.007465
+14.  mother              | Impact: 0.007465
+15.  the                 | Impact: 0.006950
+16.  president           | Impact: 0.006950
+17.  of                  | Impact: 0.006950
+18.  cote                | Impact: 0.006950
+19.  million             | Impact: 0.006880
+20.  dollars             | Impact: 0.006880
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  morning             | Impact: -0.003741
+ 2.  at                  | Impact: -0.003741
+ 3.  about               | Impact: -0.003741
+ 4.  :                   | Impact: -0.003741
+ 5.  on                  | Impact: -0.001783
+ 6.  the                 | Impact: -0.001783
+ 7.  th                  | Impact: -0.001783
+ 8.  day                 | Impact: -0.001783
+ 9.  was                 | Impact: -0.000829
+10.  bleeding            | Impact: -0.000829
+11.  to                  | Impact: -0.000829
+12.  death               | Impact: -0.000829
+13.  lying               | Impact: -0.000829
+14.  in                  | Impact: -0.000829
+15.  the                 | Impact: -0.000829
+16.  pool                | Impact: -0.000829
+17.  by                  | Impact: -0.000575
+18.  then                | Impact: -0.000575
+19.  he                  | Impact: -0.000575
+20.  had                 | Impact: -0.000575

@@ -1,0 +1,75 @@
+Sample 64
+=========
+
+Sample text preview: Lender's Network The Lenders Network! Where mortgage lenders compete for your business! Current Information For The "Lenders Network" is a % FREE TO B...
+
+Model prediction: [3.264588e-04 9.996736e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.010258 → PHISHING
+ 2.  contact             | Impact: 0.009505 → PHISHING
+ 3. ing                  | Impact: 0.009505 → PHISHING
+ 4.  you                 | Impact: 0.009505 → PHISHING
+ 5.  at                  | Impact: 0.009505 → PHISHING
+ 6.  here                | Impact: 0.009249 → PHISHING
+ 7.  you                 | Impact: 0.008837 → PHISHING
+ 8.  will                | Impact: 0.008837 → PHISHING
+ 9.  often               | Impact: 0.008837 → PHISHING
+10.  be                  | Impact: 0.008837 → PHISHING
+11.  course              | Impact: 0.008639 → PHISHING
+12.  of                  | Impact: 0.008639 → PHISHING
+13.  your                | Impact: 0.008639 → PHISHING
+14.  loan                | Impact: 0.008639 → PHISHING
+15.  your                | Impact: 0.008190 → PHISHING
+16.  convenience         | Impact: 0.008190 → PHISHING
+17.  .                   | Impact: 0.008190 → PHISHING
+18.  contacted           | Impact: 0.007713 → PHISHING
+19.  with                | Impact: 0.007713 → PHISHING
+20.  an                  | Impact: 0.007713 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.010258
+ 2.  contact             | Impact: 0.009505
+ 3. ing                  | Impact: 0.009505
+ 4.  you                 | Impact: 0.009505
+ 5.  at                  | Impact: 0.009505
+ 6.  here                | Impact: 0.009249
+ 7.  you                 | Impact: 0.008837
+ 8.  will                | Impact: 0.008837
+ 9.  often               | Impact: 0.008837
+10.  be                  | Impact: 0.008837
+11.  course              | Impact: 0.008639
+12.  of                  | Impact: 0.008639
+13.  your                | Impact: 0.008639
+14.  loan                | Impact: 0.008639
+15.  your                | Impact: 0.008190
+16.  convenience         | Impact: 0.008190
+17.  .                   | Impact: 0.008190
+18.  contacted           | Impact: 0.007713
+19.  with                | Impact: 0.007713
+20.  an                  | Impact: 0.007713
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  single              | Impact: -0.002107
+ 2.  quote               | Impact: -0.002107
+ 3.  !                   | Impact: -0.002107
+ 4.  tn                  | Impact: -0.001169
+ 5.  tx                  | Impact: -0.001169
+ 6.  ut                  | Impact: -0.001169
+ 7.  va                  | Impact: -0.001169
+ 8.  vt                  | Impact: -0.001169
+ 9.  wa                  | Impact: -0.001169
+10.  wi                  | Impact: -0.001169
+11.  *                   | Impact: -0.000478
+12.  monthly             | Impact: -0.000478
+13.  debt                | Impact: -0.000478
+14.  :                   | Impact: -0.000478
+15.  :                   | Impact: -0.000478
+16.  credit              | Impact: -0.000478
+17.  rating              | Impact: -0.000478
+18.  :                   | Impact: -0.000478
+19.  lend                | Impact: -0.000340
+20. ers                  | Impact: -0.000340

@@ -1,0 +1,75 @@
+Phishing Sample 46
+==================
+
+Sample text preview: Dear Sir, ACT ACCORDINGLY AND PRIVATELY I am Evans Timothy the bills and exchange director at African Express Bank Plc. Though I know that a transacti...
+
+Model prediction: [1.5665653e-04 9.9984336e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sir                 | Impact: 0.010423 → PHISHING
+ 2.  nigeria             | Impact: 0.010300 → PHISHING
+ 3.  national            | Impact: 0.010300 → PHISHING
+ 4.  petroleum           | Impact: 0.010300 → PHISHING
+ 5.                      | Impact: 0.007479 → PHISHING
+ 6.  dear                | Impact: 0.007479 → PHISHING
+ 7.  foreign             | Impact: 0.006416 → PHISHING
+ 8.  customer            | Impact: 0.006416 → PHISHING
+ 9.  million             | Impact: 0.005958 → PHISHING
+10.  belonging           | Impact: 0.005958 → PHISHING
+11.  to                  | Impact: 0.005958 → PHISHING
+12.  a                   | Impact: 0.005958 → PHISHING
+13.  to                  | Impact: 0.005625 → PHISHING
+14.  effect              | Impact: 0.005625 → PHISHING
+15.  the                 | Impact: 0.005625 → PHISHING
+16.  immediate           | Impact: 0.005625 → PHISHING
+17.  transfer            | Impact: 0.005625 → PHISHING
+18.  of                  | Impact: 0.005625 → PHISHING
+19.  the                 | Impact: 0.005625 → PHISHING
+20.  fund                | Impact: 0.005625 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sir                 | Impact: 0.010423
+ 2.  nigeria             | Impact: 0.010300
+ 3.  national            | Impact: 0.010300
+ 4.  petroleum           | Impact: 0.010300
+ 5.                      | Impact: 0.007479
+ 6.  dear                | Impact: 0.007479
+ 7.  foreign             | Impact: 0.006416
+ 8.  customer            | Impact: 0.006416
+ 9.  million             | Impact: 0.005958
+10.  belonging           | Impact: 0.005958
+11.  to                  | Impact: 0.005958
+12.  a                   | Impact: 0.005958
+13.  to                  | Impact: 0.005625
+14.  effect              | Impact: 0.005625
+15.  the                 | Impact: 0.005625
+16.  immediate           | Impact: 0.005625
+17.  transfer            | Impact: 0.005625
+18.  of                  | Impact: 0.005625
+19.  the                 | Impact: 0.005625
+20.  fund                | Impact: 0.005625
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  which               | Impact: -0.000802
+ 2.  crashed             | Impact: -0.000802
+ 3.  into                | Impact: -0.000802
+ 4.  the                 | Impact: -0.000802
+ 5.  atlantic            | Impact: -0.000802
+ 6.  off                 | Impact: -0.000802
+ 7.  nova                | Impact: -0.000802
+ 8.  scotia              | Impact: -0.000802
+ 9.  act                 | Impact: -0.000673
+10.  accordingly         | Impact: -0.000673
+11.  and                 | Impact: -0.000673
+12.  privately           | Impact: -0.000673
+13.  i                   | Impact: -0.000673
+14.  am                  | Impact: -0.000673
+15.  evans               | Impact: -0.000673
+16.  timothy             | Impact: -0.000673
+17.  the                 | Impact: -0.000673
+18.  bills               | Impact: -0.000673
+19.  and                 | Impact: -0.000673
+20.  could               | Impact: -0.000469

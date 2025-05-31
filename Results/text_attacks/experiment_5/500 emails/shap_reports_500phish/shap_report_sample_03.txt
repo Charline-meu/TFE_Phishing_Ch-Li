@@ -1,0 +1,75 @@
+Sample 3
+========
+
+Sample text preview: Dear Partner to be, First, I must apologise to you for using this medium to communicate to you about this project. I am a highly placed official of Go...
+
+Model prediction: [1.7316494e-04 9.9982685e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bank                | Impact: 0.007984 → PHISHING
+ 2.  account             | Impact: 0.007984 → PHISHING
+ 3.  .                   | Impact: 0.007984 → PHISHING
+ 4.  the                 | Impact: 0.007932 → PHISHING
+ 5.  funds               | Impact: 0.007932 → PHISHING
+ 6.  arrive              | Impact: 0.007932 → PHISHING
+ 7.  your                | Impact: 0.007932 → PHISHING
+ 8.  hitch               | Impact: 0.007135 → PHISHING
+ 9.  free                | Impact: 0.007135 → PHISHING
+10.  transfer            | Impact: 0.007135 → PHISHING
+11.  into                | Impact: 0.007135 → PHISHING
+12.                      | Impact: 0.007011 → PHISHING
+13.  dear                | Impact: 0.007011 → PHISHING
+14.  partner             | Impact: 0.007011 → PHISHING
+15.  to                  | Impact: 0.007011 → PHISHING
+16.  be                  | Impact: 0.007011 → PHISHING
+17.  with                | Impact: 0.006435 → PHISHING
+18.  whose               | Impact: 0.006435 → PHISHING
+19.  bank                | Impact: 0.006435 → PHISHING
+20.  account             | Impact: 0.006435 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.007984
+ 2.  account             | Impact: 0.007984
+ 3.  .                   | Impact: 0.007984
+ 4.  the                 | Impact: 0.007932
+ 5.  funds               | Impact: 0.007932
+ 6.  arrive              | Impact: 0.007932
+ 7.  your                | Impact: 0.007932
+ 8.  hitch               | Impact: 0.007135
+ 9.  free                | Impact: 0.007135
+10.  transfer            | Impact: 0.007135
+11.  into                | Impact: 0.007135
+12.                      | Impact: 0.007011
+13.  dear                | Impact: 0.007011
+14.  partner             | Impact: 0.007011
+15.  to                  | Impact: 0.007011
+16.  be                  | Impact: 0.007011
+17.  with                | Impact: 0.006435
+18.  whose               | Impact: 0.006435
+19.  bank                | Impact: 0.006435
+20.  account             | Impact: 0.006435
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  by                  | Impact: -0.000899
+ 2.  virtue              | Impact: -0.000899
+ 3.  of                  | Impact: -0.000899
+ 4.  our                 | Impact: -0.000899
+ 5.  position            | Impact: -0.000899
+ 6.  as                  | Impact: -0.000899
+ 7.  civil               | Impact: -0.000899
+ 8.  servants            | Impact: -0.000899
+ 9.  and                 | Impact: -0.000899
+10.  members             | Impact: -0.000899
+11.  of                  | Impact: -0.000899
+12.  the                 | Impact: -0.000899
+13.  n                   | Impact: -0.000899
+14. dd                   | Impact: -0.000899
+15. c                    | Impact: -0.000899
+16.  ,                   | Impact: -0.000899
+17.  however             | Impact: -0.000740
+18.  ,                   | Impact: -0.000740
+19.  other               | Impact: -0.000441
+20.  colleagues          | Impact: -0.000441

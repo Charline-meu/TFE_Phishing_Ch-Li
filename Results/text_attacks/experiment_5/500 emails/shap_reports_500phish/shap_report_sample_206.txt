@@ -1,0 +1,75 @@
+Sample 206
+==========
+
+Sample text preview: DEAR PARTNER, I AM MR. ABISHA ALLAHIM, THE BILL AND EXCHANGE MANAGER AT THE FOREIGN EXCHANGE DEPARTMENT OF INTERNATIONAL BANK OF BURKINA (IBB) OUAGADO...
+
+Model prediction: [1.8610542e-04 9.9981397e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.                      | Impact: 0.009718 → PHISHING
+ 2.  dear                | Impact: 0.009718 → PHISHING
+ 3.  partner             | Impact: 0.007854 → PHISHING
+ 4.  a                   | Impact: 0.005649 → PHISHING
+ 5.  foreigner           | Impact: 0.005649 → PHISHING
+ 6.  who                 | Impact: 0.005649 → PHISHING
+ 7.  died                | Impact: 0.005649 → PHISHING
+ 8.  i                   | Impact: 0.005388 → PHISHING
+ 9.  am                  | Impact: 0.005388 → PHISHING
+10.  mr                  | Impact: 0.005388 → PHISHING
+11.  in                  | Impact: 0.005025 → PHISHING
+12.  our                 | Impact: 0.005025 → PHISHING
+13.  custody             | Impact: 0.005025 → PHISHING
+14.  either              | Impact: 0.005025 → PHISHING
+15.  from                | Impact: 0.004823 → PHISHING
+16.  his                 | Impact: 0.004823 → PHISHING
+17.  family              | Impact: 0.004823 → PHISHING
+18.  or                  | Impact: 0.004823 → PHISHING
+19.  in                  | Impact: 0.004821 → PHISHING
+20.  your                | Impact: 0.004821 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.                      | Impact: 0.009718
+ 2.  dear                | Impact: 0.009718
+ 3.  partner             | Impact: 0.007854
+ 4.  a                   | Impact: 0.005649
+ 5.  foreigner           | Impact: 0.005649
+ 6.  who                 | Impact: 0.005649
+ 7.  died                | Impact: 0.005649
+ 8.  i                   | Impact: 0.005388
+ 9.  am                  | Impact: 0.005388
+10.  mr                  | Impact: 0.005388
+11.  in                  | Impact: 0.005025
+12.  our                 | Impact: 0.005025
+13.  custody             | Impact: 0.005025
+14.  either              | Impact: 0.005025
+15.  from                | Impact: 0.004823
+16.  his                 | Impact: 0.004823
+17.  family              | Impact: 0.004823
+18.  or                  | Impact: 0.004823
+19.  in                  | Impact: 0.004821
+20.  your                | Impact: 0.004821
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.002297
+ 2.  bill                | Impact: -0.002297
+ 3.  and                 | Impact: -0.002297
+ 4.  exchange            | Impact: -0.001156
+ 5.  manager             | Impact: -0.001156
+ 6.  at                  | Impact: -0.001156
+ 7.  the                 | Impact: -0.001156
+ 8.  foreign             | Impact: -0.001156
+ 9.  exchange            | Impact: -0.001156
+10.  department          | Impact: -0.001156
+11.  of                  | Impact: -0.001156
+12.  this                | Impact: -0.000341
+13.  is                  | Impact: -0.000341
+14.  the                 | Impact: -0.000341
+15.  actual              | Impact: -0.000341
+16.  reason              | Impact: -0.000341
+17.  why                 | Impact: -0.000341
+18.  it                  | Impact: -0.000341
+19.  will                | Impact: -0.000341
+20.  require             | Impact: -0.000341

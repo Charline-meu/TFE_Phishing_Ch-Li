@@ -1,0 +1,55 @@
+Sample 230
+==========
+
+Sample text preview: Power Trader Tied to Bush Finds Washington All Ears The New York Times, // Enron Unit's Cline on Dispute With Indian Province: Comment Bloomberg, // U...
+
+Model prediction: [9.9974900e-01 2.5103477e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  apr                 | Impact: -0.000180 → LEGITIMATE
+ 2.  el                  | Impact: -0.000180 → LEGITIMATE
+ 3. ec                   | Impact: -0.000180 → LEGITIMATE
+ 4.  go                  | Impact: -0.000180 → LEGITIMATE
+ 5. ka                   | Impact: -0.000180 → LEGITIMATE
+ 6. k                    | Impact: -0.000180 → LEGITIMATE
+ 7.  on                  | Impact: -0.000180 → LEGITIMATE
+ 8.  dispute             | Impact: -0.000180 → LEGITIMATE
+ 9.  with                | Impact: -0.000180 → LEGITIMATE
+10.  bill                | Impact: -0.000180 → LEGITIMATE
+11.  dow                 | Impact: -0.000180 → LEGITIMATE
+12.  jones               | Impact: -0.000180 → LEGITIMATE
+13.  energy              | Impact: -0.000180 → LEGITIMATE
+14.  service             | Impact: -0.000180 → LEGITIMATE
+15.  ,                   | Impact: -0.000180 → LEGITIMATE
+16.  /                   | Impact: -0.000180 → LEGITIMATE
+17.  /                   | Impact: -0.000180 → LEGITIMATE
+18.  ne                  | Impact: -0.000180 → LEGITIMATE
+19. go                   | Impact: -0.000180 → LEGITIMATE
+20. tia                  | Impact: -0.000180 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  apr                 | Impact: -0.000180
+ 2.  el                  | Impact: -0.000180
+ 3. ec                   | Impact: -0.000180
+ 4.  go                  | Impact: -0.000180
+ 5. ka                   | Impact: -0.000180
+ 6. k                    | Impact: -0.000180
+ 7.  on                  | Impact: -0.000180
+ 8.  dispute             | Impact: -0.000180
+ 9.  with                | Impact: -0.000180
+10.  bill                | Impact: -0.000180
+11.  dow                 | Impact: -0.000180
+12.  jones               | Impact: -0.000180
+13.  energy              | Impact: -0.000180
+14.  service             | Impact: -0.000180
+15.  ,                   | Impact: -0.000180
+16.  /                   | Impact: -0.000180
+17.  /                   | Impact: -0.000180
+18.  ne                  | Impact: -0.000180
+19. go                   | Impact: -0.000180
+20. tia                  | Impact: -0.000180

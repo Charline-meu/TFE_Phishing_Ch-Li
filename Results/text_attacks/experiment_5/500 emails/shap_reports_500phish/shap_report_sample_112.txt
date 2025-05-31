@@ -1,0 +1,68 @@
+Sample 112
+==========
+
+Sample text preview: I've shared an item with you: Account ID Restricted Due to Unrecognized Activity.pdf It's not an attachment -- it's stored online. To open this item, ...
+
+Model prediction: [2.6666213e-04 9.9973327e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.170088 → PHISHING
+ 2.  account             | Impact: 0.118756 → PHISHING
+ 3.  click               | Impact: 0.098204 → PHISHING
+ 4.  pdf                 | Impact: 0.096846 → PHISHING
+ 5.  open                | Impact: 0.054373 → PHISHING
+ 6.  id                  | Impact: 0.050032 → PHISHING
+ 7.  un                  | Impact: 0.049934 → PHISHING
+ 8.  online              | Impact: 0.046718 → PHISHING
+ 9. gni                  | Impact: 0.042110 → PHISHING
+10.  restricted          | Impact: 0.039002 → PHISHING
+11.  it                  | Impact: 0.032238 → PHISHING
+12.  stored              | Impact: 0.031538 → PHISHING
+13.  i                   | Impact: -0.030819 → LEGITIMATE
+14.  with                | Impact: 0.030111 → PHISHING
+15.  :                   | Impact: -0.019757 → LEGITIMATE
+16.  shared              | Impact: 0.019733 → PHISHING
+17.  above               | Impact: 0.019143 → PHISHING
+18.  link                | Impact: 0.018705 → PHISHING
+19.  attachment          | Impact: 0.018116 → PHISHING
+20.  s                   | Impact: 0.017251 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.170088
+ 2.  account             | Impact: 0.118756
+ 3.  click               | Impact: 0.098204
+ 4.  pdf                 | Impact: 0.096846
+ 5.  open                | Impact: 0.054373
+ 6.  id                  | Impact: 0.050032
+ 7.  un                  | Impact: 0.049934
+ 8.  online              | Impact: 0.046718
+ 9. gni                  | Impact: 0.042110
+10.  restricted          | Impact: 0.039002
+11.  it                  | Impact: 0.032238
+12.  stored              | Impact: 0.031538
+13.  with                | Impact: 0.030111
+14.  shared              | Impact: 0.019733
+15.  above               | Impact: 0.019143
+16.  link                | Impact: 0.018705
+17.  attachment          | Impact: 0.018116
+18.  s                   | Impact: 0.017251
+19.  the                 | Impact: 0.016625
+20.  due                 | Impact: 0.015832
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.030819
+ 2.  :                   | Impact: -0.019757
+ 3.  not                 | Impact: -0.014444
+ 4. zed                  | Impact: -0.013474
+ 5.  to                  | Impact: -0.008270
+ 6.  an                  | Impact: -0.006450
+ 7.  '                   | Impact: -0.004454
+ 8.  '                   | Impact: -0.002682
+ 9.  .                   | Impact: -0.002287
+10.  s                   | Impact: -0.002109
+11.  -                   | Impact: -0.001419
+12.  '                   | Impact: -0.000743
+13.                      | Impact: -0.000346

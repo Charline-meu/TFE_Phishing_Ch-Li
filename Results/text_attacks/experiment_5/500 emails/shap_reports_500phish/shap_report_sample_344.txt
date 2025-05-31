@@ -1,0 +1,75 @@
+Sample 344
+==========
+
+Sample text preview: Good Day, I must not hesitate to confide in you this simple and sincere request business for our mutual benefit. I am James Nimely ,the son of the lat...
+
+Model prediction: [1.4753401e-04 9.9985242e-01]
+Predicted class: PHISHING with 0.9999 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  yours               | Impact: 0.017773 → PHISHING
+ 2.  sincerely           | Impact: 0.017773 → PHISHING
+ 3.  of                  | Impact: 0.013605 → PHISHING
+ 4.  liberia             | Impact: 0.013605 → PHISHING
+ 5.  attention           | Impact: 0.008417 → PHISHING
+ 6.  of                  | Impact: 0.007720 → PHISHING
+ 7.  the                 | Impact: 0.007720 → PHISHING
+ 8.  fund                | Impact: 0.007720 → PHISHING
+ 9.  trust               | Impact: 0.007052 → PHISHING
+10.  worthy              | Impact: 0.007052 → PHISHING
+11.  business            | Impact: 0.007052 → PHISHING
+12.  partner             | Impact: 0.007052 → PHISHING
+13.  your                | Impact: 0.006561 → PHISHING
+14.  kind                | Impact: 0.006561 → PHISHING
+15.  from                | Impact: 0.006558 → PHISHING
+16.  you                 | Impact: 0.006558 → PHISHING
+17.  and                 | Impact: 0.006469 → PHISHING
+18.  in                  | Impact: 0.006194 → PHISHING
+19.  your                | Impact: 0.006194 → PHISHING
+20.  country             | Impact: 0.006194 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  yours               | Impact: 0.017773
+ 2.  sincerely           | Impact: 0.017773
+ 3.  of                  | Impact: 0.013605
+ 4.  liberia             | Impact: 0.013605
+ 5.  attention           | Impact: 0.008417
+ 6.  of                  | Impact: 0.007720
+ 7.  the                 | Impact: 0.007720
+ 8.  fund                | Impact: 0.007720
+ 9.  trust               | Impact: 0.007052
+10.  worthy              | Impact: 0.007052
+11.  business            | Impact: 0.007052
+12.  partner             | Impact: 0.007052
+13.  your                | Impact: 0.006561
+14.  kind                | Impact: 0.006561
+15.  from                | Impact: 0.006558
+16.  you                 | Impact: 0.006558
+17.  and                 | Impact: 0.006469
+18.  in                  | Impact: 0.006194
+19.  your                | Impact: 0.006194
+20.  country             | Impact: 0.006194
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.005420
+ 2.  for                 | Impact: -0.005420
+ 3.  expected            | Impact: -0.003254
+ 4.  positive            | Impact: -0.003254
+ 5.  response            | Impact: -0.003254
+ 6.  james               | Impact: -0.003206
+ 7.  ni                  | Impact: -0.003206
+ 8. mel                  | Impact: -0.003206
+ 9. y                    | Impact: -0.003206
+10.  mod                 | Impact: -0.002926
+11. ali                  | Impact: -0.002926
+12. ties                 | Impact: -0.002926
+13.  .                   | Impact: -0.002175
+14.  we                  | Impact: -0.001965
+15.  can                 | Impact: -0.001965
+16.  discuss             | Impact: -0.001965
+17.  the                 | Impact: -0.001965
+18.  of                  | Impact: -0.001835
+19.  this                | Impact: -0.001835
+20.  transaction         | Impact: -0.001835

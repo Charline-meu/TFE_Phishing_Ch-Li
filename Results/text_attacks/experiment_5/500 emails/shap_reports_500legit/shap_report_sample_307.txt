@@ -1,0 +1,75 @@
+Sample 307
+==========
+
+Sample text preview: The following domains that are registered as belonging to you are due to expire within the next days. If you would like to renew them, please contact ...
+
+Model prediction: [4.895794e-04 9.995104e-01]
+Predicted class: PHISHING with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.181440 → PHISHING
+ 2.  -                   | Impact: -0.107948 → LEGITIMATE
+ 3.  contact             | Impact: 0.100408 → PHISHING
+ 4.  domain              | Impact: 0.095783 → PHISHING
+ 5.  ex                  | Impact: 0.092378 → PHISHING
+ 6.  -                   | Impact: -0.069004 → LEGITIMATE
+ 7.  name                | Impact: 0.066822 → PHISHING
+ 8.  are                 | Impact: 0.059334 → PHISHING
+ 9.  please              | Impact: 0.051463 → PHISHING
+10. pire                 | Impact: 0.037746 → PHISHING
+11.  belonging           | Impact: 0.035661 → PHISHING
+12.  registered          | Impact: 0.028429 → PHISHING
+13.  ex                  | Impact: 0.027040 → PHISHING
+14.  to                  | Impact: 0.025686 → PHISHING
+15.  renew               | Impact: 0.025440 → PHISHING
+16.  otherwise           | Impact: 0.024600 → PHISHING
+17.  due                 | Impact: 0.022354 → PHISHING
+18.  com                 | Impact: 0.021285 → PHISHING
+19. ivated               | Impact: 0.021084 → PHISHING
+20.  ,                   | Impact: -0.020950 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.181440
+ 2.  contact             | Impact: 0.100408
+ 3.  domain              | Impact: 0.095783
+ 4.  ex                  | Impact: 0.092378
+ 5.  name                | Impact: 0.066822
+ 6.  are                 | Impact: 0.059334
+ 7.  please              | Impact: 0.051463
+ 8. pire                 | Impact: 0.037746
+ 9.  belonging           | Impact: 0.035661
+10.  registered          | Impact: 0.028429
+11.  ex                  | Impact: 0.027040
+12.  to                  | Impact: 0.025686
+13.  renew               | Impact: 0.025440
+14.  otherwise           | Impact: 0.024600
+15.  due                 | Impact: 0.022354
+16.  com                 | Impact: 0.021285
+17. ivated               | Impact: 0.021084
+18. ct                   | Impact: 0.020748
+19. ry                   | Impact: 0.020465
+20.  they                | Impact: 0.019553
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.107948
+ 2.  -                   | Impact: -0.069004
+ 3.  ,                   | Impact: -0.020950
+ 4.  .                   | Impact: -0.013591
+ 5.  domains             | Impact: -0.010635
+ 6.  .                   | Impact: -0.007436
+ 7.  are                 | Impact: -0.006459
+ 8.  ,                   | Impact: -0.004431
+ 9.  that                | Impact: -0.004293
+10.  as                  | Impact: -0.003825
+11.  ,                   | Impact: -0.003606
+12.  date                | Impact: -0.003002
+13.  following           | Impact: -0.001342
+14.                      | Impact: -0.000590
+15. gc                   | Impact: -0.000301
+16. lot                  | Impact: -0.000301
+17. hing                 | Impact: -0.000301
+18.  nut                 | Impact: -0.000301
+19. me                   | Impact: -0.000301
+20.                      | Impact: -0.000144

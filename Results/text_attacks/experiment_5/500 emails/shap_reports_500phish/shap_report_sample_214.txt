@@ -1,0 +1,56 @@
+Sample 214
+==========
+
+Sample text preview: INVESTMENT RELATIONSHIP REQUEST!!! >From Tabel D. Micheal Hello Dear One, I am Tabel Djedje Michael yrs and my younger sister is Maria Micheal yrs, we...
+
+Model prediction: [1.9972189e-04 9.9980026e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.011157 → PHISHING
+ 2.  country             | Impact: 0.011157 → PHISHING
+ 3.  be                  | Impact: 0.010719 → PHISHING
+ 4.  our                 | Impact: 0.010719 → PHISHING
+ 5.  late                | Impact: 0.010719 → PHISHING
+ 6.  father              | Impact: 0.010719 → PHISHING
+ 7.  '                   | Impact: 0.010719 → PHISHING
+ 8.  s                   | Impact: 0.010719 → PHISHING
+ 9.  partner             | Impact: 0.007353 → PHISHING
+10.  in                  | Impact: 0.007353 → PHISHING
+11.  ben                 | Impact: 0.006451 → PHISHING
+12. ef                   | Impact: 0.006451 → PHISHING
+13. icia                 | Impact: 0.006451 → PHISHING
+14. ry                   | Impact: 0.006451 → PHISHING
+15.  and                 | Impact: 0.005813 → PHISHING
+16.  the                 | Impact: 0.005813 → PHISHING
+17.  because             | Impact: 0.005625 → PHISHING
+18.  we                  | Impact: 0.005625 → PHISHING
+19.  are                 | Impact: 0.005625 → PHISHING
+20.  still               | Impact: 0.005625 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.011157
+ 2.  country             | Impact: 0.011157
+ 3.  be                  | Impact: 0.010719
+ 4.  our                 | Impact: 0.010719
+ 5.  late                | Impact: 0.010719
+ 6.  father              | Impact: 0.010719
+ 7.  '                   | Impact: 0.010719
+ 8.  s                   | Impact: 0.010719
+ 9.  partner             | Impact: 0.007353
+10.  in                  | Impact: 0.007353
+11.  ben                 | Impact: 0.006451
+12. ef                   | Impact: 0.006451
+13. icia                 | Impact: 0.006451
+14. ry                   | Impact: 0.006451
+15.  and                 | Impact: 0.005813
+16.  the                 | Impact: 0.005813
+17.  because             | Impact: 0.005625
+18.  we                  | Impact: 0.005625
+19.  are                 | Impact: 0.005625
+20.  still               | Impact: 0.005625
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ,                   | Impact: -0.000869

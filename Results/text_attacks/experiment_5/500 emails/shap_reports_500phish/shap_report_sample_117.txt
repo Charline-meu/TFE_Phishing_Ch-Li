@@ -1,0 +1,75 @@
+Sample 117
+==========
+
+Sample text preview: FROM MR KEN MAHINDER This is an official notification of funds deposited in your name. We arrange for the safekeeping of special and valuable packages...
+
+Model prediction: [1.7264776e-04 9.9982733e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.024232 → PHISHING
+ 2.  full                | Impact: 0.024232 → PHISHING
+ 3.  name                | Impact: 0.024232 → PHISHING
+ 4.  :                   | Impact: 0.024232 → PHISHING
+ 5.  in                  | Impact: 0.009085 → PHISHING
+ 6.  your                | Impact: 0.009085 → PHISHING
+ 7.  name                | Impact: 0.009085 → PHISHING
+ 8.  (                   | Impact: 0.008290 → PHISHING
+ 9.  physical            | Impact: 0.008290 → PHISHING
+10.  address             | Impact: 0.008290 → PHISHING
+11.  with                | Impact: 0.008290 → PHISHING
+12.  zip                 | Impact: 0.008290 → PHISHING
+13.  code                | Impact: 0.008290 → PHISHING
+14.  )                   | Impact: 0.008290 → PHISHING
+15.  _                   | Impact: 0.008026 → PHISHING
+16.  your                | Impact: 0.008026 → PHISHING
+17.  complete            | Impact: 0.008026 → PHISHING
+18.  address             | Impact: 0.008026 → PHISHING
+19.  direct              | Impact: 0.007968 → PHISHING
+20.  telephone           | Impact: 0.007968 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.024232
+ 2.  full                | Impact: 0.024232
+ 3.  name                | Impact: 0.024232
+ 4.  :                   | Impact: 0.024232
+ 5.  in                  | Impact: 0.009085
+ 6.  your                | Impact: 0.009085
+ 7.  name                | Impact: 0.009085
+ 8.  (                   | Impact: 0.008290
+ 9.  physical            | Impact: 0.008290
+10.  address             | Impact: 0.008290
+11.  with                | Impact: 0.008290
+12.  zip                 | Impact: 0.008290
+13.  code                | Impact: 0.008290
+14.  )                   | Impact: 0.008290
+15.  _                   | Impact: 0.008026
+16.  your                | Impact: 0.008026
+17.  complete            | Impact: 0.008026
+18.  address             | Impact: 0.008026
+19.  direct              | Impact: 0.007968
+20.  telephone           | Impact: 0.007968
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  _                   | Impact: -0.000403
+ 2.  _                   | Impact: -0.000403
+ 3.  _                   | Impact: -0.000403
+ 4.  _                   | Impact: -0.000403
+ 5.  _                   | Impact: -0.000275
+ 6.  _                   | Impact: -0.000275
+ 7.  _                   | Impact: -0.000275
+ 8.  _                   | Impact: -0.000275
+ 9.  (                   | Impact: -0.000210
+10.  c                   | Impact: -0.000210
+11.  .                   | Impact: -0.000210
+12.  d                   | Impact: -0.000210
+13.  .                   | Impact: -0.000210
+14.  i                   | Impact: -0.000210
+15.  )                   | Impact: -0.000210
+16.  format              | Impact: -0.000041
+17.  stated              | Impact: -0.000041
+18.  below               | Impact: -0.000041
+19.  .                   | Impact: -0.000041
+20.  contained           | Impact: -0.000041

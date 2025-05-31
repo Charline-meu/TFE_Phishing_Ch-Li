@@ -1,0 +1,75 @@
+Sample 127
+==========
+
+Sample text preview: Thanks Rosalie.? That's great. I guess this means that Ken and Governor Knowles had a good talk!? I think Ken will enjoy it, and it's a great platform...
+
+Model prediction: [9.996363e-01 3.637496e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ?                   | Impact: 0.001852 → PHISHING
+ 2.  dear                | Impact: 0.001423 → PHISHING
+ 3.  ken                 | Impact: 0.001423 → PHISHING
+ 4.  subject             | Impact: -0.001348 → LEGITIMATE
+ 5.  :                   | Impact: -0.001348 → LEGITIMATE
+ 6.  ?                   | Impact: -0.001180 → LEGITIMATE
+ 7.  .                   | Impact: -0.000842 → LEGITIMATE
+ 8.  a                   | Impact: -0.000842 → LEGITIMATE
+ 9.  great               | Impact: -0.000842 → LEGITIMATE
+10.  platform            | Impact: -0.000842 → LEGITIMATE
+11.  ?                   | Impact: -0.000805 → LEGITIMATE
+12.  good                | Impact: 0.000783 → PHISHING
+13.  guy                 | Impact: 0.000783 → PHISHING
+14.  /                   | Impact: -0.000771 → LEGITIMATE
+15.  :                   | Impact: -0.000771 → LEGITIMATE
+16.  :                   | Impact: -0.000771 → LEGITIMATE
+17.  am                  | Impact: -0.000771 → LEGITIMATE
+18.  summit              | Impact: -0.000746 → LEGITIMATE
+19.  already             | Impact: -0.000746 → LEGITIMATE
+20.  .                   | Impact: -0.000746 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ?                   | Impact: 0.001852
+ 2.  dear                | Impact: 0.001423
+ 3.  ken                 | Impact: 0.001423
+ 4.  good                | Impact: 0.000783
+ 5.  guy                 | Impact: 0.000783
+ 6.  governors           | Impact: 0.000515
+ 7.  conference          | Impact: 0.000515
+ 8.  ?                   | Impact: 0.000453
+ 9.  ?                   | Impact: 0.000452
+10.  you                 | Impact: 0.000416
+11.  '                   | Impact: 0.000416
+12.  ll                  | Impact: 0.000416
+13.  enjoy               | Impact: 0.000416
+14.  (                   | Impact: 0.000408
+15.  classmate           | Impact: 0.000408
+16.  of                  | Impact: 0.000408
+17.  george              | Impact: 0.000408
+18.  w                   | Impact: 0.000408
+19.  .                   | Impact: 0.000408
+20.  talking             | Impact: 0.000323
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  subject             | Impact: -0.001348
+ 2.  :                   | Impact: -0.001348
+ 3.  ?                   | Impact: -0.001180
+ 4.  .                   | Impact: -0.000842
+ 5.  a                   | Impact: -0.000842
+ 6.  great               | Impact: -0.000842
+ 7.  platform            | Impact: -0.000842
+ 8.  ?                   | Impact: -0.000805
+ 9.  /                   | Impact: -0.000771
+10.  :                   | Impact: -0.000771
+11.  :                   | Impact: -0.000771
+12.  am                  | Impact: -0.000771
+13.  summit              | Impact: -0.000746
+14.  already             | Impact: -0.000746
+15.  .                   | Impact: -0.000746
+16.  ?                   | Impact: -0.000700
+17.  ?                   | Impact: -0.000700
+18.  high                | Impact: -0.000637
+19.  visibility          | Impact: -0.000637
+20.  platform            | Impact: -0.000637

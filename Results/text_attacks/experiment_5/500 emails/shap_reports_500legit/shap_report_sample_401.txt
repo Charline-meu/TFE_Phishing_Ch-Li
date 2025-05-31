@@ -1,0 +1,75 @@
+Sample 401
+==========
+
+Sample text preview: Laurent Papier wrote: >On Tue, Oct :: + >Matthias Saou wrote: > > > >>Once upon a time, Roi wrote : >> >> >> >>>mplayer works with dga (if i am root) ...
+
+Model prediction: [9.9976712e-01 2.3286193e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  .                   | Impact: -0.009061 → LEGITIMATE
+ 2.  list                | Impact: -0.009052 → LEGITIMATE
+ 3.  rpm                 | Impact: -0.008081 → LEGITIMATE
+ 4.  -                   | Impact: -0.008081 → LEGITIMATE
+ 5.  >                   | Impact: -0.007209 → LEGITIMATE
+ 6.  .                   | Impact: -0.006310 → LEGITIMATE
+ 7.  -                   | Impact: -0.005423 → LEGITIMATE
+ 8.  laurent             | Impact: -0.004762 → LEGITIMATE
+ 9.  .                   | Impact: -0.004173 → LEGITIMATE
+10.  on                  | Impact: -0.003946 → LEGITIMATE
+11.  .                   | Impact: -0.003898 → LEGITIMATE
+12.  .                   | Impact: -0.003821 → LEGITIMATE
+13.  >                   | Impact: -0.003759 → LEGITIMATE
+14.  _                   | Impact: -0.003369 → LEGITIMATE
+15.  net                 | Impact: -0.003369 → LEGITIMATE
+16.  -                   | Impact: -0.003369 → LEGITIMATE
+17.  dev                 | Impact: -0.003334 → LEGITIMATE
+18. el                   | Impact: -0.003334 → LEGITIMATE
+19.  >                   | Impact: -0.003199 → LEGITIMATE
+20.  make                | Impact: -0.002983 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  roi                 | Impact: 0.001238
+ 2.  _                   | Impact: 0.001238
+ 3.  _                   | Impact: 0.000653
+ 4.  _                   | Impact: 0.000653
+ 5.  _                   | Impact: 0.000299
+ 6.  _                   | Impact: 0.000299
+ 7.  _                   | Impact: 0.000270
+ 8.  _                   | Impact: 0.000270
+ 9.  _                   | Impact: 0.000169
+10.  _                   | Impact: 0.000169
+11.  _                   | Impact: 0.000167
+12.  _                   | Impact: 0.000167
+13.  roi                 | Impact: 0.000123
+14.  @                   | Impact: 0.000123
+15.  _                   | Impact: 0.000073
+16.  _                   | Impact: 0.000073
+17.  the                 | Impact: 0.000030
+18.  movie               | Impact: 0.000030
+19.  .                   | Impact: 0.000030
+20.  and                 | Impact: 0.000030
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.009061
+ 2.  list                | Impact: -0.009052
+ 3.  rpm                 | Impact: -0.008081
+ 4.  -                   | Impact: -0.008081
+ 5.  >                   | Impact: -0.007209
+ 6.  .                   | Impact: -0.006310
+ 7.  -                   | Impact: -0.005423
+ 8.  laurent             | Impact: -0.004762
+ 9.  .                   | Impact: -0.004173
+10.  on                  | Impact: -0.003946
+11.  .                   | Impact: -0.003898
+12.  .                   | Impact: -0.003821
+13.  >                   | Impact: -0.003759
+14.  _                   | Impact: -0.003369
+15.  net                 | Impact: -0.003369
+16.  -                   | Impact: -0.003369
+17.  dev                 | Impact: -0.003334
+18. el                   | Impact: -0.003334
+19.  >                   | Impact: -0.003199
+20.  make                | Impact: -0.002983

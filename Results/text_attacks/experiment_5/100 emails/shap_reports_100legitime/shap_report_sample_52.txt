@@ -1,0 +1,75 @@
+Phishing Sample 52
+==================
+
+Sample text preview: Barbara wrote: Pictish pictograms (still undeciphered) ----------------------- I'd be interested in an update on the latest thinking on these things. ...
+
+Model prediction: [9.9980325e-01 1.9673149e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  still               | Impact: 0.004022 → PHISHING
+ 2.  pic                 | Impact: -0.003701 → LEGITIMATE
+ 3.  wrote               | Impact: -0.003594 → LEGITIMATE
+ 4.  :                   | Impact: -0.003310 → LEGITIMATE
+ 5.  update              | Impact: -0.003280 → LEGITIMATE
+ 6.  &                   | Impact: 0.003195 → PHISHING
+ 7. gram                 | Impact: -0.003088 → LEGITIMATE
+ 8.  (                   | Impact: 0.003052 → PHISHING
+ 9.  is                  | Impact: -0.002504 → LEGITIMATE
+10. to                   | Impact: -0.002466 → LEGITIMATE
+11.  groups              | Impact: -0.002464 → LEGITIMATE
+12. gram                 | Impact: -0.002202 → LEGITIMATE
+13.  .                   | Impact: -0.001852 → LEGITIMATE
+14.  from                | Impact: -0.001798 → LEGITIMATE
+15.  this                | Impact: -0.001798 → LEGITIMATE
+16.  group               | Impact: -0.001788 → LEGITIMATE
+17.  :                   | Impact: -0.001714 → LEGITIMATE
+18.  your                | Impact: -0.001714 → LEGITIMATE
+19.  p                   | Impact: -0.001638 → LEGITIMATE
+20.  use                 | Impact: -0.001632 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  still               | Impact: 0.004022
+ 2.  &                   | Impact: 0.003195
+ 3.  (                   | Impact: 0.003052
+ 4.  free                | Impact: 0.001554
+ 5.  +                   | Impact: 0.001296
+ 6.  d                   | Impact: 0.001052
+ 7.  be                  | Impact: 0.000994
+ 8.  now                 | Impact: 0.000569
+ 9.  -                   | Impact: 0.000569
+10.  s                   | Impact: 0.000281
+11.  !                   | Impact: 0.000250
+12.  -                   | Impact: 0.000205
+13.  -                   | Impact: 0.000205
+14.  dvds                | Impact: 0.000182
+15.  -                   | Impact: 0.000177
+16.  -                   | Impact: 0.000177
+17.  -                   | Impact: 0.000174
+18.  -                   | Impact: 0.000174
+19.  -                   | Impact: 0.000153
+20.  -                   | Impact: 0.000153
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  pic                 | Impact: -0.003701
+ 2.  wrote               | Impact: -0.003594
+ 3.  :                   | Impact: -0.003310
+ 4.  update              | Impact: -0.003280
+ 5. gram                 | Impact: -0.003088
+ 6.  is                  | Impact: -0.002504
+ 7. to                   | Impact: -0.002466
+ 8.  groups              | Impact: -0.002464
+ 9. gram                 | Impact: -0.002202
+10.  .                   | Impact: -0.001852
+11.  from                | Impact: -0.001798
+12.  this                | Impact: -0.001798
+13.  group               | Impact: -0.001788
+14.  :                   | Impact: -0.001714
+15.  your                | Impact: -0.001714
+16.  p                   | Impact: -0.001638
+17.  use                 | Impact: -0.001632
+18.  of                  | Impact: -0.001632
+19.  yahoo               | Impact: -0.001632
+20.  >                   | Impact: -0.001536

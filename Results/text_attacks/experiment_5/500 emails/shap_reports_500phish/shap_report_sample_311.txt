@@ -1,0 +1,70 @@
+Sample 311
+==========
+
+Sample text preview: files received files, . MB in total . Will be deleted on th Nov, Get your files&nbsp; files&nbsp;J.pdf&nbsp;J.pdf&nbsp;J.pdf&nbsp;SCHEMA PNEUMATICO_M....
+
+Model prediction: [2.6528392e-04 9.9973470e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  spa                 | Impact: 0.069644 → PHISHING
+ 2.  files               | Impact: 0.061079 → PHISHING
+ 3.  your                | Impact: 0.058063 → PHISHING
+ 4. m                    | Impact: 0.057485 → PHISHING
+ 5.  deleted             | Impact: 0.050927 → PHISHING
+ 6.  get                 | Impact: 0.036438 → PHISHING
+ 7.  files               | Impact: 0.036034 → PHISHING
+ 8.  received            | Impact: 0.031864 → PHISHING
+ 9.  files               | Impact: 0.031265 → PHISHING
+10.  &                   | Impact: 0.031265 → PHISHING
+11.  be                  | Impact: 0.030428 → PHISHING
+12.  will                | Impact: 0.023601 → PHISHING
+13.                      | Impact: 0.021536 → PHISHING
+14.  on                  | Impact: 0.016613 → PHISHING
+15.  th                  | Impact: 0.014018 → PHISHING
+16.  nov                 | Impact: 0.012041 → PHISHING
+17.  ;                   | Impact: 0.010588 → PHISHING
+18.  legal               | Impact: 0.010588 → PHISHING
+19.  &                   | Impact: 0.010588 → PHISHING
+20.  &                   | Impact: 0.010373 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  spa                 | Impact: 0.069644
+ 2.  files               | Impact: 0.061079
+ 3.  your                | Impact: 0.058063
+ 4. m                    | Impact: 0.057485
+ 5.  deleted             | Impact: 0.050927
+ 6.  get                 | Impact: 0.036438
+ 7.  files               | Impact: 0.036034
+ 8.  received            | Impact: 0.031864
+ 9.  files               | Impact: 0.031265
+10.  &                   | Impact: 0.031265
+11.  be                  | Impact: 0.030428
+12.  will                | Impact: 0.023601
+13.                      | Impact: 0.021536
+14.  on                  | Impact: 0.016613
+15.  th                  | Impact: 0.014018
+16.  nov                 | Impact: 0.012041
+17.  ;                   | Impact: 0.010588
+18.  legal               | Impact: 0.010588
+19.  &                   | Impact: 0.010588
+20.  &                   | Impact: 0.010373
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  n                   | Impact: -0.007294
+ 2. bs                   | Impact: -0.007294
+ 3.  n                   | Impact: -0.004311
+ 4. bs                   | Impact: -0.004311
+ 5. p                    | Impact: -0.004311
+ 6.  this                | Impact: -0.004039
+ 7.  transfer            | Impact: -0.004039
+ 8.  ;                   | Impact: -0.003915
+ 9.  j                   | Impact: -0.003915
+10.  .                   | Impact: -0.003915
+11.  as                  | Impact: -0.003203
+12.  ,                   | Impact: -0.000947
+13. p                    | Impact: -0.000640
+14.  ,                   | Impact: -0.000329
+15.  .                   | Impact: -0.000265

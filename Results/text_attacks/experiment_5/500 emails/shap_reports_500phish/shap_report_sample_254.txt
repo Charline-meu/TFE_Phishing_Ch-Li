@@ -1,0 +1,75 @@
+Sample 254
+==========
+
+Sample text preview: The Magical Solution that Triples Index Annuity Sales! As a unique promotional opportunity, there is currently no charge for our "Big-Hitter Sales Too...
+
+Model prediction: [3.3728738e-04 9.9966276e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  millions            | Impact: 0.021217 → PHISHING
+ 2.  of                  | Impact: 0.021217 → PHISHING
+ 3.  ann                 | Impact: 0.020603 → PHISHING
+ 4. uity                 | Impact: 0.020603 → PHISHING
+ 5.  premium             | Impact: 0.020603 → PHISHING
+ 6.  unique              | Impact: 0.016044 → PHISHING
+ 7.  promotional         | Impact: 0.016044 → PHISHING
+ 8.  opportunity         | Impact: 0.016044 → PHISHING
+ 9.  for                 | Impact: 0.013742 → PHISHING
+10.  countless           | Impact: 0.013742 → PHISHING
+11.  legal               | Impact: 0.013603 → PHISHING
+12.  notice              | Impact: 0.013603 → PHISHING
+13.  agent               | Impact: 0.010922 → PHISHING
+14.  sales               | Impact: 0.010922 → PHISHING
+15.  commissions         | Impact: 0.010922 → PHISHING
+16.  ann                 | Impact: 0.010699 → PHISHING
+17. uity                 | Impact: 0.010699 → PHISHING
+18.  sales               | Impact: 0.010699 → PHISHING
+19.  !                   | Impact: 0.010699 → PHISHING
+20.  magic               | Impact: 0.010319 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  millions            | Impact: 0.021217
+ 2.  of                  | Impact: 0.021217
+ 3.  ann                 | Impact: 0.020603
+ 4. uity                 | Impact: 0.020603
+ 5.  premium             | Impact: 0.020603
+ 6.  unique              | Impact: 0.016044
+ 7.  promotional         | Impact: 0.016044
+ 8.  opportunity         | Impact: 0.016044
+ 9.  for                 | Impact: 0.013742
+10.  countless           | Impact: 0.013742
+11.  legal               | Impact: 0.013603
+12.  notice              | Impact: 0.013603
+13.  agent               | Impact: 0.010922
+14.  sales               | Impact: 0.010922
+15.  commissions         | Impact: 0.010922
+16.  ann                 | Impact: 0.010699
+17. uity                 | Impact: 0.010699
+18.  sales               | Impact: 0.010699
+19.  !                   | Impact: 0.010699
+20.  magic               | Impact: 0.010319
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  rep                 | Impact: -0.006679
+ 2.  stated              | Impact: -0.006679
+ 3.  instead             | Impact: -0.005564
+ 4.  ,                   | Impact: -0.005564
+ 5.  works               | Impact: -0.003118
+ 6.  /                   | Impact: -0.003118
+ 7.  .                   | Impact: -0.003118
+ 8.  as                  | Impact: -0.002173
+ 9.  one                 | Impact: -0.002173
+10.  falling             | Impact: -0.001894
+11.  off                 | Impact: -0.001894
+12.  a                   | Impact: -0.001894
+13.  log                 | Impact: -0.001894
+14.  .                   | Impact: -0.001808
+15.  ,                   | Impact: -0.001754
+16.  it                  | Impact: -0.001609
+17.  just                | Impact: -0.001609
+18.  kind                | Impact: -0.001609
+19.  of                  | Impact: -0.001609
+20.  happens             | Impact: -0.001609

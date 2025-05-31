@@ -1,0 +1,75 @@
+Sample 84
+=========
+
+Sample text preview: >From The Desk Of Ben Coroma Esq, Senior Staff In FileDepartment, African Development Bank A.D.B OuagadougouBurkina-Faso West Africa. Call me with thi...
+
+Model prediction: [2.1997707e-04 9.9978000e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  from                | Impact: 0.007456 → PHISHING
+ 2.  your                | Impact: 0.007456 → PHISHING
+ 3.  country             | Impact: 0.007456 → PHISHING
+ 4.  who                 | Impact: 0.007456 → PHISHING
+ 5.  was                 | Impact: 0.007456 → PHISHING
+ 6.  in                  | Impact: 0.007456 → PHISHING
+ 7.  this                | Impact: 0.007456 → PHISHING
+ 8.  country             | Impact: 0.007456 → PHISHING
+ 9.  and                 | Impact: 0.007456 → PHISHING
+10.  partner             | Impact: 0.006793 → PHISHING
+11.  i                   | Impact: 0.006793 → PHISHING
+12.  assured             | Impact: 0.006793 → PHISHING
+13.  of                  | Impact: 0.006793 → PHISHING
+14.  af                  | Impact: 0.006793 → PHISHING
+15. ore                  | Impact: 0.006793 → PHISHING
+16. ign                  | Impact: 0.006793 → PHISHING
+17.  foreign             | Impact: 0.006095 → PHISHING
+18.  partner             | Impact: 0.006095 → PHISHING
+19.  ,                   | Impact: 0.006095 → PHISHING
+20.  be                  | Impact: 0.006095 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  from                | Impact: 0.007456
+ 2.  your                | Impact: 0.007456
+ 3.  country             | Impact: 0.007456
+ 4.  who                 | Impact: 0.007456
+ 5.  was                 | Impact: 0.007456
+ 6.  in                  | Impact: 0.007456
+ 7.  this                | Impact: 0.007456
+ 8.  country             | Impact: 0.007456
+ 9.  and                 | Impact: 0.007456
+10.  partner             | Impact: 0.006793
+11.  i                   | Impact: 0.006793
+12.  assured             | Impact: 0.006793
+13.  of                  | Impact: 0.006793
+14.  af                  | Impact: 0.006793
+15. ore                  | Impact: 0.006793
+16. ign                  | Impact: 0.006793
+17.  foreign             | Impact: 0.006095
+18.  partner             | Impact: 0.006095
+19.  ,                   | Impact: 0.006095
+20.  be                  | Impact: 0.006095
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  bus                 | Impact: -0.000402
+ 2. ine                  | Impact: -0.000402
+ 3. es                   | Impact: -0.000402
+ 4.  reliability         | Impact: -0.000402
+ 5.  to                  | Impact: -0.000402
+ 6.  champion            | Impact: -0.000402
+ 7.  this                | Impact: -0.000402
+ 8.  when                | Impact: -0.000099
+ 9.  i                   | Impact: -0.000099
+10.  was                 | Impact: -0.000099
+11.  searching           | Impact: -0.000099
+12.  for                 | Impact: -0.000099
+13.  your                | Impact: -0.000000
+14.  '                   | Impact: -0.000000
+15.  s                   | Impact: -0.000000
+16.  faithful            | Impact: -0.000000
+17. ly                   | Impact: -0.000000
+18.  ,                   | Impact: -0.000000
+19.  co                  | Impact: -0.000000
+20. rom                  | Impact: -0.000000

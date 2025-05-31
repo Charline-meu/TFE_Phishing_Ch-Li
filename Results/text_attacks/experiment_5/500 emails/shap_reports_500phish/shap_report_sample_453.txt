@@ -1,0 +1,75 @@
+Sample 453
+==========
+
+Sample text preview: To be taken off this mailing list, simply hit your reply button and put "Remove" anywhere in the subject. --------------------------------------------...
+
+Model prediction: [0.00106665 0.9989334 ]
+Predicted class: PHISHING with 0.9989 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  !                   | Impact: 0.015939 → PHISHING
+ 2.  !                   | Impact: 0.015521 → PHISHING
+ 3.  exclusive           | Impact: 0.014655 → PHISHING
+ 4.  amateur             | Impact: 0.014655 → PHISHING
+ 5.  xx                  | Impact: 0.014655 → PHISHING
+ 6. x                    | Impact: 0.014655 → PHISHING
+ 7.  videos              | Impact: 0.014655 → PHISHING
+ 8.  !                   | Impact: 0.014655 → PHISHING
+ 9.  taken               | Impact: 0.012877 → PHISHING
+10.  !                   | Impact: 0.010862 → PHISHING
+11.  hundreds            | Impact: 0.010709 → PHISHING
+12.  of                  | Impact: 0.010709 → PHISHING
+13.  exclusive           | Impact: 0.010709 → PHISHING
+14.  petite              | Impact: 0.010709 → PHISHING
+15.  amateur             | Impact: 0.010709 → PHISHING
+16.  models              | Impact: 0.010709 → PHISHING
+17.  !                   | Impact: 0.010709 → PHISHING
+18.  !                   | Impact: 0.009445 → PHISHING
+19.  !                   | Impact: 0.009445 → PHISHING
+20.  teens               | Impact: 0.009168 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.015939
+ 2.  !                   | Impact: 0.015521
+ 3.  exclusive           | Impact: 0.014655
+ 4.  amateur             | Impact: 0.014655
+ 5.  xx                  | Impact: 0.014655
+ 6. x                    | Impact: 0.014655
+ 7.  videos              | Impact: 0.014655
+ 8.  !                   | Impact: 0.014655
+ 9.  taken               | Impact: 0.012877
+10.  !                   | Impact: 0.010862
+11.  hundreds            | Impact: 0.010709
+12.  of                  | Impact: 0.010709
+13.  exclusive           | Impact: 0.010709
+14.  petite              | Impact: 0.010709
+15.  amateur             | Impact: 0.010709
+16.  models              | Impact: 0.010709
+17.  !                   | Impact: 0.010709
+18.  !                   | Impact: 0.009445
+19.  !                   | Impact: 0.009445
+20.  teens               | Impact: 0.009168
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.001641
+ 2.  -                   | Impact: -0.001641
+ 3.  -                   | Impact: -0.001641
+ 4.  -                   | Impact: -0.001641
+ 5.  -                   | Impact: -0.001641
+ 6.  -                   | Impact: -0.001641
+ 7.  -                   | Impact: -0.001641
+ 8.  -                   | Impact: -0.001641
+ 9.  -                   | Impact: -0.001457
+10.  -                   | Impact: -0.001457
+11.  the                 | Impact: -0.001457
+12.  sm                  | Impact: -0.001457
+13. ut                   | Impact: -0.001457
+14. ties                 | Impact: -0.001457
+15. t                    | Impact: -0.001457
+16.  -                   | Impact: -0.001457
+17.  -                   | Impact: -0.001457
+18.  -                   | Impact: -0.001457
+19.  -                   | Impact: -0.001457
+20.  pic                 | Impact: -0.001429

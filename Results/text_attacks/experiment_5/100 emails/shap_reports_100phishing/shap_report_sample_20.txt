@@ -1,0 +1,68 @@
+Phishing Sample 20
+==================
+
+Sample text preview: Dear MB MB Your email account storage limit is almost full; therefore you may not be able to receive or send multiple emails soon. To prevent this and...
+
+Model prediction: [1.9521161e-04 9.9980479e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.140017 → PHISHING
+ 2.  account             | Impact: 0.091545 → PHISHING
+ 3.  account             | Impact: 0.076741 → PHISHING
+ 4.  your                | Impact: 0.053138 → PHISHING
+ 5.  your                | Impact: 0.045102 → PHISHING
+ 6.  safely              | Impact: 0.044687 → PHISHING
+ 7.  email               | Impact: 0.039827 → PHISHING
+ 8.  disabled            | Impact: 0.029739 → PHISHING
+ 9.  your                | Impact: 0.027935 → PHISHING
+10.  storage             | Impact: 0.027928 → PHISHING
+11.  mb                  | Impact: 0.025879 → PHISHING
+12.  mb                  | Impact: 0.025855 → PHISHING
+13.  permanently         | Impact: 0.025832 → PHISHING
+14.  you                 | Impact: 0.023345 → PHISHING
+15.  your                | Impact: 0.022143 → PHISHING
+16.  continue            | Impact: 0.020968 → PHISHING
+17.  failure             | Impact: 0.019834 → PHISHING
+18.  therefore           | Impact: 0.014885 → PHISHING
+19.  may                 | Impact: 0.012507 → PHISHING
+20.  email               | Impact: 0.012450 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.140017
+ 2.  account             | Impact: 0.091545
+ 3.  account             | Impact: 0.076741
+ 4.  your                | Impact: 0.053138
+ 5.  your                | Impact: 0.045102
+ 6.  safely              | Impact: 0.044687
+ 7.  email               | Impact: 0.039827
+ 8.  disabled            | Impact: 0.029739
+ 9.  your                | Impact: 0.027935
+10.  storage             | Impact: 0.027928
+11.  mb                  | Impact: 0.025879
+12.  mb                  | Impact: 0.025855
+13.  permanently         | Impact: 0.025832
+14.  you                 | Impact: 0.023345
+15.  your                | Impact: 0.022143
+16.  continue            | Impact: 0.020968
+17.  failure             | Impact: 0.019834
+18.  therefore           | Impact: 0.014885
+19.  may                 | Impact: 0.012507
+20.  email               | Impact: 0.012450
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.006170
+ 2.  .                   | Impact: -0.005162
+ 3.  almost              | Impact: -0.003463
+ 4.  using               | Impact: -0.002944
+ 5.  ,                   | Impact: -0.001268
+ 6.  ,                   | Impact: -0.000667
+ 7.  it                  | Impact: -0.000141
+ 8.  will                | Impact: -0.000141
+ 9.  not                 | Impact: -0.000125
+10.  be                  | Impact: -0.000125
+11.  able                | Impact: -0.000125
+12.  to                  | Impact: -0.000125
+13.  receive             | Impact: -0.000125

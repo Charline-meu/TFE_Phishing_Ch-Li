@@ -1,0 +1,75 @@
+Sample 338
+==========
+
+Sample text preview: Please see attached driving directions for the VC Dinner on Monday. The address is: Ming's Restaurant, Embarcadero Road, Palo Alto, CA Tel: () - Route...
+
+Model prediction: [9.9973315e-01 2.6677985e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  attached            | Impact: 0.067287 → PHISHING
+ 2.  please              | Impact: 0.057419 → PHISHING
+ 3.  directions          | Impact: -0.052223 → LEGITIMATE
+ 4.  :                   | Impact: -0.046888 → LEGITIMATE
+ 5.  address             | Impact: 0.046648 → PHISHING
+ 6.  for                 | Impact: -0.037163 → LEGITIMATE
+ 7.  the                 | Impact: -0.027366 → LEGITIMATE
+ 8.  tel                 | Impact: 0.016016 → PHISHING
+ 9.  road                | Impact: 0.015641 → PHISHING
+10.  )                   | Impact: -0.014422 → LEGITIMATE
+11.  em                  | Impact: -0.012287 → LEGITIMATE
+12.  dinner              | Impact: -0.012135 → LEGITIMATE
+13.  driving             | Impact: 0.011862 → PHISHING
+14.  alto                | Impact: -0.010843 → LEGITIMATE
+15.  see                 | Impact: -0.010408 → LEGITIMATE
+16. e                    | Impact: 0.009744 → PHISHING
+17.  restaurant          | Impact: 0.008617 → PHISHING
+18.  '                   | Impact: -0.008126 → LEGITIMATE
+19. cade                 | Impact: -0.007962 → LEGITIMATE
+20.  monday              | Impact: -0.007364 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  attached            | Impact: 0.067287
+ 2.  please              | Impact: 0.057419
+ 3.  address             | Impact: 0.046648
+ 4.  tel                 | Impact: 0.016016
+ 5.  road                | Impact: 0.015641
+ 6.  driving             | Impact: 0.011862
+ 7. e                    | Impact: 0.009744
+ 8.  restaurant          | Impact: 0.008617
+ 9.  ca                  | Impact: 0.007075
+10.  palo                | Impact: 0.006719
+11.  ,                   | Impact: 0.004875
+12. bar                  | Impact: 0.004010
+13.  vc                  | Impact: 0.003928
+14.  route               | Impact: 0.003286
+15. ro                   | Impact: 0.001522
+16.  -                   | Impact: 0.001462
+17.  on                  | Impact: 0.001440
+18.  ,                   | Impact: 0.001045
+19.  is                  | Impact: 0.000852
+20.                      | Impact: 0.000153
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  directions          | Impact: -0.052223
+ 2.  :                   | Impact: -0.046888
+ 3.  for                 | Impact: -0.037163
+ 4.  the                 | Impact: -0.027366
+ 5.  )                   | Impact: -0.014422
+ 6.  em                  | Impact: -0.012287
+ 7.  dinner              | Impact: -0.012135
+ 8.  alto                | Impact: -0.010843
+ 9.  see                 | Impact: -0.010408
+10.  '                   | Impact: -0.008126
+11. cade                 | Impact: -0.007962
+12.  monday              | Impact: -0.007364
+13.  :                   | Impact: -0.006765
+14.  :                   | Impact: -0.006287
+15.  out                 | Impact: -0.006134
+16.  (                   | Impact: -0.005957
+17.  ming                | Impact: -0.004517
+18.  .                   | Impact: -0.002614
+19.  ,                   | Impact: -0.002293
+20.  the                 | Impact: -0.002204

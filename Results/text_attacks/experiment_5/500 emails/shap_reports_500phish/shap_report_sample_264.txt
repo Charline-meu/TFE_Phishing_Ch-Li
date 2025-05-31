@@ -1,0 +1,75 @@
+Sample 264
+==========
+
+Sample text preview: Dear User, We informed you that your account will be closed ON // because you have been ignoring all our update messages sent you. If you wish to cont...
+
+Model prediction: [1.6654571e-04 9.9983346e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.137225 → PHISHING
+ 2.  sincerely           | Impact: 0.114593 → PHISHING
+ 3.  account             | Impact: 0.066666 → PHISHING
+ 4.  protocol            | Impact: -0.061992 → LEGITIMATE
+ 5.  your                | Impact: 0.040662 → PHISHING
+ 6.  your                | Impact: 0.038835 → PHISHING
+ 7.  account             | Impact: 0.034879 → PHISHING
+ 8.  you                 | Impact: 0.034384 → PHISHING
+ 9.  user                | Impact: -0.030371 → LEGITIMATE
+10.  http                | Impact: 0.029365 → PHISHING
+11.  click               | Impact: 0.029072 → PHISHING
+12.  account             | Impact: 0.024464 → PHISHING
+13.  :                   | Impact: -0.023395 → LEGITIMATE
+14.  windows             | Impact: -0.022896 → LEGITIMATE
+15.  reason              | Impact: -0.022113 → LEGITIMATE
+16.  your                | Impact: 0.021321 → PHISHING
+17.  service             | Impact: 0.019831 → PHISHING
+18.  information         | Impact: 0.019651 → PHISHING
+19.  you                 | Impact: 0.019308 → PHISHING
+20.  update              | Impact: 0.018502 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.137225
+ 2.  sincerely           | Impact: 0.114593
+ 3.  account             | Impact: 0.066666
+ 4.  your                | Impact: 0.040662
+ 5.  your                | Impact: 0.038835
+ 6.  account             | Impact: 0.034879
+ 7.  you                 | Impact: 0.034384
+ 8.  http                | Impact: 0.029365
+ 9.  click               | Impact: 0.029072
+10.  account             | Impact: 0.024464
+11.  your                | Impact: 0.021321
+12.  service             | Impact: 0.019831
+13.  information         | Impact: 0.019651
+14.  you                 | Impact: 0.019308
+15.  update              | Impact: 0.018502
+16.  terminated          | Impact: 0.017511
+17.  your                | Impact: 0.017175
+18.  messages            | Impact: 0.015097
+19.  sent                | Impact: 0.014975
+20.  security            | Impact: 0.014343
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  protocol            | Impact: -0.061992
+ 2.  user                | Impact: -0.030371
+ 3.  :                   | Impact: -0.023395
+ 4.  windows             | Impact: -0.022896
+ 5.  reason              | Impact: -0.022113
+ 6.  policy              | Impact: -0.014276
+ 7.  violation           | Impact: -0.014276
+ 8.  ,                   | Impact: -0.009832
+ 9.  black               | Impact: -0.009672
+10. list                 | Impact: -0.009672
+11.  if                  | Impact: -0.005370
+12.  :                   | Impact: -0.004737
+13.                      | Impact: -0.003935
+14.  user                | Impact: -0.003351
+15.  -                   | Impact: -0.002732
+16.  -                   | Impact: -0.002732
+17.  -                   | Impact: -0.002732
+18.  -                   | Impact: -0.002732
+19.  -                   | Impact: -0.002191
+20.  -                   | Impact: -0.002191

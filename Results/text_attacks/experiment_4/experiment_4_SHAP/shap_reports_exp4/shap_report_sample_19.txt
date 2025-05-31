@@ -1,0 +1,75 @@
+Phishing Sample 9
+=================
+
+Sample text preview: Notification: Update to Your Preferences A recent adjustment has been registered in your settings. To review the recent update and related information...
+
+Model prediction: [0.9145631 0.0854369]
+Predicted class: LEGITIMATE with 0.9146 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  preferences         | Impact: -0.183528 → LEGITIMATE
+ 2.  account             | Impact: 0.155412 → PHISHING
+ 3.  settings            | Impact: 0.143020 → PHISHING
+ 4.  member              | Impact: -0.066881 → LEGITIMATE
+ 5.  ]                   | Impact: -0.063615 → LEGITIMATE
+ 6.  dashboard           | Impact: -0.059714 → LEGITIMATE
+ 7. a                    | Impact: -0.051799 → LEGITIMATE
+ 8.  your                | Impact: 0.050062 → PHISHING
+ 9.  usa                 | Impact: -0.047542 → LEGITIMATE
+10.  we                  | Impact: 0.044922 → PHISHING
+11.  review              | Impact: -0.039747 → LEGITIMATE
+12.  you                 | Impact: 0.039429 → PHISHING
+13.  access              | Impact: -0.036337 → LEGITIMATE
+14.  preferences         | Impact: -0.036337 → LEGITIMATE
+15.  consult             | Impact: 0.035874 → PHISHING
+16.  encourage           | Impact: 0.034548 → PHISHING
+17.  your                | Impact: 0.032949 → PHISHING
+18.  to                  | Impact: 0.028732 → PHISHING
+19.  .                   | Impact: 0.025679 → PHISHING
+20.  settings            | Impact: 0.021099 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  account             | Impact: 0.155412
+ 2.  settings            | Impact: 0.143020
+ 3.  your                | Impact: 0.050062
+ 4.  we                  | Impact: 0.044922
+ 5.  you                 | Impact: 0.039429
+ 6.  consult             | Impact: 0.035874
+ 7.  encourage           | Impact: 0.034548
+ 8.  your                | Impact: 0.032949
+ 9.  to                  | Impact: 0.028732
+10.  .                   | Impact: 0.025679
+11.  settings            | Impact: 0.021099
+12.  update              | Impact: 0.021050
+13.  notification        | Impact: 0.020963
+14.  proceed             | Impact: 0.016254
+15.  your                | Impact: 0.011059
+16.  registered          | Impact: 0.010813
+17.  in                  | Impact: 0.010813
+18.  if                  | Impact: 0.008997
+19.  you                 | Impact: 0.008997
+20.  link                | Impact: 0.007669
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  preferences         | Impact: -0.183528
+ 2.  member              | Impact: -0.066881
+ 3.  ]                   | Impact: -0.063615
+ 4.  dashboard           | Impact: -0.059714
+ 5. a                    | Impact: -0.051799
+ 6.  usa                 | Impact: -0.047542
+ 7.  review              | Impact: -0.039747
+ 8.  access              | Impact: -0.036337
+ 9.  preferences         | Impact: -0.036337
+10.  services            | Impact: -0.019823
+11.  recent              | Impact: -0.015229
+12.  changes             | Impact: -0.014608
+13.  the                 | Impact: -0.012839
+14.  configuration       | Impact: -0.012044
+15.  details             | Impact: -0.012044
+16.  or                  | Impact: -0.010826
+17.  related             | Impact: -0.010045
+18.  recent              | Impact: -0.009550
+19.  adjustment          | Impact: -0.009550
+20.  initiated           | Impact: -0.009154

@@ -1,0 +1,75 @@
+Sample 421
+==========
+
+Sample text preview: FROM: PROFESSOR CHARLES CHUKWUMA SOLUDO, EXECUTIVE GOVERNOR, CENTRAL BANK OF NIGERIA ATTENTION: OVER DUE TRAPPED CONTRACT FUNDS THIS IS TO NOTIFY ALL ...
+
+Model prediction: [2.4593863e-04 9.9975401e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  off                 | Impact: 0.018032 → PHISHING
+ 2.  all                 | Impact: 0.018032 → PHISHING
+ 3.  nigerian            | Impact: 0.018032 → PHISHING
+ 4.  paris               | Impact: 0.018032 → PHISHING
+ 5.  club                | Impact: 0.017172 → PHISHING
+ 6.  debt                | Impact: 0.017172 → PHISHING
+ 7.  and                 | Impact: 0.017172 → PHISHING
+ 8.  nigerian            | Impact: 0.011848 → PHISHING
+ 9.  image               | Impact: 0.011848 → PHISHING
+10.  as                  | Impact: 0.011848 → PHISHING
+11.  the                 | Impact: 0.011848 → PHISHING
+12.  present             | Impact: 0.010739 → PHISHING
+13.  administration      | Impact: 0.010739 → PHISHING
+14.  has                 | Impact: 0.010739 → PHISHING
+15.  paid                | Impact: 0.010739 → PHISHING
+16.  your                | Impact: 0.007092 → PHISHING
+17.  nigerian            | Impact: 0.007092 → PHISHING
+18.  representative      | Impact: 0.007092 → PHISHING
+19.  information         | Impact: 0.007092 → PHISHING
+20.  .                   | Impact: 0.007092 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  off                 | Impact: 0.018032
+ 2.  all                 | Impact: 0.018032
+ 3.  nigerian            | Impact: 0.018032
+ 4.  paris               | Impact: 0.018032
+ 5.  club                | Impact: 0.017172
+ 6.  debt                | Impact: 0.017172
+ 7.  and                 | Impact: 0.017172
+ 8.  nigerian            | Impact: 0.011848
+ 9.  image               | Impact: 0.011848
+10.  as                  | Impact: 0.011848
+11.  the                 | Impact: 0.011848
+12.  present             | Impact: 0.010739
+13.  administration      | Impact: 0.010739
+14.  has                 | Impact: 0.010739
+15.  paid                | Impact: 0.010739
+16.  your                | Impact: 0.007092
+17.  nigerian            | Impact: 0.007092
+18.  representative      | Impact: 0.007092
+19.  information         | Impact: 0.007092
+20.  .                   | Impact: 0.007092
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  more                | Impact: -0.000119
+ 2.  before              | Impact: -0.000119
+ 3.  the                 | Impact: -0.000119
+ 4.  still               | Impact: -0.000119
+ 5.  want                | Impact: -0.000119
+ 6.  to                  | Impact: -0.000119
+ 7.  clear               | Impact: -0.000119
+ 8.  hand                | Impact: -0.000119
+ 9. over                 | Impact: -0.000119
+10.  date                | Impact: -0.000119
+11.  of                  | Impact: -0.000119
+12.  may                 | Impact: -0.000119
+13.  .                   | Impact: -0.000119
+14.  sorry               | Impact: -0.000000
+15.  for                 | Impact: -0.000000
+16.  any                 | Impact: -0.000000
+17.  you                 | Impact: -0.000000
+18.  best                | Impact: -0.000000
+19.  regards             | Impact: -0.000000
+20.  ,                   | Impact: -0.000000

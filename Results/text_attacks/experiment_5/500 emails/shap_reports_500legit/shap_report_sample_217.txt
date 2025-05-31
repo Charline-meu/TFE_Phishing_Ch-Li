@@ -1,0 +1,72 @@
+Sample 217
+==========
+
+Sample text preview: So then, Neale Pickett is all like: > Maybe there's some subtle interaction between generators and lists > that I can't understand. Or something. Bein...
+
+Model prediction: [9.9977297e-01 2.2707628e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  blaming             | Impact: -0.032941 → LEGITIMATE
+ 2.  neal                | Impact: -0.028666 → LEGITIMATE
+ 3.  it                  | Impact: -0.017020 → LEGITIMATE
+ 4. e                    | Impact: 0.015487 → PHISHING
+ 5.  :                   | Impact: -0.007238 → LEGITIMATE
+ 6.  past                | Impact: 0.004511 → PHISHING
+ 7.  baffled             | Impact: -0.003884 → LEGITIMATE
+ 8.  staying             | Impact: 0.003573 → PHISHING
+ 9.  ,                   | Impact: -0.003196 → LEGITIMATE
+10.  )                   | Impact: -0.003141 → LEGITIMATE
+11. time                 | Impact: -0.002875 → LEGITIMATE
+12.  ,                   | Impact: -0.002675 → LEGITIMATE
+13.  ]                   | Impact: -0.002431 → LEGITIMATE
+14.  :                   | Impact: -0.002394 → LEGITIMATE
+15.  something           | Impact: -0.002342 → LEGITIMATE
+16.  bed                 | Impact: 0.002206 → PHISHING
+17.  on                  | Impact: -0.002149 → LEGITIMATE
+18.  [                   | Impact: -0.002064 → LEGITIMATE
+19.  .                   | Impact: -0.002046 → LEGITIMATE
+20.  i                   | Impact: -0.002012 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1. e                    | Impact: 0.015487
+ 2.  past                | Impact: 0.004511
+ 3.  staying             | Impact: 0.003573
+ 4.  bed                 | Impact: 0.002206
+ 5.  reality             | Impact: 0.001257
+ 6.  i                   | Impact: 0.000203
+ 7.  was                 | Impact: 0.000203
+ 8.  to                  | Impact: 0.000071
+ 9.  will                | Impact: 0.000028
+10.  be                  | Impact: 0.000028
+11.  about               | Impact: 0.000020
+12.  to                  | Impact: 0.000020
+13.  fall                | Impact: 0.000020
+14.  asleep              | Impact: 0.000020
+15.  being               | Impact: 0.000006
+16.  as                  | Impact: 0.000006
+17.                      | Impact: 0.000001
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  blaming             | Impact: -0.032941
+ 2.  neal                | Impact: -0.028666
+ 3.  it                  | Impact: -0.017020
+ 4.  :                   | Impact: -0.007238
+ 5.  baffled             | Impact: -0.003884
+ 6.  ,                   | Impact: -0.003196
+ 7.  )                   | Impact: -0.003141
+ 8. time                 | Impact: -0.002875
+ 9.  ,                   | Impact: -0.002675
+10.  ]                   | Impact: -0.002431
+11.  :                   | Impact: -0.002394
+12.  something           | Impact: -0.002342
+13.  on                  | Impact: -0.002149
+14.  [                   | Impact: -0.002064
+15.  .                   | Impact: -0.002046
+16.  i                   | Impact: -0.002012
+17.  >                   | Impact: -0.001967
+18.  so                  | Impact: -0.001917
+19.  .                   | Impact: -0.001916
+20.  .                   | Impact: -0.001802

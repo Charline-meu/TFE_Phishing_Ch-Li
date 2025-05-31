@@ -1,0 +1,75 @@
+Sample 1
+========
+
+Sample text preview: Here are some more questions. These guys are only bidding on Lincoln, so all of these should be just Lincoln questions. Thanks again for your help wit...
+
+Model prediction: [9.9979192e-01 2.0805618e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  doc                 | Impact: -0.085738 → LEGITIMATE
+ 2.  thank               | Impact: -0.014024 → LEGITIMATE
+ 3.  you                 | Impact: 0.013298 → PHISHING
+ 4.  are                 | Impact: 0.013298 → PHISHING
+ 5.  here                | Impact: 0.013182 → PHISHING
+ 6. by                   | Impact: 0.013182 → PHISHING
+ 7.  ex                  | Impact: -0.006290 → LEGITIMATE
+ 8. elo                  | Impact: -0.006290 → LEGITIMATE
+ 9. n                    | Impact: -0.006290 → LEGITIMATE
+10.  thanks              | Impact: -0.006238 → LEGITIMATE
+11.  lincoln             | Impact: -0.005436 → LEGITIMATE
+12.  q                   | Impact: -0.005436 → LEGITIMATE
+13.  &                   | Impact: -0.005436 → LEGITIMATE
+14.  a                   | Impact: -0.005436 → LEGITIMATE
+15.  the                 | Impact: 0.004857 → PHISHING
+16.  intended            | Impact: 0.004857 → PHISHING
+17.  recipient           | Impact: 0.004857 → PHISHING
+18.  of                  | Impact: 0.004857 → PHISHING
+19.  *                   | Impact: 0.004484 → PHISHING
+20.  *                   | Impact: 0.004484 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.013298
+ 2.  are                 | Impact: 0.013298
+ 3.  here                | Impact: 0.013182
+ 4. by                   | Impact: 0.013182
+ 5.  the                 | Impact: 0.004857
+ 6.  intended            | Impact: 0.004857
+ 7.  recipient           | Impact: 0.004857
+ 8.  of                  | Impact: 0.004857
+ 9.  *                   | Impact: 0.004484
+10.  *                   | Impact: 0.004484
+11.  *                   | Impact: 0.004484
+12.  *                   | Impact: 0.004484
+13.  this                | Impact: 0.004238
+14.  e                   | Impact: 0.004238
+15.  -                   | Impact: 0.004238
+16.  mail                | Impact: 0.004238
+17.  *                   | Impact: 0.004179
+18.  *                   | Impact: 0.004179
+19.  *                   | Impact: 0.004179
+20.  *                   | Impact: 0.004179
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  doc                 | Impact: -0.085738
+ 2.  thank               | Impact: -0.014024
+ 3.  ex                  | Impact: -0.006290
+ 4. elo                  | Impact: -0.006290
+ 5. n                    | Impact: -0.006290
+ 6.  thanks              | Impact: -0.006238
+ 7.  lincoln             | Impact: -0.005436
+ 8.  q                   | Impact: -0.005436
+ 9.  &                   | Impact: -0.005436
+10.  a                   | Impact: -0.005436
+11.  distribution        | Impact: -0.004089
+12.  ,                   | Impact: -0.004089
+13.  copying             | Impact: -0.003836
+14.  ,                   | Impact: -0.003836
+15.  more                | Impact: -0.003526
+16.  questions           | Impact: -0.003526
+17.  ex                  | Impact: -0.003249
+18. elo                  | Impact: -0.003249
+19. n                    | Impact: -0.003249
+20.  or                  | Impact: -0.003068

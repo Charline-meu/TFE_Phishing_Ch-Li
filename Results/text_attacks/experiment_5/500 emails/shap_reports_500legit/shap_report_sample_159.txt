@@ -1,0 +1,75 @@
+Sample 159
+==========
+
+Sample text preview: Had a bit of an encounter with Ted last night. Turns out it wasn't as bad as I thought it was based upon the email below. Start from the bottom and wo...
+
+Model prediction: [9.9970442e-01 2.9560688e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  else                | Impact: 0.001406 → PHISHING
+ 2.  lives               | Impact: 0.001406 → PHISHING
+ 3.  in                  | Impact: 0.001406 → PHISHING
+ 4.  that                | Impact: 0.001406 → PHISHING
+ 5.  upon                | Impact: -0.001137 → LEGITIMATE
+ 6.  the                 | Impact: -0.001137 → LEGITIMATE
+ 7.  email               | Impact: -0.001137 → LEGITIMATE
+ 8.  below               | Impact: -0.001137 → LEGITIMATE
+ 9.  start               | Impact: -0.001004 → LEGITIMATE
+10.  from                | Impact: -0.001004 → LEGITIMATE
+11.  the                 | Impact: -0.001004 → LEGITIMATE
+12.  bottom              | Impact: -0.001004 → LEGITIMATE
+13.  world               | Impact: 0.000969 → PHISHING
+14.  besides             | Impact: 0.000969 → PHISHING
+15.  you                 | Impact: 0.000969 → PHISHING
+16.  so                  | Impact: 0.000969 → PHISHING
+17.  .                   | Impact: -0.000909 → LEGITIMATE
+18.  ted                 | Impact: 0.000856 → PHISHING
+19.  last                | Impact: 0.000856 → PHISHING
+20.  .                   | Impact: -0.000812 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  else                | Impact: 0.001406
+ 2.  lives               | Impact: 0.001406
+ 3.  in                  | Impact: 0.001406
+ 4.  that                | Impact: 0.001406
+ 5.  world               | Impact: 0.000969
+ 6.  besides             | Impact: 0.000969
+ 7.  you                 | Impact: 0.000969
+ 8.  so                  | Impact: 0.000969
+ 9.  ted                 | Impact: 0.000856
+10.  last                | Impact: 0.000856
+11.  night               | Impact: 0.000746
+12.  the                 | Impact: 0.000743
+13.  world               | Impact: 0.000743
+14.  you                 | Impact: 0.000743
+15.  live                | Impact: 0.000743
+16.  f                   | Impact: 0.000673
+17. yi                   | Impact: 0.000673
+18.  he                  | Impact: 0.000673
+19.  '                   | Impact: 0.000673
+20.  s                   | Impact: 0.000673
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  upon                | Impact: -0.001137
+ 2.  the                 | Impact: -0.001137
+ 3.  email               | Impact: -0.001137
+ 4.  below               | Impact: -0.001137
+ 5.  start               | Impact: -0.001004
+ 6.  from                | Impact: -0.001004
+ 7.  the                 | Impact: -0.001004
+ 8.  bottom              | Impact: -0.001004
+ 9.  .                   | Impact: -0.000909
+10.  .                   | Impact: -0.000812
+11.  .                   | Impact: -0.000760
+12.  "                   | Impact: -0.000760
+13.  nothing             | Impact: -0.000760
+14.  bad                 | Impact: -0.000760
+15.  e                   | Impact: -0.000655
+16. ol                   | Impact: -0.000655
+17.  for                 | Impact: -0.000655
+18.  a                   | Impact: -0.000655
+19.  i                   | Impact: -0.000655
+20.  '                   | Impact: -0.000655

@@ -1,0 +1,75 @@
+Phishing Sample 84
+==================
+
+Sample text preview: Dear Garrison, There are at least six plans about what to do with "Ground Zero" in New York. I believe a suitable memorial surrounded by a lovely park...
+
+Model prediction: [9.9939144e-01 6.0855807e-04]
+Predicted class: LEGITIMATE with 0.9994 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.022409 → PHISHING
+ 2.  garrison            | Impact: -0.008063 → LEGITIMATE
+ 3.  at                  | Impact: -0.004763 → LEGITIMATE
+ 4.  least               | Impact: -0.004763 → LEGITIMATE
+ 5.  of                  | Impact: 0.004603 → PHISHING
+ 6.  young               | Impact: 0.004603 → PHISHING
+ 7.  ambitious           | Impact: 0.004603 → PHISHING
+ 8.  estimation          | Impact: -0.004194 → LEGITIMATE
+ 9.  six                 | Impact: -0.003731 → LEGITIMATE
+10.  plans               | Impact: -0.003731 → LEGITIMATE
+11.  there               | Impact: -0.003500 → LEGITIMATE
+12.  are                 | Impact: -0.003500 → LEGITIMATE
+13.  about               | Impact: -0.003376 → LEGITIMATE
+14.  what                | Impact: -0.003376 → LEGITIMATE
+15.  dream               | Impact: 0.003305 → PHISHING
+16. y                    | Impact: 0.003305 → PHISHING
+17.  people              | Impact: 0.003305 → PHISHING
+18.  ,                   | Impact: 0.003305 → PHISHING
+19.  plenty              | Impact: -0.003126 → LEGITIMATE
+20.  already             | Impact: -0.003126 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.022409
+ 2.  of                  | Impact: 0.004603
+ 3.  young               | Impact: 0.004603
+ 4.  ambitious           | Impact: 0.004603
+ 5.  dream               | Impact: 0.003305
+ 6. y                    | Impact: 0.003305
+ 7.  people              | Impact: 0.003305
+ 8.  ,                   | Impact: 0.003305
+ 9.  ,                   | Impact: 0.002893
+10.  for                 | Impact: 0.001873
+11.  their               | Impact: 0.001873
+12.  big                 | Impact: 0.001873
+13.  chance              | Impact: 0.001873
+14.  ,                   | Impact: 0.001762
+15.                      | Impact: 0.001475
+16.  a                   | Impact: 0.001121
+17.  city                | Impact: 0.001121
+18.  it                  | Impact: 0.001121
+19.  '                   | Impact: 0.001121
+20.  s                   | Impact: 0.001121
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  garrison            | Impact: -0.008063
+ 2.  at                  | Impact: -0.004763
+ 3.  least               | Impact: -0.004763
+ 4.  estimation          | Impact: -0.004194
+ 5.  six                 | Impact: -0.003731
+ 6.  plans               | Impact: -0.003731
+ 7.  there               | Impact: -0.003500
+ 8.  are                 | Impact: -0.003500
+ 9.  about               | Impact: -0.003376
+10.  what                | Impact: -0.003376
+11.  plenty              | Impact: -0.003126
+12.  already             | Impact: -0.003126
+13.  so                  | Impact: -0.003077
+14.  forth               | Impact: -0.003077
+15.  -                   | Impact: -0.003077
+16.  -                   | Impact: -0.003077
+17.  memorial            | Impact: -0.003034
+18. izing                | Impact: -0.003034
+19.  city                | Impact: -0.003034
+20.  in                  | Impact: -0.002980

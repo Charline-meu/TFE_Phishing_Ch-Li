@@ -1,0 +1,75 @@
+Phishing Sample 4
+=================
+
+Sample text preview: >>>>> "R" == R A Hettinga writes: R> At : PM - on //, Mr. FoRK wrote: >> "Free trade and free markets have proven their ability to lift >> whole socie...
+
+Model prediction: [9.997873e-01 2.127863e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  writes              | Impact: -0.009905 → LEGITIMATE
+ 2.  =                   | Impact: 0.007845 → PHISHING
+ 3.  happen              | Impact: 0.006795 → PHISHING
+ 4.  =                   | Impact: 0.005739 → PHISHING
+ 5.  mr                  | Impact: 0.005310 → PHISHING
+ 6.  !                   | Impact: 0.005171 → PHISHING
+ 7.  "                   | Impact: -0.004875 → LEGITIMATE
+ 8.  "                   | Impact: -0.004750 → LEGITIMATE
+ 9.  >                   | Impact: -0.004435 → LEGITIMATE
+10.  wrote               | Impact: -0.004368 → LEGITIMATE
+11.  >                   | Impact: -0.004108 → LEGITIMATE
+12.  >                   | Impact: -0.003777 → LEGITIMATE
+13.  free                | Impact: 0.003464 → PHISHING
+14.  :                   | Impact: -0.002854 → LEGITIMATE
+15.  :                   | Impact: -0.002663 → LEGITIMATE
+16.  cool                | Impact: -0.002418 → LEGITIMATE
+17. a                    | Impact: 0.002222 → PHISHING
+18.  >                   | Impact: -0.002123 → LEGITIMATE
+19.  proven              | Impact: 0.002008 → PHISHING
+20.  r                   | Impact: -0.002000 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  =                   | Impact: 0.007845
+ 2.  happen              | Impact: 0.006795
+ 3.  =                   | Impact: 0.005739
+ 4.  mr                  | Impact: 0.005310
+ 5.  !                   | Impact: 0.005171
+ 6.  free                | Impact: 0.003464
+ 7. a                    | Impact: 0.002222
+ 8.  proven              | Impact: 0.002008
+ 9.  a                   | Impact: 0.001752
+10.  ?                   | Impact: 0.001606
+11.  this                | Impact: 0.001441
+12.  only                | Impact: 0.001404
+13.  have                | Impact: 0.001363
+14.  lift                | Impact: 0.001265
+15.  wouldn              | Impact: 0.001221
+16.  '                   | Impact: 0.001221
+17.  t                   | Impact: 0.001221
+18.  het                 | Impact: 0.001200
+19.  markets             | Impact: 0.001074
+20.  media               | Impact: 0.001032
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  writes              | Impact: -0.009905
+ 2.  "                   | Impact: -0.004875
+ 3.  "                   | Impact: -0.004750
+ 4.  >                   | Impact: -0.004435
+ 5.  wrote               | Impact: -0.004368
+ 6.  >                   | Impact: -0.004108
+ 7.  >                   | Impact: -0.003777
+ 8.  :                   | Impact: -0.002854
+ 9.  :                   | Impact: -0.002663
+10.  cool                | Impact: -0.002418
+11.  >                   | Impact: -0.002123
+12.  r                   | Impact: -0.002000
+13.  -                   | Impact: -0.001843
+14.  i                   | Impact: -0.001764
+15.  -                   | Impact: -0.001661
+16.  -                   | Impact: -0.001661
+17.  >                   | Impact: -0.001643
+18.  examples            | Impact: -0.001643
+19.  r                   | Impact: -0.001572
+20.  "                   | Impact: -0.001435

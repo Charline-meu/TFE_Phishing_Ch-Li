@@ -1,0 +1,75 @@
+Sample 259
+==========
+
+Sample text preview: FROM:THE DESK OF ENG.CLICF WANTOM NIGERIA NATIONAL PETROLEUM CORPORATION (NNPC) LAGOS-NIGERIA . Dear Friend, It is with trust and confidence that I wr...
+
+Model prediction: [1.6595254e-04 9.9983406e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.018375 → PHISHING
+ 2.  friend              | Impact: 0.018375 → PHISHING
+ 3.  over                | Impact: 0.007413 → PHISHING
+ 4.  to                  | Impact: 0.007413 → PHISHING
+ 5.  your                | Impact: 0.007413 → PHISHING
+ 6.  country             | Impact: 0.007413 → PHISHING
+ 7.  funds               | Impact: 0.006666 → PHISHING
+ 8.  to                  | Impact: 0.006666 → PHISHING
+ 9.  your                | Impact: 0.006666 → PHISHING
+10.  account             | Impact: 0.006666 → PHISHING
+11.  money               | Impact: 0.006282 → PHISHING
+12.  is                  | Impact: 0.006282 → PHISHING
+13.  transferred         | Impact: 0.006282 → PHISHING
+14.  into                | Impact: 0.006282 → PHISHING
+15.  lagos               | Impact: 0.006035 → PHISHING
+16.  -                   | Impact: 0.006035 → PHISHING
+17.  nigeria             | Impact: 0.006035 → PHISHING
+18.  .                   | Impact: 0.006035 → PHISHING
+19.  your                | Impact: 0.005650 → PHISHING
+20.  country             | Impact: 0.005650 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.018375
+ 2.  friend              | Impact: 0.018375
+ 3.  over                | Impact: 0.007413
+ 4.  to                  | Impact: 0.007413
+ 5.  your                | Impact: 0.007413
+ 6.  country             | Impact: 0.007413
+ 7.  funds               | Impact: 0.006666
+ 8.  to                  | Impact: 0.006666
+ 9.  your                | Impact: 0.006666
+10.  account             | Impact: 0.006666
+11.  money               | Impact: 0.006282
+12.  is                  | Impact: 0.006282
+13.  transferred         | Impact: 0.006282
+14.  into                | Impact: 0.006282
+15.  lagos               | Impact: 0.006035
+16.  -                   | Impact: 0.006035
+17.  nigeria             | Impact: 0.006035
+18.  .                   | Impact: 0.006035
+19.  your                | Impact: 0.005650
+20.  country             | Impact: 0.005650
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.003070
+ 2.  the                 | Impact: -0.003070
+ 3.                      | Impact: -0.002679
+ 4.  from                | Impact: -0.002679
+ 5.  desk                | Impact: -0.000650
+ 6.  of                  | Impact: -0.000650
+ 7.  eng                 | Impact: -0.000650
+ 8.  .                   | Impact: -0.000650
+ 9.  the                 | Impact: -0.000011
+10.  nature              | Impact: -0.000011
+11.  of                  | Impact: -0.000011
+12.  your                | Impact: -0.000011
+13.  relevant            | Impact: -0.000011
+14.  for                 | Impact: -0.000011
+15.  the                 | Impact: -0.000011
+16.  cc                  | Impact: -0.000011
+17. ess                  | Impact: -0.000011
+18.  of                  | Impact: -0.000011
+19.  this                | Impact: -0.000011
+20.  trans               | Impact: -0.000011

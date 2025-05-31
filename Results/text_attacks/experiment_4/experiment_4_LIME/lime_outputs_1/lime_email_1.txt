@@ -1,0 +1,31 @@
+=== LIME Explanation for Email #1 ===
+True Label: Phishing
+Model Prediction: Phishing
+Prediction Probability: 0.9998
+
+Top Features Influencing the Prediction:
+Dear: 0.0690 (pushes toward Phishing)
+Account: 0.0447 (pushes toward Phishing)
+your: 0.0439 (pushes toward Phishing)
+You: 0.0419 (pushes toward Phishing)
+BLDG: -0.0355 (pushes toward Legitimate)
+Statement: 0.0338 (pushes toward Phishing)
+you: 0.0329 (pushes toward Phishing)
+Payment: 0.0319 (pushes toward Phishing)
+Copy: 0.0301 (pushes toward Phishing)
+Deliver: 0.0297 (pushes toward Phishing)
+free: 0.0288 (pushes toward Phishing)
+T: 0.0280 (pushes toward Phishing)
+Support: -0.0277 (pushes toward Legitimate)
+by: -0.0272 (pushes toward Legitimate)
+on: -0.0251 (pushes toward Legitimate)
+quarantine: 0.0245 (pushes toward Phishing)
+Blocked: -0.0233 (pushes toward Legitimate)
+New: 0.0229 (pushes toward Phishing)
+Quarantined: -0.0228 (pushes toward Legitimate)
+Asap: 0.0213 (pushes toward Phishing)
+Balance: -0.0199 (pushes toward Legitimate)
+Ave: 0.0190 (pushes toward Phishing)
+and: -0.0148 (pushes toward Legitimate)
+Consultation: -0.0144 (pushes toward Legitimate)
+due: 0.0142 (pushes toward Phishing)

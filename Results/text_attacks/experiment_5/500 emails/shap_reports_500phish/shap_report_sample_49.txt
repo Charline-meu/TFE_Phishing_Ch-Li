@@ -1,0 +1,75 @@
+Sample 49
+=========
+
+Sample text preview: DR AHMED SHALAA.BANK OF AFRICA OUAGADOUGOU,BURKINA FASO. Dear friend, RE: TRANSFER OF ($,.. USD EIGHT MILLION FIVE HUNDRED THOUSAND DOLLARS)I want to ...
+
+Model prediction: [1.9230047e-04 9.9980778e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  payment             | Impact: 0.006545 → PHISHING
+ 2.  to                  | Impact: 0.006545 → PHISHING
+ 3.  any                 | Impact: 0.006545 → PHISHING
+ 4.  foreigner           | Impact: 0.006545 → PHISHING
+ 5.  i                   | Impact: 0.006114 → PHISHING
+ 6.  am                  | Impact: 0.006114 → PHISHING
+ 7.  dr                  | Impact: 0.006114 → PHISHING
+ 8.  ahmed               | Impact: 0.006114 → PHISHING
+ 9.  ahmed               | Impact: 0.005674 → PHISHING
+10.  dear                | Impact: 0.005538 → PHISHING
+11.  friend              | Impact: 0.005538 → PHISHING
+12.  ,                   | Impact: 0.005538 → PHISHING
+13.  re                  | Impact: 0.005538 → PHISHING
+14.  :                   | Impact: 0.005538 → PHISHING
+15.  transfer            | Impact: 0.005538 → PHISHING
+16.  of                  | Impact: 0.005538 → PHISHING
+17.  this                | Impact: 0.005382 → PHISHING
+18.  money               | Impact: 0.005382 → PHISHING
+19.  ,                   | Impact: 0.005382 → PHISHING
+20.  to                  | Impact: 0.005239 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  payment             | Impact: 0.006545
+ 2.  to                  | Impact: 0.006545
+ 3.  any                 | Impact: 0.006545
+ 4.  foreigner           | Impact: 0.006545
+ 5.  i                   | Impact: 0.006114
+ 6.  am                  | Impact: 0.006114
+ 7.  dr                  | Impact: 0.006114
+ 8.  ahmed               | Impact: 0.006114
+ 9.  ahmed               | Impact: 0.005674
+10.  dear                | Impact: 0.005538
+11.  friend              | Impact: 0.005538
+12.  ,                   | Impact: 0.005538
+13.  re                  | Impact: 0.005538
+14.  :                   | Impact: 0.005538
+15.  transfer            | Impact: 0.005538
+16.  of                  | Impact: 0.005538
+17.  this                | Impact: 0.005382
+18.  money               | Impact: 0.005382
+19.  ,                   | Impact: 0.005382
+20.  to                  | Impact: 0.005239
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  robert              | Impact: -0.000008
+ 2.  rice                | Impact: -0.000008
+ 3.  is                  | Impact: -0.000008
+ 4.  af                  | Impact: -0.000008
+ 5. ore                  | Impact: -0.000008
+ 6. ign                  | Impact: -0.000008
+ 7. er                   | Impact: -0.000008
+ 8.  too                 | Impact: -0.000008
+ 9.  ,                   | Impact: -0.000008
+10.  sha                 | Impact: -0.000000
+11. la                   | Impact: -0.000000
+12. a                    | Impact: -0.000000
+13.  and                 | Impact: -0.000000
+14.  rest                | Impact: -0.000000
+15.  assured             | Impact: -0.000000
+16.  that                | Impact: -0.000000
+17.  this                | Impact: -0.000000
+18.  transaction         | Impact: -0.000000
+19.  would               | Impact: -0.000000
+20.  be                  | Impact: -0.000000

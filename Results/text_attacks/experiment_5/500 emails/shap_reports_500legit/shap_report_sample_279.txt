@@ -1,0 +1,75 @@
+Sample 279
+==========
+
+Sample text preview: [Free US Shipping on Orders $+]( [ColourPop - xoxo BUY ONE GET ONE FREE ALL LIP SINGLES - Meet your match]( [Need some inspo try these combos]( [Now O...
+
+Model prediction: [9.9961108e-01 3.8892849e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  (                   | Impact: -0.021825 → LEGITIMATE
+ 2.  (                   | Impact: -0.011449 → LEGITIMATE
+ 3.  free                | Impact: 0.010277 → PHISHING
+ 4.  [                   | Impact: -0.010062 → LEGITIMATE
+ 5.  love                | Impact: 0.009538 → PHISHING
+ 6.  shop                | Impact: 0.009538 → PHISHING
+ 7.  (                   | Impact: -0.009491 → LEGITIMATE
+ 8.  free                | Impact: 0.009364 → PHISHING
+ 9.  pay                 | Impact: 0.009084 → PHISHING
+10.  need                | Impact: -0.009068 → LEGITIMATE
+11.  shop                | Impact: 0.008313 → PHISHING
+12.  some                | Impact: -0.008143 → LEGITIMATE
+13.  (                   | Impact: -0.007702 → LEGITIMATE
+14.  (                   | Impact: -0.006899 → LEGITIMATE
+15.  all                 | Impact: 0.006648 → PHISHING
+16.  [                   | Impact: -0.005901 → LEGITIMATE
+17.  [                   | Impact: -0.004946 → LEGITIMATE
+18.  now                 | Impact: -0.004946 → LEGITIMATE
+19.  ]                   | Impact: -0.004873 → LEGITIMATE
+20. o                    | Impact: 0.004511 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  free                | Impact: 0.010277
+ 2.  love                | Impact: 0.009538
+ 3.  shop                | Impact: 0.009538
+ 4.  free                | Impact: 0.009364
+ 5.  pay                 | Impact: 0.009084
+ 6.  shop                | Impact: 0.008313
+ 7.  all                 | Impact: 0.006648
+ 8. o                    | Impact: 0.004511
+ 9.  buy                 | Impact: 0.004373
+10.  one                 | Impact: 0.004282
+11.  -                   | Impact: 0.004179
+12.  x                   | Impact: 0.003746
+13.  us                  | Impact: 0.003685
+14.  $                   | Impact: 0.003356
+15.  now                 | Impact: 0.003274
+16.  get                 | Impact: 0.003228
+17. ox                   | Impact: 0.003121
+18. na                   | Impact: 0.003120
+19.  with                | Impact: 0.002965
+20.  on                  | Impact: 0.002960
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.021825
+ 2.  (                   | Impact: -0.011449
+ 3.  [                   | Impact: -0.010062
+ 4.  (                   | Impact: -0.009491
+ 5.  need                | Impact: -0.009068
+ 6.  some                | Impact: -0.008143
+ 7.  (                   | Impact: -0.007702
+ 8.  (                   | Impact: -0.006899
+ 9.  [                   | Impact: -0.005901
+10.  [                   | Impact: -0.004946
+11.  now                 | Impact: -0.004946
+12.  ]                   | Impact: -0.004873
+13.  these               | Impact: -0.004189
+14.  ]                   | Impact: -0.003313
+15.  ]                   | Impact: -0.003065
+16.  colour              | Impact: -0.003041
+17. pop                  | Impact: -0.003041
+18.  try                 | Impact: -0.002540
+19.  open                | Impact: -0.002398
+20.  the                 | Impact: -0.002398

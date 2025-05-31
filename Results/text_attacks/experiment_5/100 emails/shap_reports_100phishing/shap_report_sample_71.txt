@@ -1,0 +1,70 @@
+Phishing Sample 71
+==================
+
+Sample text preview: DEAR FRIEND, THROUGH THE COURTESY OF BUSINESS OPPORTUNITY, I TAKE LIBERTY ANCHORED ON A STRONG DESIRE TO SOLICIT YOUR ASSISTANCE ON THIS MUTUALLY BENE...
+
+Model prediction: [1.7938203e-04 9.9982065e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  trusted             | Impact: 0.012937 → PHISHING
+ 2.  partner             | Impact: 0.012937 → PHISHING
+ 3.  who                 | Impact: 0.012937 → PHISHING
+ 4.  shall               | Impact: 0.012937 → PHISHING
+ 5.  family              | Impact: 0.011367 → PHISHING
+ 6.  as                  | Impact: 0.011367 → PHISHING
+ 7.  our                 | Impact: 0.011367 → PHISHING
+ 8.  foreign             | Impact: 0.011367 → PHISHING
+ 9.  this                | Impact: 0.008515 → PHISHING
+10.  money               | Impact: 0.008515 → PHISHING
+11.  ,                   | Impact: 0.008515 → PHISHING
+12.  assist              | Impact: 0.008039 → PHISHING
+13.  us                  | Impact: 0.008039 → PHISHING
+14.  in                  | Impact: 0.008039 → PHISHING
+15.  investing           | Impact: 0.008039 → PHISHING
+16.  wife                | Impact: 0.007827 → PHISHING
+17.  i                   | Impact: 0.006724 → PHISHING
+18.  want                | Impact: 0.006724 → PHISHING
+19.  you                 | Impact: 0.006724 → PHISHING
+20.  to                  | Impact: 0.006724 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  trusted             | Impact: 0.012937
+ 2.  partner             | Impact: 0.012937
+ 3.  who                 | Impact: 0.012937
+ 4.  shall               | Impact: 0.012937
+ 5.  family              | Impact: 0.011367
+ 6.  as                  | Impact: 0.011367
+ 7.  our                 | Impact: 0.011367
+ 8.  foreign             | Impact: 0.011367
+ 9.  this                | Impact: 0.008515
+10.  money               | Impact: 0.008515
+11.  ,                   | Impact: 0.008515
+12.  assist              | Impact: 0.008039
+13.  us                  | Impact: 0.008039
+14.  in                  | Impact: 0.008039
+15.  investing           | Impact: 0.008039
+16.  wife                | Impact: 0.007827
+17.  i                   | Impact: 0.006724
+18.  want                | Impact: 0.006724
+19.  you                 | Impact: 0.006724
+20.  to                  | Impact: 0.006724
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  national            | Impact: -0.000403
+ 2.  companies           | Impact: -0.000403
+ 3.  and                 | Impact: -0.000403
+ 4.  i                   | Impact: -0.000403
+ 5.  will                | Impact: -0.000403
+ 6.  also                | Impact: -0.000403
+ 7.  want                | Impact: -0.000403
+ 8.  and                 | Impact: -0.000403
+ 9.  stocks              | Impact: -0.000403
+10.  in                  | Impact: -0.000403
+11.  multi               | Impact: -0.000403
+12.  -                   | Impact: -0.000403
+13.  to                  | Impact: -0.000403
+14.  buy                 | Impact: -0.000403
+15.  properties          | Impact: -0.000403

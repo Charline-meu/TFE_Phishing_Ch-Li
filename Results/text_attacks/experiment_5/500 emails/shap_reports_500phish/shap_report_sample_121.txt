@@ -1,0 +1,75 @@
+Sample 121
+==========
+
+Sample text preview: Low-Cost Term-Life Insurance! SAVE up to % or more on your term life insurance policy now. CLICK HERE NOW For your FREE Quote! Example: Male age - $, ...
+
+Model prediction: [2.2192342e-04 9.9977809e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.064907 → PHISHING
+ 2.  here                | Impact: 0.051857 → PHISHING
+ 3.  your                | Impact: 0.044519 → PHISHING
+ 4.  click               | Impact: 0.040467 → PHISHING
+ 5.  your                | Impact: 0.037263 → PHISHING
+ 6.  email               | Impact: 0.037263 → PHISHING
+ 7.  !                   | Impact: 0.035545 → PHISHING
+ 8.  visit               | Impact: 0.031454 → PHISHING
+ 9.  enter               | Impact: 0.031454 → PHISHING
+10.  pay                 | Impact: 0.024276 → PHISHING
+11.  here                | Impact: 0.023736 → PHISHING
+12.  term                | Impact: 0.018995 → PHISHING
+13.  cost                | Impact: 0.018338 → PHISHING
+14.  free                | Impact: 0.017052 → PHISHING
+15.  are                 | Impact: 0.016905 → PHISHING
+16.  addresses           | Impact: 0.015815 → PHISHING
+17.  to                  | Impact: 0.015815 → PHISHING
+18.  removed             | Impact: 0.015419 → PHISHING
+19.  from                | Impact: 0.015419 → PHISHING
+20.  your                | Impact: 0.015173 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.064907
+ 2.  here                | Impact: 0.051857
+ 3.  your                | Impact: 0.044519
+ 4.  click               | Impact: 0.040467
+ 5.  your                | Impact: 0.037263
+ 6.  email               | Impact: 0.037263
+ 7.  !                   | Impact: 0.035545
+ 8.  visit               | Impact: 0.031454
+ 9.  enter               | Impact: 0.031454
+10.  pay                 | Impact: 0.024276
+11.  here                | Impact: 0.023736
+12.  term                | Impact: 0.018995
+13.  cost                | Impact: 0.018338
+14.  free                | Impact: 0.017052
+15.  are                 | Impact: 0.016905
+16.  addresses           | Impact: 0.015815
+17.  to                  | Impact: 0.015815
+18.  removed             | Impact: 0.015419
+19.  from                | Impact: 0.015419
+20.  your                | Impact: 0.015173
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  example             | Impact: -0.006350
+ 2.  -                   | Impact: -0.005684
+ 3.  house               | Impact: -0.005684
+ 4.  list                | Impact: -0.004272
+ 5.  simply              | Impact: -0.004272
+ 6.  un                  | Impact: -0.003950
+ 7. su                   | Impact: -0.003950
+ 8. bs                   | Impact: -0.003950
+ 9. cr                   | Impact: -0.003950
+10. ibe                  | Impact: -0.003950
+11.  or                  | Impact: -0.003024
+12.  :                   | Impact: -0.002507
+13.  -                   | Impact: -0.002398
+14.  as                  | Impact: -0.002398
+15.  .                   | Impact: -0.002386
+16.  .                   | Impact: -0.001640
+17.  low                 | Impact: -0.001004
+18.  as                  | Impact: -0.001004
+19.  instructions        | Impact: -0.000545
+20.  :                   | Impact: -0.000545

@@ -1,0 +1,68 @@
+Sample 350
+==========
+
+Sample text preview: Dear cPanel User, Our records show that your cPanel Online user ID and password have been exceeded your sending and hosting portal. Click here to upda...
+
+Model prediction: [4.5072957e-04 9.9954921e-01]
+Predicted class: PHISHING with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.185631 → PHISHING
+ 2.  ©                   | Impact: 0.182443 → PHISHING
+ 3.  click               | Impact: 0.134877 → PHISHING
+ 4.  portal              | Impact: 0.052329 → PHISHING
+ 5.  your                | Impact: 0.044598 → PHISHING
+ 6. l                    | Impact: -0.043519 → LEGITIMATE
+ 7.  online              | Impact: 0.039812 → PHISHING
+ 8.  networks            | Impact: 0.039357 → PHISHING
+ 9.  thanks              | Impact: 0.036851 → PHISHING
+10.  here                | Impact: 0.036031 → PHISHING
+11.  id                  | Impact: 0.035401 → PHISHING
+12.  sending             | Impact: 0.027924 → PHISHING
+13.  .                   | Impact: -0.027914 → LEGITIMATE
+14.  user                | Impact: 0.022259 → PHISHING
+15.  team                | Impact: 0.021354 → PHISHING
+16.  your                | Impact: 0.019877 → PHISHING
+17.  portal              | Impact: 0.019737 → PHISHING
+18.  to                  | Impact: 0.019137 → PHISHING
+19.  records             | Impact: 0.018271 → PHISHING
+20.  and                 | Impact: 0.016464 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.185631
+ 2.  ©                   | Impact: 0.182443
+ 3.  click               | Impact: 0.134877
+ 4.  portal              | Impact: 0.052329
+ 5.  your                | Impact: 0.044598
+ 6.  online              | Impact: 0.039812
+ 7.  networks            | Impact: 0.039357
+ 8.  thanks              | Impact: 0.036851
+ 9.  here                | Impact: 0.036031
+10.  id                  | Impact: 0.035401
+11.  sending             | Impact: 0.027924
+12.  user                | Impact: 0.022259
+13.  team                | Impact: 0.021354
+14.  your                | Impact: 0.019877
+15.  portal              | Impact: 0.019737
+16.  to                  | Impact: 0.019137
+17.  records             | Impact: 0.018271
+18.  and                 | Impact: 0.016464
+19.  ,                   | Impact: 0.016009
+20.  exceeded            | Impact: 0.015686
+
+Top features pushing towards LEGITIMATE classification:
+ 1. l                    | Impact: -0.043519
+ 2.  .                   | Impact: -0.027914
+ 3.  that                | Impact: -0.015131
+ 4.  panel               | Impact: -0.014256
+ 5. ane                  | Impact: -0.011118
+ 6. l                    | Impact: -0.005854
+ 7. ane                  | Impact: -0.004832
+ 8. ane                  | Impact: -0.004241
+ 9.  cp                  | Impact: -0.004223
+10.  hosting             | Impact: -0.003375
+11.  and                 | Impact: -0.002084
+12.  cp                  | Impact: -0.001846
+13.  .                   | Impact: -0.000560

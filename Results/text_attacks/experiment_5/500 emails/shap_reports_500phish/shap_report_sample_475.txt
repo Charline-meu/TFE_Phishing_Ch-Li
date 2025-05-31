@@ -1,0 +1,75 @@
+Sample 475
+==========
+
+Sample text preview: OnlineSecurityGuarantee American Express Company. Dear Customer, You Have One Unread Message In Your Online Banking Account VIEW YOUR MESSAGE American...
+
+Model prediction: [1.9723599e-04 9.9980277e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ©                   | Impact: 0.202344 → PHISHING
+ 2.  dear                | Impact: 0.082271 → PHISHING
+ 3.  company             | Impact: 0.056880 → PHISHING
+ 4. gua                  | Impact: 0.056199 → PHISHING
+ 5.  online              | Impact: 0.047372 → PHISHING
+ 6.  you                 | Impact: 0.037743 → PHISHING
+ 7. rity                 | Impact: 0.034014 → PHISHING
+ 8.  your                | Impact: 0.030707 → PHISHING
+ 9.  statement           | Impact: 0.029602 → PHISHING
+10.  privacy             | Impact: 0.027961 → PHISHING
+11.  account             | Impact: 0.027477 → PHISHING
+12.  fraud               | Impact: 0.027396 → PHISHING
+13.  .                   | Impact: -0.027090 → LEGITIMATE
+14.  company             | Impact: 0.025214 → PHISHING
+15.  reserved            | Impact: 0.024356 → PHISHING
+16.  rights              | Impact: 0.023009 → PHISHING
+17.  your                | Impact: 0.022872 → PHISHING
+18.  users               | Impact: 0.022502 → PHISHING
+19.  message             | Impact: 0.021562 → PHISHING
+20.  information         | Impact: 0.021186 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.202344
+ 2.  dear                | Impact: 0.082271
+ 3.  company             | Impact: 0.056880
+ 4. gua                  | Impact: 0.056199
+ 5.  online              | Impact: 0.047372
+ 6.  you                 | Impact: 0.037743
+ 7. rity                 | Impact: 0.034014
+ 8.  your                | Impact: 0.030707
+ 9.  statement           | Impact: 0.029602
+10.  privacy             | Impact: 0.027961
+11.  account             | Impact: 0.027477
+12.  fraud               | Impact: 0.027396
+13.  company             | Impact: 0.025214
+14.  reserved            | Impact: 0.024356
+15.  rights              | Impact: 0.023009
+16.  your                | Impact: 0.022872
+17.  users               | Impact: 0.022502
+18.  message             | Impact: 0.021562
+19.  information         | Impact: 0.021186
+20.  our                 | Impact: 0.019788
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.027090
+ 2. bc                   | Impact: -0.017011
+ 3.  .                   | Impact: -0.009978
+ 4.  agree               | Impact: -0.007256
+ 5. cu                   | Impact: -0.007018
+ 6. ae                   | Impact: -0.007003
+ 7.  review              | Impact: -0.006250
+ 8. rea                  | Impact: -0.006160
+ 9.  un                  | Impact: -0.005661
+10.  of                  | Impact: -0.005126
+11.  cb                  | Impact: -0.004934
+12.  express             | Impact: -0.004866
+13.  one                 | Impact: -0.004762
+14.  please              | Impact: -0.004665
+15.  .                   | Impact: -0.004639
+16.  american            | Impact: -0.002674
+17. d                    | Impact: -0.002177
+18.  ,                   | Impact: -0.000138
+19.  .                   | Impact: -0.000077
+20.                      | Impact: -0.000035

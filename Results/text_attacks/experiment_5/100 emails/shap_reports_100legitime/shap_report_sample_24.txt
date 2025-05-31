@@ -1,0 +1,75 @@
+Phishing Sample 24
+==================
+
+Sample text preview: > Is there any way that the mailing list can be > turned into newsgroup? > > Newsgroups are great for threading of discussions, > working offline and ...
+
+Model prediction: [9.9979204e-01 2.0795623e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  irish               | Impact: 0.003714 → PHISHING
+ 2.  subscription        | Impact: 0.003526 → PHISHING
+ 3.  un                  | Impact: -0.003353 → LEGITIMATE
+ 4.  can                 | Impact: -0.003266 → LEGITIMATE
+ 5.  preference          | Impact: -0.003054 → LEGITIMATE
+ 6.  personal            | Impact: 0.002999 → PHISHING
+ 7.  linux               | Impact: -0.002914 → LEGITIMATE
+ 8.  disagree            | Impact: -0.002754 → LEGITIMATE
+ 9.  .                   | Impact: -0.002658 → LEGITIMATE
+10.  >                   | Impact: -0.002431 → LEGITIMATE
+11.  its                 | Impact: 0.002370 → PHISHING
+12.  suppose             | Impact: -0.002186 → LEGITIMATE
+13.  i                   | Impact: -0.002164 → LEGITIMATE
+14.  .                   | Impact: -0.002130 → LEGITIMATE
+15.  mail                | Impact: 0.002073 → PHISHING
+16.  -                   | Impact: -0.002013 → LEGITIMATE
+17.  users               | Impact: -0.001772 → LEGITIMATE
+18.  (                   | Impact: 0.001726 → PHISHING
+19.  >                   | Impact: -0.001455 → LEGITIMATE
+20.  >                   | Impact: -0.001454 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  irish               | Impact: 0.003714
+ 2.  subscription        | Impact: 0.003526
+ 3.  personal            | Impact: 0.002999
+ 4.  its                 | Impact: 0.002370
+ 5.  mail                | Impact: 0.002073
+ 6.  (                   | Impact: 0.001726
+ 7.  mail                | Impact: 0.001258
+ 8. ing                  | Impact: 0.001224
+ 9.  down                | Impact: 0.001140
+10.  list                | Impact: 0.000936
+11.  be                  | Impact: 0.000627
+12.  maintain            | Impact: 0.000603
+13. s                    | Impact: 0.000546
+14. group                | Impact: 0.000297
+15.  ,                   | Impact: 0.000283
+16.  but                 | Impact: 0.000262
+17.  :                   | Impact: 0.000246
+18.  news                | Impact: 0.000222
+19.  strongly            | Impact: 0.000181
+20.  and                 | Impact: 0.000149
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  un                  | Impact: -0.003353
+ 2.  can                 | Impact: -0.003266
+ 3.  preference          | Impact: -0.003054
+ 4.  linux               | Impact: -0.002914
+ 5.  disagree            | Impact: -0.002754
+ 6.  .                   | Impact: -0.002658
+ 7.  >                   | Impact: -0.002431
+ 8.  suppose             | Impact: -0.002186
+ 9.  i                   | Impact: -0.002164
+10.  .                   | Impact: -0.002130
+11.  -                   | Impact: -0.002013
+12.  users               | Impact: -0.001772
+13.  >                   | Impact: -0.001455
+14.  >                   | Impact: -0.001454
+15.  discussions         | Impact: -0.001332
+16.  >                   | Impact: -0.001329
+17.  -                   | Impact: -0.001302
+18.  .                   | Impact: -0.001203
+19.  all                 | Impact: -0.001127
+20.  >                   | Impact: -0.000884

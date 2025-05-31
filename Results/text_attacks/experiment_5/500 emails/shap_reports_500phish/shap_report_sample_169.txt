@@ -1,0 +1,55 @@
+Sample 169
+==========
+
+Sample text preview: My dear friend, I am DR. Yetunde Bassey, Bank Manager of Diamond Bank of Nigeria,Lagos Branch. I have urgent and very confidential business propositio...
+
+Model prediction: [1.6611036e-04 9.9983382e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  this                | Impact: 0.013798 → PHISHING
+ 2.  money               | Impact: 0.013798 → PHISHING
+ 3.  ben                 | Impact: 0.012985 → PHISHING
+ 4. ef                   | Impact: 0.012985 → PHISHING
+ 5. icia                 | Impact: 0.012985 → PHISHING
+ 6. ry                   | Impact: 0.012985 → PHISHING
+ 7.  to                  | Impact: 0.012745 → PHISHING
+ 8.  you                 | Impact: 0.012745 → PHISHING
+ 9.  as                  | Impact: 0.012745 → PHISHING
+10.  the                 | Impact: 0.012745 → PHISHING
+11.  transfer            | Impact: 0.011115 → PHISHING
+12.  of                  | Impact: 0.011115 → PHISHING
+13.  i                   | Impact: 0.010417 → PHISHING
+14.  will                | Impact: 0.010417 → PHISHING
+15.  like                | Impact: 0.010417 → PHISHING
+16.  you                 | Impact: 0.010417 → PHISHING
+17.  to                  | Impact: 0.010417 → PHISHING
+18.  provide             | Impact: 0.010417 → PHISHING
+19.  immediately         | Impact: 0.010417 → PHISHING
+20.  your                | Impact: 0.010417 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  this                | Impact: 0.013798
+ 2.  money               | Impact: 0.013798
+ 3.  ben                 | Impact: 0.012985
+ 4. ef                   | Impact: 0.012985
+ 5. icia                 | Impact: 0.012985
+ 6. ry                   | Impact: 0.012985
+ 7.  to                  | Impact: 0.012745
+ 8.  you                 | Impact: 0.012745
+ 9.  as                  | Impact: 0.012745
+10.  the                 | Impact: 0.012745
+11.  transfer            | Impact: 0.011115
+12.  of                  | Impact: 0.011115
+13.  i                   | Impact: 0.010417
+14.  will                | Impact: 0.010417
+15.  like                | Impact: 0.010417
+16.  you                 | Impact: 0.010417
+17.  to                  | Impact: 0.010417
+18.  provide             | Impact: 0.010417
+19.  immediately         | Impact: 0.010417
+20.  your                | Impact: 0.010417
+
+Top features pushing towards LEGITIMATE classification:

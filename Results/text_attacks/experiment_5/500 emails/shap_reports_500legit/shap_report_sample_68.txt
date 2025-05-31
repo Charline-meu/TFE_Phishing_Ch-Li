@@ -1,0 +1,75 @@
+Sample 68
+=========
+
+Sample text preview: FYI. I don't think it will take long to get a draft. I'm happy to coordinate with Sarah and Accounting. Is it Mary Lynn that I should talk to? Kay ---...
+
+Model prediction: [9.9979454e-01 2.0548793e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  get                 | Impact: -0.001729 → LEGITIMATE
+ 2.  a                   | Impact: -0.001729 → LEGITIMATE
+ 3.  draft               | Impact: -0.001729 → LEGITIMATE
+ 4.  mary                | Impact: 0.001458 → PHISHING
+ 5.  lynn                | Impact: 0.001458 → PHISHING
+ 6.  long                | Impact: -0.001342 → LEGITIMATE
+ 7.  to                  | Impact: -0.001342 → LEGITIMATE
+ 8.  .                   | Impact: -0.000778 → LEGITIMATE
+ 9.  en                  | Impact: -0.000765 → LEGITIMATE
+10. ron                  | Impact: -0.000765 → LEGITIMATE
+11.  on                  | Impact: -0.000765 → LEGITIMATE
+12.  /                   | Impact: -0.000765 → LEGITIMATE
+13.  /                   | Impact: -0.000715 → LEGITIMATE
+14.  :                   | Impact: -0.000715 → LEGITIMATE
+15.  :                   | Impact: -0.000715 → LEGITIMATE
+16.  pm                  | Impact: -0.000715 → LEGITIMATE
+17.  brown               | Impact: -0.000701 → LEGITIMATE
+18.  "                   | Impact: -0.000701 → LEGITIMATE
+19.  on                  | Impact: -0.000701 → LEGITIMATE
+20.  /                   | Impact: -0.000701 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mary                | Impact: 0.001458
+ 2.  lynn                | Impact: 0.001458
+ 3.                      | Impact: 0.000571
+ 4.  f                   | Impact: 0.000571
+ 5. yi                   | Impact: 0.000571
+ 6.  is                  | Impact: 0.000339
+ 7.  it                  | Impact: 0.000339
+ 8.  that                | Impact: 0.000263
+ 9.  i                   | Impact: 0.000263
+10.  should              | Impact: 0.000263
+11.  talk                | Impact: 0.000263
+12.  to                  | Impact: 0.000263
+13.  ?                   | Impact: 0.000263
+14.  '                   | Impact: 0.000083
+15.  s                   | Impact: 0.000083
+16.  cash                | Impact: 0.000083
+17.  flow                | Impact: 0.000083
+18.  is                  | Impact: 0.000083
+19.  swept               | Impact: 0.000083
+20.  .                   | Impact: 0.000083
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  get                 | Impact: -0.001729
+ 2.  a                   | Impact: -0.001729
+ 3.  draft               | Impact: -0.001729
+ 4.  long                | Impact: -0.001342
+ 5.  to                  | Impact: -0.001342
+ 6.  .                   | Impact: -0.000778
+ 7.  en                  | Impact: -0.000765
+ 8. ron                  | Impact: -0.000765
+ 9.  on                  | Impact: -0.000765
+10.  /                   | Impact: -0.000765
+11.  /                   | Impact: -0.000715
+12.  :                   | Impact: -0.000715
+13.  :                   | Impact: -0.000715
+14.  pm                  | Impact: -0.000715
+15.  brown               | Impact: -0.000701
+16.  "                   | Impact: -0.000701
+17.  on                  | Impact: -0.000701
+18.  /                   | Impact: -0.000701
+19.  if                  | Impact: -0.000637
+20.  i                   | Impact: -0.000637

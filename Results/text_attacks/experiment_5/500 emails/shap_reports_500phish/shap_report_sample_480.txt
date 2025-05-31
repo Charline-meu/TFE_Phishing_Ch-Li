@@ -1,0 +1,75 @@
+Sample 480
+==========
+
+Sample text preview: Attn; I am Ms Winnie Madikizela-Mandela, the former wife ofMr. Nelson Mandela of the Republic of South Africa. I am presently in distress. The bureauc...
+
+Model prediction: [1.5947597e-04 9.9984050e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. c                    | Impact: -0.032516 → LEGITIMATE
+ 2.  an                  | Impact: -0.031679 → LEGITIMATE
+ 3.  money               | Impact: 0.028223 → PHISHING
+ 4.  mandela             | Impact: 0.027589 → PHISHING
+ 5.  fast                | Impact: 0.024189 → PHISHING
+ 6.  kindly              | Impact: 0.015555 → PHISHING
+ 7.  send                | Impact: 0.015555 → PHISHING
+ 8.  your                | Impact: 0.015555 → PHISHING
+ 9.  phone               | Impact: 0.015555 → PHISHING
+10.  -                   | Impact: 0.015348 → PHISHING
+11.  mad                 | Impact: 0.013859 → PHISHING
+12. iki                  | Impact: 0.013859 → PHISHING
+13.  best                | Impact: 0.012767 → PHISHING
+14.  regards             | Impact: 0.012767 → PHISHING
+15. zel                  | Impact: 0.012515 → PHISHING
+16. a                    | Impact: 0.012515 → PHISHING
+17.  secure              | Impact: 0.011970 → PHISHING
+18.  this                | Impact: 0.011970 → PHISHING
+19.  presently           | Impact: 0.011600 → PHISHING
+20.  in                  | Impact: 0.011600 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.028223
+ 2.  mandela             | Impact: 0.027589
+ 3.  fast                | Impact: 0.024189
+ 4.  kindly              | Impact: 0.015555
+ 5.  send                | Impact: 0.015555
+ 6.  your                | Impact: 0.015555
+ 7.  phone               | Impact: 0.015555
+ 8.  -                   | Impact: 0.015348
+ 9.  mad                 | Impact: 0.013859
+10. iki                  | Impact: 0.013859
+11.  best                | Impact: 0.012767
+12.  regards             | Impact: 0.012767
+13. zel                  | Impact: 0.012515
+14. a                    | Impact: 0.012515
+15.  secure              | Impact: 0.011970
+16.  this                | Impact: 0.011970
+17.  presently           | Impact: 0.011600
+18.  in                  | Impact: 0.011600
+19.  distress            | Impact: 0.011600
+20.  .                   | Impact: 0.010621
+
+Top features pushing towards LEGITIMATE classification:
+ 1. c                    | Impact: -0.032516
+ 2.  an                  | Impact: -0.031679
+ 3.  bureau              | Impact: -0.009595
+ 4. crats                | Impact: -0.009595
+ 5.  when                | Impact: -0.004598
+ 6.  i                   | Impact: -0.004598
+ 7.  have                | Impact: -0.004598
+ 8.  sorted              | Impact: -0.004598
+ 9.  myself              | Impact: -0.003699
+10.  out                 | Impact: -0.003699
+11.  with                | Impact: -0.003699
+12.  the                 | Impact: -0.003699
+13.  my                  | Impact: -0.003108
+14. pol                  | Impact: -0.003108
+15. itic                 | Impact: -0.003108
+16. s                    | Impact: -0.003108
+17.  but                 | Impact: -0.002925
+18.  i                   | Impact: -0.002925
+19.  need                | Impact: -0.002925
+20.  to                  | Impact: -0.002925

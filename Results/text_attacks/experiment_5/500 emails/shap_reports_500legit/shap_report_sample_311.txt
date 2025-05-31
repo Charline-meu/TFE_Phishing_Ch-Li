@@ -1,0 +1,75 @@
+Sample 311
+==========
+
+Sample text preview: China’s new age of retirement • The costs of toxic positivity • AI work chat tracking • Human creativity vs. AI ( ) October , The monday.com ( ) weekl...
+
+Model prediction: [9.9968636e-01 3.1369479e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ai                  | Impact: -0.009420 → LEGITIMATE
+ 2.  (                   | Impact: -0.009420 → LEGITIMATE
+ 3.  )                   | Impact: -0.009420 → LEGITIMATE
+ 4.  october             | Impact: -0.008725 → LEGITIMATE
+ 5.  ,                   | Impact: -0.008725 → LEGITIMATE
+ 6.  the                 | Impact: -0.007855 → LEGITIMATE
+ 7.  monday              | Impact: -0.007855 → LEGITIMATE
+ 8.  .                   | Impact: -0.007855 → LEGITIMATE
+ 9.  weekly              | Impact: -0.006792 → LEGITIMATE
+10.  monday              | Impact: -0.006792 → LEGITIMATE
+11.  .                   | Impact: -0.006792 → LEGITIMATE
+12.  com                 | Impact: -0.005291 → LEGITIMATE
+13.  (                   | Impact: -0.005291 → LEGITIMATE
+14.  )                   | Impact: -0.005291 → LEGITIMATE
+15.  tuesday             | Impact: -0.005220 → LEGITIMATE
+16. s                    | Impact: -0.005220 → LEGITIMATE
+17.  inside              | Impact: -0.005220 → LEGITIMATE
+18.  this                | Impact: -0.005220 → LEGITIMATE
+19.  issue               | Impact: -0.005220 → LEGITIMATE
+20.  *                   | Impact: -0.005220 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  reaching            | Impact: 0.003787
+ 2.  full                | Impact: 0.003787
+ 3.  effect              | Impact: 0.003787
+ 4.  by                  | Impact: 0.003787
+ 5.  ,                   | Impact: 0.003787
+ 6.  potential           | Impact: 0.003239
+ 7.  pension             | Impact: 0.003239
+ 8.  fund                | Impact: 0.003239
+ 9.  shortages           | Impact: 0.003239
+10.  .                   | Impact: 0.003239
+11.  and                 | Impact: 0.003239
+12.  time                | Impact: 0.003231
+13.  in                  | Impact: 0.003231
+14.  decades             | Impact: 0.003231
+15.  starting            | Impact: 0.003231
+16.  in                  | Impact: 0.003231
+17.  and                 | Impact: 0.003231
+18.  declining           | Impact: 0.002603
+19.  birth               | Impact: 0.002603
+20.  rates               | Impact: 0.002603
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ai                  | Impact: -0.009420
+ 2.  (                   | Impact: -0.009420
+ 3.  )                   | Impact: -0.009420
+ 4.  october             | Impact: -0.008725
+ 5.  ,                   | Impact: -0.008725
+ 6.  the                 | Impact: -0.007855
+ 7.  monday              | Impact: -0.007855
+ 8.  .                   | Impact: -0.007855
+ 9.  weekly              | Impact: -0.006792
+10.  monday              | Impact: -0.006792
+11.  .                   | Impact: -0.006792
+12.  com                 | Impact: -0.005291
+13.  (                   | Impact: -0.005291
+14.  )                   | Impact: -0.005291
+15.  tuesday             | Impact: -0.005220
+16. s                    | Impact: -0.005220
+17.  inside              | Impact: -0.005220
+18.  this                | Impact: -0.005220
+19.  issue               | Impact: -0.005220
+20.  *                   | Impact: -0.005220

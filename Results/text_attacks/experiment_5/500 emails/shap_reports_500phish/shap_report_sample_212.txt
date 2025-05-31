@@ -1,0 +1,75 @@
+Sample 212
+==========
+
+Sample text preview: Good day, I am David Bryan, staff of Kleinwort Benson. I am contacting you concerning a deceased customer and an investment he placed under our banks ...
+
+Model prediction: [2.2195645e-04 9.9977809e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  intimate            | Impact: 0.009871 → PHISHING
+ 2.  you                 | Impact: 0.009871 → PHISHING
+ 3.  will                | Impact: 0.008291 → PHISHING
+ 4.  know                | Impact: 0.008291 → PHISHING
+ 5.  of                  | Impact: 0.008291 → PHISHING
+ 6.  its                 | Impact: 0.008291 → PHISHING
+ 7.  existence           | Impact: 0.008291 → PHISHING
+ 8.  ,                   | Impact: 0.008291 → PHISHING
+ 9.  opening             | Impact: 0.007937 → PHISHING
+10.  an                  | Impact: 0.007937 → PHISHING
+11.  account             | Impact: 0.007937 → PHISHING
+12.  with                | Impact: 0.007937 → PHISHING
+13.  us                  | Impact: 0.007937 → PHISHING
+14.  means               | Impact: 0.007937 → PHISHING
+15.  no                  | Impact: 0.007937 → PHISHING
+16.  one                 | Impact: 0.007937 → PHISHING
+17.  you                 | Impact: 0.007227 → PHISHING
+18.  independently       | Impact: 0.007227 → PHISHING
+19.  you                 | Impact: 0.006655 → PHISHING
+20.  concerning          | Impact: 0.006655 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  intimate            | Impact: 0.009871
+ 2.  you                 | Impact: 0.009871
+ 3.  will                | Impact: 0.008291
+ 4.  know                | Impact: 0.008291
+ 5.  of                  | Impact: 0.008291
+ 6.  its                 | Impact: 0.008291
+ 7.  existence           | Impact: 0.008291
+ 8.  ,                   | Impact: 0.008291
+ 9.  opening             | Impact: 0.007937
+10.  an                  | Impact: 0.007937
+11.  account             | Impact: 0.007937
+12.  with                | Impact: 0.007937
+13.  us                  | Impact: 0.007937
+14.  means               | Impact: 0.007937
+15.  no                  | Impact: 0.007937
+16.  one                 | Impact: 0.007937
+17.  you                 | Impact: 0.007227
+18.  independently       | Impact: 0.007227
+19.  you                 | Impact: 0.006655
+20.  concerning          | Impact: 0.006655
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  in                  | Impact: -0.000835
+ 2.  his                 | Impact: -0.000835
+ 3.  bio                 | Impact: -0.000835
+ 4.  -                   | Impact: -0.000835
+ 5.  data                | Impact: -0.000835
+ 6.  form                | Impact: -0.000835
+ 7.  ,                   | Impact: -0.000835
+ 8.  he                  | Impact: -0.000835
+ 9.  listed              | Impact: -0.000835
+10.  no                  | Impact: -0.000835
+11.  next                | Impact: -0.000835
+12.  of                  | Impact: -0.000835
+13.  kin                 | Impact: -0.000835
+14.  .                   | Impact: -0.000835
+15.  staff               | Impact: -0.000068
+16.  of                  | Impact: -0.000068
+17.  klein               | Impact: -0.000068
+18. wo                   | Impact: -0.000068
+19. rt                   | Impact: -0.000068
+20.  benson              | Impact: -0.000068

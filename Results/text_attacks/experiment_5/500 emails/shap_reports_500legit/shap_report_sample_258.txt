@@ -1,0 +1,74 @@
+Sample 258
+==========
+
+Sample text preview: I talked to Kathy, gave her some basic advice to relay on the subject and told her that if Alcoa has further questions they can call me. One issue for...
+
+Model prediction: [9.9980432e-01 1.9573311e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.020042 → LEGITIMATE
+ 2.  en                  | Impact: -0.015566 → LEGITIMATE
+ 3.  .                   | Impact: -0.004371 → LEGITIMATE
+ 4.  ec                  | Impact: -0.003976 → LEGITIMATE
+ 5.  en                  | Impact: -0.003954 → LEGITIMATE
+ 6. ron                  | Impact: -0.003954 → LEGITIMATE
+ 7.  to                  | Impact: -0.003725 → LEGITIMATE
+ 8.  add                 | Impact: -0.003725 → LEGITIMATE
+ 9.  questions           | Impact: -0.003597 → LEGITIMATE
+10.  hoping              | Impact: -0.003554 → LEGITIMATE
+11.  basic               | Impact: -0.003219 → LEGITIMATE
+12.  ec                  | Impact: -0.003155 → LEGITIMATE
+13.  if                  | Impact: -0.002997 → LEGITIMATE
+14.  utilizing           | Impact: -0.002988 → LEGITIMATE
+15.  en                  | Impact: -0.002960 → LEGITIMATE
+16. ron                  | Impact: -0.002960 → LEGITIMATE
+17.  need                | Impact: -0.002644 → LEGITIMATE
+18.  to                  | Impact: -0.002644 → LEGITIMATE
+19.  en                  | Impact: -0.002547 → LEGITIMATE
+20. ron                  | Impact: -0.002547 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  @                   | Impact: 0.000832
+ 2.  inc                 | Impact: 0.000816
+ 3.  .                   | Impact: 0.000816
+ 4.  and                 | Impact: 0.000259
+ 5.  talk                | Impact: 0.000224
+ 6.  with                | Impact: 0.000224
+ 7.  someone             | Impact: 0.000224
+ 8.  today               | Impact: 0.000224
+ 9.  @                   | Impact: 0.000219
+10.  an                  | Impact: 0.000138
+11.  find                | Impact: 0.000125
+12.  out                 | Impact: 0.000125
+13.  if                  | Impact: 0.000125
+14.  his                 | Impact: 0.000125
+15.  master              | Impact: 0.000089
+16.  contract            | Impact: 0.000089
+17.  will                | Impact: 0.000089
+18.  come                | Impact: 0.000089
+19.  ,                   | Impact: 0.000056
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.020042
+ 2.  en                  | Impact: -0.015566
+ 3.  .                   | Impact: -0.004371
+ 4.  ec                  | Impact: -0.003976
+ 5.  en                  | Impact: -0.003954
+ 6. ron                  | Impact: -0.003954
+ 7.  to                  | Impact: -0.003725
+ 8.  add                 | Impact: -0.003725
+ 9.  questions           | Impact: -0.003597
+10.  hoping              | Impact: -0.003554
+11.  basic               | Impact: -0.003219
+12.  ec                  | Impact: -0.003155
+13.  if                  | Impact: -0.002997
+14.  utilizing           | Impact: -0.002988
+15.  en                  | Impact: -0.002960
+16. ron                  | Impact: -0.002960
+17.  need                | Impact: -0.002644
+18.  to                  | Impact: -0.002644
+19.  en                  | Impact: -0.002547
+20. ron                  | Impact: -0.002547

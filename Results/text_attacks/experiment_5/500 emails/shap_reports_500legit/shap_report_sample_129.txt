@@ -1,0 +1,75 @@
+Sample 129
+==========
+
+Sample text preview: Rex - Here is an estimate of the equity forwards that we'd like to repurchase over the next couple of months. The dates will probably be a little diff...
+
+Model prediction: [9.9978286e-01 2.1710202e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  couple              | Impact: 0.051227 → PHISHING
+ 2.  estimate            | Impact: -0.041188 → LEGITIMATE
+ 3.  equity              | Impact: -0.037165 → LEGITIMATE
+ 4.  months              | Impact: 0.031980 → PHISHING
+ 5.  dates               | Impact: -0.031256 → LEGITIMATE
+ 6.  rex                 | Impact: -0.028548 → LEGITIMATE
+ 7.  .                   | Impact: -0.014178 → LEGITIMATE
+ 8. ur                   | Impact: 0.013990 → PHISHING
+ 9.  of                  | Impact: -0.013411 → LEGITIMATE
+10.  like                | Impact: -0.011796 → LEGITIMATE
+11.  is                  | Impact: 0.011774 → PHISHING
+12.  different           | Impact: -0.011355 → LEGITIMATE
+13.  free                | Impact: 0.010502 → PHISHING
+14.  the                 | Impact: -0.010305 → LEGITIMATE
+15.  over                | Impact: -0.009739 → LEGITIMATE
+16. chase                | Impact: 0.008841 → PHISHING
+17.  rep                 | Impact: 0.007814 → PHISHING
+18.  forwards            | Impact: 0.007217 → PHISHING
+19.  .                   | Impact: 0.006138 → PHISHING
+20.  next                | Impact: 0.005917 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  couple              | Impact: 0.051227
+ 2.  months              | Impact: 0.031980
+ 3. ur                   | Impact: 0.013990
+ 4.  is                  | Impact: 0.011774
+ 5.  free                | Impact: 0.010502
+ 6. chase                | Impact: 0.008841
+ 7.  rep                 | Impact: 0.007814
+ 8.  forwards            | Impact: 0.007217
+ 9.  .                   | Impact: 0.006138
+10.  next                | Impact: 0.005917
+11.  you                 | Impact: 0.005540
+12.  an                  | Impact: 0.005434
+13.  give                | Impact: 0.004356
+14.  call                | Impact: 0.003808
+15.  d                   | Impact: 0.003606
+16.  a                   | Impact: 0.002893
+17.  give                | Impact: 0.002712
+18.  this                | Impact: 0.002364
+19.  to                  | Impact: 0.001969
+20.  and                 | Impact: 0.001707
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  estimate            | Impact: -0.041188
+ 2.  equity              | Impact: -0.037165
+ 3.  dates               | Impact: -0.031256
+ 4.  rex                 | Impact: -0.028548
+ 5.  .                   | Impact: -0.014178
+ 6.  of                  | Impact: -0.013411
+ 7.  like                | Impact: -0.011796
+ 8.  different           | Impact: -0.011355
+ 9.  the                 | Impact: -0.010305
+10.  over                | Impact: -0.009739
+11.  cf                  | Impact: -0.005853
+12.  -                   | Impact: -0.005810
+13.  '                   | Impact: -0.004179
+14.  we                  | Impact: -0.004028
+15.  probably            | Impact: -0.003950
+16.  feel                | Impact: -0.002475
+17.  idea                | Impact: -0.002409
+18.  but                 | Impact: -0.001716
+19.                      | Impact: -0.001593
+20.  an                  | Impact: -0.001574

@@ -1,0 +1,75 @@
+Phishing Sample 97
+==================
+
+Sample text preview: ----- Forwarded by Tana Jones/HOU/ECT on // : PM ----- Nora Dobin@ENRON // : PM To: Tana Jones/HOU/ECT@ECT cc: Subject: Re: Net Works/Bridge NDA Will ...
+
+Model prediction: [9.9977452e-01 2.2546214e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.002110 → LEGITIMATE
+ 2.  en                  | Impact: -0.001709 → LEGITIMATE
+ 3.  en                  | Impact: -0.001500 → LEGITIMATE
+ 4. ron                  | Impact: -0.001446 → LEGITIMATE
+ 5. ron                  | Impact: -0.001344 → LEGITIMATE
+ 6.  en                  | Impact: -0.001293 → LEGITIMATE
+ 7. ron                  | Impact: -0.001269 → LEGITIMATE
+ 8. ron                  | Impact: -0.000993 → LEGITIMATE
+ 9.  en                  | Impact: -0.000817 → LEGITIMATE
+10. ron                  | Impact: -0.000710 → LEGITIMATE
+11.  nora                | Impact: 0.000684 → PHISHING
+12.  j                   | Impact: 0.000684 → PHISHING
+13.  .                   | Impact: 0.000630 → PHISHING
+14.  nora                | Impact: 0.000616 → PHISHING
+15.  j                   | Impact: 0.000616 → PHISHING
+16.  en                  | Impact: -0.000555 → LEGITIMATE
+17. ron                  | Impact: -0.000555 → LEGITIMATE
+18.  .                   | Impact: 0.000548 → PHISHING
+19.  ec                  | Impact: -0.000508 → LEGITIMATE
+20. t                    | Impact: -0.000508 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  nora                | Impact: 0.000684
+ 2.  j                   | Impact: 0.000684
+ 3.  .                   | Impact: 0.000630
+ 4.  nora                | Impact: 0.000616
+ 5.  j                   | Impact: 0.000616
+ 6.  .                   | Impact: 0.000548
+ 7.  nj                  | Impact: 0.000502
+ 8. d                    | Impact: 0.000502
+ 9.  nj                  | Impact: 0.000388
+10. d                    | Impact: 0.000388
+11.  @                   | Impact: 0.000335
+12.  @                   | Impact: 0.000296
+13.  corp                | Impact: 0.000219
+14.  smith               | Impact: 0.000217
+15.  street              | Impact: 0.000217
+16.  houston             | Impact: 0.000217
+17.  corp                | Impact: 0.000209
+18.  regards             | Impact: 0.000205
+19.  ,                   | Impact: 0.000205
+20.  ,                   | Impact: 0.000151
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.002110
+ 2.  en                  | Impact: -0.001709
+ 3.  en                  | Impact: -0.001500
+ 4. ron                  | Impact: -0.001446
+ 5. ron                  | Impact: -0.001344
+ 6.  en                  | Impact: -0.001293
+ 7. ron                  | Impact: -0.001269
+ 8. ron                  | Impact: -0.000993
+ 9.  en                  | Impact: -0.000817
+10. ron                  | Impact: -0.000710
+11.  en                  | Impact: -0.000555
+12. ron                  | Impact: -0.000555
+13.  ec                  | Impact: -0.000508
+14. t                    | Impact: -0.000508
+15.  mark                | Impact: -0.000482
+16.  taylor              | Impact: -0.000482
+17.  /                   | Impact: -0.000482
+18.  ho                  | Impact: -0.000482
+19. u                    | Impact: -0.000482
+20.  /                   | Impact: -0.000482

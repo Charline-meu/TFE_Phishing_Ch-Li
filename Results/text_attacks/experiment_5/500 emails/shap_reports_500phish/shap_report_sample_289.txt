@@ -1,0 +1,75 @@
+Sample 289
+==========
+
+Sample text preview: FROM THE DESK OF Mr,KAREM AHMED. BILL AND EXCHANGE MANAGER, BANK OF AFRICA (B.O.A) OUAGADOUGOU, BURKINA FASO WEST AFRICA. PHONE CONTACT .... DEAR FRIE...
+
+Model prediction: [1.9011564e-04 9.9980992e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.008167 → PHISHING
+ 2.  friend              | Impact: 0.008167 → PHISHING
+ 3.  ,                   | Impact: 0.008167 → PHISHING
+ 4.  and                 | Impact: 0.004485 → PHISHING
+ 5.  release             | Impact: 0.004485 → PHISHING
+ 6.  the                 | Impact: 0.004485 → PHISHING
+ 7.  money               | Impact: 0.004485 → PHISHING
+ 8.  to                  | Impact: 0.004485 → PHISHING
+ 9.  you                 | Impact: 0.004485 → PHISHING
+10.  as                  | Impact: 0.004485 → PHISHING
+11.  the                 | Impact: 0.004485 → PHISHING
+12.  next                | Impact: 0.004485 → PHISHING
+13.  of                  | Impact: 0.004485 → PHISHING
+14.  kin                 | Impact: 0.004485 → PHISHING
+15.  or                  | Impact: 0.004485 → PHISHING
+16.  relation            | Impact: 0.004485 → PHISHING
+17.  to                  | Impact: 0.004485 → PHISHING
+18.  the                 | Impact: 0.004485 → PHISHING
+19.  deceased            | Impact: 0.004485 → PHISHING
+20.  for                 | Impact: 0.004485 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.008167
+ 2.  friend              | Impact: 0.008167
+ 3.  ,                   | Impact: 0.008167
+ 4.  and                 | Impact: 0.004485
+ 5.  release             | Impact: 0.004485
+ 6.  the                 | Impact: 0.004485
+ 7.  money               | Impact: 0.004485
+ 8.  to                  | Impact: 0.004485
+ 9.  you                 | Impact: 0.004485
+10.  as                  | Impact: 0.004485
+11.  the                 | Impact: 0.004485
+12.  next                | Impact: 0.004485
+13.  of                  | Impact: 0.004485
+14.  kin                 | Impact: 0.004485
+15.  or                  | Impact: 0.004485
+16.  relation            | Impact: 0.004485
+17.  to                  | Impact: 0.004485
+18.  the                 | Impact: 0.004485
+19.  deceased            | Impact: 0.004485
+20.  for                 | Impact: 0.004485
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  phone               | Impact: -0.002564
+ 2.  contact             | Impact: -0.002564
+ 3.  .                   | Impact: -0.002564
+ 4.  arranging           | Impact: -0.000236
+ 5.  the                 | Impact: -0.000236
+ 6.  departmental        | Impact: -0.000236
+ 7.  customers           | Impact: -0.000236
+ 8.  file                | Impact: -0.000236
+ 9.  to                  | Impact: -0.000236
+10.  submit              | Impact: -0.000236
+11.  to                  | Impact: -0.000236
+12.  the                 | Impact: -0.000236
+13.  bank                | Impact: -0.000236
+14.  management          | Impact: -0.000236
+15.  for                 | Impact: -0.000236
+16.  the                 | Impact: -0.000236
+17.  annual              | Impact: -0.000236
+18.  audit               | Impact: -0.000236
+19.  of                  | Impact: -0.000236
+20.  the                 | Impact: -0.000236

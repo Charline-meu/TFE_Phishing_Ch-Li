@@ -1,0 +1,75 @@
+Sample 463
+==========
+
+Sample text preview: I am a TV producer for one of the three major networks and I am working on a new primetime special. We're looking for a special story and thought you ...
+
+Model prediction: [2.8286615e-04 9.9971706e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  tv                  | Impact: 0.025093 → PHISHING
+ 2.  producer            | Impact: 0.025093 → PHISHING
+ 3.  your                | Impact: 0.014104 → PHISHING
+ 4.  single              | Impact: 0.014104 → PHISHING
+ 5.  friends             | Impact: 0.014104 → PHISHING
+ 6.  )                   | Impact: 0.014104 → PHISHING
+ 7.  your                | Impact: 0.013525 → PHISHING
+ 8.  first               | Impact: 0.013525 → PHISHING
+ 9.  love                | Impact: 0.013525 → PHISHING
+10.  this                | Impact: 0.012938 → PHISHING
+11.  rare                | Impact: 0.012938 → PHISHING
+12.  national            | Impact: 0.012938 → PHISHING
+13.  tv                  | Impact: 0.012938 → PHISHING
+14.  opportunity         | Impact: 0.012938 → PHISHING
+15.  ,                   | Impact: 0.012145 → PHISHING
+16.  ?                   | Impact: 0.011474 → PHISHING
+17.  for                 | Impact: 0.011292 → PHISHING
+18.  one                 | Impact: 0.011292 → PHISHING
+19.  to                  | Impact: 0.009787 → PHISHING
+20.  find                | Impact: 0.009787 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  tv                  | Impact: 0.025093
+ 2.  producer            | Impact: 0.025093
+ 3.  your                | Impact: 0.014104
+ 4.  single              | Impact: 0.014104
+ 5.  friends             | Impact: 0.014104
+ 6.  )                   | Impact: 0.014104
+ 7.  your                | Impact: 0.013525
+ 8.  first               | Impact: 0.013525
+ 9.  love                | Impact: 0.013525
+10.  this                | Impact: 0.012938
+11.  rare                | Impact: 0.012938
+12.  national            | Impact: 0.012938
+13.  tv                  | Impact: 0.012938
+14.  opportunity         | Impact: 0.012938
+15.  ,                   | Impact: 0.012145
+16.  ?                   | Impact: 0.011474
+17.  for                 | Impact: 0.011292
+18.  one                 | Impact: 0.011292
+19.  to                  | Impact: 0.009787
+20.  find                | Impact: 0.009787
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.005435
+ 2.  -                   | Impact: -0.005435
+ 3.  -                   | Impact: -0.005403
+ 4.  -                   | Impact: -0.005403
+ 5.  -                   | Impact: -0.005293
+ 6.  -                   | Impact: -0.005293
+ 7.  -                   | Impact: -0.005241
+ 8.  -                   | Impact: -0.005241
+ 9.  -                   | Impact: -0.005111
+10.  -                   | Impact: -0.005111
+11.  -                   | Impact: -0.005111
+12.  -                   | Impact: -0.004983
+13.  -                   | Impact: -0.004983
+14.  -                   | Impact: -0.004983
+15.  -                   | Impact: -0.004983
+16.  -                   | Impact: -0.004740
+17.  -                   | Impact: -0.004740
+18.  -                   | Impact: -0.004288
+19.  -                   | Impact: -0.004288
+20.  -                   | Impact: -0.004026

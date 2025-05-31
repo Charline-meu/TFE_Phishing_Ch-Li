@@ -1,0 +1,75 @@
+Sample 67
+=========
+
+Sample text preview: MARK DANIELS. REPLY EMAIL: Dear friend This letter may come to you as a surprise due to the fact that we have not yet met. I have to say that I have n...
+
+Model prediction: [1.506507e-04 9.998493e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  friend              | Impact: 0.013402 → PHISHING
+ 2.  this                | Impact: 0.013402 → PHISHING
+ 3.  letter              | Impact: 0.013402 → PHISHING
+ 4.  may                 | Impact: 0.013402 → PHISHING
+ 5.  reply               | Impact: 0.013258 → PHISHING
+ 6.  email               | Impact: 0.013258 → PHISHING
+ 7.  :                   | Impact: 0.013258 → PHISHING
+ 8.  dear                | Impact: 0.013258 → PHISHING
+ 9.  uses                | Impact: 0.008835 → PHISHING
+10.  you                 | Impact: 0.008835 → PHISHING
+11.  to                  | Impact: 0.008835 → PHISHING
+12.  support             | Impact: 0.008835 → PHISHING
+13.  i                   | Impact: 0.006847 → PHISHING
+14.  will                | Impact: 0.006847 → PHISHING
+15.  want                | Impact: 0.006847 → PHISHING
+16.  you                 | Impact: 0.006847 → PHISHING
+17.  lived               | Impact: 0.006369 → PHISHING
+18.  my                  | Impact: 0.006369 → PHISHING
+19.  life                | Impact: 0.006369 → PHISHING
+20.  so                  | Impact: 0.006369 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  friend              | Impact: 0.013402
+ 2.  this                | Impact: 0.013402
+ 3.  letter              | Impact: 0.013402
+ 4.  may                 | Impact: 0.013402
+ 5.  reply               | Impact: 0.013258
+ 6.  email               | Impact: 0.013258
+ 7.  :                   | Impact: 0.013258
+ 8.  dear                | Impact: 0.013258
+ 9.  uses                | Impact: 0.008835
+10.  you                 | Impact: 0.008835
+11.  to                  | Impact: 0.008835
+12.  support             | Impact: 0.008835
+13.  i                   | Impact: 0.006847
+14.  will                | Impact: 0.006847
+15.  want                | Impact: 0.006847
+16.  you                 | Impact: 0.006847
+17.  lived               | Impact: 0.006369
+18.  my                  | Impact: 0.006369
+19.  life                | Impact: 0.006369
+20.  so                  | Impact: 0.006369
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.005724
+ 2.  mark                | Impact: -0.005724
+ 3.  daniels             | Impact: -0.005724
+ 4.  .                   | Impact: -0.002874
+ 5.  i                   | Impact: -0.001760
+ 6.  am                  | Impact: -0.001760
+ 7.  writing             | Impact: -0.001760
+ 8.  this                | Impact: -0.001760
+ 9.  from                | Impact: -0.001760
+10.  my                  | Impact: -0.001760
+11.  laptop              | Impact: -0.001760
+12.  computer            | Impact: -0.001760
+13.  with                | Impact: -0.001337
+14.  prostate            | Impact: -0.001337
+15.  and                 | Impact: -0.001337
+16.  i                   | Impact: -0.001250
+17.  have                | Impact: -0.001250
+18.  been                | Impact: -0.001250
+19.  diagnosed           | Impact: -0.001250
+20.  in                  | Impact: -0.000605

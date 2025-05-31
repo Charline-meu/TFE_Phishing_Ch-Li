@@ -1,0 +1,75 @@
+Sample 484
+==========
+
+Sample text preview: THE CHAIRMAN ECOWAS CONTRACT AWARDING COMMITTEE ECOWAS HEADQUATERS ACCRA GHANA WEST AFRICA. I am Mr.Kazeem Ahmed,the Chairman of ECOWAS contract award...
+
+Model prediction: [2.0873995e-04 9.9979132e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  in                  | Impact: 0.008881 → PHISHING
+ 2.  this                | Impact: 0.008881 → PHISHING
+ 3.  country             | Impact: 0.008881 → PHISHING
+ 4.  as                  | Impact: 0.008881 → PHISHING
+ 5.  contact             | Impact: 0.008769 → PHISHING
+ 6.  you                 | Impact: 0.008769 → PHISHING
+ 7.  on                  | Impact: 0.008769 → PHISHING
+ 8.  a                   | Impact: 0.008769 → PHISHING
+ 9.  operate             | Impact: 0.007097 → PHISHING
+10.  a                   | Impact: 0.007097 → PHISHING
+11.  foreign             | Impact: 0.007097 → PHISHING
+12.  account             | Impact: 0.007097 → PHISHING
+13.  and                 | Impact: 0.007097 → PHISHING
+14.  i                   | Impact: 0.005561 → PHISHING
+15.  have                | Impact: 0.005561 → PHISHING
+16.  decided             | Impact: 0.005561 → PHISHING
+17.  to                  | Impact: 0.005561 → PHISHING
+18.  i                   | Impact: 0.005192 → PHISHING
+19.  am                  | Impact: 0.005192 → PHISHING
+20.  mr                  | Impact: 0.005192 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  in                  | Impact: 0.008881
+ 2.  this                | Impact: 0.008881
+ 3.  country             | Impact: 0.008881
+ 4.  as                  | Impact: 0.008881
+ 5.  contact             | Impact: 0.008769
+ 6.  you                 | Impact: 0.008769
+ 7.  on                  | Impact: 0.008769
+ 8.  a                   | Impact: 0.008769
+ 9.  operate             | Impact: 0.007097
+10.  a                   | Impact: 0.007097
+11.  foreign             | Impact: 0.007097
+12.  account             | Impact: 0.007097
+13.  and                 | Impact: 0.007097
+14.  i                   | Impact: 0.005561
+15.  have                | Impact: 0.005561
+16.  decided             | Impact: 0.005561
+17.  to                  | Impact: 0.005561
+18.  i                   | Impact: 0.005192
+19.  am                  | Impact: 0.005192
+20.  mr                  | Impact: 0.005192
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  would               | Impact: -0.001042
+ 2.  eventually          | Impact: -0.001042
+ 3.  raise               | Impact: -0.001042
+ 4.  an                  | Impact: -0.001042
+ 5.  eyebrow             | Impact: -0.001042
+ 6.  on                  | Impact: -0.001042
+ 7.  my                  | Impact: -0.001042
+ 8.  side                | Impact: -0.001042
+ 9.  in                  | Impact: -0.000881
+10.  fact                | Impact: -0.000881
+11.  i                   | Impact: -0.000881
+12.  could               | Impact: -0.000881
+13.  have                | Impact: -0.000881
+14.  done                | Impact: -0.000881
+15.  this                | Impact: -0.000881
+16.  alone               | Impact: -0.000881
+17.  but                 | Impact: -0.000881
+18.  during              | Impact: -0.000390
+19.  our                 | Impact: -0.000390
+20.  investigation       | Impact: -0.000390

@@ -1,0 +1,75 @@
+Sample 498
+==========
+
+Sample text preview: FROM CARLOS SARO MONUMENT ROAD JOHANNESBURG, SOUTH AFRICA TEL:+--- FAX:+ - ATTN: DIRECTOR/C.E.O With due respect, trust and humility, I write you this...
+
+Model prediction: [1.779074e-04 9.998221e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.015281 → PHISHING
+ 2.  carlos              | Impact: 0.011288 → PHISHING
+ 3.  you                 | Impact: 0.008820 → PHISHING
+ 4.  can                 | Impact: 0.008820 → PHISHING
+ 5.  contact             | Impact: 0.008820 → PHISHING
+ 6.  me                  | Impact: 0.008820 → PHISHING
+ 7.  me                  | Impact: 0.008790 → PHISHING
+ 8.  your                | Impact: 0.008790 → PHISHING
+ 9.  details             | Impact: 0.008790 → PHISHING
+10.  and                 | Impact: 0.008790 → PHISHING
+11.  my                  | Impact: 0.007605 → PHISHING
+12.  family              | Impact: 0.007605 → PHISHING
+13.  your                | Impact: 0.007324 → PHISHING
+14.  personal            | Impact: 0.007324 → PHISHING
+15.  phone               | Impact: 0.007324 → PHISHING
+16.  and                 | Impact: 0.007324 → PHISHING
+17.  .                   | Impact: 0.005708 → PHISHING
+18.  .                   | Impact: 0.005667 → PHISHING
+19.  in                  | Impact: 0.005667 → PHISHING
+20.  your                | Impact: 0.005667 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.015281
+ 2.  carlos              | Impact: 0.011288
+ 3.  you                 | Impact: 0.008820
+ 4.  can                 | Impact: 0.008820
+ 5.  contact             | Impact: 0.008820
+ 6.  me                  | Impact: 0.008820
+ 7.  me                  | Impact: 0.008790
+ 8.  your                | Impact: 0.008790
+ 9.  details             | Impact: 0.008790
+10.  and                 | Impact: 0.008790
+11.  my                  | Impact: 0.007605
+12.  family              | Impact: 0.007605
+13.  your                | Impact: 0.007324
+14.  personal            | Impact: 0.007324
+15.  phone               | Impact: 0.007324
+16.  and                 | Impact: 0.007324
+17.  .                   | Impact: 0.005708
+18.  .                   | Impact: 0.005667
+19.  in                  | Impact: 0.005667
+20.  your                | Impact: 0.005667
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  on                  | Impact: -0.000542
+ 2.  my                  | Impact: -0.000542
+ 3.  deposition          | Impact: -0.000542
+ 4.  the                 | Impact: -0.000542
+ 5.  con                 | Impact: -0.000542
+ 6. si                   | Impact: -0.000542
+ 7. gn                   | Impact: -0.000542
+ 8. ment                 | Impact: -0.000542
+ 9.  /                   | Impact: -0.000542
+10.  fund                | Impact: -0.000542
+11.  i                   | Impact: -0.000542
+12.  did                 | Impact: -0.000542
+13.  not                 | Impact: -0.000542
+14.  disclose            | Impact: -0.000542
+15.  the                 | Impact: -0.000542
+16.  content             | Impact: -0.000542
+17.  of                  | Impact: -0.000542
+18.  the                 | Impact: -0.000542
+19.  con                 | Impact: -0.000135
+20. si                   | Impact: -0.000135

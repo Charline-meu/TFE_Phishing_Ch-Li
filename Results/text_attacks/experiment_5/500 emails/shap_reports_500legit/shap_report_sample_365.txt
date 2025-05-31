@@ -1,0 +1,71 @@
+Sample 365
+==========
+
+Sample text preview: URL: Date: --T::+: Bill Clinton and a tale of two Tonys. *Howard Jacobson* on his first Labour party conference.
+
+Model prediction: [9.9976212e-01 2.3790551e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  labour              | Impact: 0.071834 → PHISHING
+ 2.  his                 | Impact: 0.070269 → PHISHING
+ 3.  jacobs              | Impact: -0.065722 → LEGITIMATE
+ 4.  conference          | Impact: -0.035742 → LEGITIMATE
+ 5.  howard              | Impact: -0.033031 → LEGITIMATE
+ 6. on                   | Impact: 0.018973 → PHISHING
+ 7.  *                   | Impact: -0.017267 → LEGITIMATE
+ 8.  *                   | Impact: -0.017248 → LEGITIMATE
+ 9.  .                   | Impact: -0.015898 → LEGITIMATE
+10.  :                   | Impact: -0.013497 → LEGITIMATE
+11.  on                  | Impact: -0.013134 → LEGITIMATE
+12.  a                   | Impact: 0.009477 → PHISHING
+13.  party               | Impact: 0.009404 → PHISHING
+14.  first               | Impact: 0.009066 → PHISHING
+15.  +                   | Impact: 0.008897 → PHISHING
+16.  two                 | Impact: 0.007194 → PHISHING
+17.  .                   | Impact: 0.006620 → PHISHING
+18. s                    | Impact: -0.005411 → LEGITIMATE
+19.  :                   | Impact: -0.004344 → LEGITIMATE
+20.  tony                | Impact: -0.004286 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  labour              | Impact: 0.071834
+ 2.  his                 | Impact: 0.070269
+ 3. on                   | Impact: 0.018973
+ 4.  a                   | Impact: 0.009477
+ 5.  party               | Impact: 0.009404
+ 6.  first               | Impact: 0.009066
+ 7.  +                   | Impact: 0.008897
+ 8.  two                 | Impact: 0.007194
+ 9.  .                   | Impact: 0.006620
+10.  of                  | Impact: 0.003824
+11.  and                 | Impact: 0.001746
+12.  -                   | Impact: 0.001364
+13.  tale                | Impact: 0.000712
+14.  date                | Impact: 0.000610
+15.  t                   | Impact: 0.000277
+16.  -                   | Impact: 0.000188
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  jacobs              | Impact: -0.065722
+ 2.  conference          | Impact: -0.035742
+ 3.  howard              | Impact: -0.033031
+ 4.  *                   | Impact: -0.017267
+ 5.  *                   | Impact: -0.017248
+ 6.  .                   | Impact: -0.015898
+ 7.  :                   | Impact: -0.013497
+ 8.  on                  | Impact: -0.013134
+ 9. s                    | Impact: -0.005411
+10.  :                   | Impact: -0.004344
+11.  tony                | Impact: -0.004286
+12.  ur                  | Impact: -0.003543
+13.  :                   | Impact: -0.002798
+14.  :                   | Impact: -0.002645
+15.  :                   | Impact: -0.002582
+16.  bill                | Impact: -0.002131
+17. l                    | Impact: -0.002077
+18.  clinton             | Impact: -0.000420
+19.                      | Impact: -0.000044
+20.                      | Impact: -0.000000

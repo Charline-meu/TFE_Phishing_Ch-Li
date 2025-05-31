@@ -1,0 +1,75 @@
+Phishing Sample 8
+=================
+
+Sample text preview: Subject: International Asset Coordination Request To Whom It May Concern, We are writing to explore a potential collaboration with a trusted party abr...
+
+Model prediction: [2.0385416e-04 9.9979621e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.045153 → PHISHING
+ 2.  ivo                 | Impact: 0.034695 → PHISHING
+ 3.  kindly              | Impact: 0.027314 → PHISHING
+ 4. ire                  | Impact: 0.027196 → PHISHING
+ 5.  let                 | Impact: 0.024633 → PHISHING
+ 6.  profile             | Impact: 0.018663 → PHISHING
+ 7.  your                | Impact: 0.018325 → PHISHING
+ 8.  availability        | Impact: 0.018325 → PHISHING
+ 9.  trust               | Impact: 0.017483 → PHISHING
+10.  containing          | Impact: 0.017453 → PHISHING
+11.  we                  | Impact: 0.011011 → PHISHING
+12.  represent           | Impact: 0.011011 → PHISHING
+13.  several             | Impact: 0.010133 → PHISHING
+14.  estate              | Impact: 0.010133 → PHISHING
+15.  trusted             | Impact: 0.010081 → PHISHING
+16.  party               | Impact: 0.010081 → PHISHING
+17.  abroad              | Impact: 0.010081 → PHISHING
+18.  professional        | Impact: 0.010022 → PHISHING
+19.  contact             | Impact: 0.010022 → PHISHING
+20.  $                   | Impact: 0.009942 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.045153
+ 2.  ivo                 | Impact: 0.034695
+ 3.  kindly              | Impact: 0.027314
+ 4. ire                  | Impact: 0.027196
+ 5.  let                 | Impact: 0.024633
+ 6.  profile             | Impact: 0.018663
+ 7.  your                | Impact: 0.018325
+ 8.  availability        | Impact: 0.018325
+ 9.  trust               | Impact: 0.017483
+10.  containing          | Impact: 0.017453
+11.  we                  | Impact: 0.011011
+12.  represent           | Impact: 0.011011
+13.  several             | Impact: 0.010133
+14.  estate              | Impact: 0.010133
+15.  trusted             | Impact: 0.010081
+16.  party               | Impact: 0.010081
+17.  abroad              | Impact: 0.010081
+18.  professional        | Impact: 0.010022
+19.  contact             | Impact: 0.010022
+20.  $                   | Impact: 0.009942
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.008744
+ 2.  cote                | Impact: -0.006536
+ 3.  d                   | Impact: -0.006536
+ 4.  financial           | Impact: -0.003771
+ 5.  matters             | Impact: -0.003771
+ 6.  .                   | Impact: -0.002267
+ 7.  ,                   | Impact: -0.000936
+ 8.  i                   | Impact: -0.000417
+ 9.  .                   | Impact: -0.000417
+10.                      | Impact: -0.000417
+11.  under               | Impact: -0.000114
+12.  agreed              | Impact: -0.000114
+13.  oversight           | Impact: -0.000114
+14.  .                   | Impact: -0.000114
+15.  ’                   | Impact: -0.000058
+16.  liaison             | Impact: -0.000012
+17.  during              | Impact: -0.000012
+18.  regulatory          | Impact: -0.000012
+19.  transitions         | Impact: -0.000012
+20.  •                   | Impact: -0.000012

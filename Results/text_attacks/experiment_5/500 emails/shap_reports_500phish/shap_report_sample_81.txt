@@ -1,0 +1,71 @@
+Sample 81
+=========
+
+Sample text preview: On January st , the European countries began using the new Euro. Never before have so many countries with such powerful economies united to use a sing...
+
+Model prediction: [3.494008e-04 9.996506e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.053536 → PHISHING
+ 2.  $                   | Impact: 0.042325 → PHISHING
+ 3.  please              | Impact: 0.037456 → PHISHING
+ 4.  carefully           | Impact: 0.034423 → PHISHING
+ 5.  evaluate            | Impact: 0.033968 → PHISHING
+ 6.  your                | Impact: 0.033968 → PHISHING
+ 7.  financial           | Impact: 0.033730 → PHISHING
+ 8.  position            | Impact: 0.033730 → PHISHING
+ 9.  you                 | Impact: 0.031676 → PHISHING
+10.  investment          | Impact: 0.030329 → PHISHING
+11.  minimum             | Impact: 0.027301 → PHISHING
+12.  send                | Impact: 0.024656 → PHISHING
+13.  your                | Impact: 0.024181 → PHISHING
+14.  !                   | Impact: 0.022081 → PHISHING
+15.  now                 | Impact: 0.021456 → PHISHING
+16.  powerful            | Impact: 0.020759 → PHISHING
+17.  economies           | Impact: 0.018352 → PHISHING
+18.  our                 | Impact: 0.017964 → PHISHING
+19.  visit               | Impact: 0.016608 → PHISHING
+20.  site                | Impact: 0.016318 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.053536
+ 2.  $                   | Impact: 0.042325
+ 3.  please              | Impact: 0.037456
+ 4.  carefully           | Impact: 0.034423
+ 5.  evaluate            | Impact: 0.033968
+ 6.  your                | Impact: 0.033968
+ 7.  financial           | Impact: 0.033730
+ 8.  position            | Impact: 0.033730
+ 9.  you                 | Impact: 0.031676
+10.  investment          | Impact: 0.030329
+11.  minimum             | Impact: 0.027301
+12.  send                | Impact: 0.024656
+13.  your                | Impact: 0.024181
+14.  !                   | Impact: 0.022081
+15.  now                 | Impact: 0.021456
+16.  powerful            | Impact: 0.020759
+17.  economies           | Impact: 0.018352
+18.  our                 | Impact: 0.017964
+19.  visit               | Impact: 0.016608
+20.  site                | Impact: 0.016318
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  before              | Impact: -0.009073
+ 2.  trading             | Impact: -0.009073
+ 3.  .                   | Impact: -0.009073
+ 4.  capital             | Impact: -0.004002
+ 5.  s                   | Impact: -0.003721
+ 6.  .                   | Impact: -0.003721
+ 7.  risk                | Impact: -0.003283
+ 8.  .                   | Impact: -0.003068
+ 9.  it                  | Impact: -0.002509
+10.  '                   | Impact: -0.002509
+11.  :                   | Impact: -0.001177
+12.  in                  | Impact: -0.001177
+13.  and                 | Impact: -0.000679
+14.  should              | Impact: -0.000602
+15.  addition            | Impact: -0.000324
+16.  to                  | Impact: -0.000324

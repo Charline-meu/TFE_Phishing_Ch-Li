@@ -1,0 +1,75 @@
+Sample 361
+==========
+
+Sample text preview: Tom wrote: >... its a word that deserves a place in the daily vernacular, >much like squick, schmegma, and dork. > Don't forget slithy, mimsy, gimble,...
+
+Model prediction: [9.997998e-01 2.001764e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.070229 → LEGITIMATE
+ 2.  bequeathed          | Impact: 0.057711 → PHISHING
+ 3.  carol               | Impact: -0.019821 → LEGITIMATE
+ 4.  lewis               | Impact: -0.016375 → LEGITIMATE
+ 5.  elias               | Impact: 0.009926 → PHISHING
+ 6.  ,                   | Impact: 0.009779 → PHISHING
+ 7.  forget              | Impact: 0.009243 → PHISHING
+ 8.  slit                | Impact: 0.009069 → PHISHING
+ 9. mble                 | Impact: 0.008990 → PHISHING
+10.  '                   | Impact: -0.008189 → LEGITIMATE
+11.  don                 | Impact: -0.006724 → LEGITIMATE
+12.  :                   | Impact: -0.006659 → LEGITIMATE
+13.  t                   | Impact: -0.006080 → LEGITIMATE
+14.  place               | Impact: 0.005778 → PHISHING
+15.  gi                  | Impact: -0.005768 → LEGITIMATE
+16. hy                   | Impact: 0.005598 → PHISHING
+17.  and                 | Impact: -0.005561 → LEGITIMATE
+18.  ,                   | Impact: 0.005313 → PHISHING
+19.  .                   | Impact: -0.004251 → LEGITIMATE
+20.  to                  | Impact: 0.004219 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bequeathed          | Impact: 0.057711
+ 2.  elias               | Impact: 0.009926
+ 3.  ,                   | Impact: 0.009779
+ 4.  forget              | Impact: 0.009243
+ 5.  slit                | Impact: 0.009069
+ 6. mble                 | Impact: 0.008990
+ 7.  place               | Impact: 0.005778
+ 8. hy                   | Impact: 0.005598
+ 9.  ,                   | Impact: 0.005313
+10.  to                  | Impact: 0.004219
+11. ous                  | Impact: 0.003549
+12.  wrote               | Impact: 0.002665
+13.  by                  | Impact: 0.002030
+14.  in                  | Impact: 0.001974
+15. y                    | Impact: 0.001935
+16.  mi                  | Impact: 0.001546
+17. ms                   | Impact: 0.000882
+18.  us                  | Impact: 0.000836
+19.  ,                   | Impact: 0.000804
+20.  a                   | Impact: 0.000683
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.070229
+ 2.  carol               | Impact: -0.019821
+ 3.  lewis               | Impact: -0.016375
+ 4.  '                   | Impact: -0.008189
+ 5.  don                 | Impact: -0.006724
+ 6.  :                   | Impact: -0.006659
+ 7.  t                   | Impact: -0.006080
+ 8.  gi                  | Impact: -0.005768
+ 9.  and                 | Impact: -0.005561
+10.  .                   | Impact: -0.004251
+11.  >                   | Impact: -0.004067
+12.  .                   | Impact: -0.003148
+13.  .                   | Impact: -0.003059
+14.  tom                 | Impact: -0.002692
+15.  .                   | Impact: -0.002684
+16. umi                  | Impact: -0.002503
+17.  .                   | Impact: -0.002238
+18.  that                | Impact: -0.001956
+19.  word                | Impact: -0.001719
+20.  deserves            | Impact: -0.001297

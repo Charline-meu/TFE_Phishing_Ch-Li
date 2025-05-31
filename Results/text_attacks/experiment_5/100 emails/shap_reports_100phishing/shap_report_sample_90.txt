@@ -1,0 +1,75 @@
+Phishing Sample 90
+==================
+
+Sample text preview: Well, LazyTraders, Our Chatroom continues to get more profitable every week, here is what happened this week; Every day the room averaged about $, pro...
+
+Model prediction: [0.01126823 0.9887318 ]
+Predicted class: PHISHING with 0.9887 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.020063 → PHISHING
+ 2.  g                   | Impact: 0.020063 → PHISHING
+ 3.  uses                | Impact: 0.020063 → PHISHING
+ 4.  will                | Impact: 0.018262 → PHISHING
+ 5.  actually            | Impact: 0.018262 → PHISHING
+ 6.  make                | Impact: 0.018262 → PHISHING
+ 7.  money               | Impact: 0.018262 → PHISHING
+ 8.  on                  | Impact: 0.014536 → PHISHING
+ 9.  a                   | Impact: 0.014536 → PHISHING
+10.  consistent          | Impact: 0.014536 → PHISHING
+11.  basis               | Impact: 0.014536 → PHISHING
+12.  want                | Impact: 0.013532 → PHISHING
+13.  to                  | Impact: 0.013532 → PHISHING
+14.  expand              | Impact: 0.013532 → PHISHING
+15.  your                | Impact: 0.013532 → PHISHING
+16.  knowledge           | Impact: 0.013532 → PHISHING
+17.  to                  | Impact: 0.013532 → PHISHING
+18.  the                 | Impact: 0.013532 → PHISHING
+19.  point               | Impact: 0.013532 → PHISHING
+20.  where               | Impact: 0.013186 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.020063
+ 2.  g                   | Impact: 0.020063
+ 3.  uses                | Impact: 0.020063
+ 4.  will                | Impact: 0.018262
+ 5.  actually            | Impact: 0.018262
+ 6.  make                | Impact: 0.018262
+ 7.  money               | Impact: 0.018262
+ 8.  on                  | Impact: 0.014536
+ 9.  a                   | Impact: 0.014536
+10.  consistent          | Impact: 0.014536
+11.  basis               | Impact: 0.014536
+12.  want                | Impact: 0.013532
+13.  to                  | Impact: 0.013532
+14.  expand              | Impact: 0.013532
+15.  your                | Impact: 0.013532
+16.  knowledge           | Impact: 0.013532
+17.  to                  | Impact: 0.013532
+18.  the                 | Impact: 0.013532
+19.  point               | Impact: 0.013532
+20.  where               | Impact: 0.013186
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  lazy                | Impact: -0.005604
+ 2. tra                  | Impact: -0.005604
+ 3. ders                 | Impact: -0.005604
+ 4.  ,                   | Impact: -0.005604
+ 5.  day                 | Impact: -0.005020
+ 6.  the                 | Impact: -0.005020
+ 7.  room                | Impact: -0.005020
+ 8.  averaged            | Impact: -0.005020
+ 9.  about               | Impact: -0.005020
+10.  $                   | Impact: -0.005020
+11.  ,                   | Impact: -0.005020
+12.  here                | Impact: -0.003629
+13.  is                  | Impact: -0.003629
+14.  what                | Impact: -0.003629
+15.  happened            | Impact: -0.003629
+16.  this                | Impact: -0.003629
+17.  week                | Impact: -0.003629
+18.  ;                   | Impact: -0.003629
+19.  every               | Impact: -0.003629
+20.                      | Impact: -0.003526

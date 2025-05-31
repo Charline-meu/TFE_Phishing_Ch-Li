@@ -1,0 +1,63 @@
+Sample 412
+==========
+
+Sample text preview: Dear Sir / Madam, I am Mr Abu Hassan, from Ivory Coast Abidjan but residing in Dakar Senegal in Africa. It is my desire to contact you on honesty and ...
+
+Model prediction: [1.5212671e-04 9.9984789e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  abu                 | Impact: 0.085514 → PHISHING
+ 2.  mr                  | Impact: 0.061026 → PHISHING
+ 3.  hassan              | Impact: 0.058346 → PHISHING
+ 4.  money               | Impact: 0.028151 → PHISHING
+ 5.  you                 | Impact: 0.027222 → PHISHING
+ 6.  desire              | Impact: 0.013806 → PHISHING
+ 7.  of                  | Impact: 0.013535 → PHISHING
+ 8.  this                | Impact: 0.013535 → PHISHING
+ 9.  address             | Impact: 0.012763 → PHISHING
+10.  to                  | Impact: 0.012763 → PHISHING
+11.  your                | Impact: 0.012486 → PHISHING
+12.  phone               | Impact: 0.012486 → PHISHING
+13.  my                  | Impact: 0.012199 → PHISHING
+14.  (                   | Impact: -0.011861 → LEGITIMATE
+15.  am                  | Impact: 0.011785 → PHISHING
+16.  mr                  | Impact: 0.010860 → PHISHING
+17.  abu                 | Impact: 0.010860 → PHISHING
+18.  sum                 | Impact: 0.009927 → PHISHING
+19.  #                   | Impact: 0.009415 → PHISHING
+20.  indicate            | Impact: 0.009250 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  abu                 | Impact: 0.085514
+ 2.  mr                  | Impact: 0.061026
+ 3.  hassan              | Impact: 0.058346
+ 4.  money               | Impact: 0.028151
+ 5.  you                 | Impact: 0.027222
+ 6.  desire              | Impact: 0.013806
+ 7.  of                  | Impact: 0.013535
+ 8.  this                | Impact: 0.013535
+ 9.  address             | Impact: 0.012763
+10.  to                  | Impact: 0.012763
+11.  your                | Impact: 0.012486
+12.  phone               | Impact: 0.012486
+13.  my                  | Impact: 0.012199
+14.  am                  | Impact: 0.011785
+15.  mr                  | Impact: 0.010860
+16.  abu                 | Impact: 0.010860
+17.  sum                 | Impact: 0.009927
+18.  #                   | Impact: 0.009415
+19.  indicate            | Impact: 0.009250
+20.  your                | Impact: 0.009250
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.011861
+ 2.  thanks              | Impact: -0.008408
+ 3.  honesty             | Impact: -0.003375
+ 4.  and                 | Impact: -0.002876
+ 5.  .                   | Impact: -0.001613
+ 6.  ,                   | Impact: -0.001134
+ 7.  but                 | Impact: -0.000844
+ 8.  ,                   | Impact: -0.000046

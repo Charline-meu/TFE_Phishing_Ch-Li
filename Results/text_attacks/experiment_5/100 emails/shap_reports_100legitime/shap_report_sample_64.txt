@@ -1,0 +1,75 @@
+Phishing Sample 64
+==================
+
+Sample text preview: Dear Wagerlist Visitor: Sportingbet USA is making a great offer to you when you open an account with them today. Here is their special offer to The Wa...
+
+Model prediction: [0.95736855 0.04263142]
+Predicted class: LEGITIMATE with 0.9574 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.026412 → PHISHING
+ 2.  sports              | Impact: -0.019711 → LEGITIMATE
+ 3.  lynx                | Impact: -0.019711 → LEGITIMATE
+ 4.                      | Impact: 0.016883 → PHISHING
+ 5.  cash                | Impact: 0.015247 → PHISHING
+ 6.  back                | Impact: 0.015247 → PHISHING
+ 7.  list                | Impact: -0.013218 → LEGITIMATE
+ 8.  visitors            | Impact: -0.013218 → LEGITIMATE
+ 9.  :                   | Impact: -0.013218 → LEGITIMATE
+10.  get                 | Impact: 0.012199 → PHISHING
+11.  %                   | Impact: 0.012199 → PHISHING
+12.  ao                  | Impact: -0.012068 → LEGITIMATE
+13. l                    | Impact: -0.012068 → LEGITIMATE
+14.  users               | Impact: -0.012068 → LEGITIMATE
+15.  :                   | Impact: -0.012068 → LEGITIMATE
+16.  from                | Impact: -0.012034 → LEGITIMATE
+17.  the                 | Impact: -0.012034 → LEGITIMATE
+18.  click               | Impact: -0.011147 → LEGITIMATE
+19.  here                | Impact: -0.011147 → LEGITIMATE
+20.  for                 | Impact: -0.011147 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.026412
+ 2.                      | Impact: 0.016883
+ 3.  cash                | Impact: 0.015247
+ 4.  back                | Impact: 0.015247
+ 5.  get                 | Impact: 0.012199
+ 6.  %                   | Impact: 0.012199
+ 7.  .                   | Impact: 0.008712
+ 8.  account             | Impact: 0.008268
+ 9.  with                | Impact: 0.008268
+10.  them                | Impact: 0.008268
+11.  today               | Impact: 0.008268
+12.  great               | Impact: 0.005235
+13.  offer               | Impact: 0.005235
+14.  to                  | Impact: 0.005235
+15.  you                 | Impact: 0.005235
+16.  -                   | Impact: 0.005134
+17.  up                  | Impact: 0.005134
+18.  they                | Impact: 0.005134
+19.  will                | Impact: 0.005134
+20.  free                | Impact: 0.004990
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  sports              | Impact: -0.019711
+ 2.  lynx                | Impact: -0.019711
+ 3.  list                | Impact: -0.013218
+ 4.  visitors            | Impact: -0.013218
+ 5.  :                   | Impact: -0.013218
+ 6.  ao                  | Impact: -0.012068
+ 7. l                    | Impact: -0.012068
+ 8.  users               | Impact: -0.012068
+ 9.  :                   | Impact: -0.012068
+10.  from                | Impact: -0.012034
+11.  the                 | Impact: -0.012034
+12.  click               | Impact: -0.011147
+13.  here                | Impact: -0.011147
+14.  for                 | Impact: -0.011147
+15.  network             | Impact: -0.007982
+16.  to                  | Impact: -0.007982
+17.  get                 | Impact: -0.007982
+18.  the                 | Impact: -0.007982
+19.  list                | Impact: -0.006655
+20.  your                | Impact: -0.006655

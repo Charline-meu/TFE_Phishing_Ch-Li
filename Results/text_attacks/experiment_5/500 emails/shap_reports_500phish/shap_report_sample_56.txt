@@ -1,0 +1,75 @@
+Sample 56
+=========
+
+Sample text preview: ATTENTION: This is a MUST for ALL Computer Users!!! *NEW-Special Package Deal!* Norton SystemWorks Software Suite -Professional Edition- Includes Six ...
+
+Model prediction: [2.920584e-04 9.997079e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  yours               | Impact: 0.042704 → PHISHING
+ 2.  secure              | Impact: 0.026764 → PHISHING
+ 3.  your                | Impact: 0.026764 → PHISHING
+ 4.  your                | Impact: 0.023970 → PHISHING
+ 5.  valuable            | Impact: 0.023970 → PHISHING
+ 6.  information         | Impact: 0.023970 → PHISHING
+ 7.  transfer            | Impact: 0.019483 → PHISHING
+ 8.  files               | Impact: 0.019483 → PHISHING
+ 9.  you                 | Impact: 0.017366 → PHISHING
+10.  to                  | Impact: 0.017366 → PHISHING
+11.  private             | Impact: 0.016978 → PHISHING
+12.  &                   | Impact: 0.016978 → PHISHING
+13.  valuable            | Impact: 0.016065 → PHISHING
+14.  information         | Impact: 0.016065 → PHISHING
+15.  for                 | Impact: 0.014617 → PHISHING
+16.  $                   | Impact: 0.013795 → PHISHING
+17.  backup              | Impact: 0.012209 → PHISHING
+18.  your                | Impact: 0.012209 → PHISHING
+19.  all                 | Impact: 0.012209 → PHISHING
+20.  your                | Impact: 0.012209 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  yours               | Impact: 0.042704
+ 2.  secure              | Impact: 0.026764
+ 3.  your                | Impact: 0.026764
+ 4.  your                | Impact: 0.023970
+ 5.  valuable            | Impact: 0.023970
+ 6.  information         | Impact: 0.023970
+ 7.  transfer            | Impact: 0.019483
+ 8.  files               | Impact: 0.019483
+ 9.  you                 | Impact: 0.017366
+10.  to                  | Impact: 0.017366
+11.  private             | Impact: 0.016978
+12.  &                   | Impact: 0.016978
+13.  valuable            | Impact: 0.016065
+14.  information         | Impact: 0.016065
+15.  for                 | Impact: 0.014617
+16.  $                   | Impact: 0.013795
+17.  backup              | Impact: 0.012209
+18.  your                | Impact: 0.012209
+19.  all                 | Impact: 0.012209
+20.  your                | Impact: 0.012209
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  feature             | Impact: -0.008759
+ 2.  -                   | Impact: -0.008759
+ 3.  users               | Impact: -0.006534
+ 4.  packed              | Impact: -0.003790
+ 5.  utilities           | Impact: -0.003790
+ 6.                      | Impact: -0.003493
+ 7.  attention           | Impact: -0.003493
+ 8.  :                   | Impact: -0.003493
+ 9.  this                | Impact: -0.003493
+10.  .                   | Impact: -0.003287
+11.  utilities           | Impact: -0.001906
+12.  all                 | Impact: -0.001906
+13.  for                 | Impact: -0.001906
+14.  special             | Impact: -0.001906
+15.  all                 | Impact: -0.001902
+16.  computer            | Impact: -0.001902
+17.  software            | Impact: -0.001722
+18.  suite               | Impact: -0.001722
+19.  -                   | Impact: -0.001722
+20.  professional        | Impact: -0.001722

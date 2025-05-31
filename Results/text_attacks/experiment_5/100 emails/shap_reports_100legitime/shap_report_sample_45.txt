@@ -1,0 +1,75 @@
+Phishing Sample 45
+==================
+
+Sample text preview: Am I taking care of you or what?? ---------------------- Forwarded by Steven J Kean/HOU/EES on // : PM --------------------------- Lynn Dunphy@ECT // ...
+
+Model prediction: [9.9977905e-01 2.2095305e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  nana                | Impact: 0.030768 → PHISHING
+ 2.  cheers              | Impact: -0.021620 → LEGITIMATE
+ 3. v                    | Impact: 0.017100 → PHISHING
+ 4.  nee                 | Impact: 0.013876 → PHISHING
+ 5. vat                  | Impact: 0.012328 → PHISHING
+ 6.  ap                  | Impact: -0.012129 → LEGITIMATE
+ 7.  restructuring       | Impact: -0.011859 → LEGITIMATE
+ 8. achi                 | Impact: -0.009730 → LEGITIMATE
+ 9.  caught              | Impact: 0.009618 → PHISHING
+10. y                    | Impact: -0.007493 → LEGITIMATE
+11.  lynn                | Impact: 0.007025 → PHISHING
+12.  up                  | Impact: -0.006931 → LEGITIMATE
+13. ra                   | Impact: 0.006516 → PHISHING
+14.  was                 | Impact: 0.005766 → PHISHING
+15.  (                   | Impact: -0.005175 → LEGITIMATE
+16.  .                   | Impact: -0.004920 → LEGITIMATE
+17.  you                 | Impact: 0.004724 → PHISHING
+18.  ,                   | Impact: -0.004317 → LEGITIMATE
+19.  .                   | Impact: -0.004170 → LEGITIMATE
+20.  !                   | Impact: -0.003941 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  nana                | Impact: 0.030768
+ 2. v                    | Impact: 0.017100
+ 3.  nee                 | Impact: 0.013876
+ 4. vat                  | Impact: 0.012328
+ 5.  caught              | Impact: 0.009618
+ 6.  lynn                | Impact: 0.007025
+ 7. ra                   | Impact: 0.006516
+ 8.  was                 | Impact: 0.005766
+ 9.  you                 | Impact: 0.004724
+10.  am                  | Impact: 0.003567
+11.  and                 | Impact: 0.003057
+12.  ?                   | Impact: 0.002520
+13.  care                | Impact: 0.002484
+14.  of                  | Impact: 0.002303
+15.  apparently          | Impact: 0.001428
+16.  were                | Impact: 0.001242
+17.  i                   | Impact: 0.001190
+18.  taking              | Impact: 0.001190
+19.                      | Impact: 0.001183
+20.  unable              | Impact: 0.001173
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  cheers              | Impact: -0.021620
+ 2.  ap                  | Impact: -0.012129
+ 3.  restructuring       | Impact: -0.011859
+ 4. achi                 | Impact: -0.009730
+ 5. y                    | Impact: -0.007493
+ 6.  up                  | Impact: -0.006931
+ 7.  (                   | Impact: -0.005175
+ 8.  .                   | Impact: -0.004920
+ 9.  ,                   | Impact: -0.004317
+10.  .                   | Impact: -0.004170
+11.  !                   | Impact: -0.003941
+12.  what                | Impact: -0.003685
+13.  lists               | Impact: -0.003540
+14.  our                 | Impact: -0.003100
+15.  in                  | Impact: -0.002898
+16.  ?                   | Impact: -0.002726
+17.  indicated           | Impact: -0.002709
+18.  that                | Impact: -0.002709
+19.  the                 | Impact: -0.002003
+20.  by                  | Impact: -0.001662

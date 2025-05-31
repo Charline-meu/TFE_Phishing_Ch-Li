@@ -1,0 +1,75 @@
+Sample 85
+=========
+
+Sample text preview: Greeting in the name of our lord Jesus Christ. I am Mrs. Catherine Charles, a widow to late sheik Charles. I am years Old, i am now a new Christian co...
+
+Model prediction: [1.6097179e-04 9.9983895e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mrs                 | Impact: 0.022402 → PHISHING
+ 2.  a                   | Impact: 0.015867 → PHISHING
+ 3.  widow               | Impact: 0.015867 → PHISHING
+ 4.  mrs                 | Impact: 0.014715 → PHISHING
+ 5.  your                | Impact: 0.011758 → PHISHING
+ 6.  family              | Impact: 0.011758 → PHISHING
+ 7.  bank                | Impact: 0.009908 → PHISHING
+ 8.  of                  | Impact: 0.009908 → PHISHING
+ 9.  nigeria             | Impact: 0.009908 → PHISHING
+10.  lastly              | Impact: -0.009866 → LEGITIMATE
+11.  husband             | Impact: 0.009829 → PHISHING
+12.  was                 | Impact: 0.009829 → PHISHING
+13.  in                  | Impact: 0.009494 → PHISHING
+14.  your                | Impact: 0.009494 → PHISHING
+15.  name                | Impact: 0.009494 → PHISHING
+16.  i                   | Impact: 0.008724 → PHISHING
+17.  await               | Impact: 0.008724 → PHISHING
+18.  .                   | Impact: 0.008654 → PHISHING
+19.  yours               | Impact: 0.008523 → PHISHING
+20.  in                  | Impact: 0.008523 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mrs                 | Impact: 0.022402
+ 2.  a                   | Impact: 0.015867
+ 3.  widow               | Impact: 0.015867
+ 4.  mrs                 | Impact: 0.014715
+ 5.  your                | Impact: 0.011758
+ 6.  family              | Impact: 0.011758
+ 7.  bank                | Impact: 0.009908
+ 8.  of                  | Impact: 0.009908
+ 9.  nigeria             | Impact: 0.009908
+10.  husband             | Impact: 0.009829
+11.  was                 | Impact: 0.009829
+12.  in                  | Impact: 0.009494
+13.  your                | Impact: 0.009494
+14.  name                | Impact: 0.009494
+15.  i                   | Impact: 0.008724
+16.  await               | Impact: 0.008724
+17.  .                   | Impact: 0.008654
+18.  yours               | Impact: 0.008523
+19.  in                  | Impact: 0.008523
+20.  transfer            | Impact: 0.008036
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  lastly              | Impact: -0.009866
+ 2.  an                  | Impact: -0.006046
+ 3.  application         | Impact: -0.006046
+ 4.  ,                   | Impact: -0.005793
+ 5.  is                  | Impact: -0.003374
+ 6.  vanity              | Impact: -0.003374
+ 7.  .                   | Impact: -0.003374
+ 8.  .                   | Impact: -0.002601
+ 9.                      | Impact: -0.001674
+10.  greeting            | Impact: -0.001674
+11.  for                 | Impact: -0.001022
+12.  the                 | Impact: -0.001022
+13.  upon                | Impact: -0.000831
+14.  my                  | Impact: -0.000831
+15.  instruction         | Impact: -0.000831
+16.  ,                   | Impact: -0.000831
+17.  wealth              | Impact: -0.000824
+18.  acquisition         | Impact: -0.000824
+19.  without             | Impact: -0.000824
+20.  christ              | Impact: -0.000824

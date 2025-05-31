@@ -1,0 +1,75 @@
+Sample 419
+==========
+
+Sample text preview: Good Day I know that this mail might be a surpriseing to you but do consider it as an emergency. In a nut shell, My name is Joy kwame from the republi...
+
+Model prediction: [1.5638476e-04 9.9984360e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  father              | Impact: 0.013274 → PHISHING
+ 2.  money               | Impact: 0.013274 → PHISHING
+ 3.  to                  | Impact: 0.013074 → PHISHING
+ 4.  you                 | Impact: 0.013074 → PHISHING
+ 5.  my                  | Impact: 0.009532 → PHISHING
+ 6.  late                | Impact: 0.009532 → PHISHING
+ 7.  my                  | Impact: 0.008648 → PHISHING
+ 8.  name                | Impact: 0.008648 → PHISHING
+ 9.  is                  | Impact: 0.008648 → PHISHING
+10.  joy                 | Impact: 0.008648 → PHISHING
+11.  father              | Impact: 0.008276 → PHISHING
+12.  was                 | Impact: 0.008276 → PHISHING
+13.  his                 | Impact: 0.007991 → PHISHING
+14.  business            | Impact: 0.007991 → PHISHING
+15.  associate           | Impact: 0.007991 → PHISHING
+16.  mother              | Impact: 0.007985 → PHISHING
+17.  by                  | Impact: 0.007985 → PHISHING
+18.  or                  | Impact: 0.006352 → PHISHING
+19.  adopt               | Impact: 0.006352 → PHISHING
+20.  me                  | Impact: 0.006352 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  father              | Impact: 0.013274
+ 2.  money               | Impact: 0.013274
+ 3.  to                  | Impact: 0.013074
+ 4.  you                 | Impact: 0.013074
+ 5.  my                  | Impact: 0.009532
+ 6.  late                | Impact: 0.009532
+ 7.  my                  | Impact: 0.008648
+ 8.  name                | Impact: 0.008648
+ 9.  is                  | Impact: 0.008648
+10.  joy                 | Impact: 0.008648
+11.  father              | Impact: 0.008276
+12.  was                 | Impact: 0.008276
+13.  his                 | Impact: 0.007991
+14.  business            | Impact: 0.007991
+15.  associate           | Impact: 0.007991
+16.  mother              | Impact: 0.007985
+17.  by                  | Impact: 0.007985
+18.  or                  | Impact: 0.006352
+19.  adopt               | Impact: 0.006352
+20.  me                  | Impact: 0.006352
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  in                  | Impact: -0.003519
+ 2.  a                   | Impact: -0.003519
+ 3.  nut                 | Impact: -0.003519
+ 4.  shell               | Impact: -0.003519
+ 5.  (                   | Impact: -0.002641
+ 6.  un                  | Impact: -0.002641
+ 7. hc                   | Impact: -0.002641
+ 8. r                    | Impact: -0.002641
+ 9.  )                   | Impact: -0.002641
+10.  .                   | Impact: -0.000890
+11.  overs               | Impact: -0.000178
+12. ea                   | Impact: -0.000178
+13.  however             | Impact: -0.000178
+14.  ,                   | Impact: -0.000178
+15.  on                  | Impact: -0.000178
+16.  one                 | Impact: -0.000178
+17.  of                  | Impact: -0.000178
+18.  their               | Impact: -0.000178
+19.  outing              | Impact: -0.000178
+20.  to                  | Impact: -0.000178

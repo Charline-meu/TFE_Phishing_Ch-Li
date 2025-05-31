@@ -1,0 +1,75 @@
+Phishing Sample 33
+==================
+
+Sample text preview: As list administrator, your authorization is requested for the following mailing list posting: List: From: Subject: Harvest lots of E-mail addresses q...
+
+Model prediction: [0.99897134 0.0010287 ]
+Predicted class: LEGITIMATE with 0.9990 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.057368 → LEGITIMATE
+ 2.  visit               | Impact: 0.049362 → PHISHING
+ 3.  your                | Impact: 0.041996 → PHISHING
+ 4.  harvest             | Impact: -0.041613 → LEGITIMATE
+ 5.  addresses           | Impact: 0.039293 → PHISHING
+ 6.  mail                | Impact: 0.037877 → PHISHING
+ 7.  from                | Impact: -0.030001 → LEGITIMATE
+ 8.  :                   | Impact: -0.028638 → LEGITIMATE
+ 9.  members             | Impact: -0.025023 → LEGITIMATE
+10.  quickly             | Impact: 0.020588 → PHISHING
+11.  approve             | Impact: -0.020303 → LEGITIMATE
+12.  deny                | Impact: 0.019740 → PHISHING
+13.  posting             | Impact: 0.019606 → PHISHING
+14.  :                   | Impact: -0.019138 → LEGITIMATE
+15.  :                   | Impact: -0.015850 → LEGITIMATE
+16.  list                | Impact: -0.015810 → LEGITIMATE
+17.  :                   | Impact: -0.015794 → LEGITIMATE
+18.  requested           | Impact: 0.015695 → PHISHING
+19.  :                   | Impact: -0.015417 → LEGITIMATE
+20.  mail                | Impact: 0.015054 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  visit               | Impact: 0.049362
+ 2.  your                | Impact: 0.041996
+ 3.  addresses           | Impact: 0.039293
+ 4.  mail                | Impact: 0.037877
+ 5.  quickly             | Impact: 0.020588
+ 6.  deny                | Impact: 0.019740
+ 7.  posting             | Impact: 0.019606
+ 8.  requested           | Impact: 0.015695
+ 9.  mail                | Impact: 0.015054
+10.  by                  | Impact: 0.009647
+11.  !                   | Impact: 0.007057
+12.  authorization       | Impact: 0.005629
+13.  convenience         | Impact: 0.004231
+14.  only                | Impact: 0.003946
+15.  post                | Impact: 0.003310
+16.  of                  | Impact: 0.002281
+17.  is                  | Impact: 0.002188
+18.  request             | Impact: 0.001859
+19.  to                  | Impact: 0.001755
+20.  to                  | Impact: 0.001533
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.057368
+ 2.  harvest             | Impact: -0.041613
+ 3.  from                | Impact: -0.030001
+ 4.  :                   | Impact: -0.028638
+ 5.  members             | Impact: -0.025023
+ 6.  approve             | Impact: -0.020303
+ 7.  :                   | Impact: -0.019138
+ 8.  :                   | Impact: -0.015850
+ 9.  list                | Impact: -0.015810
+10.  :                   | Impact: -0.015794
+11.  :                   | Impact: -0.015417
+12.  lots                | Impact: -0.014633
+13.  member              | Impact: -0.011603
+14.  reason              | Impact: -0.011456
+15.  list                | Impact: -0.011199
+16.  administrator       | Impact: -0.009545
+17.  list                | Impact: -0.009330
+18.  subject             | Impact: -0.007256
+19.  or                  | Impact: -0.004639
+20.  ,                   | Impact: -0.004014

@@ -1,0 +1,75 @@
+Sample 238
+==========
+
+Sample text preview: STRICTLY CONFIDENTIAL Sir PARTNERSHIP IN BUSINESS After due deliberation with my colleagues, I decided to forward to you this proposal. We want a reli...
+
+Model prediction: [1.5641474e-04 9.9984360e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  into                | Impact: 0.037951 → PHISHING
+ 2.  your                | Impact: 0.037951 → PHISHING
+ 3.  account             | Impact: 0.031247 → PHISHING
+ 4.  right               | Impact: 0.031247 → PHISHING
+ 5.  this                | Impact: 0.028349 → PHISHING
+ 6.  fund                | Impact: 0.028349 → PHISHING
+ 7.  to                  | Impact: 0.024097 → PHISHING
+ 8.  transfer            | Impact: 0.024097 → PHISHING
+ 9.  regards             | Impact: 0.017294 → PHISHING
+10.  best                | Impact: 0.013209 → PHISHING
+11.  your                | Impact: 0.012829 → PHISHING
+12.  prompt              | Impact: 0.012829 → PHISHING
+13.  reply               | Impact: 0.012829 → PHISHING
+14.  will                | Impact: 0.012829 → PHISHING
+15.  all                 | Impact: 0.005333 → PHISHING
+16.  these               | Impact: 0.005333 → PHISHING
+17.  will                | Impact: 0.005333 → PHISHING
+18.  only                | Impact: 0.005333 → PHISHING
+19.  take                | Impact: 0.005024 → PHISHING
+20.  us                  | Impact: 0.005024 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  into                | Impact: 0.037951
+ 2.  your                | Impact: 0.037951
+ 3.  account             | Impact: 0.031247
+ 4.  right               | Impact: 0.031247
+ 5.  this                | Impact: 0.028349
+ 6.  fund                | Impact: 0.028349
+ 7.  to                  | Impact: 0.024097
+ 8.  transfer            | Impact: 0.024097
+ 9.  regards             | Impact: 0.017294
+10.  best                | Impact: 0.013209
+11.  your                | Impact: 0.012829
+12.  prompt              | Impact: 0.012829
+13.  reply               | Impact: 0.012829
+14.  will                | Impact: 0.012829
+15.  all                 | Impact: 0.005333
+16.  these               | Impact: 0.005333
+17.  will                | Impact: 0.005333
+18.  only                | Impact: 0.005333
+19.  take                | Impact: 0.005024
+20.  us                  | Impact: 0.005024
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  let                 | Impact: -0.004774
+ 2.  honesty             | Impact: -0.004774
+ 3.  and                 | Impact: -0.002673
+ 4.  note                | Impact: -0.002499
+ 5.  :                   | Impact: -0.002499
+ 6.  your                | Impact: -0.002499
+ 7.  discussion          | Impact: -0.002499
+ 8.  be                  | Impact: -0.002496
+ 9.  highly              | Impact: -0.002496
+10.  appreciated         | Impact: -0.002496
+11.  .                   | Impact: -0.002496
+12.  regarding           | Impact: -0.002487
+13.  to                  | Impact: -0.002487
+14.  this                | Impact: -0.002487
+15.  transaction         | Impact: -0.002487
+16.  should              | Impact: -0.001955
+17.  be                  | Impact: -0.001955
+18.  limited             | Impact: -0.001955
+19.  ,                   | Impact: -0.001955
+20.  i                   | Impact: -0.000433

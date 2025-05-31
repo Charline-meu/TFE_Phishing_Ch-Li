@@ -1,0 +1,75 @@
+Sample 163
+==========
+
+Sample text preview: URL: Date: Wed, Sep :: GMT Ben Silverman, the publisher of Dotcom Scoop, says the Rosen email is real, and part of a confidential internal memo[] that...
+
+Model prediction: [9.9971837e-01 2.8160415e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  music               | Impact: 0.056706 → PHISHING
+ 2.  wed                 | Impact: 0.051954 → PHISHING
+ 3.  ur                  | Impact: -0.041979 → LEGITIMATE
+ 4.  city                | Impact: 0.039459 → PHISHING
+ 5.  ]                   | Impact: -0.038426 → LEGITIMATE
+ 6.  real                | Impact: 0.035963 → PHISHING
+ 7.  says                | Impact: -0.025175 → LEGITIMATE
+ 8.  strategy            | Impact: -0.019472 → LEGITIMATE
+ 9.  memo                | Impact: -0.019274 → LEGITIMATE
+10.  ]                   | Impact: -0.015631 → LEGITIMATE
+11.  rosen               | Impact: -0.015329 → LEGITIMATE
+12. l                    | Impact: -0.013887 → LEGITIMATE
+13.  [                   | Impact: -0.011485 → LEGITIMATE
+14.  gr                  | Impact: 0.011103 → PHISHING
+15.  internal            | Impact: -0.010867 → LEGITIMATE
+16.  [                   | Impact: -0.010735 → LEGITIMATE
+17.  .                   | Impact: -0.010407 → LEGITIMATE
+18. man                  | Impact: 0.009807 → PHISHING
+19.  is                  | Impact: 0.008556 → PHISHING
+20.  legal               | Impact: -0.008504 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  music               | Impact: 0.056706
+ 2.  wed                 | Impact: 0.051954
+ 3.  city                | Impact: 0.039459
+ 4.  real                | Impact: 0.035963
+ 5.  gr                  | Impact: 0.011103
+ 6. man                  | Impact: 0.009807
+ 7.  is                  | Impact: 0.008556
+ 8.  part                | Impact: 0.007010
+ 9.  of                  | Impact: 0.006235
+10. ok                   | Impact: 0.005470
+11.  and                 | Impact: 0.005369
+12.  ka                  | Impact: 0.003608
+13.  a                   | Impact: 0.003421
+14. com                  | Impact: 0.002988
+15.  confidential        | Impact: 0.002844
+16.  and                 | Impact: 0.002266
+17. t                    | Impact: 0.002259
+18.  dot                 | Impact: 0.002113
+19.  date                | Impact: 0.001218
+20.  of                  | Impact: 0.000956
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ur                  | Impact: -0.041979
+ 2.  ]                   | Impact: -0.038426
+ 3.  says                | Impact: -0.025175
+ 4.  strategy            | Impact: -0.019472
+ 5.  memo                | Impact: -0.019274
+ 6.  ]                   | Impact: -0.015631
+ 7.  rosen               | Impact: -0.015329
+ 8. l                    | Impact: -0.013887
+ 9.  [                   | Impact: -0.011485
+10.  internal            | Impact: -0.010867
+11.  [                   | Impact: -0.010735
+12.  .                   | Impact: -0.010407
+13.  legal               | Impact: -0.008504
+14.  email               | Impact: -0.008475
+15.  the                 | Impact: -0.007137
+16.  outlines            | Impact: -0.005916
+17.  gm                  | Impact: -0.005283
+18.  silver              | Impact: -0.005143
+19.  riaa                | Impact: -0.004978
+20.  the                 | Impact: -0.004877

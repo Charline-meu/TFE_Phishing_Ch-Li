@@ -1,0 +1,75 @@
+Sample 500
+==========
+
+Sample text preview: Dear Friend, I know this mail may come as a surprise to you, since we do not know ourselves or have any previous contact before now, my purpose of wri...
+
+Model prediction: [1.8093802e-04 9.9981910e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lost                | Impact: 0.011512 → PHISHING
+ 2.  our                 | Impact: 0.011512 → PHISHING
+ 3.  money               | Impact: 0.011512 → PHISHING
+ 4.  to                  | Impact: 0.011512 → PHISHING
+ 5.  mr                  | Impact: 0.011512 → PHISHING
+ 6.  his                 | Impact: 0.008784 → PHISHING
+ 7.  account             | Impact: 0.008784 → PHISHING
+ 8.  only                | Impact: 0.008784 → PHISHING
+ 9.  to                  | Impact: 0.008784 → PHISHING
+10.  brooks              | Impact: -0.007104 → LEGITIMATE
+11.  my                  | Impact: 0.007064 → PHISHING
+12.  country             | Impact: 0.007064 → PHISHING
+13.  are                 | Impact: 0.007064 → PHISHING
+14.  seeking             | Impact: 0.007064 → PHISHING
+15.  was                 | Impact: 0.006899 → PHISHING
+16.  duly                | Impact: 0.006899 → PHISHING
+17.  transferred         | Impact: 0.006899 → PHISHING
+18.  into                | Impact: 0.006899 → PHISHING
+19.  .                   | Impact: 0.006360 → PHISHING
+20.                      | Impact: 0.005764 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  lost                | Impact: 0.011512
+ 2.  our                 | Impact: 0.011512
+ 3.  money               | Impact: 0.011512
+ 4.  to                  | Impact: 0.011512
+ 5.  mr                  | Impact: 0.011512
+ 6.  his                 | Impact: 0.008784
+ 7.  account             | Impact: 0.008784
+ 8.  only                | Impact: 0.008784
+ 9.  to                  | Impact: 0.008784
+10.  my                  | Impact: 0.007064
+11.  country             | Impact: 0.007064
+12.  are                 | Impact: 0.007064
+13.  seeking             | Impact: 0.007064
+14.  was                 | Impact: 0.006899
+15.  duly                | Impact: 0.006899
+16.  transferred         | Impact: 0.006899
+17.  into                | Impact: 0.006899
+18.  .                   | Impact: 0.006360
+19.                      | Impact: 0.005764
+20.  dear                | Impact: 0.005764
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  brooks              | Impact: -0.007104
+ 2.  .                   | Impact: -0.003803
+ 3.  this                | Impact: -0.000080
+ 4.  time                | Impact: -0.000080
+ 5.  around              | Impact: -0.000080
+ 6.  we                  | Impact: -0.000080
+ 7.  need                | Impact: -0.000080
+ 8.  a                   | Impact: -0.000080
+ 9.  more                | Impact: -0.000080
+10.  reliable            | Impact: -0.000080
+11.  and                 | Impact: -0.000080
+12.  trusted             | Impact: -0.000080
+13.  person              | Impact: -0.000080
+14.  or                  | Impact: -0.000080
+15.  that                | Impact: -0.000041
+16.  was                 | Impact: -0.000041
+17.  how                 | Impact: -0.000041
+18.  we                  | Impact: -0.000041
+19.  federal             | Impact: -0.000007
+20.  government          | Impact: -0.000007

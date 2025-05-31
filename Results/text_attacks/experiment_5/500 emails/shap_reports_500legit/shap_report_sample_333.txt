@@ -1,0 +1,75 @@
+Sample 333
+==========
+
+Sample text preview: Joe, EnronOnline is essentially the internet distribution channel for our gas and power business. Rather, my focus on the legacy channel is an attempt...
+
+Model prediction: [9.9979657e-01 2.0339244e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  tasks               | Impact: -0.004688 → LEGITIMATE
+ 2.  joe                 | Impact: -0.003944 → LEGITIMATE
+ 3. ron                  | Impact: -0.003562 → LEGITIMATE
+ 4.  en                  | Impact: -0.003098 → LEGITIMATE
+ 5.  specific            | Impact: -0.002931 → LEGITIMATE
+ 6.  transactions        | Impact: -0.002439 → LEGITIMATE
+ 7.  you                 | Impact: 0.001672 → PHISHING
+ 8.  will                | Impact: 0.001672 → PHISHING
+ 9.  en                  | Impact: -0.001367 → LEGITIMATE
+10.  gas                 | Impact: -0.001305 → LEGITIMATE
+11. a                    | Impact: -0.001279 → LEGITIMATE
+12.  this                | Impact: 0.001276 → PHISHING
+13.  .                   | Impact: -0.001264 → LEGITIMATE
+14.  do                  | Impact: -0.001220 → LEGITIMATE
+15.  presentation        | Impact: -0.001148 → LEGITIMATE
+16.  what                | Impact: -0.001090 → LEGITIMATE
+17. s                    | Impact: -0.001067 → LEGITIMATE
+18.  have                | Impact: 0.001036 → PHISHING
+19.  to                  | Impact: 0.001036 → PHISHING
+20.  wait                | Impact: 0.001036 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.001672
+ 2.  will                | Impact: 0.001672
+ 3.  this                | Impact: 0.001276
+ 4.  have                | Impact: 0.001036
+ 5.  to                  | Impact: 0.001036
+ 6.  wait                | Impact: 0.001036
+ 7.  and                 | Impact: 0.000747
+ 8.  internet            | Impact: 0.000687
+ 9.  and                 | Impact: 0.000536
+10.  enjoyed             | Impact: 0.000380
+11.  by                  | Impact: 0.000282
+12.  and                 | Impact: 0.000278
+13.  ?                   | Impact: 0.000186
+14.  your                | Impact: 0.000182
+15.  is                  | Impact: 0.000117
+16.  an                  | Impact: 0.000117
+17.  power               | Impact: 0.000117
+18.  business            | Impact: 0.000117
+19.  .                   | Impact: 0.000117
+20. on                   | Impact: 0.000092
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  tasks               | Impact: -0.004688
+ 2.  joe                 | Impact: -0.003944
+ 3. ron                  | Impact: -0.003562
+ 4.  en                  | Impact: -0.003098
+ 5.  specific            | Impact: -0.002931
+ 6.  transactions        | Impact: -0.002439
+ 7.  en                  | Impact: -0.001367
+ 8.  gas                 | Impact: -0.001305
+ 9. a                    | Impact: -0.001279
+10.  .                   | Impact: -0.001264
+11.  do                  | Impact: -0.001220
+12.  presentation        | Impact: -0.001148
+13.  what                | Impact: -0.001090
+14. s                    | Impact: -0.001067
+15.  distribution        | Impact: -0.001003
+16.  -                   | Impact: -0.000987
+17.  -                   | Impact: -0.000987
+18.  channel             | Impact: -0.000968
+19.  ,                   | Impact: -0.000933
+20. ron                  | Impact: -0.000909

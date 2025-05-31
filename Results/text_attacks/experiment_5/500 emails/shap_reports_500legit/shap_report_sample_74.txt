@@ -1,0 +1,73 @@
+Sample 74
+=========
+
+Sample text preview: Mr. Haffner, Attached please find a DRAFT form of confirmation, and the applicable General Terms and Conditions, for the transaction under considerati...
+
+Model prediction: [9.9973494e-01 2.6510947e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  regards             | Impact: 0.063427 → PHISHING
+ 2. ron                  | Impact: -0.058465 → LEGITIMATE
+ 3.  ,                   | Impact: 0.039747 → PHISHING
+ 4.  draft               | Impact: -0.037919 → LEGITIMATE
+ 5.  attached            | Impact: 0.037030 → PHISHING
+ 6.  north               | Impact: -0.032566 → LEGITIMATE
+ 7.  mr                  | Impact: 0.028046 → PHISHING
+ 8.  please              | Impact: 0.023033 → PHISHING
+ 9.  of                  | Impact: -0.017636 → LEGITIMATE
+10.  confirmation        | Impact: -0.015362 → LEGITIMATE
+11. ner                  | Impact: -0.014327 → LEGITIMATE
+12.  diane               | Impact: -0.012314 → LEGITIMATE
+13.  ,                   | Impact: 0.010329 → PHISHING
+14. ff                   | Impact: -0.009340 → LEGITIMATE
+15.  anderson            | Impact: -0.008839 → LEGITIMATE
+16.  ha                  | Impact: -0.008648 → LEGITIMATE
+17.  america             | Impact: 0.008316 → PHISHING
+18.  find                | Impact: 0.007493 → PHISHING
+19.  en                  | Impact: -0.007406 → LEGITIMATE
+20.  .                   | Impact: -0.006884 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.063427
+ 2.  ,                   | Impact: 0.039747
+ 3.  attached            | Impact: 0.037030
+ 4.  mr                  | Impact: 0.028046
+ 5.  please              | Impact: 0.023033
+ 6.  ,                   | Impact: 0.010329
+ 7.  america             | Impact: 0.008316
+ 8.  find                | Impact: 0.007493
+ 9.  form                | Impact: 0.006636
+10.  and                 | Impact: 0.003144
+11.  ,                   | Impact: 0.001475
+12.  the                 | Impact: 0.001058
+13.  under               | Impact: 0.000840
+14.  conditions          | Impact: 0.000641
+15.  .                   | Impact: 0.000433
+16.  the                 | Impact: 0.000052
+17.                      | Impact: 0.000027
+18.                      | Impact: 0.000025
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.058465
+ 2.  draft               | Impact: -0.037919
+ 3.  north               | Impact: -0.032566
+ 4.  of                  | Impact: -0.017636
+ 5.  confirmation        | Impact: -0.015362
+ 6. ner                  | Impact: -0.014327
+ 7.  diane               | Impact: -0.012314
+ 8. ff                   | Impact: -0.009340
+ 9.  anderson            | Impact: -0.008839
+10.  ha                  | Impact: -0.008648
+11.  en                  | Impact: -0.007406
+12.  .                   | Impact: -0.006884
+13.  ,                   | Impact: -0.005411
+14.  applicable          | Impact: -0.003616
+15.  a                   | Impact: -0.001946
+16.  and                 | Impact: -0.001623
+17.  transaction         | Impact: -0.001567
+18.  general             | Impact: -0.001366
+19.  consideration       | Impact: -0.001257
+20.  terms               | Impact: -0.000911

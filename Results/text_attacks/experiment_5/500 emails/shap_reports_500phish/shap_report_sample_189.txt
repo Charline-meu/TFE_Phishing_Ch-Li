@@ -1,0 +1,61 @@
+Sample 189
+==========
+
+Sample text preview: All Staff are expected to update to the new software upgrade, there will be change in Operability. To continue having access to your online Activities...
+
+Model prediction: [3.1061881e-04 9.9968946e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  &                   | Impact: 0.066373 → PHISHING
+ 2.  mobile              | Impact: 0.036880 → PHISHING
+ 3.  reply               | Impact: 0.031727 → PHISHING
+ 4.  this                | Impact: 0.027939 → PHISHING
+ 5.  message             | Impact: 0.027209 → PHISHING
+ 6.  email               | Impact: 0.026919 → PHISHING
+ 7.  please              | Impact: 0.026691 → PHISHING
+ 8. bility               | Impact: 0.026654 → PHISHING
+ 9.  click               | Impact: 0.026617 → PHISHING
+10.  software            | Impact: 0.024763 → PHISHING
+11.  kindly              | Impact: 0.024469 → PHISHING
+12.  is                  | Impact: 0.022819 → PHISHING
+13.  sent                | Impact: 0.022819 → PHISHING
+14.  mail                | Impact: 0.021422 → PHISHING
+15.  <                   | Impact: 0.021193 → PHISHING
+16.  messages            | Impact: 0.019779 → PHISHING
+17. mail                 | Impact: 0.018541 → PHISHING
+18.  this                | Impact: 0.018123 → PHISHING
+19.  upgrade             | Impact: 0.017448 → PHISHING
+20.  details             | Impact: 0.016911 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  &                   | Impact: 0.066373
+ 2.  mobile              | Impact: 0.036880
+ 3.  reply               | Impact: 0.031727
+ 4.  this                | Impact: 0.027939
+ 5.  message             | Impact: 0.027209
+ 6.  email               | Impact: 0.026919
+ 7.  please              | Impact: 0.026691
+ 8. bility               | Impact: 0.026654
+ 9.  click               | Impact: 0.026617
+10.  software            | Impact: 0.024763
+11.  kindly              | Impact: 0.024469
+12.  is                  | Impact: 0.022819
+13.  sent                | Impact: 0.022819
+14.  mail                | Impact: 0.021422
+15.  <                   | Impact: 0.021193
+16.  messages            | Impact: 0.019779
+17. mail                 | Impact: 0.018541
+18.  this                | Impact: 0.018123
+19.  upgrade             | Impact: 0.017448
+20.  details             | Impact: 0.016911
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  flexibility         | Impact: -0.009479
+ 2.  and                 | Impact: -0.008382
+ 3.  calendar            | Impact: -0.005371
+ 4.  che                 | Impact: -0.004482
+ 5.  desk                | Impact: -0.003626
+ 6.  /                   | Impact: -0.002143

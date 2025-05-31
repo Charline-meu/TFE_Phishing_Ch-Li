@@ -1,0 +1,75 @@
+Sample 203
+==========
+
+Sample text preview: It seems to only support PPPoA and not PPPoE. You need one that supports PPPoE, if you want torun it in routed IP mode. If you are using it as a bridg...
+
+Model prediction: [9.9964416e-01 3.5577847e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  .                   | Impact: -0.002040 → LEGITIMATE
+ 2.  maintain            | Impact: -0.001732 → LEGITIMATE
+ 3.  it                  | Impact: 0.001730 → PHISHING
+ 4.  come                | Impact: 0.001708 → PHISHING
+ 5.  linux               | Impact: -0.001704 → LEGITIMATE
+ 6.  routed              | Impact: 0.001617 → PHISHING
+ 7.  tor                 | Impact: -0.001564 → LEGITIMATE
+ 8. ir                   | Impact: -0.001532 → LEGITIMATE
+ 9.  supports            | Impact: -0.001508 → LEGITIMATE
+10.  useful              | Impact: -0.001469 → LEGITIMATE
+11.  pp                  | Impact: -0.001395 → LEGITIMATE
+12.  route               | Impact: -0.001369 → LEGITIMATE
+13.  seems               | Impact: -0.001338 → LEGITIMATE
+14.  :                   | Impact: -0.001334 → LEGITIMATE
+15.  -                   | Impact: -0.001244 → LEGITIMATE
+16.  supply              | Impact: -0.001204 → LEGITIMATE
+17.  support             | Impact: -0.001164 → LEGITIMATE
+18.  pp                  | Impact: -0.001090 → LEGITIMATE
+19. po                   | Impact: -0.000961 → LEGITIMATE
+20.  if                  | Impact: -0.000952 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  it                  | Impact: 0.001730
+ 2.  come                | Impact: 0.001708
+ 3.  routed              | Impact: 0.001617
+ 4.  ve                  | Impact: 0.000861
+ 5.  this                | Impact: 0.000744
+ 6.  irish               | Impact: 0.000676
+ 7.  hope                | Impact: 0.000584
+ 8.  the                 | Impact: 0.000533
+ 9.  you                 | Impact: 0.000349
+10.  list                | Impact: 0.000330
+11. com                  | Impact: 0.000224
+12.  but                 | Impact: 0.000220
+13.  and                 | Impact: 0.000195
+14. ross                 | Impact: 0.000190
+15.  .                   | Impact: 0.000171
+16.  only                | Impact: 0.000147
+17.  you                 | Impact: 0.000145
+18.  '                   | Impact: 0.000145
+19.  d                   | Impact: 0.000145
+20.  be                  | Impact: 0.000145
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.002040
+ 2.  maintain            | Impact: -0.001732
+ 3.  linux               | Impact: -0.001704
+ 4.  tor                 | Impact: -0.001564
+ 5. ir                   | Impact: -0.001532
+ 6.  supports            | Impact: -0.001508
+ 7.  useful              | Impact: -0.001469
+ 8.  pp                  | Impact: -0.001395
+ 9.  route               | Impact: -0.001369
+10.  seems               | Impact: -0.001338
+11.  :                   | Impact: -0.001334
+12.  -                   | Impact: -0.001244
+13.  supply              | Impact: -0.001204
+14.  support             | Impact: -0.001164
+15.  pp                  | Impact: -0.001090
+16. po                   | Impact: -0.000961
+17.  if                  | Impact: -0.000952
+18. er                   | Impact: -0.000946
+19.  acc                 | Impact: -0.000902
+20.  to                  | Impact: -0.000823

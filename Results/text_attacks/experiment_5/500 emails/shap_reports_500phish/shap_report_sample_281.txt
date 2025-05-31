@@ -1,0 +1,68 @@
+Sample 281
+==========
+
+Sample text preview: Dear Sir/Madam Compliment of the day to you . I got your contact through business search from the internet. I am Mr.Kofi Zuma, Account Manager of Stan...
+
+Model prediction: [1.7186627e-04 9.9982810e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.008977 → PHISHING
+ 2.  .                   | Impact: 0.008977 → PHISHING
+ 3.  transfer            | Impact: 0.008120 → PHISHING
+ 4.  of                  | Impact: 0.008120 → PHISHING
+ 5.  this                | Impact: 0.008120 → PHISHING
+ 6.  money               | Impact: 0.008120 → PHISHING
+ 7.  paid                | Impact: 0.007337 → PHISHING
+ 8.  into                | Impact: 0.007337 → PHISHING
+ 9.  your                | Impact: 0.007337 → PHISHING
+10.  account             | Impact: 0.007337 → PHISHING
+11.  discovered          | Impact: 0.007290 → PHISHING
+12.  that                | Impact: 0.007290 → PHISHING
+13.  mr                  | Impact: 0.007290 → PHISHING
+14.  .                   | Impact: 0.007290 → PHISHING
+15.  a                   | Impact: 0.006837 → PHISHING
+16.  bank                | Impact: 0.006837 → PHISHING
+17.  account             | Impact: 0.006837 → PHISHING
+18.  in                  | Impact: 0.006837 → PHISHING
+19.  ben                 | Impact: 0.006432 → PHISHING
+20. ef                   | Impact: 0.006432 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.008977
+ 2.  .                   | Impact: 0.008977
+ 3.  transfer            | Impact: 0.008120
+ 4.  of                  | Impact: 0.008120
+ 5.  this                | Impact: 0.008120
+ 6.  money               | Impact: 0.008120
+ 7.  paid                | Impact: 0.007337
+ 8.  into                | Impact: 0.007337
+ 9.  your                | Impact: 0.007337
+10.  account             | Impact: 0.007337
+11.  discovered          | Impact: 0.007290
+12.  that                | Impact: 0.007290
+13.  mr                  | Impact: 0.007290
+14.  .                   | Impact: 0.007290
+15.  a                   | Impact: 0.006837
+16.  bank                | Impact: 0.006837
+17.  account             | Impact: 0.006837
+18.  in                  | Impact: 0.006837
+19.  ben                 | Impact: 0.006432
+20. ef                   | Impact: 0.006432
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  michael             | Impact: -0.000952
+ 2.  creek               | Impact: -0.000952
+ 3.  ,                   | Impact: -0.000952
+ 4.  notification        | Impact: -0.000322
+ 5.  to                  | Impact: -0.000322
+ 6.  his                 | Impact: -0.000322
+ 7.  forward             | Impact: -0.000322
+ 8. ing                  | Impact: -0.000322
+ 9.  address             | Impact: -0.000322
+10.  i                   | Impact: -0.000322
+11.  sent                | Impact: -0.000322
+12.  a                   | Impact: -0.000322
+13.  routine             | Impact: -0.000322

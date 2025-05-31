@@ -1,0 +1,73 @@
+Sample 71
+=========
+
+Sample text preview: Pennies a day Legal Services for Less than a Penny Per Day You can have a Top Law Firm in your area produce a Will for you, absolutely FREE , with you...
+
+Model prediction: [1.9145358e-04 9.9980861e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.057207 → PHISHING
+ 2.  letters             | Impact: 0.029420 → PHISHING
+ 3.  phone               | Impact: 0.025739 → PHISHING
+ 4.  you                 | Impact: 0.020890 → PHISHING
+ 5. z                    | Impact: 0.020127 → PHISHING
+ 6.  behalf              | Impact: 0.019739 → PHISHING
+ 7.  audit               | Impact: -0.019498 → LEGITIMATE
+ 8.  will                | Impact: 0.018724 → PHISHING
+ 9.  a                   | Impact: 0.018037 → PHISHING
+10.  unlimited           | Impact: 0.016808 → PHISHING
+11.  legal               | Impact: 0.016756 → PHISHING
+12.  in                  | Impact: 0.015670 → PHISHING
+13.  your                | Impact: 0.015670 → PHISHING
+14.  for                 | Impact: 0.014313 → PHISHING
+15.  message             | Impact: 0.014101 → PHISHING
+16.  with                | Impact: 0.014101 → PHISHING
+17.  firm                | Impact: 0.013903 → PHISHING
+18.  law                 | Impact: 0.013622 → PHISHING
+19.  !                   | Impact: 0.013318 → PHISHING
+20.  further             | Impact: 0.012612 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.057207
+ 2.  letters             | Impact: 0.029420
+ 3.  phone               | Impact: 0.025739
+ 4.  you                 | Impact: 0.020890
+ 5. z                    | Impact: 0.020127
+ 6.  behalf              | Impact: 0.019739
+ 7.  will                | Impact: 0.018724
+ 8.  a                   | Impact: 0.018037
+ 9.  unlimited           | Impact: 0.016808
+10.  legal               | Impact: 0.016756
+11.  in                  | Impact: 0.015670
+12.  your                | Impact: 0.015670
+13.  for                 | Impact: 0.014313
+14.  message             | Impact: 0.014101
+15.  with                | Impact: 0.014101
+16.  firm                | Impact: 0.013903
+17.  law                 | Impact: 0.013622
+18.  !                   | Impact: 0.013318
+19.  further             | Impact: 0.012612
+20.  notice              | Impact: 0.012612
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  audit               | Impact: -0.019498
+ 2.  i                   | Impact: -0.009701
+ 3.  trial               | Impact: -0.006161
+ 4.  defense             | Impact: -0.006161
+ 5.  protection          | Impact: -0.005839
+ 6.  u                   | Impact: -0.000721
+ 7.  e                   | Impact: -0.000721
+ 8.  "                   | Impact: -0.000721
+ 9.  in                  | Impact: -0.000721
+10.  the                 | Impact: -0.000721
+11.  subject             | Impact: -0.000721
+12.  line                | Impact: -0.000721
+13.  .                   | Impact: -0.000721
+14.  of                  | Impact: -0.000441
+15.  our                 | Impact: -0.000441
+16.  databases           | Impact: -0.000441
+17.  ,                   | Impact: -0.000441
+18.  ,                   | Impact: -0.000017

@@ -1,0 +1,75 @@
+Sample 178
+==========
+
+Sample text preview: Mam nowy adres elektroniczny!Odtad listy do mnie nalezy wysylac na adres: FROM MISS MARIA DENISE ADDRESS/ AVE RUE ABIDJAN COTE D IVOIRE Dearest Belove...
+
+Model prediction: [1.8766084e-04 9.9981230e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sir                 | Impact: 0.010146 → PHISHING
+ 2.  ,                   | Impact: 0.010146 → PHISHING
+ 3.  miss                | Impact: 0.008464 → PHISHING
+ 4.  maria               | Impact: 0.008464 → PHISHING
+ 5.  denise              | Impact: 0.008464 → PHISHING
+ 6.  .                   | Impact: 0.008464 → PHISHING
+ 7.  my                  | Impact: 0.008100 → PHISHING
+ 8.  sincere             | Impact: 0.008100 → PHISHING
+ 9.  regards             | Impact: 0.008100 → PHISHING
+10.  ,                   | Impact: 0.008100 → PHISHING
+11.  i                   | Impact: 0.006659 → PHISHING
+12.  am                  | Impact: 0.006659 → PHISHING
+13.  in                  | Impact: 0.006659 → PHISHING
+14.  a                   | Impact: 0.006659 → PHISHING
+15.  sincere             | Impact: 0.006659 → PHISHING
+16.  desire              | Impact: 0.006659 → PHISHING
+17.  of                  | Impact: 0.006659 → PHISHING
+18.  your                | Impact: 0.006659 → PHISHING
+19.  ma                  | Impact: 0.006238 → PHISHING
+20. m                    | Impact: 0.006238 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sir                 | Impact: 0.010146
+ 2.  ,                   | Impact: 0.010146
+ 3.  miss                | Impact: 0.008464
+ 4.  maria               | Impact: 0.008464
+ 5.  denise              | Impact: 0.008464
+ 6.  .                   | Impact: 0.008464
+ 7.  my                  | Impact: 0.008100
+ 8.  sincere             | Impact: 0.008100
+ 9.  regards             | Impact: 0.008100
+10.  ,                   | Impact: 0.008100
+11.  i                   | Impact: 0.006659
+12.  am                  | Impact: 0.006659
+13.  in                  | Impact: 0.006659
+14.  a                   | Impact: 0.006659
+15.  sincere             | Impact: 0.006659
+16.  desire              | Impact: 0.006659
+17.  of                  | Impact: 0.006659
+18.  your                | Impact: 0.006659
+19.  ma                  | Impact: 0.006238
+20. m                    | Impact: 0.006238
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  feb                 | Impact: -0.006231
+ 2. uary                 | Impact: -0.006231
+ 3.  a                   | Impact: -0.004558
+ 4.  university          | Impact: -0.004558
+ 5.  undergraduate       | Impact: -0.004558
+ 6.  ideas               | Impact: -0.002875
+ 7.  will                | Impact: -0.002875
+ 8.  be                  | Impact: -0.002875
+ 9.  highly              | Impact: -0.002875
+10.  regarded            | Impact: -0.002875
+11.  .                   | Impact: -0.002875
+12.  your                | Impact: -0.002584
+13.  suggestions         | Impact: -0.002584
+14.  and                 | Impact: -0.002584
+15.  know                | Impact: -0.001965
+16.  the                 | Impact: -0.001965
+17.  content             | Impact: -0.001965
+18.  because             | Impact: -0.001965
+19.  .                   | Impact: -0.001790
+20.  and                 | Impact: -0.001584

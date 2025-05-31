@@ -1,0 +1,68 @@
+Phishing Sample 68
+==================
+
+Sample text preview: Dear Usaa Customer, You have an incoming payment selected for your account. This transaction cannot be completed due to errors present in your account...
+
+Model prediction: [1.8326011e-04 9.9981672e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.155828 → PHISHING
+ 2.  dear                | Impact: 0.113572 → PHISHING
+ 3.  us                  | Impact: 0.060064 → PHISHING
+ 4.  your                | Impact: 0.054804 → PHISHING
+ 5.  serve               | Impact: 0.054706 → PHISHING
+ 6.  you                 | Impact: 0.050225 → PHISHING
+ 7.  account             | Impact: 0.049847 → PHISHING
+ 8.  usa                 | Impact: 0.043293 → PHISHING
+ 9.  account             | Impact: 0.037973 → PHISHING
+10.  helping             | Impact: 0.034276 → PHISHING
+11.  your                | Impact: 0.030531 → PHISHING
+12.  you                 | Impact: 0.029960 → PHISHING
+13.  sign                | Impact: 0.025131 → PHISHING
+14.  in                  | Impact: 0.020266 → PHISHING
+15.  payment             | Impact: 0.019043 → PHISHING
+16.  errors              | Impact: -0.017228 → LEGITIMATE
+17. a                    | Impact: -0.015667 → LEGITIMATE
+18.  below               | Impact: 0.013715 → PHISHING
+19.  usa                 | Impact: 0.013604 → PHISHING
+20.  thank               | Impact: 0.012706 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.155828
+ 2.  dear                | Impact: 0.113572
+ 3.  us                  | Impact: 0.060064
+ 4.  your                | Impact: 0.054804
+ 5.  serve               | Impact: 0.054706
+ 6.  you                 | Impact: 0.050225
+ 7.  account             | Impact: 0.049847
+ 8.  usa                 | Impact: 0.043293
+ 9.  account             | Impact: 0.037973
+10.  helping             | Impact: 0.034276
+11.  your                | Impact: 0.030531
+12.  you                 | Impact: 0.029960
+13.  sign                | Impact: 0.025131
+14.  in                  | Impact: 0.020266
+15.  payment             | Impact: 0.019043
+16.  below               | Impact: 0.013715
+17.  usa                 | Impact: 0.013604
+18.  thank               | Impact: 0.012706
+19.  information         | Impact: 0.012477
+20.  you                 | Impact: 0.011757
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  errors              | Impact: -0.017228
+ 2. a                    | Impact: -0.015667
+ 3.  customer            | Impact: -0.008740
+ 4.  problem             | Impact: -0.007297
+ 5.  .                   | Impact: -0.006659
+ 6.  log                 | Impact: -0.003374
+ 7. a                    | Impact: -0.003108
+ 8.  .                   | Impact: -0.002661
+ 9.  selected            | Impact: -0.002423
+10.  customer            | Impact: -0.002001
+11.  ,                   | Impact: -0.001207
+12.  to                  | Impact: -0.000503
+13.  an                  | Impact: -0.000287

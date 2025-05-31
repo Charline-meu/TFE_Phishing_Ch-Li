@@ -1,0 +1,62 @@
+Sample 496
+==========
+
+Sample text preview: CDear Friend, I apologize if the contents in this mail are contrary to your moral ethics, which I feel may be of great disturbance to your personal li...
+
+Model prediction: [1.6955700e-04 9.9983037e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.008764 → PHISHING
+ 2.  bank                | Impact: 0.008764 → PHISHING
+ 3.  account             | Impact: 0.007698 → PHISHING
+ 4.  number              | Impact: 0.007698 → PHISHING
+ 5.  transfer            | Impact: 0.006394 → PHISHING
+ 6.  of                  | Impact: 0.006394 → PHISHING
+ 7.  this                | Impact: 0.006394 → PHISHING
+ 8.  fund                | Impact: 0.006394 → PHISHING
+ 9.  i                   | Impact: 0.004968 → PHISHING
+10.  will                | Impact: 0.004968 → PHISHING
+11.  visit               | Impact: 0.004968 → PHISHING
+12.  your                | Impact: 0.004968 → PHISHING
+13.  country             | Impact: 0.004968 → PHISHING
+14.  for                 | Impact: 0.004968 → PHISHING
+15.  claim               | Impact: 0.004815 → PHISHING
+16.  his                 | Impact: 0.004815 → PHISHING
+17.  money               | Impact: 0.004815 → PHISHING
+18.  because             | Impact: 0.004815 → PHISHING
+19.  location            | Impact: 0.003749 → PHISHING
+20.  where               | Impact: 0.003749 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.008764
+ 2.  bank                | Impact: 0.008764
+ 3.  account             | Impact: 0.007698
+ 4.  number              | Impact: 0.007698
+ 5.  transfer            | Impact: 0.006394
+ 6.  of                  | Impact: 0.006394
+ 7.  this                | Impact: 0.006394
+ 8.  fund                | Impact: 0.006394
+ 9.  i                   | Impact: 0.004968
+10.  will                | Impact: 0.004968
+11.  visit               | Impact: 0.004968
+12.  your                | Impact: 0.004968
+13.  country             | Impact: 0.004968
+14.  for                 | Impact: 0.004968
+15.  claim               | Impact: 0.004815
+16.  his                 | Impact: 0.004815
+17.  money               | Impact: 0.004815
+18.  because             | Impact: 0.004815
+19.  location            | Impact: 0.003749
+20.  where               | Impact: 0.003749
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  un                  | Impact: -0.000302
+ 2. claim                | Impact: -0.000302
+ 3. ed                   | Impact: -0.000302
+ 4.  bill                | Impact: -0.000302
+ 5.  .                   | Impact: -0.000302
+ 6.  treasury            | Impact: -0.000302
+ 7.  as                  | Impact: -0.000302

@@ -1,0 +1,75 @@
+Sample 90
+=========
+
+Sample text preview: FROM THE DESK OF Dr.PISSA KABORE AUDITING AND ACCOUNTING MANEGER, BANK OF AFRICA (B.O.A) OUAGADOUGOU-BURKINA FASO. DEAR FRIEND, I KNEW THIS MESSAGE WI...
+
+Model prediction: [2.0718182e-04 9.9979287e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.019681 → PHISHING
+ 2.  friend              | Impact: 0.019681 → PHISHING
+ 3.  ,                   | Impact: 0.010565 → PHISHING
+ 4.  process             | Impact: 0.007440 → PHISHING
+ 5.  before              | Impact: 0.007440 → PHISHING
+ 6.  the                 | Impact: 0.007440 → PHISHING
+ 7.  fund                | Impact: 0.007440 → PHISHING
+ 8.  get                 | Impact: 0.007440 → PHISHING
+ 9.  into                | Impact: 0.007440 → PHISHING
+10.  your                | Impact: 0.007440 → PHISHING
+11.  bank                | Impact: 0.007440 → PHISHING
+12.  million             | Impact: 0.007396 → PHISHING
+13.  to                  | Impact: 0.007396 → PHISHING
+14.  your                | Impact: 0.007396 → PHISHING
+15.  account             | Impact: 0.007396 → PHISHING
+16.  you                 | Impact: 0.006207 → PHISHING
+17.  for                 | Impact: 0.006207 → PHISHING
+18.  the                 | Impact: 0.006207 → PHISHING
+19.  mutual              | Impact: 0.006207 → PHISHING
+20.  your                | Impact: 0.005918 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.019681
+ 2.  friend              | Impact: 0.019681
+ 3.  ,                   | Impact: 0.010565
+ 4.  process             | Impact: 0.007440
+ 5.  before              | Impact: 0.007440
+ 6.  the                 | Impact: 0.007440
+ 7.  fund                | Impact: 0.007440
+ 8.  get                 | Impact: 0.007440
+ 9.  into                | Impact: 0.007440
+10.  your                | Impact: 0.007440
+11.  bank                | Impact: 0.007440
+12.  million             | Impact: 0.007396
+13.  to                  | Impact: 0.007396
+14.  your                | Impact: 0.007396
+15.  account             | Impact: 0.007396
+16.  you                 | Impact: 0.006207
+17.  for                 | Impact: 0.006207
+18.  the                 | Impact: 0.006207
+19.  mutual              | Impact: 0.006207
+20.  your                | Impact: 0.005918
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  piss                | Impact: -0.000592
+ 2. a                    | Impact: -0.000592
+ 3.  ka                  | Impact: -0.000592
+ 4. bor                  | Impact: -0.000592
+ 5. e                    | Impact: -0.000592
+ 6.  audit               | Impact: -0.000592
+ 7. ing                  | Impact: -0.000592
+ 8.  and                 | Impact: -0.000592
+ 9.  accounting          | Impact: -0.000592
+10.  mane                | Impact: -0.000592
+11. ger                  | Impact: -0.000592
+12.  ,                   | Impact: -0.000592
+13.  bank                | Impact: -0.000592
+14.  of                  | Impact: -0.000592
+15.  africa              | Impact: -0.000592
+16.  .                   | Impact: -0.000234
+17.  .                   | Impact: -0.000234
+18.  .                   | Impact: -0.000234
+19.  .                   | Impact: -0.000234
+20.  .                   | Impact: -0.000234

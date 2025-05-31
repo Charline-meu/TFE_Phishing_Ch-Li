@@ -1,0 +1,75 @@
+Sample 386
+==========
+
+Sample text preview: Kay: FYI. Fred ---------------------- Forwarded by Fred Mitro/HOU/ECT on // : PM --------------------------- Fred Mitro // : PM To: Stuart Zisman/HOU/...
+
+Model prediction: [9.9977845e-01 2.2151921e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  piper               | Impact: -0.043696 → LEGITIMATE
+ 2.  please              | Impact: 0.014562 → PHISHING
+ 3.  visit               | Impact: 0.014562 → PHISHING
+ 4.  us                  | Impact: 0.013903 → PHISHING
+ 5.  at                  | Impact: 0.013903 → PHISHING
+ 6.  information         | Impact: -0.012422 → LEGITIMATE
+ 7.  about               | Impact: -0.012422 → LEGITIMATE
+ 8.  w                   | Impact: -0.007887 → LEGITIMATE
+ 9. pd                   | Impact: -0.007887 → LEGITIMATE
+10.  >                   | Impact: -0.007887 → LEGITIMATE
+11.  >                   | Impact: -0.007887 → LEGITIMATE
+12.  here                | Impact: 0.005453 → PHISHING
+13. by                   | Impact: 0.005453 → PHISHING
+14.  you                 | Impact: 0.005332 → PHISHING
+15.  are                 | Impact: 0.005332 → PHISHING
+16.  &                   | Impact: -0.005087 → LEGITIMATE
+17.  wolfe               | Impact: -0.005087 → LEGITIMATE
+18.  ru                  | Impact: -0.003674 → LEGITIMATE
+19. d                    | Impact: -0.003674 → LEGITIMATE
+20. nick                 | Impact: -0.003674 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  please              | Impact: 0.014562
+ 2.  visit               | Impact: 0.014562
+ 3.  us                  | Impact: 0.013903
+ 4.  at                  | Impact: 0.013903
+ 5.  here                | Impact: 0.005453
+ 6. by                   | Impact: 0.005453
+ 7.  you                 | Impact: 0.005332
+ 8.  are                 | Impact: 0.005332
+ 9.  notified            | Impact: 0.003488
+10.  that                | Impact: 0.003488
+11.  any                 | Impact: 0.003488
+12.  dissemination       | Impact: 0.003488
+13.  ,                   | Impact: 0.003488
+14.  _                   | Impact: 0.002476
+15.  _                   | Impact: 0.002476
+16.  _                   | Impact: 0.002476
+17.  _                   | Impact: 0.002476
+18.  _                   | Impact: 0.002462
+19.  _                   | Impact: 0.002462
+20.  _                   | Impact: 0.002462
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  piper               | Impact: -0.043696
+ 2.  information         | Impact: -0.012422
+ 3.  about               | Impact: -0.012422
+ 4.  w                   | Impact: -0.007887
+ 5. pd                   | Impact: -0.007887
+ 6.  >                   | Impact: -0.007887
+ 7.  >                   | Impact: -0.007887
+ 8.  &                   | Impact: -0.005087
+ 9.  wolfe               | Impact: -0.005087
+10.  ru                  | Impact: -0.003674
+11. d                    | Impact: -0.003674
+12. nick                 | Impact: -0.003674
+13.  for                 | Impact: -0.002794
+14.  more                | Impact: -0.002794
+15.  mar                 | Impact: -0.002718
+16. bury                 | Impact: -0.002718
+17.  ,                   | Impact: -0.002291
+18.  _                   | Impact: -0.002128
+19.  _                   | Impact: -0.002128
+20.  _                   | Impact: -0.002128

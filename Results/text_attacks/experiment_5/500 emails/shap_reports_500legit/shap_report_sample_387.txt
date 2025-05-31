@@ -1,0 +1,75 @@
+Sample 387
+==========
+
+Sample text preview: I'm a new user (or about to be, hopefully) of SA but I've run into some compilation errors that prevent me from installing. Rather than picking throug...
+
+Model prediction: [9.9975520e-01 2.4476898e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  pa                  | Impact: -0.001413 → LEGITIMATE
+ 2.  phone               | Impact: -0.001413 → LEGITIMATE
+ 3.  :                   | Impact: -0.001413 → LEGITIMATE
+ 4.  (                   | Impact: -0.001413 → LEGITIMATE
+ 5.  )                   | Impact: -0.001413 → LEGITIMATE
+ 6.  (                   | Impact: -0.001390 → LEGITIMATE
+ 7.  h                   | Impact: 0.001194 → PHISHING
+ 8.  into                | Impact: -0.001094 → LEGITIMATE
+ 9.  some                | Impact: -0.001094 → LEGITIMATE
+10.  compilation         | Impact: -0.001094 → LEGITIMATE
+11.  errors              | Impact: -0.001094 → LEGITIMATE
+12.  but                 | Impact: -0.000871 → LEGITIMATE
+13.  if                  | Impact: 0.000795 → PHISHING
+14.  of                  | Impact: -0.000725 → LEGITIMATE
+15.  sa                  | Impact: -0.000725 → LEGITIMATE
+16.  -                   | Impact: -0.000704 → LEGITIMATE
+17.  fa                  | Impact: -0.000704 → LEGITIMATE
+18. x                    | Impact: -0.000704 → LEGITIMATE
+19.  :                   | Impact: -0.000704 → LEGITIMATE
+20.  (                   | Impact: -0.000704 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  h                   | Impact: 0.001194
+ 2.  if                  | Impact: 0.000795
+ 3.  in                  | Impact: 0.000465
+ 4.  file                | Impact: 0.000465
+ 5.  /                   | Impact: 0.000465
+ 6.  line                | Impact: 0.000357
+ 7.  number              | Impact: 0.000357
+ 8.  .                   | Impact: 0.000351
+ 9.  typed               | Impact: 0.000303
+10. ef                   | Impact: 0.000303
+11.  unsigned            | Impact: 0.000303
+12.  long                | Impact: 0.000303
+13.  in                  | Impact: 0.000303
+14.  _                   | Impact: 0.000303
+15.  add                 | Impact: 0.000303
+16. r                    | Impact: 0.000303
+17.  =                   | Impact: 0.000285
+18.  =                   | Impact: 0.000285
+19.  =                   | Impact: 0.000285
+20.  =                   | Impact: 0.000285
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  pa                  | Impact: -0.001413
+ 2.  phone               | Impact: -0.001413
+ 3.  :                   | Impact: -0.001413
+ 4.  (                   | Impact: -0.001413
+ 5.  )                   | Impact: -0.001413
+ 6.  (                   | Impact: -0.001390
+ 7.  into                | Impact: -0.001094
+ 8.  some                | Impact: -0.001094
+ 9.  compilation         | Impact: -0.001094
+10.  errors              | Impact: -0.001094
+11.  but                 | Impact: -0.000871
+12.  of                  | Impact: -0.000725
+13.  sa                  | Impact: -0.000725
+14.  -                   | Impact: -0.000704
+15.  fa                  | Impact: -0.000704
+16. x                    | Impact: -0.000704
+17.  :                   | Impact: -0.000704
+18.  (                   | Impact: -0.000704
+19.  )                   | Impact: -0.000704
+20.  sy                  | Impact: -0.000680

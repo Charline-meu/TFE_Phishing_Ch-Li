@@ -1,0 +1,75 @@
+Sample 77
+=========
+
+Sample text preview: Yahoo! News Edit Breaking News Alerts - Yahoo! Breaking News Alert edit WASHINGTON _ Business inventories fall . percent in March. [IMAGE] [IMAGE] If ...
+
+Model prediction: [9.9964428e-01 3.5568894e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.140272 → PHISHING
+ 2.  image               | Impact: -0.101901 → LEGITIMATE
+ 3.  ]                   | Impact: -0.060483 → LEGITIMATE
+ 4.  image               | Impact: -0.053123 → LEGITIMATE
+ 5.  ]                   | Impact: -0.036720 → LEGITIMATE
+ 6.  [                   | Impact: -0.034302 → LEGITIMATE
+ 7.  here                | Impact: 0.033965 → PHISHING
+ 8.  [                   | Impact: -0.029239 → LEGITIMATE
+ 9.  yahoo               | Impact: 0.028401 → PHISHING
+10.  alert               | Impact: 0.020761 → PHISHING
+11.  !                   | Impact: 0.019168 → PHISHING
+12.  receive             | Impact: 0.014808 → PHISHING
+13.  feedback            | Impact: -0.013025 → LEGITIMATE
+14.  this                | Impact: 0.011189 → PHISHING
+15. ibe                  | Impact: -0.011008 → LEGITIMATE
+16.  you                 | Impact: 0.010587 → PHISHING
+17.  questions           | Impact: -0.010149 → LEGITIMATE
+18.  alert               | Impact: -0.009674 → LEGITIMATE
+19. su                   | Impact: -0.009506 → LEGITIMATE
+20.  un                  | Impact: 0.008320 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.140272
+ 2.  here                | Impact: 0.033965
+ 3.  yahoo               | Impact: 0.028401
+ 4.  alert               | Impact: 0.020761
+ 5.  !                   | Impact: 0.019168
+ 6.  receive             | Impact: 0.014808
+ 7.  this                | Impact: 0.011189
+ 8.  you                 | Impact: 0.010587
+ 9.  un                  | Impact: 0.008320
+10.  yahoo               | Impact: 0.008315
+11. cr                   | Impact: 0.007944
+12.  copyright           | Impact: 0.007189
+13.  wish                | Impact: 0.006763
+14.  breaking            | Impact: 0.006262
+15.  ,                   | Impact: 0.006191
+16.  to                  | Impact: 0.005630
+17.  all                 | Impact: 0.005381
+18.  rights              | Impact: 0.005381
+19.  longer              | Impact: 0.005334
+20.  reserved            | Impact: 0.005309
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  image               | Impact: -0.101901
+ 2.  ]                   | Impact: -0.060483
+ 3.  image               | Impact: -0.053123
+ 4.  ]                   | Impact: -0.036720
+ 5.  [                   | Impact: -0.034302
+ 6.  [                   | Impact: -0.029239
+ 7.  feedback            | Impact: -0.013025
+ 8. ibe                  | Impact: -0.011008
+ 9.  questions           | Impact: -0.010149
+10.  alert               | Impact: -0.009674
+11. su                   | Impact: -0.009506
+12.  -                   | Impact: -0.008169
+13.  if                  | Impact: -0.007037
+14.  news                | Impact: -0.006580
+15.  yahoo               | Impact: -0.005522
+16. s                    | Impact: -0.003923
+17.  have                | Impact: -0.002828
+18.  news                | Impact: -0.002277
+19.  !                   | Impact: -0.002151
+20.  edit                | Impact: -0.001845

@@ -1,0 +1,75 @@
+Sample 126
+==========
+
+Sample text preview: the only way to insure a safe key is to use all the storage space in the universe. too big to decrypt. my point is there will never be a "safe" key. w...
+
+Model prediction: [0.9957592 0.0042408]
+Predicted class: LEGITIMATE with 0.9958 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  je                  | Impact: -0.059469 → LEGITIMATE
+ 2.  money               | Impact: 0.052530 → PHISHING
+ 3.  back                | Impact: 0.031202 → PHISHING
+ 4. f                    | Impact: -0.021648 → LEGITIMATE
+ 5.  for                 | Impact: -0.016563 → LEGITIMATE
+ 6.  example             | Impact: -0.016563 → LEGITIMATE
+ 7.  .                   | Impact: -0.015308 → LEGITIMATE
+ 8.  .                   | Impact: -0.014721 → LEGITIMATE
+ 9.  get                 | Impact: 0.010675 → PHISHING
+10.  my                  | Impact: 0.010675 → PHISHING
+11.  .                   | Impact: 0.007859 → PHISHING
+12.  to                  | Impact: 0.006768 → PHISHING
+13.  the                 | Impact: 0.006768 → PHISHING
+14.  public              | Impact: 0.006768 → PHISHING
+15.  .                   | Impact: 0.006768 → PHISHING
+16.  do                  | Impact: 0.005975 → PHISHING
+17.  not                 | Impact: 0.005975 → PHISHING
+18.  release             | Impact: 0.005975 → PHISHING
+19.  it                  | Impact: 0.005975 → PHISHING
+20.  software            | Impact: -0.005564 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.052530
+ 2.  back                | Impact: 0.031202
+ 3.  get                 | Impact: 0.010675
+ 4.  my                  | Impact: 0.010675
+ 5.  .                   | Impact: 0.007859
+ 6.  to                  | Impact: 0.006768
+ 7.  the                 | Impact: 0.006768
+ 8.  public              | Impact: 0.006768
+ 9.  .                   | Impact: 0.006768
+10.  do                  | Impact: 0.005975
+11.  not                 | Impact: 0.005975
+12.  release             | Impact: 0.005975
+13.  it                  | Impact: 0.005975
+14.  ins                 | Impact: 0.003803
+15. ure                  | Impact: 0.003803
+16.  a                   | Impact: 0.003803
+17.  safe                | Impact: 0.003803
+18.  .                   | Impact: 0.003581
+19.  secret              | Impact: 0.003050
+20.  .                   | Impact: 0.003050
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  je                  | Impact: -0.059469
+ 2. f                    | Impact: -0.021648
+ 3.  for                 | Impact: -0.016563
+ 4.  example             | Impact: -0.016563
+ 5.  .                   | Impact: -0.015308
+ 6.  .                   | Impact: -0.014721
+ 7.  software            | Impact: -0.005564
+ 8.  the                 | Impact: -0.005564
+ 9.  more                | Impact: -0.005564
+10.  likely              | Impact: -0.005564
+11.  it                  | Impact: -0.005152
+12.  is                  | Impact: -0.005152
+13.  to                  | Impact: -0.005152
+14.  be                  | Impact: -0.005152
+15.  cracked             | Impact: -0.005152
+16.  from                | Impact: -0.004543
+17.  copying             | Impact: -0.004543
+18.  the                 | Impact: -0.004543
+19.  cd                  | Impact: -0.004543
+20.  take                | Impact: -0.004439

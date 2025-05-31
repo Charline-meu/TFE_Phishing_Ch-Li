@@ -1,0 +1,75 @@
+Phishing Sample 5
+=================
+
+Sample text preview: Ms. Anita Obadan Tenders Board, Indepedent National electoral Commission Lagos, Nigeria. Dear Friend, I guess this letter may come to you as surprise ...
+
+Model prediction: [1.7361299e-04 9.9982637e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.029490 → PHISHING
+ 2.  friend              | Impact: 0.025809 → PHISHING
+ 3.  nigeria             | Impact: 0.018903 → PHISHING
+ 4.  national            | Impact: 0.016838 → PHISHING
+ 5.  electoral           | Impact: 0.016838 → PHISHING
+ 6.  commission          | Impact: 0.016838 → PHISHING
+ 7.  lagos               | Impact: 0.016838 → PHISHING
+ 8.  ,                   | Impact: 0.015668 → PHISHING
+ 9.  .                   | Impact: 0.009821 → PHISHING
+10.  of                  | Impact: 0.008464 → PHISHING
+11.  africa              | Impact: 0.008464 → PHISHING
+12.  and                 | Impact: 0.008464 → PHISHING
+13.  tender              | Impact: -0.007840 → LEGITIMATE
+14. s                    | Impact: -0.007840 → LEGITIMATE
+15.  board               | Impact: -0.007840 → LEGITIMATE
+16.  of                  | Impact: -0.007840 → LEGITIMATE
+17.  anita               | Impact: 0.006860 → PHISHING
+18.  ob                  | Impact: 0.006860 → PHISHING
+19. adan                 | Impact: 0.006860 → PHISHING
+20.                      | Impact: 0.006860 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.029490
+ 2.  friend              | Impact: 0.025809
+ 3.  nigeria             | Impact: 0.018903
+ 4.  national            | Impact: 0.016838
+ 5.  electoral           | Impact: 0.016838
+ 6.  commission          | Impact: 0.016838
+ 7.  lagos               | Impact: 0.016838
+ 8.  ,                   | Impact: 0.015668
+ 9.  .                   | Impact: 0.009821
+10.  of                  | Impact: 0.008464
+11.  africa              | Impact: 0.008464
+12.  and                 | Impact: 0.008464
+13.  anita               | Impact: 0.006860
+14.  ob                  | Impact: 0.006860
+15. adan                 | Impact: 0.006860
+16.                      | Impact: 0.006860
+17.  run                 | Impact: 0.006405
+18.  foreign             | Impact: 0.006405
+19.  accounts            | Impact: 0.006405
+20.  ben                 | Impact: 0.006370
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  tender              | Impact: -0.007840
+ 2. s                    | Impact: -0.007840
+ 3.  board               | Impact: -0.007840
+ 4.  of                  | Impact: -0.007840
+ 5.  in                  | Impact: -0.002544
+ 6.  the                 | Impact: -0.002544
+ 7.  proposal            | Impact: -0.002544
+ 8.  contact             | Impact: -0.002544
+ 9.  independent         | Impact: -0.002016
+10.  national            | Impact: -0.002016
+11.  electoral           | Impact: -0.002016
+12.  commission          | Impact: -0.002016
+13.  as                  | Impact: -0.001587
+14.  regards             | Impact: -0.001587
+15.  that                | Impact: -0.001587
+16.  ,                   | Impact: -0.001587
+17.  board               | Impact: -0.001511
+18.  dr                  | Impact: -0.001511
+19.  .                   | Impact: -0.001511
+20.  way                 | Impact: -0.001098

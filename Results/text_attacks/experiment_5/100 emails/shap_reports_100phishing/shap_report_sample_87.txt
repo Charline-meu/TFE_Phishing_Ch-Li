@@ -1,0 +1,75 @@
+Phishing Sample 87
+==================
+
+Sample text preview: MY NAME IS .MOHAMMED KHALIFA, FROM PALESTINE. I WORKED WITH THE REGIME OF YASSER ARAFAT AS HIS SECRET PESONAL ASSISTANCE. WE HANDLE ALL HIS FINANCIAL ...
+
+Model prediction: [1.6552044e-04 9.9983442e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mohammed            | Impact: 0.041592 → PHISHING
+ 2.  name                | Impact: 0.035328 → PHISHING
+ 3.  khalifa             | Impact: 0.034518 → PHISHING
+ 4.  mohammed            | Impact: 0.027993 → PHISHING
+ 5.  is                  | Impact: 0.027864 → PHISHING
+ 6.  .                   | Impact: -0.026069 → LEGITIMATE
+ 7.  million             | Impact: 0.021754 → PHISHING
+ 8.  us                  | Impact: 0.018969 → PHISHING
+ 9.  secret              | Impact: 0.017953 → PHISHING
+10.  khalifa             | Impact: 0.017639 → PHISHING
+11.  me                  | Impact: 0.013424 → PHISHING
+12.  in                  | Impact: 0.013424 → PHISHING
+13.  your                | Impact: 0.013424 → PHISHING
+14.  country             | Impact: 0.013424 → PHISHING
+15.  as                  | Impact: 0.013337 → PHISHING
+16.  his                 | Impact: 0.013337 → PHISHING
+17.                      | Impact: 0.013036 → PHISHING
+18.  my                  | Impact: 0.013036 → PHISHING
+19.  secretly            | Impact: 0.012509 → PHISHING
+20.  secure              | Impact: 0.012509 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mohammed            | Impact: 0.041592
+ 2.  name                | Impact: 0.035328
+ 3.  khalifa             | Impact: 0.034518
+ 4.  mohammed            | Impact: 0.027993
+ 5.  is                  | Impact: 0.027864
+ 6.  million             | Impact: 0.021754
+ 7.  us                  | Impact: 0.018969
+ 8.  secret              | Impact: 0.017953
+ 9.  khalifa             | Impact: 0.017639
+10.  me                  | Impact: 0.013424
+11.  in                  | Impact: 0.013424
+12.  your                | Impact: 0.013424
+13.  country             | Impact: 0.013424
+14.  as                  | Impact: 0.013337
+15.  his                 | Impact: 0.013337
+16.                      | Impact: 0.013036
+17.  my                  | Impact: 0.013036
+18.  secretly            | Impact: 0.012509
+19.  secure              | Impact: 0.012509
+20.  the                 | Impact: 0.012509
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.026069
+ 2.  from                | Impact: -0.009171
+ 3.  palestine           | Impact: -0.009171
+ 4.  .                   | Impact: -0.005575
+ 5.  others              | Impact: -0.004659
+ 6.  .                   | Impact: -0.004366
+ 7.  .                   | Impact: -0.003266
+ 8.  assistance          | Impact: -0.002259
+ 9.  .                   | Impact: -0.002259
+10.  pe                  | Impact: -0.001909
+11. son                  | Impact: -0.001909
+12. al                   | Impact: -0.001909
+13.  i                   | Impact: -0.001793
+14.  will                | Impact: -0.001793
+15.  appreciate          | Impact: -0.001793
+16.  if                  | Impact: -0.001793
+17.  we                  | Impact: -0.001744
+18.  handle              | Impact: -0.001744
+19.  all                 | Impact: -0.001744
+20.  his                 | Impact: -0.001744

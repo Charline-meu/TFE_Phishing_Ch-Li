@@ -1,0 +1,74 @@
+Sample 119
+==========
+
+Sample text preview: Hey Debra, Please call me to discuss the status of the ProLiance Master Physical, I have a conference call with them today to discuss the contract and...
+
+Model prediction: [9.9975806e-01 2.4194915e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  trading             | Impact: -0.038491 → LEGITIMATE
+ 2.  debra               | Impact: -0.033068 → LEGITIMATE
+ 3.  contract            | Impact: 0.027861 → PHISHING
+ 4.  discuss             | Impact: -0.022892 → LEGITIMATE
+ 5.  them                | Impact: 0.017893 → PHISHING
+ 6.  discuss             | Impact: -0.016569 → LEGITIMATE
+ 7. lian                 | Impact: 0.015790 → PHISHING
+ 8.  and                 | Impact: 0.014132 → PHISHING
+ 9.  i                   | Impact: -0.013544 → LEGITIMATE
+10.  please              | Impact: 0.013168 → PHISHING
+11.  hey                 | Impact: -0.012910 → LEGITIMATE
+12.  physical            | Impact: 0.012883 → PHISHING
+13.  the                 | Impact: -0.011746 → LEGITIMATE
+14.  ,                   | Impact: 0.011272 → PHISHING
+15.  ,                   | Impact: -0.011174 → LEGITIMATE
+16.  master              | Impact: 0.010654 → PHISHING
+17.  pro                 | Impact: -0.008934 → LEGITIMATE
+18.  me                  | Impact: 0.008186 → PHISHING
+19.  call                | Impact: 0.008099 → PHISHING
+20.  them                | Impact: 0.007787 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contract            | Impact: 0.027861
+ 2.  them                | Impact: 0.017893
+ 3. lian                 | Impact: 0.015790
+ 4.  and                 | Impact: 0.014132
+ 5.  please              | Impact: 0.013168
+ 6.  physical            | Impact: 0.012883
+ 7.  ,                   | Impact: 0.011272
+ 8.  master              | Impact: 0.010654
+ 9.  me                  | Impact: 0.008186
+10.  call                | Impact: 0.008099
+11.  them                | Impact: 0.007787
+12.  status              | Impact: 0.006244
+13.  on                  | Impact: 0.005488
+14.  with                | Impact: 0.005206
+15.  line                | Impact: 0.003791
+16. ce                   | Impact: 0.003306
+17.  russell             | Impact: 0.002536
+18.  call                | Impact: 0.002254
+19.  thanks              | Impact: 0.000821
+20.  to                  | Impact: 0.000486
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  trading             | Impact: -0.038491
+ 2.  debra               | Impact: -0.033068
+ 3.  discuss             | Impact: -0.022892
+ 4.  discuss             | Impact: -0.016569
+ 5.  i                   | Impact: -0.013544
+ 6.  hey                 | Impact: -0.012910
+ 7.  the                 | Impact: -0.011746
+ 8.  ,                   | Impact: -0.011174
+ 9.  pro                 | Impact: -0.008934
+10.  conference          | Impact: -0.006836
+11.  the                 | Impact: -0.006509
+12.  today               | Impact: -0.004108
+13.  to                  | Impact: -0.002725
+14.  .                   | Impact: -0.001478
+15.  have                | Impact: -0.001424
+16.  of                  | Impact: -0.001214
+17.                      | Impact: -0.000456
+18.  ,                   | Impact: -0.000443
+19.                      | Impact: -0.000073

@@ -1,0 +1,75 @@
+Sample 486
+==========
+
+Sample text preview: Let's ask Jeff Hines(?), our opinion research guy, to put a few short questions together and send it out. We may also want to include a link so people...
+
+Model prediction: [9.9979490e-01 2.0510817e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.002639 → LEGITIMATE
+ 2. ron                  | Impact: -0.002419 → LEGITIMATE
+ 3.  t                   | Impact: 0.000807 → PHISHING
+ 4.  don                 | Impact: 0.000774 → PHISHING
+ 5.  '                   | Impact: 0.000774 → PHISHING
+ 6.  en                  | Impact: -0.000717 → LEGITIMATE
+ 7. ron                  | Impact: -0.000717 → LEGITIMATE
+ 8.  advertising         | Impact: -0.000717 → LEGITIMATE
+ 9.  mark                | Impact: -0.000717 → LEGITIMATE
+10.  (                   | Impact: -0.000712 → LEGITIMATE
+11.  -                   | Impact: -0.000712 → LEGITIMATE
+12.  -                   | Impact: -0.000712 → LEGITIMATE
+13.  )                   | Impact: -0.000712 → LEGITIMATE
+14.  en                  | Impact: -0.000694 → LEGITIMATE
+15. ron                  | Impact: -0.000694 → LEGITIMATE
+16.  @                   | Impact: -0.000694 → LEGITIMATE
+17.  to                  | Impact: -0.000687 → LEGITIMATE
+18.  the                 | Impact: -0.000687 → LEGITIMATE
+19.  brand               | Impact: -0.000687 → LEGITIMATE
+20.  conference          | Impact: -0.000687 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  t                   | Impact: 0.000807
+ 2.  don                 | Impact: 0.000774
+ 3.  '                   | Impact: 0.000774
+ 4.  so                  | Impact: 0.000444
+ 5.  employees           | Impact: 0.000444
+ 6.  i                   | Impact: 0.000383
+ 7.  was                 | Impact: 0.000383
+ 8.  talking             | Impact: 0.000383
+ 9.  with                | Impact: 0.000383
+10.  beth                | Impact: 0.000383
+11.  (                   | Impact: 0.000251
+12.  ?                   | Impact: 0.000251
+13.  free                | Impact: 0.000251
+14.  to                  | Impact: 0.000251
+15.  go                  | Impact: 0.000251
+16.  do                  | Impact: 0.000251
+17.  their               | Impact: 0.000251
+18.  own                 | Impact: 0.000251
+19.  thing               | Impact: 0.000251
+20.  )                   | Impact: 0.000251
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.002639
+ 2. ron                  | Impact: -0.002419
+ 3.  en                  | Impact: -0.000717
+ 4. ron                  | Impact: -0.000717
+ 5.  advertising         | Impact: -0.000717
+ 6.  mark                | Impact: -0.000717
+ 7.  (                   | Impact: -0.000712
+ 8.  -                   | Impact: -0.000712
+ 9.  -                   | Impact: -0.000712
+10.  )                   | Impact: -0.000712
+11.  en                  | Impact: -0.000694
+12. ron                  | Impact: -0.000694
+13.  @                   | Impact: -0.000694
+14.  to                  | Impact: -0.000687
+15.  the                 | Impact: -0.000687
+16.  brand               | Impact: -0.000687
+17.  conference          | Impact: -0.000687
+18.  "                   | Impact: -0.000667
+19.  poll                | Impact: -0.000667
+20.  en                  | Impact: -0.000620

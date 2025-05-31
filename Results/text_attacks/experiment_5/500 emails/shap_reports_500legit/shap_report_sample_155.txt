@@ -1,0 +1,75 @@
+Sample 155
+==========
+
+Sample text preview: This is good news, if true; but I must take exception to any characterization of FERC action on governance as "prompt." That point passed many, many m...
+
+Model prediction: [9.9978846e-01 2.1154623e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ago                 | Impact: 0.001953 → PHISHING
+ 2.  many                | Impact: 0.001555 → PHISHING
+ 3.  months              | Impact: 0.001555 → PHISHING
+ 4.  prohibit            | Impact: 0.001261 → PHISHING
+ 5. ive                  | Impact: 0.001261 → PHISHING
+ 6.  act                 | Impact: -0.000959 → LEGITIMATE
+ 7.  promptly            | Impact: -0.000959 → LEGITIMATE
+ 8.  last                | Impact: 0.000862 → PHISHING
+ 9.  week                | Impact: 0.000862 → PHISHING
+10.  .                   | Impact: -0.000763 → LEGITIMATE
+11.  the                 | Impact: -0.000754 → LEGITIMATE
+12.  california          | Impact: -0.000754 → LEGITIMATE
+13.  department          | Impact: -0.000754 → LEGITIMATE
+14.  of                  | Impact: -0.000754 → LEGITIMATE
+15.  was                 | Impact: 0.000742 → PHISHING
+16.  released            | Impact: 0.000742 → PHISHING
+17.  and                 | Impact: 0.000669 → PHISHING
+18.  commission          | Impact: -0.000655 → LEGITIMATE
+19.  meeting             | Impact: -0.000655 → LEGITIMATE
+20.  ,                   | Impact: -0.000655 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ago                 | Impact: 0.001953
+ 2.  many                | Impact: 0.001555
+ 3.  months              | Impact: 0.001555
+ 4.  prohibit            | Impact: 0.001261
+ 5. ive                  | Impact: 0.001261
+ 6.  last                | Impact: 0.000862
+ 7.  week                | Impact: 0.000862
+ 8.  was                 | Impact: 0.000742
+ 9.  released            | Impact: 0.000742
+10.  and                 | Impact: 0.000669
+11.  .                   | Impact: 0.000316
+12.  point               | Impact: 0.000193
+13.  passed              | Impact: 0.000193
+14.  many                | Impact: 0.000193
+15.  "                   | Impact: 0.000193
+16.  that                | Impact: 0.000193
+17.  state               | Impact: 0.000139
+18.  ,                   | Impact: 0.000139
+19.  of                  | Impact: 0.000135
+20.  actual              | Impact: 0.000135
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  act                 | Impact: -0.000959
+ 2.  promptly            | Impact: -0.000959
+ 3.  .                   | Impact: -0.000763
+ 4.  the                 | Impact: -0.000754
+ 5.  california          | Impact: -0.000754
+ 6.  department          | Impact: -0.000754
+ 7.  of                  | Impact: -0.000754
+ 8.  commission          | Impact: -0.000655
+ 9.  meeting             | Impact: -0.000655
+10.  ,                   | Impact: -0.000655
+11.  water               | Impact: -0.000648
+12.  resources           | Impact: -0.000648
+13.  fe                  | Impact: -0.000603
+14. rc                   | Impact: -0.000603
+15.  pressure            | Impact: -0.000603
+16.  builds              | Impact: -0.000603
+17.  to                  | Impact: -0.000603
+18.  make                | Impact: -0.000603
+19.  cal                 | Impact: -0.000603
+20.  -                   | Impact: -0.000603

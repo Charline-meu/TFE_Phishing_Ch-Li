@@ -1,0 +1,75 @@
+Sample 296
+==========
+
+Sample text preview: FROM THE DESK OF DR.SAM JORDAN THE MANAGER Headquarter, First Bank of Nigeria Plc. Lagos, Nigeria. Alternative E-mail: Sir, Compliment of the day and ...
+
+Model prediction: [1.7751244e-04 9.9982256e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lagos               | Impact: 0.012609 → PHISHING
+ 2.  of                  | Impact: 0.011819 → PHISHING
+ 3.  a                   | Impact: 0.011819 → PHISHING
+ 4.  bank                | Impact: 0.011819 → PHISHING
+ 5.  account             | Impact: 0.011819 → PHISHING
+ 6.  the                 | Impact: 0.009537 → PHISHING
+ 7.  proper              | Impact: 0.009537 → PHISHING
+ 8.  money               | Impact: 0.009537 → PHISHING
+ 9.  transfer            | Impact: 0.009537 → PHISHING
+10.  document            | Impact: 0.009537 → PHISHING
+11.  the                 | Impact: 0.008799 → PHISHING
+12.  money               | Impact: 0.008799 → PHISHING
+13.  will                | Impact: 0.008799 → PHISHING
+14.  then                | Impact: 0.008799 → PHISHING
+15.  lagos               | Impact: 0.006466 → PHISHING
+16.  ,                   | Impact: 0.006466 → PHISHING
+17.  nigeria             | Impact: 0.006466 → PHISHING
+18.  .                   | Impact: 0.006466 → PHISHING
+19.  do                  | Impact: 0.006086 → PHISHING
+20.  is                  | Impact: 0.006086 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  lagos               | Impact: 0.012609
+ 2.  of                  | Impact: 0.011819
+ 3.  a                   | Impact: 0.011819
+ 4.  bank                | Impact: 0.011819
+ 5.  account             | Impact: 0.011819
+ 6.  the                 | Impact: 0.009537
+ 7.  proper              | Impact: 0.009537
+ 8.  money               | Impact: 0.009537
+ 9.  transfer            | Impact: 0.009537
+10.  document            | Impact: 0.009537
+11.  the                 | Impact: 0.008799
+12.  money               | Impact: 0.008799
+13.  will                | Impact: 0.008799
+14.  then                | Impact: 0.008799
+15.  lagos               | Impact: 0.006466
+16.  ,                   | Impact: 0.006466
+17.  nigeria             | Impact: 0.006466
+18.  .                   | Impact: 0.006466
+19.  do                  | Impact: 0.006086
+20.  is                  | Impact: 0.006086
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.001042
+ 2.  sent                | Impact: -0.001042
+ 3.  a                   | Impact: -0.001042
+ 4.  routine             | Impact: -0.001042
+ 5.  notification        | Impact: -0.001042
+ 6.  to                  | Impact: -0.001042
+ 7.  his                 | Impact: -0.001042
+ 8.  forward             | Impact: -0.001042
+ 9. ed                   | Impact: -0.001042
+10.  address             | Impact: -0.001042
+11.  ,                   | Impact: -0.000737
+12.  .                   | Impact: -0.000737
+13.  in                  | Impact: -0.000737
+14.  my                  | Impact: -0.000737
+15.  branch              | Impact: -0.000737
+16.  .                   | Impact: -0.000737
+17.  on                  | Impact: -0.000737
+18.  maturity            | Impact: -0.000737
+19.  ,                   | Impact: -0.000737
+20.  the                 | Impact: -0.000685

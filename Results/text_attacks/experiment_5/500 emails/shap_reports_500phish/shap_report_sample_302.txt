@@ -1,0 +1,70 @@
+Sample 302
+==========
+
+Sample text preview: Notice of Policy Updates Dear Customer, Some information on your account appears to be missing or incorrect. Please update your information promptly s...
+
+Model prediction: [1.7423704e-04 9.9982578e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  account             | Impact: 0.070557 → PHISHING
+ 2.  ©                   | Impact: 0.061261 → PHISHING
+ 3.  your                | Impact: 0.055398 → PHISHING
+ 4.  copyright           | Impact: 0.045837 → PHISHING
+ 5.  pay                 | Impact: 0.042481 → PHISHING
+ 6.  your                | Impact: 0.041744 → PHISHING
+ 7.  account             | Impact: 0.041570 → PHISHING
+ 8.  account             | Impact: 0.035495 → PHISHING
+ 9.  sincerely           | Impact: 0.034074 → PHISHING
+10.  missing             | Impact: 0.027983 → PHISHING
+11.  notice              | Impact: 0.022058 → PHISHING
+12.  customer            | Impact: 0.017863 → PHISHING
+13.  dear                | Impact: 0.017477 → PHISHING
+14.  continue            | Impact: 0.014184 → PHISHING
+15.  page                | Impact: 0.011918 → PHISHING
+16.  pay                 | Impact: 0.011417 → PHISHING
+17. pal                  | Impact: 0.011417 → PHISHING
+18.  with                | Impact: 0.010973 → PHISHING
+19.  your                | Impact: 0.010973 → PHISHING
+20.  reserved            | Impact: 0.010712 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  account             | Impact: 0.070557
+ 2.  ©                   | Impact: 0.061261
+ 3.  your                | Impact: 0.055398
+ 4.  copyright           | Impact: 0.045837
+ 5.  pay                 | Impact: 0.042481
+ 6.  your                | Impact: 0.041744
+ 7.  account             | Impact: 0.041570
+ 8.  account             | Impact: 0.035495
+ 9.  sincerely           | Impact: 0.034074
+10.  missing             | Impact: 0.027983
+11.  notice              | Impact: 0.022058
+12.  customer            | Impact: 0.017863
+13.  dear                | Impact: 0.017477
+14.  continue            | Impact: 0.014184
+15.  page                | Impact: 0.011918
+16.  pay                 | Impact: 0.011417
+17. pal                  | Impact: 0.011417
+18.  with                | Impact: 0.010973
+19.  your                | Impact: 0.010973
+20.  reserved            | Impact: 0.010712
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  policy              | Impact: -0.003818
+ 2.  promptly            | Impact: -0.003646
+ 3.  incorrect           | Impact: -0.002613
+ 4.  .                   | Impact: -0.001866
+ 5.  .                   | Impact: -0.001383
+ 6.  .                   | Impact: -0.001284
+ 7.                      | Impact: -0.001251
+ 8.  .                   | Impact: -0.000887
+ 9.  so                  | Impact: -0.000839
+10.  ,                   | Impact: -0.000541
+11.  of                  | Impact: -0.000406
+12.  don                 | Impact: -0.000343
+13.  '                   | Impact: -0.000343
+14.  t                   | Impact: -0.000343
+15.  .                   | Impact: -0.000274

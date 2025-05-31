@@ -1,0 +1,75 @@
+Phishing Sample 37
+==================
+
+Sample text preview: from slate's "today's papers": The New York Times and Los Angeles Times both lead with word that a federal judge ruled yesterday that the nation's lar...
+
+Model prediction: [9.9978417e-01 2.1587656e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  papers              | Impact: -0.004421 → LEGITIMATE
+ 2.  "                   | Impact: -0.004421 → LEGITIMATE
+ 3.  :                   | Impact: -0.003477 → LEGITIMATE
+ 4.  the                 | Impact: -0.003477 → LEGITIMATE
+ 5.  blackout            | Impact: 0.002898 → PHISHING
+ 6. s                    | Impact: 0.002898 → PHISHING
+ 7.  times               | Impact: -0.002388 → LEGITIMATE
+ 8.  nation              | Impact: 0.002386 → PHISHING
+ 9.  '                   | Impact: 0.002386 → PHISHING
+10.  s                   | Impact: 0.002386 → PHISHING
+11.  gas                 | Impact: 0.002310 → PHISHING
+12.  pipeline            | Impact: 0.002310 → PHISHING
+13.  company             | Impact: 0.002310 → PHISHING
+14.  largest             | Impact: 0.002017 → PHISHING
+15.  national            | Impact: 0.002017 → PHISHING
+16.  ,                   | Impact: 0.001922 → PHISHING
+17.  "                   | Impact: -0.001906 → LEGITIMATE
+18.  el                  | Impact: -0.001648 → LEGITIMATE
+19.  paso                | Impact: -0.001648 → LEGITIMATE
+20.  left                | Impact: -0.001648 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  blackout            | Impact: 0.002898
+ 2. s                    | Impact: 0.002898
+ 3.  nation              | Impact: 0.002386
+ 4.  '                   | Impact: 0.002386
+ 5.  s                   | Impact: 0.002386
+ 6.  gas                 | Impact: 0.002310
+ 7.  pipeline            | Impact: 0.002310
+ 8.  company             | Impact: 0.002310
+ 9.  largest             | Impact: 0.002017
+10.  national            | Impact: 0.002017
+11.  ,                   | Impact: 0.001922
+12.  thus                | Impact: 0.001341
+13.  driving             | Impact: 0.001341
+14.  up                  | Impact: 0.001341
+15.  the                 | Impact: 0.001341
+16.  yesterday           | Impact: 0.001133
+17.  that                | Impact: 0.001133
+18.  the                 | Impact: 0.001133
+19.  a                   | Impact: 0.001030
+20.  federal             | Impact: 0.001030
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  papers              | Impact: -0.004421
+ 2.  "                   | Impact: -0.004421
+ 3.  :                   | Impact: -0.003477
+ 4.  the                 | Impact: -0.003477
+ 5.  times               | Impact: -0.002388
+ 6.  "                   | Impact: -0.001906
+ 7.  el                  | Impact: -0.001648
+ 8.  paso                | Impact: -0.001648
+ 9.  left                | Impact: -0.001648
+10.  percent             | Impact: -0.001648
+11.  :                   | Impact: -0.001346
+12.  pm                  | Impact: -0.001346
+13.  to                  | Impact: -0.001346
+14.  :                   | Impact: -0.001346
+15.  to                  | Impact: -0.001208
+16.  liberal             | Impact: -0.001208
+17.  politics            | Impact: -0.001208
+18.  over                | Impact: -0.001141
+19.  regulation          | Impact: -0.001141
+20.  .                   | Impact: -0.001141

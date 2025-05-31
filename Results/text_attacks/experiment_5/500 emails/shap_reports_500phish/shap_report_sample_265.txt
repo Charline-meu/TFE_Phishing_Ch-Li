@@ -1,0 +1,75 @@
+Sample 265
+==========
+
+Sample text preview: Hi - ( ) You get emails every day, offering to show you how to make money. Most of these emails are from people who are NOT making any money. And they...
+
+Model prediction: [2.1283173e-04 9.9978715e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  last                | Impact: 0.011269 → PHISHING
+ 2.  name                | Impact: 0.011269 → PHISHING
+ 3.  .                   | Impact: 0.011269 → PHISHING
+ 4.  first               | Impact: 0.010519 → PHISHING
+ 5.  name                | Impact: 0.010519 → PHISHING
+ 6.  .                   | Impact: 0.010519 → PHISHING
+ 7.  we                  | Impact: 0.006958 → PHISHING
+ 8.  will                | Impact: 0.006958 → PHISHING
+ 9.  confirm             | Impact: 0.006958 → PHISHING
+10.  your                | Impact: 0.006958 → PHISHING
+11.  position            | Impact: 0.006958 → PHISHING
+12.  continuing          | Impact: 0.005529 → PHISHING
+13.  income              | Impact: 0.005529 → PHISHING
+14.  every               | Impact: 0.005529 → PHISHING
+15.  month               | Impact: 0.005529 → PHISHING
+16.  .                   | Impact: 0.005529 → PHISHING
+17.  make                | Impact: 0.005275 → PHISHING
+18.  money               | Impact: 0.005275 → PHISHING
+19.  with                | Impact: 0.005275 → PHISHING
+20.  your                | Impact: 0.005275 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  last                | Impact: 0.011269
+ 2.  name                | Impact: 0.011269
+ 3.  .                   | Impact: 0.011269
+ 4.  first               | Impact: 0.010519
+ 5.  name                | Impact: 0.010519
+ 6.  .                   | Impact: 0.010519
+ 7.  we                  | Impact: 0.006958
+ 8.  will                | Impact: 0.006958
+ 9.  confirm             | Impact: 0.006958
+10.  your                | Impact: 0.006958
+11.  position            | Impact: 0.006958
+12.  continuing          | Impact: 0.005529
+13.  income              | Impact: 0.005529
+14.  every               | Impact: 0.005529
+15.  month               | Impact: 0.005529
+16.  .                   | Impact: 0.005529
+17.  make                | Impact: 0.005275
+18.  money               | Impact: 0.005275
+19.  with                | Impact: 0.005275
+20.  your                | Impact: 0.005275
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  but                 | Impact: -0.002781
+ 2.  ,                   | Impact: -0.002781
+ 3.  as                  | Impact: -0.002781
+ 4.  i                   | Impact: -0.002781
+ 5.  said                | Impact: -0.002781
+ 6.  ,                   | Impact: -0.002781
+ 7.  skills              | Impact: -0.001825
+ 8.  required            | Impact: -0.001825
+ 9.  .                   | Impact: -0.001825
+10.  there               | Impact: -0.001825
+11.  are                 | Impact: -0.001825
+12.  no                  | Impact: -0.001825
+13.  special             | Impact: -0.001825
+14.  work                | Impact: -0.001505
+15.  at                  | Impact: -0.001505
+16.  it                  | Impact: -0.001505
+17.  .                   | Impact: -0.001505
+18.  if                  | Impact: -0.001505
+19.  they                | Impact: -0.001505
+20.  (                   | Impact: -0.001091

@@ -1,0 +1,75 @@
+Sample 165
+==========
+
+Sample text preview: Vipul, can I ask questions about SpamNet here? I hope so, here goes.. simple question. How do you define username/passwords in spamnet? I don't see an...
+
+Model prediction: [9.9970347e-01 2.9647024e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sponsored           | Impact: -0.012742 → LEGITIMATE
+ 2.  so                  | Impact: -0.006646 → LEGITIMATE
+ 3.  can                 | Impact: -0.006386 → LEGITIMATE
+ 4.  i                   | Impact: -0.006386 → LEGITIMATE
+ 5.  -                   | Impact: -0.005732 → LEGITIMATE
+ 6.  :                   | Impact: -0.005707 → LEGITIMATE
+ 7.  email               | Impact: -0.005426 → LEGITIMATE
+ 8.  is                  | Impact: -0.005403 → LEGITIMATE
+ 9.  -                   | Impact: -0.005395 → LEGITIMATE
+10.  -                   | Impact: -0.004928 → LEGITIMATE
+11.  .                   | Impact: -0.004726 → LEGITIMATE
+12.  i                   | Impact: -0.004111 → LEGITIMATE
+13.  hope                | Impact: -0.004111 → LEGITIMATE
+14.  (                   | Impact: -0.003940 → LEGITIMATE
+15.  -                   | Impact: -0.003553 → LEGITIMATE
+16.  outlook             | Impact: -0.003504 → LEGITIMATE
+17.  )                   | Impact: -0.003504 → LEGITIMATE
+18.  ask                 | Impact: -0.003401 → LEGITIMATE
+19.  questions           | Impact: -0.003401 → LEGITIMATE
+20.  about               | Impact: -0.003401 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.001827
+ 2.  share               | Impact: 0.001827
+ 3.  my                  | Impact: 0.001827
+ 4.  trust               | Impact: 0.001827
+ 5.                      | Impact: 0.001531
+ 6.  vip                 | Impact: 0.001531
+ 7. ul                   | Impact: 0.001531
+ 8.  welcome             | Impact: 0.001450
+ 9.  to                  | Impact: 0.001450
+10.  i                   | Impact: 0.001293
+11.  '                   | Impact: 0.001293
+12.  d                   | Impact: 0.001293
+13.  like                | Impact: 0.001293
+14.  geek                | Impact: 0.001292
+15.  heaven              | Impact: 0.001292
+16.  ,                   | Impact: 0.001010
+17.  spa                 | Impact: 0.000330
+18. m                    | Impact: 0.000330
+19. net                  | Impact: 0.000330
+20.  here                | Impact: 0.000330
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  sponsored           | Impact: -0.012742
+ 2.  so                  | Impact: -0.006646
+ 3.  can                 | Impact: -0.006386
+ 4.  i                   | Impact: -0.006386
+ 5.  -                   | Impact: -0.005732
+ 6.  :                   | Impact: -0.005707
+ 7.  email               | Impact: -0.005426
+ 8.  is                  | Impact: -0.005403
+ 9.  -                   | Impact: -0.005395
+10.  -                   | Impact: -0.004928
+11.  .                   | Impact: -0.004726
+12.  i                   | Impact: -0.004111
+13.  hope                | Impact: -0.004111
+14.  (                   | Impact: -0.003940
+15.  -                   | Impact: -0.003553
+16.  outlook             | Impact: -0.003504
+17.  )                   | Impact: -0.003504
+18.  ask                 | Impact: -0.003401
+19.  questions           | Impact: -0.003401
+20.  about               | Impact: -0.003401

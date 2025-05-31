@@ -1,0 +1,75 @@
+Sample 100
+==========
+
+Sample text preview: Dear customer, You have received this email because we believe your Apple ID has been recently compromise.You are required to verify your information....
+
+Model prediction: [2.1782483e-04 9.9978215e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.116874 → PHISHING
+ 2.  verify              | Impact: 0.099760 → PHISHING
+ 3.  here                | Impact: 0.067460 → PHISHING
+ 4.  thanks              | Impact: 0.058378 → PHISHING
+ 5.  copyright           | Impact: 0.049091 → PHISHING
+ 6.  >                   | Impact: -0.037641 → LEGITIMATE
+ 7.  apple               | Impact: 0.036403 → PHISHING
+ 8.  id                  | Impact: 0.033334 → PHISHING
+ 9.  reserved            | Impact: 0.031610 → PHISHING
+10.  click               | Impact: 0.030921 → PHISHING
+11.  keep                | Impact: 0.029365 → PHISHING
+12.  customer            | Impact: 0.027138 → PHISHING
+13.  link                | Impact: 0.027089 → PHISHING
+14.  id                  | Impact: 0.026244 → PHISHING
+15.  below               | Impact: 0.025555 → PHISHING
+16.  support             | Impact: -0.025110 → LEGITIMATE
+17.  inc                 | Impact: 0.023771 → PHISHING
+18.  rights              | Impact: 0.022449 → PHISHING
+19.  all                 | Impact: 0.022182 → PHISHING
+20.  you                 | Impact: 0.020704 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.116874
+ 2.  verify              | Impact: 0.099760
+ 3.  here                | Impact: 0.067460
+ 4.  thanks              | Impact: 0.058378
+ 5.  copyright           | Impact: 0.049091
+ 6.  apple               | Impact: 0.036403
+ 7.  id                  | Impact: 0.033334
+ 8.  reserved            | Impact: 0.031610
+ 9.  click               | Impact: 0.030921
+10.  keep                | Impact: 0.029365
+11.  customer            | Impact: 0.027138
+12.  link                | Impact: 0.027089
+13.  id                  | Impact: 0.026244
+14.  below               | Impact: 0.025555
+15.  inc                 | Impact: 0.023771
+16.  rights              | Impact: 0.022449
+17.  all                 | Impact: 0.022182
+18.  you                 | Impact: 0.020704
+19.  ,                   | Impact: 0.019755
+20.  your                | Impact: 0.018913
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.037641
+ 2.  support             | Impact: -0.025110
+ 3.  ,                   | Impact: -0.018951
+ 4.  infinite            | Impact: -0.014236
+ 5.  compromise          | Impact: -0.011358
+ 6.  loop                | Impact: -0.010978
+ 7.  t                   | Impact: -0.008875
+ 8.  ,                   | Impact: -0.007643
+ 9.  and                 | Impact: -0.004451
+10.  policy              | Impact: -0.004160
+11.  ca                  | Impact: -0.003953
+12.  because             | Impact: -0.002909
+13.  you                 | Impact: -0.001777
+14.  .                   | Impact: -0.001498
+15.  .                   | Impact: -0.001340
+16. m                    | Impact: -0.001337
+17.  we                  | Impact: -0.000513
+18.  believe             | Impact: -0.000513
+19.  to                  | Impact: -0.000326
+20.  apple               | Impact: -0.000027

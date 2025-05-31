@@ -1,0 +1,75 @@
+Sample 384
+==========
+
+Sample text preview: Congratulations! "Now is the time to take advantage of falling interest rates! There is no advantage in waiting any longer." Refinance or consolidate ...
+
+Model prediction: [2.1115589e-04 9.9978882e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.050471 → PHISHING
+ 2.  loan                | Impact: 0.047759 → PHISHING
+ 3.  your                | Impact: 0.047058 → PHISHING
+ 4.  click               | Impact: 0.044155 → PHISHING
+ 5.  click               | Impact: 0.041645 → PHISHING
+ 6.  thousands           | Impact: 0.032314 → PHISHING
+ 7.  your                | Impact: 0.029008 → PHISHING
+ 8.  you                 | Impact: 0.027509 → PHISHING
+ 9.  removed             | Impact: 0.025333 → PHISHING
+10.  here                | Impact: 0.024816 → PHISHING
+11.  mail                | Impact: 0.023034 → PHISHING
+12.  current             | Impact: 0.021160 → PHISHING
+13.  save                | Impact: 0.020836 → PHISHING
+14.  purchase            | Impact: 0.018551 → PHISHING
+15.  you                 | Impact: 0.017211 → PHISHING
+16.  our                 | Impact: 0.016765 → PHISHING
+17.  be                  | Impact: 0.016404 → PHISHING
+18.  of                  | Impact: 0.015834 → PHISHING
+19.  dollars             | Impact: 0.015834 → PHISHING
+20.  here                | Impact: 0.015007 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.050471
+ 2.  loan                | Impact: 0.047759
+ 3.  your                | Impact: 0.047058
+ 4.  click               | Impact: 0.044155
+ 5.  click               | Impact: 0.041645
+ 6.  thousands           | Impact: 0.032314
+ 7.  your                | Impact: 0.029008
+ 8.  you                 | Impact: 0.027509
+ 9.  removed             | Impact: 0.025333
+10.  here                | Impact: 0.024816
+11.  mail                | Impact: 0.023034
+12.  current             | Impact: 0.021160
+13.  save                | Impact: 0.020836
+14.  purchase            | Impact: 0.018551
+15.  you                 | Impact: 0.017211
+16.  our                 | Impact: 0.016765
+17.  be                  | Impact: 0.016404
+18.  of                  | Impact: 0.015834
+19.  dollars             | Impact: 0.015834
+20.  here                | Impact: 0.015007
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  shopping            | Impact: -0.008225
+ 2.  whereas             | Impact: -0.004749
+ 3.  credit              | Impact: -0.004749
+ 4.  .                   | Impact: -0.001336
+ 5.  .                   | Impact: -0.001336
+ 6.  is                  | Impact: -0.000960
+ 7.  not                 | Impact: -0.000960
+ 8.  .                   | Impact: -0.000960
+ 9.  card                | Impact: -0.000805
+10.  interest            | Impact: -0.000805
+11. nce                  | Impact: -0.000599
+12. ing                  | Impact: -0.000476
+13.  ref                 | Impact: -0.000431
+14. ina                  | Impact: -0.000431
+15. nce                  | Impact: -0.000431
+16.  "                   | Impact: -0.000431
+17.  or                  | Impact: -0.000431
+18.                      | Impact: -0.000425
+19.  congratulations     | Impact: -0.000425
+20.  !                   | Impact: -0.000425

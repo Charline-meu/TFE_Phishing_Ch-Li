@@ -1,0 +1,75 @@
+Phishing Sample 94
+==================
+
+Sample text preview: Once upon a time, Ralf wrote : > Skipping all RPM build parts except for the actual packing is not > possible Actually it is (sort of). To answer part...
+
+Model prediction: [9.9977165e-01 2.2840954e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  rpm                 | Impact: -0.006673 → LEGITIMATE
+ 2.  -                   | Impact: -0.006673 → LEGITIMATE
+ 3.  list                | Impact: -0.006242 → LEGITIMATE
+ 4.  processes           | Impact: -0.005651 → LEGITIMATE
+ 5.  group               | Impact: 0.005378 → PHISHING
+ 6.  interactive         | Impact: 0.005378 → PHISHING
+ 7.  question            | Impact: -0.004795 → LEGITIMATE
+ 8.  answer              | Impact: -0.003837 → LEGITIMATE
+ 9.  -                   | Impact: -0.003306 → LEGITIMATE
+10.  matthias            | Impact: -0.003298 → LEGITIMATE
+11.  building            | Impact: -0.003132 → LEGITIMATE
+12.  >                   | Impact: -0.003067 → LEGITIMATE
+13.  :                   | Impact: -0.003056 → LEGITIMATE
+14.  system              | Impact: -0.002888 → LEGITIMATE
+15.  install             | Impact: -0.002773 → LEGITIMATE
+16.  matthias            | Impact: -0.002721 → LEGITIMATE
+17.  -                   | Impact: -0.002721 → LEGITIMATE
+18.  spain               | Impact: 0.002647 → PHISHING
+19.  phone               | Impact: -0.002477 → LEGITIMATE
+20.  variables           | Impact: -0.002373 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  group               | Impact: 0.005378
+ 2.  interactive         | Impact: 0.005378
+ 3.  spain               | Impact: 0.002647
+ 4.                      | Impact: 0.000751
+ 5.  once                | Impact: 0.000751
+ 6. le                   | Impact: 0.000197
+ 7.  ,                   | Impact: 0.000149
+ 8.  electronic          | Impact: 0.000116
+ 9.  world               | Impact: 0.000107
+10.  trade               | Impact: 0.000107
+11.  upon                | Impact: 0.000103
+12.  a                   | Impact: 0.000103
+13.  time                | Impact: 0.000103
+14.  sao                 | Impact: 0.000089
+15. u                    | Impact: 0.000089
+16.  and                 | Impact: 0.000081
+17.  this                | Impact: 0.000081
+18.  will                | Impact: 0.000081
+19.  _                   | Impact: 0.000081
+20.  not                 | Impact: 0.000081
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  rpm                 | Impact: -0.006673
+ 2.  -                   | Impact: -0.006673
+ 3.  list                | Impact: -0.006242
+ 4.  processes           | Impact: -0.005651
+ 5.  question            | Impact: -0.004795
+ 6.  answer              | Impact: -0.003837
+ 7.  -                   | Impact: -0.003306
+ 8.  matthias            | Impact: -0.003298
+ 9.  building            | Impact: -0.003132
+10.  >                   | Impact: -0.003067
+11.  :                   | Impact: -0.003056
+12.  system              | Impact: -0.002888
+13.  install             | Impact: -0.002773
+14.  matthias            | Impact: -0.002721
+15.  -                   | Impact: -0.002721
+16.  phone               | Impact: -0.002477
+17.  variables           | Impact: -0.002373
+18.  during              | Impact: -0.002373
+19.  this                | Impact: -0.002225
+20.  install             | Impact: -0.002122

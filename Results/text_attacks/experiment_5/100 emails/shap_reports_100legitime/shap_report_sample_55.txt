@@ -1,0 +1,70 @@
+Phishing Sample 55
+==================
+
+Sample text preview: URL: Date: --T::-: I like Kasia's latest idea. Let's all try that. But not on the same day. Maybe we should all use our birthdays as the basis. Since ...
+
+Model prediction: [9.9972945e-01 2.7052328e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  born                | Impact: 0.073772 → PHISHING
+ 2.  i                   | Impact: -0.022832 → LEGITIMATE
+ 3.  th                  | Impact: -0.017002 → LEGITIMATE
+ 4.  .                   | Impact: -0.016159 → LEGITIMATE
+ 5.  .                   | Impact: -0.011803 → LEGITIMATE
+ 6.  ,                   | Impact: -0.007557 → LEGITIMATE
+ 7.  basis               | Impact: 0.006240 → PHISHING
+ 8.  since               | Impact: -0.005645 → LEGITIMATE
+ 9.  on                  | Impact: 0.005567 → PHISHING
+10.  june                | Impact: 0.004091 → PHISHING
+11.  idea                | Impact: -0.003447 → LEGITIMATE
+12.  ur                  | Impact: -0.003238 → LEGITIMATE
+13.  ll                  | Impact: -0.002774 → LEGITIMATE
+14.  i                   | Impact: -0.002613 → LEGITIMATE
+15.  but                 | Impact: -0.002578 → LEGITIMATE
+16. sia                  | Impact: -0.002396 → LEGITIMATE
+17.  on                  | Impact: -0.002292 → LEGITIMATE
+18.  day                 | Impact: 0.002214 → PHISHING
+19.  of                  | Impact: 0.001949 → PHISHING
+20.  stupid              | Impact: -0.001949 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  born                | Impact: 0.073772
+ 2.  basis               | Impact: 0.006240
+ 3.  on                  | Impact: 0.005567
+ 4.  june                | Impact: 0.004091
+ 5.  day                 | Impact: 0.002214
+ 6.  of                  | Impact: 0.001949
+ 7.  .                   | Impact: 0.001942
+ 8.  as                  | Impact: 0.001886
+ 9.  the                 | Impact: 0.001762
+10.  .                   | Impact: 0.001193
+11.  th                  | Impact: 0.000956
+12.  every               | Impact: 0.000946
+13.  same                | Impact: 0.000807
+14.  latest              | Impact: 0.000559
+15.  the                 | Impact: 0.000440
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.022832
+ 2.  th                  | Impact: -0.017002
+ 3.  .                   | Impact: -0.016159
+ 4.  .                   | Impact: -0.011803
+ 5.  ,                   | Impact: -0.007557
+ 6.  since               | Impact: -0.005645
+ 7.  idea                | Impact: -0.003447
+ 8.  ur                  | Impact: -0.003238
+ 9.  ll                  | Impact: -0.002774
+10.  i                   | Impact: -0.002613
+11.  but                 | Impact: -0.002578
+12. sia                  | Impact: -0.002396
+13.  on                  | Impact: -0.002292
+14.  stupid              | Impact: -0.001949
+15.  .                   | Impact: -0.001917
+16.  :                   | Impact: -0.001916
+17.  be                  | Impact: -0.001569
+18.  .                   | Impact: -0.001516
+19.  '                   | Impact: -0.001471
+20.  :                   | Impact: -0.001404

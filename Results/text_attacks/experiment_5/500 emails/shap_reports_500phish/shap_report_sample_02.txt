@@ -1,0 +1,75 @@
+Sample 2
+========
+
+Sample text preview: I NEED YOUR QUICK RESPONSE Calvary Greetings I am a preacher with the Seed Harvest Ministry,and I will like to get advice from you.I believe the advic...
+
+Model prediction: [2.3504079e-04 9.9976498e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  direct              | Impact: 0.021271 → PHISHING
+ 2.  email               | Impact: 0.021271 → PHISHING
+ 3.  address             | Impact: 0.021271 → PHISHING
+ 4.  regards             | Impact: 0.021271 → PHISHING
+ 5.  from                | Impact: 0.021145 → PHISHING
+ 6.  you                 | Impact: 0.021145 → PHISHING
+ 7.  me                  | Impact: 0.020978 → PHISHING
+ 8.  your                | Impact: 0.020978 → PHISHING
+ 9.  through             | Impact: 0.013776 → PHISHING
+10.  my                  | Impact: 0.013776 → PHISHING
+11.  money               | Impact: 0.010063 → PHISHING
+12.  that                | Impact: 0.010063 → PHISHING
+13.  has                 | Impact: 0.010063 → PHISHING
+14.  to                  | Impact: 0.009994 → PHISHING
+15.  give                | Impact: 0.009994 → PHISHING
+16.  i                   | Impact: 0.007839 → PHISHING
+17.  will                | Impact: 0.007839 → PHISHING
+18.  like                | Impact: 0.007839 → PHISHING
+19.  you                 | Impact: 0.007839 → PHISHING
+20.  escorted            | Impact: 0.006571 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  direct              | Impact: 0.021271
+ 2.  email               | Impact: 0.021271
+ 3.  address             | Impact: 0.021271
+ 4.  regards             | Impact: 0.021271
+ 5.  from                | Impact: 0.021145
+ 6.  you                 | Impact: 0.021145
+ 7.  me                  | Impact: 0.020978
+ 8.  your                | Impact: 0.020978
+ 9.  through             | Impact: 0.013776
+10.  my                  | Impact: 0.013776
+11.  money               | Impact: 0.010063
+12.  that                | Impact: 0.010063
+13.  has                 | Impact: 0.010063
+14.  to                  | Impact: 0.009994
+15.  give                | Impact: 0.009994
+16.  i                   | Impact: 0.007839
+17.  will                | Impact: 0.007839
+18.  like                | Impact: 0.007839
+19.  you                 | Impact: 0.007839
+20.  escorted            | Impact: 0.006571
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  to                  | Impact: -0.003246
+ 2.  get                 | Impact: -0.003246
+ 3.  a                   | Impact: -0.003246
+ 4.  response            | Impact: -0.003246
+ 5.  i                   | Impact: -0.001353
+ 6.  will                | Impact: -0.001353
+ 7.  be                  | Impact: -0.001353
+ 8.  glad                | Impact: -0.001353
+ 9.  before              | Impact: -0.001310
+10.  then                | Impact: -0.001310
+11.  ,                   | Impact: -0.001310
+12.  pastor              | Impact: -0.000388
+13.  jones               | Impact: -0.000388
+14.  bell                | Impact: -0.000388
+15.  -                   | Impact: -0.000388
+16.  -                   | Impact: -0.000388
+17.  -                   | Impact: -0.000388
+18.  -                   | Impact: -0.000388
+19.  -                   | Impact: -0.000388
+20.  -                   | Impact: -0.000388

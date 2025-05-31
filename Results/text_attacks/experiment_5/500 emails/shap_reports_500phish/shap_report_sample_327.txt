@@ -1,0 +1,75 @@
+Sample 327
+==========
+
+Sample text preview: From:Mrs Hassan. Attn:The Managing Director Before I proceed, may I humbly introduce myself to your goodself, My Name is Mrs. Amina hassan, an Iraqi r...
+
+Model prediction: [1.5480927e-04 9.9984515e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  name                | Impact: 0.020551 → PHISHING
+ 2.  my                  | Impact: 0.017687 → PHISHING
+ 3.  husband             | Impact: 0.017687 → PHISHING
+ 4.  my                  | Impact: 0.017603 → PHISHING
+ 5.  husband             | Impact: 0.016755 → PHISHING
+ 6.  was                 | Impact: 0.016755 → PHISHING
+ 7.  husband             | Impact: 0.013436 → PHISHING
+ 8.  proceeds            | Impact: 0.013436 → PHISHING
+ 9.  is                  | Impact: 0.012282 → PHISHING
+10.  mrs                 | Impact: 0.012282 → PHISHING
+11.  husband             | Impact: 0.012155 → PHISHING
+12.  position            | Impact: 0.012155 → PHISHING
+13.  my                  | Impact: 0.010722 → PHISHING
+14.  late                | Impact: 0.010722 → PHISHING
+15.  my                  | Impact: 0.009808 → PHISHING
+16.  late                | Impact: 0.009808 → PHISHING
+17.  in                  | Impact: 0.009622 → PHISHING
+18.  your                | Impact: 0.009622 → PHISHING
+19.  surviving           | Impact: 0.008568 → PHISHING
+20.  son                 | Impact: 0.008568 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  name                | Impact: 0.020551
+ 2.  my                  | Impact: 0.017687
+ 3.  husband             | Impact: 0.017687
+ 4.  my                  | Impact: 0.017603
+ 5.  husband             | Impact: 0.016755
+ 6.  was                 | Impact: 0.016755
+ 7.  husband             | Impact: 0.013436
+ 8.  proceeds            | Impact: 0.013436
+ 9.  is                  | Impact: 0.012282
+10.  mrs                 | Impact: 0.012282
+11.  husband             | Impact: 0.012155
+12.  position            | Impact: 0.012155
+13.  my                  | Impact: 0.010722
+14.  late                | Impact: 0.010722
+15.  my                  | Impact: 0.009808
+16.  late                | Impact: 0.009808
+17.  in                  | Impact: 0.009622
+18.  your                | Impact: 0.009622
+19.  surviving           | Impact: 0.008568
+20.  son                 | Impact: 0.008568
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  before              | Impact: -0.002124
+ 2.  i                   | Impact: -0.002124
+ 3.  proceed             | Impact: -0.002124
+ 4.  the                 | Impact: -0.000800
+ 5.  funds               | Impact: -0.000800
+ 6.  ,                   | Impact: -0.000736
+ 7.  or                  | Impact: -0.000449
+ 8.  better              | Impact: -0.000449
+ 9.  still               | Impact: -0.000449
+10.  commit              | Impact: -0.000449
+11.  it                  | Impact: -0.000449
+12.  into                | Impact: -0.000449
+13.  viable              | Impact: -0.000449
+14.  joint               | Impact: -0.000449
+15.  venture             | Impact: -0.000449
+16.  projects            | Impact: -0.000449
+17.  ,                   | Impact: -0.000449
+18.  .                   | Impact: -0.000107
+19.  get                 | Impact: -0.000095
+20.  your                | Impact: -0.000095

@@ -1,0 +1,75 @@
+Sample 331
+==========
+
+Sample text preview: Please let me know if you would prefer a hard copy instead of email. Thanks -----Original Message----- From: "Dan Salter" Sent: Wednesday, November , ...
+
+Model prediction: [9.9980420e-01 1.9579359e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  plant               | Impact: -0.007208 → LEGITIMATE
+ 2.  weekly              | Impact: 0.007191 → PHISHING
+ 3.  dan                 | Impact: 0.005875 → PHISHING
+ 4.  nuclear             | Impact: -0.005609 → LEGITIMATE
+ 5.  please              | Impact: 0.004772 → PHISHING
+ 6.  .                   | Impact: -0.004251 → LEGITIMATE
+ 7.  is                  | Impact: 0.004160 → PHISHING
+ 8.  attached            | Impact: 0.004067 → PHISHING
+ 9.  status              | Impact: -0.003723 → LEGITIMATE
+10.  weekly              | Impact: 0.003664 → PHISHING
+11.  .                   | Impact: -0.003526 → LEGITIMATE
+12.  wr                  | Impact: -0.003442 → LEGITIMATE
+13.  update              | Impact: -0.003429 → LEGITIMATE
+14.  -                   | Impact: 0.003224 → PHISHING
+15.  let                 | Impact: -0.002990 → LEGITIMATE
+16.  would               | Impact: -0.002626 → LEGITIMATE
+17.  prefer              | Impact: -0.002562 → LEGITIMATE
+18.  weekly              | Impact: 0.002236 → PHISHING
+19.  if                  | Impact: -0.002199 → LEGITIMATE
+20.  subject             | Impact: -0.002100 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  weekly              | Impact: 0.007191
+ 2.  dan                 | Impact: 0.005875
+ 3.  please              | Impact: 0.004772
+ 4.  is                  | Impact: 0.004160
+ 5.  attached            | Impact: 0.004067
+ 6.  weekly              | Impact: 0.003664
+ 7.  -                   | Impact: 0.003224
+ 8.  weekly              | Impact: 0.002236
+ 9.  doc                 | Impact: 0.001850
+10.  the                 | Impact: 0.001031
+11.  know                | Impact: 0.000771
+12.  me                  | Impact: 0.000423
+13.  november            | Impact: 0.000376
+14.  a                   | Impact: 0.000350
+15.  -                   | Impact: 0.000344
+16.  you                 | Impact: 0.000333
+17.  from                | Impact: 0.000286
+18.  november            | Impact: 0.000211
+19.  -                   | Impact: 0.000120
+20.  -                   | Impact: 0.000054
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  plant               | Impact: -0.007208
+ 2.  nuclear             | Impact: -0.005609
+ 3.  .                   | Impact: -0.004251
+ 4.  status              | Impact: -0.003723
+ 5.  .                   | Impact: -0.003526
+ 6.  wr                  | Impact: -0.003442
+ 7.  update              | Impact: -0.003429
+ 8.  let                 | Impact: -0.002990
+ 9.  would               | Impact: -0.002626
+10.  prefer              | Impact: -0.002562
+11.  if                  | Impact: -0.002199
+12.  subject             | Impact: -0.002100
+13.  email               | Impact: -0.001901
+14.  ,                   | Impact: -0.001732
+15.  :                   | Impact: -0.001568
+16.  :                   | Impact: -0.001543
+17.  thanks              | Impact: -0.001496
+18. w                    | Impact: -0.001492
+19.  :                   | Impact: -0.001362
+20.  update              | Impact: -0.001044

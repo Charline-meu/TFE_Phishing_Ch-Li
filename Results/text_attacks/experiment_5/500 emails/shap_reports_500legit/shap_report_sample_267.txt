@@ -1,0 +1,75 @@
+Sample 267
+==========
+
+Sample text preview: I rigged this up for testing before I commit to a sitewide rollout of Spamassassin as an SMTP relay. It is more work, but it avoids sitewide changes i...
+
+Model prediction: [9.9961495e-01 3.8502860e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  relay               | Impact: -0.010930 → LEGITIMATE
+ 2.  testing             | Impact: -0.009384 → LEGITIMATE
+ 3.  more                | Impact: -0.009284 → LEGITIMATE
+ 4.  server              | Impact: -0.008759 → LEGITIMATE
+ 5.  work                | Impact: -0.007994 → LEGITIMATE
+ 6.  before              | Impact: -0.006923 → LEGITIMATE
+ 7.  com                 | Impact: 0.006814 → PHISHING
+ 8.  )                   | Impact: 0.006814 → PHISHING
+ 9.  sm                  | Impact: -0.005760 → LEGITIMATE
+10. tp                   | Impact: -0.005760 → LEGITIMATE
+11.  of                  | Impact: -0.005685 → LEGITIMATE
+12.  testing             | Impact: -0.005685 → LEGITIMATE
+13.  the                 | Impact: -0.005137 → LEGITIMATE
+14.  .                   | Impact: 0.005115 → PHISHING
+15.  of                  | Impact: -0.005079 → LEGITIMATE
+16.  rigged              | Impact: -0.004986 → LEGITIMATE
+17.  your                | Impact: 0.004970 → PHISHING
+18. dom                  | Impact: 0.004970 → PHISHING
+19. ain                  | Impact: 0.004970 → PHISHING
+20.  .                   | Impact: 0.004970 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  com                 | Impact: 0.006814
+ 2.  )                   | Impact: 0.006814
+ 3.  .                   | Impact: 0.005115
+ 4.  your                | Impact: 0.004970
+ 5. dom                  | Impact: 0.004970
+ 6. ain                  | Impact: 0.004970
+ 7.  .                   | Impact: 0.004970
+ 8.  spa                 | Impact: 0.004716
+ 9.  (                   | Impact: 0.003975
+10.  mail                | Impact: 0.003975
+11.  .                   | Impact: 0.003975
+12.  all                 | Impact: 0.003643
+13.  mail                | Impact: 0.003643
+14.  to                  | Impact: 0.003643
+15.  the                 | Impact: 0.003643
+16.  custom              | Impact: 0.003498
+17.  recipient           | Impact: 0.003498
+18.  to                  | Impact: 0.003498
+19.  forward             | Impact: 0.003498
+20. mas                  | Impact: 0.003007
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  relay               | Impact: -0.010930
+ 2.  testing             | Impact: -0.009384
+ 3.  more                | Impact: -0.009284
+ 4.  server              | Impact: -0.008759
+ 5.  work                | Impact: -0.007994
+ 6.  before              | Impact: -0.006923
+ 7.  sm                  | Impact: -0.005760
+ 8. tp                   | Impact: -0.005760
+ 9.  of                  | Impact: -0.005685
+10.  testing             | Impact: -0.005685
+11.  the                 | Impact: -0.005137
+12.  of                  | Impact: -0.005079
+13.  rigged              | Impact: -0.004986
+14.  to                  | Impact: -0.004958
+15.  a                   | Impact: -0.004958
+16.                      | Impact: -0.004885
+17.  i                   | Impact: -0.004885
+18.  as                  | Impact: -0.004774
+19.  an                  | Impact: -0.004774
+20.  this                | Impact: -0.004581

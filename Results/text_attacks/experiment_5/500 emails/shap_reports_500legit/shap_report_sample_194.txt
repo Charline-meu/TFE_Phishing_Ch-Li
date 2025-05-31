@@ -1,0 +1,75 @@
+Sample 194
+==========
+
+Sample text preview: Last week I had a chance to see some TabletPC's demonstrated, and I was very impressed. * Handwriting recognition was good, as was the ability to pars...
+
+Model prediction: [9.9976796e-01 2.3201888e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  applications        | Impact: -0.004386 → LEGITIMATE
+ 2.  applications        | Impact: -0.002137 → LEGITIMATE
+ 3.  vary                | Impact: -0.001779 → LEGITIMATE
+ 4.  .                   | Impact: -0.001377 → LEGITIMATE
+ 5.  usable              | Impact: -0.001274 → LEGITIMATE
+ 6.  .                   | Impact: -0.001197 → LEGITIMATE
+ 7.  saw                 | Impact: 0.000986 → PHISHING
+ 8.  prices              | Impact: 0.000941 → PHISHING
+ 9.  i                   | Impact: 0.000929 → PHISHING
+10.  range               | Impact: -0.000921 → LEGITIMATE
+11.  incorporate         | Impact: -0.000883 → LEGITIMATE
+12.  be                  | Impact: 0.000824 → PHISHING
+13.  -                   | Impact: -0.000806 → LEGITIMATE
+14.  very                | Impact: -0.000801 → LEGITIMATE
+15.  successful          | Impact: 0.000795 → PHISHING
+16.  .                   | Impact: -0.000789 → LEGITIMATE
+17.  factors             | Impact: -0.000787 → LEGITIMATE
+18.  built               | Impact: -0.000764 → LEGITIMATE
+19.  .                   | Impact: -0.000744 → LEGITIMATE
+20.  be                  | Impact: 0.000691 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  saw                 | Impact: 0.000986
+ 2.  prices              | Impact: 0.000941
+ 3.  i                   | Impact: 0.000929
+ 4.  be                  | Impact: 0.000824
+ 5.  successful          | Impact: 0.000795
+ 6.  be                  | Impact: 0.000691
+ 7.  definitely          | Impact: 0.000673
+ 8.  *                   | Impact: 0.000486
+ 9.  will                | Impact: 0.000483
+10.  *                   | Impact: 0.000431
+11.  around              | Impact: 0.000406
+12.  m                   | Impact: 0.000384
+13.  into                | Impact: 0.000361
+14.  and                 | Impact: 0.000340
+15.  i                   | Impact: 0.000272
+16.  '                   | Impact: 0.000272
+17.  came                | Impact: 0.000197
+18.  with                | Impact: 0.000197
+19.  it                  | Impact: 0.000168
+20.  '                   | Impact: 0.000168
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  applications        | Impact: -0.004386
+ 2.  applications        | Impact: -0.002137
+ 3.  vary                | Impact: -0.001779
+ 4.  .                   | Impact: -0.001377
+ 5.  usable              | Impact: -0.001274
+ 6.  .                   | Impact: -0.001197
+ 7.  range               | Impact: -0.000921
+ 8.  incorporate         | Impact: -0.000883
+ 9.  -                   | Impact: -0.000806
+10.  very                | Impact: -0.000801
+11.  .                   | Impact: -0.000789
+12.  factors             | Impact: -0.000787
+13.  built               | Impact: -0.000764
+14.  .                   | Impact: -0.000744
+15.  -                   | Impact: -0.000673
+16.  will                | Impact: -0.000636
+17.  laptop              | Impact: -0.000636
+18.  wi                  | Impact: -0.000591
+19. fi                   | Impact: -0.000591
+20.  .                   | Impact: -0.000566

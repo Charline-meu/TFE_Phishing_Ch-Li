@@ -1,0 +1,75 @@
+Sample 69
+=========
+
+Sample text preview: Attached are our power point slides laying out the time line for FERC action. The estimated time frames for FERC action, even without a settlement, ar...
+
+Model prediction: [9.9979788e-01 2.0210206e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  slides              | Impact: -0.005921 → LEGITIMATE
+ 2.  slides              | Impact: -0.003858 → LEGITIMATE
+ 3.  slides              | Impact: -0.003293 → LEGITIMATE
+ 4.  sarah               | Impact: -0.003120 → LEGITIMATE
+ 5.  comments            | Impact: -0.002100 → LEGITIMATE
+ 6.  .                   | Impact: -0.001857 → LEGITIMATE
+ 7.  questions           | Impact: -0.001596 → LEGITIMATE
+ 8.  attached            | Impact: -0.001596 → LEGITIMATE
+ 9.  our                 | Impact: 0.001519 → PHISHING
+10.  action              | Impact: -0.001444 → LEGITIMATE
+11.  the                 | Impact: -0.001419 → LEGITIMATE
+12.  slides              | Impact: -0.001419 → LEGITIMATE
+13.  the                 | Impact: -0.001369 → LEGITIMATE
+14.  .                   | Impact: -0.001344 → LEGITIMATE
+15.  point               | Impact: -0.001334 → LEGITIMATE
+16.  laying              | Impact: -0.001302 → LEGITIMATE
+17.  .                   | Impact: -0.001263 → LEGITIMATE
+18.  or                  | Impact: -0.001151 → LEGITIMATE
+19.  estimated           | Impact: -0.001055 → LEGITIMATE
+20.  reserve             | Impact: -0.001024 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  our                 | Impact: 0.001519
+ 2.  are                 | Impact: 0.000835
+ 3.  settlement          | Impact: 0.000768
+ 4.  like                | Impact: 0.000567
+ 5.  steve               | Impact: 0.000386
+ 6.  angle               | Impact: 0.000386
+ 7.  ,                   | Impact: 0.000359
+ 8.  they                | Impact: 0.000352
+ 9.  have                | Impact: 0.000352
+10.  would               | Impact: 0.000304
+11.  a                   | Impact: 0.000301
+12.  so                  | Impact: 0.000279
+13.  we                  | Impact: 0.000279
+14.  not                 | Impact: 0.000210
+15.  seen                | Impact: 0.000210
+16.  and                 | Impact: 0.000141
+17.  please              | Impact: 0.000132
+18.  let                 | Impact: 0.000132
+19.  me                  | Impact: 0.000132
+20.  know                | Impact: 0.000132
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  slides              | Impact: -0.005921
+ 2.  slides              | Impact: -0.003858
+ 3.  slides              | Impact: -0.003293
+ 4.  sarah               | Impact: -0.003120
+ 5.  comments            | Impact: -0.002100
+ 6.  .                   | Impact: -0.001857
+ 7.  questions           | Impact: -0.001596
+ 8.  attached            | Impact: -0.001596
+ 9.  action              | Impact: -0.001444
+10.  the                 | Impact: -0.001419
+11.  slides              | Impact: -0.001419
+12.  the                 | Impact: -0.001369
+13.  .                   | Impact: -0.001344
+14.  point               | Impact: -0.001334
+15.  laying              | Impact: -0.001302
+16.  .                   | Impact: -0.001263
+17.  or                  | Impact: -0.001151
+18.  estimated           | Impact: -0.001055
+19.  reserve             | Impact: -0.001024
+20.  .                   | Impact: -0.000982

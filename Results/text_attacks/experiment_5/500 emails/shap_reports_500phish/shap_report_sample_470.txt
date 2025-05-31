@@ -1,0 +1,75 @@
+Sample 470
+==========
+
+Sample text preview: Mr. Jun Cheng, Bank Of Korea, -, Yoido-dong, Youngdungpo-gu, Seoul -. Dear Friend I am Jun Cheng a manager of bills/exchange at the foreign remittance...
+
+Model prediction: [1.599075e-04 9.998400e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.015295 → PHISHING
+ 2.  will                | Impact: 0.015295 → PHISHING
+ 3.  be                  | Impact: 0.015295 → PHISHING
+ 4.  communicated        | Impact: 0.015295 → PHISHING
+ 5.  reply               | Impact: 0.008818 → PHISHING
+ 6.  this                | Impact: 0.008818 → PHISHING
+ 7.  letter              | Impact: 0.008818 → PHISHING
+ 8.  indicating          | Impact: 0.008818 → PHISHING
+ 9.  your                | Impact: 0.008818 → PHISHING
+10.  readiness           | Impact: 0.008818 → PHISHING
+11.  and                 | Impact: 0.008818 → PHISHING
+12.  dear                | Impact: 0.008536 → PHISHING
+13.  friend              | Impact: 0.008536 → PHISHING
+14.  i                   | Impact: 0.008536 → PHISHING
+15.  am                  | Impact: 0.008536 → PHISHING
+16.  after               | Impact: 0.008277 → PHISHING
+17.  receiving           | Impact: 0.008277 → PHISHING
+18.  your                | Impact: 0.008277 → PHISHING
+19.  reply               | Impact: 0.008277 → PHISHING
+20.  interest            | Impact: 0.006545 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.015295
+ 2.  will                | Impact: 0.015295
+ 3.  be                  | Impact: 0.015295
+ 4.  communicated        | Impact: 0.015295
+ 5.  reply               | Impact: 0.008818
+ 6.  this                | Impact: 0.008818
+ 7.  letter              | Impact: 0.008818
+ 8.  indicating          | Impact: 0.008818
+ 9.  your                | Impact: 0.008818
+10.  readiness           | Impact: 0.008818
+11.  and                 | Impact: 0.008818
+12.  dear                | Impact: 0.008536
+13.  friend              | Impact: 0.008536
+14.  i                   | Impact: 0.008536
+15.  am                  | Impact: 0.008536
+16.  after               | Impact: 0.008277
+17.  receiving           | Impact: 0.008277
+18.  your                | Impact: 0.008277
+19.  reply               | Impact: 0.008277
+20.  interest            | Impact: 0.006545
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  that                | Impact: -0.000269
+ 2.  any                 | Impact: -0.000269
+ 3.  account             | Impact: -0.000269
+ 4.  abandoned           | Impact: -0.000269
+ 5.  or                  | Impact: -0.000269
+ 6.  the                 | Impact: -0.000269
+ 7.  banking             | Impact: -0.000269
+ 8.  law                 | Impact: -0.000269
+ 9.  and                 | Impact: -0.000269
+10.  guidelines          | Impact: -0.000269
+11.  here                | Impact: -0.000269
+12.  st                  | Impact: -0.000269
+13. ip                   | Impact: -0.000269
+14. ulates               | Impact: -0.000269
+15.  of                  | Impact: -0.000256
+16.  bills               | Impact: -0.000256
+17.  /                   | Impact: -0.000256
+18.  exchange            | Impact: -0.000256
+19.  at                  | Impact: -0.000256
+20.  the                 | Impact: -0.000256

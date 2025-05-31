@@ -1,0 +1,75 @@
+Sample 86
+=========
+
+Sample text preview: Okay, I'll ammend that to LIVE OLD tree saving, like the thousands of acres of virgin pine forest that was razed here in MS so that our military can p...
+
+Model prediction: [9.9978894e-01 2.1106753e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wrote               | Impact: -0.002042 → LEGITIMATE
+ 2.  >                   | Impact: -0.001901 → LEGITIMATE
+ 3.  >                   | Impact: -0.001900 → LEGITIMATE
+ 4.  :                   | Impact: -0.001849 → LEGITIMATE
+ 5.  jul                 | Impact: 0.001682 → PHISHING
+ 6.  wed                 | Impact: 0.001533 → PHISHING
+ 7.  lost                | Impact: 0.001144 → PHISHING
+ 8.  ,                   | Impact: 0.001144 → PHISHING
+ 9.                      | Impact: -0.001083 → LEGITIMATE
+10.  okay                | Impact: -0.001083 → LEGITIMATE
+11.  ,                   | Impact: 0.000993 → PHISHING
+12.  >                   | Impact: -0.000982 → LEGITIMATE
+13.  >                   | Impact: -0.000982 → LEGITIMATE
+14.  forest              | Impact: -0.000907 → LEGITIMATE
+15.  is                  | Impact: -0.000907 → LEGITIMATE
+16.  fought              | Impact: 0.000903 → PHISHING
+17.  it                  | Impact: 0.000903 → PHISHING
+18.  for                 | Impact: 0.000903 → PHISHING
+19.  years               | Impact: 0.000903 → PHISHING
+20.  ,                   | Impact: 0.000821 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  jul                 | Impact: 0.001682
+ 2.  wed                 | Impact: 0.001533
+ 3.  lost                | Impact: 0.001144
+ 4.  ,                   | Impact: 0.001144
+ 5.  ,                   | Impact: 0.000993
+ 6.  fought              | Impact: 0.000903
+ 7.  it                  | Impact: 0.000903
+ 8.  for                 | Impact: 0.000903
+ 9.  years               | Impact: 0.000903
+10.  ,                   | Impact: 0.000821
+11.  ,                   | Impact: 0.000514
+12.  .                   | Impact: 0.000513
+13.  c                   | Impact: 0.000473
+14.  on                  | Impact: 0.000473
+15.  hide                | Impact: 0.000256
+16.  the                 | Impact: 0.000256
+17.  fact                | Impact: 0.000256
+18.  that                | Impact: 0.000256
+19.  stand               | Impact: 0.000243
+20.  of                  | Impact: 0.000243
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  wrote               | Impact: -0.002042
+ 2.  >                   | Impact: -0.001901
+ 3.  >                   | Impact: -0.001900
+ 4.  :                   | Impact: -0.001849
+ 5.                      | Impact: -0.001083
+ 6.  okay                | Impact: -0.001083
+ 7.  >                   | Impact: -0.000982
+ 8.  >                   | Impact: -0.000982
+ 9.  forest              | Impact: -0.000907
+10.  is                  | Impact: -0.000907
+11.  a                   | Impact: -0.000785
+12.  project             | Impact: -0.000785
+13.  to                  | Impact: -0.000785
+14.  allow               | Impact: -0.000785
+15.  >                   | Impact: -0.000785
+16.  the                 | Impact: -0.000771
+17.  forest              | Impact: -0.000771
+18.  service             | Impact: -0.000771
+19.  started             | Impact: -0.000771
+20.  in                  | Impact: -0.000700

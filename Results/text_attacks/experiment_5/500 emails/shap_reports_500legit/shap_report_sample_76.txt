@@ -1,0 +1,39 @@
+Sample 76
+=========
+
+Sample text preview: Penny, I have attached the SWKI File.
+
+Model prediction: [9.9971718e-01 2.8285757e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  have                | Impact: -0.160216 → LEGITIMATE
+ 2. ki                   | Impact: -0.146322 → LEGITIMATE
+ 3.  ,                   | Impact: -0.054587 → LEGITIMATE
+ 4.  i                   | Impact: -0.051191 → LEGITIMATE
+ 5.  sw                  | Impact: -0.049115 → LEGITIMATE
+ 6.  attached            | Impact: 0.041334 → PHISHING
+ 7.  the                 | Impact: -0.040401 → LEGITIMATE
+ 8.  penny               | Impact: -0.033353 → LEGITIMATE
+ 9.  file                | Impact: 0.024262 → PHISHING
+10.  .                   | Impact: 0.008139 → PHISHING
+11.                      | Impact: 0.000000 → PHISHING
+12.                      | Impact: 0.000000 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  attached            | Impact: 0.041334
+ 2.  file                | Impact: 0.024262
+ 3.  .                   | Impact: 0.008139
+ 4.                      | Impact: 0.000000
+ 5.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  have                | Impact: -0.160216
+ 2. ki                   | Impact: -0.146322
+ 3.  ,                   | Impact: -0.054587
+ 4.  i                   | Impact: -0.051191
+ 5.  sw                  | Impact: -0.049115
+ 6.  the                 | Impact: -0.040401
+ 7.  penny               | Impact: -0.033353

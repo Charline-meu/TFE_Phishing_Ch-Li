@@ -1,0 +1,75 @@
+Sample 93
+=========
+
+Sample text preview: ATTN: THE OFFICE OF UTAKI & UTAKI CHAMBERS (INTERNATIONAL SOLICITORS AND ADVOCATES) - SIDE STREET, FEDERAL CAPITAL TERRITORY ACCRA, GHANA. DEAR SIR/MA...
+
+Model prediction: [1.9441807e-04 9.9980563e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ghana               | Impact: 0.032848 → PHISHING
+ 2.  a                   | Impact: 0.015669 → PHISHING
+ 3.  ghanaian            | Impact: 0.015669 → PHISHING
+ 4.  his                 | Impact: 0.014791 → PHISHING
+ 5.  family              | Impact: 0.014791 → PHISHING
+ 6.  dear                | Impact: 0.013745 → PHISHING
+ 7.  sir                 | Impact: 0.013745 → PHISHING
+ 8.  killed              | Impact: 0.013361 → PHISHING
+ 9.  with                | Impact: 0.013361 → PHISHING
+10.  /                   | Impact: 0.012534 → PHISHING
+11.  madam               | Impact: 0.012534 → PHISHING
+12.  i                   | Impact: 0.012178 → PHISHING
+13.  am                  | Impact: 0.012178 → PHISHING
+14.  i                   | Impact: 0.010308 → PHISHING
+15.  am                  | Impact: 0.010308 → PHISHING
+16.  contracting         | Impact: 0.010308 → PHISHING
+17.  you                 | Impact: 0.010308 → PHISHING
+18.  uta                 | Impact: 0.008890 → PHISHING
+19. ki                   | Impact: 0.008890 → PHISHING
+20.  &                   | Impact: 0.008890 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ghana               | Impact: 0.032848
+ 2.  a                   | Impact: 0.015669
+ 3.  ghanaian            | Impact: 0.015669
+ 4.  his                 | Impact: 0.014791
+ 5.  family              | Impact: 0.014791
+ 6.  dear                | Impact: 0.013745
+ 7.  sir                 | Impact: 0.013745
+ 8.  killed              | Impact: 0.013361
+ 9.  with                | Impact: 0.013361
+10.  /                   | Impact: 0.012534
+11.  madam               | Impact: 0.012534
+12.  i                   | Impact: 0.012178
+13.  am                  | Impact: 0.012178
+14.  i                   | Impact: 0.010308
+15.  am                  | Impact: 0.010308
+16.  contracting         | Impact: 0.010308
+17.  you                 | Impact: 0.010308
+18.  uta                 | Impact: 0.008890
+19. ki                   | Impact: 0.008890
+20.  &                   | Impact: 0.008890
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.006186
+ 2.  (                   | Impact: -0.005836
+ 3.  warnings            | Impact: -0.005836
+ 4.  )                   | Impact: -0.005836
+ 5.  com                 | Impact: -0.005617
+ 6.  /                   | Impact: -0.005617
+ 7.  h                   | Impact: -0.004058
+ 8. tm                   | Impact: -0.004058
+ 9.  >                   | Impact: -0.004058
+10.  or                  | Impact: -0.003555
+11.  termed              | Impact: -0.003555
+12.  of                  | Impact: -0.002545
+13.  international       | Impact: -0.002545
+14.  standard            | Impact: -0.002545
+15.  .                   | Impact: -0.002545
+16.  lonely              | Impact: -0.002319
+17. plane                | Impact: -0.002319
+18. t                    | Impact: -0.002319
+19.  africa              | Impact: -0.002147
+20.  /                   | Impact: -0.002147

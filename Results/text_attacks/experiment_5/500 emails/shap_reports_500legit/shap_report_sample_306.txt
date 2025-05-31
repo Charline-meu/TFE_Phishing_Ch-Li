@@ -1,0 +1,75 @@
+Sample 306
+==========
+
+Sample text preview: FROM BETH STIER ---------------------- Forwarded by Maureen McVicker/NA/Enron on // : AM --------------------------- on // :: AM To: cc: Subject: Fwd:...
+
+Model prediction: [9.9980122e-01 1.9874318e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.005162 → LEGITIMATE
+ 2.  en                  | Impact: -0.005087 → LEGITIMATE
+ 3. ron                  | Impact: -0.004959 → LEGITIMATE
+ 4. ron                  | Impact: -0.004644 → LEGITIMATE
+ 5.  steve               | Impact: 0.004436 → PHISHING
+ 6.  with                | Impact: -0.003071 → LEGITIMATE
+ 7.  mark                | Impact: -0.003071 → LEGITIMATE
+ 8.  palmer              | Impact: -0.003071 → LEGITIMATE
+ 9.  you                 | Impact: 0.002510 → PHISHING
+10.  '                   | Impact: 0.002510 → PHISHING
+11.  mail                | Impact: -0.002403 → LEGITIMATE
+12.  this                | Impact: -0.002403 → LEGITIMATE
+13.  afternoon           | Impact: -0.002403 → LEGITIMATE
+14.  '                   | Impact: -0.001974 → LEGITIMATE
+15.  s                   | Impact: -0.001974 → LEGITIMATE
+16.  we                  | Impact: 0.001850 → PHISHING
+17.  '                   | Impact: 0.001850 → PHISHING
+18.  the                 | Impact: -0.001790 → LEGITIMATE
+19.  solutions           | Impact: -0.001790 → LEGITIMATE
+20.  steve               | Impact: 0.001737 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  steve               | Impact: 0.004436
+ 2.  you                 | Impact: 0.002510
+ 3.  '                   | Impact: 0.002510
+ 4.  we                  | Impact: 0.001850
+ 5.  '                   | Impact: 0.001850
+ 6.  steve               | Impact: 0.001737
+ 7.  we                  | Impact: 0.001638
+ 8.  know                | Impact: 0.001638
+ 9.  something           | Impact: 0.001338
+10.  week                | Impact: 0.001127
+11.  you                 | Impact: 0.001056
+12.  '                   | Impact: 0.001056
+13.  last                | Impact: 0.001024
+14.  interviewed         | Impact: 0.000796
+15.  steve               | Impact: 0.000796
+16.  ll                  | Impact: 0.000741
+17.  consider            | Impact: 0.000741
+18.  now                 | Impact: 0.000738
+19.  that                | Impact: 0.000738
+20.  ll                  | Impact: 0.000644
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.005162
+ 2.  en                  | Impact: -0.005087
+ 3. ron                  | Impact: -0.004959
+ 4. ron                  | Impact: -0.004644
+ 5.  with                | Impact: -0.003071
+ 6.  mark                | Impact: -0.003071
+ 7.  palmer              | Impact: -0.003071
+ 8.  mail                | Impact: -0.002403
+ 9.  this                | Impact: -0.002403
+10.  afternoon           | Impact: -0.002403
+11.  '                   | Impact: -0.001974
+12.  s                   | Impact: -0.001974
+13.  the                 | Impact: -0.001790
+14.  solutions           | Impact: -0.001790
+15.  .                   | Impact: -0.001645
+16.  ,                   | Impact: -0.001403
+17.  e                   | Impact: -0.001397
+18.  -                   | Impact: -0.001397
+19.  .                   | Impact: -0.001314
+20.  .                   | Impact: -0.001145

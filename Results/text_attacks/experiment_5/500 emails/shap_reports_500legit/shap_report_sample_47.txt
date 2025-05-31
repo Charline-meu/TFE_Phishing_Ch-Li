@@ -1,0 +1,75 @@
+Sample 47
+=========
+
+Sample text preview: We are starting to collect data for April. The attached survey drives your costs from your activities to the commercial teams. Please select your RCs,...
+
+Model prediction: [9.9950433e-01 4.9561856e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  april               | Impact: -0.026386 → LEGITIMATE
+ 2.  survey              | Impact: -0.020131 → LEGITIMATE
+ 3.  your                | Impact: 0.019255 → PHISHING
+ 4.  your                | Impact: 0.015407 → PHISHING
+ 5.  rc                  | Impact: -0.015137 → LEGITIMATE
+ 6.  costs               | Impact: 0.014242 → PHISHING
+ 7.  survey              | Impact: -0.012241 → LEGITIMATE
+ 8.  eliminate           | Impact: 0.012216 → PHISHING
+ 9.  activities          | Impact: 0.011001 → PHISHING
+10.  th                  | Impact: 0.010911 → PHISHING
+11.  survey              | Impact: -0.010431 → LEGITIMATE
+12.  your                | Impact: 0.010428 → PHISHING
+13.  drives              | Impact: -0.009334 → LEGITIMATE
+14.  thanks              | Impact: -0.009011 → LEGITIMATE
+15. ri                   | Impact: -0.008964 → LEGITIMATE
+16.  lisa                | Impact: -0.008228 → LEGITIMATE
+17.  collect             | Impact: 0.007798 → PHISHING
+18.  sha                 | Impact: -0.007724 → LEGITIMATE
+19.  this                | Impact: 0.006226 → PHISHING
+20.  driver              | Impact: -0.005989 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.019255
+ 2.  your                | Impact: 0.015407
+ 3.  costs               | Impact: 0.014242
+ 4.  eliminate           | Impact: 0.012216
+ 5.  activities          | Impact: 0.011001
+ 6.  th                  | Impact: 0.010911
+ 7.  your                | Impact: 0.010428
+ 8.  collect             | Impact: 0.007798
+ 9.  this                | Impact: 0.006226
+10.  will                | Impact: 0.005927
+11.  are                 | Impact: 0.005718
+12.  we                  | Impact: 0.005278
+13.  collect             | Impact: 0.004743
+14.  this                | Impact: 0.004743
+15.  us                  | Impact: 0.004160
+16.  to                  | Impact: 0.004160
+17.  to                  | Impact: 0.003562
+18.  contact             | Impact: 0.002721
+19.  your                | Impact: 0.002689
+20.  team                | Impact: 0.002689
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  april               | Impact: -0.026386
+ 2.  survey              | Impact: -0.020131
+ 3.  rc                  | Impact: -0.015137
+ 4.  survey              | Impact: -0.012241
+ 5.  survey              | Impact: -0.010431
+ 6.  drives              | Impact: -0.009334
+ 7.  thanks              | Impact: -0.009011
+ 8. ri                   | Impact: -0.008964
+ 9.  lisa                | Impact: -0.008228
+10.  sha                 | Impact: -0.007724
+11.  driver              | Impact: -0.005989
+12.  survey              | Impact: -0.005989
+13.  ,                   | Impact: -0.005448
+14.  select              | Impact: -0.004978
+15.  the                 | Impact: -0.004153
+16.  attached            | Impact: -0.003864
+17.  activity            | Impact: -0.003864
+18.  cousin              | Impact: -0.002813
+19. o                    | Impact: -0.002813
+20.  .                   | Impact: -0.002512

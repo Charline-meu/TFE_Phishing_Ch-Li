@@ -1,0 +1,75 @@
+Sample 300
+==========
+
+Sample text preview: ATTN.DEAR, My name is Mr Moni Millat a member of Independent Committee of Eminent Persons (ICEP), Switzerland. ICEP is charged with the responsibility...
+
+Model prediction: [1.8770398e-04 9.9981230e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.018501 → PHISHING
+ 2.  ,                   | Impact: 0.018501 → PHISHING
+ 3.  my                  | Impact: 0.016315 → PHISHING
+ 4.  name                | Impact: 0.016315 → PHISHING
+ 5.  is                  | Impact: 0.016315 → PHISHING
+ 6.  mr                  | Impact: 0.016315 → PHISHING
+ 7.  mon                 | Impact: 0.016315 → PHISHING
+ 8. i                    | Impact: 0.016315 → PHISHING
+ 9.  mill                | Impact: 0.016315 → PHISHING
+10. at                   | Impact: 0.016315 → PHISHING
+11.  interest            | Impact: 0.011619 → PHISHING
+12.  you                 | Impact: 0.011619 → PHISHING
+13.  ice                 | Impact: -0.011093 → LEGITIMATE
+14. p                    | Impact: -0.011093 → LEGITIMATE
+15.  it                  | Impact: 0.010670 → PHISHING
+16.  may                 | Impact: 0.010670 → PHISHING
+17.  your                | Impact: 0.009742 → PHISHING
+18.  full                | Impact: 0.009742 → PHISHING
+19.  name                | Impact: 0.009742 → PHISHING
+20.  ,                   | Impact: 0.009742 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.018501
+ 2.  ,                   | Impact: 0.018501
+ 3.  my                  | Impact: 0.016315
+ 4.  name                | Impact: 0.016315
+ 5.  is                  | Impact: 0.016315
+ 6.  mr                  | Impact: 0.016315
+ 7.  mon                 | Impact: 0.016315
+ 8. i                    | Impact: 0.016315
+ 9.  mill                | Impact: 0.016315
+10. at                   | Impact: 0.016315
+11.  interest            | Impact: 0.011619
+12.  you                 | Impact: 0.011619
+13.  it                  | Impact: 0.010670
+14.  may                 | Impact: 0.010670
+15.  your                | Impact: 0.009742
+16.  full                | Impact: 0.009742
+17.  name                | Impact: 0.009742
+18.  ,                   | Impact: 0.009742
+19.  kindly              | Impact: 0.009493
+20.  provide             | Impact: 0.009493
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ice                 | Impact: -0.011093
+ 2. p                    | Impact: -0.011093
+ 3.  is                  | Impact: -0.002474
+ 4.  charged             | Impact: -0.002474
+ 5.  and                 | Impact: -0.002193
+ 6.  telephone           | Impact: -0.002193
+ 7.  /                   | Impact: -0.002193
+ 8.  fa                  | Impact: -0.002193
+ 9. x                    | Impact: -0.002193
+10.  .                   | Impact: -0.002193
+11.  with                | Impact: -0.001455
+12.  the                 | Impact: -0.001455
+13.  responsibility      | Impact: -0.001455
+14.  of                  | Impact: -0.001455
+15.  most                | Impact: -0.001044
+16.  belonged            | Impact: -0.001044
+17.  to                  | Impact: -0.001044
+18.  holocaust           | Impact: -0.001044
+19.  victims             | Impact: -0.001044
+20.  -                   | Impact: -0.000811

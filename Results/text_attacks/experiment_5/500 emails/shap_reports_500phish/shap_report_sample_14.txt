@@ -1,0 +1,75 @@
+Sample 14
+=========
+
+Sample text preview: Dear My name is Miss Fatimatou Kaba, i am yrs old lady from Sierra leone,Africa.Please, i have contacted you because of the problem that i am having o...
+
+Model prediction: [1.542942e-04 9.998456e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  fatima              | Impact: 0.041843 → PHISHING
+ 2.  ka                  | Impact: 0.033984 → PHISHING
+ 3.  you                 | Impact: 0.031674 → PHISHING
+ 4. tou                  | Impact: 0.031487 → PHISHING
+ 5.  miss                | Impact: 0.028791 → PHISHING
+ 6. ba                   | Impact: 0.023992 → PHISHING
+ 7.  over                | Impact: 0.022146 → PHISHING
+ 8.  million             | Impact: 0.022146 → PHISHING
+ 9.  institution         | Impact: 0.020991 → PHISHING
+10.  you                 | Impact: 0.020896 → PHISHING
+11.  your                | Impact: 0.020598 → PHISHING
+12.  financial           | Impact: 0.019772 → PHISHING
+13.  truly               | Impact: 0.019584 → PHISHING
+14.  contacted           | Impact: 0.018192 → PHISHING
+15.  dollars             | Impact: 0.016365 → PHISHING
+16.  more                | Impact: 0.014961 → PHISHING
+17.  name                | Impact: 0.012963 → PHISHING
+18.  '                   | Impact: 0.012763 → PHISHING
+19.  my                  | Impact: 0.012485 → PHISHING
+20.  inherited           | Impact: 0.012485 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  fatima              | Impact: 0.041843
+ 2.  ka                  | Impact: 0.033984
+ 3.  you                 | Impact: 0.031674
+ 4. tou                  | Impact: 0.031487
+ 5.  miss                | Impact: 0.028791
+ 6. ba                   | Impact: 0.023992
+ 7.  over                | Impact: 0.022146
+ 8.  million             | Impact: 0.022146
+ 9.  institution         | Impact: 0.020991
+10.  you                 | Impact: 0.020896
+11.  your                | Impact: 0.020598
+12.  financial           | Impact: 0.019772
+13.  truly               | Impact: 0.019584
+14.  contacted           | Impact: 0.018192
+15.  dollars             | Impact: 0.016365
+16.  more                | Impact: 0.014961
+17.  name                | Impact: 0.012963
+18.  '                   | Impact: 0.012763
+19.  my                  | Impact: 0.012485
+20.  inherited           | Impact: 0.012485
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.004367
+ 2.  a                   | Impact: -0.003430
+ 3.  reliable            | Impact: -0.003430
+ 4.  because             | Impact: -0.002123
+ 5.  of                  | Impact: -0.002123
+ 6.  the                 | Impact: -0.002123
+ 7.  problem             | Impact: -0.002123
+ 8.  .                   | Impact: -0.001563
+ 9.  stand               | Impact: -0.000775
+10.  for                 | Impact: -0.000775
+11.  me                  | Impact: -0.000775
+12.  because             | Impact: -0.000775
+13.  thanks              | Impact: -0.000688
+14.  and                 | Impact: -0.000688
+15.  god                 | Impact: -0.000688
+16.  bless               | Impact: -0.000688
+17.  .                   | Impact: -0.000688
+18.  to                  | Impact: -0.000559
+19.  get                 | Impact: -0.000559
+20.  ,                   | Impact: -0.000114

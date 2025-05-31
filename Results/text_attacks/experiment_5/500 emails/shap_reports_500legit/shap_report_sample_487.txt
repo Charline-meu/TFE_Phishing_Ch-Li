@@ -1,0 +1,75 @@
+Sample 487
+==========
+
+Sample text preview: At : PM - //, Theo Van Dinter wrote: >On Tue, Aug , at ::AM -, Justin Shore wrote: >> I'm assuming I need to strip the SpamAssassinReport.txt attachme...
+
+Model prediction: [9.9976057e-01 2.3947214e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.008658 → LEGITIMATE
+ 2.  >                   | Impact: -0.007776 → LEGITIMATE
+ 3.  :                   | Impact: -0.005996 → LEGITIMATE
+ 4.  :                   | Impact: -0.004945 → LEGITIMATE
+ 5.  :                   | Impact: -0.004156 → LEGITIMATE
+ 6.  >                   | Impact: -0.003347 → LEGITIMATE
+ 7.  report              | Impact: -0.003347 → LEGITIMATE
+ 8.  to                  | Impact: -0.003347 → LEGITIMATE
+ 9.  razor               | Impact: -0.003347 → LEGITIMATE
+10.  -                   | Impact: -0.003345 → LEGITIMATE
+11.  wrote               | Impact: -0.003021 → LEGITIMATE
+12.  :                   | Impact: -0.002529 → LEGITIMATE
+13.  am                  | Impact: -0.002529 → LEGITIMATE
+14.  >                   | Impact: -0.002433 → LEGITIMATE
+15.  on                  | Impact: -0.002433 → LEGITIMATE
+16.  at                  | Impact: -0.002429 → LEGITIMATE
+17.  >                   | Impact: -0.002334 → LEGITIMATE
+18.  >                   | Impact: -0.002334 → LEGITIMATE
+19.  >                   | Impact: -0.002121 → LEGITIMATE
+20.  >                   | Impact: -0.002121 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  '                   | Impact: 0.001983
+ 2.  justin              | Impact: 0.001504
+ 3.  !                   | Impact: 0.000964
+ 4.  ,                   | Impact: 0.000736
+ 5.  i                   | Impact: 0.000669
+ 6.  from                | Impact: 0.000479
+ 7.  my                  | Impact: 0.000479
+ 8.  ?                   | Impact: 0.000323
+ 9.  aug                 | Impact: 0.000267
+10.  ,                   | Impact: 0.000267
+11.  _                   | Impact: 0.000232
+12.  _                   | Impact: 0.000232
+13.  _                   | Impact: 0.000232
+14.  _                   | Impact: 0.000232
+15.  _                   | Impact: 0.000232
+16.  _                   | Impact: 0.000232
+17.  _                   | Impact: 0.000232
+18.  _                   | Impact: 0.000232
+19.  _                   | Impact: 0.000197
+20.  _                   | Impact: 0.000197
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.008658
+ 2.  >                   | Impact: -0.007776
+ 3.  :                   | Impact: -0.005996
+ 4.  :                   | Impact: -0.004945
+ 5.  :                   | Impact: -0.004156
+ 6.  >                   | Impact: -0.003347
+ 7.  report              | Impact: -0.003347
+ 8.  to                  | Impact: -0.003347
+ 9.  razor               | Impact: -0.003347
+10.  -                   | Impact: -0.003345
+11.  wrote               | Impact: -0.003021
+12.  :                   | Impact: -0.002529
+13.  am                  | Impact: -0.002529
+14.  >                   | Impact: -0.002433
+15.  on                  | Impact: -0.002433
+16.  at                  | Impact: -0.002429
+17.  >                   | Impact: -0.002334
+18.  >                   | Impact: -0.002334
+19.  >                   | Impact: -0.002121
+20.  >                   | Impact: -0.002121

@@ -1,0 +1,75 @@
+Sample 262
+==========
+
+Sample text preview: Rick: We should talk about this at some point. Our international trading business is growing by leaps and bounds, and I am trying to get systems in pl...
+
+Model prediction: [9.9979061e-01 2.0940695e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  met                 | Impact: 0.001306 → PHISHING
+ 2.  del                 | Impact: 0.001306 → PHISHING
+ 3.  implications        | Impact: -0.001245 → LEGITIMATE
+ 4.  of                  | Impact: -0.001245 → LEGITIMATE
+ 5.  the                 | Impact: -0.001195 → LEGITIMATE
+ 6.  regulatory          | Impact: -0.001195 → LEGITIMATE
+ 7.  ,                   | Impact: 0.001071 → PHISHING
+ 8.  or                  | Impact: -0.001003 → LEGITIMATE
+ 9.  not                 | Impact: -0.001003 → LEGITIMATE
+10.  en                  | Impact: -0.001003 → LEGITIMATE
+11. ron                  | Impact: -0.001003 → LEGITIMATE
+12.  -                   | Impact: -0.000757 → LEGITIMATE
+13.  we                  | Impact: -0.000757 → LEGITIMATE
+14.  should              | Impact: -0.000757 → LEGITIMATE
+15.  all                 | Impact: -0.000757 → LEGITIMATE
+16.  dan                 | Impact: 0.000642 → PHISHING
+17.  e                   | Impact: -0.000630 → LEGITIMATE
+18. im                   | Impact: -0.000630 → LEGITIMATE
+19.  logistics           | Impact: -0.000630 → LEGITIMATE
+20.  -                   | Impact: -0.000630 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  met                 | Impact: 0.001306
+ 2.  del                 | Impact: 0.001306
+ 3.  ,                   | Impact: 0.001071
+ 4.  dan                 | Impact: 0.000642
+ 5.  and                 | Impact: 0.000582
+ 6.  and                 | Impact: 0.000261
+ 7.  i                   | Impact: 0.000261
+ 8.  '                   | Impact: 0.000261
+ 9.  ve                  | Impact: 0.000261
+10.  been                | Impact: 0.000261
+11.  lisa                | Impact: 0.000163
+12.  ,                   | Impact: 0.000163
+13.  at                  | Impact: 0.000157
+14.  some                | Impact: 0.000157
+15.  point               | Impact: 0.000157
+16.  .                   | Impact: 0.000157
+17.  .                   | Impact: 0.000103
+18.  regards             | Impact: 0.000103
+19.  ,                   | Impact: 0.000103
+20.  there               | Impact: 0.000090
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  implications        | Impact: -0.001245
+ 2.  of                  | Impact: -0.001245
+ 3.  the                 | Impact: -0.001195
+ 4.  regulatory          | Impact: -0.001195
+ 5.  or                  | Impact: -0.001003
+ 6.  not                 | Impact: -0.001003
+ 7.  en                  | Impact: -0.001003
+ 8. ron                  | Impact: -0.001003
+ 9.  -                   | Impact: -0.000757
+10.  we                  | Impact: -0.000757
+11.  should              | Impact: -0.000757
+12.  all                 | Impact: -0.000757
+13.  e                   | Impact: -0.000630
+14. im                   | Impact: -0.000630
+15.  logistics           | Impact: -0.000630
+16.  -                   | Impact: -0.000630
+17.                      | Impact: -0.000572
+18.  rick                | Impact: -0.000572
+19.  :                   | Impact: -0.000572
+20.  we                  | Impact: -0.000572

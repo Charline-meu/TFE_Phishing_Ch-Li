@@ -1,0 +1,75 @@
+Sample 269
+==========
+
+Sample text preview: >> > ##Remove: Tim> Yuck: it got two .'s from embedding your email address at the Tim> bottom here. Which suggests that tagging email addresses in To/...
+
+Model prediction: [9.9941611e-01 5.8386085e-04]
+Predicted class: LEGITIMATE with 0.9994 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  tim                 | Impact: -0.130311 → LEGITIMATE
+ 2.  address             | Impact: 0.083700 → PHISHING
+ 3.  tim                 | Impact: -0.055787 → LEGITIMATE
+ 4.  email               | Impact: 0.046445 → PHISHING
+ 5.  your                | Impact: 0.044970 → PHISHING
+ 6.  >                   | Impact: -0.036798 → LEGITIMATE
+ 7.  skip                | Impact: 0.036719 → PHISHING
+ 8.  remove              | Impact: 0.035202 → PHISHING
+ 9.  >                   | Impact: -0.026726 → LEGITIMATE
+10.  the                 | Impact: 0.018127 → PHISHING
+11.  suggests            | Impact: -0.017817 → LEGITIMATE
+12.  here                | Impact: 0.017344 → PHISHING
+13.  at                  | Impact: 0.017199 → PHISHING
+14.  bodies              | Impact: -0.016236 → LEGITIMATE
+15.  than                | Impact: -0.015692 → LEGITIMATE
+16.  em                  | Impact: -0.014612 → LEGITIMATE
+17.  handled             | Impact: -0.013316 → LEGITIMATE
+18.  got                 | Impact: -0.012876 → LEGITIMATE
+19.  tag                 | Impact: 0.012826 → PHISHING
+20.  message             | Impact: 0.012564 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  address             | Impact: 0.083700
+ 2.  email               | Impact: 0.046445
+ 3.  your                | Impact: 0.044970
+ 4.  skip                | Impact: 0.036719
+ 5.  remove              | Impact: 0.035202
+ 6.  the                 | Impact: 0.018127
+ 7.  here                | Impact: 0.017344
+ 8.  at                  | Impact: 0.017199
+ 9.  tag                 | Impact: 0.012826
+10.  message             | Impact: 0.012564
+11.  bottom              | Impact: 0.010424
+12.  email               | Impact: 0.008494
+13. bed                  | Impact: 0.007735
+14.  #                   | Impact: 0.006744
+15.  addresses           | Impact: 0.006560
+16.  /                   | Impact: 0.004223
+17.  #                   | Impact: 0.003236
+18.  it                  | Impact: 0.002865
+19.  >                   | Impact: 0.002131
+20. ding                 | Impact: 0.001398
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  tim                 | Impact: -0.130311
+ 2.  tim                 | Impact: -0.055787
+ 3.  >                   | Impact: -0.036798
+ 4.  >                   | Impact: -0.026726
+ 5.  suggests            | Impact: -0.017817
+ 6.  bodies              | Impact: -0.016236
+ 7.  than                | Impact: -0.015692
+ 8.  em                  | Impact: -0.014612
+ 9.  handled             | Impact: -0.013316
+10.  got                 | Impact: -0.012876
+11.  yu                  | Impact: -0.012408
+12.  that                | Impact: -0.011838
+13.  differently         | Impact: -0.010637
+14. ging                 | Impact: -0.010579
+15.  from                | Impact: -0.009923
+16.  s                   | Impact: -0.008913
+17.  ?                   | Impact: -0.008794
+18.  :                   | Impact: -0.008158
+19.  cc                  | Impact: -0.007831
+20.  :                   | Impact: -0.006837

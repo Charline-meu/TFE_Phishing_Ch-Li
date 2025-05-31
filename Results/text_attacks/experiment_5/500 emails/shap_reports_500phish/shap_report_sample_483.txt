@@ -1,0 +1,70 @@
+Sample 483
+==========
+
+Sample text preview: I am Mr Carol Harvey, Chief Executive Officer of ES Oil and Gas Ltd. We are an OPEC members that deals on crude oil, raw materials and export to Canad...
+
+Model prediction: [1.7621406e-04 9.9982387e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.126659 → PHISHING
+ 2.  am                  | Impact: 0.046635 → PHISHING
+ 3.  mr                  | Impact: 0.044396 → PHISHING
+ 4.  ltd                 | Impact: 0.043970 → PHISHING
+ 5.  your                | Impact: 0.025506 → PHISHING
+ 6.  harvey              | Impact: -0.016537 → LEGITIMATE
+ 7.  officer             | Impact: 0.016449 → PHISHING
+ 8.  chief               | Impact: 0.014799 → PHISHING
+ 9.  executive           | Impact: 0.014799 → PHISHING
+10.  debt                | Impact: 0.013144 → PHISHING
+11. ors                  | Impact: 0.013144 → PHISHING
+12.  through             | Impact: 0.012437 → PHISHING
+13.  you                 | Impact: 0.012437 → PHISHING
+14.  to                  | Impact: 0.012437 → PHISHING
+15.  us                  | Impact: 0.012437 → PHISHING
+16.  through             | Impact: 0.012350 → PHISHING
+17.  you                 | Impact: 0.012350 → PHISHING
+18.  for                 | Impact: 0.012135 → PHISHING
+19.  your                | Impact: 0.011877 → PHISHING
+20.  information         | Impact: 0.011877 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.126659
+ 2.  am                  | Impact: 0.046635
+ 3.  mr                  | Impact: 0.044396
+ 4.  ltd                 | Impact: 0.043970
+ 5.  your                | Impact: 0.025506
+ 6.  officer             | Impact: 0.016449
+ 7.  chief               | Impact: 0.014799
+ 8.  executive           | Impact: 0.014799
+ 9.  debt                | Impact: 0.013144
+10. ors                  | Impact: 0.013144
+11.  through             | Impact: 0.012437
+12.  you                 | Impact: 0.012437
+13.  to                  | Impact: 0.012437
+14.  us                  | Impact: 0.012437
+15.  through             | Impact: 0.012350
+16.  you                 | Impact: 0.012350
+17.  for                 | Impact: 0.012135
+18.  your                | Impact: 0.011877
+19.  information         | Impact: 0.011877
+20.  accepted            | Impact: 0.011503
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  harvey              | Impact: -0.016537
+ 2.  that                | Impact: -0.008575
+ 3.  note                | Impact: -0.007812
+ 4.  looking             | Impact: -0.005634
+ 5.  forward             | Impact: -0.005634
+ 6.  ,                   | Impact: -0.004043
+ 7.                      | Impact: -0.001182
+ 8.  i                   | Impact: -0.001182
+ 9.  and                 | Impact: -0.000888
+10.  motivation          | Impact: -0.000888
+11. s                    | Impact: -0.000888
+12.  on                  | Impact: -0.000888
+13.  whatever            | Impact: -0.000888
+14.  to                  | Impact: -0.000875
+15.  working             | Impact: -0.000875

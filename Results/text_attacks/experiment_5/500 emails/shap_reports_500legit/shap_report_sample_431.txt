@@ -1,0 +1,75 @@
+Sample 431
+==========
+
+Sample text preview: We would like to hold a / day offsite either on Wednesday, May or Thursday, May . Please let me know what your preference would be. Carol St. Clair EB...
+
+Model prediction: [9.9965775e-01 3.4229035e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.017879 → LEGITIMATE
+ 2.  -                   | Impact: -0.014957 → LEGITIMATE
+ 3.  day                 | Impact: -0.014796 → LEGITIMATE
+ 4.  preference          | Impact: -0.014639 → LEGITIMATE
+ 5.  )                   | Impact: 0.013845 → PHISHING
+ 6.  we                  | Impact: 0.013318 → PHISHING
+ 7.  wednesday           | Impact: -0.012865 → LEGITIMATE
+ 8.  st                  | Impact: 0.009401 → PHISHING
+ 9.  carol               | Impact: -0.008673 → LEGITIMATE
+10.  )                   | Impact: 0.006708 → PHISHING
+11.  your                | Impact: 0.006165 → PHISHING
+12.  hold                | Impact: 0.005665 → PHISHING
+13.  (                   | Impact: 0.004723 → PHISHING
+14.  .                   | Impact: -0.004640 → LEGITIMATE
+15.  thursday            | Impact: -0.004508 → LEGITIMATE
+16.  be                  | Impact: 0.004503 → PHISHING
+17.  offs                | Impact: 0.004345 → PHISHING
+18.  e                   | Impact: -0.004113 → LEGITIMATE
+19. x                    | Impact: -0.003847 → LEGITIMATE
+20.  would               | Impact: -0.003691 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  )                   | Impact: 0.013845
+ 2.  we                  | Impact: 0.013318
+ 3.  st                  | Impact: 0.009401
+ 4.  )                   | Impact: 0.006708
+ 5.  your                | Impact: 0.006165
+ 6.  hold                | Impact: 0.005665
+ 7.  (                   | Impact: 0.004723
+ 8.  be                  | Impact: 0.004503
+ 9.  offs                | Impact: 0.004345
+10. b                    | Impact: 0.003559
+11.  phone               | Impact: 0.003039
+12.  please              | Impact: 0.003030
+13.  /                   | Impact: 0.002986
+14.  or                  | Impact: 0.002962
+15.  like                | Impact: 0.002932
+16.  let                 | Impact: 0.002648
+17.  may                 | Impact: 0.002601
+18.  on                  | Impact: 0.001850
+19.  clair               | Impact: 0.001553
+20.  (                   | Impact: 0.001342
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.017879
+ 2.  -                   | Impact: -0.014957
+ 3.  day                 | Impact: -0.014796
+ 4.  preference          | Impact: -0.014639
+ 5.  wednesday           | Impact: -0.012865
+ 6.  carol               | Impact: -0.008673
+ 7.  .                   | Impact: -0.004640
+ 8.  thursday            | Impact: -0.004508
+ 9.  e                   | Impact: -0.004113
+10. x                    | Impact: -0.003847
+11.  would               | Impact: -0.003691
+12.  a                   | Impact: -0.002600
+13.  what                | Impact: -0.002461
+14.  me                  | Impact: -0.001605
+15.  .                   | Impact: -0.001423
+16.  ,                   | Impact: -0.001358
+17.  know                | Impact: -0.001163
+18.  to                  | Impact: -0.001043
+19.  ,                   | Impact: -0.000980
+20.  either              | Impact: -0.000634

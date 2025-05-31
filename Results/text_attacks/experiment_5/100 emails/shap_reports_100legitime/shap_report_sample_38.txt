@@ -1,0 +1,75 @@
+Phishing Sample 38
+==================
+
+Sample text preview: As the subject line indicates, I'm sure these are stupid questions, but I'm having trouble getting SA working like I understand it should work, and ha...
+
+Model prediction: [9.9952269e-01 4.7733693e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. d                    | Impact: -0.011349 → LEGITIMATE
+ 2.  os                  | Impact: -0.010910 → LEGITIMATE
+ 3.  indicates           | Impact: -0.010415 → LEGITIMATE
+ 4.  phone               | Impact: -0.004539 → LEGITIMATE
+ 5.  line                | Impact: -0.004356 → LEGITIMATE
+ 6.  cell                | Impact: -0.004280 → LEGITIMATE
+ 7.  here                | Impact: 0.003772 → PHISHING
+ 8.  by                  | Impact: -0.003026 → LEGITIMATE
+ 9.  :                   | Impact: -0.003026 → LEGITIMATE
+10.  .                   | Impact: -0.002701 → LEGITIMATE
+11.  it                  | Impact: -0.002660 → LEGITIMATE
+12.  out                 | Impact: -0.002660 → LEGITIMATE
+13.  myself              | Impact: -0.002660 → LEGITIMATE
+14.  !                   | Impact: 0.002657 → PHISHING
+15.  sponsored           | Impact: -0.002500 → LEGITIMATE
+16. n                    | Impact: -0.002443 → LEGITIMATE
+17.  understand          | Impact: -0.002349 → LEGITIMATE
+18.  it                  | Impact: -0.002349 → LEGITIMATE
+19.  these               | Impact: -0.002224 → LEGITIMATE
+20.  are                 | Impact: -0.002224 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  here                | Impact: 0.003772
+ 2.  !                   | Impact: 0.002657
+ 3.  new                 | Impact: 0.001529
+ 4.  for                 | Impact: 0.000728
+ 5.  free                | Impact: 0.000728
+ 6.  and                 | Impact: 0.000653
+ 7.  have                | Impact: 0.000653
+ 8.  about               | Impact: 0.000653
+ 9.  given               | Impact: 0.000653
+10.  up                  | Impact: 0.000653
+11.  i                   | Impact: 0.000280
+12.  '                   | Impact: 0.000280
+13.  m                   | Impact: 0.000280
+14.  having              | Impact: 0.000280
+15.  ,                   | Impact: 0.000224
+16.  get                 | Impact: 0.000223
+17.  a                   | Impact: 0.000223
+18.  and                 | Impact: 0.000215
+19.  coming              | Impact: 0.000107
+20.  in                  | Impact: 0.000107
+
+Top features pushing towards LEGITIMATE classification:
+ 1. d                    | Impact: -0.011349
+ 2.  os                  | Impact: -0.010910
+ 3.  indicates           | Impact: -0.010415
+ 4.  phone               | Impact: -0.004539
+ 5.  line                | Impact: -0.004356
+ 6.  cell                | Impact: -0.004280
+ 7.  by                  | Impact: -0.003026
+ 8.  :                   | Impact: -0.003026
+ 9.  .                   | Impact: -0.002701
+10.  it                  | Impact: -0.002660
+11.  out                 | Impact: -0.002660
+12.  myself              | Impact: -0.002660
+13.  sponsored           | Impact: -0.002500
+14. n                    | Impact: -0.002443
+15.  understand          | Impact: -0.002349
+16.  it                  | Impact: -0.002349
+17.  these               | Impact: -0.002224
+18.  are                 | Impact: -0.002224
+19.  ?                   | Impact: -0.002105
+20.  or                  | Impact: -0.001937

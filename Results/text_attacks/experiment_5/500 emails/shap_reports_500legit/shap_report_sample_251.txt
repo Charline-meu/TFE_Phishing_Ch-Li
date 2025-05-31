@@ -1,0 +1,75 @@
+Sample 251
+==========
+
+Sample text preview: > Seriously though, it spurs the question: should this list be moderated ? > (and the next question: if "yes", who wants to co-moderate ?) No...the li...
+
+Model prediction: [9.9958831e-01 4.1165002e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.010672 → LEGITIMATE
+ 2.  >                   | Impact: -0.009506 → LEGITIMATE
+ 3.  .                   | Impact: -0.005362 → LEGITIMATE
+ 4.  .                   | Impact: -0.004419 → LEGITIMATE
+ 5.  .                   | Impact: -0.004172 → LEGITIMATE
+ 6.  question            | Impact: -0.003864 → LEGITIMATE
+ 7.  spurs               | Impact: -0.003165 → LEGITIMATE
+ 8.  ness                | Impact: -0.003142 → LEGITIMATE
+ 9. us                   | Impact: -0.003142 → LEGITIMATE
+10.  .                   | Impact: -0.003013 → LEGITIMATE
+11.  thomas              | Impact: -0.002981 → LEGITIMATE
+12.  -                   | Impact: -0.002981 → LEGITIMATE
+13.  general             | Impact: -0.002788 → LEGITIMATE
+14.  discussions         | Impact: -0.002788 → LEGITIMATE
+15.  about               | Impact: -0.002788 → LEGITIMATE
+16.  message             | Impact: 0.002780 → PHISHING
+17.  indicating          | Impact: 0.002780 → PHISHING
+18.  adopted             | Impact: -0.002754 → LEGITIMATE
+19.  a                   | Impact: -0.002754 → LEGITIMATE
+20.  technique           | Impact: -0.002754 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  message             | Impact: 0.002780
+ 2.  indicating          | Impact: 0.002780
+ 3.  you                 | Impact: 0.001626
+ 4.  will                | Impact: 0.001626
+ 5.  the                 | Impact: 0.001262
+ 6.  _                   | Impact: 0.001244
+ 7.  still               | Impact: 0.001244
+ 8.  entire              | Impact: 0.001048
+ 9.  past                | Impact: 0.001048
+10.  year                | Impact: 0.001048
+11.  .                   | Impact: 0.000933
+12.  remove              | Impact: 0.000891
+13.  .                   | Impact: 0.000773
+14.  email               | Impact: 0.000729
+15.  to                  | Impact: 0.000729
+16.  "                   | Impact: 0.000597
+17.  @                   | Impact: 0.000597
+18.  domain              | Impact: 0.000597
+19.  .                   | Impact: 0.000597
+20.  which               | Impact: 0.000581
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.010672
+ 2.  >                   | Impact: -0.009506
+ 3.  .                   | Impact: -0.005362
+ 4.  .                   | Impact: -0.004419
+ 5.  .                   | Impact: -0.004172
+ 6.  question            | Impact: -0.003864
+ 7.  spurs               | Impact: -0.003165
+ 8.  ness                | Impact: -0.003142
+ 9. us                   | Impact: -0.003142
+10.  .                   | Impact: -0.003013
+11.  thomas              | Impact: -0.002981
+12.  -                   | Impact: -0.002981
+13.  general             | Impact: -0.002788
+14.  discussions         | Impact: -0.002788
+15.  about               | Impact: -0.002788
+16.  adopted             | Impact: -0.002754
+17.  a                   | Impact: -0.002754
+18.  technique           | Impact: -0.002754
+19.  by                  | Impact: -0.002754
+20.  that                | Impact: -0.002675

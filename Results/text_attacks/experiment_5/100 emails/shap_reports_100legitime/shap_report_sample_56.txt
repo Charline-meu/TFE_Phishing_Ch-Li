@@ -1,0 +1,75 @@
+Phishing Sample 56
+==================
+
+Sample text preview: Shop his NEW Creator Collab now. Etsy ( ) Home Favorites ( ) Gift Guides ( ) Blog ( ) --> John Legend’s back! And the musician is sharing his must-hav...
+
+Model prediction: [0.99781203 0.00218799]
+Predicted class: LEGITIMATE with 0.9978 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  for                 | Impact: -0.006585 → LEGITIMATE
+ 2.  the                 | Impact: -0.006585 → LEGITIMATE
+ 3.  season              | Impact: -0.006585 → LEGITIMATE
+ 4.  .                   | Impact: -0.006585 → LEGITIMATE
+ 5.  -                   | Impact: -0.003845 → LEGITIMATE
+ 6.  -                   | Impact: -0.003845 → LEGITIMATE
+ 7.  >                   | Impact: -0.003845 → LEGITIMATE
+ 8.  john                | Impact: -0.003845 → LEGITIMATE
+ 9.  @                   | Impact: -0.003594 → LEGITIMATE
+10.  media               | Impact: -0.003594 → LEGITIMATE
+11.  yahoo               | Impact: -0.003594 → LEGITIMATE
+12.  {                   | Impact: -0.003594 → LEGITIMATE
+13.  .                   | Impact: -0.003594 → LEGITIMATE
+14.  important           | Impact: 0.003235 → PHISHING
+15.  ;                   | Impact: 0.003235 → PHISHING
+16.  font                | Impact: 0.003235 → PHISHING
+17.  -                   | Impact: 0.003235 → PHISHING
+18.  !                   | Impact: 0.003235 → PHISHING
+19.  h                   | Impact: 0.003235 → PHISHING
+20.  {                   | Impact: 0.003235 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  important           | Impact: 0.003235
+ 2.  ;                   | Impact: 0.003235
+ 3.  font                | Impact: 0.003235
+ 4.  -                   | Impact: 0.003235
+ 5.  !                   | Impact: 0.003235
+ 6.  h                   | Impact: 0.003235
+ 7.  {                   | Impact: 0.003235
+ 8.  font                | Impact: 0.003235
+ 9.  -                   | Impact: 0.003235
+10.  size                | Impact: 0.003235
+11.  :                   | Impact: 0.003235
+12.  p                   | Impact: 0.003235
+13. x                    | Impact: 0.003235
+14.  !                   | Impact: 0.003235
+15.  important           | Impact: 0.003235
+16.  ;                   | Impact: 0.003235
+17.  line                | Impact: 0.003235
+18.  -                   | Impact: 0.003235
+19.  height              | Impact: 0.003235
+20.  :                   | Impact: 0.003235
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  for                 | Impact: -0.006585
+ 2.  the                 | Impact: -0.006585
+ 3.  season              | Impact: -0.006585
+ 4.  .                   | Impact: -0.006585
+ 5.  -                   | Impact: -0.003845
+ 6.  -                   | Impact: -0.003845
+ 7.  >                   | Impact: -0.003845
+ 8.  john                | Impact: -0.003845
+ 9.  @                   | Impact: -0.003594
+10.  media               | Impact: -0.003594
+11.  yahoo               | Impact: -0.003594
+12.  {                   | Impact: -0.003594
+13.  .                   | Impact: -0.003594
+14.  ;                   | Impact: -0.002955
+15.  font                | Impact: -0.002955
+16.  -                   | Impact: -0.002955
+17.  weight              | Impact: -0.002955
+18.  :                   | Impact: -0.002955
+19.  medium              | Impact: -0.002955
+20.  ;                   | Impact: -0.002955

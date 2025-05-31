@@ -1,0 +1,71 @@
+Phishing Sample 76
+==================
+
+Sample text preview: Thanks in advance for agreeing to speak at the Global Operations Controller Forum. There will be approximately Enron business controllers present at t...
+
+Model prediction: [9.9980634e-01 1.9368538e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.004297 → LEGITIMATE
+ 2.  controllers         | Impact: -0.004196 → LEGITIMATE
+ 3. ron                  | Impact: -0.003994 → LEGITIMATE
+ 4.  controller          | Impact: -0.003818 → LEGITIMATE
+ 5.  forum               | Impact: -0.003383 → LEGITIMATE
+ 6.  en                  | Impact: -0.003263 → LEGITIMATE
+ 7. ron                  | Impact: -0.003198 → LEGITIMATE
+ 8.  agreeing            | Impact: -0.003148 → LEGITIMATE
+ 9.  en                  | Impact: -0.002827 → LEGITIMATE
+10.  america             | Impact: 0.002792 → PHISHING
+11.  .                   | Impact: -0.002707 → LEGITIMATE
+12.  .                   | Impact: -0.002635 → LEGITIMATE
+13.  attendees           | Impact: -0.002573 → LEGITIMATE
+14.  en                  | Impact: -0.002258 → LEGITIMATE
+15. ron                  | Impact: -0.002247 → LEGITIMATE
+16.  :                   | Impact: -0.002205 → LEGITIMATE
+17.  will                | Impact: -0.002158 → LEGITIMATE
+18. ron                  | Impact: -0.001967 → LEGITIMATE
+19.  meeting             | Impact: -0.001802 → LEGITIMATE
+20. ron                  | Impact: -0.001745 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  america             | Impact: 0.002792
+ 2.  business            | Impact: 0.001530
+ 3.  america             | Impact: 0.000622
+ 4.  october             | Impact: 0.000525
+ 5.  south               | Impact: 0.000418
+ 6.  and                 | Impact: 0.000344
+ 7.  europe              | Impact: 0.000287
+ 8.  all                 | Impact: 0.000186
+ 9.  have                | Impact: 0.000186
+10.  global              | Impact: 0.000123
+11.  markets             | Impact: 0.000123
+12.  london              | Impact: 0.000114
+13.  and                 | Impact: 0.000114
+14.  new                 | Impact: 0.000114
+15.  york                | Impact: 0.000114
+16.                      | Impact: 0.000015
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.004297
+ 2.  controllers         | Impact: -0.004196
+ 3. ron                  | Impact: -0.003994
+ 4.  controller          | Impact: -0.003818
+ 5.  forum               | Impact: -0.003383
+ 6.  en                  | Impact: -0.003263
+ 7. ron                  | Impact: -0.003198
+ 8.  agreeing            | Impact: -0.003148
+ 9.  en                  | Impact: -0.002827
+10.  .                   | Impact: -0.002707
+11.  .                   | Impact: -0.002635
+12.  attendees           | Impact: -0.002573
+13.  en                  | Impact: -0.002258
+14. ron                  | Impact: -0.002247
+15.  :                   | Impact: -0.002205
+16.  will                | Impact: -0.002158
+17. ron                  | Impact: -0.001967
+18.  meeting             | Impact: -0.001802
+19. ron                  | Impact: -0.001745
+20.  mid                 | Impact: -0.001562

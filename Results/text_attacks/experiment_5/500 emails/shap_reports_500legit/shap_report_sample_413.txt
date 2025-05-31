@@ -1,0 +1,75 @@
+Sample 413
+==========
+
+Sample text preview: >>>>> On Fri, Sep , "Wendy" == Wendy P. Roberts wrote: Wendy> I've been trying to set a button called which Wendy> automatically forwards mail using a...
+
+Model prediction: [9.9980384e-01 1.9619874e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  hal                 | Impact: -0.005848 → LEGITIMATE
+ 2.  -                   | Impact: -0.002826 → LEGITIMATE
+ 3.  -                   | Impact: -0.002826 → LEGITIMATE
+ 4.  '                   | Impact: 0.002273 → PHISHING
+ 5.  haven               | Impact: 0.002146 → PHISHING
+ 6.  er                  | Impact: -0.002131 → LEGITIMATE
+ 7. r                    | Impact: -0.002131 → LEGITIMATE
+ 8.  >                   | Impact: -0.001781 → LEGITIMATE
+ 9.  the                 | Impact: -0.001781 → LEGITIMATE
+10.  t                   | Impact: 0.001493 → PHISHING
+11.  m                   | Impact: 0.001407 → PHISHING
+12. han                  | Impact: 0.001407 → PHISHING
+13.  pro                 | Impact: 0.001002 → PHISHING
+14. c                    | Impact: 0.001002 → PHISHING
+15.  hd                  | Impact: 0.001002 → PHISHING
+16.  _                   | Impact: 0.001002 → PHISHING
+17.  procedure           | Impact: -0.000957 → LEGITIMATE
+18.  if                  | Impact: -0.000957 → LEGITIMATE
+19.  $                   | Impact: -0.000884 → LEGITIMATE
+20.  m                   | Impact: -0.000884 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  '                   | Impact: 0.002273
+ 2.  haven               | Impact: 0.002146
+ 3.  t                   | Impact: 0.001493
+ 4.  m                   | Impact: 0.001407
+ 5. han                  | Impact: 0.001407
+ 6.  pro                 | Impact: 0.001002
+ 7. c                    | Impact: 0.001002
+ 8.  hd                  | Impact: 0.001002
+ 9.  _                   | Impact: 0.001002
+10.  string              | Impact: 0.000621
+11.  length              | Impact: 0.000621
+12.  $                   | Impact: 0.000621
+13.  _                   | Impact: 0.000620
+14.  _                   | Impact: 0.000620
+15.  _                   | Impact: 0.000620
+16.  _                   | Impact: 0.000620
+17.  now                 | Impact: 0.000513
+18. hat                  | Impact: 0.000513
+19. now                  | Impact: 0.000513
+20. pro                  | Impact: 0.000513
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  hal                 | Impact: -0.005848
+ 2.  -                   | Impact: -0.002826
+ 3.  -                   | Impact: -0.002826
+ 4.  er                  | Impact: -0.002131
+ 5. r                    | Impact: -0.002131
+ 6.  >                   | Impact: -0.001781
+ 7.  the                 | Impact: -0.001781
+ 8.  procedure           | Impact: -0.000957
+ 9.  if                  | Impact: -0.000957
+10.  $                   | Impact: -0.000884
+11.  m                   | Impact: -0.000884
+12.  }                   | Impact: -0.000884
+13.  -                   | Impact: -0.000884
+14.  got                 | Impact: -0.000842
+15.  wendy               | Impact: -0.000842
+16.  >                   | Impact: -0.000767
+17.  automatically       | Impact: -0.000767
+18.  forwards            | Impact: -0.000767
+19.  mail                | Impact: -0.000767
+20.  using               | Impact: -0.000767

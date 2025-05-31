@@ -1,0 +1,75 @@
+Sample 57
+=========
+
+Sample text preview: To: From: Subject: Hello My name is Danny Creech. I am from Knoxville, TN. Since September th, ....People have been trying to get back on their own tw...
+
+Model prediction: [3.4817978e-04 9.9965179e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  name                | Impact: 0.116064 → PHISHING
+ 2.  my                  | Impact: 0.098903 → PHISHING
+ 3.  cree                | Impact: -0.029234 → LEGITIMATE
+ 4. ch                   | Impact: -0.029234 → LEGITIMATE
+ 5.  please              | Impact: 0.028731 → PHISHING
+ 6.  take                | Impact: 0.028731 → PHISHING
+ 7.  this                | Impact: 0.028649 → PHISHING
+ 8.  offer               | Impact: 0.028649 → PHISHING
+ 9.  !                   | Impact: 0.028611 → PHISHING
+10.  cost                | Impact: 0.027512 → PHISHING
+11.  to                  | Impact: 0.027512 → PHISHING
+12.  you                 | Impact: 0.027512 → PHISHING
+13.  cree                | Impact: 0.027437 → PHISHING
+14.  at                  | Impact: -0.027172 → LEGITIMATE
+15.  :                   | Impact: -0.022919 → LEGITIMATE
+16.  to                  | Impact: 0.022192 → PHISHING
+17.  protect             | Impact: 0.022192 → PHISHING
+18.  your                | Impact: 0.022192 → PHISHING
+19.  home                | Impact: 0.022192 → PHISHING
+20.  is                  | Impact: 0.020700 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  name                | Impact: 0.116064
+ 2.  my                  | Impact: 0.098903
+ 3.  please              | Impact: 0.028731
+ 4.  take                | Impact: 0.028731
+ 5.  this                | Impact: 0.028649
+ 6.  offer               | Impact: 0.028649
+ 7.  !                   | Impact: 0.028611
+ 8.  cost                | Impact: 0.027512
+ 9.  to                  | Impact: 0.027512
+10.  you                 | Impact: 0.027512
+11.  cree                | Impact: 0.027437
+12.  to                  | Impact: 0.022192
+13.  protect             | Impact: 0.022192
+14.  your                | Impact: 0.022192
+15.  home                | Impact: 0.022192
+16.  is                  | Impact: 0.020700
+17.  advantage           | Impact: 0.020435
+18.  of                  | Impact: 0.020435
+19.  danny               | Impact: 0.020304
+20.  !                   | Impact: 0.019730
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  cree                | Impact: -0.029234
+ 2. ch                   | Impact: -0.029234
+ 3.  at                  | Impact: -0.027172
+ 4.  :                   | Impact: -0.022919
+ 5.  (                   | Impact: -0.020597
+ 6.  -                   | Impact: -0.020597
+ 7.  -                   | Impact: -0.020597
+ 8.  )                   | Impact: -0.020597
+ 9.  subject             | Impact: -0.017496
+10.  please              | Impact: -0.009046
+11.  contact             | Impact: -0.009046
+12.  danny               | Impact: -0.009046
+13.  :                   | Impact: -0.006734
+14.  from                | Impact: -0.006734
+15.  .                   | Impact: -0.006493
+16.  their               | Impact: -0.004233
+17.  own                 | Impact: -0.004233
+18.  two                 | Impact: -0.004233
+19.  feet                | Impact: -0.004233
+20.  .                   | Impact: -0.004233

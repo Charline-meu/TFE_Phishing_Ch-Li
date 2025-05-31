@@ -1,0 +1,75 @@
+Phishing Sample 57
+==================
+
+Sample text preview: This letter may come to you as a surprise due to the fact that we have not met.The message could be strange but real if you pay some attention to it. ...
+
+Model prediction: [1.5772867e-04 9.9984229e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  i                   | Impact: 0.007828 → PHISHING
+ 2.  will                | Impact: 0.007828 → PHISHING
+ 3.  like                | Impact: 0.007828 → PHISHING
+ 4.  you                 | Impact: 0.007828 → PHISHING
+ 5.  to                  | Impact: 0.007828 → PHISHING
+ 6.  provide             | Impact: 0.007828 → PHISHING
+ 7.  immediately         | Impact: 0.007828 → PHISHING
+ 8.  your                | Impact: 0.007828 → PHISHING
+ 9.  full                | Impact: 0.007828 → PHISHING
+10.  names               | Impact: 0.007828 → PHISHING
+11.  ,                   | Impact: 0.007828 → PHISHING
+12.  my                  | Impact: 0.006352 → PHISHING
+13.  name                | Impact: 0.006352 → PHISHING
+14.  is                  | Impact: 0.006352 → PHISHING
+15.  senator             | Impact: 0.006352 → PHISHING
+16.  gb                  | Impact: 0.006352 → PHISHING
+17. eng                  | Impact: 0.006352 → PHISHING
+18. a                    | Impact: 0.006352 → PHISHING
+19.  the                 | Impact: 0.005112 → PHISHING
+20.  money               | Impact: 0.005112 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  i                   | Impact: 0.007828
+ 2.  will                | Impact: 0.007828
+ 3.  like                | Impact: 0.007828
+ 4.  you                 | Impact: 0.007828
+ 5.  to                  | Impact: 0.007828
+ 6.  provide             | Impact: 0.007828
+ 7.  immediately         | Impact: 0.007828
+ 8.  your                | Impact: 0.007828
+ 9.  full                | Impact: 0.007828
+10.  names               | Impact: 0.007828
+11.  ,                   | Impact: 0.007828
+12.  my                  | Impact: 0.006352
+13.  name                | Impact: 0.006352
+14.  is                  | Impact: 0.006352
+15.  senator             | Impact: 0.006352
+16.  gb                  | Impact: 0.006352
+17. eng                  | Impact: 0.006352
+18. a                    | Impact: 0.006352
+19.  the                 | Impact: 0.005112
+20.  money               | Impact: 0.005112
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  discovered          | Impact: -0.002446
+ 2.  that                | Impact: -0.002446
+ 3.  eng                 | Impact: -0.002446
+ 4. r                    | Impact: -0.002446
+ 5.  .                   | Impact: -0.002446
+ 6.  ,                   | Impact: -0.000151
+ 7.  with                | Impact: -0.000151
+ 8.  the                 | Impact: -0.000151
+ 9.  debt                | Impact: -0.000151
+10.  reconciliation      | Impact: -0.000151
+11.  committee           | Impact: -0.000151
+12.  .                   | Impact: -0.000151
+13.  in                  | Impact: -0.000151
+14.  a                   | Impact: -0.000151
+15.  bid                 | Impact: -0.000151
+16.  to                  | Impact: -0.000151
+17.  make                | Impact: -0.000151
+18.  sure                | Impact: -0.000151
+19.  eng                 | Impact: -0.000151
+20. r                    | Impact: -0.000151

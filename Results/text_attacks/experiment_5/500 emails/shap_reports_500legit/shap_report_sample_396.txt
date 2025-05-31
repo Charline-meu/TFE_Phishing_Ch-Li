@@ -1,0 +1,75 @@
+Sample 396
+==========
+
+Sample text preview: Effective March , Enron North America (CO ) employees will begin using XMS (Expense Management System) to process employee expense reimbursements. XMS...
+
+Model prediction: [9.9978548e-01 2.1452415e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.002688 → LEGITIMATE
+ 2.  en                  | Impact: -0.002137 → LEGITIMATE
+ 3.  en                  | Impact: -0.001886 → LEGITIMATE
+ 4. ron                  | Impact: -0.001886 → LEGITIMATE
+ 5.  home                | Impact: -0.001886 → LEGITIMATE
+ 6.  page                | Impact: -0.001886 → LEGITIMATE
+ 7.  and                 | Impact: 0.001654 → PHISHING
+ 8.  last                | Impact: 0.001654 → PHISHING
+ 9.  name                | Impact: 0.001654 → PHISHING
+10.  en                  | Impact: -0.001639 → LEGITIMATE
+11. a                    | Impact: -0.001639 → LEGITIMATE
+12.  the                 | Impact: -0.001267 → LEGITIMATE
+13.  en                  | Impact: -0.001267 → LEGITIMATE
+14. ron                  | Impact: -0.001267 → LEGITIMATE
+15.  application         | Impact: -0.001130 → LEGITIMATE
+16.  support             | Impact: -0.001130 → LEGITIMATE
+17.  en                  | Impact: -0.001119 → LEGITIMATE
+18.  en                  | Impact: -0.000985 → LEGITIMATE
+19. ron                  | Impact: -0.000985 → LEGITIMATE
+20.  confirming          | Impact: 0.000898 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  and                 | Impact: 0.001654
+ 2.  last                | Impact: 0.001654
+ 3.  name                | Impact: 0.001654
+ 4.  confirming          | Impact: 0.000898
+ 5.  your                | Impact: 0.000898
+ 6.  you                 | Impact: 0.000674
+ 7.  through             | Impact: 0.000674
+ 8.  your                | Impact: 0.000619
+ 9.  personnel           | Impact: 0.000619
+10.  number              | Impact: 0.000619
+11.  personal            | Impact: 0.000402
+12.  information         | Impact: 0.000402
+13.  and                 | Impact: 0.000402
+14.  this                | Impact: 0.000397
+15.  system              | Impact: 0.000397
+16.  will                | Impact: 0.000397
+17.  replace             | Impact: 0.000397
+18.  greater             | Impact: 0.000381
+19.  efficiency          | Impact: 0.000381
+20.  and                 | Impact: 0.000381
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.002688
+ 2.  en                  | Impact: -0.002137
+ 3.  en                  | Impact: -0.001886
+ 4. ron                  | Impact: -0.001886
+ 5.  home                | Impact: -0.001886
+ 6.  page                | Impact: -0.001886
+ 7.  en                  | Impact: -0.001639
+ 8. a                    | Impact: -0.001639
+ 9.  the                 | Impact: -0.001267
+10.  en                  | Impact: -0.001267
+11. ron                  | Impact: -0.001267
+12.  application         | Impact: -0.001130
+13.  support             | Impact: -0.001130
+14.  en                  | Impact: -0.001119
+15.  en                  | Impact: -0.000985
+16. ron                  | Impact: -0.000985
+17.  accounting          | Impact: -0.000867
+18.  system              | Impact: -0.000867
+19.  .                   | Impact: -0.000786
+20.  for                 | Impact: -0.000784

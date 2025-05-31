@@ -1,0 +1,68 @@
+Sample 52
+=========
+
+Sample text preview: Hi there, You have been sent some documents, view your files " PAYMENT ADVICE " on Dropbox. View file Enjoy! The Dropbox team Head and others will be ...
+
+Model prediction: [3.0119385e-04 9.9969888e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ©                   | Impact: 0.146131 → PHISHING
+ 2.  you                 | Impact: 0.062953 → PHISHING
+ 3.  file                | Impact: 0.058445 → PHISHING
+ 4.  your                | Impact: 0.052310 → PHISHING
+ 5.  view                | Impact: 0.044188 → PHISHING
+ 6. box                  | Impact: 0.042428 → PHISHING
+ 7.  files               | Impact: 0.040421 → PHISHING
+ 8.  payment             | Impact: 0.039805 → PHISHING
+ 9.  through             | Impact: 0.038685 → PHISHING
+10.  shared              | Impact: 0.033493 → PHISHING
+11.  enjoy               | Impact: 0.030505 → PHISHING
+12.  view                | Impact: 0.028348 → PHISHING
+13. box                  | Impact: 0.026473 → PHISHING
+14.  documents           | Impact: 0.025226 → PHISHING
+15.  been                | Impact: 0.024209 → PHISHING
+16.  info                | Impact: 0.020810 → PHISHING
+17.  may                 | Impact: -0.020795 → LEGITIMATE
+18.  file                | Impact: 0.019569 → PHISHING
+19.  sent                | Impact: 0.019219 → PHISHING
+20.  show                | Impact: 0.017938 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.146131
+ 2.  you                 | Impact: 0.062953
+ 3.  file                | Impact: 0.058445
+ 4.  your                | Impact: 0.052310
+ 5.  view                | Impact: 0.044188
+ 6. box                  | Impact: 0.042428
+ 7.  files               | Impact: 0.040421
+ 8.  payment             | Impact: 0.039805
+ 9.  through             | Impact: 0.038685
+10.  shared              | Impact: 0.033493
+11.  enjoy               | Impact: 0.030505
+12.  view                | Impact: 0.028348
+13. box                  | Impact: 0.026473
+14.  documents           | Impact: 0.025226
+15.  been                | Impact: 0.024209
+16.  info                | Impact: 0.020810
+17.  file                | Impact: 0.019569
+18.  sent                | Impact: 0.019219
+19.  show                | Impact: 0.017938
+20.  drop                | Impact: 0.017510
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  may                 | Impact: -0.020795
+ 2.  .                   | Impact: -0.014604
+ 3.  some                | Impact: -0.007609
+ 4.  .                   | Impact: -0.007032
+ 5.  advice              | Impact: -0.006371
+ 6.  ,                   | Impact: -0.003964
+ 7.  when                | Impact: -0.003525
+ 8.  "                   | Impact: -0.002624
+ 9.  .                   | Impact: -0.002009
+10.  ,                   | Impact: -0.001676
+11.  to                  | Impact: -0.000942
+12.  see                 | Impact: -0.000431
+13.  drop                | Impact: -0.000023

@@ -1,0 +1,75 @@
+Phishing Sample 17
+==================
+
+Sample text preview: Thanks much for the comments. Here's my preliminary response: . Done, and will add a definition of Effective Date . Will propose change to city. . OK ...
+
+Model prediction: [9.9923444e-01 7.6553959e-04]
+Predicted class: LEGITIMATE with 0.9992 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  haven               | Impact: 0.001734 → PHISHING
+ 2.  '                   | Impact: 0.001734 → PHISHING
+ 3.  t                   | Impact: 0.001734 → PHISHING
+ 4.  since               | Impact: 0.001063 → PHISHING
+ 5.  i                   | Impact: 0.001063 → PHISHING
+ 6.  my                  | Impact: -0.000922 → LEGITIMATE
+ 7.  preliminary         | Impact: -0.000922 → LEGITIMATE
+ 8.  response            | Impact: -0.000922 → LEGITIMATE
+ 9.  :                   | Impact: -0.000922 → LEGITIMATE
+10.  .                   | Impact: -0.000804 → LEGITIMATE
+11.  heard               | Impact: 0.000758 → PHISHING
+12.  from                | Impact: 0.000758 → PHISHING
+13.  her                 | Impact: 0.000758 → PHISHING
+14.  yet                 | Impact: 0.000758 → PHISHING
+15.  done                | Impact: -0.000732 → LEGITIMATE
+16.  ,                   | Impact: -0.000732 → LEGITIMATE
+17.  extra               | Impact: -0.000598 → LEGITIMATE
+18.  period              | Impact: -0.000598 → LEGITIMATE
+19.  at                  | Impact: -0.000598 → LEGITIMATE
+20.  the                 | Impact: -0.000598 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  haven               | Impact: 0.001734
+ 2.  '                   | Impact: 0.001734
+ 3.  t                   | Impact: 0.001734
+ 4.  since               | Impact: 0.001063
+ 5.  i                   | Impact: 0.001063
+ 6.  heard               | Impact: 0.000758
+ 7.  from                | Impact: 0.000758
+ 8.  her                 | Impact: 0.000758
+ 9.  yet                 | Impact: 0.000758
+10.  will                | Impact: 0.000508
+11.  propose             | Impact: 0.000508
+12.  money               | Impact: 0.000402
+13.  for                 | Impact: 0.000402
+14.  the                 | Impact: 0.000402
+15.  other               | Impact: 0.000402
+16.  items               | Impact: 0.000402
+17.  for                 | Impact: 0.000402
+18.  which               | Impact: 0.000402
+19.  we                  | Impact: 0.000402
+20.  are                 | Impact: 0.000402
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  my                  | Impact: -0.000922
+ 2.  preliminary         | Impact: -0.000922
+ 3.  response            | Impact: -0.000922
+ 4.  :                   | Impact: -0.000922
+ 5.  .                   | Impact: -0.000804
+ 6.  done                | Impact: -0.000732
+ 7.  ,                   | Impact: -0.000732
+ 8.  extra               | Impact: -0.000598
+ 9.  period              | Impact: -0.000598
+10.  at                  | Impact: -0.000598
+11.  the                 | Impact: -0.000598
+12.  end                 | Impact: -0.000598
+13.  of                  | Impact: -0.000598
+14.  this                | Impact: -0.000598
+15.  section             | Impact: -0.000598
+16.  .                   | Impact: -0.000598
+17.  .                   | Impact: -0.000598
+18.  fruit               | Impact: -0.000581
+19.  cake                | Impact: -0.000581
+20.  each                | Impact: -0.000581

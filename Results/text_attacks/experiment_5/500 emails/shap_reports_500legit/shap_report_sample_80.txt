@@ -1,0 +1,75 @@
+Sample 80
+=========
+
+Sample text preview: Karen attached is the latest status of the power trading track folks. I will use your template going forward to track changes. Thanks. -----Original M...
+
+Model prediction: [9.997043e-01 2.956514e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  jr                  | Impact: 0.005682 → PHISHING
+ 2.  thanks              | Impact: -0.002053 → LEGITIMATE
+ 3.  changes             | Impact: -0.001382 → LEGITIMATE
+ 4.  use                 | Impact: -0.001328 → LEGITIMATE
+ 5.  your                | Impact: 0.001139 → PHISHING
+ 6.  template            | Impact: -0.001120 → LEGITIMATE
+ 7.  .                   | Impact: -0.001107 → LEGITIMATE
+ 8.  track               | Impact: -0.001084 → LEGITIMATE
+ 9.  .                   | Impact: -0.000957 → LEGITIMATE
+10.  neal                | Impact: -0.000949 → LEGITIMATE
+11.  forward             | Impact: -0.000913 → LEGITIMATE
+12.  .                   | Impact: -0.000912 → LEGITIMATE
+13.  ed                  | Impact: -0.000869 → LEGITIMATE
+14.  ;                   | Impact: -0.000869 → LEGITIMATE
+15.  >                   | Impact: -0.000860 → LEGITIMATE
+16.  future              | Impact: 0.000856 → PHISHING
+17.  going               | Impact: -0.000849 → LEGITIMATE
+18.  >                   | Impact: -0.000845 → LEGITIMATE
+19.  .                   | Impact: 0.000786 → PHISHING
+20.  changes             | Impact: -0.000689 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  jr                  | Impact: 0.005682
+ 2.  your                | Impact: 0.001139
+ 3.  future              | Impact: 0.000856
+ 4.  .                   | Impact: 0.000786
+ 5.  the                 | Impact: 0.000673
+ 6.  latest              | Impact: 0.000673
+ 7.  assigned            | Impact: 0.000491
+ 8.  chris               | Impact: 0.000389
+ 9.  ;                   | Impact: 0.000389
+10.  status              | Impact: 0.000381
+11.  of                  | Impact: 0.000381
+12.  hiring              | Impact: 0.000359
+13.  )                   | Impact: 0.000359
+14.  super               | Impact: 0.000308
+15. ty                   | Impact: 0.000308
+16.  and                 | Impact: 0.000265
+17.  i                   | Impact: 0.000199
+18.  ,                   | Impact: 0.000185
+19.  ,                   | Impact: 0.000156
+20. s                    | Impact: 0.000153
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.002053
+ 2.  changes             | Impact: -0.001382
+ 3.  use                 | Impact: -0.001328
+ 4.  template            | Impact: -0.001120
+ 5.  .                   | Impact: -0.001107
+ 6.  track               | Impact: -0.001084
+ 7.  .                   | Impact: -0.000957
+ 8.  neal                | Impact: -0.000949
+ 9.  forward             | Impact: -0.000913
+10.  .                   | Impact: -0.000912
+11.  ed                  | Impact: -0.000869
+12.  ;                   | Impact: -0.000869
+13.  >                   | Impact: -0.000860
+14.  going               | Impact: -0.000849
+15.  >                   | Impact: -0.000845
+16.  changes             | Impact: -0.000689
+17.  occur               | Impact: -0.000689
+18.  to                  | Impact: -0.000671
+19.  xl                  | Impact: -0.000642
+20. s                    | Impact: -0.000642

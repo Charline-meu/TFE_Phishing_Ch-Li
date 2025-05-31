@@ -1,0 +1,75 @@
+Sample 130
+==========
+
+Sample text preview: Please see the attached Work Request. This is an urgent work request. Thanks, Hollis ---------------------- Forwarded by Hollis Kimbrough/EWC/Enron on...
+
+Model prediction: [9.9976653e-01 2.3352675e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  j                   | Impact: 0.001661 → PHISHING
+ 2.  .                   | Impact: 0.001249 → PHISHING
+ 3.  daniel              | Impact: 0.001081 → PHISHING
+ 4.  en                  | Impact: -0.001069 → LEGITIMATE
+ 5.  en                  | Impact: -0.001029 → LEGITIMATE
+ 6.  please              | Impact: -0.001011 → LEGITIMATE
+ 7.  review              | Impact: -0.001011 → LEGITIMATE
+ 8.  en                  | Impact: -0.001003 → LEGITIMATE
+ 9.  en                  | Impact: -0.000991 → LEGITIMATE
+10.  thanks              | Impact: 0.000964 → PHISHING
+11.  en                  | Impact: -0.000945 → LEGITIMATE
+12.  en                  | Impact: -0.000922 → LEGITIMATE
+13. ron                  | Impact: -0.000922 → LEGITIMATE
+14. ron                  | Impact: -0.000824 → LEGITIMATE
+15. ron                  | Impact: -0.000805 → LEGITIMATE
+16.  en                  | Impact: -0.000662 → LEGITIMATE
+17. ron                  | Impact: -0.000662 → LEGITIMATE
+18.  en                  | Impact: -0.000562 → LEGITIMATE
+19. ron                  | Impact: -0.000542 → LEGITIMATE
+20.  en                  | Impact: -0.000536 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  j                   | Impact: 0.001661
+ 2.  .                   | Impact: 0.001249
+ 3.  daniel              | Impact: 0.001081
+ 4.  thanks              | Impact: 0.000964
+ 5.  @                   | Impact: 0.000487
+ 6.  @                   | Impact: 0.000360
+ 7.  @                   | Impact: 0.000341
+ 8.  kevin               | Impact: 0.000150
+ 9.  cousin              | Impact: 0.000150
+10. eau                  | Impact: 0.000150
+11.  ,                   | Impact: 0.000097
+12.  far                 | Impact: 0.000086
+13.  mr                  | Impact: 0.000086
+14.  /                   | Impact: 0.000086
+15.  ss                  | Impact: 0.000086
+16.  gentlemen           | Impact: 0.000086
+17.  ,                   | Impact: 0.000062
+18.  ,                   | Impact: 0.000043
+19.  dave                | Impact: 0.000040
+20.  sc                  | Impact: 0.000040
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.001069
+ 2.  en                  | Impact: -0.001029
+ 3.  please              | Impact: -0.001011
+ 4.  review              | Impact: -0.001011
+ 5.  en                  | Impact: -0.001003
+ 6.  en                  | Impact: -0.000991
+ 7.  en                  | Impact: -0.000945
+ 8.  en                  | Impact: -0.000922
+ 9. ron                  | Impact: -0.000922
+10. ron                  | Impact: -0.000824
+11. ron                  | Impact: -0.000805
+12.  en                  | Impact: -0.000662
+13. ron                  | Impact: -0.000662
+14.  en                  | Impact: -0.000562
+15. ron                  | Impact: -0.000542
+16.  en                  | Impact: -0.000536
+17. ron                  | Impact: -0.000536
+18.  /                   | Impact: -0.000517
+19.  en                  | Impact: -0.000494
+20.  /                   | Impact: -0.000493

@@ -1,0 +1,75 @@
+Sample 325
+==========
+
+Sample text preview: Dear Friend: Find solutions to all your daily problems and life's challenges at the click of a mouse button? We have the answers you're looking for on...
+
+Model prediction: [0.00165721 0.99834275]
+Predicted class: PHISHING with 0.9983 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.                      | Impact: 0.040979 → PHISHING
+ 2.  dear                | Impact: 0.040979 → PHISHING
+ 3.  friend              | Impact: 0.028373 → PHISHING
+ 4.  :                   | Impact: 0.028373 → PHISHING
+ 5.  please              | Impact: 0.009390 → PHISHING
+ 6.  visit               | Impact: 0.009390 → PHISHING
+ 7.  our                 | Impact: 0.009390 → PHISHING
+ 8.  web                 | Impact: 0.009390 → PHISHING
+ 9.  site                | Impact: 0.009390 → PHISHING
+10.  :                   | Impact: 0.009390 → PHISHING
+11.  us                  | Impact: 0.009390 → PHISHING
+12.  and                 | Impact: 0.009390 → PHISHING
+13.  may                 | Impact: 0.009109 → PHISHING
+14.  god                 | Impact: 0.009109 → PHISHING
+15.  bless               | Impact: 0.009109 → PHISHING
+16.  you                 | Impact: 0.009109 → PHISHING
+17.  your                | Impact: 0.008787 → PHISHING
+18.  daily               | Impact: 0.008787 → PHISHING
+19.  problems            | Impact: 0.008787 → PHISHING
+20.  ,                   | Impact: 0.008130 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.                      | Impact: 0.040979
+ 2.  dear                | Impact: 0.040979
+ 3.  friend              | Impact: 0.028373
+ 4.  :                   | Impact: 0.028373
+ 5.  please              | Impact: 0.009390
+ 6.  visit               | Impact: 0.009390
+ 7.  our                 | Impact: 0.009390
+ 8.  web                 | Impact: 0.009390
+ 9.  site                | Impact: 0.009390
+10.  :                   | Impact: 0.009390
+11.  us                  | Impact: 0.009390
+12.  and                 | Impact: 0.009390
+13.  may                 | Impact: 0.009109
+14.  god                 | Impact: 0.009109
+15.  bless               | Impact: 0.009109
+16.  you                 | Impact: 0.009109
+17.  your                | Impact: 0.008787
+18.  daily               | Impact: 0.008787
+19.  problems            | Impact: 0.008787
+20.  ,                   | Impact: 0.008130
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  for                 | Impact: -0.005128
+ 2.  on                  | Impact: -0.005128
+ 3.  the                 | Impact: -0.005128
+ 4.  word                | Impact: -0.005128
+ 5.  find                | Impact: -0.004183
+ 6.  solutions           | Impact: -0.004183
+ 7.  bible               | Impact: -0.003367
+ 8.  cd                  | Impact: -0.003367
+ 9.  -                   | Impact: -0.003367
+10.  rom                 | Impact: -0.003367
+11.  to                  | Impact: -0.002730
+12.  all                 | Impact: -0.002730
+13.  also                | Impact: -0.002244
+14.  :                   | Impact: -0.002244
+15.  *                   | Impact: -0.002244
+16.  *                   | Impact: -0.002244
+17.  build               | Impact: -0.002244
+18.  a                   | Impact: -0.002244
+19.  strong              | Impact: -0.002244
+20.  foundation          | Impact: -0.002244

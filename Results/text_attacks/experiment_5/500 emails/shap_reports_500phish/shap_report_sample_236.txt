@@ -1,0 +1,66 @@
+Sample 236
+==========
+
+Sample text preview: Dear Navy Federal Member: Your Navy Federal Online Banking e-statement is currently unavailable to view online, due to error(s) detected on your accou...
+
+Model prediction: [1.6803395e-04 9.9983191e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.127554 → PHISHING
+ 2.  account             | Impact: 0.088549 → PHISHING
+ 3.  kindly              | Impact: 0.078650 → PHISHING
+ 4.  dear                | Impact: 0.059457 → PHISHING
+ 5.  click               | Impact: 0.055669 → PHISHING
+ 6.  proceed             | Impact: 0.045790 → PHISHING
+ 7.  perform             | Impact: 0.045216 → PHISHING
+ 8.  your                | Impact: 0.036975 → PHISHING
+ 9.  operation           | Impact: 0.030866 → PHISHING
+10.  here                | Impact: 0.026598 → PHISHING
+11.  message             | Impact: 0.022292 → PHISHING
+12.  unavailable         | Impact: 0.021646 → PHISHING
+13.  required            | Impact: 0.018634 → PHISHING
+14.  banking             | Impact: 0.018492 → PHISHING
+15.  online              | Impact: 0.018324 → PHISHING
+16.  monthly             | Impact: 0.014960 → PHISHING
+17.  customers           | Impact: 0.014589 → PHISHING
+18.  view                | Impact: 0.014543 → PHISHING
+19.  detected            | Impact: 0.014485 → PHISHING
+20.  view                | Impact: 0.014423 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.127554
+ 2.  account             | Impact: 0.088549
+ 3.  kindly              | Impact: 0.078650
+ 4.  dear                | Impact: 0.059457
+ 5.  click               | Impact: 0.055669
+ 6.  proceed             | Impact: 0.045790
+ 7.  perform             | Impact: 0.045216
+ 8.  your                | Impact: 0.036975
+ 9.  operation           | Impact: 0.030866
+10.  here                | Impact: 0.026598
+11.  message             | Impact: 0.022292
+12.  unavailable         | Impact: 0.021646
+13.  required            | Impact: 0.018634
+14.  banking             | Impact: 0.018492
+15.  online              | Impact: 0.018324
+16.  monthly             | Impact: 0.014960
+17.  customers           | Impact: 0.014589
+18.  view                | Impact: 0.014543
+19.  detected            | Impact: 0.014485
+20.  view                | Impact: 0.014423
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.013541
+ 2.  (                   | Impact: -0.011606
+ 3.  statements          | Impact: -0.004888
+ 4.  federal             | Impact: -0.003326
+ 5.  credit              | Impact: -0.003054
+ 6.  who                 | Impact: -0.002557
+ 7.  on                  | Impact: -0.002341
+ 8.  ,                   | Impact: -0.001194
+ 9.  to                  | Impact: -0.001001
+10.  .                   | Impact: -0.000771
+11.  .                   | Impact: -0.000594

@@ -1,0 +1,75 @@
+Sample 208
+==========
+
+Sample text preview: - changed to Bloomberg All the rest of these were just entered, except last deal Tom buys AEP May PV . Tom does not recognize this trade - is APB sure...
+
+Model prediction: [9.9979895e-01 2.0108277e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  @                   | Impact: 0.008842 → PHISHING
+ 2. ron                  | Impact: -0.008124 → LEGITIMATE
+ 3.  holden              | Impact: -0.006965 → LEGITIMATE
+ 4.  holden              | Impact: -0.006852 → LEGITIMATE
+ 5.  thompson            | Impact: 0.006198 → PHISHING
+ 6.  en                  | Impact: -0.005321 → LEGITIMATE
+ 7.  .                   | Impact: -0.004852 → LEGITIMATE
+ 8.  ap                  | Impact: -0.004557 → LEGITIMATE
+ 9.  mw                  | Impact: -0.004300 → LEGITIMATE
+10.  /                   | Impact: -0.004216 → LEGITIMATE
+11.  pv                  | Impact: -0.004171 → LEGITIMATE
+12.  /                   | Impact: -0.003589 → LEGITIMATE
+13. or                   | Impact: -0.003560 → LEGITIMATE
+14.  mw                  | Impact: -0.003382 → LEGITIMATE
+15.  pv                  | Impact: -0.003290 → LEGITIMATE
+16.  ap                  | Impact: -0.003265 → LEGITIMATE
+17.  ec                  | Impact: -0.003198 → LEGITIMATE
+18.  mw                  | Impact: -0.003099 → LEGITIMATE
+19.  terms               | Impact: -0.002801 → LEGITIMATE
+20.  .                   | Impact: -0.002751 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  @                   | Impact: 0.008842
+ 2.  thompson            | Impact: 0.006198
+ 3.  @                   | Impact: 0.002130
+ 4.  rd                  | Impact: 0.001348
+ 5.  /                   | Impact: 0.000990
+ 6.  williams            | Impact: 0.000509
+ 7. p                    | Impact: 0.000494
+ 8.  kate                | Impact: 0.000368
+ 9.  buy                 | Impact: 0.000357
+10.  tom                 | Impact: 0.000216
+11.  a                   | Impact: 0.000216
+12.  peak                | Impact: 0.000212
+13.  these               | Impact: 0.000199
+14.  williams            | Impact: 0.000199
+15.  on                  | Impact: 0.000194
+16.  the                 | Impact: 0.000189
+17.  -                   | Impact: 0.000183
+18.  is                  | Impact: 0.000183
+19.  of                  | Impact: 0.000117
+20.  on                  | Impact: 0.000116
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.008124
+ 2.  holden              | Impact: -0.006965
+ 3.  holden              | Impact: -0.006852
+ 4.  en                  | Impact: -0.005321
+ 5.  .                   | Impact: -0.004852
+ 6.  ap                  | Impact: -0.004557
+ 7.  mw                  | Impact: -0.004300
+ 8.  /                   | Impact: -0.004216
+ 9.  pv                  | Impact: -0.004171
+10.  /                   | Impact: -0.003589
+11. or                   | Impact: -0.003560
+12.  mw                  | Impact: -0.003382
+13.  pv                  | Impact: -0.003290
+14.  ap                  | Impact: -0.003265
+15.  ec                  | Impact: -0.003198
+16.  mw                  | Impact: -0.003099
+17.  terms               | Impact: -0.002801
+18.  .                   | Impact: -0.002751
+19.  entered             | Impact: -0.002618
+20.  .                   | Impact: -0.002600

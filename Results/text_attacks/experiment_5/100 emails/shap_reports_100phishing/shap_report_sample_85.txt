@@ -1,0 +1,75 @@
+Phishing Sample 85
+==================
+
+Sample text preview: PETER BUNO. Tel:+ Good Day, With warm heart I offer my friendship, and my greetings, and I hope this letter meets you in good time. It will be surpris...
+
+Model prediction: [1.7081299e-04 9.9982917e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bun                 | Impact: 0.010854 → PHISHING
+ 2. o                    | Impact: 0.010854 → PHISHING
+ 3.  contact             | Impact: 0.010854 → PHISHING
+ 4.  me                  | Impact: 0.010854 → PHISHING
+ 5.  services            | Impact: 0.009264 → PHISHING
+ 6.  rendered            | Impact: 0.009264 → PHISHING
+ 7.  by                  | Impact: 0.009264 → PHISHING
+ 8.  you                 | Impact: 0.009264 → PHISHING
+ 9.  .                   | Impact: 0.009264 → PHISHING
+10.  thank               | Impact: 0.007176 → PHISHING
+11.  you                 | Impact: 0.007176 → PHISHING
+12.  peter               | Impact: 0.007176 → PHISHING
+13.  to                  | Impact: 0.006631 → PHISHING
+14.  receive             | Impact: 0.006631 → PHISHING
+15.  to                  | Impact: 0.006431 → PHISHING
+16.  you                 | Impact: 0.006431 → PHISHING
+17.  fifty               | Impact: 0.005999 → PHISHING
+18.  -                   | Impact: 0.005999 → PHISHING
+19.  six                 | Impact: 0.005999 → PHISHING
+20.  million             | Impact: 0.005999 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bun                 | Impact: 0.010854
+ 2. o                    | Impact: 0.010854
+ 3.  contact             | Impact: 0.010854
+ 4.  me                  | Impact: 0.010854
+ 5.  services            | Impact: 0.009264
+ 6.  rendered            | Impact: 0.009264
+ 7.  by                  | Impact: 0.009264
+ 8.  you                 | Impact: 0.009264
+ 9.  .                   | Impact: 0.009264
+10.  thank               | Impact: 0.007176
+11.  you                 | Impact: 0.007176
+12.  peter               | Impact: 0.007176
+13.  to                  | Impact: 0.006631
+14.  receive             | Impact: 0.006631
+15.  to                  | Impact: 0.006431
+16.  you                 | Impact: 0.006431
+17.  fifty               | Impact: 0.005999
+18.  -                   | Impact: 0.005999
+19.  six                 | Impact: 0.005999
+20.  million             | Impact: 0.005999
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  my                  | Impact: -0.005279
+ 2.  greeting            | Impact: -0.005279
+ 3. s                    | Impact: -0.005279
+ 4.  ,                   | Impact: -0.005279
+ 5.  amount              | Impact: -0.003671
+ 6.  to                  | Impact: -0.003671
+ 7.  .                   | Impact: -0.003412
+ 8.  approximately       | Impact: -0.003322
+ 9.  and                 | Impact: -0.002954
+10.  i                   | Impact: -0.002333
+11.  res                 | Impact: -0.002333
+12. ited                 | Impact: -0.002333
+13.  confidential        | Impact: -0.002273
+14. ity                  | Impact: -0.002273
+15.  is                  | Impact: -0.002273
+16.  also                | Impact: -0.002273
+17.  for                 | Impact: -0.001921
+18.  a                   | Impact: -0.001921
+19.  while               | Impact: -0.001921
+20.  ,                   | Impact: -0.001921

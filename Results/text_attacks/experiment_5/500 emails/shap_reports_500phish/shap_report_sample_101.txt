@@ -1,0 +1,63 @@
+Sample 101
+==========
+
+Sample text preview: Compliments Before I introduce myself, I wish to inform you that this letter is not a hoax mail and I urge you to treat it serious. We want to transfe...
+
+Model prediction: [1.8805274e-04 9.9981195e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  a                   | Impact: 0.011661 → PHISHING
+ 2.  foreigner           | Impact: 0.011661 → PHISHING
+ 3.  because             | Impact: 0.011661 → PHISHING
+ 4.  this                | Impact: 0.011661 → PHISHING
+ 5.  money               | Impact: 0.011661 → PHISHING
+ 6.  can                 | Impact: 0.011661 → PHISHING
+ 7.  not                 | Impact: 0.011661 → PHISHING
+ 8.  be                  | Impact: 0.011661 → PHISHING
+ 9.  i                   | Impact: 0.009525 → PHISHING
+10.  am                  | Impact: 0.009525 → PHISHING
+11.  only                | Impact: 0.009525 → PHISHING
+12.  contact             | Impact: 0.009525 → PHISHING
+13. ing                  | Impact: 0.009525 → PHISHING
+14.  you                 | Impact: 0.009525 → PHISHING
+15.  as                  | Impact: 0.009525 → PHISHING
+16.  in                  | Impact: 0.007581 → PHISHING
+17.  god                 | Impact: 0.007581 → PHISHING
+18.  that                | Impact: 0.007581 → PHISHING
+19.  you                 | Impact: 0.007581 → PHISHING
+20.  will                | Impact: 0.007581 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  a                   | Impact: 0.011661
+ 2.  foreigner           | Impact: 0.011661
+ 3.  because             | Impact: 0.011661
+ 4.  this                | Impact: 0.011661
+ 5.  money               | Impact: 0.011661
+ 6.  can                 | Impact: 0.011661
+ 7.  not                 | Impact: 0.011661
+ 8.  be                  | Impact: 0.011661
+ 9.  i                   | Impact: 0.009525
+10.  am                  | Impact: 0.009525
+11.  only                | Impact: 0.009525
+12.  contact             | Impact: 0.009525
+13. ing                  | Impact: 0.009525
+14.  you                 | Impact: 0.009525
+15.  as                  | Impact: 0.009525
+16.  in                  | Impact: 0.007581
+17.  god                 | Impact: 0.007581
+18.  that                | Impact: 0.007581
+19.  you                 | Impact: 0.007581
+20.  will                | Impact: 0.007581
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.000301
+ 2.  compliment          | Impact: -0.000301
+ 3. s                    | Impact: -0.000301
+ 4.  before              | Impact: -0.000301
+ 5.  i                   | Impact: -0.000301
+ 6.  introduce           | Impact: -0.000301
+ 7.  myself              | Impact: -0.000301
+ 8.  ,                   | Impact: -0.000301

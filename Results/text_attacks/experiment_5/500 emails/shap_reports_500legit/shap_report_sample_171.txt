@@ -1,0 +1,75 @@
+Sample 171
+==========
+
+Sample text preview: FYI. ---------------------- Forwarded by Kay Mann/Corp/Enron on // : PM --------------------------- From: Cheryl Lipshutz@ECT on // : AM To: Roseann E...
+
+Model prediction: [9.9979550e-01 2.0451413e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.000767 → LEGITIMATE
+ 2. ron                  | Impact: -0.000767 → LEGITIMATE
+ 3.  en                  | Impact: -0.000703 → LEGITIMATE
+ 4. ron                  | Impact: -0.000703 → LEGITIMATE
+ 5.  _                   | Impact: -0.000703 → LEGITIMATE
+ 6.  development         | Impact: -0.000703 → LEGITIMATE
+ 7.  ,                   | Impact: -0.000703 → LEGITIMATE
+ 8.  tammy               | Impact: 0.000702 → PHISHING
+ 9.  en                  | Impact: -0.000672 → LEGITIMATE
+10. ron                  | Impact: -0.000672 → LEGITIMATE
+11.  ho                  | Impact: -0.000648 → LEGITIMATE
+12. u                    | Impact: -0.000648 → LEGITIMATE
+13.  /                   | Impact: -0.000648 → LEGITIMATE
+14.  ec                  | Impact: -0.000648 → LEGITIMATE
+15. t                    | Impact: -0.000648 → LEGITIMATE
+16.  @                   | Impact: -0.000648 → LEGITIMATE
+17.  ec                  | Impact: -0.000648 → LEGITIMATE
+18. t                    | Impact: -0.000648 → LEGITIMATE
+19.  ,                   | Impact: -0.000648 → LEGITIMATE
+20.  en                  | Impact: -0.000625 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  tammy               | Impact: 0.000702
+ 2.  tammy               | Impact: 0.000355
+ 3.  kara                | Impact: 0.000189
+ 4. than                 | Impact: 0.000189
+ 5. os                   | Impact: 0.000189
+ 6.  gina                | Impact: 0.000189
+ 7.  br                  | Impact: 0.000183
+ 8. en                   | Impact: 0.000183
+ 9. nig                  | Impact: 0.000183
+10.  gina                | Impact: 0.000179
+11.  kara                | Impact: 0.000179
+12. than                 | Impact: 0.000179
+13. os                   | Impact: 0.000179
+14.  /                   | Impact: 0.000179
+15.  corp                | Impact: 0.000179
+16.  /                   | Impact: 0.000179
+17.  en                  | Impact: 0.000179
+18. ron                  | Impact: 0.000179
+19.  @                   | Impact: 0.000179
+20.  en                  | Impact: 0.000179
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.000767
+ 2. ron                  | Impact: -0.000767
+ 3.  en                  | Impact: -0.000703
+ 4. ron                  | Impact: -0.000703
+ 5.  _                   | Impact: -0.000703
+ 6.  development         | Impact: -0.000703
+ 7.  ,                   | Impact: -0.000703
+ 8.  en                  | Impact: -0.000672
+ 9. ron                  | Impact: -0.000672
+10.  ho                  | Impact: -0.000648
+11. u                    | Impact: -0.000648
+12.  /                   | Impact: -0.000648
+13.  ec                  | Impact: -0.000648
+14. t                    | Impact: -0.000648
+15.  @                   | Impact: -0.000648
+16.  ec                  | Impact: -0.000648
+17. t                    | Impact: -0.000648
+18.  ,                   | Impact: -0.000648
+19.  en                  | Impact: -0.000625
+20. ron                  | Impact: -0.000625

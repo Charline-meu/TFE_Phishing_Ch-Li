@@ -1,0 +1,75 @@
+Sample 403
+==========
+
+Sample text preview: FROM: OFFICE OF REVD.FR David CLARK DIRECTOR SPECIAL DUTIES,UNITED NATIONS IN CONJUNCTION WITH THE INTERNATIONAL MONETARY FUND WORLD BANK SPECIAL DUTI...
+
+Model prediction: [1.747890e-04 9.998253e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  this                | Impact: 0.012455 → PHISHING
+ 2.  box                 | Impact: 0.012455 → PHISHING
+ 3.  shipped             | Impact: 0.012455 → PHISHING
+ 4.  to                  | Impact: 0.012455 → PHISHING
+ 5.  you                 | Impact: 0.012455 → PHISHING
+ 6.  ,                   | Impact: 0.012455 → PHISHING
+ 7.  in                  | Impact: 0.010378 → PHISHING
+ 8.  order               | Impact: 0.010378 → PHISHING
+ 9.  to                  | Impact: 0.010378 → PHISHING
+10.  get                 | Impact: 0.010378 → PHISHING
+11.  of                  | Impact: 0.008542 → PHISHING
+12.  your                | Impact: 0.008542 → PHISHING
+13.  you                 | Impact: 0.008019 → PHISHING
+14.  receive             | Impact: 0.008019 → PHISHING
+15.  your                | Impact: 0.008019 → PHISHING
+16.  money               | Impact: 0.008019 → PHISHING
+17.  .                   | Impact: 0.008019 → PHISHING
+18.  the                 | Impact: 0.007332 → PHISHING
+19.  box                 | Impact: 0.007332 → PHISHING
+20.  shipped             | Impact: 0.007332 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  this                | Impact: 0.012455
+ 2.  box                 | Impact: 0.012455
+ 3.  shipped             | Impact: 0.012455
+ 4.  to                  | Impact: 0.012455
+ 5.  you                 | Impact: 0.012455
+ 6.  ,                   | Impact: 0.012455
+ 7.  in                  | Impact: 0.010378
+ 8.  order               | Impact: 0.010378
+ 9.  to                  | Impact: 0.010378
+10.  get                 | Impact: 0.010378
+11.  of                  | Impact: 0.008542
+12.  your                | Impact: 0.008542
+13.  you                 | Impact: 0.008019
+14.  receive             | Impact: 0.008019
+15.  your                | Impact: 0.008019
+16.  money               | Impact: 0.008019
+17.  .                   | Impact: 0.008019
+18.  the                 | Impact: 0.007332
+19.  box                 | Impact: 0.007332
+20.  shipped             | Impact: 0.007332
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  david               | Impact: -0.001277
+ 2.  clark               | Impact: -0.001277
+ 3.  ,                   | Impact: -0.001277
+ 4.  a                   | Impact: -0.000717
+ 5.  senior              | Impact: -0.000717
+ 6.  staff               | Impact: -0.000717
+ 7.  with                | Impact: -0.000717
+ 8.  the                 | Impact: -0.000717
+ 9.  un                  | Impact: -0.000717
+10.  special             | Impact: -0.000717
+11.  duties              | Impact: -0.000717
+12.  office              | Impact: -0.000717
+13.  ,                   | Impact: -0.000717
+14.  my                  | Impact: -0.000066
+15.  office              | Impact: -0.000066
+16.  monitors            | Impact: -0.000066
+17.  and                 | Impact: -0.000066
+18.  controls            | Impact: -0.000066
+19.  the                 | Impact: -0.000066
+20.  affairs             | Impact: -0.000066

@@ -1,0 +1,75 @@
+Sample 276
+==========
+
+Sample text preview: Forwarded-by: Nev Dull Forwarded-by: Mike Olson Forwarded-by: Jim Frew Forwarded-by: "Mark Mooney" From: the "Vent", Scottsdale Tribune: First they su...
+
+Model prediction: [9.9977690e-01 2.2310409e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  women               | Impact: 0.022513 → PHISHING
+ 2.  guess               | Impact: -0.017793 → LEGITIMATE
+ 3.  tribune             | Impact: -0.017055 → LEGITIMATE
+ 4.  :                   | Impact: -0.014741 → LEGITIMATE
+ 5.  companies           | Impact: 0.011934 → PHISHING
+ 6.  can                 | Impact: -0.010796 → LEGITIMATE
+ 7.  cancer              | Impact: 0.008726 → PHISHING
+ 8.  i                   | Impact: -0.008342 → LEGITIMATE
+ 9.  scott               | Impact: -0.008005 → LEGITIMATE
+10.  ugly                | Impact: 0.007390 → PHISHING
+11.  lung                | Impact: 0.006356 → PHISHING
+12.  slept               | Impact: 0.005925 → PHISHING
+13.  sue                 | Impact: 0.005011 → PHISHING
+14. ser                  | Impact: -0.004853 → LEGITIMATE
+15. wei                  | Impact: 0.003626 → PHISHING
+16.  .                   | Impact: -0.003564 → LEGITIMATE
+17.  bud                 | Impact: 0.003520 → PHISHING
+18.  '                   | Impact: -0.003426 → LEGITIMATE
+19.  tobacco             | Impact: -0.003062 → LEGITIMATE
+20.  then                | Impact: 0.003025 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  women               | Impact: 0.022513
+ 2.  companies           | Impact: 0.011934
+ 3.  cancer              | Impact: 0.008726
+ 4.  ugly                | Impact: 0.007390
+ 5.  lung                | Impact: 0.006356
+ 6.  slept               | Impact: 0.005925
+ 7.  sue                 | Impact: 0.005011
+ 8. wei                  | Impact: 0.003626
+ 9.  bud                 | Impact: 0.003520
+10.  then                | Impact: 0.003025
+11.  with                | Impact: 0.001783
+12.  fast                | Impact: 0.001437
+13.  them                | Impact: 0.001237
+14.  places              | Impact: 0.001171
+15.  ve                  | Impact: 0.001170
+16.  they                | Impact: 0.001106
+17.  for                 | Impact: 0.001066
+18.  fat                 | Impact: 0.000632
+19.  making              | Impact: 0.000500
+20.  them                | Impact: 0.000500
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  guess               | Impact: -0.017793
+ 2.  tribune             | Impact: -0.017055
+ 3.  :                   | Impact: -0.014741
+ 4.  can                 | Impact: -0.010796
+ 5.  i                   | Impact: -0.008342
+ 6.  scott               | Impact: -0.008005
+ 7. ser                  | Impact: -0.004853
+ 8.  .                   | Impact: -0.003564
+ 9.  '                   | Impact: -0.003426
+10.  tobacco             | Impact: -0.003062
+11.  first               | Impact: -0.002953
+12.  food                | Impact: -0.002534
+13.  for                 | Impact: -0.002125
+14.  ,                   | Impact: -0.002103
+15.  "                   | Impact: -0.001991
+16.  i                   | Impact: -0.001929
+17.  :                   | Impact: -0.001884
+18.  giving              | Impact: -0.001613
+19.  "                   | Impact: -0.001360
+20.  :                   | Impact: -0.001151

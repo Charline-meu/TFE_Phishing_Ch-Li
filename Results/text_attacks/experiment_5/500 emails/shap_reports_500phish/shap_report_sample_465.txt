@@ -1,0 +1,75 @@
+Sample 465
+==========
+
+Sample text preview: ﻿Your account security is in danger! An Important Announcement for NETFLIX users Can't see images? Click here... Dear BNZ Client! This email is to not...
+
+Model prediction: [1.6984713e-04 9.9983013e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.044762 → PHISHING
+ 2.  safe                | Impact: 0.031052 → PHISHING
+ 3.  account             | Impact: 0.029382 → PHISHING
+ 4.  your                | Impact: 0.028261 → PHISHING
+ 5.  your                | Impact: 0.028028 → PHISHING
+ 6.  account             | Impact: 0.028028 → PHISHING
+ 7.  click               | Impact: 0.024763 → PHISHING
+ 8.  account             | Impact: 0.023927 → PHISHING
+ 9.  your                | Impact: 0.021895 → PHISHING
+10.  account             | Impact: 0.021895 → PHISHING
+11.  here                | Impact: 0.021704 → PHISHING
+12.  stay                | Impact: 0.021607 → PHISHING
+13.  click               | Impact: 0.019504 → PHISHING
+14.  email               | Impact: 0.018418 → PHISHING
+15.  registered          | Impact: 0.017175 → PHISHING
+16.  be                  | Impact: 0.016856 → PHISHING
+17.  your                | Impact: 0.016390 → PHISHING
+18.  this                | Impact: 0.015726 → PHISHING
+19.  are                 | Impact: 0.015079 → PHISHING
+20.  restored            | Impact: 0.014451 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.044762
+ 2.  safe                | Impact: 0.031052
+ 3.  account             | Impact: 0.029382
+ 4.  your                | Impact: 0.028261
+ 5.  your                | Impact: 0.028028
+ 6.  account             | Impact: 0.028028
+ 7.  click               | Impact: 0.024763
+ 8.  account             | Impact: 0.023927
+ 9.  your                | Impact: 0.021895
+10.  account             | Impact: 0.021895
+11.  here                | Impact: 0.021704
+12.  stay                | Impact: 0.021607
+13.  click               | Impact: 0.019504
+14.  email               | Impact: 0.018418
+15.  registered          | Impact: 0.017175
+16.  be                  | Impact: 0.016856
+17.  your                | Impact: 0.016390
+18.  this                | Impact: 0.015726
+19.  are                 | Impact: 0.015079
+20.  restored            | Impact: 0.014451
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  user                | Impact: -0.002330
+ 2.  at                  | Impact: -0.002330
+ 3.  netflix             | Impact: -0.002330
+ 4.  ,                   | Impact: -0.002011
+ 5.  .                   | Impact: -0.001826
+ 6.  .                   | Impact: -0.001825
+ 7.  in                  | Impact: -0.000816
+ 8.  connection          | Impact: -0.000816
+ 9.  with                | Impact: -0.000816
+10.  subscription        | Impact: -0.000816
+11.  your                | Impact: -0.000158
+12.  netflix             | Impact: -0.000158
+13.  team                | Impact: -0.000158
+14.  account             | Impact: -0.000136
+15.  security            | Impact: -0.000136
+16.  acc                 | Impact: -0.000121
+17. rued                 | Impact: -0.000121
+18.  .                   | Impact: -0.000121
+19.  .                   | Impact: -0.000004
+20.  .                   | Impact: -0.000004

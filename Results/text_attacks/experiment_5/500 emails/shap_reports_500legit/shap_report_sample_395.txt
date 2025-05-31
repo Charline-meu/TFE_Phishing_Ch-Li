@@ -1,0 +1,75 @@
+Sample 395
+==========
+
+Sample text preview: On Fri, Sep , at ::AM -, Josh Hildebrand wrote: > Unfortunately, when I run that, it complains about the H parameter. > > -F | remove/add 'From ' line...
+
+Model prediction: [9.9979013e-01 2.0991212e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  fine                | Impact: -0.003584 → LEGITIMATE
+ 2.  again               | Impact: 0.003432 → PHISHING
+ 3.  person              | Impact: 0.003128 → PHISHING
+ 4.  zen                 | Impact: -0.002799 → LEGITIMATE
+ 5.  never               | Impact: 0.002546 → PHISHING
+ 6.  probably            | Impact: -0.002357 → LEGITIMATE
+ 7.  that                | Impact: 0.001987 → PHISHING
+ 8.  "                   | Impact: -0.001934 → LEGITIMATE
+ 9.  rc                  | Impact: -0.001866 → LEGITIMATE
+10.  h                   | Impact: 0.001831 → PHISHING
+11.  -                   | Impact: -0.001765 → LEGITIMATE
+12.  it                  | Impact: -0.001599 → LEGITIMATE
+13.  "                   | Impact: -0.001445 → LEGITIMATE
+14.  ,                   | Impact: 0.001407 → PHISHING
+15.  :                   | Impact: -0.001386 → LEGITIMATE
+16.  $                   | Impact: -0.001257 → LEGITIMATE
+17.  f                   | Impact: -0.001242 → LEGITIMATE
+18.  remove              | Impact: 0.001130 → PHISHING
+19.  >                   | Impact: -0.001084 → LEGITIMATE
+20.  default             | Impact: -0.001074 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  again               | Impact: 0.003432
+ 2.  person              | Impact: 0.003128
+ 3.  never               | Impact: 0.002546
+ 4.  that                | Impact: 0.001987
+ 5.  h                   | Impact: 0.001831
+ 6.  ,                   | Impact: 0.001407
+ 7.  remove              | Impact: 0.001130
+ 8.  from                | Impact: 0.001062
+ 9.  see                 | Impact: 0.001002
+10.  script              | Impact: 0.000866
+11.  running             | Impact: 0.000807
+12.  and                 | Impact: 0.000604
+13.  -                   | Impact: 0.000478
+14.  c                   | Impact: 0.000478
+15.  as                  | Impact: 0.000469
+16.  "                   | Impact: 0.000469
+17.  i                   | Impact: 0.000455
+18.  /                   | Impact: 0.000417
+19.  it                  | Impact: 0.000399
+20.  mu                  | Impact: 0.000386
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  fine                | Impact: -0.003584
+ 2.  zen                 | Impact: -0.002799
+ 3.  probably            | Impact: -0.002357
+ 4.  "                   | Impact: -0.001934
+ 5.  rc                  | Impact: -0.001866
+ 6.  -                   | Impact: -0.001765
+ 7.  it                  | Impact: -0.001599
+ 8.  "                   | Impact: -0.001445
+ 9.  :                   | Impact: -0.001386
+10.  $                   | Impact: -0.001257
+11.  f                   | Impact: -0.001242
+12.  >                   | Impact: -0.001084
+13.  default             | Impact: -0.001074
+14.  :                   | Impact: -0.001074
+15.  if                  | Impact: -0.001066
+16.  -                   | Impact: -0.001041
+17.  you                 | Impact: -0.001022
+18.  -                   | Impact: -0.000986
+19.  >                   | Impact: -0.000951
+20.  (                   | Impact: -0.000921

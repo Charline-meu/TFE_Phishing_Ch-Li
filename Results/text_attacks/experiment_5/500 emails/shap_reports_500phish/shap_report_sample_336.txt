@@ -1,0 +1,75 @@
+Sample 336
+==========
+
+Sample text preview: Your email ( ) is almost full. Current size MB MB Maximum size Your mailbox is running out of data storage and it might be close kindly to add more MB...
+
+Model prediction: [2.5048078e-04 9.9974948e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.042089 → PHISHING
+ 2.  email               | Impact: 0.041954 → PHISHING
+ 3.                      | Impact: 0.028060 → PHISHING
+ 4.  your                | Impact: 0.014242 → PHISHING
+ 5.  account             | Impact: 0.014242 → PHISHING
+ 6.  might               | Impact: 0.014242 → PHISHING
+ 7.  be                  | Impact: 0.014242 → PHISHING
+ 8.  mb                  | Impact: 0.012552 → PHISHING
+ 9.  to                  | Impact: 0.012552 → PHISHING
+10.  your                | Impact: 0.012552 → PHISHING
+11.  maximum             | Impact: 0.012172 → PHISHING
+12.  size                | Impact: 0.012172 → PHISHING
+13.  your                | Impact: 0.012172 → PHISHING
+14.  closed              | Impact: 0.011790 → PHISHING
+15.  your                | Impact: 0.011790 → PHISHING
+16.  important           | Impact: 0.011790 → PHISHING
+17.  mail                | Impact: 0.011790 → PHISHING
+18.  you                 | Impact: 0.009368 → PHISHING
+19.  will                | Impact: 0.009368 → PHISHING
+20.  not                 | Impact: 0.009368 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.042089
+ 2.  email               | Impact: 0.041954
+ 3.                      | Impact: 0.028060
+ 4.  your                | Impact: 0.014242
+ 5.  account             | Impact: 0.014242
+ 6.  might               | Impact: 0.014242
+ 7.  be                  | Impact: 0.014242
+ 8.  mb                  | Impact: 0.012552
+ 9.  to                  | Impact: 0.012552
+10.  your                | Impact: 0.012552
+11.  maximum             | Impact: 0.012172
+12.  size                | Impact: 0.012172
+13.  your                | Impact: 0.012172
+14.  closed              | Impact: 0.011790
+15.  your                | Impact: 0.011790
+16.  important           | Impact: 0.011790
+17.  mail                | Impact: 0.011790
+18.  you                 | Impact: 0.009368
+19.  will                | Impact: 0.009368
+20.  not                 | Impact: 0.009368
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  is                  | Impact: -0.006614
+ 2.  almost              | Impact: -0.006614
+ 3.  full                | Impact: -0.006614
+ 4.  them                | Impact: -0.005856
+ 5.  to                  | Impact: -0.005856
+ 6.  be                  | Impact: -0.005856
+ 7.  the                 | Impact: -0.005856
+ 8.  views               | Impact: -0.005856
+ 9.  of                  | Impact: -0.005856
+10.  j                   | Impact: -0.005856
+11. k                    | Impact: -0.005856
+12.  (                   | Impact: -0.005699
+13.  )                   | Impact: -0.005699
+14.  any                 | Impact: -0.005544
+15.  views               | Impact: -0.005544
+16.  expressed           | Impact: -0.005544
+17.  in                  | Impact: -0.005544
+18.  this                | Impact: -0.005544
+19.  message             | Impact: -0.005544
+20.  are                 | Impact: -0.005544

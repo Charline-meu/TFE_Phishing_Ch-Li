@@ -1,0 +1,75 @@
+Sample 271
+==========
+
+Sample text preview: On Thu, Jul , R. A. Hettinga wrote: > So, in light of the erstwhile bloodbath on Capital Hill, and the real > one we just saw a few days ago in the ma...
+
+Model prediction: [9.9972361e-01 2.7637073e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.004836 → LEGITIMATE
+ 2.  we                  | Impact: -0.004685 → LEGITIMATE
+ 3.  remember            | Impact: 0.003618 → PHISHING
+ 4.  jul                 | Impact: -0.003166 → LEGITIMATE
+ 5.  in                  | Impact: 0.003125 → PHISHING
+ 6.  days                | Impact: 0.003095 → PHISHING
+ 7.  wrote               | Impact: -0.002936 → LEGITIMATE
+ 8.  :                   | Impact: -0.002936 → LEGITIMATE
+ 9.  ago                 | Impact: 0.002724 → PHISHING
+10.  ,                   | Impact: -0.002713 → LEGITIMATE
+11.  ,                   | Impact: -0.002552 → LEGITIMATE
+12.  startup             | Impact: -0.002250 → LEGITIMATE
+13.  >                   | Impact: -0.002155 → LEGITIMATE
+14.  so                  | Impact: -0.002155 → LEGITIMATE
+15.  time                | Impact: 0.001949 → PHISHING
+16.  be                  | Impact: 0.001916 → PHISHING
+17.  r                   | Impact: 0.001905 → PHISHING
+18.  saw                 | Impact: -0.001855 → LEGITIMATE
+19.  market              | Impact: 0.001583 → PHISHING
+20. s                    | Impact: -0.001569 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  remember            | Impact: 0.003618
+ 2.  in                  | Impact: 0.003125
+ 3.  days                | Impact: 0.003095
+ 4.  ago                 | Impact: 0.002724
+ 5.  time                | Impact: 0.001949
+ 6.  be                  | Impact: 0.001916
+ 7.  r                   | Impact: 0.001905
+ 8.  market              | Impact: 0.001583
+ 9.  real                | Impact: 0.001353
+10.  .                   | Impact: 0.001337
+11.  what                | Impact: 0.001145
+12.  it                  | Impact: 0.001129
+13.  the                 | Impact: 0.000900
+14.  entering            | Impact: 0.000898
+15.  the                 | Impact: 0.000898
+16.  screwed             | Impact: 0.000781
+17. a                    | Impact: 0.000729
+18.  the                 | Impact: 0.000695
+19.  streets             | Impact: 0.000695
+20.  this                | Impact: 0.000632
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.004836
+ 2.  we                  | Impact: -0.004685
+ 3.  jul                 | Impact: -0.003166
+ 4.  wrote               | Impact: -0.002936
+ 5.  :                   | Impact: -0.002936
+ 6.  ,                   | Impact: -0.002713
+ 7.  ,                   | Impact: -0.002552
+ 8.  startup             | Impact: -0.002250
+ 9.  >                   | Impact: -0.002155
+10.  so                  | Impact: -0.002155
+11.  saw                 | Impact: -0.001855
+12. s                    | Impact: -0.001569
+13.  said                | Impact: -0.001486
+14.  .                   | Impact: -0.001374
+15.  a                   | Impact: -0.001304
+16.  im                  | Impact: -0.001285
+17. o                    | Impact: -0.001285
+18.  ala                 | Impact: -0.000923
+19. s                    | Impact: -0.000923
+20.  and                 | Impact: -0.000923

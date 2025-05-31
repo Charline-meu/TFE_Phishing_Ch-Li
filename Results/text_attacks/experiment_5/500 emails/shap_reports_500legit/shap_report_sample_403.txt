@@ -1,0 +1,75 @@
+Sample 403
+==========
+
+Sample text preview: Dear Alan and Mark, I have attached a spreadsheet containing two lists: one containing existing EnronOnline counterparties; one containing existing Me...
+
+Model prediction: [9.9978894e-01 2.1113234e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  regards             | Impact: 0.087807 → PHISHING
+ 2.  best                | Impact: 0.049484 → PHISHING
+ 3. ron                  | Impact: -0.037812 → LEGITIMATE
+ 4.  clearance           | Impact: 0.026255 → PHISHING
+ 5.  justin              | Impact: -0.023706 → LEGITIMATE
+ 6.  alan                | Impact: -0.020032 → LEGITIMATE
+ 7.  dear                | Impact: 0.019480 → PHISHING
+ 8.  edmund              | Impact: -0.016791 → LEGITIMATE
+ 9. on                   | Impact: -0.015634 → LEGITIMATE
+10.  mark                | Impact: -0.015198 → LEGITIMATE
+11.  and                 | Impact: -0.014367 → LEGITIMATE
+12. ron                  | Impact: -0.014359 → LEGITIMATE
+13.  .                   | Impact: 0.014123 → PHISHING
+14. ies                  | Impact: -0.013185 → LEGITIMATE
+15.  lists               | Impact: -0.012755 → LEGITIMATE
+16. ies                  | Impact: -0.012330 → LEGITIMATE
+17.  us                  | Impact: 0.011137 → PHISHING
+18.  you                 | Impact: 0.010696 → PHISHING
+19.  further             | Impact: 0.010497 → PHISHING
+20.  ,                   | Impact: -0.009941 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.087807
+ 2.  best                | Impact: 0.049484
+ 3.  clearance           | Impact: 0.026255
+ 4.  dear                | Impact: 0.019480
+ 5.  .                   | Impact: 0.014123
+ 6.  us                  | Impact: 0.011137
+ 7.  you                 | Impact: 0.010696
+ 8.  further             | Impact: 0.010497
+ 9.  and                 | Impact: 0.008015
+10.  know                | Impact: 0.006643
+11.  on                  | Impact: 0.006084
+12.  trade               | Impact: 0.005959
+13.  your                | Impact: 0.005887
+14.  do                  | Impact: 0.005523
+15.  let                 | Impact: 0.005523
+16.  if                  | Impact: 0.005238
+17.  canadian            | Impact: 0.004539
+18.  information         | Impact: 0.004452
+19.  counterpart         | Impact: 0.003433
+20. ies                  | Impact: 0.003433
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.037812
+ 2.  justin              | Impact: -0.023706
+ 3.  alan                | Impact: -0.020032
+ 4.  edmund              | Impact: -0.016791
+ 5. on                   | Impact: -0.015634
+ 6.  mark                | Impact: -0.015198
+ 7.  and                 | Impact: -0.014367
+ 8. ron                  | Impact: -0.014359
+ 9. ies                  | Impact: -0.013185
+10.  lists               | Impact: -0.012755
+11. ies                  | Impact: -0.012330
+12.  ,                   | Impact: -0.009941
+13.  .                   | Impact: -0.009787
+14.  but                 | Impact: -0.009774
+15.  counterpart         | Impact: -0.007778
+16. ies                  | Impact: -0.007778
+17. line                 | Impact: -0.007324
+18.  thoughts            | Impact: -0.007180
+19.  en                  | Impact: -0.007020
+20.  we                  | Impact: -0.006734

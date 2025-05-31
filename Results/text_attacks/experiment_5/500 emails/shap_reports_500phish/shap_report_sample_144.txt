@@ -1,0 +1,75 @@
+Sample 144
+==========
+
+Sample text preview: Gooday, With warm heart my friend, I send you my greetings, and I hope this letter meets you in good time. It will be surprising to you to receive thi...
+
+Model prediction: [1.6754246e-04 9.9983239e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.007097 → PHISHING
+ 2.  master              | Impact: 0.007097 → PHISHING
+ 3.  is                  | Impact: 0.007097 → PHISHING
+ 4.  divorced            | Impact: 0.007097 → PHISHING
+ 5.  ,                   | Impact: 0.007097 → PHISHING
+ 6.  million             | Impact: 0.006201 → PHISHING
+ 7.  and                 | Impact: 0.005607 → PHISHING
+ 8.  his                 | Impact: 0.005607 → PHISHING
+ 9.  wife                | Impact: 0.005607 → PHISHING
+10.  valerie             | Impact: 0.005607 → PHISHING
+11.  ,                   | Impact: 0.005607 → PHISHING
+12.  and                 | Impact: 0.005607 → PHISHING
+13.  only                | Impact: 0.005607 → PHISHING
+14.  child               | Impact: 0.005607 → PHISHING
+15.  ,                   | Impact: 0.005607 → PHISHING
+16.  my                  | Impact: 0.004636 → PHISHING
+17.  master              | Impact: 0.004636 → PHISHING
+18.  had                 | Impact: 0.004636 → PHISHING
+19.  planned             | Impact: 0.004636 → PHISHING
+20.  to                  | Impact: 0.004636 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.007097
+ 2.  master              | Impact: 0.007097
+ 3.  is                  | Impact: 0.007097
+ 4.  divorced            | Impact: 0.007097
+ 5.  ,                   | Impact: 0.007097
+ 6.  million             | Impact: 0.006201
+ 7.  and                 | Impact: 0.005607
+ 8.  his                 | Impact: 0.005607
+ 9.  wife                | Impact: 0.005607
+10.  valerie             | Impact: 0.005607
+11.  ,                   | Impact: 0.005607
+12.  and                 | Impact: 0.005607
+13.  only                | Impact: 0.005607
+14.  child               | Impact: 0.005607
+15.  ,                   | Impact: 0.005607
+16.  my                  | Impact: 0.004636
+17.  master              | Impact: 0.004636
+18.  had                 | Impact: 0.004636
+19.  planned             | Impact: 0.004636
+20.  to                  | Impact: 0.004636
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  new                 | Impact: -0.001973
+ 2.  machines            | Impact: -0.001973
+ 3.  and                 | Impact: -0.001973
+ 4.  chemicals           | Impact: -0.001973
+ 5.  for                 | Impact: -0.001973
+ 6.  establishment       | Impact: -0.001973
+ 7.  of                  | Impact: -0.001973
+ 8.  farm                | Impact: -0.001009
+ 9.  equipment           | Impact: -0.001009
+10.  from                | Impact: -0.001009
+11.  europe              | Impact: -0.001009
+12.  .                   | Impact: -0.001009
+13.  to                  | Impact: -0.001009
+14.  move                | Impact: -0.001009
+15.  money               | Impact: -0.001009
+16.  for                 | Impact: -0.001009
+17.  the                 | Impact: -0.001009
+18.  purchase            | Impact: -0.001009
+19.  of                  | Impact: -0.001009
+20.  tractors            | Impact: -0.001009

@@ -1,0 +1,75 @@
+Sample 262
+==========
+
+Sample text preview: From the office of Engr: Abubakar Saeed Federal Ministry of works and housing, Federal secretariat office complex, Lagos, Nigeria. Dear Friend, Reques...
+
+Model prediction: [1.614097e-04 9.998386e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lagos               | Impact: 0.013547 → PHISHING
+ 2.  to                  | Impact: 0.012078 → PHISHING
+ 3.  your                | Impact: 0.012078 → PHISHING
+ 4.  dear                | Impact: 0.008963 → PHISHING
+ 5.  friend              | Impact: 0.008963 → PHISHING
+ 6.  ,                   | Impact: 0.007374 → PHISHING
+ 7.  ben                 | Impact: 0.007060 → PHISHING
+ 8. ef                   | Impact: 0.007060 → PHISHING
+ 9. icia                 | Impact: 0.007060 → PHISHING
+10. ry                   | Impact: 0.007060 → PHISHING
+11.  .                   | Impact: 0.007060 → PHISHING
+12.  and                 | Impact: 0.006286 → PHISHING
+13.  legally             | Impact: 0.006286 → PHISHING
+14.  processed           | Impact: 0.006286 → PHISHING
+15.  with                | Impact: 0.006286 → PHISHING
+16.  your                | Impact: 0.006286 → PHISHING
+17.  name                | Impact: 0.006286 → PHISHING
+18.  nigeria             | Impact: 0.006075 → PHISHING
+19.  .                   | Impact: 0.006075 → PHISHING
+20.  to                  | Impact: 0.005502 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  lagos               | Impact: 0.013547
+ 2.  to                  | Impact: 0.012078
+ 3.  your                | Impact: 0.012078
+ 4.  dear                | Impact: 0.008963
+ 5.  friend              | Impact: 0.008963
+ 6.  ,                   | Impact: 0.007374
+ 7.  ben                 | Impact: 0.007060
+ 8. ef                   | Impact: 0.007060
+ 9. icia                 | Impact: 0.007060
+10. ry                   | Impact: 0.007060
+11.  .                   | Impact: 0.007060
+12.  and                 | Impact: 0.006286
+13.  legally             | Impact: 0.006286
+14.  processed           | Impact: 0.006286
+15.  with                | Impact: 0.006286
+16.  your                | Impact: 0.006286
+17.  name                | Impact: 0.006286
+18.  nigeria             | Impact: 0.006075
+19.  .                   | Impact: 0.006075
+20.  to                  | Impact: 0.005502
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  review              | Impact: -0.001238
+ 2.  existing            | Impact: -0.001238
+ 3.  ones                | Impact: -0.001238
+ 4.  ministry            | Impact: -0.000405
+ 5.  of                  | Impact: -0.000405
+ 6.  finance             | Impact: -0.000405
+ 7.  have                | Impact: -0.000405
+ 8.  been                | Impact: -0.000405
+ 9.  worked              | Impact: -0.000405
+10.  out                 | Impact: -0.000405
+11.  at                  | Impact: -0.000405
+12.  the                 | Impact: -0.000405
+13.  highest             | Impact: -0.000405
+14.  level               | Impact: -0.000405
+15.  of                  | Impact: -0.000405
+16.  the                 | Impact: -0.000405
+17.  mod                 | Impact: -0.000405
+18. ali                  | Impact: -0.000405
+19. ties                 | Impact: -0.000405
+20.  di                  | Impact: -0.000361

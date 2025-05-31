@@ -1,0 +1,75 @@
+Sample 293
+==========
+
+Sample text preview: Hello, I am very sorry to embarrass you with this email as I did not mean to intrude in your privacy if not for the peculiar situation I have found my...
+
+Model prediction: [2.018679e-04 9.997981e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.032799 → PHISHING
+ 2.  to                  | Impact: 0.032799 → PHISHING
+ 3.  secure              | Impact: 0.024058 → PHISHING
+ 4.  abbas               | Impact: 0.017080 → PHISHING
+ 5.  company             | Impact: 0.013959 → PHISHING
+ 6.  abroad              | Impact: 0.013959 → PHISHING
+ 7.  ,                   | Impact: 0.013959 → PHISHING
+ 8.  you                 | Impact: 0.013853 → PHISHING
+ 9.  in                  | Impact: 0.011143 → PHISHING
+10.  a                   | Impact: 0.011143 → PHISHING
+11.  safe                | Impact: 0.011143 → PHISHING
+12.  keeping             | Impact: 0.011143 → PHISHING
+13.  jar                 | Impact: 0.010005 → PHISHING
+14.  of                  | Impact: 0.008992 → PHISHING
+15.  two                 | Impact: 0.008992 → PHISHING
+16.  million             | Impact: 0.008992 → PHISHING
+17.  reach               | Impact: 0.008373 → PHISHING
+18.  me                  | Impact: 0.008373 → PHISHING
+19.  five                | Impact: 0.008284 → PHISHING
+20.  hundred             | Impact: 0.008284 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.032799
+ 2.  to                  | Impact: 0.032799
+ 3.  secure              | Impact: 0.024058
+ 4.  abbas               | Impact: 0.017080
+ 5.  company             | Impact: 0.013959
+ 6.  abroad              | Impact: 0.013959
+ 7.  ,                   | Impact: 0.013959
+ 8.  you                 | Impact: 0.013853
+ 9.  in                  | Impact: 0.011143
+10.  a                   | Impact: 0.011143
+11.  safe                | Impact: 0.011143
+12.  keeping             | Impact: 0.011143
+13.  jar                 | Impact: 0.010005
+14.  of                  | Impact: 0.008992
+15.  two                 | Impact: 0.008992
+16.  million             | Impact: 0.008992
+17.  reach               | Impact: 0.008373
+18.  me                  | Impact: 0.008373
+19.  five                | Impact: 0.008284
+20.  hundred             | Impact: 0.008284
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  them                | Impact: -0.001007
+ 2.  anymore             | Impact: -0.001007
+ 3.  ,                   | Impact: -0.001007
+ 4.  hence               | Impact: -0.001007
+ 5.  ,                   | Impact: -0.001007
+ 6.  i                   | Impact: -0.001007
+ 7.  do                  | Impact: -0.001007
+ 8.  not                 | Impact: -0.001007
+ 9.  trust               | Impact: -0.001007
+10.  for                 | Impact: -0.000879
+11.  them                | Impact: -0.000879
+12.  .                   | Impact: -0.000879
+13.  as                  | Impact: -0.000879
+14.  they                | Impact: -0.000879
+15.  seem                | Impact: -0.000879
+16.  not                 | Impact: -0.000879
+17.  to                  | Impact: -0.000879
+18.  be                  | Impact: -0.000879
+19.  contempt            | Impact: -0.000879
+20.  with                | Impact: -0.000879

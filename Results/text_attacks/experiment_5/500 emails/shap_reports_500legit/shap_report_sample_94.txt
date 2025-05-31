@@ -1,0 +1,75 @@
+Sample 94
+=========
+
+Sample text preview: Actresses with just the one annoying accent! Don't we all just love them? Them and football of course, more of which in the Breaking News section of y...
+
+Model prediction: [0.9639511  0.03604895]
+Predicted class: LEGITIMATE with 0.9640 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  actresses           | Impact: 0.168773 → PHISHING
+ 2.  the                 | Impact: -0.117223 → LEGITIMATE
+ 3.  !                   | Impact: 0.100942 → PHISHING
+ 4.  course              | Impact: -0.075105 → LEGITIMATE
+ 5.  yours               | Impact: 0.073546 → PHISHING
+ 6.  which               | Impact: -0.060908 → LEGITIMATE
+ 7.  football            | Impact: -0.049659 → LEGITIMATE
+ 8.  love                | Impact: 0.048460 → PHISHING
+ 9.  with                | Impact: 0.041900 → PHISHING
+10.  your                | Impact: 0.039815 → PHISHING
+11.  gerald              | Impact: -0.039289 → LEGITIMATE
+12.  evil                | Impact: 0.033843 → PHISHING
+13.  just                | Impact: -0.030526 → LEGITIMATE
+14.  gerald              | Impact: -0.029487 → LEGITIMATE
+15.  more                | Impact: -0.025943 → LEGITIMATE
+16.  annoying            | Impact: -0.024547 → LEGITIMATE
+17.  of                  | Impact: -0.023881 → LEGITIMATE
+18.  them                | Impact: 0.021858 → PHISHING
+19.  don                 | Impact: 0.021149 → PHISHING
+20.  of                  | Impact: -0.020785 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  actresses           | Impact: 0.168773
+ 2.  !                   | Impact: 0.100942
+ 3.  yours               | Impact: 0.073546
+ 4.  love                | Impact: 0.048460
+ 5.  with                | Impact: 0.041900
+ 6.  your                | Impact: 0.039815
+ 7.  evil                | Impact: 0.033843
+ 8.  them                | Impact: 0.021858
+ 9.  don                 | Impact: 0.021149
+10.  t                   | Impact: 0.017545
+11.  neighbourhood       | Impact: 0.013612
+12.  evil                | Impact: 0.008641
+13.  friendly            | Impact: 0.006069
+14.  '                   | Impact: 0.005476
+15.  news                | Impact: 0.005349
+16.  ?                   | Impact: 0.004084
+17.  section             | Impact: 0.003134
+18.                      | Impact: 0.002546
+19.  ,                   | Impact: 0.001962
+20.                      | Impact: 0.001921
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.117223
+ 2.  course              | Impact: -0.075105
+ 3.  which               | Impact: -0.060908
+ 4.  football            | Impact: -0.049659
+ 5.  gerald              | Impact: -0.039289
+ 6.  just                | Impact: -0.030526
+ 7.  gerald              | Impact: -0.029487
+ 8.  more                | Impact: -0.025943
+ 9.  annoying            | Impact: -0.024547
+10.  of                  | Impact: -0.023881
+11.  of                  | Impact: -0.020785
+12.  .                   | Impact: -0.020767
+13.  we                  | Impact: -0.017220
+14.  them                | Impact: -0.016509
+15.  and                 | Impact: -0.013787
+16.  all                 | Impact: -0.011655
+17.  ,                   | Impact: -0.006764
+18.  one                 | Impact: -0.005904
+19.  the                 | Impact: -0.004727
+20.  just                | Impact: -0.004263

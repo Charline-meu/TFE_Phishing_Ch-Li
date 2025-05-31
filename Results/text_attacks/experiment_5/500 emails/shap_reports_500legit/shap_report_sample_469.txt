@@ -1,0 +1,62 @@
+Sample 469
+==========
+
+Sample text preview: Mark Derricutt wrote: > Hiya, I just myself an rpm, and when I did -Uvh to upgrade the earlier > version I had installed (also from my rpm) I got: > >...
+
+Model prediction: [9.997390e-01 2.610071e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  rpm                 | Impact: -0.007213 → LEGITIMATE
+ 2.  >                   | Impact: -0.007213 → LEGITIMATE
+ 3.  removing            | Impact: -0.006509 → LEGITIMATE
+ 4.  preparing           | Impact: -0.006032 → LEGITIMATE
+ 5.  >                   | Impact: -0.004498 → LEGITIMATE
+ 6.  rpm                 | Impact: -0.004163 → LEGITIMATE
+ 7.  .                   | Impact: -0.004078 → LEGITIMATE
+ 8.  upgrade             | Impact: -0.003642 → LEGITIMATE
+ 9.  seems               | Impact: -0.003437 → LEGITIMATE
+10.  .                   | Impact: -0.003380 → LEGITIMATE
+11.  .                   | Impact: -0.003343 → LEGITIMATE
+12.  ]                   | Impact: -0.003335 → LEGITIMATE
+13.  >                   | Impact: -0.003332 → LEGITIMATE
+14.  rpm                 | Impact: -0.003331 → LEGITIMATE
+15.  try                 | Impact: -0.002850 → LEGITIMATE
+16.  :                   | Impact: -0.002744 → LEGITIMATE
+17.  ]                   | Impact: -0.002732 → LEGITIMATE
+18.  >                   | Impact: -0.002732 → LEGITIMATE
+19.  :                   | Impact: -0.002719 → LEGITIMATE
+20.  .                   | Impact: -0.002645 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  (                   | Impact: 0.000087
+ 2.  also                | Impact: 0.000087
+ 3.  from                | Impact: 0.000087
+ 4.  mail                | Impact: 0.000066
+ 5. ing                  | Impact: 0.000066
+ 6.  list                | Impact: 0.000066
+ 7.                      | Impact: 0.000066
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  rpm                 | Impact: -0.007213
+ 2.  >                   | Impact: -0.007213
+ 3.  removing            | Impact: -0.006509
+ 4.  preparing           | Impact: -0.006032
+ 5.  >                   | Impact: -0.004498
+ 6.  rpm                 | Impact: -0.004163
+ 7.  .                   | Impact: -0.004078
+ 8.  upgrade             | Impact: -0.003642
+ 9.  seems               | Impact: -0.003437
+10.  .                   | Impact: -0.003380
+11.  .                   | Impact: -0.003343
+12.  ]                   | Impact: -0.003335
+13.  >                   | Impact: -0.003332
+14.  rpm                 | Impact: -0.003331
+15.  try                 | Impact: -0.002850
+16.  :                   | Impact: -0.002744
+17.  ]                   | Impact: -0.002732
+18.  >                   | Impact: -0.002732
+19.  :                   | Impact: -0.002719
+20.  .                   | Impact: -0.002645

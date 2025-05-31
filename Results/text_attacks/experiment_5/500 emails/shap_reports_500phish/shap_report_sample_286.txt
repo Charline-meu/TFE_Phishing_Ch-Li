@@ -1,0 +1,69 @@
+Sample 286
+==========
+
+Sample text preview: Question? Do you want a different job? Do you want to be your own boss? Do you need extra income? Do you need to start a new life? Does your current j...
+
+Model prediction: [1.8519748e-04 9.9981481e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  income              | Impact: 0.066553 → PHISHING
+ 2.  fortune             | Impact: 0.039178 → PHISHING
+ 3.  current             | Impact: 0.035078 → PHISHING
+ 4.  new                 | Impact: 0.031382 → PHISHING
+ 5.  life                | Impact: 0.031382 → PHISHING
+ 6.  here                | Impact: 0.020947 → PHISHING
+ 7.  substantial         | Impact: 0.020635 → PHISHING
+ 8.  income              | Impact: 0.020635 → PHISHING
+ 9.  a                   | Impact: 0.019723 → PHISHING
+10.  you                 | Impact: 0.017984 → PHISHING
+11.  vast                | Impact: 0.017984 → PHISHING
+12.  job                 | Impact: 0.017409 → PHISHING
+13.  solution            | Impact: 0.017004 → PHISHING
+14.  be                  | Impact: 0.014905 → PHISHING
+15.  your                | Impact: 0.014905 → PHISHING
+16.  online              | Impact: 0.014490 → PHISHING
+17.  start               | Impact: 0.014378 → PHISHING
+18.  a                   | Impact: 0.014378 → PHISHING
+19.  need                | Impact: 0.013653 → PHISHING
+20.  extra               | Impact: 0.013653 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  income              | Impact: 0.066553
+ 2.  fortune             | Impact: 0.039178
+ 3.  current             | Impact: 0.035078
+ 4.  new                 | Impact: 0.031382
+ 5.  life                | Impact: 0.031382
+ 6.  here                | Impact: 0.020947
+ 7.  substantial         | Impact: 0.020635
+ 8.  income              | Impact: 0.020635
+ 9.  a                   | Impact: 0.019723
+10.  you                 | Impact: 0.017984
+11.  vast                | Impact: 0.017984
+12.  job                 | Impact: 0.017409
+13.  solution            | Impact: 0.017004
+14.  be                  | Impact: 0.014905
+15.  your                | Impact: 0.014905
+16.  online              | Impact: 0.014490
+17.  start               | Impact: 0.014378
+18.  a                   | Impact: 0.014378
+19.  need                | Impact: 0.013653
+20.  extra               | Impact: 0.013653
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.007188
+ 2.  question            | Impact: -0.007188
+ 3.  go                  | Impact: -0.003984
+ 4.  nowhere             | Impact: -0.003984
+ 5.  ?                   | Impact: -0.003694
+ 6.  seem                | Impact: -0.003645
+ 7.  to                  | Impact: -0.003645
+ 8.  do                  | Impact: -0.002129
+ 9.  you                 | Impact: -0.002129
+10.  to                  | Impact: -0.001624
+11.  these               | Impact: -0.001624
+12.  questions           | Impact: -0.001624
+13.  ,                   | Impact: -0.001624
+14.  .                   | Impact: -0.000668

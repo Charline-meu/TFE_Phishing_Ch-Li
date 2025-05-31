@@ -1,0 +1,75 @@
+Sample 53
+=========
+
+Sample text preview: That's what the manual said - a diversity antenna. Why wouldn't it work well with one omni and one directional antena? IANAEE, but doesn't that count ...
+
+Model prediction: [9.997830e-01 2.170329e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wrote               | Impact: -0.001969 → LEGITIMATE
+ 2.  :                   | Impact: -0.001380 → LEGITIMATE
+ 3.  damien              | Impact: -0.000998 → LEGITIMATE
+ 4.  morton              | Impact: -0.000998 → LEGITIMATE
+ 5.  device              | Impact: -0.000932 → LEGITIMATE
+ 6.  >                   | Impact: -0.000843 → LEGITIMATE
+ 7.  walls               | Impact: -0.000843 → LEGITIMATE
+ 8.  doing               | Impact: -0.000820 → LEGITIMATE
+ 9.  some                | Impact: -0.000820 → LEGITIMATE
+10.  reinforced          | Impact: -0.000796 → LEGITIMATE
+11.  concrete            | Impact: -0.000796 → LEGITIMATE
+12.  dev                 | Impact: -0.000736 → LEGITIMATE
+13.  work                | Impact: -0.000736 → LEGITIMATE
+14.  >                   | Impact: -0.000646 → LEGITIMATE
+15.  >                   | Impact: -0.000646 → LEGITIMATE
+16.  with                | Impact: -0.000619 → LEGITIMATE
+17.  >                   | Impact: -0.000604 → LEGITIMATE
+18.  on                  | Impact: -0.000533 → LEGITIMATE
+19.  a                   | Impact: -0.000533 → LEGITIMATE
+20.  symbol              | Impact: -0.000533 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.000384
+ 2.  (                   | Impact: 0.000305
+ 3.  o                   | Impact: 0.000305
+ 4.  '                   | Impact: 0.000305
+ 5.  really              | Impact: 0.000305
+ 6.  ?                   | Impact: 0.000305
+ 7.  .                   | Impact: 0.000239
+ 8.  )                   | Impact: 0.000190
+ 9.  be                  | Impact: 0.000172
+10. f                    | Impact: 0.000172
+11. w                    | Impact: 0.000172
+12. v                    | Impact: 0.000172
+13.  ian                 | Impact: 0.000131
+14. ae                   | Impact: 0.000131
+15. e                    | Impact: 0.000131
+16.  ,                   | Impact: 0.000113
+17.  ,                   | Impact: 0.000087
+18.  b                   | Impact: 0.000067
+19.  for                 | Impact: 0.000047
+20.  $                   | Impact: 0.000047
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  wrote               | Impact: -0.001969
+ 2.  :                   | Impact: -0.001380
+ 3.  damien              | Impact: -0.000998
+ 4.  morton              | Impact: -0.000998
+ 5.  device              | Impact: -0.000932
+ 6.  >                   | Impact: -0.000843
+ 7.  walls               | Impact: -0.000843
+ 8.  doing               | Impact: -0.000820
+ 9.  some                | Impact: -0.000820
+10.  reinforced          | Impact: -0.000796
+11.  concrete            | Impact: -0.000796
+12.  dev                 | Impact: -0.000736
+13.  work                | Impact: -0.000736
+14.  >                   | Impact: -0.000646
+15.  >                   | Impact: -0.000646
+16.  with                | Impact: -0.000619
+17.  >                   | Impact: -0.000604
+18.  on                  | Impact: -0.000533
+19.  a                   | Impact: -0.000533
+20.  symbol              | Impact: -0.000533

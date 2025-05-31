@@ -1,0 +1,75 @@
+Sample 394
+==========
+
+Sample text preview: I have attached the resume of Gerardo Segura who is interested in a position at Enron either in Europe or in the US, he currently lives in London. Ple...
+
+Model prediction: [9.9980432e-01 1.9565548e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.084465 → LEGITIMATE
+ 2.  ken                 | Impact: -0.040666 → LEGITIMATE
+ 3. ria                  | Impact: -0.027435 → LEGITIMATE
+ 4.  lives               | Impact: 0.024910 → PHISHING
+ 5.  london              | Impact: 0.021977 → PHISHING
+ 6.  within              | Impact: 0.020189 → PHISHING
+ 7.  en                  | Impact: -0.018609 → LEGITIMATE
+ 8. s                    | Impact: 0.017137 → PHISHING
+ 9.  lay                 | Impact: 0.016894 → PHISHING
+10.  in                  | Impact: 0.013092 → PHISHING
+11. ron                  | Impact: -0.011182 → LEGITIMATE
+12.  a                   | Impact: 0.009260 → PHISHING
+13.  en                  | Impact: -0.008449 → LEGITIMATE
+14.  or                  | Impact: -0.008422 → LEGITIMATE
+15.  and                 | Impact: -0.008056 → LEGITIMATE
+16.  update              | Impact: -0.007088 → LEGITIMATE
+17.  in                  | Impact: 0.006882 → PHISHING
+18.  us                  | Impact: 0.006806 → PHISHING
+19.  status              | Impact: 0.005568 → PHISHING
+20.  either              | Impact: -0.005132 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  lives               | Impact: 0.024910
+ 2.  london              | Impact: 0.021977
+ 3.  within              | Impact: 0.020189
+ 4. s                    | Impact: 0.017137
+ 5.  lay                 | Impact: 0.016894
+ 6.  in                  | Impact: 0.013092
+ 7.  a                   | Impact: 0.009260
+ 8.  in                  | Impact: 0.006882
+ 9.  us                  | Impact: 0.006806
+10.  status              | Impact: 0.005568
+11.  week                | Impact: 0.004951
+12.  please              | Impact: 0.003849
+13.  be                  | Impact: 0.003672
+14.  anyone              | Impact: 0.003555
+15.  else                | Impact: 0.003555
+16.  executive           | Impact: 0.003383
+17.  .                   | Impact: 0.003241
+18.  interested          | Impact: 0.003138
+19.  he                  | Impact: 0.002933
+20.  your                | Impact: 0.002931
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.084465
+ 2.  ken                 | Impact: -0.040666
+ 3. ria                  | Impact: -0.027435
+ 4.  en                  | Impact: -0.018609
+ 5. ron                  | Impact: -0.011182
+ 6.  en                  | Impact: -0.008449
+ 7.  or                  | Impact: -0.008422
+ 8.  and                 | Impact: -0.008056
+ 9.  update              | Impact: -0.007088
+10.  either              | Impact: -0.005132
+11.  i                   | Impact: -0.004489
+12.  .                   | Impact: -0.004278
+13.  stevens             | Impact: -0.003910
+14.  as                  | Impact: -0.003313
+15.  i                   | Impact: -0.003313
+16.  or                  | Impact: -0.002080
+17.  in                  | Impact: -0.001720
+18.  you                 | Impact: -0.001624
+19.  see                 | Impact: -0.001624
+20.  a                   | Impact: -0.001405

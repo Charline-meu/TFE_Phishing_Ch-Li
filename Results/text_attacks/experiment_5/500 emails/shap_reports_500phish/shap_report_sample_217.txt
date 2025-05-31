@@ -1,0 +1,75 @@
+Sample 217
+==========
+
+Sample text preview: AN OFFER FROM, MR JAMES ROBERTS. Dear Sir/Madam, Am an attorney to Mr Grant Woods A wealthy businessman who died with his family (wife and two of his ...
+
+Model prediction: [1.6094097e-04 9.9983907e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  uk                  | Impact: 0.033518 → PHISHING
+ 2.  sir                 | Impact: 0.030359 → PHISHING
+ 3.  dear                | Impact: 0.028890 → PHISHING
+ 4.  million             | Impact: 0.024873 → PHISHING
+ 5.  mr                  | Impact: 0.024311 → PHISHING
+ 6.  here                | Impact: 0.023163 → PHISHING
+ 7.  in                  | Impact: 0.023163 → PHISHING
+ 8.  bank                | Impact: 0.022483 → PHISHING
+ 9.  private             | Impact: 0.022020 → PHISHING
+10.  address             | Impact: 0.022020 → PHISHING
+11.  madam               | Impact: 0.017447 → PHISHING
+12.  be                  | Impact: 0.016240 → PHISHING
+13.  majesty             | Impact: 0.015540 → PHISHING
+14.  mr                  | Impact: 0.015286 → PHISHING
+15.  returned            | Impact: 0.014806 → PHISHING
+16.  with                | Impact: 0.014432 → PHISHING
+17.  james               | Impact: 0.013374 → PHISHING
+18.  a                   | Impact: 0.011783 → PHISHING
+19.  to                  | Impact: 0.010678 → PHISHING
+20.  this                | Impact: 0.010678 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  uk                  | Impact: 0.033518
+ 2.  sir                 | Impact: 0.030359
+ 3.  dear                | Impact: 0.028890
+ 4.  million             | Impact: 0.024873
+ 5.  mr                  | Impact: 0.024311
+ 6.  here                | Impact: 0.023163
+ 7.  in                  | Impact: 0.023163
+ 8.  bank                | Impact: 0.022483
+ 9.  private             | Impact: 0.022020
+10.  address             | Impact: 0.022020
+11.  madam               | Impact: 0.017447
+12.  be                  | Impact: 0.016240
+13.  majesty             | Impact: 0.015540
+14.  mr                  | Impact: 0.015286
+15.  returned            | Impact: 0.014806
+16.  with                | Impact: 0.014432
+17.  james               | Impact: 0.013374
+18.  a                   | Impact: 0.011783
+19.  to                  | Impact: 0.010678
+20.  this                | Impact: 0.010678
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.003637
+ 2.  roberts             | Impact: -0.002550
+ 3.  .                   | Impact: -0.002497
+ 4.  and                 | Impact: -0.001303
+ 5.  also                | Impact: -0.001303
+ 6.  discuss             | Impact: -0.001303
+ 7.  on                  | Impact: -0.001303
+ 8.  how                 | Impact: -0.001303
+ 9.  james               | Impact: -0.000849
+10.  roberts             | Impact: -0.000849
+11.  .                   | Impact: -0.000849
+12.                      | Impact: -0.000849
+13.  ,                   | Impact: -0.000650
+14.  about               | Impact: -0.000209
+15.  a                   | Impact: -0.000209
+16.  fixed               | Impact: -0.000209
+17.  deposit             | Impact: -0.000209
+18.  of                  | Impact: -0.000209
+19.  gp                  | Impact: -0.000209
+20.  .                   | Impact: -0.000209

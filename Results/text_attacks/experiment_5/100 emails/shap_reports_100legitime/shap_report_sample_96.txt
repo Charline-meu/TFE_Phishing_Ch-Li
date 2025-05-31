@@ -1,0 +1,75 @@
+Phishing Sample 96
+==================
+
+Sample text preview: [Jeremy] > The total collections are messages. I trained with / > messages. While that's not a lot of training data, I picked random subsets of my cor...
+
+Model prediction: [9.9977583e-01 2.2422518e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  messages            | Impact: 0.005949 → PHISHING
+ 2.  jeremy              | Impact: -0.004960 → LEGITIMATE
+ 3.  ]                   | Impact: -0.004960 → LEGITIMATE
+ 4.  :                   | Impact: -0.003225 → LEGITIMATE
+ 5.  training            | Impact: -0.003225 → LEGITIMATE
+ 6.  on                  | Impact: -0.003225 → LEGITIMATE
+ 7.  data                | Impact: -0.003225 → LEGITIMATE
+ 8.  the                 | Impact: -0.003193 → LEGITIMATE
+ 9.  score               | Impact: -0.003193 → LEGITIMATE
+10.  distribution        | Impact: -0.003193 → LEGITIMATE
+11.  is                  | Impact: -0.003193 → LEGITIMATE
+12.  also                | Impact: -0.002834 → LEGITIMATE
+13.  quite               | Impact: -0.002834 → LEGITIMATE
+14.  sharp               | Impact: -0.002834 → LEGITIMATE
+15.  :                   | Impact: -0.002834 → LEGITIMATE
+16.  ham                 | Impact: -0.002242 → LEGITIMATE
+17.  distribution        | Impact: -0.002242 → LEGITIMATE
+18.  for                 | Impact: -0.002242 → LEGITIMATE
+19.  all                 | Impact: -0.002242 → LEGITIMATE
+20.                      | Impact: -0.002149 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  messages            | Impact: 0.005949
+ 2.  ham                 | Impact: 0.001442
+ 3. s                    | Impact: 0.001442
+ 4.  &                   | Impact: 0.001442
+ 5.  spa                 | Impact: 0.001442
+ 6. ms                   | Impact: 0.001442
+ 7.  .                   | Impact: 0.001442
+ 8.  training            | Impact: 0.000996
+ 9.  on                  | Impact: 0.000996
+10.  data                | Impact: 0.000996
+11.  /                   | Impact: 0.000996
+12.  ham                 | Impact: 0.000996
+13.  /                   | Impact: 0.000996
+14.  set                 | Impact: 0.000996
+15.  &                   | Impact: 0.000996
+16.  data                | Impact: 0.000996
+17.  /                   | Impact: 0.000996
+18.  spa                 | Impact: 0.000996
+19. m                    | Impact: 0.000996
+20.  /                   | Impact: 0.000996
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  jeremy              | Impact: -0.004960
+ 2.  ]                   | Impact: -0.004960
+ 3.  :                   | Impact: -0.003225
+ 4.  training            | Impact: -0.003225
+ 5.  on                  | Impact: -0.003225
+ 6.  data                | Impact: -0.003225
+ 7.  the                 | Impact: -0.003193
+ 8.  score               | Impact: -0.003193
+ 9.  distribution        | Impact: -0.003193
+10.  is                  | Impact: -0.003193
+11.  also                | Impact: -0.002834
+12.  quite               | Impact: -0.002834
+13.  sharp               | Impact: -0.002834
+14.  :                   | Impact: -0.002834
+15.  ham                 | Impact: -0.002242
+16.  distribution        | Impact: -0.002242
+17.  for                 | Impact: -0.002242
+18.  all                 | Impact: -0.002242
+19.                      | Impact: -0.002149
+20.  [                   | Impact: -0.002149

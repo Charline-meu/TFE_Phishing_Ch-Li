@@ -1,0 +1,75 @@
+Sample 211
+==========
+
+Sample text preview: Dear This is an autmomated email sent from our SSL severs to inform you that there is an error in your email POP/SMTP configuration. This error was id...
+
+Model prediction: [1.9867538e-04 9.9980134e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.098217 → PHISHING
+ 2.  email               | Impact: 0.079022 → PHISHING
+ 3.  address             | Impact: 0.079022 → PHISHING
+ 4.  regards             | Impact: 0.079022 → PHISHING
+ 5.  not                 | Impact: 0.049938 → PHISHING
+ 6.  your                | Impact: 0.049938 → PHISHING
+ 7.  configuration       | Impact: -0.035983 → LEGITIMATE
+ 8.  click               | Impact: 0.024285 → PHISHING
+ 9.  you                 | Impact: 0.020424 → PHISHING
+10.  your                | Impact: 0.019653 → PHISHING
+11.  here                | Impact: 0.019628 → PHISHING
+12.  your                | Impact: 0.018640 → PHISHING
+13.  email               | Impact: 0.015501 → PHISHING
+14.  del                 | Impact: 0.014554 → PHISHING
+15. ete                  | Impact: 0.014554 → PHISHING
+16.  and                 | Impact: 0.014554 → PHISHING
+17.  to                  | Impact: 0.014181 → PHISHING
+18.  that                | Impact: 0.013659 → PHISHING
+19.  email               | Impact: 0.012798 → PHISHING
+20.  sent                | Impact: 0.012734 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.098217
+ 2.  email               | Impact: 0.079022
+ 3.  address             | Impact: 0.079022
+ 4.  regards             | Impact: 0.079022
+ 5.  not                 | Impact: 0.049938
+ 6.  your                | Impact: 0.049938
+ 7.  click               | Impact: 0.024285
+ 8.  you                 | Impact: 0.020424
+ 9.  your                | Impact: 0.019653
+10.  here                | Impact: 0.019628
+11.  your                | Impact: 0.018640
+12.  email               | Impact: 0.015501
+13.  del                 | Impact: 0.014554
+14. ete                  | Impact: 0.014554
+15.  and                 | Impact: 0.014554
+16.  to                  | Impact: 0.014181
+17.  that                | Impact: 0.013659
+18.  email               | Impact: 0.012798
+19.  sent                | Impact: 0.012734
+20.  to                  | Impact: 0.012734
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  configuration       | Impact: -0.035983
+ 2. tp                   | Impact: -0.006316
+ 3.  ss                  | Impact: -0.005756
+ 4.  and                 | Impact: -0.005589
+ 5.  sm                  | Impact: -0.005051
+ 6. l                    | Impact: -0.004419
+ 7.  /                   | Impact: -0.004096
+ 8.  /                   | Impact: -0.004096
+ 9.  ignore              | Impact: -0.002525
+10.  if                  | Impact: -0.002525
+11.  on                  | Impact: -0.002179
+12.  :                   | Impact: -0.002179
+13.  -                   | Impact: -0.001092
+14.  -                   | Impact: -0.001092
+15.  -                   | Impact: -0.001092
+16.  -                   | Impact: -0.001092
+17.  -                   | Impact: -0.001087
+18.  -                   | Impact: -0.001087
+19.  -                   | Impact: -0.001087
+20.  -                   | Impact: -0.001087

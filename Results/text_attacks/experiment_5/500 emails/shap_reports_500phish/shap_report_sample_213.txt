@@ -1,0 +1,75 @@
+Sample 213
+==========
+
+Sample text preview: ATTN:, I am Godwin Ekpontu Sangana, Esq., A personal attorney to MR/MRS MILLER, an expartriate formally with my country's branch of Agip Oil Company(N...
+
+Model prediction: [1.611501e-04 9.998388e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  deceased            | Impact: 0.014681 → PHISHING
+ 2.  client              | Impact: 0.014681 → PHISHING
+ 3.  here                | Impact: 0.008293 → PHISHING
+ 4.  in                  | Impact: 0.008293 → PHISHING
+ 5.  lagos               | Impact: 0.008293 → PHISHING
+ 6.  esq                 | Impact: 0.007926 → PHISHING
+ 7.  .                   | Impact: 0.007926 → PHISHING
+ 8.  your                | Impact: 0.007467 → PHISHING
+ 9.  honest              | Impact: 0.007467 → PHISHING
+10.  cooperation         | Impact: 0.007390 → PHISHING
+11.  to                  | Impact: 0.007390 → PHISHING
+12.  mr                  | Impact: 0.006903 → PHISHING
+13.  /                   | Impact: 0.006903 → PHISHING
+14.  mrs                 | Impact: 0.006903 → PHISHING
+15.  miller              | Impact: 0.006903 → PHISHING
+16.  ,                   | Impact: 0.006472 → PHISHING
+17.  i                   | Impact: 0.006315 → PHISHING
+18.  contacted           | Impact: 0.006315 → PHISHING
+19.  you                 | Impact: 0.006315 → PHISHING
+20.  to                  | Impact: 0.006315 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  deceased            | Impact: 0.014681
+ 2.  client              | Impact: 0.014681
+ 3.  here                | Impact: 0.008293
+ 4.  in                  | Impact: 0.008293
+ 5.  lagos               | Impact: 0.008293
+ 6.  esq                 | Impact: 0.007926
+ 7.  .                   | Impact: 0.007926
+ 8.  your                | Impact: 0.007467
+ 9.  honest              | Impact: 0.007467
+10.  cooperation         | Impact: 0.007390
+11.  to                  | Impact: 0.007390
+12.  mr                  | Impact: 0.006903
+13.  /                   | Impact: 0.006903
+14.  mrs                 | Impact: 0.006903
+15.  miller              | Impact: 0.006903
+16.  ,                   | Impact: 0.006472
+17.  i                   | Impact: 0.006315
+18.  contacted           | Impact: 0.006315
+19.  you                 | Impact: 0.006315
+20.  to                  | Impact: 0.006315
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.005152
+ 2.  ,                   | Impact: -0.005152
+ 3.  accessible          | Impact: -0.002878
+ 4.  with                | Impact: -0.002878
+ 5.  little              | Impact: -0.002878
+ 6.  or                  | Impact: -0.002878
+ 7.  secure              | Impact: -0.002824
+ 8.  approval            | Impact: -0.002824
+ 9. s                    | Impact: -0.002824
+10.  are                 | Impact: -0.002824
+11.  readily             | Impact: -0.002824
+12.  gets                | Impact: -0.002633
+13.  confiscated         | Impact: -0.002633
+14.  before              | Impact: -0.001850
+15.  it                  | Impact: -0.001850
+16.                      | Impact: -0.000531
+17.  at                  | Impact: -0.000531
+18. t                    | Impact: -0.000531
+19. n                    | Impact: -0.000531
+20.  however             | Impact: -0.000445

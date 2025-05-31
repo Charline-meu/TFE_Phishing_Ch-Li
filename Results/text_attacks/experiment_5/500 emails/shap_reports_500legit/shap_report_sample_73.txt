@@ -1,0 +1,45 @@
+Sample 73
+=========
+
+Sample text preview: missing deal for tom buy bp energy mw . march palo verde thanks
+
+Model prediction: [9.9974519e-01 2.5475246e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  tom                 | Impact: -0.087345 → LEGITIMATE
+ 2.  buy                 | Impact: 0.049931 → PHISHING
+ 3.  march               | Impact: -0.046366 → LEGITIMATE
+ 4.  mw                  | Impact: -0.042863 → LEGITIMATE
+ 5.  verde               | Impact: -0.034241 → LEGITIMATE
+ 6.  deal                | Impact: -0.033933 → LEGITIMATE
+ 7.  .                   | Impact: 0.033175 → PHISHING
+ 8.  palo                | Impact: -0.032076 → LEGITIMATE
+ 9.  bp                  | Impact: -0.027230 → LEGITIMATE
+10.  thanks              | Impact: -0.024841 → LEGITIMATE
+11.  energy              | Impact: -0.016339 → LEGITIMATE
+12.  for                 | Impact: -0.005920 → LEGITIMATE
+13.  missing             | Impact: -0.005459 → LEGITIMATE
+14.                      | Impact: -0.000000 → LEGITIMATE
+15.                      | Impact: -0.000000 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  buy                 | Impact: 0.049931
+ 2.  .                   | Impact: 0.033175
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  tom                 | Impact: -0.087345
+ 2.  march               | Impact: -0.046366
+ 3.  mw                  | Impact: -0.042863
+ 4.  verde               | Impact: -0.034241
+ 5.  deal                | Impact: -0.033933
+ 6.  palo                | Impact: -0.032076
+ 7.  bp                  | Impact: -0.027230
+ 8.  thanks              | Impact: -0.024841
+ 9.  energy              | Impact: -0.016339
+10.  for                 | Impact: -0.005920
+11.  missing             | Impact: -0.005459
+12.                      | Impact: -0.000000
+13.                      | Impact: -0.000000

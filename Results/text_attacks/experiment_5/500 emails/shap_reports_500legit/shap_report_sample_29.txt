@@ -1,0 +1,67 @@
+Sample 29
+=========
+
+Sample text preview: URL: Date: --T::+: *Conservative party conference:* Iain Duncan Smith will today tell the Tory old guard to stop sniping at his policy agenda.
+
+Model prediction: [9.9975663e-01 2.4335556e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  his                 | Impact: 0.051619 → PHISHING
+ 2.  agenda              | Impact: -0.047484 → LEGITIMATE
+ 3.  stop                | Impact: 0.046046 → PHISHING
+ 4.  guard               | Impact: 0.041229 → PHISHING
+ 5.  tory                | Impact: -0.027496 → LEGITIMATE
+ 6.  to                  | Impact: 0.024767 → PHISHING
+ 7. ping                 | Impact: -0.022398 → LEGITIMATE
+ 8.  policy              | Impact: -0.022274 → LEGITIMATE
+ 9.  tell                | Impact: 0.016230 → PHISHING
+10.  :                   | Impact: -0.015434 → LEGITIMATE
+11.  conference          | Impact: -0.014698 → LEGITIMATE
+12.  s                   | Impact: -0.011186 → LEGITIMATE
+13.  .                   | Impact: 0.010820 → PHISHING
+14. ni                   | Impact: 0.009928 → PHISHING
+15.  :                   | Impact: -0.009751 → LEGITIMATE
+16.  old                 | Impact: 0.009135 → PHISHING
+17.  the                 | Impact: 0.008695 → PHISHING
+18.  ur                  | Impact: -0.008440 → LEGITIMATE
+19.  smith               | Impact: -0.008255 → LEGITIMATE
+20.  +                   | Impact: 0.006814 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  his                 | Impact: 0.051619
+ 2.  stop                | Impact: 0.046046
+ 3.  guard               | Impact: 0.041229
+ 4.  to                  | Impact: 0.024767
+ 5.  tell                | Impact: 0.016230
+ 6.  .                   | Impact: 0.010820
+ 7. ni                   | Impact: 0.009928
+ 8.  old                 | Impact: 0.009135
+ 9.  the                 | Impact: 0.008695
+10.  +                   | Impact: 0.006814
+11.  today               | Impact: 0.003566
+12.  party               | Impact: 0.002659
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  agenda              | Impact: -0.047484
+ 2.  tory                | Impact: -0.027496
+ 3. ping                 | Impact: -0.022398
+ 4.  policy              | Impact: -0.022274
+ 5.  :                   | Impact: -0.015434
+ 6.  conference          | Impact: -0.014698
+ 7.  s                   | Impact: -0.011186
+ 8.  :                   | Impact: -0.009751
+ 9.  ur                  | Impact: -0.008440
+10.  smith               | Impact: -0.008255
+11.  :                   | Impact: -0.006577
+12.  *                   | Impact: -0.005850
+13.  duncan              | Impact: -0.005753
+14.  iain                | Impact: -0.005673
+15.  :                   | Impact: -0.005262
+16.  :                   | Impact: -0.005144
+17. l                    | Impact: -0.004622
+18.  :                   | Impact: -0.004215
+19.  will                | Impact: -0.004152
+20.  conservative        | Impact: -0.002478

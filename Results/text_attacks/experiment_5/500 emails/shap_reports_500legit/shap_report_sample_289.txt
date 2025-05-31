@@ -1,0 +1,75 @@
+Sample 289
+==========
+
+Sample text preview: Susan and Sara: Gregory is keeping track of all EES counterparty letters. You may want to compare files/charts at some point. Carol St. Clair EB -- (p...
+
+Model prediction: [9.9965858e-01 3.4139006e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.023456 → LEGITIMATE
+ 2.  -                   | Impact: -0.018965 → LEGITIMATE
+ 3.  files               | Impact: -0.016283 → LEGITIMATE
+ 4.  charts              | Impact: 0.015640 → PHISHING
+ 5.  -                   | Impact: -0.014405 → LEGITIMATE
+ 6.  -                   | Impact: -0.013664 → LEGITIMATE
+ 7.  )                   | Impact: 0.012813 → PHISHING
+ 8.  )                   | Impact: 0.011286 → PHISHING
+ 9.  compare             | Impact: -0.011110 → LEGITIMATE
+10.  keeping             | Impact: -0.010912 → LEGITIMATE
+11.  )                   | Impact: 0.008298 → PHISHING
+12.  track               | Impact: 0.008173 → PHISHING
+13.  (                   | Impact: 0.007839 → PHISHING
+14.  st                  | Impact: 0.007700 → PHISHING
+15.  -                   | Impact: -0.006086 → LEGITIMATE
+16.  .                   | Impact: -0.005421 → LEGITIMATE
+17.  )                   | Impact: 0.005358 → PHISHING
+18.  (                   | Impact: 0.005284 → PHISHING
+19.  phone               | Impact: 0.005069 → PHISHING
+20.  e                   | Impact: -0.004806 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  charts              | Impact: 0.015640
+ 2.  )                   | Impact: 0.012813
+ 3.  )                   | Impact: 0.011286
+ 4.  )                   | Impact: 0.008298
+ 5.  track               | Impact: 0.008173
+ 6.  (                   | Impact: 0.007839
+ 7.  st                  | Impact: 0.007700
+ 8.  )                   | Impact: 0.005358
+ 9.  (                   | Impact: 0.005284
+10.  phone               | Impact: 0.005069
+11.  fa                  | Impact: 0.004475
+12.  (                   | Impact: 0.004455
+13.  /                   | Impact: 0.004413
+14.  is                  | Impact: 0.003586
+15. x                    | Impact: 0.003550
+16.  (                   | Impact: 0.002540
+17.  and                 | Impact: 0.002299
+18.  (                   | Impact: 0.001492
+19.  .                   | Impact: 0.001469
+20.  letters             | Impact: 0.001406
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.023456
+ 2.  -                   | Impact: -0.018965
+ 3.  files               | Impact: -0.016283
+ 4.  -                   | Impact: -0.014405
+ 5.  -                   | Impact: -0.013664
+ 6.  compare             | Impact: -0.011110
+ 7.  keeping             | Impact: -0.010912
+ 8.  -                   | Impact: -0.006086
+ 9.  .                   | Impact: -0.005421
+10.  e                   | Impact: -0.004806
+11.  :                   | Impact: -0.004462
+12.  susan               | Impact: -0.004184
+13.  -                   | Impact: -0.004115
+14.  counterpart         | Impact: -0.003504
+15.  carol               | Impact: -0.003129
+16.  -                   | Impact: -0.003127
+17.  clair               | Impact: -0.003012
+18. x                    | Impact: -0.002723
+19.  sara                | Impact: -0.002720
+20.  fa                  | Impact: -0.002526

@@ -1,0 +1,75 @@
+Sample 66
+=========
+
+Sample text preview: To: ############################################ # # # Adult Online Super Store # # Shhhhhh... # # You just found the Internet's # # BEST KEPT SECRET!...
+
+Model prediction: [6.9852825e-04 9.9930143e-01]
+Predicted class: PHISHING with 0.9993 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  please              | Impact: 0.012144 → PHISHING
+ 2.  allow               | Impact: 0.012144 → PHISHING
+ 3.  hours               | Impact: 0.012144 → PHISHING
+ 4.  for                 | Impact: 0.012144 → PHISHING
+ 5.  removal             | Impact: 0.012144 → PHISHING
+ 6.  fl                  | Impact: 0.010701 → PHISHING
+ 7. bl                   | Impact: 0.010701 → PHISHING
+ 8. ng                   | Impact: 0.010701 → PHISHING
+ 9. vd                   | Impact: 0.010701 → PHISHING
+10. yd                   | Impact: 0.010701 → PHISHING
+11. q                    | Impact: 0.010701 → PHISHING
+12. ty                   | Impact: 0.010701 → PHISHING
+13. in                   | Impact: 0.010701 → PHISHING
+14.  free                | Impact: 0.010371 → PHISHING
+15.  adult               | Impact: 0.010371 → PHISHING
+16.  dvds                | Impact: 0.010371 → PHISHING
+17.  and                 | Impact: 0.010371 → PHISHING
+18.  videos              | Impact: 0.010371 → PHISHING
+19.  no                  | Impact: 0.010371 → PHISHING
+20.  purchase            | Impact: 0.010371 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  please              | Impact: 0.012144
+ 2.  allow               | Impact: 0.012144
+ 3.  hours               | Impact: 0.012144
+ 4.  for                 | Impact: 0.012144
+ 5.  removal             | Impact: 0.012144
+ 6.  fl                  | Impact: 0.010701
+ 7. bl                   | Impact: 0.010701
+ 8. ng                   | Impact: 0.010701
+ 9. vd                   | Impact: 0.010701
+10. yd                   | Impact: 0.010701
+11. q                    | Impact: 0.010701
+12. ty                   | Impact: 0.010701
+13. in                   | Impact: 0.010701
+14.  free                | Impact: 0.010371
+15.  adult               | Impact: 0.010371
+16.  dvds                | Impact: 0.010371
+17.  and                 | Impact: 0.010371
+18.  videos              | Impact: 0.010371
+19.  no                  | Impact: 0.010371
+20.  purchase            | Impact: 0.010371
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  additional          | Impact: -0.003571
+ 2.  titles              | Impact: -0.003571
+ 3.  as                  | Impact: -0.003571
+ 4.  low                 | Impact: -0.003571
+ 5.  as                  | Impact: -0.003571
+ 6.  $                   | Impact: -0.003571
+ 7.  .                   | Impact: -0.003571
+ 8.  >                   | Impact: -0.001481
+ 9.  no                  | Impact: -0.001481
+10.  purchase            | Impact: -0.001481
+11.  necessary           | Impact: -0.001481
+12.  !                   | Impact: -0.001481
+13.  <                   | Impact: -0.001443
+14.  <                   | Impact: -0.001443
+15.  <                   | Impact: -0.001443
+16.  if                  | Impact: -0.001443
+17.  you                 | Impact: -0.001443
+18.  haven               | Impact: -0.001363
+19.  '                   | Impact: -0.001363
+20.  t                   | Impact: -0.001363

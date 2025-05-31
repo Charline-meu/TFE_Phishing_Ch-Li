@@ -1,0 +1,75 @@
+Phishing Sample 7
+=================
+
+Sample text preview: Subject: Discretionary Portfolio Transfer Request Hello, I represent an asset group currently in transitional relocation following business activities...
+
+Model prediction: [2.4591660e-04 9.9975413e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.040986 → PHISHING
+ 2.  investment          | Impact: 0.028309 → PHISHING
+ 3.  formats             | Impact: 0.028309 → PHISHING
+ 4.  abroad              | Impact: 0.028309 → PHISHING
+ 5. tment                | Impact: -0.026582 → LEGITIMATE
+ 6.  into                | Impact: 0.025219 → PHISHING
+ 7.  regulated           | Impact: 0.025219 → PHISHING
+ 8.  in                  | Impact: 0.018598 → PHISHING
+ 9.  the                 | Impact: 0.018598 → PHISHING
+10.  uae                 | Impact: 0.018598 → PHISHING
+11.  .                   | Impact: 0.018598 → PHISHING
+12.  southern            | Impact: 0.017374 → PHISHING
+13.  africa              | Impact: 0.017374 → PHISHING
+14.  your                | Impact: 0.016499 → PHISHING
+15.  st                  | Impact: -0.015908 → LEGITIMATE
+16.  business            | Impact: 0.015175 → PHISHING
+17.  activities          | Impact: 0.015175 → PHISHING
+18.  our                 | Impact: 0.014405 → PHISHING
+19.  team                | Impact: 0.014405 → PHISHING
+20.  has                 | Impact: 0.014405 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.040986
+ 2.  investment          | Impact: 0.028309
+ 3.  formats             | Impact: 0.028309
+ 4.  abroad              | Impact: 0.028309
+ 5.  into                | Impact: 0.025219
+ 6.  regulated           | Impact: 0.025219
+ 7.  in                  | Impact: 0.018598
+ 8.  the                 | Impact: 0.018598
+ 9.  uae                 | Impact: 0.018598
+10.  .                   | Impact: 0.018598
+11.  southern            | Impact: 0.017374
+12.  africa              | Impact: 0.017374
+13.  your                | Impact: 0.016499
+14.  business            | Impact: 0.015175
+15.  activities          | Impact: 0.015175
+16.  our                 | Impact: 0.014405
+17.  team                | Impact: 0.014405
+18.  has                 | Impact: 0.014405
+19.  exited              | Impact: 0.014405
+20.  proceeds            | Impact: 0.013243
+
+Top features pushing towards LEGITIMATE classification:
+ 1. tment                | Impact: -0.026582
+ 2.  st                  | Impact: -0.015908
+ 3. ru                   | Impact: -0.012706
+ 4. cturing              | Impact: -0.011936
+ 5.  .                   | Impact: -0.005444
+ 6.  group               | Impact: -0.002921
+ 7.  currently           | Impact: -0.002921
+ 8. ves                  | Impact: -0.002412
+ 9.  .                   | Impact: -0.002397
+10.  of                  | Impact: -0.001779
+11.  the                 | Impact: -0.001779
+12.  original            | Impact: -0.001779
+13.  stakeholders        | Impact: -0.001779
+14.  .                   | Impact: -0.001779
+15.  rein                | Impact: -0.001682
+16.  i                   | Impact: -0.001131
+17.  represent           | Impact: -0.001131
+18.  an                  | Impact: -0.001131
+19.  asset               | Impact: -0.001131
+20.  or                  | Impact: -0.001089

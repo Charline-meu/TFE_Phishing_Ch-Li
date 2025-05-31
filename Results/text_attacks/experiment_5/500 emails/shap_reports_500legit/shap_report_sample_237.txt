@@ -1,0 +1,75 @@
+Sample 237
+==========
+
+Sample text preview: On Mon, Aug , at ::AM -, Chad Norwood wrote: > The way Razor breaks down mail is simple. If a mail contains MIME > boundaries it is split on those bou...
+
+Model prediction: [9.9978703e-01 2.1296936e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. d                    | Impact: -0.015468 → LEGITIMATE
+ 2.  os                  | Impact: -0.013288 → LEGITIMATE
+ 3. n                    | Impact: 0.004193 → PHISHING
+ 4.  tired               | Impact: -0.003929 → LEGITIMATE
+ 5.  is                  | Impact: -0.002256 → LEGITIMATE
+ 6.  sponsored           | Impact: -0.002256 → LEGITIMATE
+ 7.  -                   | Impact: -0.001947 → LEGITIMATE
+ 8.  free                | Impact: 0.001880 → PHISHING
+ 9.  same                | Impact: 0.001470 → PHISHING
+10.  old                 | Impact: 0.001470 → PHISHING
+11.  !                   | Impact: 0.001439 → PHISHING
+12.  net                 | Impact: -0.001415 → LEGITIMATE
+13.  email               | Impact: -0.001415 → LEGITIMATE
+14.  cell                | Impact: 0.001230 → PHISHING
+15.  phone               | Impact: 0.001230 → PHISHING
+16.  for                 | Impact: 0.001134 → PHISHING
+17.  ?                   | Impact: 0.000887 → PHISHING
+18.  here                | Impact: 0.000768 → PHISHING
+19.  by                  | Impact: -0.000706 → LEGITIMATE
+20.  :                   | Impact: -0.000706 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1. n                    | Impact: 0.004193
+ 2.  free                | Impact: 0.001880
+ 3.  same                | Impact: 0.001470
+ 4.  old                 | Impact: 0.001470
+ 5.  !                   | Impact: 0.001439
+ 6.  cell                | Impact: 0.001230
+ 7.  phone               | Impact: 0.001230
+ 8.  for                 | Impact: 0.001134
+ 9.  ?                   | Impact: 0.000887
+10.  here                | Impact: 0.000768
+11.  _                   | Impact: 0.000650
+12.  _                   | Impact: 0.000650
+13.  _                   | Impact: 0.000587
+14.  _                   | Impact: 0.000587
+15.  _                   | Impact: 0.000587
+16.  _                   | Impact: 0.000587
+17.  _                   | Impact: 0.000587
+18.  _                   | Impact: 0.000587
+19.  new                 | Impact: 0.000453
+20.  _                   | Impact: 0.000408
+
+Top features pushing towards LEGITIMATE classification:
+ 1. d                    | Impact: -0.015468
+ 2.  os                  | Impact: -0.013288
+ 3.  tired               | Impact: -0.003929
+ 4.  is                  | Impact: -0.002256
+ 5.  sponsored           | Impact: -0.002256
+ 6.  -                   | Impact: -0.001947
+ 7.  net                 | Impact: -0.001415
+ 8.  email               | Impact: -0.001415
+ 9.  by                  | Impact: -0.000706
+10.  :                   | Impact: -0.000706
+11.  >                   | Impact: -0.000598
+12.  in                  | Impact: -0.000598
+13.  .                   | Impact: -0.000598
+14.  mi                  | Impact: -0.000513
+15. me                   | Impact: -0.000513
+16.  parts               | Impact: -0.000513
+17.  >                   | Impact: -0.000487
+18.  the                 | Impact: -0.000487
+19.  default             | Impact: -0.000487
+20.  method              | Impact: -0.000487

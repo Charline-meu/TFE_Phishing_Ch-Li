@@ -1,0 +1,74 @@
+Phishing Sample 6
+=================
+
+Sample text preview: Subject: Update & Closing Note Greetings, I’m pleased to share that the financial arrangement I was involved in has been successfully completed throug...
+
+Model prediction: [6.5800507e-04 9.9934202e-01]
+Predicted class: PHISHING with 0.9993 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  &                   | Impact: 0.069565 → PHISHING
+ 2.  regards             | Impact: 0.053712 → PHISHING
+ 3.  note                | Impact: 0.049478 → PHISHING
+ 4.  best                | Impact: 0.042537 → PHISHING
+ 5.  financial           | Impact: 0.036031 → PHISHING
+ 6.  greeting            | Impact: 0.031603 → PHISHING
+ 7.  contact             | Impact: 0.031590 → PHISHING
+ 8. d                    | Impact: 0.026610 → PHISHING
+ 9.  him                 | Impact: 0.026330 → PHISHING
+10.  to                  | Impact: 0.025896 → PHISHING
+11.  you                 | Impact: 0.025896 → PHISHING
+12.  arrangement         | Impact: 0.025403 → PHISHING
+13.  please              | Impact: 0.025011 → PHISHING
+14.  closing             | Impact: 0.023974 → PHISHING
+15.  provide             | Impact: 0.019550 → PHISHING
+16.  based               | Impact: 0.017816 → PHISHING
+17.  venezuela           | Impact: 0.017390 → PHISHING
+18.  –                   | Impact: 0.017262 → PHISHING
+19.  ala                 | Impact: 0.017029 → PHISHING
+20. go                   | Impact: 0.017029 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  &                   | Impact: 0.069565
+ 2.  regards             | Impact: 0.053712
+ 3.  note                | Impact: 0.049478
+ 4.  best                | Impact: 0.042537
+ 5.  financial           | Impact: 0.036031
+ 6.  greeting            | Impact: 0.031603
+ 7.  contact             | Impact: 0.031590
+ 8. d                    | Impact: 0.026610
+ 9.  him                 | Impact: 0.026330
+10.  to                  | Impact: 0.025896
+11.  you                 | Impact: 0.025896
+12.  arrangement         | Impact: 0.025403
+13.  please              | Impact: 0.025011
+14.  closing             | Impact: 0.023974
+15.  provide             | Impact: 0.019550
+16.  based               | Impact: 0.017816
+17.  venezuela           | Impact: 0.017390
+18.  –                   | Impact: 0.017262
+19.  ala                 | Impact: 0.017029
+20. go                   | Impact: 0.017029
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.002361
+ 2.  was                 | Impact: -0.002361
+ 3.                      | Impact: -0.001524
+ 4.  a                   | Impact: -0.000459
+ 5.  certified           | Impact: -0.000459
+ 6.  instrument          | Impact: -0.000459
+ 7.  in                  | Impact: -0.000459
+ 8.  although            | Impact: -0.000149
+ 9.  the                 | Impact: -0.000149
+10.  process             | Impact: -0.000149
+11.  didn                | Impact: -0.000149
+12.  ’                   | Impact: -0.000149
+13.  t                   | Impact: -0.000149
+14.  progress            | Impact: -0.000149
+15.  as                  | Impact: -0.000149
+16.  we                  | Impact: -0.000149
+17.  originally          | Impact: -0.000149
+18.  intended            | Impact: -0.000149
+19.  ,                   | Impact: -0.000149

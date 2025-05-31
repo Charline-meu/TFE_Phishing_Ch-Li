@@ -1,0 +1,75 @@
+Sample 111
+==========
+
+Sample text preview: Dear Sir/Madam, I am conducting a standard process investigation on behalf of our Bank an international banking conglomerate. This investigation invol...
+
+Model prediction: [1.6926849e-04 9.9983072e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.042148 → PHISHING
+ 2.  your                | Impact: 0.039482 → PHISHING
+ 3.  bank                | Impact: 0.033290 → PHISHING
+ 4.  madam               | Impact: 0.030800 → PHISHING
+ 5.  sir                 | Impact: 0.030498 → PHISHING
+ 6.  establish           | Impact: 0.028831 → PHISHING
+ 7.  you                 | Impact: 0.028525 → PHISHING
+ 8.  conglomerate        | Impact: 0.025198 → PHISHING
+ 9.  bank                | Impact: 0.025156 → PHISHING
+10.  our                 | Impact: 0.024293 → PHISHING
+11.  bank                | Impact: 0.022924 → PHISHING
+12.  regards             | Impact: 0.022856 → PHISHING
+13.  deceased            | Impact: 0.017850 → PHISHING
+14.  please              | Impact: 0.017321 → PHISHING
+15.  respond             | Impact: 0.017321 → PHISHING
+16.  our                 | Impact: 0.017283 → PHISHING
+17.  our                 | Impact: 0.017091 → PHISHING
+18.  to                  | Impact: 0.015990 → PHISHING
+19.  you                 | Impact: 0.015990 → PHISHING
+20.  mail                | Impact: 0.015552 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.042148
+ 2.  your                | Impact: 0.039482
+ 3.  bank                | Impact: 0.033290
+ 4.  madam               | Impact: 0.030800
+ 5.  sir                 | Impact: 0.030498
+ 6.  establish           | Impact: 0.028831
+ 7.  you                 | Impact: 0.028525
+ 8.  conglomerate        | Impact: 0.025198
+ 9.  bank                | Impact: 0.025156
+10.  our                 | Impact: 0.024293
+11.  bank                | Impact: 0.022924
+12.  regards             | Impact: 0.022856
+13.  deceased            | Impact: 0.017850
+14.  please              | Impact: 0.017321
+15.  respond             | Impact: 0.017321
+16.  our                 | Impact: 0.017283
+17.  our                 | Impact: 0.017091
+18.  to                  | Impact: 0.015990
+19.  you                 | Impact: 0.015990
+20.  mail                | Impact: 0.015552
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  berger              | Impact: -0.010757
+ 2.  patrick             | Impact: -0.005231
+ 3.  that                | Impact: -0.001874
+ 4.  i                   | Impact: -0.001874
+ 5.  can                 | Impact: -0.001874
+ 6.  use                 | Impact: -0.001874
+ 7.  .                   | Impact: -0.001803
+ 8.  /                   | Impact: -0.001221
+ 9.  .                   | Impact: -0.001115
+10.  on                  | Impact: -0.000709
+11.  this                | Impact: -0.000709
+12.  issue               | Impact: -0.000709
+13.  so                  | Impact: -0.000709
+14.                      | Impact: -0.000163
+15.  detailed            | Impact: -0.000009
+16.  information         | Impact: -0.000009
+17.  at                  | Impact: -0.000009
+18.  this                | Impact: -0.000009
+19.  point               | Impact: -0.000009
+20.  .                   | Impact: -0.000009

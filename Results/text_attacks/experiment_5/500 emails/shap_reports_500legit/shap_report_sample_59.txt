@@ -1,0 +1,75 @@
+Sample 59
+=========
+
+Sample text preview: Per Nelson Ferries(dealmaker): We do pay Spinnaker I-.. O'Neal, could you please change the base purchase deals to reflect that price. I changed the t...
+
+Model prediction: [9.9973828e-01 2.6167787e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  neal                | Impact: -0.032565 → LEGITIMATE
+ 2.  transport           | Impact: 0.026585 → PHISHING
+ 3.  (                   | Impact: 0.026463 → PHISHING
+ 4.  pay                 | Impact: 0.020964 → PHISHING
+ 5.  per                 | Impact: -0.016750 → LEGITIMATE
+ 6.  reflect             | Impact: -0.014994 → LEGITIMATE
+ 7.  tickets             | Impact: -0.010195 → LEGITIMATE
+ 8.  deals               | Impact: -0.010066 → LEGITIMATE
+ 9. maker                | Impact: -0.009148 → LEGITIMATE
+10.  base                | Impact: -0.009083 → LEGITIMATE
+11.  we                  | Impact: 0.008987 → PHISHING
+12.  .                   | Impact: -0.008758 → LEGITIMATE
+13.  spin                | Impact: 0.008053 → PHISHING
+14.  o                   | Impact: 0.007831 → PHISHING
+15.  purchase            | Impact: -0.007597 → LEGITIMATE
+16.  ,                   | Impact: 0.007548 → PHISHING
+17.  deal                | Impact: -0.007338 → LEGITIMATE
+18.  changed             | Impact: 0.007263 → PHISHING
+19.  i                   | Impact: -0.007170 → LEGITIMATE
+20.  that                | Impact: -0.007133 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  transport           | Impact: 0.026585
+ 2.  (                   | Impact: 0.026463
+ 3.  pay                 | Impact: 0.020964
+ 4.  we                  | Impact: 0.008987
+ 5.  spin                | Impact: 0.008053
+ 6.  o                   | Impact: 0.007831
+ 7.  ,                   | Impact: 0.007548
+ 8.  changed             | Impact: 0.007263
+ 9.  nothing             | Impact: 0.006495
+10.  ferries             | Impact: 0.006313
+11.  show                | Impact: 0.005892
+12.  .                   | Impact: 0.004562
+13.  .                   | Impact: 0.004549
+14.  to                  | Impact: 0.003835
+15.  .                   | Impact: 0.003736
+16.  the                 | Impact: 0.003528
+17.  thanks              | Impact: 0.001909
+18.  please              | Impact: 0.000967
+19.  to                  | Impact: 0.000445
+20.  nelson              | Impact: 0.000274
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  neal                | Impact: -0.032565
+ 2.  per                 | Impact: -0.016750
+ 3.  reflect             | Impact: -0.014994
+ 4.  tickets             | Impact: -0.010195
+ 5.  deals               | Impact: -0.010066
+ 6. maker                | Impact: -0.009148
+ 7.  base                | Impact: -0.009083
+ 8.  .                   | Impact: -0.008758
+ 9.  purchase            | Impact: -0.007597
+10.  deal                | Impact: -0.007338
+11.  i                   | Impact: -0.007170
+12.  that                | Impact: -0.007133
+13.  '                   | Impact: -0.006764
+14.  i                   | Impact: -0.006455
+15.  price               | Impact: -0.006312
+16.  that                | Impact: -0.006114
+17.  change              | Impact: -0.004810
+18.  the                 | Impact: -0.004517
+19.  :                   | Impact: -0.004236
+20.  pay                 | Impact: -0.002651

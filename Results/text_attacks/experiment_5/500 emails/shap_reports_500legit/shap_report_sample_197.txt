@@ -1,0 +1,68 @@
+Sample 197
+==========
+
+Sample text preview: I have changed this deal to Sempra Energy Trading Corp. from Sempra Energy Resources. Please select Trading Corp. for all physical power deals.
+
+Model prediction: [9.9974185e-01 2.5810508e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  energy              | Impact: -0.062806 → LEGITIMATE
+ 2.  deals               | Impact: -0.037961 → LEGITIMATE
+ 3.  trading             | Impact: -0.033071 → LEGITIMATE
+ 4.  corp                | Impact: 0.032062 → PHISHING
+ 5.  select              | Impact: -0.030041 → LEGITIMATE
+ 6.  please              | Impact: 0.028772 → PHISHING
+ 7.  energy              | Impact: -0.026392 → LEGITIMATE
+ 8. mp                   | Impact: -0.021089 → LEGITIMATE
+ 9.  .                   | Impact: 0.019113 → PHISHING
+10.  all                 | Impact: 0.018082 → PHISHING
+11.  deal                | Impact: 0.017673 → PHISHING
+12.  to                  | Impact: 0.017568 → PHISHING
+13.  physical            | Impact: 0.017408 → PHISHING
+14.  se                  | Impact: 0.016412 → PHISHING
+15.  power               | Impact: 0.015506 → PHISHING
+16. ra                   | Impact: -0.011888 → LEGITIMATE
+17.  i                   | Impact: 0.010038 → PHISHING
+18.  se                  | Impact: 0.009779 → PHISHING
+19.  this                | Impact: 0.008936 → PHISHING
+20.  trading             | Impact: -0.007971 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  corp                | Impact: 0.032062
+ 2.  please              | Impact: 0.028772
+ 3.  .                   | Impact: 0.019113
+ 4.  all                 | Impact: 0.018082
+ 5.  deal                | Impact: 0.017673
+ 6.  to                  | Impact: 0.017568
+ 7.  physical            | Impact: 0.017408
+ 8.  se                  | Impact: 0.016412
+ 9.  power               | Impact: 0.015506
+10.  i                   | Impact: 0.010038
+11.  se                  | Impact: 0.009779
+12.  this                | Impact: 0.008936
+13. ra                   | Impact: 0.004782
+14.  .                   | Impact: 0.003455
+15. mp                   | Impact: 0.002951
+16.  from                | Impact: 0.001090
+17.  resources           | Impact: 0.000739
+18.                      | Impact: 0.000023
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  energy              | Impact: -0.062806
+ 2.  deals               | Impact: -0.037961
+ 3.  trading             | Impact: -0.033071
+ 4.  select              | Impact: -0.030041
+ 5.  energy              | Impact: -0.026392
+ 6. mp                   | Impact: -0.021089
+ 7. ra                   | Impact: -0.011888
+ 8.  trading             | Impact: -0.007971
+ 9.  .                   | Impact: -0.006745
+10.  for                 | Impact: -0.006078
+11.  changed             | Impact: -0.003808
+12.  .                   | Impact: -0.003495
+13.  have                | Impact: -0.002758
+14.  corp                | Impact: -0.001064
+15.                      | Impact: -0.000000

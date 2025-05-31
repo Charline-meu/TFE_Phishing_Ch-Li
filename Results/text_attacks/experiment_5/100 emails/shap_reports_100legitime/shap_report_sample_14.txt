@@ -1,0 +1,75 @@
+Phishing Sample 14
+==================
+
+Sample text preview: so your proposing we are going to the stabbing cabin. go to tampico -----Original Message----- From: Brian Constantine Sent: Tuesday, February , : AM ...
+
+Model prediction: [9.9972409e-01 2.7590658e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  drill               | Impact: -0.012843 → LEGITIMATE
+ 2.  za                  | Impact: -0.004204 → LEGITIMATE
+ 3.  night               | Impact: 0.004161 → PHISHING
+ 4. nder                 | Impact: -0.003902 → LEGITIMATE
+ 5.  w                   | Impact: 0.003541 → PHISHING
+ 6.  rather              | Impact: -0.003013 → LEGITIMATE
+ 7.  n                   | Impact: 0.002832 → PHISHING
+ 8.  you                 | Impact: 0.002544 → PHISHING
+ 9.  men                 | Impact: 0.002544 → PHISHING
+10. pic                  | Impact: -0.002520 → LEGITIMATE
+11.  someone             | Impact: 0.002423 → PHISHING
+12.  the                 | Impact: -0.002389 → LEGITIMATE
+13.  -                   | Impact: 0.002243 → PHISHING
+14.  -                   | Impact: 0.001778 → PHISHING
+15.  of                  | Impact: 0.001690 → PHISHING
+16.  ?                   | Impact: -0.001679 → LEGITIMATE
+17.  tony                | Impact: -0.001628 → LEGITIMATE
+18.  '                   | Impact: -0.001628 → LEGITIMATE
+19.  erik                | Impact: -0.001603 → LEGITIMATE
+20.  knows               | Impact: 0.001596 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  night               | Impact: 0.004161
+ 2.  w                   | Impact: 0.003541
+ 3.  n                   | Impact: 0.002832
+ 4.  you                 | Impact: 0.002544
+ 5.  men                 | Impact: 0.002544
+ 6.  someone             | Impact: 0.002423
+ 7.  -                   | Impact: 0.002243
+ 8.  -                   | Impact: 0.001778
+ 9.  of                  | Impact: 0.001690
+10.  knows               | Impact: 0.001596
+11.  who                 | Impact: 0.001504
+12.  i                   | Impact: 0.001404
+13.  am                  | Impact: 0.001404
+14.  blanket             | Impact: 0.001277
+15.  will                | Impact: 0.001265
+16.  until               | Impact: 0.001190
+17.  we                  | Impact: 0.001011
+18.  the                 | Impact: 0.000997
+19.  on                  | Impact: 0.000799
+20.  the                 | Impact: 0.000758
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  drill               | Impact: -0.012843
+ 2.  za                  | Impact: -0.004204
+ 3. nder                 | Impact: -0.003902
+ 4.  rather              | Impact: -0.003013
+ 5. pic                  | Impact: -0.002520
+ 6.  the                 | Impact: -0.002389
+ 7.  ?                   | Impact: -0.001679
+ 8.  tony                | Impact: -0.001628
+ 9.  '                   | Impact: -0.001628
+10.  erik                | Impact: -0.001603
+11.  parks               | Impact: -0.001488
+12.  tam                 | Impact: -0.001470
+13.  forward             | Impact: -0.001386
+14.  joe                 | Impact: -0.001377
+15.  subject             | Impact: -0.001377
+16.  ;                   | Impact: -0.001226
+17.  fen                 | Impact: -0.001216
+18. ner                  | Impact: -0.001216
+19.  s                   | Impact: -0.001200
+20.  thursday            | Impact: -0.000978

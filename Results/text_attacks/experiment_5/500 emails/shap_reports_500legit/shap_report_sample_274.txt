@@ -1,0 +1,75 @@
+Sample 274
+==========
+
+Sample text preview: I know that this is a difficult time for all of us. With everything going on inside the company as well as in the world around us, we have been carefu...
+
+Model prediction: [9.9979907e-01 2.0098867e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.016594 → LEGITIMATE
+ 2. ron                  | Impact: -0.012204 → LEGITIMATE
+ 3.  us                  | Impact: 0.006708 → PHISHING
+ 4.  en                  | Impact: -0.005325 → LEGITIMATE
+ 5.  en                  | Impact: -0.005127 → LEGITIMATE
+ 6.  whether             | Impact: -0.005031 → LEGITIMATE
+ 7.  know                | Impact: 0.004241 → PHISHING
+ 8.  considering         | Impact: -0.004238 → LEGITIMATE
+ 9.  holiday             | Impact: -0.004011 → LEGITIMATE
+10.  a                   | Impact: -0.003171 → LEGITIMATE
+11.  imp                 | Impact: 0.003170 → PHISHING
+12.  .                   | Impact: -0.002920 → LEGITIMATE
+13.  well                | Impact: -0.002584 → LEGITIMATE
+14.  come                | Impact: 0.002176 → PHISHING
+15.  together            | Impact: 0.002176 → PHISHING
+16. rud                  | Impact: 0.002125 → PHISHING
+17.  this                | Impact: 0.002090 → PHISHING
+18.  that                | Impact: 0.001979 → PHISHING
+19. ent                  | Impact: -0.001968 → LEGITIMATE
+20.  is                  | Impact: 0.001906 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  us                  | Impact: 0.006708
+ 2.  know                | Impact: 0.004241
+ 3.  imp                 | Impact: 0.003170
+ 4.  come                | Impact: 0.002176
+ 5.  together            | Impact: 0.002176
+ 6. rud                  | Impact: 0.002125
+ 7.  this                | Impact: 0.002090
+ 8.  that                | Impact: 0.001979
+ 9.  is                  | Impact: 0.001906
+10.  all                 | Impact: 0.001771
+11.  of                  | Impact: 0.001771
+12.  as                  | Impact: 0.001660
+13.  world               | Impact: 0.001527
+14.  around              | Impact: 0.001527
+15.  of                  | Impact: 0.001465
+16.  such                | Impact: 0.001465
+17.  .                   | Impact: 0.001408
+18. pired                | Impact: 0.001357
+19.  month               | Impact: 0.001342
+20.  trans               | Impact: 0.001316
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.016594
+ 2. ron                  | Impact: -0.012204
+ 3.  en                  | Impact: -0.005325
+ 4.  en                  | Impact: -0.005127
+ 5.  whether             | Impact: -0.005031
+ 6.  considering         | Impact: -0.004238
+ 7.  holiday             | Impact: -0.004011
+ 8.  a                   | Impact: -0.003171
+ 9.  .                   | Impact: -0.002920
+10.  well                | Impact: -0.002584
+11. ent                  | Impact: -0.001968
+12.  difficult           | Impact: -0.001891
+13.  en                  | Impact: -0.001760
+14. ron                  | Impact: -0.001760
+15.  as                  | Impact: -0.001584
+16.  employee            | Impact: -0.001148
+17.  feedback            | Impact: -0.001148
+18.  holiday             | Impact: -0.001099
+19.  party               | Impact: -0.001099
+20.  been                | Impact: -0.001093

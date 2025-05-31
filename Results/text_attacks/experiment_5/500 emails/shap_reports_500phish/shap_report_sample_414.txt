@@ -1,0 +1,75 @@
+Sample 414
+==========
+
+Sample text preview: FROM RITA DOINK. INTERNATIONAL PROMOTIONS/PRIZE AWARD DEPARTMENT RESULTS FOR CATEGORY "A" DRAWS. Congratulations to you as we bring to your notice, th...
+
+Model prediction: [8.414172e-04 9.991586e-01]
+Predicted class: PHISHING with 0.9992 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  designated          | Impact: 0.018794 → PHISHING
+ 2.  bank                | Impact: 0.018794 → PHISHING
+ 3.  of                  | Impact: 0.018575 → PHISHING
+ 4.  your                | Impact: 0.018575 → PHISHING
+ 5.  prize               | Impact: 0.018482 → PHISHING
+ 6.  money               | Impact: 0.018482 → PHISHING
+ 7.  please              | Impact: 0.010694 → PHISHING
+ 8.  contact             | Impact: 0.010694 → PHISHING
+ 9.  to                  | Impact: 0.010446 → PHISHING
+10.  file                | Impact: 0.010446 → PHISHING
+11.  please              | Impact: 0.010266 → PHISHING
+12.  contact             | Impact: 0.010266 → PHISHING
+13.  the                 | Impact: 0.010266 → PHISHING
+14.  for                 | Impact: 0.010119 → PHISHING
+15.  your                | Impact: 0.010119 → PHISHING
+16.  claim               | Impact: 0.010119 → PHISHING
+17.  to                  | Impact: 0.009174 → PHISHING
+18.  a                   | Impact: 0.009174 → PHISHING
+19.  agent               | Impact: 0.009151 → PHISHING
+20.  with                | Impact: 0.009151 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  designated          | Impact: 0.018794
+ 2.  bank                | Impact: 0.018794
+ 3.  of                  | Impact: 0.018575
+ 4.  your                | Impact: 0.018575
+ 5.  prize               | Impact: 0.018482
+ 6.  money               | Impact: 0.018482
+ 7.  please              | Impact: 0.010694
+ 8.  contact             | Impact: 0.010694
+ 9.  to                  | Impact: 0.010446
+10.  file                | Impact: 0.010446
+11.  please              | Impact: 0.010266
+12.  contact             | Impact: 0.010266
+13.  the                 | Impact: 0.010266
+14.  for                 | Impact: 0.010119
+15.  your                | Impact: 0.010119
+16.  claim               | Impact: 0.010119
+17.  to                  | Impact: 0.009174
+18.  a                   | Impact: 0.009174
+19.  agent               | Impact: 0.009151
+20.  with                | Impact: 0.009151
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  karl                | Impact: -0.002166
+ 2.  winslow             | Impact: -0.002166
+ 3.  .                   | Impact: -0.002166
+ 4.  :                   | Impact: -0.001933
+ 5.  +                   | Impact: -0.001933
+ 6.  .                   | Impact: -0.001933
+ 7.  -                   | Impact: -0.001933
+ 8.  -                   | Impact: -0.001933
+ 9.  -                   | Impact: -0.001933
+10.  tel                 | Impact: -0.001452
+11.  :                   | Impact: -0.001452
+12.  +                   | Impact: -0.001452
+13.  -                   | Impact: -0.001452
+14.  -                   | Impact: -0.001452
+15.  -                   | Impact: -0.001452
+16.  fa                  | Impact: -0.001452
+17. x                    | Impact: -0.001452
+18.  category            | Impact: -0.001443
+19.  "                   | Impact: -0.001443
+20.  a                   | Impact: -0.001443

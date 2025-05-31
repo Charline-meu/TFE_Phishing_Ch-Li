@@ -1,0 +1,75 @@
+Sample 277
+==========
+
+Sample text preview: MR. AYANDA MAREDI DEPARTMENT OF MINERALS AND ENERGY PRETORIA, SOUTH AFRICA. Good morning, It is my great pleasure to write you this letter on behalf o...
+
+Model prediction: [1.9487538e-04 9.9980515e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  powers              | Impact: 0.007535 → PHISHING
+ 2.  will                | Impact: 0.007535 → PHISHING
+ 3.  be                  | Impact: 0.007535 → PHISHING
+ 4.  secured             | Impact: 0.007535 → PHISHING
+ 5.  as                  | Impact: 0.007197 → PHISHING
+ 6.  a                   | Impact: 0.007197 → PHISHING
+ 7.  transfer            | Impact: 0.007197 → PHISHING
+ 8.  of                  | Impact: 0.007197 → PHISHING
+ 9.  this                | Impact: 0.006755 → PHISHING
+10.  business            | Impact: 0.006755 → PHISHING
+11.  is                  | Impact: 0.006755 → PHISHING
+12.  completely          | Impact: 0.006755 → PHISHING
+13.  safe                | Impact: 0.006755 → PHISHING
+14.  and                 | Impact: 0.005914 → PHISHING
+15.  secure              | Impact: 0.005914 → PHISHING
+16.  ,                   | Impact: 0.005914 → PHISHING
+17.  we                  | Impact: 0.005820 → PHISHING
+18.  are                 | Impact: 0.005820 → PHISHING
+19.  seeking             | Impact: 0.005820 → PHISHING
+20.  your                | Impact: 0.005820 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  powers              | Impact: 0.007535
+ 2.  will                | Impact: 0.007535
+ 3.  be                  | Impact: 0.007535
+ 4.  secured             | Impact: 0.007535
+ 5.  as                  | Impact: 0.007197
+ 6.  a                   | Impact: 0.007197
+ 7.  transfer            | Impact: 0.007197
+ 8.  of                  | Impact: 0.007197
+ 9.  this                | Impact: 0.006755
+10.  business            | Impact: 0.006755
+11.  is                  | Impact: 0.006755
+12.  completely          | Impact: 0.006755
+13.  safe                | Impact: 0.006755
+14.  and                 | Impact: 0.005914
+15.  secure              | Impact: 0.005914
+16.  ,                   | Impact: 0.005914
+17.  we                  | Impact: 0.005820
+18.  are                 | Impact: 0.005820
+19.  seeking             | Impact: 0.005820
+20.  your                | Impact: 0.005820
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  and                 | Impact: -0.004100
+ 2.  energy              | Impact: -0.004100
+ 3.  where               | Impact: -0.004100
+ 4.  i                   | Impact: -0.004100
+ 5.  work                | Impact: -0.004100
+ 6.  as                  | Impact: -0.002837
+ 7.  a                   | Impact: -0.002837
+ 8.  director            | Impact: -0.002837
+ 9.  of                  | Impact: -0.002837
+10.  audit               | Impact: -0.002837
+11.  and                 | Impact: -0.002129
+12.  project             | Impact: -0.002129
+13.  implementation      | Impact: -0.002129
+14.  ,                   | Impact: -0.002129
+15.  ,                   | Impact: -0.001379
+16.  .                   | Impact: -0.001379
+17.  within              | Impact: -0.001099
+18.  the                 | Impact: -0.001099
+19.  department          | Impact: -0.001099
+20.  of                  | Impact: -0.001099

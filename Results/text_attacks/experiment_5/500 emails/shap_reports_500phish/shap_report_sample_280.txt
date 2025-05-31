@@ -1,0 +1,63 @@
+Sample 280
+==========
+
+Sample text preview: FROM Mr.Bob Dan ECO TRUST BANK [ECOBANK] BENIN REP Dearest friend, In order to transfer out (USD MILLION) million United States Dollars from ECO BANK ...
+
+Model prediction: [1.9879836e-04 9.9980122e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  to                  | Impact: 0.012335 → PHISHING
+ 2.  you                 | Impact: 0.012335 → PHISHING
+ 3.  upon                | Impact: 0.012335 → PHISHING
+ 4.  your                | Impact: 0.012335 → PHISHING
+ 5.  willing             | Impact: 0.006160 → PHISHING
+ 6.  to                  | Impact: 0.006160 → PHISHING
+ 7.  receive             | Impact: 0.006160 → PHISHING
+ 8.  this                | Impact: 0.006160 → PHISHING
+ 9.  money               | Impact: 0.006160 → PHISHING
+10.  into                | Impact: 0.006160 → PHISHING
+11.  a                   | Impact: 0.006160 → PHISHING
+12.  foreign             | Impact: 0.006160 → PHISHING
+13.  account             | Impact: 0.006160 → PHISHING
+14.  and                 | Impact: 0.005481 → PHISHING
+15.  foreign             | Impact: 0.005481 → PHISHING
+16.  ben                 | Impact: 0.005481 → PHISHING
+17. ef                   | Impact: 0.005481 → PHISHING
+18. icia                 | Impact: 0.005481 → PHISHING
+19. ry                   | Impact: 0.005481 → PHISHING
+20.  .                   | Impact: 0.005481 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.012335
+ 2.  you                 | Impact: 0.012335
+ 3.  upon                | Impact: 0.012335
+ 4.  your                | Impact: 0.012335
+ 5.  willing             | Impact: 0.006160
+ 6.  to                  | Impact: 0.006160
+ 7.  receive             | Impact: 0.006160
+ 8.  this                | Impact: 0.006160
+ 9.  money               | Impact: 0.006160
+10.  into                | Impact: 0.006160
+11.  a                   | Impact: 0.006160
+12.  foreign             | Impact: 0.006160
+13.  account             | Impact: 0.006160
+14.  and                 | Impact: 0.005481
+15.  foreign             | Impact: 0.005481
+16.  ben                 | Impact: 0.005481
+17. ef                   | Impact: 0.005481
+18. icia                 | Impact: 0.005481
+19. ry                   | Impact: 0.005481
+20.  .                   | Impact: 0.005481
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.000740
+ 2.  auditor             | Impact: -0.000740
+ 3.  general             | Impact: -0.000740
+ 4.  of                  | Impact: -0.000740
+ 5.  eco                 | Impact: -0.000740
+ 6. trust                | Impact: -0.000740
+ 7.  bank                | Impact: -0.000740
+ 8.  [                   | Impact: -0.000740

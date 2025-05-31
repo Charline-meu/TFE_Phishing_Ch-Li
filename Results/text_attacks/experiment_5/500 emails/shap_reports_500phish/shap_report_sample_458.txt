@@ -1,0 +1,75 @@
+Sample 458
+==========
+
+Sample text preview: Email marketing - if done right - is both highly effective and amazingly cost effective. OK, it can be downright PROFITABLE. If done right. Imagine se...
+
+Model prediction: [2.8410892e-04 9.9971586e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.092179 → PHISHING
+ 2.  click               | Impact: 0.033184 → PHISHING
+ 3.  million             | Impact: 0.030980 → PHISHING
+ 4.  two                 | Impact: 0.017636 → PHISHING
+ 5.  here                | Impact: 0.016695 → PHISHING
+ 6.  letter              | Impact: 0.016684 → PHISHING
+ 7.  to                  | Impact: 0.016684 → PHISHING
+ 8.  one                 | Impact: 0.016240 → PHISHING
+ 9.  million             | Impact: 0.016240 → PHISHING
+10.  your                | Impact: 0.015607 → PHISHING
+11. fr                   | Impact: 0.015113 → PHISHING
+12. wg                   | Impact: 0.015113 → PHISHING
+13. wy                   | Impact: 0.015113 → PHISHING
+14. ye                   | Impact: 0.015113 → PHISHING
+15.  profitable          | Impact: 0.013967 → PHISHING
+16.  .                   | Impact: 0.013967 → PHISHING
+17.  you                 | Impact: 0.012641 → PHISHING
+18.  this                | Impact: 0.012641 → PHISHING
+19.  note                | Impact: 0.012641 → PHISHING
+20. uw                   | Impact: 0.010865 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.092179
+ 2.  click               | Impact: 0.033184
+ 3.  million             | Impact: 0.030980
+ 4.  two                 | Impact: 0.017636
+ 5.  here                | Impact: 0.016695
+ 6.  letter              | Impact: 0.016684
+ 7.  to                  | Impact: 0.016684
+ 8.  one                 | Impact: 0.016240
+ 9.  million             | Impact: 0.016240
+10.  your                | Impact: 0.015607
+11. fr                   | Impact: 0.015113
+12. wg                   | Impact: 0.015113
+13. wy                   | Impact: 0.015113
+14. ye                   | Impact: 0.015113
+15.  profitable          | Impact: 0.013967
+16.  .                   | Impact: 0.013967
+17.  you                 | Impact: 0.012641
+18.  this                | Impact: 0.012641
+19.  note                | Impact: 0.012641
+20. uw                   | Impact: 0.010865
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  delighted           | Impact: -0.003299
+ 2.  with                | Impact: -0.003299
+ 3.  the                 | Impact: -0.002153
+ 4.  bottom              | Impact: -0.002153
+ 5.  ur                  | Impact: -0.001720
+ 6. l                    | Impact: -0.001720
+ 7.  or                  | Impact: -0.001720
+ 8.  _                   | Impact: -0.001077
+ 9.  _                   | Impact: -0.001077
+10.  _                   | Impact: -0.001077
+11.  _                   | Impact: -0.001077
+12.  _                   | Impact: -0.000999
+13.  _                   | Impact: -0.000999
+14.  _                   | Impact: -0.000999
+15.  _                   | Impact: -0.000999
+16.  _                   | Impact: -0.000946
+17.  _                   | Impact: -0.000946
+18.  _                   | Impact: -0.000946
+19.  _                   | Impact: -0.000946
+20.  _                   | Impact: -0.000944

@@ -1,0 +1,75 @@
+Sample 115
+==========
+
+Sample text preview: -----Original Message----- From: Legler, Michael J. Sent: Monday, November , : PM To: Schwieger, Jim; Gomez, Julie A.; Meyer, Chris Subject: FW: Enron...
+
+Model prediction: [9.9977368e-01 2.2637825e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  directors           | Impact: 0.008023 → PHISHING
+ 2.  pp                  | Impact: -0.006580 → LEGITIMATE
+ 3. s                    | Impact: 0.004318 → PHISHING
+ 4. ron                  | Impact: -0.003985 → LEGITIMATE
+ 5.  directors           | Impact: 0.003906 → PHISHING
+ 6.  en                  | Impact: -0.002995 → LEGITIMATE
+ 7.  .                   | Impact: -0.002912 → LEGITIMATE
+ 8.  pp                  | Impact: -0.002764 → LEGITIMATE
+ 9.  directors           | Impact: 0.002394 → PHISHING
+10.  pp                  | Impact: -0.002349 → LEGITIMATE
+11. ron                  | Impact: -0.002247 → LEGITIMATE
+12.  >                   | Impact: -0.002098 → LEGITIMATE
+13.  .                   | Impact: -0.001701 → LEGITIMATE
+14.  en                  | Impact: -0.001663 → LEGITIMATE
+15.  michael             | Impact: 0.001297 → PHISHING
+16.  -                   | Impact: -0.001272 → LEGITIMATE
+17.  >                   | Impact: -0.001272 → LEGITIMATE
+18.  >                   | Impact: -0.001271 → LEGITIMATE
+19.  .                   | Impact: -0.001201 → LEGITIMATE
+20.  >                   | Impact: -0.001178 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  directors           | Impact: 0.008023
+ 2. s                    | Impact: 0.004318
+ 3.  directors           | Impact: 0.003906
+ 4.  directors           | Impact: 0.002394
+ 5.  michael             | Impact: 0.001297
+ 6.  of                  | Impact: 0.000744
+ 7.  board               | Impact: 0.000627
+ 8.  -                   | Impact: 0.000556
+ 9.  directors           | Impact: 0.000508
+10.  of                  | Impact: 0.000477
+11.  -                   | Impact: 0.000476
+12.  of                  | Impact: 0.000429
+13. s                    | Impact: 0.000260
+14.  message             | Impact: 0.000217
+15.  board               | Impact: 0.000198
+16.  november            | Impact: 0.000179
+17.  of                  | Impact: 0.000177
+18.  -                   | Impact: 0.000145
+19.  gomez               | Impact: 0.000139
+20.  ;                   | Impact: 0.000133
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  pp                  | Impact: -0.006580
+ 2. ron                  | Impact: -0.003985
+ 3.  en                  | Impact: -0.002995
+ 4.  .                   | Impact: -0.002912
+ 5.  pp                  | Impact: -0.002764
+ 6.  pp                  | Impact: -0.002349
+ 7. ron                  | Impact: -0.002247
+ 8.  >                   | Impact: -0.002098
+ 9.  .                   | Impact: -0.001701
+10.  en                  | Impact: -0.001663
+11.  -                   | Impact: -0.001272
+12.  >                   | Impact: -0.001272
+13.  >                   | Impact: -0.001271
+14.  .                   | Impact: -0.001201
+15.  >                   | Impact: -0.001178
+16. ron                  | Impact: -0.001077
+17.  >                   | Impact: -0.001066
+18.  .                   | Impact: -0.001061
+19.  en                  | Impact: -0.000929
+20.  -                   | Impact: -0.000913

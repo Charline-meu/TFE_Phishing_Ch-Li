@@ -1,0 +1,75 @@
+Sample 220
+==========
+
+Sample text preview: ---------------------- Forwarded by Sanjay Gupta/HOU/ECT on // : PM --------------------------- Kathy Reeves // : PM To: Sanjay Gupta/HOU/ECT@ECT cc: ...
+
+Model prediction: [9.9978703e-01 2.1294013e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  forward             | Impact: -0.011614 → LEGITIMATE
+ 2.  ec                  | Impact: -0.010386 → LEGITIMATE
+ 3.  usd                 | Impact: -0.005756 → LEGITIMATE
+ 4.  sanjay              | Impact: 0.005669 → PHISHING
+ 5.  currency            | Impact: -0.004423 → LEGITIMATE
+ 6.  hedges              | Impact: -0.004423 → LEGITIMATE
+ 7.  ec                  | Impact: -0.004169 → LEGITIMATE
+ 8.  -                   | Impact: -0.003953 → LEGITIMATE
+ 9.  ec                  | Impact: -0.003790 → LEGITIMATE
+10.  position            | Impact: -0.003778 → LEGITIMATE
+11.  offset              | Impact: -0.003264 → LEGITIMATE
+12. ting                 | Impact: -0.003264 → LEGITIMATE
+13.  we                  | Impact: 0.002823 → PHISHING
+14.  report              | Impact: -0.002795 → LEGITIMATE
+15.  in                  | Impact: -0.002795 → LEGITIMATE
+16.  -                   | Impact: -0.002666 → LEGITIMATE
+17.  -                   | Impact: -0.002641 → LEGITIMATE
+18.  -                   | Impact: -0.002493 → LEGITIMATE
+19. t                    | Impact: -0.002418 → LEGITIMATE
+20.  are                 | Impact: 0.002367 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sanjay              | Impact: 0.005669
+ 2.  we                  | Impact: 0.002823
+ 3.  are                 | Impact: 0.002367
+ 4.  by                  | Impact: 0.001399
+ 5.  john                | Impact: 0.000745
+ 6.  d                   | Impact: 0.000745
+ 7.  @                   | Impact: 0.000732
+ 8.  going               | Impact: 0.000571
+ 9.  to                  | Impact: 0.000571
+10. hwa                  | Impact: 0.000506
+11. ite                  | Impact: 0.000506
+12.  .                   | Impact: 0.000469
+13.  @                   | Impact: 0.000306
+14.                      | Impact: 0.000302
+15.  need                | Impact: 0.000141
+16.  this                | Impact: 0.000141
+17.  as                  | Impact: 0.000141
+18.  soon                | Impact: 0.000141
+19.  as                  | Impact: 0.000141
+20.  possible            | Impact: 0.000141
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  forward             | Impact: -0.011614
+ 2.  ec                  | Impact: -0.010386
+ 3.  usd                 | Impact: -0.005756
+ 4.  currency            | Impact: -0.004423
+ 5.  hedges              | Impact: -0.004423
+ 6.  ec                  | Impact: -0.004169
+ 7.  -                   | Impact: -0.003953
+ 8.  ec                  | Impact: -0.003790
+ 9.  position            | Impact: -0.003778
+10.  offset              | Impact: -0.003264
+11. ting                 | Impact: -0.003264
+12.  report              | Impact: -0.002795
+13.  in                  | Impact: -0.002795
+14.  -                   | Impact: -0.002666
+15.  -                   | Impact: -0.002641
+16.  -                   | Impact: -0.002493
+17. t                    | Impact: -0.002418
+18.  :                   | Impact: -0.002299
+19.  cash                | Impact: -0.002216
+20. flow                 | Impact: -0.002216

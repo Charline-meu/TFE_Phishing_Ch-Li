@@ -1,0 +1,75 @@
+Sample 428
+==========
+
+Sample text preview: Michelle: It was great to finally talk with you. Here is some information on the new power plants planned in the Bakersfield area. This file is a coup...
+
+Model prediction: [9.9974865e-01 2.5139956e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  michelle            | Impact: -0.033636 → LEGITIMATE
+ 2.  file                | Impact: 0.032586 → PHISHING
+ 3.  years               | Impact: 0.021431 → PHISHING
+ 4.  information         | Impact: 0.020700 → PHISHING
+ 5.  power               | Impact: -0.019818 → LEGITIMATE
+ 6.  this                | Impact: 0.018387 → PHISHING
+ 7.  plants              | Impact: -0.017219 → LEGITIMATE
+ 8.  :                   | Impact: -0.015149 → LEGITIMATE
+ 9.  .                   | Impact: -0.011705 → LEGITIMATE
+10.  old                 | Impact: 0.009882 → PHISHING
+11.  talk                | Impact: -0.009049 → LEGITIMATE
+12.  great               | Impact: -0.009022 → LEGITIMATE
+13.  web                 | Impact: 0.008505 → PHISHING
+14.  energy              | Impact: -0.008323 → LEGITIMATE
+15.  baker               | Impact: -0.008202 → LEGITIMATE
+16.  planned             | Impact: -0.008145 → LEGITIMATE
+17.  but                 | Impact: -0.007957 → LEGITIMATE
+18. sfield               | Impact: -0.007646 → LEGITIMATE
+19.  latest              | Impact: 0.007334 → PHISHING
+20.  .                   | Impact: 0.006408 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  file                | Impact: 0.032586
+ 2.  years               | Impact: 0.021431
+ 3.  information         | Impact: 0.020700
+ 4.  this                | Impact: 0.018387
+ 5.  old                 | Impact: 0.009882
+ 6.  web                 | Impact: 0.008505
+ 7.  latest              | Impact: 0.007334
+ 8.  .                   | Impact: 0.006408
+ 9.  their               | Impact: 0.005743
+10.  here                | Impact: 0.005462
+11.  the                 | Impact: 0.004463
+12.  site                | Impact: 0.004083
+13.  is                  | Impact: 0.003272
+14.  here                | Impact: 0.002392
+15.  finally             | Impact: 0.002041
+16.  is                  | Impact: 0.001869
+17.  a                   | Impact: 0.001681
+18.  about               | Impact: 0.000910
+19.  to                  | Impact: 0.000651
+20.  you                 | Impact: 0.000651
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  michelle            | Impact: -0.033636
+ 2.  power               | Impact: -0.019818
+ 3.  plants              | Impact: -0.017219
+ 4.  :                   | Impact: -0.015149
+ 5.  .                   | Impact: -0.011705
+ 6.  talk                | Impact: -0.009049
+ 7.  great               | Impact: -0.009022
+ 8.  energy              | Impact: -0.008323
+ 9.  baker               | Impact: -0.008202
+10.  planned             | Impact: -0.008145
+11.  but                 | Impact: -0.007957
+12. sfield               | Impact: -0.007646
+13.  however             | Impact: -0.006305
+14.  i                   | Impact: -0.006202
+15.  it                  | Impact: -0.005565
+16.  commission          | Impact: -0.005243
+17.  area                | Impact: -0.005203
+18.  added               | Impact: -0.004619
+19.  and                 | Impact: -0.004364
+20.  .                   | Impact: -0.004095

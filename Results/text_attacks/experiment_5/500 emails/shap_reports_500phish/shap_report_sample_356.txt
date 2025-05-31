@@ -1,0 +1,75 @@
+Sample 356
+==========
+
+Sample text preview: from Barrister Christopher Ayodele Chris Ayo Chambers, Cote D lvoire. E-mail: Dear Friend, I am Barrister Chris Ayo, a legal Solicitor and I was the P...
+
+Model prediction: [1.8052115e-04 9.9981946e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.017141 → PHISHING
+ 2.  friend              | Impact: 0.017141 → PHISHING
+ 3.  ,                   | Impact: 0.017141 → PHISHING
+ 4.  please              | Impact: 0.008703 → PHISHING
+ 5.  get                 | Impact: 0.008703 → PHISHING
+ 6.  mail                | Impact: 0.008529 → PHISHING
+ 7. ling                 | Impact: 0.008529 → PHISHING
+ 8.  address             | Impact: 0.008529 → PHISHING
+ 9.  his                 | Impact: 0.007563 → PHISHING
+10.  wife                | Impact: 0.007563 → PHISHING
+11.  and                 | Impact: 0.007563 → PHISHING
+12.  private             | Impact: 0.007344 → PHISHING
+13.  telephone           | Impact: 0.007344 → PHISHING
+14.  locate              | Impact: 0.007137 → PHISHING
+15.  any                 | Impact: 0.007137 → PHISHING
+16.  of                  | Impact: 0.007137 → PHISHING
+17.  to                  | Impact: 0.007137 → PHISHING
+18.  your                | Impact: 0.007137 → PHISHING
+19.  embassy             | Impact: 0.007137 → PHISHING
+20.  to                  | Impact: 0.007137 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.017141
+ 2.  friend              | Impact: 0.017141
+ 3.  ,                   | Impact: 0.017141
+ 4.  please              | Impact: 0.008703
+ 5.  get                 | Impact: 0.008703
+ 6.  mail                | Impact: 0.008529
+ 7. ling                 | Impact: 0.008529
+ 8.  address             | Impact: 0.008529
+ 9.  his                 | Impact: 0.007563
+10.  wife                | Impact: 0.007563
+11.  and                 | Impact: 0.007563
+12.  private             | Impact: 0.007344
+13.  telephone           | Impact: 0.007344
+14.  locate              | Impact: 0.007137
+15.  any                 | Impact: 0.007137
+16.  of                  | Impact: 0.007137
+17.  to                  | Impact: 0.007137
+18.  your                | Impact: 0.007137
+19.  embassy             | Impact: 0.007137
+20.  to                  | Impact: 0.007137
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.000751
+ 2.  -                   | Impact: -0.000751
+ 3.  -                   | Impact: -0.000751
+ 4.  -                   | Impact: -0.000751
+ 5.  -                   | Impact: -0.000751
+ 6.  -                   | Impact: -0.000751
+ 7.  -                   | Impact: -0.000751
+ 8.  -                   | Impact: -0.000751
+ 9.  -                   | Impact: -0.000751
+10.  con                 | Impact: -0.000751
+11.  yahoo               | Impact: -0.000751
+12.  !                   | Impact: -0.000751
+13.  with                | Impact: -0.000648
+14.  the                 | Impact: -0.000648
+15.  transaction         | Impact: -0.000648
+16.  and                 | Impact: -0.000648
+17.  also                | Impact: -0.000648
+18.  forward             | Impact: -0.000648
+19.  to                  | Impact: -0.000648
+20.  me                  | Impact: -0.000648

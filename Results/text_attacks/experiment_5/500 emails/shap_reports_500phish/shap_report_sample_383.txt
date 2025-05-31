@@ -1,0 +1,75 @@
+Sample 383
+==========
+
+Sample text preview: FROM THE DESK OF MR. MUSTAFA JOSEPH BILL AND EXCHANGE MANAGER AFRICAN DEVELOPMENT BANK OUAGADOUGOU, BURKINA FASO I AM THE MANAGER OF BILL AND EXCHANGE...
+
+Model prediction: [1.8886822e-04 9.9981111e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  and                 | Impact: 0.007859 → PHISHING
+ 2.  exchange            | Impact: 0.007859 → PHISHING
+ 3.  manager             | Impact: 0.007859 → PHISHING
+ 4.  african             | Impact: 0.007859 → PHISHING
+ 5.  development         | Impact: 0.007859 → PHISHING
+ 6.  bank                | Impact: 0.007859 → PHISHING
+ 7.  of                  | Impact: 0.006735 → PHISHING
+ 8.  mr                  | Impact: 0.006735 → PHISHING
+ 9.  mustafa             | Impact: 0.006217 → PHISHING
+10.  joseph              | Impact: 0.006217 → PHISHING
+11.  bill                | Impact: 0.006217 → PHISHING
+12.  your                | Impact: 0.005787 → PHISHING
+13.  bank                | Impact: 0.005787 → PHISHING
+14.  foreign             | Impact: 0.005689 → PHISHING
+15.  customer            | Impact: 0.005689 → PHISHING
+16.  who                 | Impact: 0.005689 → PHISHING
+17.  died                | Impact: 0.005689 → PHISHING
+18.  discovered          | Impact: 0.005077 → PHISHING
+19.  an                  | Impact: 0.005077 → PHISHING
+20.  account             | Impact: 0.004829 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  and                 | Impact: 0.007859
+ 2.  exchange            | Impact: 0.007859
+ 3.  manager             | Impact: 0.007859
+ 4.  african             | Impact: 0.007859
+ 5.  development         | Impact: 0.007859
+ 6.  bank                | Impact: 0.007859
+ 7.  of                  | Impact: 0.006735
+ 8.  mr                  | Impact: 0.006735
+ 9.  mustafa             | Impact: 0.006217
+10.  joseph              | Impact: 0.006217
+11.  bill                | Impact: 0.006217
+12.  your                | Impact: 0.005787
+13.  bank                | Impact: 0.005787
+14.  foreign             | Impact: 0.005689
+15.  customer            | Impact: 0.005689
+16.  who                 | Impact: 0.005689
+17.  died                | Impact: 0.005689
+18.  discovered          | Impact: 0.005077
+19.  an                  | Impact: 0.005077
+20.  account             | Impact: 0.004829
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.000394
+ 2.  banking             | Impact: -0.000394
+ 3.  law                 | Impact: -0.000394
+ 4.  and                 | Impact: -0.000394
+ 5.  guide               | Impact: -0.000394
+ 6. line                 | Impact: -0.000394
+ 7.  here                | Impact: -0.000394
+ 8.  st                  | Impact: -0.000394
+ 9. ip                   | Impact: -0.000394
+10. ulates               | Impact: -0.000394
+11.  that                | Impact: -0.000394
+12.  if                  | Impact: -0.000394
+13.  treasury            | Impact: -0.000125
+14.  as                  | Impact: -0.000125
+15.  bill                | Impact: -0.000125
+16.  .                   | Impact: -0.000125
+17.  un                  | Impact: -0.000125
+18. claim                | Impact: -0.000125
+19. ed                   | Impact: -0.000125
+20.  it                  | Impact: -0.000106

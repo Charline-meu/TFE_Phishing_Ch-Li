@@ -1,0 +1,75 @@
+Sample 422
+==========
+
+Sample text preview: "Steve Thomas" said: > I created a user (honeypot) and set up an alias to it. Then I added a > 'hidden' (font color same as background color) link to ...
+
+Model prediction: [9.9979109e-01 2.0890239e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  alias               | Impact: 0.023141 → PHISHING
+ 2.  >                   | Impact: -0.019144 → LEGITIMATE
+ 3.  :                   | Impact: -0.014077 → LEGITIMATE
+ 4.  platform            | Impact: -0.010033 → LEGITIMATE
+ 5.  "                   | Impact: -0.008773 → LEGITIMATE
+ 6.  said                | Impact: -0.008698 → LEGITIMATE
+ 7.  level               | Impact: -0.006619 → LEGITIMATE
+ 8.  it                  | Impact: -0.005773 → LEGITIMATE
+ 9.  time                | Impact: -0.005247 → LEGITIMATE
+10.  communications      | Impact: -0.005247 → LEGITIMATE
+11.  viruses             | Impact: -0.004925 → LEGITIMATE
+12.                      | Impact: -0.004115 → LEGITIMATE
+13.  "                   | Impact: -0.004115 → LEGITIMATE
+14.  (                   | Impact: 0.003915 → PHISHING
+15.  some                | Impact: -0.003430 → LEGITIMATE
+16.  viruses             | Impact: -0.003430 → LEGITIMATE
+17.  >                   | Impact: -0.003078 → LEGITIMATE
+18.  which               | Impact: -0.003078 → LEGITIMATE
+19.  by                  | Impact: -0.002959 → LEGITIMATE
+20.  :                   | Impact: -0.002959 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  alias               | Impact: 0.023141
+ 2.  (                   | Impact: 0.003915
+ 3.  !                   | Impact: 0.002891
+ 4.  and                 | Impact: 0.001318
+ 5.  honey               | Impact: 0.001218
+ 6. pot                  | Impact: 0.001218
+ 7.  )                   | Impact: 0.001218
+ 8.  an                  | Impact: 0.000686
+ 9.  (                   | Impact: 0.000329
+10.  sir                 | Impact: 0.000329
+11. cam                  | Impact: 0.000329
+12.  )                   | Impact: 0.000329
+13.  ,                   | Impact: 0.000261
+14.  i                   | Impact: 0.000125
+15.  created             | Impact: 0.000125
+16.  a                   | Impact: 0.000125
+17.  user                | Impact: 0.000125
+18.  i                   | Impact: 0.000088
+19.  set                 | Impact: 0.000088
+20.  this                | Impact: 0.000088
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.019144
+ 2.  :                   | Impact: -0.014077
+ 3.  platform            | Impact: -0.010033
+ 4.  "                   | Impact: -0.008773
+ 5.  said                | Impact: -0.008698
+ 6.  level               | Impact: -0.006619
+ 7.  it                  | Impact: -0.005773
+ 8.  time                | Impact: -0.005247
+ 9.  communications      | Impact: -0.005247
+10.  viruses             | Impact: -0.004925
+11.                      | Impact: -0.004115
+12.  "                   | Impact: -0.004115
+13.  some                | Impact: -0.003430
+14.  viruses             | Impact: -0.003430
+15.  >                   | Impact: -0.003078
+16.  which               | Impact: -0.003078
+17.  by                  | Impact: -0.002959
+18.  :                   | Impact: -0.002959
+19.  ja                  | Impact: -0.002959
+20. bber                 | Impact: -0.002959

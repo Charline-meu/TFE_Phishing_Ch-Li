@@ -1,0 +1,75 @@
+Sample 147
+==========
+
+Sample text preview: Special situation trading Advisory Dear Valued subscribers, We sometimes approach our analysts for their thoughts on emerging market sectors we're int...
+
+Model prediction: [0.00831437 0.9916856 ]
+Predicted class: PHISHING with 0.9917 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.244741 → PHISHING
+ 2.  another             | Impact: 0.067633 → PHISHING
+ 3.  info                | Impact: 0.061248 → PHISHING
+ 4.  gained              | Impact: 0.060929 → PHISHING
+ 5.  remember            | Impact: 0.049664 → PHISHING
+ 6.  :                   | Impact: -0.043461 → LEGITIMATE
+ 7.  itself              | Impact: 0.043095 → PHISHING
+ 8.  we                  | Impact: 0.043091 → PHISHING
+ 9.  are                 | Impact: 0.042175 → PHISHING
+10.  happy               | Impact: 0.042175 → PHISHING
+11.  huge                | Impact: 0.041376 → PHISHING
+12.  upside              | Impact: 0.041376 → PHISHING
+13.  for                 | Impact: 0.039638 → PHISHING
+14.  more                | Impact: 0.034076 → PHISHING
+15.  potential           | Impact: 0.029222 → PHISHING
+16.  we                  | Impact: 0.029222 → PHISHING
+17.  situation           | Impact: 0.026418 → PHISHING
+18.  with                | Impact: 0.026418 → PHISHING
+19.  will                | Impact: 0.021706 → PHISHING
+20.  everyone            | Impact: 0.020556 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.244741
+ 2.  another             | Impact: 0.067633
+ 3.  info                | Impact: 0.061248
+ 4.  gained              | Impact: 0.060929
+ 5.  remember            | Impact: 0.049664
+ 6.  itself              | Impact: 0.043095
+ 7.  we                  | Impact: 0.043091
+ 8.  are                 | Impact: 0.042175
+ 9.  happy               | Impact: 0.042175
+10.  huge                | Impact: 0.041376
+11.  upside              | Impact: 0.041376
+12.  for                 | Impact: 0.039638
+13.  more                | Impact: 0.034076
+14.  potential           | Impact: 0.029222
+15.  we                  | Impact: 0.029222
+16.  situation           | Impact: 0.026418
+17.  with                | Impact: 0.026418
+18.  will                | Impact: 0.021706
+19.  everyone            | Impact: 0.020556
+20.  to                  | Impact: 0.019113
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.043461
+ 2.  i                   | Impact: -0.011471
+ 3.  should              | Impact: -0.011471
+ 4.  be                  | Impact: -0.009244
+ 5.  saying              | Impact: -0.009244
+ 6.  track               | Impact: -0.009204
+ 7.  we                  | Impact: -0.009079
+ 8.  look                | Impact: -0.009079
+ 9.  situation           | Impact: -0.008794
+10.  that                | Impact: -0.008698
+11.  when                | Impact: -0.008698
+12.  record              | Impact: -0.008067
+13.  analysts            | Impact: -0.004640
+14.  for                 | Impact: -0.004640
+15.  their               | Impact: -0.004640
+16.  thoughts            | Impact: -0.004640
+17.  you                 | Impact: -0.004088
+18.  trading             | Impact: -0.003747
+19.  speaks              | Impact: -0.003415
+20.  for                 | Impact: -0.003415

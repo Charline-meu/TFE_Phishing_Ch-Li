@@ -1,0 +1,75 @@
+Sample 491
+==========
+
+Sample text preview: Let me know when you want to talk. SS ---------------------- Forwarded by Sara Shackleton/HOU/ECT on // : AM --------------------------- Paul Wallace ...
+
+Model prediction: [9.997092e-01 2.907942e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  company             | Impact: 0.010506 → PHISHING
+ 2. z                    | Impact: -0.009522 → LEGITIMATE
+ 3. z                    | Impact: -0.008850 → LEGITIMATE
+ 4.  e                   | Impact: -0.008392 → LEGITIMATE
+ 5.  hi                  | Impact: 0.007745 → PHISHING
+ 6.  dale                | Impact: 0.007745 → PHISHING
+ 7.  ina                 | Impact: 0.006711 → PHISHING
+ 8. pa                   | Impact: 0.006711 → PHISHING
+ 9.  e                   | Impact: -0.006650 → LEGITIMATE
+10.  contract            | Impact: 0.006554 → PHISHING
+11.  ec                  | Impact: -0.006191 → LEGITIMATE
+12. t                    | Impact: -0.006191 → LEGITIMATE
+13.  .                   | Impact: -0.006012 → LEGITIMATE
+14.  counter             | Impact: -0.005802 → LEGITIMATE
+15.  above               | Impact: -0.005770 → LEGITIMATE
+16.  &                   | Impact: 0.005689 → PHISHING
+17.  return              | Impact: 0.005689 → PHISHING
+18.  subject             | Impact: -0.004861 → LEGITIMATE
+19.  :                   | Impact: -0.004861 → LEGITIMATE
+20.  you                 | Impact: -0.004573 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  company             | Impact: 0.010506
+ 2.  hi                  | Impact: 0.007745
+ 3.  dale                | Impact: 0.007745
+ 4.  ina                 | Impact: 0.006711
+ 5. pa                   | Impact: 0.006711
+ 6.  contract            | Impact: 0.006554
+ 7.  &                   | Impact: 0.005689
+ 8.  return              | Impact: 0.005689
+ 9.  signed              | Impact: 0.004243
+10.  contract            | Impact: 0.004243
+11.  will                | Impact: 0.004143
+12.  sign                | Impact: 0.004143
+13.  paul                | Impact: 0.002940
+14.                      | Impact: 0.002940
+15.  ,                   | Impact: 0.002781
+16.  with                | Impact: 0.002128
+17.  pa                  | Impact: 0.002128
+18. pe                   | Impact: 0.002128
+19. is                   | Impact: 0.002128
+20.  to                  | Impact: 0.001963
+
+Top features pushing towards LEGITIMATE classification:
+ 1. z                    | Impact: -0.009522
+ 2. z                    | Impact: -0.008850
+ 3.  e                   | Impact: -0.008392
+ 4.  e                   | Impact: -0.006650
+ 5.  ec                  | Impact: -0.006191
+ 6. t                    | Impact: -0.006191
+ 7.  .                   | Impact: -0.006012
+ 8.  counter             | Impact: -0.005802
+ 9.  above               | Impact: -0.005770
+10.  subject             | Impact: -0.004861
+11.  :                   | Impact: -0.004861
+12.  you                 | Impact: -0.004573
+13.  issue               | Impact: -0.004573
+14.  ec                  | Impact: -0.003308
+15. t                    | Impact: -0.003308
+16.  /                   | Impact: -0.002833
+17.  /                   | Impact: -0.002833
+18.  ec                  | Impact: -0.002698
+19. t                    | Impact: -0.002698
+20.  :                   | Impact: -0.002689

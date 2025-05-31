@@ -1,0 +1,75 @@
+Sample 443
+==========
+
+Sample text preview: URGENT AND CONFIDENTIAL: RE: TRANSFER OF [$,.. USD. THIRTEEN MILLION FIVE HUNDRED THOUSAND UNITED STATES DOLLARS WE WANT TO TRANSFER TO OVERSEAS [$,.....
+
+Model prediction: [1.7265089e-04 9.9982733e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.010439 → PHISHING
+ 2.  as                  | Impact: 0.010439 → PHISHING
+ 3.  a                   | Impact: 0.010439 → PHISHING
+ 4.  foreigner           | Impact: 0.010439 → PHISHING
+ 5.  arrival             | Impact: 0.010060 → PHISHING
+ 6.  in                  | Impact: 0.010060 → PHISHING
+ 7.  your                | Impact: 0.010060 → PHISHING
+ 8.  country             | Impact: 0.010060 → PHISHING
+ 9.  this                | Impact: 0.008170 → PHISHING
+10.  money               | Impact: 0.008170 → PHISHING
+11.  will                | Impact: 0.008170 → PHISHING
+12.  be                  | Impact: 0.008170 → PHISHING
+13.  for                 | Impact: 0.007712 → PHISHING
+14.  sharing             | Impact: 0.007712 → PHISHING
+15.  and                 | Impact: 0.007712 → PHISHING
+16.  when                | Impact: 0.006570 → PHISHING
+17.  we                  | Impact: 0.006570 → PHISHING
+18.  meet                | Impact: 0.006570 → PHISHING
+19.  that                | Impact: 0.006570 → PHISHING
+20.  intact              | Impact: 0.005510 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.010439
+ 2.  as                  | Impact: 0.010439
+ 3.  a                   | Impact: 0.010439
+ 4.  foreigner           | Impact: 0.010439
+ 5.  arrival             | Impact: 0.010060
+ 6.  in                  | Impact: 0.010060
+ 7.  your                | Impact: 0.010060
+ 8.  country             | Impact: 0.010060
+ 9.  this                | Impact: 0.008170
+10.  money               | Impact: 0.008170
+11.  will                | Impact: 0.008170
+12.  be                  | Impact: 0.008170
+13.  for                 | Impact: 0.007712
+14.  sharing             | Impact: 0.007712
+15.  and                 | Impact: 0.007712
+16.  when                | Impact: 0.006570
+17.  we                  | Impact: 0.006570
+18.  meet                | Impact: 0.006570
+19.  that                | Impact: 0.006570
+20.  intact              | Impact: 0.005510
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  during              | Impact: -0.000364
+ 2.  the                 | Impact: -0.000364
+ 3.  course              | Impact: -0.000364
+ 4.  of                  | Impact: -0.000364
+ 5.  our                 | Impact: -0.000364
+ 6.  audit               | Impact: -0.000364
+ 7. ing                  | Impact: -0.000364
+ 8.  i                   | Impact: -0.000364
+ 9.  discovered          | Impact: -0.000364
+10.  a                   | Impact: -0.000364
+11.  floating            | Impact: -0.000364
+12.  fund                | Impact: -0.000364
+13.  in                  | Impact: -0.000364
+14.  according           | Impact: -0.000275
+15.  to                  | Impact: -0.000275
+16.  laws                | Impact: -0.000275
+17.  of                  | Impact: -0.000275
+18.  south               | Impact: -0.000275
+19.  africa              | Impact: -0.000275
+20.  ,                   | Impact: -0.000275

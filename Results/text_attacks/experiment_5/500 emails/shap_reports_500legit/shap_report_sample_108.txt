@@ -1,0 +1,75 @@
+Sample 108
+==========
+
+Sample text preview: The attached file contains our daily volume requirements for / and / the following day(s) as listed . There are three worksheets labelled as follows: ...
+
+Model prediction: [9.9979621e-01 2.0383511e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.001227 → LEGITIMATE
+ 2. ron                  | Impact: -0.001227 → LEGITIMATE
+ 3.  en                  | Impact: -0.000947 → LEGITIMATE
+ 4. ron                  | Impact: -0.000902 → LEGITIMATE
+ 5.  items               | Impact: -0.000731 → LEGITIMATE
+ 6.  en                  | Impact: -0.000711 → LEGITIMATE
+ 7. ron                  | Impact: -0.000711 → LEGITIMATE
+ 8.  comments            | Impact: -0.000691 → LEGITIMATE
+ 9.  selected            | Impact: -0.000678 → LEGITIMATE
+10.  the                 | Impact: -0.000650 → LEGITIMATE
+11.  xl                  | Impact: -0.000635 → LEGITIMATE
+12. s                    | Impact: -0.000635 → LEGITIMATE
+13.  daily               | Impact: -0.000633 → LEGITIMATE
+14.  ph                  | Impact: -0.000618 → LEGITIMATE
+15.  :                   | Impact: -0.000618 → LEGITIMATE
+16.  :                   | Impact: -0.000600 → LEGITIMATE
+17.  contains            | Impact: -0.000600 → LEGITIMATE
+18.  swing               | Impact: -0.000573 → LEGITIMATE
+19.  volumes             | Impact: -0.000573 → LEGITIMATE
+20.  comments            | Impact: -0.000546 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  further             | Impact: 0.000260
+ 2.  notice              | Impact: 0.000260
+ 3.  .                   | Impact: 0.000201
+ 4.  and                 | Impact: 0.000094
+ 5.  should              | Impact: 0.000094
+ 6.  be                  | Impact: 0.000094
+ 7.  ignored             | Impact: 0.000094
+ 8.  until               | Impact: 0.000094
+ 9.  ,                   | Impact: 0.000080
+10.  )                   | Impact: 0.000064
+11.  exceeding           | Impact: 0.000061
+12.  these               | Impact: 0.000061
+13.  magnitude           | Impact: 0.000061
+14. s                    | Impact: 0.000061
+15.  or                  | Impact: 0.000061
+16.  .                   | Impact: 0.000034
+17.  to                  | Impact: 0.000027
+18.  check               | Impact: 0.000027
+19.  this                | Impact: 0.000027
+20.  sheet               | Impact: 0.000027
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.001227
+ 2. ron                  | Impact: -0.001227
+ 3.  en                  | Impact: -0.000947
+ 4. ron                  | Impact: -0.000902
+ 5.  items               | Impact: -0.000731
+ 6.  en                  | Impact: -0.000711
+ 7. ron                  | Impact: -0.000711
+ 8.  comments            | Impact: -0.000691
+ 9.  selected            | Impact: -0.000678
+10.  the                 | Impact: -0.000650
+11.  xl                  | Impact: -0.000635
+12. s                    | Impact: -0.000635
+13.  daily               | Impact: -0.000633
+14.  ph                  | Impact: -0.000618
+15.  :                   | Impact: -0.000618
+16.  :                   | Impact: -0.000600
+17.  contains            | Impact: -0.000600
+18.  swing               | Impact: -0.000573
+19.  volumes             | Impact: -0.000573
+20.  comments            | Impact: -0.000546

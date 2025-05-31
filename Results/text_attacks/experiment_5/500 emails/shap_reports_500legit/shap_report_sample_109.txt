@@ -1,0 +1,75 @@
+Sample 109
+==========
+
+Sample text preview: On Mon, -- at :, Matthias Saou wrote: > Once upon a time, Alvie wrote : > > > Thanks, I seem to be having problems with rebuilding transcode from SRC ...
+
+Model prediction: [9.9976856e-01 2.3148107e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.000474 → LEGITIMATE
+ 2.  -                   | Impact: -0.000474 → LEGITIMATE
+ 3.  rebuild             | Impact: -0.000474 → LEGITIMATE
+ 4.  -                   | Impact: -0.000474 → LEGITIMATE
+ 5.  av                  | Impact: -0.000346 → LEGITIMATE
+ 6. m                    | Impact: -0.000346 → LEGITIMATE
+ 7.  _                   | Impact: -0.000346 → LEGITIMATE
+ 8.  wave                | Impact: -0.000346 → LEGITIMATE
+ 9.  _                   | Impact: -0.000346 → LEGITIMATE
+10.  format              | Impact: -0.000346 → LEGITIMATE
+11.  _                   | Impact: -0.000346 → LEGITIMATE
+12.  trans               | Impact: -0.000329 → LEGITIMATE
+13. code                 | Impact: -0.000329 → LEGITIMATE
+14.  from                | Impact: -0.000329 → LEGITIMATE
+15.  >                   | Impact: -0.000317 → LEGITIMATE
+16.  >                   | Impact: -0.000317 → LEGITIMATE
+17.  could               | Impact: -0.000317 → LEGITIMATE
+18.  you                 | Impact: -0.000317 → LEGITIMATE
+19.  >                   | Impact: -0.000313 → LEGITIMATE
+20.  >                   | Impact: -0.000313 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  name                | Impact: 0.000075
+ 2.  '                   | Impact: 0.000075
+ 3.  was                 | Impact: 0.000075
+ 4.  not                 | Impact: 0.000075
+ 5.  declared            | Impact: 0.000075
+ 6.  in                  | Impact: 0.000075
+ 7.  this                | Impact: 0.000075
+ 8.  scope               | Impact: 0.000075
+ 9.  -                   | Impact: 0.000068
+10.  without             | Impact: 0.000068
+11.  av                  | Impact: 0.000068
+12. if                   | Impact: 0.000068
+13. ile                  | Impact: 0.000068
+14.  trans               | Impact: 0.000068
+15. code                 | Impact: 0.000068
+16.  .                   | Impact: 0.000068
+17.  gives               | Impact: 0.000023
+18.  up                  | Impact: 0.000023
+19.  .                   | Impact: 0.000023
+20.  name                | Impact: 0.000001
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.000474
+ 2.  -                   | Impact: -0.000474
+ 3.  rebuild             | Impact: -0.000474
+ 4.  -                   | Impact: -0.000474
+ 5.  av                  | Impact: -0.000346
+ 6. m                    | Impact: -0.000346
+ 7.  _                   | Impact: -0.000346
+ 8.  wave                | Impact: -0.000346
+ 9.  _                   | Impact: -0.000346
+10.  format              | Impact: -0.000346
+11.  _                   | Impact: -0.000346
+12.  trans               | Impact: -0.000329
+13. code                 | Impact: -0.000329
+14.  from                | Impact: -0.000329
+15.  >                   | Impact: -0.000317
+16.  >                   | Impact: -0.000317
+17.  could               | Impact: -0.000317
+18.  you                 | Impact: -0.000317
+19.  >                   | Impact: -0.000313
+20.  >                   | Impact: -0.000313

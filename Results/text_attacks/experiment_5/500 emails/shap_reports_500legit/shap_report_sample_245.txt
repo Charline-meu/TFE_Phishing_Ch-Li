@@ -1,0 +1,75 @@
+Sample 245
+==========
+
+Sample text preview: . don't know. some industrial shutdown is not gas price dependent. some will not come back at the same prices it went off. residential conservation i ...
+
+Model prediction: [9.9979490e-01 2.0509565e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  commodity           | Impact: -0.009058 → LEGITIMATE
+ 2.  .                   | Impact: -0.003275 → LEGITIMATE
+ 3.  perspective         | Impact: -0.003129 → LEGITIMATE
+ 4.  relationships       | Impact: -0.002822 → LEGITIMATE
+ 5.  shut                | Impact: -0.002778 → LEGITIMATE
+ 6. down                 | Impact: -0.002778 → LEGITIMATE
+ 7.  -                   | Impact: -0.002771 → LEGITIMATE
+ 8.  is                  | Impact: -0.002720 → LEGITIMATE
+ 9.  not                 | Impact: -0.002720 → LEGITIMATE
+10.  the                 | Impact: -0.002631 → LEGITIMATE
+11.  numbers             | Impact: -0.002631 → LEGITIMATE
+12.  that                | Impact: -0.002377 → LEGITIMATE
+13.  is                  | Impact: -0.002377 → LEGITIMATE
+14.  a                   | Impact: -0.002326 → LEGITIMATE
+15.  $                   | Impact: -0.002326 → LEGITIMATE
+16.  conservation        | Impact: -0.002262 → LEGITIMATE
+17.  itself              | Impact: -0.002262 → LEGITIMATE
+18.  as                  | Impact: -0.002262 → LEGITIMATE
+19.  gas                 | Impact: -0.002191 → LEGITIMATE
+20.  price               | Impact: -0.002191 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  and                 | Impact: 0.001152
+ 2.  and                 | Impact: 0.001009
+ 3.  @                   | Impact: 0.000954
+ 4.  ?                   | Impact: 0.000788
+ 5.  don                 | Impact: 0.000694
+ 6.  '                   | Impact: 0.000694
+ 7.  t                   | Impact: 0.000694
+ 8.  will                | Impact: 0.000358
+ 9.  not                 | Impact: 0.000358
+10.  come                | Impact: 0.000358
+11.  back                | Impact: 0.000358
+12.  know                | Impact: 0.000323
+13.  .                   | Impact: 0.000323
+14.  is                  | Impact: 0.000156
+15.  easy                | Impact: 0.000156
+16.  and                 | Impact: 0.000156
+17.  that                | Impact: 0.000156
+18.  world               | Impact: 0.000156
+19.  did                 | Impact: 0.000156
+20.  not                 | Impact: 0.000156
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  commodity           | Impact: -0.009058
+ 2.  .                   | Impact: -0.003275
+ 3.  perspective         | Impact: -0.003129
+ 4.  relationships       | Impact: -0.002822
+ 5.  shut                | Impact: -0.002778
+ 6. down                 | Impact: -0.002778
+ 7.  -                   | Impact: -0.002771
+ 8.  is                  | Impact: -0.002720
+ 9.  not                 | Impact: -0.002720
+10.  the                 | Impact: -0.002631
+11.  numbers             | Impact: -0.002631
+12.  that                | Impact: -0.002377
+13.  is                  | Impact: -0.002377
+14.  a                   | Impact: -0.002326
+15.  $                   | Impact: -0.002326
+16.  conservation        | Impact: -0.002262
+17.  itself              | Impact: -0.002262
+18.  as                  | Impact: -0.002262
+19.  gas                 | Impact: -0.002191
+20.  price               | Impact: -0.002191

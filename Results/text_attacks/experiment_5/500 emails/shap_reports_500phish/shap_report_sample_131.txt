@@ -1,0 +1,75 @@
+Sample 131
+==========
+
+Sample text preview: webmail The last time you logged in to your e-mail account: We detected something unusual about a recent sign-in to your e-mail. We need to learn more...
+
+Model prediction: [2.812130e-04 9.997187e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.184832 → PHISHING
+ 2.  account             | Impact: 0.164391 → PHISHING
+ 3. mail                 | Impact: 0.069740 → PHISHING
+ 4. ©                    | Impact: 0.055489 → PHISHING
+ 5.  account             | Impact: 0.053433 → PHISHING
+ 6.  web                 | Impact: 0.047744 → PHISHING
+ 7.  copyright           | Impact: -0.029906 → LEGITIMATE
+ 8.  mail                | Impact: 0.029844 → PHISHING
+ 9.  your                | Impact: 0.029680 → PHISHING
+10.  to                  | Impact: 0.024448 → PHISHING
+11.  protect             | Impact: 0.024448 → PHISHING
+12.  access              | Impact: 0.020515 → PHISHING
+13.  take                | Impact: 0.012045 → PHISHING
+14.  follow              | Impact: 0.011792 → PHISHING
+15.  .                   | Impact: 0.011691 → PHISHING
+16.  -                   | Impact: 0.011248 → PHISHING
+17.  enable              | Impact: 0.011248 → PHISHING
+18.  a                   | Impact: 0.011160 → PHISHING
+19.  unique              | Impact: 0.011160 → PHISHING
+20.  inc                 | Impact: 0.010798 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.184832
+ 2.  account             | Impact: 0.164391
+ 3. mail                 | Impact: 0.069740
+ 4. ©                    | Impact: 0.055489
+ 5.  account             | Impact: 0.053433
+ 6.  web                 | Impact: 0.047744
+ 7.  mail                | Impact: 0.029844
+ 8.  your                | Impact: 0.029680
+ 9.  to                  | Impact: 0.024448
+10.  protect             | Impact: 0.024448
+11.  access              | Impact: 0.020515
+12.  take                | Impact: 0.012045
+13.  follow              | Impact: 0.011792
+14.  .                   | Impact: 0.011691
+15.  -                   | Impact: 0.011248
+16.  enable              | Impact: 0.011248
+17.  a                   | Impact: 0.011160
+18.  unique              | Impact: 0.011160
+19.  inc                 | Impact: 0.010798
+20.  to                  | Impact: 0.009782
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  copyright           | Impact: -0.029906
+ 2.  [                   | Impact: -0.009564
+ 3.  review              | Impact: -0.009564
+ 4.  )                   | Impact: -0.006759
+ 5.  recent              | Impact: -0.005950
+ 6.  activity            | Impact: -0.005950
+ 7.  ]                   | Impact: -0.005950
+ 8.  (                   | Impact: -0.004058
+ 9.  :                   | Impact: -0.003921
+10.  unusual             | Impact: -0.003475
+11.  .                   | Impact: -0.003096
+12.  time                | Impact: -0.002968
+13.  you                 | Impact: -0.002968
+14.  cp                  | Impact: -0.002236
+15.  .                   | Impact: -0.002129
+16.  about               | Impact: -0.001403
+17.  .                   | Impact: -0.000909
+18.  cp                  | Impact: -0.000887
+19. ane                  | Impact: -0.000887
+20. l                    | Impact: -0.000887

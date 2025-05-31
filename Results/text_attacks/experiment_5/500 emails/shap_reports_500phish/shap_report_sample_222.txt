@@ -1,0 +1,75 @@
+Sample 222
+==========
+
+Sample text preview: As list administrator, your authorization is requested for the following mailing list posting: List: From: Subject: PRIVATE MATTER Reason: Post by non...
+
+Model prediction: [1.8338475e-04 9.9981660e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  best                | Impact: 0.014055 → PHISHING
+ 2.  regards             | Impact: 0.014055 → PHISHING
+ 3.  you                 | Impact: 0.013814 → PHISHING
+ 4.  as                  | Impact: 0.013814 → PHISHING
+ 5.  our                 | Impact: 0.012154 → PHISHING
+ 6.  payment             | Impact: 0.012154 → PHISHING
+ 7.  officer             | Impact: 0.012154 → PHISHING
+ 8.  payments            | Impact: 0.011631 → PHISHING
+ 9.  through             | Impact: 0.011631 → PHISHING
+10.  your                | Impact: 0.011337 → PHISHING
+11.  country             | Impact: 0.011337 → PHISHING
+12.  dear                | Impact: 0.009639 → PHISHING
+13.  friend              | Impact: 0.009639 → PHISHING
+14.  ,                   | Impact: 0.009639 → PHISHING
+15.  your                | Impact: 0.009518 → PHISHING
+16.  authorization       | Impact: 0.009518 → PHISHING
+17.  .                   | Impact: 0.008218 → PHISHING
+18.  representative      | Impact: 0.008097 → PHISHING
+19.  in                  | Impact: 0.008097 → PHISHING
+20.  sc                  | Impact: 0.007889 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  best                | Impact: 0.014055
+ 2.  regards             | Impact: 0.014055
+ 3.  you                 | Impact: 0.013814
+ 4.  as                  | Impact: 0.013814
+ 5.  our                 | Impact: 0.012154
+ 6.  payment             | Impact: 0.012154
+ 7.  officer             | Impact: 0.012154
+ 8.  payments            | Impact: 0.011631
+ 9.  through             | Impact: 0.011631
+10.  your                | Impact: 0.011337
+11.  country             | Impact: 0.011337
+12.  dear                | Impact: 0.009639
+13.  friend              | Impact: 0.009639
+14.  ,                   | Impact: 0.009639
+15.  your                | Impact: 0.009518
+16.  authorization       | Impact: 0.009518
+17.  .                   | Impact: 0.008218
+18.  representative      | Impact: 0.008097
+19.  in                  | Impact: 0.008097
+20.  sc                  | Impact: 0.007889
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  london              | Impact: -0.004437
+ 2.  england             | Impact: -0.004437
+ 3.  _                   | Impact: -0.004437
+ 4.  _                   | Impact: -0.004437
+ 5.  _                   | Impact: -0.002226
+ 6.  _                   | Impact: -0.002226
+ 7.  _                   | Impact: -0.002226
+ 8.  _                   | Impact: -0.002226
+ 9.  header              | Impact: -0.002163
+10.  with                | Impact: -0.002163
+11.  the                 | Impact: -0.002163
+12.  list                | Impact: -0.002163
+13.  include             | Impact: -0.002102
+14.  an                  | Impact: -0.002102
+15.  approved            | Impact: -0.002102
+16.  :                   | Impact: -0.002102
+17.  the                 | Impact: -0.001749
+18.  approved            | Impact: -0.001749
+19.  :                   | Impact: -0.001749
+20.  header              | Impact: -0.001749

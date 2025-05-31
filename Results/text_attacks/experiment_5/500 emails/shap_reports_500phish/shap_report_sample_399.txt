@@ -1,0 +1,55 @@
+Sample 399
+==========
+
+Sample text preview: Att I greet you in the name of our lord. My name is MRS ROSELINE MULEKO, I am a widow and a mother of Two all girls. I know you will see my letter to ...
+
+Model prediction: [1.7545374e-04 9.9982458e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  beloved             | Impact: 0.009451 → PHISHING
+ 2.  husband             | Impact: 0.009451 → PHISHING
+ 3.  husband             | Impact: 0.008393 → PHISHING
+ 4.  was                 | Impact: 0.008393 → PHISHING
+ 5.  africa              | Impact: 0.007536 → PHISHING
+ 6.  with                | Impact: 0.007536 → PHISHING
+ 7.  my                  | Impact: 0.007536 → PHISHING
+ 8.  children            | Impact: 0.007536 → PHISHING
+ 9.  father              | Impact: 0.006490 → PHISHING
+10.  of                  | Impact: 0.006490 → PHISHING
+11.  my                  | Impact: 0.006490 → PHISHING
+12.  daughters           | Impact: 0.006490 → PHISHING
+13.  ,                   | Impact: 0.006490 → PHISHING
+14.  re                  | Impact: 0.006315 → PHISHING
+15. mit                  | Impact: 0.006315 → PHISHING
+16.  this                | Impact: 0.006315 → PHISHING
+17.  money               | Impact: 0.006315 → PHISHING
+18.  my                  | Impact: 0.005934 → PHISHING
+19.  late                | Impact: 0.005934 → PHISHING
+20.  male                | Impact: 0.005371 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  beloved             | Impact: 0.009451
+ 2.  husband             | Impact: 0.009451
+ 3.  husband             | Impact: 0.008393
+ 4.  was                 | Impact: 0.008393
+ 5.  africa              | Impact: 0.007536
+ 6.  with                | Impact: 0.007536
+ 7.  my                  | Impact: 0.007536
+ 8.  children            | Impact: 0.007536
+ 9.  father              | Impact: 0.006490
+10.  of                  | Impact: 0.006490
+11.  my                  | Impact: 0.006490
+12.  daughters           | Impact: 0.006490
+13.  ,                   | Impact: 0.006490
+14.  re                  | Impact: 0.006315
+15. mit                  | Impact: 0.006315
+16.  this                | Impact: 0.006315
+17.  money               | Impact: 0.006315
+18.  my                  | Impact: 0.005934
+19.  late                | Impact: 0.005934
+20.  male                | Impact: 0.005371
+
+Top features pushing towards LEGITIMATE classification:

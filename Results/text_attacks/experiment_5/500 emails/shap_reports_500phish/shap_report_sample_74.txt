@@ -1,0 +1,75 @@
+Sample 74
+=========
+
+Sample text preview: To remove see below. I work with a company that submits web sites to search engines and saw your listing on the internet. We can submit your site twic...
+
+Model prediction: [2.0698278e-04 9.9979299e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.095603 → PHISHING
+ 2.  your                | Impact: 0.074451 → PHISHING
+ 3.  you                 | Impact: 0.052824 → PHISHING
+ 4.  site                | Impact: 0.050412 → PHISHING
+ 5.  your                | Impact: 0.049630 → PHISHING
+ 6.  free                | Impact: 0.049435 → PHISHING
+ 7.  web                 | Impact: 0.048418 → PHISHING
+ 8.  submit              | Impact: 0.043896 → PHISHING
+ 9.  mail                | Impact: 0.043326 → PHISHING
+10.  search              | Impact: 0.034412 → PHISHING
+11.  number              | Impact: 0.033145 → PHISHING
+12.  !                   | Impact: 0.029873 → PHISHING
+13.  below               | Impact: 0.028951 → PHISHING
+14.  toll                | Impact: 0.026103 → PHISHING
+15.  site                | Impact: 0.025576 → PHISHING
+16.  listing             | Impact: 0.025511 → PHISHING
+17.  company             | Impact: 0.020848 → PHISHING
+18.  search              | Impact: 0.018650 → PHISHING
+19.  web                 | Impact: 0.016627 → PHISHING
+20.  our                 | Impact: 0.014141 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.095603
+ 2.  your                | Impact: 0.074451
+ 3.  you                 | Impact: 0.052824
+ 4.  site                | Impact: 0.050412
+ 5.  your                | Impact: 0.049630
+ 6.  free                | Impact: 0.049435
+ 7.  web                 | Impact: 0.048418
+ 8.  submit              | Impact: 0.043896
+ 9.  mail                | Impact: 0.043326
+10.  search              | Impact: 0.034412
+11.  number              | Impact: 0.033145
+12.  !                   | Impact: 0.029873
+13.  below               | Impact: 0.028951
+14.  toll                | Impact: 0.026103
+15.  site                | Impact: 0.025576
+16.  listing             | Impact: 0.025511
+17.  company             | Impact: 0.020848
+18.  search              | Impact: 0.018650
+19.  web                 | Impact: 0.016627
+20.  our                 | Impact: 0.014141
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.013125
+ 2.  month               | Impact: -0.005515
+ 3.  saw                 | Impact: -0.005174
+ 4.  engines             | Impact: -0.005010
+ 5.  i                   | Impact: -0.004930
+ 6.  work                | Impact: -0.004930
+ 7.  ranked              | Impact: -0.003499
+ 8.  with                | Impact: -0.001326
+ 9.  a                   | Impact: -0.001326
+10.  engines             | Impact: -0.001046
+11.  lane                | Impact: -0.001012
+12.  and                 | Impact: -0.000764
+13.  are                 | Impact: -0.000477
+14.  sincerely           | Impact: -0.000132
+15.  ,                   | Impact: -0.000132
+16.  mike                | Impact: -0.000132
+17.  bender              | Impact: -0.000132
+18.  -                   | Impact: -0.000132
+19.  -                   | Impact: -0.000132
+20.  *                   | Impact: -0.000132

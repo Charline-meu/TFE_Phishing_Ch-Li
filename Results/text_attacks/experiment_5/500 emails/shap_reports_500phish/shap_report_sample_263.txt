@@ -1,0 +1,71 @@
+Sample 263
+==========
+
+Sample text preview: WE NEED HELP. We are a year old fortune company, and we have grown %! We cannot keep up. We are looking for individuals who want to work at home, and ...
+
+Model prediction: [2.0652721e-04 9.9979347e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  !                   | Impact: 0.049873 → PHISHING
+ 2.  removed             | Impact: 0.044880 → PHISHING
+ 3.  click               | Impact: 0.032849 → PHISHING
+ 4.  below               | Impact: 0.032497 → PHISHING
+ 5.  you                 | Impact: 0.030874 → PHISHING
+ 6.  year                | Impact: 0.028448 → PHISHING
+ 7.  old                 | Impact: 0.028063 → PHISHING
+ 8.  fortune             | Impact: 0.028063 → PHISHING
+ 9.  link                | Impact: 0.026481 → PHISHING
+10. liga                 | Impact: 0.026475 → PHISHING
+11.  link                | Impact: 0.025790 → PHISHING
+12.  our                 | Impact: 0.025772 → PHISHING
+13.  free                | Impact: 0.025597 → PHISHING
+14.  be                  | Impact: 0.024438 → PHISHING
+15.  simply              | Impact: 0.020142 → PHISHING
+16.  a                   | Impact: 0.019282 → PHISHING
+17.  to                  | Impact: 0.019030 → PHISHING
+18.  ob                  | Impact: 0.017718 → PHISHING
+19.  simple              | Impact: 0.017449 → PHISHING
+20.  for                 | Impact: 0.015794 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.049873
+ 2.  removed             | Impact: 0.044880
+ 3.  click               | Impact: 0.032849
+ 4.  below               | Impact: 0.032497
+ 5.  you                 | Impact: 0.030874
+ 6.  year                | Impact: 0.028448
+ 7.  old                 | Impact: 0.028063
+ 8.  fortune             | Impact: 0.028063
+ 9.  link                | Impact: 0.026481
+10. liga                 | Impact: 0.026475
+11.  link                | Impact: 0.025790
+12.  our                 | Impact: 0.025772
+13.  free                | Impact: 0.025597
+14.  be                  | Impact: 0.024438
+15.  simply              | Impact: 0.020142
+16.  a                   | Impact: 0.019282
+17.  to                  | Impact: 0.019030
+18.  ob                  | Impact: 0.017718
+19.  simple              | Impact: 0.017449
+20.  for                 | Impact: 0.015794
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.008147
+ 2. ted                  | Impact: -0.006909
+ 3.  .                   | Impact: -0.006721
+ 4.  guaranteed          | Impact: -0.005300
+ 5.  and                 | Impact: -0.001676
+ 6.  to                  | Impact: -0.001423
+ 7.  .                   | Impact: -0.000869
+ 8.  ,                   | Impact: -0.000549
+ 9.  l                   | Impact: -0.000355
+10.                      | Impact: -0.000355
+11.  ,                   | Impact: -0.000334
+12.  no                  | Impact: -0.000324
+13.  experience          | Impact: -0.000324
+14.  required            | Impact: -0.000324
+15.  ,                   | Impact: -0.000076
+16.  .                   | Impact: -0.000055

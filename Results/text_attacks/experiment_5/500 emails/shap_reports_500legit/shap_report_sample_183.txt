@@ -1,0 +1,75 @@
+Sample 183
+==========
+
+Sample text preview: I also have a doctor's appointment at : and I will be in after that. . . -----Original Message----- From: Bailey, Susan Sent: Friday, October , : PM T...
+
+Model prediction: [9.9978048e-01 2.1951844e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  monday              | Impact: -0.009927 → LEGITIMATE
+ 2.  arrival             | Impact: 0.008772 → PHISHING
+ 3. ron                  | Impact: -0.005476 → LEGITIMATE
+ 4.  around              | Impact: -0.004836 → LEGITIMATE
+ 5.  mark                | Impact: -0.003815 → LEGITIMATE
+ 6.  be                  | Impact: 0.003569 → PHISHING
+ 7.  be                  | Impact: 0.003494 → PHISHING
+ 8.  will                | Impact: 0.003176 → PHISHING
+ 9.  en                  | Impact: -0.002735 → LEGITIMATE
+10.  i                   | Impact: -0.002710 → LEGITIMATE
+11.  appointment         | Impact: -0.002190 → LEGITIMATE
+12.  ,                   | Impact: -0.002043 → LEGITIMATE
+13.  bailey              | Impact: -0.001965 → LEGITIMATE
+14.  that                | Impact: 0.001903 → PHISHING
+15.  :                   | Impact: -0.001757 → LEGITIMATE
+16.  am                  | Impact: 0.001743 → PHISHING
+17.  at                  | Impact: -0.001490 → LEGITIMATE
+18.  in                  | Impact: 0.001462 → PHISHING
+19.  you                 | Impact: 0.001406 → PHISHING
+20.  :                   | Impact: -0.001405 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  arrival             | Impact: 0.008772
+ 2.  be                  | Impact: 0.003569
+ 3.  be                  | Impact: 0.003494
+ 4.  will                | Impact: 0.003176
+ 5.  that                | Impact: 0.001903
+ 6.  am                  | Impact: 0.001743
+ 7.  in                  | Impact: 0.001462
+ 8.  you                 | Impact: 0.001406
+ 9.  see                 | Impact: 0.001356
+10.  will                | Impact: 0.000930
+11.  on                  | Impact: 0.000889
+12.  then                | Impact: 0.000842
+13.  (                   | Impact: 0.000729
+14.  doctor              | Impact: 0.000704
+15.  s                   | Impact: 0.000640
+16.  all                 | Impact: 0.000555
+17.  have                | Impact: 0.000550
+18.  )                   | Impact: 0.000497
+19.  ,                   | Impact: 0.000469
+20.  ,                   | Impact: 0.000436
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  monday              | Impact: -0.009927
+ 2. ron                  | Impact: -0.005476
+ 3.  around              | Impact: -0.004836
+ 4.  mark                | Impact: -0.003815
+ 5.  en                  | Impact: -0.002735
+ 6.  i                   | Impact: -0.002710
+ 7.  appointment         | Impact: -0.002190
+ 8.  ,                   | Impact: -0.002043
+ 9.  bailey              | Impact: -0.001965
+10.  :                   | Impact: -0.001757
+11.  at                  | Impact: -0.001490
+12.  :                   | Impact: -0.001405
+13.  after               | Impact: -0.001382
+14.  .                   | Impact: -0.001378
+15.  :                   | Impact: -0.001004
+16.  a                   | Impact: -0.001000
+17.  .                   | Impact: -0.000933
+18.  -                   | Impact: -0.000862
+19.  texas               | Impact: -0.000558
+20.  phone               | Impact: -0.000558

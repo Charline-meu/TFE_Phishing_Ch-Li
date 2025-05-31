@@ -1,0 +1,75 @@
+Sample 192
+==========
+
+Sample text preview: Once upon a time, Brian wrote : > > More information on that slick "gstreamer-universe" thing. > > Go to this page: > > They seem to have declared a a...
+
+Model prediction: [9.9978799e-01 2.1199124e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  trivial             | Impact: -0.004922 → LEGITIMATE
+ 2.  functionality       | Impact: -0.004834 → LEGITIMATE
+ 3.  :                   | Impact: -0.004553 → LEGITIMATE
+ 4.  -                   | Impact: -0.003837 → LEGITIMATE
+ 5.  software            | Impact: -0.003481 → LEGITIMATE
+ 6.  implemented         | Impact: -0.003447 → LEGITIMATE
+ 7.  in                  | Impact: -0.003447 → LEGITIMATE
+ 8.  categories          | Impact: -0.003339 → LEGITIMATE
+ 9.  matthias            | Impact: -0.003113 → LEGITIMATE
+10.  system              | Impact: -0.002718 → LEGITIMATE
+11.  >                   | Impact: -0.002643 → LEGITIMATE
+12.  >                   | Impact: -0.002593 → LEGITIMATE
+13.  rpm                 | Impact: -0.002436 → LEGITIMATE
+14.  -                   | Impact: -0.002436 → LEGITIMATE
+15.  list                | Impact: -0.002436 → LEGITIMATE
+16.  :                   | Impact: -0.002393 → LEGITIMATE
+17.  >                   | Impact: -0.002393 → LEGITIMATE
+18.  matthias            | Impact: -0.002366 → LEGITIMATE
+19.  -                   | Impact: -0.002366 → LEGITIMATE
+20.  some                | Impact: -0.002322 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.                      | Impact: 0.000709
+ 2.  once                | Impact: 0.000709
+ 3.  isn                 | Impact: 0.000477
+ 4.  '                   | Impact: 0.000477
+ 5.  t                   | Impact: 0.000477
+ 6.  group               | Impact: 0.000445
+ 7.  interactive         | Impact: 0.000445
+ 8.  and                 | Impact: 0.000318
+ 9.  +                   | Impact: 0.000316
+10.  _                   | Impact: 0.000316
+11.  spain               | Impact: 0.000199
+12.  electronic          | Impact: 0.000199
+13.  ?                   | Impact: 0.000143
+14.  sao                 | Impact: 0.000066
+15. u                    | Impact: 0.000066
+16.  world               | Impact: 0.000066
+17.  trade               | Impact: 0.000066
+18.  i                   | Impact: 0.000062
+19.  don                 | Impact: 0.000062
+20.  '                   | Impact: 0.000062
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  trivial             | Impact: -0.004922
+ 2.  functionality       | Impact: -0.004834
+ 3.  :                   | Impact: -0.004553
+ 4.  -                   | Impact: -0.003837
+ 5.  software            | Impact: -0.003481
+ 6.  implemented         | Impact: -0.003447
+ 7.  in                  | Impact: -0.003447
+ 8.  categories          | Impact: -0.003339
+ 9.  matthias            | Impact: -0.003113
+10.  system              | Impact: -0.002718
+11.  >                   | Impact: -0.002643
+12.  >                   | Impact: -0.002593
+13.  rpm                 | Impact: -0.002436
+14.  -                   | Impact: -0.002436
+15.  list                | Impact: -0.002436
+16.  :                   | Impact: -0.002393
+17.  >                   | Impact: -0.002393
+18.  matthias            | Impact: -0.002366
+19.  -                   | Impact: -0.002366
+20.  some                | Impact: -0.002322

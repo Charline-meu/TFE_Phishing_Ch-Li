@@ -1,0 +1,75 @@
+Sample 400
+==========
+
+Sample text preview: I have a new email address!You can now email me at: >From the office of: MR,OLIVER DONALD ROYAL BANK OF SCOTLAND United Kingdom. ATTN, I am Mr OLIVER ...
+
+Model prediction: [1.553419e-04 9.998447e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  to                  | Impact: 0.022733 → PHISHING
+ 2.  provide             | Impact: 0.022733 → PHISHING
+ 3.  immediately         | Impact: 0.022733 → PHISHING
+ 4.  your                | Impact: 0.022733 → PHISHING
+ 5.  full                | Impact: 0.022733 → PHISHING
+ 6.  name                | Impact: 0.022733 → PHISHING
+ 7.  and                 | Impact: 0.022733 → PHISHING
+ 8.  i                   | Impact: 0.021032 → PHISHING
+ 9.  will                | Impact: 0.021032 → PHISHING
+10.  like                | Impact: 0.021032 → PHISHING
+11.  you                 | Impact: 0.021032 → PHISHING
+12.  next                | Impact: 0.009449 → PHISHING
+13.  of                  | Impact: 0.009449 → PHISHING
+14.  kin                 | Impact: 0.009449 → PHISHING
+15.  to                  | Impact: 0.009449 → PHISHING
+16.  mr                  | Impact: 0.009449 → PHISHING
+17.  .                   | Impact: 0.009449 → PHISHING
+18.  which               | Impact: 0.007555 → PHISHING
+19.  will                | Impact: 0.007555 → PHISHING
+20.  put                 | Impact: 0.007555 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.022733
+ 2.  provide             | Impact: 0.022733
+ 3.  immediately         | Impact: 0.022733
+ 4.  your                | Impact: 0.022733
+ 5.  full                | Impact: 0.022733
+ 6.  name                | Impact: 0.022733
+ 7.  and                 | Impact: 0.022733
+ 8.  i                   | Impact: 0.021032
+ 9.  will                | Impact: 0.021032
+10.  like                | Impact: 0.021032
+11.  you                 | Impact: 0.021032
+12.  next                | Impact: 0.009449
+13.  of                  | Impact: 0.009449
+14.  kin                 | Impact: 0.009449
+15.  to                  | Impact: 0.009449
+16.  mr                  | Impact: 0.009449
+17.  .                   | Impact: 0.009449
+18.  which               | Impact: 0.007555
+19.  will                | Impact: 0.007555
+20.  put                 | Impact: 0.007555
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  kurt                | Impact: -0.001968
+ 2.  ka                  | Impact: -0.001968
+ 3. hl                   | Impact: -0.001968
+ 4. e                    | Impact: -0.001968
+ 5.  .                   | Impact: -0.001968
+ 6.  the                 | Impact: -0.000788
+ 7.  royal               | Impact: -0.000788
+ 8.  dutch               | Impact: -0.000788
+ 9.  petroleum           | Impact: -0.000788
+10.  company             | Impact: -0.000788
+11.  that                | Impact: -0.000788
+12.  on                  | Impact: -0.000788
+13.  the                 | Impact: -0.000788
+14.  st                  | Impact: -0.000523
+15.  of                  | Impact: -0.000523
+16.  july                | Impact: -0.000523
+17.  ,                   | Impact: -0.000523
+18.  after               | Impact: -0.000229
+19.  a                   | Impact: -0.000229
+20.  month               | Impact: -0.000229

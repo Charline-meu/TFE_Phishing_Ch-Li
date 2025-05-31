@@ -1,0 +1,75 @@
+Phishing Sample 16
+==================
+
+Sample text preview: Your list of items is correct. However, the entex related transport shows up on the P&L and the GL via transport expense from Tom to Ed. This number i...
+
+Model prediction: [9.9978751e-01 2.1248338e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  tells               | Impact: 0.003016 → PHISHING
+ 2.  mick                | Impact: 0.003016 → PHISHING
+ 3.  industrial          | Impact: -0.002800 → LEGITIMATE
+ 4.  volume              | Impact: -0.002800 → LEGITIMATE
+ 5.  revenue             | Impact: -0.002310 → LEGITIMATE
+ 6.  for                 | Impact: -0.002310 → LEGITIMATE
+ 7.  ed                  | Impact: -0.002310 → LEGITIMATE
+ 8.  in                  | Impact: -0.002310 → LEGITIMATE
+ 9.  revenue             | Impact: -0.002042 → LEGITIMATE
+10.  from                | Impact: -0.002042 → LEGITIMATE
+11.  for                 | Impact: -0.001750 → LEGITIMATE
+12.  the                 | Impact: -0.001750 → LEGITIMATE
+13.  for                 | Impact: -0.001649 → LEGITIMATE
+14.  the                 | Impact: -0.001649 → LEGITIMATE
+15.  residential         | Impact: -0.001649 → LEGITIMATE
+16.  volume              | Impact: -0.001649 → LEGITIMATE
+17.  the                 | Impact: -0.001630 → LEGITIMATE
+18.  g                   | Impact: -0.001630 → LEGITIMATE
+19.  /                   | Impact: -0.001630 → LEGITIMATE
+20.  l                   | Impact: -0.001630 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  tells               | Impact: 0.003016
+ 2.  mick                | Impact: 0.003016
+ 3.  eric                | Impact: 0.001576
+ 4.  bass                | Impact: 0.001576
+ 5.  ?                   | Impact: 0.001163
+ 6.  mick                | Impact: 0.000982
+ 7.  the                 | Impact: 0.000784
+ 8.  money               | Impact: 0.000784
+ 9.  lands               | Impact: 0.000784
+10.  in                  | Impact: 0.000784
+11.  and                 | Impact: 0.000670
+12.  we                  | Impact: 0.000670
+13.  just                | Impact: 0.000670
+14.  have                | Impact: 0.000670
+15.  to                  | Impact: 0.000670
+16.  eric                | Impact: 0.000539
+17.  and                 | Impact: 0.000539
+18.  make                | Impact: 0.000483
+19.  sure                | Impact: 0.000483
+20.  that                | Impact: 0.000483
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  industrial          | Impact: -0.002800
+ 2.  volume              | Impact: -0.002800
+ 3.  revenue             | Impact: -0.002310
+ 4.  for                 | Impact: -0.002310
+ 5.  ed                  | Impact: -0.002310
+ 6.  in                  | Impact: -0.002310
+ 7.  revenue             | Impact: -0.002042
+ 8.  from                | Impact: -0.002042
+ 9.  for                 | Impact: -0.001750
+10.  the                 | Impact: -0.001750
+11.  for                 | Impact: -0.001649
+12.  the                 | Impact: -0.001649
+13.  residential         | Impact: -0.001649
+14.  volume              | Impact: -0.001649
+15.  the                 | Impact: -0.001630
+16.  g                   | Impact: -0.001630
+17.  /                   | Impact: -0.001630
+18.  l                   | Impact: -0.001630
+19.  en                  | Impact: -0.001614
+20. ron                  | Impact: -0.001614

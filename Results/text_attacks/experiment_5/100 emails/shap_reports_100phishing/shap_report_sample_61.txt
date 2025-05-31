@@ -1,0 +1,75 @@
+Phishing Sample 61
+==================
+
+Sample text preview: FROM THE DESK OF MR.MOHMED YAYA. AUDITING AND ACCOUNTING MANAGER, AFRICA DEVELOPMENT BANK (ADB) OUAGADOUGOU-BURKINA FASO. Dear Friend, I am the AUDITI...
+
+Model prediction: [1.9774442e-04 9.9980229e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  friend              | Impact: 0.016985 → PHISHING
+ 2.  dear                | Impact: 0.016904 → PHISHING
+ 3.  your                | Impact: 0.014761 → PHISHING
+ 4.  bank                | Impact: 0.014761 → PHISHING
+ 5.  account             | Impact: 0.014761 → PHISHING
+ 6.  number              | Impact: 0.014761 → PHISHING
+ 7.  mr                  | Impact: 0.010245 → PHISHING
+ 8.  .                   | Impact: 0.010245 → PHISHING
+ 9.  the                 | Impact: 0.008484 → PHISHING
+10.  deceased            | Impact: 0.008484 → PHISHING
+11.  indicating          | Impact: 0.008484 → PHISHING
+12.  your                | Impact: 0.008484 → PHISHING
+13.  bank                | Impact: 0.008484 → PHISHING
+14.  name                | Impact: 0.008484 → PHISHING
+15.  ,                   | Impact: 0.008484 → PHISHING
+16.  claim               | Impact: 0.007839 → PHISHING
+17.  his                 | Impact: 0.007839 → PHISHING
+18.  money               | Impact: 0.007839 → PHISHING
+19.  because             | Impact: 0.007839 → PHISHING
+20.  relation            | Impact: 0.005582 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  friend              | Impact: 0.016985
+ 2.  dear                | Impact: 0.016904
+ 3.  your                | Impact: 0.014761
+ 4.  bank                | Impact: 0.014761
+ 5.  account             | Impact: 0.014761
+ 6.  number              | Impact: 0.014761
+ 7.  mr                  | Impact: 0.010245
+ 8.  .                   | Impact: 0.010245
+ 9.  the                 | Impact: 0.008484
+10.  deceased            | Impact: 0.008484
+11.  indicating          | Impact: 0.008484
+12.  your                | Impact: 0.008484
+13.  bank                | Impact: 0.008484
+14.  name                | Impact: 0.008484
+15.  ,                   | Impact: 0.008484
+16.  claim               | Impact: 0.007839
+17.  his                 | Impact: 0.007839
+18.  money               | Impact: 0.007839
+19.  because             | Impact: 0.007839
+20.  relation            | Impact: 0.005582
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  gui                 | Impact: -0.000817
+ 2. dling                | Impact: -0.000817
+ 3. s                    | Impact: -0.000817
+ 4.  as                  | Impact: -0.000817
+ 5.  indicated           | Impact: -0.000817
+ 6.  in                  | Impact: -0.000817
+ 7.  our                 | Impact: -0.000817
+ 8.  banking             | Impact: -0.000817
+ 9.                      | Impact: -0.000374
+10.  from                | Impact: -0.000374
+11.  the                 | Impact: -0.000374
+12.  desk                | Impact: -0.000374
+13.  mo                  | Impact: -0.000287
+14. hm                   | Impact: -0.000287
+15. ed                   | Impact: -0.000287
+16.  ya                  | Impact: -0.000287
+17. ya                   | Impact: -0.000287
+18.  .                   | Impact: -0.000287
+19.  audit               | Impact: -0.000287
+20. ing                  | Impact: -0.000287

@@ -1,0 +1,75 @@
+Phishing Sample 10
+==================
+
+Sample text preview: >From The Desk of Mr. Gary Fredricks Head of Foreign Operations , mall London Road, Swanley Kent BR WL London ECR BP, United Kingdom. TEL: +--- FAX --...
+
+Model prediction: [2.976924e-04 9.997023e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  do                  | Impact: 0.025882 → PHISHING
+ 2.  business            | Impact: 0.025882 → PHISHING
+ 3.  with                | Impact: 0.025882 → PHISHING
+ 4.  you                 | Impact: 0.025882 → PHISHING
+ 5.  and                 | Impact: 0.020467 → PHISHING
+ 6.  funds               | Impact: 0.020467 → PHISHING
+ 7.  released            | Impact: 0.020467 → PHISHING
+ 8.  to                  | Impact: 0.020467 → PHISHING
+ 9.  you                 | Impact: 0.020467 → PHISHING
+10.  these               | Impact: 0.019476 → PHISHING
+11.  funds               | Impact: 0.019476 → PHISHING
+12.  from                | Impact: 0.019476 → PHISHING
+13.  the                 | Impact: 0.019476 → PHISHING
+14.  deceased            | Impact: 0.019476 → PHISHING
+15.  propose             | Impact: 0.016782 → PHISHING
+16.  to                  | Impact: 0.016782 → PHISHING
+17.  we                  | Impact: 0.016188 → PHISHING
+18.  thus                | Impact: 0.016188 → PHISHING
+19.  bank                | Impact: 0.011692 → PHISHING
+20.  here                | Impact: 0.011692 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  do                  | Impact: 0.025882
+ 2.  business            | Impact: 0.025882
+ 3.  with                | Impact: 0.025882
+ 4.  you                 | Impact: 0.025882
+ 5.  and                 | Impact: 0.020467
+ 6.  funds               | Impact: 0.020467
+ 7.  released            | Impact: 0.020467
+ 8.  to                  | Impact: 0.020467
+ 9.  you                 | Impact: 0.020467
+10.  these               | Impact: 0.019476
+11.  funds               | Impact: 0.019476
+12.  from                | Impact: 0.019476
+13.  the                 | Impact: 0.019476
+14.  deceased            | Impact: 0.019476
+15.  propose             | Impact: 0.016782
+16.  to                  | Impact: 0.016782
+17.  we                  | Impact: 0.016188
+18.  thus                | Impact: 0.016188
+19.  bank                | Impact: 0.011692
+20.  here                | Impact: 0.011692
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  swan                | Impact: -0.001815
+ 2. ley                  | Impact: -0.001815
+ 3.  kent                | Impact: -0.001815
+ 4.  br                  | Impact: -0.001815
+ 5.  w                   | Impact: -0.001815
+ 6. l                    | Impact: -0.001815
+ 7.  london              | Impact: -0.001815
+ 8.  ec                  | Impact: -0.001815
+ 9. r                    | Impact: -0.001815
+10.  bp                  | Impact: -0.001815
+11.  ,                   | Impact: -0.001815
+12.  i                   | Impact: -0.001037
+13.  will                | Impact: -0.001037
+14.  introduce           | Impact: -0.001037
+15.  myself              | Impact: -0.001037
+16.  as                  | Impact: -0.001037
+17.  the                 | Impact: -0.001037
+18.  head                | Impact: -0.001037
+19.  of                  | Impact: -0.001037
+20.  foreign             | Impact: -0.000882

@@ -1,0 +1,66 @@
+Phishing Sample 15
+==================
+
+Sample text preview: Union Bank Of Nig. Plc Union House Marina Lagos State Nigeria. Request For Foreign Partner Dear Sir, I sincerely write to seek your co-operation and t...
+
+Model prediction: [1.8763759e-04 9.9981242e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bank                | Impact: 0.015397 → PHISHING
+ 2.  account             | Impact: 0.015397 → PHISHING
+ 3.  number              | Impact: 0.015397 → PHISHING
+ 4.  indicating          | Impact: 0.015397 → PHISHING
+ 5.  your                | Impact: 0.015397 → PHISHING
+ 6.  i                   | Impact: 0.008239 → PHISHING
+ 7.  will                | Impact: 0.008239 → PHISHING
+ 8.  visit               | Impact: 0.008239 → PHISHING
+ 9.  your                | Impact: 0.008239 → PHISHING
+10.  country             | Impact: 0.008239 → PHISHING
+11.  for                 | Impact: 0.008239 → PHISHING
+12.  will                | Impact: 0.007429 → PHISHING
+13.  be                  | Impact: 0.007429 → PHISHING
+14.  and                 | Impact: 0.007429 → PHISHING
+15.  location            | Impact: 0.007429 → PHISHING
+16.  wherein             | Impact: 0.007429 → PHISHING
+17.  the                 | Impact: 0.007429 → PHISHING
+18.  money               | Impact: 0.007429 → PHISHING
+19.  re                  | Impact: 0.007429 → PHISHING
+20. mit                  | Impact: 0.007429 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.015397
+ 2.  account             | Impact: 0.015397
+ 3.  number              | Impact: 0.015397
+ 4.  indicating          | Impact: 0.015397
+ 5.  your                | Impact: 0.015397
+ 6.  i                   | Impact: 0.008239
+ 7.  will                | Impact: 0.008239
+ 8.  visit               | Impact: 0.008239
+ 9.  your                | Impact: 0.008239
+10.  country             | Impact: 0.008239
+11.  for                 | Impact: 0.008239
+12.  will                | Impact: 0.007429
+13.  be                  | Impact: 0.007429
+14.  and                 | Impact: 0.007429
+15.  location            | Impact: 0.007429
+16.  wherein             | Impact: 0.007429
+17.  the                 | Impact: 0.007429
+18.  money               | Impact: 0.007429
+19.  re                  | Impact: 0.007429
+20. mit                  | Impact: 0.007429
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  di                  | Impact: -0.000279
+ 2. sb                   | Impact: -0.000279
+ 3. urse                 | Impact: -0.000279
+ 4. ment                 | Impact: -0.000279
+ 5.  according           | Impact: -0.000279
+ 6.  to                  | Impact: -0.000279
+ 7.  the                 | Impact: -0.000279
+ 8.  percentage          | Impact: -0.000279
+ 9. s                    | Impact: -0.000279
+10.  indicated           | Impact: -0.000279
+11.  .                   | Impact: -0.000279

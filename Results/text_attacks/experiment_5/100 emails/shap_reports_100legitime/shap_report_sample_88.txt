@@ -1,0 +1,75 @@
+Phishing Sample 88
+==================
+
+Sample text preview: Would you guys please take a look at this and let me know what sorts of restrictions you would suggest we try and put on these guys and what sorts of ...
+
+Model prediction: [9.9977952e-01 2.2051635e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ur                  | Impact: -0.003277 → LEGITIMATE
+ 2. l                    | Impact: -0.002391 → LEGITIMATE
+ 3.  terms               | Impact: -0.002291 → LEGITIMATE
+ 4.  et                  | Impact: -0.002222 → LEGITIMATE
+ 5.  -                   | Impact: -0.002171 → LEGITIMATE
+ 6.  mike                | Impact: -0.002049 → LEGITIMATE
+ 7.  -                   | Impact: -0.001975 → LEGITIMATE
+ 8.  legal               | Impact: -0.001930 → LEGITIMATE
+ 9.  /                   | Impact: -0.001822 → LEGITIMATE
+10.  restrictions        | Impact: -0.001814 → LEGITIMATE
+11.  information         | Impact: -0.001780 → LEGITIMATE
+12.  ?                   | Impact: -0.001741 → LEGITIMATE
+13.  .                   | Impact: -0.001685 → LEGITIMATE
+14.  user                | Impact: -0.001656 → LEGITIMATE
+15.  sorts               | Impact: -0.001537 → LEGITIMATE
+16.  notices             | Impact: -0.001432 → LEGITIMATE
+17. er                   | Impact: -0.001383 → LEGITIMATE
+18. ring                 | Impact: -0.001381 → LEGITIMATE
+19.  gather              | Impact: -0.001371 → LEGITIMATE
+20.  regards             | Impact: -0.001338 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  sites               | Impact: 0.001207
+ 2.  know                | Impact: 0.000427
+ 3.  if                  | Impact: 0.000427
+ 4.  have                | Impact: 0.000416
+ 5.  access              | Impact: 0.000416
+ 6.  to                  | Impact: 0.000416
+ 7.  here                | Impact: 0.000234
+ 8.  is                  | Impact: 0.000234
+ 9.  you                 | Impact: 0.000191
+10.  will                | Impact: 0.000191
+11.  of                  | Impact: 0.000185
+12.  let                 | Impact: 0.000179
+13.  me                  | Impact: 0.000179
+14.  it                  | Impact: 0.000154
+15.  and                 | Impact: 0.000140
+16.  i                   | Impact: 0.000076
+17.  hope                | Impact: 0.000076
+18.  doesn               | Impact: 0.000066
+19.  '                   | Impact: 0.000066
+20.  t                   | Impact: 0.000066
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ur                  | Impact: -0.003277
+ 2. l                    | Impact: -0.002391
+ 3.  terms               | Impact: -0.002291
+ 4.  et                  | Impact: -0.002222
+ 5.  -                   | Impact: -0.002171
+ 6.  mike                | Impact: -0.002049
+ 7.  -                   | Impact: -0.001975
+ 8.  legal               | Impact: -0.001930
+ 9.  /                   | Impact: -0.001822
+10.  restrictions        | Impact: -0.001814
+11.  information         | Impact: -0.001780
+12.  ?                   | Impact: -0.001741
+13.  .                   | Impact: -0.001685
+14.  user                | Impact: -0.001656
+15.  sorts               | Impact: -0.001537
+16.  notices             | Impact: -0.001432
+17. er                   | Impact: -0.001383
+18. ring                 | Impact: -0.001381
+19.  gather              | Impact: -0.001371
+20.  regards             | Impact: -0.001338

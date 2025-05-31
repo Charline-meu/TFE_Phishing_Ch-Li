@@ -1,0 +1,75 @@
+Phishing Sample 65
+==================
+
+Sample text preview: Dear Sir, I am Stanley Woodwork, the secetary of Africa White farmers co-operation (AWFC) OF Zimbabwe. After the last general elections in my country ...
+
+Model prediction: [1.680418e-04 9.998319e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.020025 → PHISHING
+ 2.                      | Impact: 0.017153 → PHISHING
+ 3.  dear                | Impact: 0.017153 → PHISHING
+ 4.  free                | Impact: 0.015046 → PHISHING
+ 5.  incumbent           | Impact: 0.014752 → PHISHING
+ 6.  president           | Impact: 0.014752 → PHISHING
+ 7.  mr                  | Impact: 0.014752 → PHISHING
+ 8.  risk                | Impact: 0.012670 → PHISHING
+ 9.  all                 | Impact: 0.012384 → PHISHING
+10.  sir                 | Impact: 0.012132 → PHISHING
+11.  you                 | Impact: 0.011885 → PHISHING
+12.  by                  | Impact: 0.010763 → PHISHING
+13.  the                 | Impact: 0.010763 → PHISHING
+14.  government          | Impact: 0.010763 → PHISHING
+15.  funds               | Impact: 0.010128 → PHISHING
+16.  to                  | Impact: 0.010128 → PHISHING
+17.  europe              | Impact: 0.010128 → PHISHING
+18.  where               | Impact: 0.009732 → PHISHING
+19.  the                 | Impact: 0.009732 → PHISHING
+20.  would               | Impact: 0.008921 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.020025
+ 2.                      | Impact: 0.017153
+ 3.  dear                | Impact: 0.017153
+ 4.  free                | Impact: 0.015046
+ 5.  incumbent           | Impact: 0.014752
+ 6.  president           | Impact: 0.014752
+ 7.  mr                  | Impact: 0.014752
+ 8.  risk                | Impact: 0.012670
+ 9.  all                 | Impact: 0.012384
+10.  sir                 | Impact: 0.012132
+11.  you                 | Impact: 0.011885
+12.  by                  | Impact: 0.010763
+13.  the                 | Impact: 0.010763
+14.  government          | Impact: 0.010763
+15.  funds               | Impact: 0.010128
+16.  to                  | Impact: 0.010128
+17.  europe              | Impact: 0.010128
+18.  where               | Impact: 0.009732
+19.  the                 | Impact: 0.009732
+20.  would               | Impact: 0.008921
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  most                | Impact: -0.003913
+ 2.  phone               | Impact: -0.003913
+ 3.  is                  | Impact: -0.003496
+ 4.  solely              | Impact: -0.003496
+ 5.  this                | Impact: -0.003427
+ 6.  programme           | Impact: -0.003427
+ 7.  email               | Impact: -0.003258
+ 8.  as                  | Impact: -0.003258
+ 9.  wood                | Impact: -0.002723
+10. work                 | Impact: -0.002723
+11.  ,                   | Impact: -0.002723
+12.  stanley             | Impact: -0.001693
+13.  wood                | Impact: -0.001693
+14. work                 | Impact: -0.001693
+15.  .                   | Impact: -0.001693
+16.  aimed               | Impact: -0.001312
+17.  at                  | Impact: -0.001312
+18.  taking              | Impact: -0.001312
+19.  the                 | Impact: -0.001312
+20.  we                  | Impact: -0.000716

@@ -1,0 +1,72 @@
+Sample 299
+==========
+
+Sample text preview: In the answer to . we need to add that if further clarification is needed to the tariff, we are willing to do so. MK Susan Scott // : PM To: Mary Kay ...
+
+Model prediction: [9.9980193e-01 1.9805423e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  thanks              | Impact: -0.013674 → LEGITIMATE
+ 2.  answer              | Impact: -0.012838 → LEGITIMATE
+ 3. ron                  | Impact: -0.006462 → LEGITIMATE
+ 4.  @                   | Impact: 0.004979 → PHISHING
+ 5.  en                  | Impact: -0.004727 → LEGITIMATE
+ 6.  .                   | Impact: -0.004372 → LEGITIMATE
+ 7. ron                  | Impact: -0.004345 → LEGITIMATE
+ 8.  &                   | Impact: 0.003943 → PHISHING
+ 9.  in                  | Impact: 0.003666 → PHISHING
+10.  en                  | Impact: -0.003170 → LEGITIMATE
+11.  to                  | Impact: -0.002766 → LEGITIMATE
+12.  .                   | Impact: -0.002756 → LEGITIMATE
+13.  read                | Impact: -0.002740 → LEGITIMATE
+14.  et                  | Impact: -0.002277 → LEGITIMATE
+15.  going               | Impact: -0.002259 → LEGITIMATE
+16.  s                   | Impact: -0.002004 → LEGITIMATE
+17.  @                   | Impact: 0.001957 → PHISHING
+18.  comments            | Impact: -0.001938 → LEGITIMATE
+19.  .                   | Impact: -0.001928 → LEGITIMATE
+20.  give                | Impact: -0.001883 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  @                   | Impact: 0.004979
+ 2.  &                   | Impact: 0.003943
+ 3.  in                  | Impact: 0.003666
+ 4.  @                   | Impact: 0.001957
+ 5.  mk                  | Impact: 0.001521
+ 6.  the                 | Impact: 0.001376
+ 7.  susan               | Impact: 0.001143
+ 8.  @                   | Impact: 0.000596
+ 9.  shelley             | Impact: 0.000561
+10.  are                 | Impact: 0.000294
+11.  ,                   | Impact: 0.000247
+12.  /                   | Impact: 0.000126
+13.  f                   | Impact: 0.000121
+14. oss                  | Impact: 0.000121
+15.  glen                | Impact: 0.000061
+16. um                   | Impact: 0.000022
+17.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.013674
+ 2.  answer              | Impact: -0.012838
+ 3. ron                  | Impact: -0.006462
+ 4.  en                  | Impact: -0.004727
+ 5.  .                   | Impact: -0.004372
+ 6. ron                  | Impact: -0.004345
+ 7.  en                  | Impact: -0.003170
+ 8.  to                  | Impact: -0.002766
+ 9.  .                   | Impact: -0.002756
+10.  read                | Impact: -0.002740
+11.  et                  | Impact: -0.002277
+12.  going               | Impact: -0.002259
+13.  s                   | Impact: -0.002004
+14.  comments            | Impact: -0.001938
+15.  .                   | Impact: -0.001928
+16.  give                | Impact: -0.001883
+17.  .                   | Impact: -0.001850
+18.  so                  | Impact: -0.001650
+19.  i                   | Impact: -0.001589
+20.  last                | Impact: -0.001531

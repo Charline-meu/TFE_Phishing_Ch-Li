@@ -1,0 +1,75 @@
+Sample 204
+==========
+
+Sample text preview: Please take a look at the Proposed revisions to the master below. Specifically Articles ., ., and .. My response is NO to their revisions, but since t...
+
+Model prediction: [9.9979979e-01 2.0026002e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  /                   | Impact: 0.004624 → PHISHING
+ 2.  contact             | Impact: 0.003408 → PHISHING
+ 3.  questions           | Impact: -0.003354 → LEGITIMATE
+ 4.  attachment          | Impact: 0.003024 → PHISHING
+ 5.  comments            | Impact: -0.002888 → LEGITIMATE
+ 6.  purchase            | Impact: 0.002619 → PHISHING
+ 7. ron                  | Impact: -0.002615 → LEGITIMATE
+ 8.  :                   | Impact: -0.002576 → LEGITIMATE
+ 9.  debra               | Impact: -0.002322 → LEGITIMATE
+10.  me                  | Impact: 0.002263 → PHISHING
+11.  :                   | Impact: -0.002014 → LEGITIMATE
+12.  free                | Impact: 0.001994 → PHISHING
+13.  /                   | Impact: -0.001819 → LEGITIMATE
+14.  -                   | Impact: -0.001713 → LEGITIMATE
+15.  en                  | Impact: -0.001509 → LEGITIMATE
+16.  cc                  | Impact: -0.001503 → LEGITIMATE
+17.  indicated           | Impact: -0.001401 → LEGITIMATE
+18.  -                   | Impact: -0.001372 → LEGITIMATE
+19.  doc                 | Impact: -0.001323 → LEGITIMATE
+20.  please              | Impact: 0.001252 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  /                   | Impact: 0.004624
+ 2.  contact             | Impact: 0.003408
+ 3.  attachment          | Impact: 0.003024
+ 4.  purchase            | Impact: 0.002619
+ 5.  me                  | Impact: 0.002263
+ 6.  free                | Impact: 0.001994
+ 7.  please              | Impact: 0.001252
+ 8.  come                | Impact: 0.001051
+ 9.  through             | Impact: 0.001051
+10.  .                   | Impact: 0.000886
+11.  in                  | Impact: 0.000796
+12.  the                 | Impact: 0.000796
+13.  to                  | Impact: 0.000763
+14.  please              | Impact: 0.000753
+15.  attached            | Impact: 0.000576
+16.  has                 | Impact: 0.000544
+17.  not                 | Impact: 0.000544
+18.  fa                  | Impact: 0.000338
+19. x                    | Impact: 0.000338
+20.  and                 | Impact: 0.000338
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  questions           | Impact: -0.003354
+ 2.  comments            | Impact: -0.002888
+ 3. ron                  | Impact: -0.002615
+ 4.  :                   | Impact: -0.002576
+ 5.  debra               | Impact: -0.002322
+ 6.  :                   | Impact: -0.002014
+ 7.  /                   | Impact: -0.001819
+ 8.  -                   | Impact: -0.001713
+ 9.  en                  | Impact: -0.001509
+10.  cc                  | Impact: -0.001503
+11.  indicated           | Impact: -0.001401
+12.  -                   | Impact: -0.001372
+13.  doc                 | Impact: -0.001323
+14.  proposed            | Impact: -0.000912
+15.  -                   | Impact: -0.000871
+16.  /                   | Impact: -0.000850
+17.  -                   | Impact: -0.000830
+18.  revisions           | Impact: -0.000805
+19.  to                  | Impact: -0.000805
+20. t                    | Impact: -0.000777

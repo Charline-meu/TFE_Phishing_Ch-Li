@@ -1,0 +1,75 @@
+Sample 369
+==========
+
+Sample text preview: On Friday, July , , at : AM, Rodent of Unusual Size wrote: > These days the > nation's nearly million-acre field of corn rolls across the > countrysid...
+
+Model prediction: [9.9976987e-01 2.3015053e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.016985 → LEGITIMATE
+ 2.  >                   | Impact: -0.016078 → LEGITIMATE
+ 3.  million             | Impact: 0.011365 → PHISHING
+ 4.  wrote               | Impact: -0.010357 → LEGITIMATE
+ 5.  >                   | Impact: -0.008638 → LEGITIMATE
+ 6.  nation              | Impact: 0.007744 → PHISHING
+ 7.  whole               | Impact: 0.007290 → PHISHING
+ 8.  health              | Impact: 0.006433 → PHISHING
+ 9.  -                   | Impact: -0.005945 → LEGITIMATE
+10.  -                   | Impact: -0.005462 → LEGITIMATE
+11.  :                   | Impact: -0.004686 → LEGITIMATE
+12.  corn                | Impact: -0.004473 → LEGITIMATE
+13. some                 | Impact: 0.004458 → PHISHING
+14.  obscure             | Impact: 0.003915 → PHISHING
+15.  decidedly           | Impact: -0.003413 → LEGITIMATE
+16.  reality             | Impact: 0.003273 → PHISHING
+17.  of                  | Impact: 0.003088 → PHISHING
+18.  if                  | Impact: -0.002997 → LEGITIMATE
+19. ries                 | Impact: 0.002816 → PHISHING
+20.  ,                   | Impact: -0.002811 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  million             | Impact: 0.011365
+ 2.  nation              | Impact: 0.007744
+ 3.  whole               | Impact: 0.007290
+ 4.  health              | Impact: 0.006433
+ 5. some                 | Impact: 0.004458
+ 6.  obscure             | Impact: 0.003915
+ 7.  reality             | Impact: 0.003273
+ 8.  of                  | Impact: 0.003088
+ 9. ries                 | Impact: 0.002816
+10.  days                | Impact: 0.002767
+11.  this                | Impact: 0.002603
+12.  the                 | Impact: 0.002156
+13. nt                   | Impact: 0.002072
+14.  countryside         | Impact: 0.001874
+15.  and                 | Impact: 0.001816
+16.  .                   | Impact: 0.001810
+17. s                    | Impact: 0.001655
+18.  rolls               | Impact: 0.001439
+19.  unusual             | Impact: 0.001414
+20.  second              | Impact: 0.001320
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.016985
+ 2.  >                   | Impact: -0.016078
+ 3.  wrote               | Impact: -0.010357
+ 4.  >                   | Impact: -0.008638
+ 5.  -                   | Impact: -0.005945
+ 6.  -                   | Impact: -0.005462
+ 7.  :                   | Impact: -0.004686
+ 8.  corn                | Impact: -0.004473
+ 9.  decidedly           | Impact: -0.003413
+10.  if                  | Impact: -0.002997
+11.  ,                   | Impact: -0.002811
+12.  but                 | Impact: -0.002716
+13.  too                 | Impact: -0.002682
+14.  loudly              | Impact: -0.002664
+15.  mention             | Impact: -0.002515
+16.  :                   | Impact: -0.002141
+17.  at                  | Impact: -0.002056
+18.  .                   | Impact: -0.001940
+19.  american            | Impact: -0.001862
+20.  any                 | Impact: -0.001816

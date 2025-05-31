@@ -1,0 +1,75 @@
+Sample 425
+==========
+
+Sample text preview: It is a great honour to write you, after several hesistation.I do not want to say much, but My Name Is K I Bakri, i will definitely tell you more abou...
+
+Model prediction: [1.7034050e-04 9.9982965e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sum                 | Impact: 0.026684 → PHISHING
+ 2.  of                  | Impact: 0.026684 → PHISHING
+ 3.  money               | Impact: 0.026684 → PHISHING
+ 4.  my                  | Impact: 0.019797 → PHISHING
+ 5.  name                | Impact: 0.019797 → PHISHING
+ 6.  to                  | Impact: 0.018445 → PHISHING
+ 7.  write               | Impact: 0.018445 → PHISHING
+ 8.  you                 | Impact: 0.018445 → PHISHING
+ 9.  great               | Impact: 0.018374 → PHISHING
+10.  honour              | Impact: 0.018374 → PHISHING
+11.  wealth              | Impact: 0.017694 → PHISHING
+12.  which               | Impact: 0.017694 → PHISHING
+13.  but                 | Impact: 0.017511 → PHISHING
+14.  for                 | Impact: 0.017075 → PHISHING
+15.  your                | Impact: 0.017075 → PHISHING
+16. i                    | Impact: 0.016776 → PHISHING
+17.  writing             | Impact: 0.016707 → PHISHING
+18.  you                 | Impact: 0.016707 → PHISHING
+19.  ba                  | Impact: 0.016588 → PHISHING
+20. kr                   | Impact: 0.016588 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sum                 | Impact: 0.026684
+ 2.  of                  | Impact: 0.026684
+ 3.  money               | Impact: 0.026684
+ 4.  my                  | Impact: 0.019797
+ 5.  name                | Impact: 0.019797
+ 6.  to                  | Impact: 0.018445
+ 7.  write               | Impact: 0.018445
+ 8.  you                 | Impact: 0.018445
+ 9.  great               | Impact: 0.018374
+10.  honour              | Impact: 0.018374
+11.  wealth              | Impact: 0.017694
+12.  which               | Impact: 0.017694
+13.  but                 | Impact: 0.017511
+14.  for                 | Impact: 0.017075
+15.  your                | Impact: 0.017075
+16. i                    | Impact: 0.016776
+17.  writing             | Impact: 0.016707
+18.  you                 | Impact: 0.016707
+19.  ba                  | Impact: 0.016588
+20. kr                   | Impact: 0.016588
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.005264
+ 2.  is                  | Impact: -0.003950
+ 3.  a                   | Impact: -0.003950
+ 4.                      | Impact: -0.002289
+ 5.  it                  | Impact: -0.002289
+ 6.  to                  | Impact: -0.002206
+ 7.  say                 | Impact: -0.002206
+ 8.  much                | Impact: -0.002206
+ 9.  ,                   | Impact: -0.002206
+10.  i                   | Impact: -0.002107
+11.  do                  | Impact: -0.002107
+12.  not                 | Impact: -0.002107
+13.  want                | Impact: -0.002107
+14.  pri                 | Impact: -0.002055
+15. vil                  | Impact: -0.002055
+16. edge                 | Impact: -0.002055
+17. d                    | Impact: -0.002055
+18.  i                   | Impact: -0.000596
+19.  get                 | Impact: -0.000596
+20.  your                | Impact: -0.000596

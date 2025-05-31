@@ -1,0 +1,75 @@
+Sample 166
+==========
+
+Sample text preview: On Mon, Aug the voices made CertaintyTech write: > Recently I have been receiving Spam where both the From: and To: address are > set to my address th...
+
+Model prediction: [9.9971944e-01 2.8050286e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. d                    | Impact: -0.015514 → LEGITIMATE
+ 2.  os                  | Impact: -0.015021 → LEGITIMATE
+ 3.  >                   | Impact: -0.008916 → LEGITIMATE
+ 4.  suggestions         | Impact: -0.007354 → LEGITIMATE
+ 5.  >                   | Impact: -0.007353 → LEGITIMATE
+ 6.  >                   | Impact: -0.006299 → LEGITIMATE
+ 7.  :                   | Impact: -0.006144 → LEGITIMATE
+ 8.  :                   | Impact: -0.005978 → LEGITIMATE
+ 9.  by                  | Impact: -0.005067 → LEGITIMATE
+10.  :                   | Impact: -0.005067 → LEGITIMATE
+11.  :                   | Impact: -0.004305 → LEGITIMATE
+12.  mon                 | Impact: -0.004071 → LEGITIMATE
+13.  on                  | Impact: -0.004053 → LEGITIMATE
+14.  advantages          | Impact: -0.003688 → LEGITIMATE
+15. n                    | Impact: -0.003618 → LEGITIMATE
+16.  ?                   | Impact: -0.003563 → LEGITIMATE
+17.  aw                  | Impact: -0.003410 → LEGITIMATE
+18. l                    | Impact: -0.003410 → LEGITIMATE
+19.  .                   | Impact: -0.003408 → LEGITIMATE
+20.  write               | Impact: -0.003366 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  both                | Impact: 0.002652
+ 2.  where               | Impact: 0.001396
+ 3.  get                 | Impact: 0.000314
+ 4.  a                   | Impact: 0.000314
+ 5.  new                 | Impact: 0.000314
+ 6.  here                | Impact: 0.000314
+ 7.  for                 | Impact: 0.000314
+ 8.  free                | Impact: 0.000314
+ 9.  !                   | Impact: 0.000314
+10.  kun                 | Impact: 0.000289
+11. ska                  | Impact: 0.000289
+12. p                    | Impact: 0.000289
+13.  mo                  | Impact: 0.000289
+14. t                    | Impact: 0.000289
+15.  fr                  | Impact: 0.000289
+16. ih                   | Impact: 0.000289
+17. et                   | Impact: 0.000289
+18.  !                   | Impact: 0.000289
+19.  #                   | Impact: 0.000289
+20.  #                   | Impact: 0.000289
+
+Top features pushing towards LEGITIMATE classification:
+ 1. d                    | Impact: -0.015514
+ 2.  os                  | Impact: -0.015021
+ 3.  >                   | Impact: -0.008916
+ 4.  suggestions         | Impact: -0.007354
+ 5.  >                   | Impact: -0.007353
+ 6.  >                   | Impact: -0.006299
+ 7.  :                   | Impact: -0.006144
+ 8.  :                   | Impact: -0.005978
+ 9.  by                  | Impact: -0.005067
+10.  :                   | Impact: -0.005067
+11.  :                   | Impact: -0.004305
+12.  mon                 | Impact: -0.004071
+13.  on                  | Impact: -0.004053
+14.  advantages          | Impact: -0.003688
+15. n                    | Impact: -0.003618
+16.  ?                   | Impact: -0.003563
+17.  aw                  | Impact: -0.003410
+18. l                    | Impact: -0.003410
+19.  .                   | Impact: -0.003408
+20.  write               | Impact: -0.003366

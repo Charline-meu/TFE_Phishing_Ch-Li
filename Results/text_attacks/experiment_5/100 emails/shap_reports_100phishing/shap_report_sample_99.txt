@@ -1,0 +1,75 @@
+Phishing Sample 99
+==================
+
+Sample text preview: Adefobi Street, Ikoyi Island, Lagos. FROM:DR.PAUL BUGATI Dear Sir, I would like to firstly send to you the best wishes of good health and success in y...
+
+Model prediction: [1.7528702e-04 9.9982470e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  into                | Impact: 0.014254 → PHISHING
+ 2.  your                | Impact: 0.014254 → PHISHING
+ 3.  account             | Impact: 0.014254 → PHISHING
+ 4.  be                  | Impact: 0.014254 → PHISHING
+ 5.  transferred         | Impact: 0.014254 → PHISHING
+ 6.  share               | Impact: 0.008725 → PHISHING
+ 7.  the                 | Impact: 0.008725 → PHISHING
+ 8.  money               | Impact: 0.008725 → PHISHING
+ 9.  to                  | Impact: 0.008725 → PHISHING
+10.  lagos               | Impact: 0.008284 → PHISHING
+11.  .                   | Impact: 0.008284 → PHISHING
+12.  am                  | Impact: 0.006776 → PHISHING
+13.  seeking             | Impact: 0.006776 → PHISHING
+14.  your                | Impact: 0.006776 → PHISHING
+15.  assistance          | Impact: 0.006776 → PHISHING
+16.  .                   | Impact: 0.006776 → PHISHING
+17.  we                  | Impact: 0.006458 → PHISHING
+18.  have                | Impact: 0.006458 → PHISHING
+19.  agreed              | Impact: 0.006458 → PHISHING
+20.  to                  | Impact: 0.006458 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  into                | Impact: 0.014254
+ 2.  your                | Impact: 0.014254
+ 3.  account             | Impact: 0.014254
+ 4.  be                  | Impact: 0.014254
+ 5.  transferred         | Impact: 0.014254
+ 6.  share               | Impact: 0.008725
+ 7.  the                 | Impact: 0.008725
+ 8.  money               | Impact: 0.008725
+ 9.  to                  | Impact: 0.008725
+10.  lagos               | Impact: 0.008284
+11.  .                   | Impact: 0.008284
+12.  am                  | Impact: 0.006776
+13.  seeking             | Impact: 0.006776
+14.  your                | Impact: 0.006776
+15.  assistance          | Impact: 0.006776
+16.  .                   | Impact: 0.006776
+17.  we                  | Impact: 0.006458
+18.  have                | Impact: 0.006458
+19.  agreed              | Impact: 0.006458
+20.  to                  | Impact: 0.006458
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.000012
+ 2.  iii                 | Impact: -0.000012
+ 3.  )                   | Impact: -0.000012
+ 4.  %                   | Impact: -0.000012
+ 5.  to                  | Impact: -0.000012
+ 6.  be                  | Impact: -0.000012
+ 7.  used                | Impact: -0.000012
+ 8.  in                  | Impact: -0.000012
+ 9.  settling            | Impact: -0.000012
+10.  all                 | Impact: -0.000012
+11.  expenses            | Impact: -0.000012
+12.  (                   | Impact: -0.000012
+13.  by                  | Impact: -0.000012
+14.  both                | Impact: -0.000012
+15.  you                 | Impact: -0.000012
+16.  and                 | Impact: -0.000012
+17.  us                  | Impact: -0.000012
+18.  )                   | Impact: -0.000012
+19.  incident            | Impact: -0.000012
+20. al                   | Impact: -0.000012

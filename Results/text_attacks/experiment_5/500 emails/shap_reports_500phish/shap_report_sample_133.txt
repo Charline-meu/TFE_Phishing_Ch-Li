@@ -1,0 +1,68 @@
+Sample 133
+==========
+
+Sample text preview: ATTN: PLEASE, My name is Edward, I am a consulting auditor with one of the prime banks here in South Africa. I am writing in respect of a foreign cust...
+
+Model prediction: [1.631808e-04 9.998368e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bank                | Impact: 0.022429 → PHISHING
+ 2.  account             | Impact: 0.022429 → PHISHING
+ 3.  your                | Impact: 0.018846 → PHISHING
+ 4.  safe                | Impact: 0.018846 → PHISHING
+ 5.  country             | Impact: 0.013035 → PHISHING
+ 6.  while               | Impact: 0.013035 → PHISHING
+ 7.  in                  | Impact: 0.012946 → PHISHING
+ 8.  your                | Impact: 0.012946 → PHISHING
+ 9.  transfer            | Impact: 0.006772 → PHISHING
+10.  sum                 | Impact: 0.006772 → PHISHING
+11.  ,                   | Impact: 0.006772 → PHISHING
+12.  bank                | Impact: 0.005852 → PHISHING
+13.  who                 | Impact: 0.005852 → PHISHING
+14.  perished            | Impact: 0.005852 → PHISHING
+15.  with                | Impact: 0.005852 → PHISHING
+16.  customer            | Impact: 0.005819 → PHISHING
+17.  of                  | Impact: 0.005819 → PHISHING
+18.  my                  | Impact: 0.005819 → PHISHING
+19.  client              | Impact: 0.005819 → PHISHING
+20.  the                 | Impact: 0.005560 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.022429
+ 2.  account             | Impact: 0.022429
+ 3.  your                | Impact: 0.018846
+ 4.  safe                | Impact: 0.018846
+ 5.  country             | Impact: 0.013035
+ 6.  while               | Impact: 0.013035
+ 7.  in                  | Impact: 0.012946
+ 8.  your                | Impact: 0.012946
+ 9.  transfer            | Impact: 0.006772
+10.  sum                 | Impact: 0.006772
+11.  ,                   | Impact: 0.006772
+12.  bank                | Impact: 0.005852
+13.  who                 | Impact: 0.005852
+14.  perished            | Impact: 0.005852
+15.  with                | Impact: 0.005852
+16.  customer            | Impact: 0.005819
+17.  of                  | Impact: 0.005819
+18.  my                  | Impact: 0.005819
+19.  client              | Impact: 0.005819
+20.  the                 | Impact: 0.005560
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.000480
+ 2.  am                  | Impact: -0.000480
+ 3.  writing             | Impact: -0.000480
+ 4.  in                  | Impact: -0.000480
+ 5.  respect             | Impact: -0.000480
+ 6.  of                  | Impact: -0.000480
+ 7.  a                   | Impact: -0.000480
+ 8.  foreign             | Impact: -0.000480
+ 9.  [                   | Impact: -0.000023
+10.  ten                 | Impact: -0.000023
+11.  million             | Impact: -0.000023
+12.  ]                   | Impact: -0.000023
+13.  and                 | Impact: -0.000023

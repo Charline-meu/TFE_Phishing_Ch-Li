@@ -1,0 +1,49 @@
+Sample 252
+==========
+
+Sample text preview: Hi Password for expires today Monday ,Nov. Keep My Same Password
+
+Model prediction: [0.00214593 0.99785405]
+Predicted class: PHISHING with 0.9979 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  password            | Impact: 0.311603 → PHISHING
+ 2.  ex                  | Impact: 0.311027 → PHISHING
+ 3.  monday              | Impact: -0.307900 → LEGITIMATE
+ 4.  password            | Impact: 0.282820 → PHISHING
+ 5.  hi                  | Impact: 0.177225 → PHISHING
+ 6.  nov                 | Impact: -0.176397 → LEGITIMATE
+ 7.  keep                | Impact: 0.147588 → PHISHING
+ 8. s                    | Impact: -0.109233 → LEGITIMATE
+ 9. pire                 | Impact: 0.096378 → PHISHING
+10.  my                  | Impact: 0.095436 → PHISHING
+11.  today               | Impact: -0.077972 → LEGITIMATE
+12.  .                   | Impact: 0.059549 → PHISHING
+13.  same                | Impact: 0.053940 → PHISHING
+14.  ,                   | Impact: -0.044171 → LEGITIMATE
+15.  for                 | Impact: 0.007224 → PHISHING
+16.                      | Impact: -0.000000 → LEGITIMATE
+17.                      | Impact: 0.000000 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  password            | Impact: 0.311603
+ 2.  ex                  | Impact: 0.311027
+ 3.  password            | Impact: 0.282820
+ 4.  hi                  | Impact: 0.177225
+ 5.  keep                | Impact: 0.147588
+ 6. pire                 | Impact: 0.096378
+ 7.  my                  | Impact: 0.095436
+ 8.  .                   | Impact: 0.059549
+ 9.  same                | Impact: 0.053940
+10.  for                 | Impact: 0.007224
+11.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  monday              | Impact: -0.307900
+ 2.  nov                 | Impact: -0.176397
+ 3. s                    | Impact: -0.109233
+ 4.  today               | Impact: -0.077972
+ 5.  ,                   | Impact: -0.044171
+ 6.                      | Impact: -0.000000

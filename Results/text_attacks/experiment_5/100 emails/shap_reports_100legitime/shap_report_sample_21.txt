@@ -1,0 +1,69 @@
+Phishing Sample 21
+==================
+
+Sample text preview: Steve, I assume it's : a.m. my time, Monday. It works for me. I haven't responded in time to the your message re Thursday. I had a few back to back me...
+
+Model prediction: [9.9980444e-01 1.9562099e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  steve               | Impact: -0.006143 → LEGITIMATE
+ 2.  monday              | Impact: -0.006033 → LEGITIMATE
+ 3.  .                   | Impact: -0.004680 → LEGITIMATE
+ 4.  responded           | Impact: -0.003977 → LEGITIMATE
+ 5.  assume              | Impact: -0.002974 → LEGITIMATE
+ 6.  .                   | Impact: -0.002764 → LEGITIMATE
+ 7.  .                   | Impact: -0.002764 → LEGITIMATE
+ 8.  :                   | Impact: -0.002641 → LEGITIMATE
+ 9.  ec                  | Impact: -0.002573 → LEGITIMATE
+10.                      | Impact: -0.002565 → LEGITIMATE
+11.  ec                  | Impact: -0.002339 → LEGITIMATE
+12.  :                   | Impact: -0.002259 → LEGITIMATE
+13.  /                   | Impact: -0.002105 → LEGITIMATE
+14.  ec                  | Impact: -0.002090 → LEGITIMATE
+15. t                    | Impact: -0.002090 → LEGITIMATE
+16.  ec                  | Impact: -0.002068 → LEGITIMATE
+17. t                    | Impact: -0.002068 → LEGITIMATE
+18.  :                   | Impact: -0.002063 → LEGITIMATE
+19.  a                   | Impact: -0.002063 → LEGITIMATE
+20.  (                   | Impact: -0.002053 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.001550
+ 2.  time                | Impact: 0.001550
+ 3.  tan                 | Impact: 0.000339
+ 4. i                    | Impact: 0.000339
+ 5.  f                   | Impact: 0.000327
+ 6. yi                   | Impact: 0.000327
+ 7.  m                   | Impact: 0.000116
+ 8.  .                   | Impact: 0.000116
+ 9.  i                   | Impact: 0.000057
+10.  haven               | Impact: 0.000057
+11.  '                   | Impact: 0.000057
+12.  t                   | Impact: 0.000057
+13.  sent                | Impact: 0.000051
+14.  to                  | Impact: 0.000051
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  steve               | Impact: -0.006143
+ 2.  monday              | Impact: -0.006033
+ 3.  .                   | Impact: -0.004680
+ 4.  responded           | Impact: -0.003977
+ 5.  assume              | Impact: -0.002974
+ 6.  .                   | Impact: -0.002764
+ 7.  .                   | Impact: -0.002764
+ 8.  :                   | Impact: -0.002641
+ 9.  ec                  | Impact: -0.002573
+10.                      | Impact: -0.002565
+11.  ec                  | Impact: -0.002339
+12.  :                   | Impact: -0.002259
+13.  /                   | Impact: -0.002105
+14.  ec                  | Impact: -0.002090
+15. t                    | Impact: -0.002090
+16.  ec                  | Impact: -0.002068
+17. t                    | Impact: -0.002068
+18.  :                   | Impact: -0.002063
+19.  a                   | Impact: -0.002063
+20.  (                   | Impact: -0.002053

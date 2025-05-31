@@ -1,0 +1,75 @@
+Phishing Sample 43
+==================
+
+Sample text preview: Pam, Another term paper: John Ganguzza Neeraj Hingorani Grant Johnson Duane Maue Rishad Patel Eric van Stone Palo Yoshiuro Grade: A Please, confirm. V...
+
+Model prediction: [9.9980277e-01 1.9729392e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. rani                 | Impact: 0.062263 → PHISHING
+ 2.  paper               | Impact: -0.057508 → LEGITIMATE
+ 3.  nee                 | Impact: 0.056342 → PHISHING
+ 4.  :                   | Impact: -0.041191 → LEGITIMATE
+ 5.  gang                | Impact: 0.035708 → PHISHING
+ 6.  term                | Impact: -0.034040 → LEGITIMATE
+ 7.  john                | Impact: -0.024611 → LEGITIMATE
+ 8. raj                  | Impact: 0.019132 → PHISHING
+ 9. ngo                  | Impact: -0.013781 → LEGITIMATE
+10.  patel               | Impact: 0.013699 → PHISHING
+11.  another             | Impact: -0.012532 → LEGITIMATE
+12.  yo                  | Impact: 0.007192 → PHISHING
+13. za                   | Impact: 0.006370 → PHISHING
+14. uro                  | Impact: -0.006022 → LEGITIMATE
+15.  grant               | Impact: -0.005757 → LEGITIMATE
+16.  .                   | Impact: -0.005215 → LEGITIMATE
+17. shi                  | Impact: -0.005149 → LEGITIMATE
+18.  duane               | Impact: -0.004971 → LEGITIMATE
+19. ue                   | Impact: -0.004856 → LEGITIMATE
+20.  palo                | Impact: 0.004557 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1. rani                 | Impact: 0.062263
+ 2.  nee                 | Impact: 0.056342
+ 3.  gang                | Impact: 0.035708
+ 4. raj                  | Impact: 0.019132
+ 5.  patel               | Impact: 0.013699
+ 6.  yo                  | Impact: 0.007192
+ 7. za                   | Impact: 0.006370
+ 8.  palo                | Impact: 0.004557
+ 9.  ri                  | Impact: 0.002396
+10.  ma                  | Impact: 0.002055
+11.  van                 | Impact: 0.002033
+12.  ,                   | Impact: 0.001912
+13.  vince               | Impact: 0.001684
+14.  please              | Impact: 0.001454
+15. sha                  | Impact: 0.001287
+16.  stone               | Impact: 0.001196
+17.  johnson             | Impact: 0.001169
+18.  confirm             | Impact: 0.000536
+19.  hi                  | Impact: 0.000393
+20.  a                   | Impact: 0.000222
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  paper               | Impact: -0.057508
+ 2.  :                   | Impact: -0.041191
+ 3.  term                | Impact: -0.034040
+ 4.  john                | Impact: -0.024611
+ 5. ngo                  | Impact: -0.013781
+ 6.  another             | Impact: -0.012532
+ 7. uro                  | Impact: -0.006022
+ 8.  grant               | Impact: -0.005757
+ 9.  .                   | Impact: -0.005215
+10. shi                  | Impact: -0.005149
+11.  duane               | Impact: -0.004971
+12. ue                   | Impact: -0.004856
+13.  grade               | Impact: -0.004000
+14.  :                   | Impact: -0.003863
+15. d                    | Impact: -0.003440
+16. uz                   | Impact: -0.003197
+17.  pam                 | Impact: -0.002779
+18.  ,                   | Impact: -0.002440
+19.  eric                | Impact: -0.002379
+20.                      | Impact: -0.000019

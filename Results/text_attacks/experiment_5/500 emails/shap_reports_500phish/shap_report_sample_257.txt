@@ -1,0 +1,75 @@
+Sample 257
+==========
+
+Sample text preview: `Av�AE{B�D�D]FnE �DSEF�FDOA[FC�F`Av�AE{Be�Cb`ASEF�FDeElDQDcAefFYAvu[�AENF �~E~EDOFu`Av�AE{B�C`A��zCBSS~A`Av�AE{B�D�D �D�gDRAfFQD�v S~A�AE{B�D�D�D�CC N...
+
+Model prediction: [4.9860758e-04 9.9950135e-01]
+Predicted class: PHISHING with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  \                   | Impact: 0.098785 → PHISHING
+ 2.  checked             | Impact: 0.050052 → PHISHING
+ 3.  nee                 | Impact: 0.040634 → PHISHING
+ 4.  email               | Impact: 0.030459 → PHISHING
+ 5.  software            | Impact: -0.029682 → LEGITIMATE
+ 6.  anti                | Impact: -0.029402 → LEGITIMATE
+ 7. virus                | Impact: -0.029402 → LEGITIMATE
+ 8.  ds                  | Impact: 0.027434 → PHISHING
+ 9. dee                  | Impact: 0.023557 → PHISHING
+10.  `                   | Impact: 0.023505 → PHISHING
+11.  {                   | Impact: 0.022641 → PHISHING
+12. c                    | Impact: 0.022047 → PHISHING
+13.  has                 | Impact: 0.020936 → PHISHING
+14. ef                   | Impact: 0.020588 → PHISHING
+15. f                    | Impact: 0.017941 → PHISHING
+16. oc                   | Impact: 0.017658 → PHISHING
+17.  for                 | Impact: -0.017438 → LEGITIMATE
+18.  viruses             | Impact: -0.017438 → LEGITIMATE
+19. dc                   | Impact: 0.016562 → PHISHING
+20. f                    | Impact: 0.016347 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  \                   | Impact: 0.098785
+ 2.  checked             | Impact: 0.050052
+ 3.  nee                 | Impact: 0.040634
+ 4.  email               | Impact: 0.030459
+ 5.  ds                  | Impact: 0.027434
+ 6. dee                  | Impact: 0.023557
+ 7.  `                   | Impact: 0.023505
+ 8.  {                   | Impact: 0.022641
+ 9. c                    | Impact: 0.022047
+10.  has                 | Impact: 0.020936
+11. ef                   | Impact: 0.020588
+12. f                    | Impact: 0.017941
+13. oc                   | Impact: 0.017658
+14. dc                   | Impact: 0.016562
+15. f                    | Impact: 0.016347
+16.  ae                  | Impact: 0.016309
+17. n                    | Impact: 0.016309
+18.  ~                   | Impact: 0.014603
+19.  been                | Impact: 0.014337
+20.  `                   | Impact: 0.013510
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  software            | Impact: -0.029682
+ 2.  anti                | Impact: -0.029402
+ 3. virus                | Impact: -0.029402
+ 4.  for                 | Impact: -0.017438
+ 5.  viruses             | Impact: -0.017438
+ 6.  .                   | Impact: -0.010975
+ 7.  by                  | Impact: -0.008980
+ 8.  ava                 | Impact: -0.008734
+ 9. st                   | Impact: -0.008734
+10.  [                   | Impact: -0.007996
+11.  cbc                 | Impact: -0.007996
+12.  -                   | Impact: -0.007848
+13.  -                   | Impact: -0.007848
+14.  [                   | Impact: -0.003355
+15.  fc                  | Impact: -0.003014
+16. f                    | Impact: -0.003014
+17.  `                   | Impact: -0.001632
+18. s                    | Impact: -0.001367
+19.  [                   | Impact: -0.000236
+20.  ae                  | Impact: -0.000236

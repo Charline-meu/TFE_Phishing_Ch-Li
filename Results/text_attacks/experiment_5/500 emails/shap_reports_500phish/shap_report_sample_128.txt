@@ -1,0 +1,75 @@
+Sample 128
+==========
+
+Sample text preview: Hello ~name~, If you ordered a flat-rate domestic calling product or a minute free trial using a local access number, your service will be operating i...
+
+Model prediction: [8.0983044e-04 9.9919015e-01]
+Predicted class: PHISHING with 0.9992 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.040239 → PHISHING
+ 2.  service             | Impact: 0.025633 → PHISHING
+ 3.  your                | Impact: 0.020570 → PHISHING
+ 4.  service             | Impact: 0.020570 → PHISHING
+ 5.                      | Impact: 0.015344 → PHISHING
+ 6.  hello               | Impact: 0.015344 → PHISHING
+ 7.  ~                   | Impact: 0.012959 → PHISHING
+ 8.  name                | Impact: 0.012959 → PHISHING
+ 9.  ~                   | Impact: 0.012959 → PHISHING
+10.  will                | Impact: 0.011160 → PHISHING
+11.  be                  | Impact: 0.011160 → PHISHING
+12.  you                 | Impact: 0.010139 → PHISHING
+13.  will                | Impact: 0.010139 → PHISHING
+14.  never               | Impact: 0.010139 → PHISHING
+15.  pay                 | Impact: 0.010139 → PHISHING
+16.  service             | Impact: 0.009429 → PHISHING
+17.  quicker             | Impact: 0.009429 → PHISHING
+18.  and                 | Impact: 0.009429 → PHISHING
+19.  this                | Impact: 0.009072 → PHISHING
+20.  will                | Impact: 0.009072 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.040239
+ 2.  service             | Impact: 0.025633
+ 3.  your                | Impact: 0.020570
+ 4.  service             | Impact: 0.020570
+ 5.                      | Impact: 0.015344
+ 6.  hello               | Impact: 0.015344
+ 7.  ~                   | Impact: 0.012959
+ 8.  name                | Impact: 0.012959
+ 9.  ~                   | Impact: 0.012959
+10.  will                | Impact: 0.011160
+11.  be                  | Impact: 0.011160
+12.  you                 | Impact: 0.010139
+13.  will                | Impact: 0.010139
+14.  never               | Impact: 0.010139
+15.  pay                 | Impact: 0.010139
+16.  service             | Impact: 0.009429
+17.  quicker             | Impact: 0.009429
+18.  and                 | Impact: 0.009429
+19.  this                | Impact: 0.009072
+20.  will                | Impact: 0.009072
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  op                  | Impact: -0.004076
+ 2. ex                   | Impact: -0.004076
+ 3.  ,                   | Impact: -0.004076
+ 4.  usual               | Impact: -0.002303
+ 5.  rates               | Impact: -0.002303
+ 6.  are                 | Impact: -0.002303
+ 7.  .                   | Impact: -0.002303
+ 8.  for                 | Impact: -0.002150
+ 9.  more                | Impact: -0.002150
+10.  information         | Impact: -0.002150
+11.  on                  | Impact: -0.002150
+12.  in                  | Impact: -0.001797
+13.  addition            | Impact: -0.001797
+14.  ,                   | Impact: -0.001797
+15.  on                  | Impact: -0.001690
+16.  :                   | Impact: -0.001690
+17.                      | Impact: -0.001690
+18.  way                 | Impact: -0.001676
+19.  calling             | Impact: -0.001676
+20.  ,                   | Impact: -0.001676

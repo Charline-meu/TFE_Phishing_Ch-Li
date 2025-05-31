@@ -1,0 +1,75 @@
+Sample 482
+==========
+
+Sample text preview: Dear Sirs, We know your esteemed company in beach towels from Internet, and pleased to introduce us as a leading producer of high quality % cotton vel...
+
+Model prediction: [2.8236149e-04 9.9971765e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.063409 → PHISHING
+ 2.  dear                | Impact: 0.049127 → PHISHING
+ 3.  company             | Impact: 0.044229 → PHISHING
+ 4.  website             | Impact: 0.041668 → PHISHING
+ 5.  your                | Impact: 0.040377 → PHISHING
+ 6.  our                 | Impact: 0.036349 → PHISHING
+ 7.  business            | Impact: 0.033628 → PHISHING
+ 8.  disney              | Impact: -0.027154 → LEGITIMATE
+ 9.  you                 | Impact: 0.022934 → PHISHING
+10.  henan               | Impact: 0.019881 → PHISHING
+11.  you                 | Impact: 0.019589 → PHISHING
+12.  ,                   | Impact: 0.018636 → PHISHING
+13.  we                  | Impact: 0.018395 → PHISHING
+14.  refer               | Impact: 0.017977 → PHISHING
+15.  to                  | Impact: 0.017977 → PHISHING
+16.  pc                  | Impact: 0.017860 → PHISHING
+17.  please              | Impact: 0.017647 → PHISHING
+18.  esteem              | Impact: 0.017292 → PHISHING
+19. ed                   | Impact: 0.017292 → PHISHING
+20.  sir                 | Impact: 0.016376 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.063409
+ 2.  dear                | Impact: 0.049127
+ 3.  company             | Impact: 0.044229
+ 4.  website             | Impact: 0.041668
+ 5.  your                | Impact: 0.040377
+ 6.  our                 | Impact: 0.036349
+ 7.  business            | Impact: 0.033628
+ 8.  you                 | Impact: 0.022934
+ 9.  henan               | Impact: 0.019881
+10.  you                 | Impact: 0.019589
+11.  ,                   | Impact: 0.018636
+12.  we                  | Impact: 0.018395
+13.  refer               | Impact: 0.017977
+14.  to                  | Impact: 0.017977
+15.  pc                  | Impact: 0.017860
+16.  please              | Impact: 0.017647
+17.  esteem              | Impact: 0.017292
+18. ed                   | Impact: 0.017292
+19.  sir                 | Impact: 0.016376
+20.  esteem              | Impact: 0.014594
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  disney              | Impact: -0.027154
+ 2.  relationship        | Impact: -0.004509
+ 3.  standard            | Impact: -0.003547
+ 4.  :                   | Impact: -0.003547
+ 5.  x                   | Impact: -0.003547
+ 6.  inches              | Impact: -0.003547
+ 7.  .                   | Impact: -0.003037
+ 8.  :                   | Impact: -0.002391
+ 9.  patterns            | Impact: -0.001930
+10.  about               | Impact: -0.001930
+11.  our                 | Impact: -0.001930
+12.  products            | Impact: -0.001930
+13.  this                | Impact: -0.001884
+14.  field               | Impact: -0.001884
+15.  .                   | Impact: -0.001884
+16.  with                | Impact: -0.001274
+17.  the                 | Impact: -0.000388
+18.  following           | Impact: -0.000388
+19.  sizes               | Impact: -0.000388
+20.  and                 | Impact: -0.000388

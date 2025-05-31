@@ -1,0 +1,75 @@
+Sample 163
+==========
+
+Sample text preview: Phone +-- Fax +-- ATTN: DIRECTOR/CEO. I am MR ALBERT SITHOLI, the Bank Manager of Amalgamated Bank of South Africa {ABSA}. I have urgent and very conf...
+
+Model prediction: [1.7683007e-04 9.9982315e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.026026 → PHISHING
+ 2.  mr                  | Impact: 0.015827 → PHISHING
+ 3.  albert              | Impact: 0.015827 → PHISHING
+ 4.  .                   | Impact: 0.014762 → PHISHING
+ 5.  for                 | Impact: 0.013457 → PHISHING
+ 6.  you                 | Impact: 0.013457 → PHISHING
+ 7.  .                   | Impact: 0.013457 → PHISHING
+ 8.  very                | Impact: 0.010182 → PHISHING
+ 9.  confidential        | Impact: 0.010182 → PHISHING
+10.  business            | Impact: 0.010182 → PHISHING
+11.  proposal            | Impact: 0.010182 → PHISHING
+12.  i                   | Impact: 0.010055 → PHISHING
+13.  am                  | Impact: 0.010055 → PHISHING
+14.  i                   | Impact: 0.006611 → PHISHING
+15.  have                | Impact: 0.006611 → PHISHING
+16.  urgent              | Impact: 0.006611 → PHISHING
+17.  south               | Impact: 0.006314 → PHISHING
+18.  african             | Impact: 0.006314 → PHISHING
+19.  solid               | Impact: 0.006314 → PHISHING
+20.  gold                | Impact: 0.006314 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.026026
+ 2.  mr                  | Impact: 0.015827
+ 3.  albert              | Impact: 0.015827
+ 4.  .                   | Impact: 0.014762
+ 5.  for                 | Impact: 0.013457
+ 6.  you                 | Impact: 0.013457
+ 7.  .                   | Impact: 0.013457
+ 8.  very                | Impact: 0.010182
+ 9.  confidential        | Impact: 0.010182
+10.  business            | Impact: 0.010182
+11.  proposal            | Impact: 0.010182
+12.  i                   | Impact: 0.010055
+13.  am                  | Impact: 0.010055
+14.  i                   | Impact: 0.006611
+15.  have                | Impact: 0.006611
+16.  urgent              | Impact: 0.006611
+17.  south               | Impact: 0.006314
+18.  african             | Impact: 0.006314
+19.  solid               | Impact: 0.006314
+20.  gold                | Impact: 0.006314
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.000860
+ 2.  phone               | Impact: -0.000860
+ 3.  +                   | Impact: -0.000860
+ 4.  -                   | Impact: -0.000860
+ 5.  -                   | Impact: -0.000860
+ 6.  (                   | Impact: -0.000757
+ 7.  twenty              | Impact: -0.000757
+ 8.  million             | Impact: -0.000757
+ 9.  dollars             | Impact: -0.000757
+10.  )                   | Impact: -0.000757
+11.  made                | Impact: -0.000456
+12.  a                   | Impact: -0.000456
+13.  numbered            | Impact: -0.000456
+14.  time                | Impact: -0.000456
+15.  glenn               | Impact: -0.000456
+16.  hat                 | Impact: -0.000456
+17. le                   | Impact: -0.000456
+18. berg                 | Impact: -0.000456
+19.  (                   | Impact: -0.000456
+20.  fixed               | Impact: -0.000456

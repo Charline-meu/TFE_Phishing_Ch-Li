@@ -1,0 +1,75 @@
+Sample 146
+==========
+
+Sample text preview: has anyone got information on enabling ffs support in the kernel, i was looking around, and information on the subject seems to be sparse. - Yahoo! Di...
+
+Model prediction: [9.9978667e-01 2.1339869e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  subscription        | Impact: 0.038794 → PHISHING
+ 2.  users               | Impact: 0.012038 → PHISHING
+ 3.  linux               | Impact: -0.011770 → LEGITIMATE
+ 4.  .                   | Impact: -0.009194 → LEGITIMATE
+ 5.  group               | Impact: -0.008745 → LEGITIMATE
+ 6.  un                  | Impact: -0.008363 → LEGITIMATE
+ 7.  :                   | Impact: -0.008267 → LEGITIMATE
+ 8.  for                 | Impact: -0.008221 → LEGITIMATE
+ 9.  has                 | Impact: 0.008172 → PHISHING
+10.  -                   | Impact: -0.007467 → LEGITIMATE
+11.  got                 | Impact: -0.007406 → LEGITIMATE
+12.  -                   | Impact: -0.006485 → LEGITIMATE
+13.  maintain            | Impact: -0.004957 → LEGITIMATE
+14.  ff                  | Impact: -0.004726 → LEGITIMATE
+15.  '                   | Impact: -0.004548 → LEGITIMATE
+16.  kernel              | Impact: -0.004480 → LEGITIMATE
+17.  was                 | Impact: 0.004160 → PHISHING
+18. er                   | Impact: -0.004150 → LEGITIMATE
+19.  )                   | Impact: 0.003860 → PHISHING
+20.  anyone              | Impact: -0.003836 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  subscription        | Impact: 0.038794
+ 2.  users               | Impact: 0.012038
+ 3.  has                 | Impact: 0.008172
+ 4.  was                 | Impact: 0.004160
+ 5.  )                   | Impact: 0.003860
+ 6.  irish               | Impact: 0.003266
+ 7.  in                  | Impact: 0.002854
+ 8.  i                   | Impact: 0.002488
+ 9.  :                   | Impact: 0.001952
+10.  .                   | Impact: 0.001416
+11.  sparse              | Impact: 0.001106
+12.  on                  | Impact: 0.001055
+13.  list                | Impact: 0.000745
+14.  (                   | Impact: 0.000298
+15.  seems               | Impact: 0.000195
+16.  -                   | Impact: 0.000007
+17.  yahoo               | Impact: 0.000007
+18.  !                   | Impact: 0.000007
+19.  digital             | Impact: 0.000007
+20.  how                 | Impact: 0.000007
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  linux               | Impact: -0.011770
+ 2.  .                   | Impact: -0.009194
+ 3.  group               | Impact: -0.008745
+ 4.  un                  | Impact: -0.008363
+ 5.  :                   | Impact: -0.008267
+ 6.  for                 | Impact: -0.008221
+ 7.  -                   | Impact: -0.007467
+ 8.  got                 | Impact: -0.007406
+ 9.  -                   | Impact: -0.006485
+10.  maintain            | Impact: -0.004957
+11.  ff                  | Impact: -0.004726
+12.  '                   | Impact: -0.004548
+13.  kernel              | Impact: -0.004480
+14. er                   | Impact: -0.004150
+15.  anyone              | Impact: -0.003836
+16.  information         | Impact: -0.003819
+17.  subject             | Impact: -0.003729
+18.  looking             | Impact: -0.003014
+19.  ,                   | Impact: -0.002900
+20.  information         | Impact: -0.002884

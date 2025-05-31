@@ -1,0 +1,75 @@
+Sample 138
+==========
+
+Sample text preview: PERFECT price. PERFECT present! Etsy has it. Etsy ( ) Home Favorites ( ) Gift Guides ( ) Blog ( ) YOUR GIFT MISSION ( ) Save up to ( ) % OFF! ( ) Term...
+
+Model prediction: [9.9963212e-01 3.6787475e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  required            | Impact: -0.005206 → LEGITIMATE
+ 2.  et                  | Impact: -0.004749 → LEGITIMATE
+ 3.  terms               | Impact: -0.004686 → LEGITIMATE
+ 4.  apply               | Impact: -0.004686 → LEGITIMATE
+ 5.  budget              | Impact: -0.004294 → LEGITIMATE
+ 6.  items               | Impact: -0.003819 → LEGITIMATE
+ 7.  %                   | Impact: -0.003461 → LEGITIMATE
+ 8.  et                  | Impact: -0.003376 → LEGITIMATE
+ 9. sy                   | Impact: -0.003376 → LEGITIMATE
+10. sy                   | Impact: -0.003318 → LEGITIMATE
+11.  copyright           | Impact: -0.003303 → LEGITIMATE
+12.  :                   | Impact: -0.002820 → LEGITIMATE
+13.  et                  | Impact: -0.002778 → LEGITIMATE
+14. sy                   | Impact: -0.002778 → LEGITIMATE
+15.  display             | Impact: -0.002737 → LEGITIMATE
+16.  content             | Impact: -0.002570 → LEGITIMATE
+17.  off                 | Impact: -0.002559 → LEGITIMATE
+18.  :                   | Impact: -0.002559 → LEGITIMATE
+19.  :                   | Impact: -0.002480 → LEGITIMATE
+20.  et                  | Impact: -0.002363 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  shop                | Impact: 0.000857
+ 2.  now                 | Impact: 0.000857
+ 3.  (                   | Impact: 0.000857
+ 4.  )                   | Impact: 0.000857
+ 5.  live                | Impact: 0.000746
+ 6.  elsewhere           | Impact: 0.000746
+ 7.  ,                   | Impact: 0.000746
+ 8.  registered          | Impact: 0.000375
+ 9.  on                  | Impact: 0.000375
+10.  *                   | Impact: 0.000355
+11.  ends                | Impact: 0.000355
+12.  november            | Impact: 0.000355
+13.  ,                   | Impact: 0.000355
+14.  to                  | Impact: 0.000240
+15.  stop                | Impact: 0.000240
+16.  receiving           | Impact: 0.000240
+17.  (                   | Impact: 0.000191
+18.  )                   | Impact: 0.000191
+19.  shop                | Impact: 0.000191
+20.  with                | Impact: 0.000191
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  required            | Impact: -0.005206
+ 2.  et                  | Impact: -0.004749
+ 3.  terms               | Impact: -0.004686
+ 4.  apply               | Impact: -0.004686
+ 5.  budget              | Impact: -0.004294
+ 6.  items               | Impact: -0.003819
+ 7.  %                   | Impact: -0.003461
+ 8.  et                  | Impact: -0.003376
+ 9. sy                   | Impact: -0.003376
+10. sy                   | Impact: -0.003318
+11.  copyright           | Impact: -0.003303
+12.  :                   | Impact: -0.002820
+13.  et                  | Impact: -0.002778
+14. sy                   | Impact: -0.002778
+15.  display             | Impact: -0.002737
+16.  content             | Impact: -0.002570
+17.  off                 | Impact: -0.002559
+18.  :                   | Impact: -0.002559
+19.  :                   | Impact: -0.002480
+20.  et                  | Impact: -0.002363

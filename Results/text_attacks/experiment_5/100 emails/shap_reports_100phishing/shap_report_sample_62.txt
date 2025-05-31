@@ -1,0 +1,66 @@
+Phishing Sample 62
+==================
+
+Sample text preview: FROM: Mr.Daniel Mensah, GRAND FINANCE AND TRUST BANK. RUE CLUB DE L' AMITIE, B.P. COTONOU, BéNIN REPUBLIQUE. My Dear Friend, In Oder to transfer to ov...
+
+Model prediction: [1.8858822e-04 9.9981147e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.013907 → PHISHING
+ 2.  dear                | Impact: 0.013907 → PHISHING
+ 3.  friend              | Impact: 0.012985 → PHISHING
+ 4.  mr                  | Impact: 0.008967 → PHISHING
+ 5.  this                | Impact: 0.007570 → PHISHING
+ 6.  money               | Impact: 0.007570 → PHISHING
+ 7.  ,                   | Impact: 0.007570 → PHISHING
+ 8.  .                   | Impact: 0.006459 → PHISHING
+ 9.  transfer            | Impact: 0.005451 → PHISHING
+10.  this                | Impact: 0.005451 → PHISHING
+11.  funds               | Impact: 0.005451 → PHISHING
+12.  to                  | Impact: 0.005451 → PHISHING
+13.  your                | Impact: 0.005451 → PHISHING
+14.  account             | Impact: 0.005451 → PHISHING
+15.  as                  | Impact: 0.005451 → PHISHING
+16.  the                 | Impact: 0.005451 → PHISHING
+17.  ben                 | Impact: 0.005451 → PHISHING
+18. ef                   | Impact: 0.005451 → PHISHING
+19. icia                 | Impact: 0.005451 → PHISHING
+20. ry                   | Impact: 0.005451 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.013907
+ 2.  dear                | Impact: 0.013907
+ 3.  friend              | Impact: 0.012985
+ 4.  mr                  | Impact: 0.008967
+ 5.  this                | Impact: 0.007570
+ 6.  money               | Impact: 0.007570
+ 7.  ,                   | Impact: 0.007570
+ 8.  .                   | Impact: 0.006459
+ 9.  transfer            | Impact: 0.005451
+10.  this                | Impact: 0.005451
+11.  funds               | Impact: 0.005451
+12.  to                  | Impact: 0.005451
+13.  your                | Impact: 0.005451
+14.  account             | Impact: 0.005451
+15.  as                  | Impact: 0.005451
+16.  the                 | Impact: 0.005451
+17.  ben                 | Impact: 0.005451
+18. ef                   | Impact: 0.005451
+19. icia                 | Impact: 0.005451
+20. ry                   | Impact: 0.005451
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  quite               | Impact: -0.000359
+ 2. ly                   | Impact: -0.000359
+ 3.  .                   | Impact: -0.000359
+ 4.  even                | Impact: -0.000076
+ 5.  an                  | Impact: -0.000076
+ 6.  empty               | Impact: -0.000076
+ 7.  a                   | Impact: -0.000076
+ 8.  /                   | Impact: -0.000076
+ 9.  c                   | Impact: -0.000076
+10.  can                 | Impact: -0.000076
+11.  serve               | Impact: -0.000076

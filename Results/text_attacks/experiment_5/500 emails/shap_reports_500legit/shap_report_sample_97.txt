@@ -1,0 +1,75 @@
+Sample 97
+=========
+
+Sample text preview: On Thu, Aug , John P. Looney wrote: > I've found a decrepit raq that I'm going to resurrect, as soon as I work > out what's up with the console. > > I...
+
+Model prediction: [9.9978775e-01 2.1220902e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  port                | Impact: -0.002073 → LEGITIMATE
+ 2.  :                   | Impact: -0.001975 → LEGITIMATE
+ 3.  may                 | Impact: 0.001943 → PHISHING
+ 4.  should              | Impact: -0.001938 → LEGITIMATE
+ 5.  >                   | Impact: -0.001748 → LEGITIMATE
+ 6.  be                  | Impact: 0.001744 → PHISHING
+ 7. ud                   | Impact: -0.001585 → LEGITIMATE
+ 8.  >                   | Impact: -0.001440 → LEGITIMATE
+ 9.  wrote               | Impact: -0.001429 → LEGITIMATE
+10.  are                 | Impact: 0.001426 → PHISHING
+11.  serial              | Impact: 0.001419 → PHISHING
+12.  the                 | Impact: 0.001371 → PHISHING
+13.  :                   | Impact: -0.001203 → LEGITIMATE
+14.  ba                  | Impact: -0.001042 → LEGITIMATE
+15.  stuff               | Impact: -0.000982 → LEGITIMATE
+16.  like                | Impact: -0.000982 → LEGITIMATE
+17.  >                   | Impact: -0.000960 → LEGITIMATE
+18.  cobalt              | Impact: -0.000956 → LEGITIMATE
+19.  right               | Impact: 0.000881 → PHISHING
+20.  list                | Impact: -0.000867 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  may                 | Impact: 0.001943
+ 2.  be                  | Impact: 0.001744
+ 3.  are                 | Impact: 0.001426
+ 4.  serial              | Impact: 0.001419
+ 5.  the                 | Impact: 0.001371
+ 6.  right               | Impact: 0.000881
+ 7.  regards             | Impact: 0.000813
+ 8.  found               | Impact: 0.000713
+ 9.  ?                   | Impact: 0.000644
+10.  ve                  | Impact: 0.000547
+11.                      | Impact: 0.000452
+12.  on                  | Impact: 0.000452
+13.  ports               | Impact: 0.000408
+14.  i                   | Impact: 0.000349
+15.  '                   | Impact: 0.000349
+16.  using               | Impact: 0.000346
+17.  m                   | Impact: 0.000342
+18. pit                  | Impact: 0.000328
+19.  n                   | Impact: 0.000247
+20.  with                | Impact: 0.000235
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  port                | Impact: -0.002073
+ 2.  :                   | Impact: -0.001975
+ 3.  should              | Impact: -0.001938
+ 4.  >                   | Impact: -0.001748
+ 5. ud                   | Impact: -0.001585
+ 6.  >                   | Impact: -0.001440
+ 7.  wrote               | Impact: -0.001429
+ 8.  :                   | Impact: -0.001203
+ 9.  ba                  | Impact: -0.001042
+10.  stuff               | Impact: -0.000982
+11.  like                | Impact: -0.000982
+12.  >                   | Impact: -0.000960
+13.  cobalt              | Impact: -0.000956
+14.  list                | Impact: -0.000867
+15.  :                   | Impact: -0.000824
+16.  you                 | Impact: -0.000824
+17.  though              | Impact: -0.000772
+18. com                  | Impact: -0.000768
+19.  web                 | Impact: -0.000713
+20.  so                  | Impact: -0.000665

@@ -1,0 +1,75 @@
+Sample 205
+==========
+
+Sample text preview: Start Date: //; HourAhead hour: ; No ancillary schedules awarded. Variances detected. Variances detected in Load schedule. LOG MESSAGES: PARSING FILE ...
+
+Model prediction: [9.9977845e-01 2.2158050e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.020842 → LEGITIMATE
+ 2.  scheduling          | Impact: -0.008279 → LEGITIMATE
+ 3.  :                   | Impact: -0.007381 → LEGITIMATE
+ 4.  details             | Impact: -0.005796 → LEGITIMATE
+ 5.  final               | Impact: -0.005399 → LEGITIMATE
+ 6.  :                   | Impact: -0.005384 → LEGITIMATE
+ 7.  id                  | Impact: 0.005084 → PHISHING
+ 8.  sc                  | Impact: -0.004550 → LEGITIMATE
+ 9.  iso                 | Impact: -0.004498 → LEGITIMATE
+10.  :                   | Impact: -0.004392 → LEGITIMATE
+11. r                    | Impact: -0.004330 → LEGITIMATE
+12.  pg                  | Impact: -0.003860 → LEGITIMATE
+13.  mk                  | Impact: 0.003833 → PHISHING
+14.  :                   | Impact: -0.003338 → LEGITIMATE
+15.  \                   | Impact: 0.002994 → PHISHING
+16.  .                   | Impact: -0.002930 → LEGITIMATE
+17.  tb                  | Impact: 0.002889 → PHISHING
+18.  /                   | Impact: -0.002846 → LEGITIMATE
+19.  variance            | Impact: -0.002816 → LEGITIMATE
+20.  :                   | Impact: -0.002752 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  id                  | Impact: 0.005084
+ 2.  mk                  | Impact: 0.003833
+ 3.  \                   | Impact: 0.002994
+ 4.  tb                  | Impact: 0.002889
+ 5. t                    | Impact: 0.002625
+ 6.  \                   | Impact: 0.002437
+ 7. j                    | Impact: 0.002400
+ 8.  west                | Impact: 0.002025
+ 9.  \                   | Impact: 0.001941
+10.  \                   | Impact: 0.001720
+11.  (                   | Impact: 0.001543
+12.  portland            | Impact: 0.001541
+13. k                    | Impact: 0.001482
+14.  load                | Impact: 0.001400
+15.  no                  | Impact: 0.001250
+16. des                  | Impact: 0.000949
+17. e                    | Impact: 0.000838
+18.  :                   | Impact: 0.000818
+19.  id                  | Impact: 0.000761
+20.  _                   | Impact: 0.000694
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.020842
+ 2.  scheduling          | Impact: -0.008279
+ 3.  :                   | Impact: -0.007381
+ 4.  details             | Impact: -0.005796
+ 5.  final               | Impact: -0.005399
+ 6.  :                   | Impact: -0.005384
+ 7.  sc                  | Impact: -0.004550
+ 8.  iso                 | Impact: -0.004498
+ 9.  :                   | Impact: -0.004392
+10. r                    | Impact: -0.004330
+11.  pg                  | Impact: -0.003860
+12.  :                   | Impact: -0.003338
+13.  .                   | Impact: -0.002930
+14.  /                   | Impact: -0.002846
+15.  variance            | Impact: -0.002816
+16.  :                   | Impact: -0.002752
+17.  .                   | Impact: -0.002584
+18.  .                   | Impact: -0.002572
+19.  /                   | Impact: -0.002535
+20.  >                   | Impact: -0.002371

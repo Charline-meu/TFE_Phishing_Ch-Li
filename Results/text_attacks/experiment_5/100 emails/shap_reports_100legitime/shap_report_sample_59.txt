@@ -1,0 +1,75 @@
+Phishing Sample 59
+==================
+
+Sample text preview: > Ultimately, there was a big > disagreement about how to sell the product (sales guys wanted to sell > the thing for a gazillion dollars to megaclien...
+
+Model prediction: [9.9976832e-01 2.3166985e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  happening           | Impact: 0.010715 → PHISHING
+ 2.  its                 | Impact: 0.010711 → PHISHING
+ 3.  .                   | Impact: -0.006225 → LEGITIMATE
+ 4.  yeah                | Impact: -0.005743 → LEGITIMATE
+ 5.  now                 | Impact: 0.002534 → PHISHING
+ 6.  .                   | Impact: -0.001674 → LEGITIMATE
+ 7.  product             | Impact: -0.001521 → LEGITIMATE
+ 8.  the                 | Impact: -0.001477 → LEGITIMATE
+ 9.  product             | Impact: -0.001477 → LEGITIMATE
+10.  .                   | Impact: -0.001472 → LEGITIMATE
+11.  -                   | Impact: -0.001360 → LEGITIMATE
+12.  where               | Impact: 0.001349 → PHISHING
+13.  oh                  | Impact: -0.001317 → LEGITIMATE
+14.  >                   | Impact: -0.001304 → LEGITIMATE
+15.  -                   | Impact: -0.001297 → LEGITIMATE
+16.  >                   | Impact: -0.001297 → LEGITIMATE
+17.  development         | Impact: -0.001225 → LEGITIMATE
+18.  of                  | Impact: -0.001225 → LEGITIMATE
+19.  ultimately          | Impact: 0.000994 → PHISHING
+20.  it                  | Impact: -0.000973 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  happening           | Impact: 0.010715
+ 2.  its                 | Impact: 0.010711
+ 3.  now                 | Impact: 0.002534
+ 4.  where               | Impact: 0.001349
+ 5.  ultimately          | Impact: 0.000994
+ 6.  to                  | Impact: 0.000973
+ 7.  have                | Impact: 0.000923
+ 8.  to                  | Impact: 0.000844
+ 9.  me                  | Impact: 0.000844
+10.  i                   | Impact: 0.000780
+11.  .                   | Impact: 0.000714
+12.  right               | Impact: 0.000708
+13.  now                 | Impact: 0.000708
+14.  tried               | Impact: 0.000335
+15.  to                  | Impact: 0.000335
+16.  sell                | Impact: 0.000335
+17.  the                 | Impact: 0.000335
+18.  places              | Impact: 0.000321
+19.  )                   | Impact: 0.000321
+20.  many                | Impact: 0.000313
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.006225
+ 2.  yeah                | Impact: -0.005743
+ 3.  .                   | Impact: -0.001674
+ 4.  product             | Impact: -0.001521
+ 5.  the                 | Impact: -0.001477
+ 6.  product             | Impact: -0.001477
+ 7.  .                   | Impact: -0.001472
+ 8.  -                   | Impact: -0.001360
+ 9.  oh                  | Impact: -0.001317
+10.  >                   | Impact: -0.001304
+11.  -                   | Impact: -0.001297
+12.  >                   | Impact: -0.001297
+13.  development         | Impact: -0.001225
+14.  of                  | Impact: -0.001225
+15.  it                  | Impact: -0.000973
+16.  >                   | Impact: -0.000973
+17.  there               | Impact: -0.000969
+18.  few                 | Impact: -0.000929
+19.  >                   | Impact: -0.000929
+20.  significant         | Impact: -0.000929

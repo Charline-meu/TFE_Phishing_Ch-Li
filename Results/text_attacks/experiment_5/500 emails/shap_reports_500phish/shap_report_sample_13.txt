@@ -1,0 +1,55 @@
+Sample 13
+=========
+
+Sample text preview: Mrs.Rose Obaseki Flat Block NNPC Quarters Garki Abuja Nigeria. Dear Friend, I presume this letter will come to you as a surprise, but as things unfold...
+
+Model prediction: [1.7128322e-04 9.9982870e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.008190 → PHISHING
+ 2.  country             | Impact: 0.008190 → PHISHING
+ 3.  .                   | Impact: 0.008190 → PHISHING
+ 4.  nigerian            | Impact: 0.006919 → PHISHING
+ 5.  national            | Impact: 0.006919 → PHISHING
+ 6.  petroleum           | Impact: 0.006919 → PHISHING
+ 7.  corporation         | Impact: 0.006919 → PHISHING
+ 8.  be                  | Impact: 0.006315 → PHISHING
+ 9.  informed            | Impact: 0.006315 → PHISHING
+10.  that                | Impact: 0.006315 → PHISHING
+11.  this                | Impact: 0.006315 → PHISHING
+12.  into                | Impact: 0.006255 → PHISHING
+13.  your                | Impact: 0.006255 → PHISHING
+14.  custody             | Impact: 0.006255 → PHISHING
+15.  for                 | Impact: 0.006255 → PHISHING
+16.  this                | Impact: 0.006187 → PHISHING
+17.  money               | Impact: 0.006187 → PHISHING
+18.  was                 | Impact: 0.006187 → PHISHING
+19.  deposited           | Impact: 0.006187 → PHISHING
+20.  rather              | Impact: 0.006047 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.008190
+ 2.  country             | Impact: 0.008190
+ 3.  .                   | Impact: 0.008190
+ 4.  nigerian            | Impact: 0.006919
+ 5.  national            | Impact: 0.006919
+ 6.  petroleum           | Impact: 0.006919
+ 7.  corporation         | Impact: 0.006919
+ 8.  be                  | Impact: 0.006315
+ 9.  informed            | Impact: 0.006315
+10.  that                | Impact: 0.006315
+11.  this                | Impact: 0.006315
+12.  into                | Impact: 0.006255
+13.  your                | Impact: 0.006255
+14.  custody             | Impact: 0.006255
+15.  for                 | Impact: 0.006255
+16.  this                | Impact: 0.006187
+17.  money               | Impact: 0.006187
+18.  was                 | Impact: 0.006187
+19.  deposited           | Impact: 0.006187
+20.  rather              | Impact: 0.006047
+
+Top features pushing towards LEGITIMATE classification:

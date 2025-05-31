@@ -1,0 +1,75 @@
+Sample 142
+==========
+
+Sample text preview: On : Aug , Matthias Saou wrote: | Once upon a time, Axel wrote : | > I am now relaxed again ;), and pass this info on. Probably Matthias Saou | > hims...
+
+Model prediction: [9.9977404e-01 2.2593123e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wrote               | Impact: -0.003976 → LEGITIMATE
+ 2.  instance            | Impact: -0.003749 → LEGITIMATE
+ 3.  :                   | Impact: -0.003749 → LEGITIMATE
+ 4.  :                   | Impact: -0.003375 → LEGITIMATE
+ 5.  relaxed             | Impact: -0.003308 → LEGITIMATE
+ 6.  |                   | Impact: -0.002524 → LEGITIMATE
+ 7.  :                   | Impact: -0.002066 → LEGITIMATE
+ 8.  (                   | Impact: 0.001812 → PHISHING
+ 9.  |                   | Impact: -0.001666 → LEGITIMATE
+10.  |                   | Impact: -0.001666 → LEGITIMATE
+11.  programs            | Impact: -0.001539 → LEGITIMATE
+12.  wrongly             | Impact: -0.001539 → LEGITIMATE
+13.  hard                | Impact: -0.001490 → LEGITIMATE
+14.  code                | Impact: -0.001490 → LEGITIMATE
+15.  ,                   | Impact: 0.001463 → PHISHING
+16.  dude                | Impact: 0.001422 → PHISHING
+17.  [                   | Impact: -0.001381 → LEGITIMATE
+18.  dude                | Impact: -0.001381 → LEGITIMATE
+19.  again               | Impact: -0.001135 → LEGITIMATE
+20.  fresh               | Impact: -0.000984 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  (                   | Impact: 0.001812
+ 2.  ,                   | Impact: 0.001463
+ 3.  dude                | Impact: 0.001422
+ 4.  @                   | Impact: 0.000909
+ 5.  python              | Impact: 0.000909
+ 6.  to                  | Impact: 0.000763
+ 7.  find                | Impact: 0.000763
+ 8.  [                   | Impact: 0.000661
+ 9.  dude                | Impact: 0.000661
+10.  out                 | Impact: 0.000626
+11.  which               | Impact: 0.000626
+12.  axel                | Impact: 0.000575
+13.  @                   | Impact: 0.000504
+14.  python              | Impact: 0.000504
+15.  |                   | Impact: 0.000497
+16.  ;                   | Impact: 0.000480
+17.  )                   | Impact: 0.000480
+18.  matthias            | Impact: 0.000400
+19.  sao                 | Impact: 0.000400
+20. u                    | Impact: 0.000400
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  wrote               | Impact: -0.003976
+ 2.  instance            | Impact: -0.003749
+ 3.  :                   | Impact: -0.003749
+ 4.  :                   | Impact: -0.003375
+ 5.  relaxed             | Impact: -0.003308
+ 6.  |                   | Impact: -0.002524
+ 7.  :                   | Impact: -0.002066
+ 8.  |                   | Impact: -0.001666
+ 9.  |                   | Impact: -0.001666
+10.  programs            | Impact: -0.001539
+11.  wrongly             | Impact: -0.001539
+12.  hard                | Impact: -0.001490
+13.  code                | Impact: -0.001490
+14.  [                   | Impact: -0.001381
+15.  dude                | Impact: -0.001381
+16.  again               | Impact: -0.001135
+17.  fresh               | Impact: -0.000984
+18. rp                   | Impact: -0.000984
+19. m                    | Impact: -0.000984
+20.  list                | Impact: -0.000972

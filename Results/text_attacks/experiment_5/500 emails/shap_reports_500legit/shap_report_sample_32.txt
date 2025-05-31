@@ -1,0 +1,75 @@
+Sample 32
+=========
+
+Sample text preview: fyi..... -----Original Message----- From: Sent: Monday, February , : PM To: Subject: TCO- CAPACITY ALLOC-TIMELY NOM CYCLE FEBRUARY , COLUMBIA GAS TRAN...
+
+Model prediction: [9.9958867e-01 4.1132074e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  available           | Impact: -0.004002 → LEGITIMATE
+ 2.  available           | Impact: -0.003662 → LEGITIMATE
+ 3. balance              | Impact: -0.003362 → LEGITIMATE
+ 4.  eastern             | Impact: -0.003340 → LEGITIMATE
+ 5.  time                | Impact: -0.003340 → LEGITIMATE
+ 6.  request             | Impact: -0.003258 → LEGITIMATE
+ 7.  approval            | Impact: -0.003258 → LEGITIMATE
+ 8.  quantities          | Impact: -0.002987 → LEGITIMATE
+ 9.  cycle               | Impact: -0.002899 → LEGITIMATE
+10.  m                   | Impact: 0.002897 → PHISHING
+11.  timely              | Impact: -0.002707 → LEGITIMATE
+12.  im                  | Impact: -0.002600 → LEGITIMATE
+13.  on                  | Impact: -0.002538 → LEGITIMATE
+14.  monday              | Impact: -0.002538 → LEGITIMATE
+15.  account             | Impact: -0.002531 → LEGITIMATE
+16.  excess              | Impact: -0.002221 → LEGITIMATE
+17.  columbia            | Impact: -0.002171 → LEGITIMATE
+18.  nomination          | Impact: -0.002155 → LEGITIMATE
+19.  :                   | Impact: -0.001903 → LEGITIMATE
+20.  pm                  | Impact: -0.001903 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  m                   | Impact: 0.002897
+ 2.  .                   | Impact: 0.001037
+ 3.  for                 | Impact: 0.000585
+ 4.  february            | Impact: 0.000585
+ 5.  your                | Impact: 0.000319
+ 6.  account             | Impact: 0.000319
+ 7.  representative      | Impact: 0.000319
+ 8.  please              | Impact: 0.000319
+ 9.  contact             | Impact: 0.000319
+10.  .                   | Impact: 0.000319
+11.  .                   | Impact: 0.000275
+12.  highland            | Impact: 0.000230
+13.  ,                   | Impact: 0.000230
+14.  .                   | Impact: 0.000229
+15.  .                   | Impact: 0.000229
+16.  february            | Impact: 0.000207
+17.  ,                   | Impact: 0.000207
+18.  -                   | Impact: 0.000199
+19.  to                  | Impact: 0.000199
+20.  confirmed           | Impact: 0.000161
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  available           | Impact: -0.004002
+ 2.  available           | Impact: -0.003662
+ 3. balance              | Impact: -0.003362
+ 4.  eastern             | Impact: -0.003340
+ 5.  time                | Impact: -0.003340
+ 6.  request             | Impact: -0.003258
+ 7.  approval            | Impact: -0.003258
+ 8.  quantities          | Impact: -0.002987
+ 9.  cycle               | Impact: -0.002899
+10.  timely              | Impact: -0.002707
+11.  im                  | Impact: -0.002600
+12.  on                  | Impact: -0.002538
+13.  monday              | Impact: -0.002538
+14.  account             | Impact: -0.002531
+15.  excess              | Impact: -0.002221
+16.  columbia            | Impact: -0.002171
+17.  nomination          | Impact: -0.002155
+18.  :                   | Impact: -0.001903
+19.  pm                  | Impact: -0.001903
+20.  :                   | Impact: -0.001898

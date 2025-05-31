@@ -1,0 +1,75 @@
+Sample 402
+==========
+
+Sample text preview: Attn: Sir/Madam Before I proceed, may I humbly introduce myself to your goodself, My Name is Mrs. Zainab Muhamadu Fuseini, an Iraqi refugee. My late h...
+
+Model prediction: [1.4280148e-04 9.9985719e-01]
+Predicted class: PHISHING with 0.9999 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  son                 | Impact: 0.018008 → PHISHING
+ 2.  mrs                 | Impact: 0.014785 → PHISHING
+ 3.  survived            | Impact: 0.011243 → PHISHING
+ 4.  is                  | Impact: 0.009856 → PHISHING
+ 5.  mrs                 | Impact: 0.009856 → PHISHING
+ 6.  my                  | Impact: 0.009788 → PHISHING
+ 7.  name                | Impact: 0.009788 → PHISHING
+ 8.  only                | Impact: 0.008452 → PHISHING
+ 9.  son                 | Impact: 0.008452 → PHISHING
+10.  .                   | Impact: 0.008378 → PHISHING
+11.  country             | Impact: 0.007240 → PHISHING
+12.  for                 | Impact: 0.007240 → PHISHING
+13.  investment          | Impact: 0.007240 → PHISHING
+14.  my                  | Impact: 0.006490 → PHISHING
+15.  only                | Impact: 0.006490 → PHISHING
+16.  za                  | Impact: 0.006217 → PHISHING
+17. ina                  | Impact: 0.006217 → PHISHING
+18. b                    | Impact: 0.006217 → PHISHING
+19.  logic               | Impact: -0.006111 → LEGITIMATE
+20. tics                 | Impact: -0.006111 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  son                 | Impact: 0.018008
+ 2.  mrs                 | Impact: 0.014785
+ 3.  survived            | Impact: 0.011243
+ 4.  is                  | Impact: 0.009856
+ 5.  mrs                 | Impact: 0.009856
+ 6.  my                  | Impact: 0.009788
+ 7.  name                | Impact: 0.009788
+ 8.  only                | Impact: 0.008452
+ 9.  son                 | Impact: 0.008452
+10.  .                   | Impact: 0.008378
+11.  country             | Impact: 0.007240
+12.  for                 | Impact: 0.007240
+13.  investment          | Impact: 0.007240
+14.  my                  | Impact: 0.006490
+15.  only                | Impact: 0.006490
+16.  za                  | Impact: 0.006217
+17. ina                  | Impact: 0.006217
+18. b                    | Impact: 0.006217
+19.  mu                  | Impact: 0.005992
+20. ham                  | Impact: 0.005992
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  logic               | Impact: -0.006111
+ 2. tics                 | Impact: -0.006111
+ 3.  details             | Impact: -0.006111
+ 4.  is                  | Impact: -0.006111
+ 5.  before              | Impact: -0.002822
+ 6.  i                   | Impact: -0.002822
+ 7.  proceed             | Impact: -0.002822
+ 8.  we                  | Impact: -0.001763
+ 9.  look                | Impact: -0.001763
+10.  unto                | Impact: -0.001763
+11.  allah               | Impact: -0.001763
+12.  of                  | Impact: -0.001757
+13.  your                | Impact: -0.001757
+14.  participation       | Impact: -0.001757
+15.  as                  | Impact: -0.001705
+16. cer                  | Impact: -0.001705
+17. tained               | Impact: -0.001705
+18.  however             | Impact: -0.001680
+19.  ,                   | Impact: -0.001680
+20.  to                  | Impact: -0.001575

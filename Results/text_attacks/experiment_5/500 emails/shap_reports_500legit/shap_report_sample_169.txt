@@ -1,0 +1,74 @@
+Sample 169
+==========
+
+Sample text preview: Please find attached the above article from the Risk Magazine, October . -------------- Fax Image ------------- Kind Regards Sarimah Black
+
+Model prediction: [0.9989849  0.00101511]
+Predicted class: LEGITIMATE with 0.9990 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  regards             | Impact: 0.204905 → PHISHING
+ 2.  magazine            | Impact: -0.105947 → LEGITIMATE
+ 3.  october             | Impact: -0.105662 → LEGITIMATE
+ 4.  image               | Impact: -0.085835 → LEGITIMATE
+ 5.  above               | Impact: 0.064604 → PHISHING
+ 6. ima                  | Impact: -0.064387 → LEGITIMATE
+ 7.  risk                | Impact: -0.059339 → LEGITIMATE
+ 8.  please              | Impact: 0.053363 → PHISHING
+ 9.  attached            | Impact: 0.052375 → PHISHING
+10.  -                   | Impact: 0.045659 → PHISHING
+11.  the                 | Impact: -0.043243 → LEGITIMATE
+12.  ,                   | Impact: -0.035494 → LEGITIMATE
+13. h                    | Impact: -0.034005 → LEGITIMATE
+14.  -                   | Impact: 0.027954 → PHISHING
+15.  from                | Impact: -0.026938 → LEGITIMATE
+16.  kind                | Impact: 0.026708 → PHISHING
+17. x                    | Impact: 0.022197 → PHISHING
+18.  fa                  | Impact: 0.022087 → PHISHING
+19.  find                | Impact: 0.020416 → PHISHING
+20.  -                   | Impact: -0.019822 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.204905
+ 2.  above               | Impact: 0.064604
+ 3.  please              | Impact: 0.053363
+ 4.  attached            | Impact: 0.052375
+ 5.  -                   | Impact: 0.045659
+ 6.  -                   | Impact: 0.027954
+ 7.  kind                | Impact: 0.026708
+ 8. x                    | Impact: 0.022197
+ 9.  fa                  | Impact: 0.022087
+10.  find                | Impact: 0.020416
+11.  -                   | Impact: 0.010184
+12.  -                   | Impact: 0.008078
+13.  -                   | Impact: 0.007606
+14.  -                   | Impact: 0.007423
+15.  -                   | Impact: 0.007386
+16.  -                   | Impact: 0.006248
+17.  -                   | Impact: 0.004890
+18.  -                   | Impact: 0.004610
+19.  -                   | Impact: 0.004115
+20.  -                   | Impact: 0.003562
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  magazine            | Impact: -0.105947
+ 2.  october             | Impact: -0.105662
+ 3.  image               | Impact: -0.085835
+ 4. ima                  | Impact: -0.064387
+ 5.  risk                | Impact: -0.059339
+ 6.  the                 | Impact: -0.043243
+ 7.  ,                   | Impact: -0.035494
+ 8. h                    | Impact: -0.034005
+ 9.  from                | Impact: -0.026938
+10.  -                   | Impact: -0.019822
+11.  article             | Impact: -0.019147
+12.  -                   | Impact: -0.017454
+13.  -                   | Impact: -0.016459
+14.  the                 | Impact: -0.013789
+15.  .                   | Impact: -0.007079
+16.  black               | Impact: -0.003103
+17.  -                   | Impact: -0.001573
+18.                      | Impact: -0.000943
+19.                      | Impact: -0.000501

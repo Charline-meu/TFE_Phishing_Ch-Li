@@ -1,0 +1,75 @@
+Phishing Sample 41
+==================
+
+Sample text preview: LAST CHANCE TO EXHIBIT AT The Hotel Show - May, , Airport Expo Dubai, UAE With over luxury hotels and resorts planned in the Middle East within the ne...
+
+Model prediction: [0.01196494 0.988035  ]
+Predicted class: PHISHING with 0.9880 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sincerely           | Impact: 0.033860 → PHISHING
+ 2.  yours               | Impact: 0.031503 → PHISHING
+ 3.  dubai               | Impact: 0.015891 → PHISHING
+ 4.  airport             | Impact: 0.010808 → PHISHING
+ 5.  expo                | Impact: 0.010808 → PHISHING
+ 6.  held                | Impact: 0.008923 → PHISHING
+ 7.  annually            | Impact: 0.008923 → PHISHING
+ 8.  ,                   | Impact: 0.008493 → PHISHING
+ 9.  time                | Impact: 0.007880 → PHISHING
+10.  is                  | Impact: 0.007880 → PHISHING
+11.  running             | Impact: 0.007880 → PHISHING
+12.  out                 | Impact: 0.007880 → PHISHING
+13.  !                   | Impact: 0.007716 → PHISHING
+14.  largest             | Impact: 0.005924 → PHISHING
+15.  media               | Impact: 0.005924 → PHISHING
+16.  conglomerate        | Impact: 0.005924 → PHISHING
+17. s                    | Impact: 0.005924 → PHISHING
+18.  at                  | Impact: 0.005181 → PHISHING
+19.  the                 | Impact: 0.005181 → PHISHING
+20.  airport             | Impact: 0.004955 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sincerely           | Impact: 0.033860
+ 2.  yours               | Impact: 0.031503
+ 3.  dubai               | Impact: 0.015891
+ 4.  airport             | Impact: 0.010808
+ 5.  expo                | Impact: 0.010808
+ 6.  held                | Impact: 0.008923
+ 7.  annually            | Impact: 0.008923
+ 8.  ,                   | Impact: 0.008493
+ 9.  time                | Impact: 0.007880
+10.  is                  | Impact: 0.007880
+11.  running             | Impact: 0.007880
+12.  out                 | Impact: 0.007880
+13.  !                   | Impact: 0.007716
+14.  largest             | Impact: 0.005924
+15.  media               | Impact: 0.005924
+16.  conglomerate        | Impact: 0.005924
+17. s                    | Impact: 0.005924
+18.  at                  | Impact: 0.005181
+19.  the                 | Impact: 0.005181
+20.  airport             | Impact: 0.004955
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  furniture           | Impact: -0.004492
+ 2.  .                   | Impact: -0.004492
+ 3.  joanne              | Impact: -0.003940
+ 4.  evans               | Impact: -0.003940
+ 5.  &                   | Impact: -0.003940
+ 6.  lai                 | Impact: -0.003940
+ 7. th                   | Impact: -0.003940
+ 8.  table               | Impact: -0.003578
+ 9. ware                 | Impact: -0.003578
+10.  and                 | Impact: -0.003578
+11.  systems             | Impact: -0.001536
+12.  to                  | Impact: -0.001536
+13.  bed                 | Impact: -0.001536
+14.  linen               | Impact: -0.001536
+15.  ,                   | Impact: -0.001536
+16.  hi                  | Impact: -0.001536
+17.  -                   | Impact: -0.001536
+18.  tech                | Impact: -0.001536
+19.  reservations        | Impact: -0.001536
+20.  organisations       | Impact: -0.001473

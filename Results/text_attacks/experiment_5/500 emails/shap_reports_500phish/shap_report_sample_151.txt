@@ -1,0 +1,55 @@
+Sample 151
+==========
+
+Sample text preview: Dear Friend. Attention Please, I am Georg Path, the Director in charge of Auditing and Accounting section of AFRICAN DEVELOPMENT BANK (A.D.B) Ouagadou...
+
+Model prediction: [1.9893545e-04 9.9980110e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  to                  | Impact: 0.011927 → PHISHING
+ 2.  inform              | Impact: 0.011927 → PHISHING
+ 3.  you                 | Impact: 0.011927 → PHISHING
+ 4.  that                | Impact: 0.011927 → PHISHING
+ 5.  you                 | Impact: 0.011715 → PHISHING
+ 6.  will                | Impact: 0.011715 → PHISHING
+ 7.  be                  | Impact: 0.011715 → PHISHING
+ 8.  entitled            | Impact: 0.011715 → PHISHING
+ 9.  risk                | Impact: 0.007202 → PHISHING
+10.  free                | Impact: 0.007202 → PHISHING
+11.  .                   | Impact: 0.007202 → PHISHING
+12.  to                  | Impact: 0.006818 → PHISHING
+13.  %                   | Impact: 0.006818 → PHISHING
+14.  of                  | Impact: 0.006818 → PHISHING
+15.  the                 | Impact: 0.006818 → PHISHING
+16.  total               | Impact: 0.006818 → PHISHING
+17.  sum                 | Impact: 0.006818 → PHISHING
+18.  as                  | Impact: 0.006818 → PHISHING
+19.  designation         | Impact: 0.006162 → PHISHING
+20.  bank                | Impact: 0.006162 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.011927
+ 2.  inform              | Impact: 0.011927
+ 3.  you                 | Impact: 0.011927
+ 4.  that                | Impact: 0.011927
+ 5.  you                 | Impact: 0.011715
+ 6.  will                | Impact: 0.011715
+ 7.  be                  | Impact: 0.011715
+ 8.  entitled            | Impact: 0.011715
+ 9.  risk                | Impact: 0.007202
+10.  free                | Impact: 0.007202
+11.  .                   | Impact: 0.007202
+12.  to                  | Impact: 0.006818
+13.  %                   | Impact: 0.006818
+14.  of                  | Impact: 0.006818
+15.  the                 | Impact: 0.006818
+16.  total               | Impact: 0.006818
+17.  sum                 | Impact: 0.006818
+18.  as                  | Impact: 0.006818
+19.  designation         | Impact: 0.006162
+20.  bank                | Impact: 0.006162
+
+Top features pushing towards LEGITIMATE classification:

@@ -1,0 +1,75 @@
+Sample 297
+==========
+
+Sample text preview: MR WILLIAM DRALLO BANQUE TOGOLAISE DE DEVELOPPEMENT. LOME-TOGO I AM THE MANAGER BILL AND EXCHANGE OF THE FOREIGN REMITTANCE DEPARTMENT OF BANQUE TOGOL...
+
+Model prediction: [1.996701e-04 9.998004e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  be                  | Impact: 0.014710 → PHISHING
+ 2.  for                 | Impact: 0.014710 → PHISHING
+ 3.  you                 | Impact: 0.014710 → PHISHING
+ 4.  as                  | Impact: 0.014710 → PHISHING
+ 5.  foreign             | Impact: 0.010151 → PHISHING
+ 6.  partner             | Impact: 0.010151 → PHISHING
+ 7.  ,                   | Impact: 0.010151 → PHISHING
+ 8.  and                 | Impact: -0.008507 → LEGITIMATE
+ 9.  an                  | Impact: -0.008507 → LEGITIMATE
+10.  ind                 | Impact: -0.008507 → LEGITIMATE
+11. igen                 | Impact: -0.008507 → LEGITIMATE
+12. e                    | Impact: -0.008507 → LEGITIMATE
+13.                      | Impact: 0.006327 → PHISHING
+14.  mr                  | Impact: 0.006327 → PHISHING
+15.  william             | Impact: 0.006249 → PHISHING
+16.  we                  | Impact: 0.005017 → PHISHING
+17.  agreed              | Impact: 0.005017 → PHISHING
+18.  that                | Impact: 0.005017 → PHISHING
+19.  %                   | Impact: 0.005017 → PHISHING
+20.  of                  | Impact: 0.005017 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  be                  | Impact: 0.014710
+ 2.  for                 | Impact: 0.014710
+ 3.  you                 | Impact: 0.014710
+ 4.  as                  | Impact: 0.014710
+ 5.  foreign             | Impact: 0.010151
+ 6.  partner             | Impact: 0.010151
+ 7.  ,                   | Impact: 0.010151
+ 8.                      | Impact: 0.006327
+ 9.  mr                  | Impact: 0.006327
+10.  william             | Impact: 0.006249
+11.  we                  | Impact: 0.005017
+12.  agreed              | Impact: 0.005017
+13.  that                | Impact: 0.005017
+14.  %                   | Impact: 0.005017
+15.  of                  | Impact: 0.005017
+16.  this                | Impact: 0.005017
+17.  money               | Impact: 0.005017
+18.  will                | Impact: 0.005017
+19.  to                  | Impact: 0.004427
+20.  enable              | Impact: 0.004427
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  and                 | Impact: -0.008507
+ 2.  an                  | Impact: -0.008507
+ 3.  ind                 | Impact: -0.008507
+ 4. igen                 | Impact: -0.008507
+ 5. e                    | Impact: -0.008507
+ 6.  cannot              | Impact: -0.000525
+ 7.  stand               | Impact: -0.000525
+ 8.  as                  | Impact: -0.000525
+ 9.  next                | Impact: -0.000525
+10.  and                 | Impact: -0.000185
+11.  %                   | Impact: -0.000185
+12.  would               | Impact: -0.000185
+13.  be                  | Impact: -0.000185
+14.  for                 | Impact: -0.000185
+15.  me                  | Impact: -0.000185
+16.  my                  | Impact: -0.000185
+17.  colleagues          | Impact: -0.000185
+18.  .                   | Impact: -0.000185
+19.  and                 | Impact: -0.000185
+20.  please              | Impact: -0.000000

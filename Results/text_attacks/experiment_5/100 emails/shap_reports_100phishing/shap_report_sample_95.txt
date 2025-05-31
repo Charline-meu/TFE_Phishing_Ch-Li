@@ -1,0 +1,75 @@
+Phishing Sample 95
+==================
+
+Sample text preview: FROM SAMUEL & BEKIJA ZUMA COTE D IVOIRE WEST AFRICA DEAR FRIEND, PERMIT US TO INFORM YOU OF OUR DESIRE OF ENTERING INTO BUSINESS RELATIONSHIP WITH YOU...
+
+Model prediction: [1.9874093e-04 9.9980134e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.014111 → PHISHING
+ 2.  friend              | Impact: 0.014111 → PHISHING
+ 3.  younger             | Impact: 0.008040 → PHISHING
+ 4.  brother             | Impact: 0.008040 → PHISHING
+ 5.  samuel              | Impact: 0.008040 → PHISHING
+ 6.  mother              | Impact: 0.007888 → PHISHING
+ 7.  died                | Impact: 0.007888 → PHISHING
+ 8.  children            | Impact: 0.006366 → PHISHING
+ 9.  of                  | Impact: 0.006366 → PHISHING
+10.  seeking             | Impact: 0.006224 → PHISHING
+11.  your                | Impact: 0.006224 → PHISHING
+12.  assistance          | Impact: 0.006224 → PHISHING
+13.  in                  | Impact: 0.006224 → PHISHING
+14.  relationship        | Impact: 0.005884 → PHISHING
+15.  with                | Impact: 0.005884 → PHISHING
+16.  you                 | Impact: 0.005884 → PHISHING
+17.  ivo                 | Impact: 0.005600 → PHISHING
+18. ire                  | Impact: 0.005600 → PHISHING
+19.  this                | Impact: 0.005545 → PHISHING
+20.  fund                | Impact: 0.005545 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.014111
+ 2.  friend              | Impact: 0.014111
+ 3.  younger             | Impact: 0.008040
+ 4.  brother             | Impact: 0.008040
+ 5.  samuel              | Impact: 0.008040
+ 6.  mother              | Impact: 0.007888
+ 7.  died                | Impact: 0.007888
+ 8.  children            | Impact: 0.006366
+ 9.  of                  | Impact: 0.006366
+10.  seeking             | Impact: 0.006224
+11.  your                | Impact: 0.006224
+12.  assistance          | Impact: 0.006224
+13.  in                  | Impact: 0.006224
+14.  relationship        | Impact: 0.005884
+15.  with                | Impact: 0.005884
+16.  you                 | Impact: 0.005884
+17.  ivo                 | Impact: 0.005600
+18. ire                  | Impact: 0.005600
+19.  this                | Impact: 0.005545
+20.  fund                | Impact: 0.005545
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.001163
+ 2.  such                | Impact: -0.001163
+ 3.  as                  | Impact: -0.001163
+ 4.  real                | Impact: -0.001163
+ 5.  estate              | Impact: -0.001163
+ 6.  management          | Impact: -0.001163
+ 7.  )                   | Impact: -0.001163
+ 8.  samuel              | Impact: -0.001098
+ 9.  and                 | Impact: -0.001098
+10.  be                  | Impact: -0.001098
+11. ki                   | Impact: -0.001098
+12. ja                   | Impact: -0.001098
+13.  zu                  | Impact: -0.001098
+14. ma                   | Impact: -0.001098
+15.  -                   | Impact: -0.001098
+16.  -                   | Impact: -0.001098
+17.  -                   | Impact: -0.001098
+18.  -                   | Impact: -0.001098
+19.  -                   | Impact: -0.001098
+20.  -                   | Impact: -0.001098

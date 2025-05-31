@@ -1,0 +1,75 @@
+Sample 167
+==========
+
+Sample text preview: >>>>> "J" == James Rogers writes: J> ... The part that makes the app killer is that you can map all J> sorts of data layers on top of their core topol...
+
+Model prediction: [9.9979848e-01 2.0155997e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  applications        | Impact: -0.008088 → LEGITIMATE
+ 2.  =                   | Impact: 0.006628 → PHISHING
+ 3.  james               | Impact: -0.003323 → LEGITIMATE
+ 4.  .                   | Impact: -0.003118 → LEGITIMATE
+ 5.  =                   | Impact: 0.003038 → PHISHING
+ 6.  writes              | Impact: -0.002860 → LEGITIMATE
+ 7.  .                   | Impact: -0.002723 → LEGITIMATE
+ 8.  but                 | Impact: 0.002697 → PHISHING
+ 9.  >                   | Impact: -0.002443 → LEGITIMATE
+10.  sample              | Impact: -0.002422 → LEGITIMATE
+11.  .                   | Impact: -0.002343 → LEGITIMATE
+12.  require             | Impact: 0.002343 → PHISHING
+13.  you                 | Impact: 0.002235 → PHISHING
+14.  wireless            | Impact: 0.002124 → PHISHING
+15.  software            | Impact: -0.001733 → LEGITIMATE
+16.  rogers              | Impact: -0.001694 → LEGITIMATE
+17.  nonetheless         | Impact: 0.001658 → PHISHING
+18.  "                   | Impact: -0.001466 → LEGITIMATE
+19.  only                | Impact: 0.001340 → PHISHING
+20.  ,                   | Impact: 0.001263 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  =                   | Impact: 0.006628
+ 2.  =                   | Impact: 0.003038
+ 3.  but                 | Impact: 0.002697
+ 4.  require             | Impact: 0.002343
+ 5.  you                 | Impact: 0.002235
+ 6.  wireless            | Impact: 0.002124
+ 7.  nonetheless         | Impact: 0.001658
+ 8.  only                | Impact: 0.001340
+ 9.  ,                   | Impact: 0.001263
+10.  come                | Impact: 0.000960
+11.  would               | Impact: 0.000900
+12.  community           | Impact: 0.000778
+13.  they                | Impact: 0.000708
+14.  them                | Impact: 0.000642
+15.  of                  | Impact: 0.000603
+16.  can                 | Impact: 0.000572
+17.  to                  | Impact: 0.000547
+18.  use                 | Impact: 0.000440
+19.  ?                   | Impact: 0.000399
+20.  terrain             | Impact: 0.000389
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  applications        | Impact: -0.008088
+ 2.  james               | Impact: -0.003323
+ 3.  .                   | Impact: -0.003118
+ 4.  writes              | Impact: -0.002860
+ 5.  .                   | Impact: -0.002723
+ 6.  >                   | Impact: -0.002443
+ 7.  sample              | Impact: -0.002422
+ 8.  .                   | Impact: -0.002343
+ 9.  software            | Impact: -0.001733
+10.  rogers              | Impact: -0.001694
+11.  "                   | Impact: -0.001466
+12.  answers             | Impact: -0.001168
+13.  >                   | Impact: -0.001010
+14.  (                   | Impact: -0.001003
+15.  :                   | Impact: -0.000880
+16.  j                   | Impact: -0.000860
+17.  pablo               | Impact: -0.000738
+18.  picasso             | Impact: -0.000738
+19.  can                 | Impact: -0.000675
+20.  watershed           | Impact: -0.000672

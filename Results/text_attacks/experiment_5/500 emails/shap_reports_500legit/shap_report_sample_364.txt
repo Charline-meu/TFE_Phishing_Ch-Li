@@ -1,0 +1,75 @@
+Sample 364
+==========
+
+Sample text preview: In October of this year, we asked you to participate in the &Pulse survey. Over % of you were willing to take the time to respond. Thank you! This i...
+
+Model prediction: [9.9977988e-01 2.2011051e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.070885 → LEGITIMATE
+ 2.  en                  | Impact: -0.024922 → LEGITIMATE
+ 3. ron                  | Impact: -0.017811 → LEGITIMATE
+ 4.  en                  | Impact: -0.015572 → LEGITIMATE
+ 5.  you                 | Impact: 0.005815 → PHISHING
+ 6.  to                  | Impact: 0.005815 → PHISHING
+ 7.  survey              | Impact: -0.005054 → LEGITIMATE
+ 8.  reasonable          | Impact: -0.004122 → LEGITIMATE
+ 9.  employee            | Impact: -0.004011 → LEGITIMATE
+10.  survey              | Impact: -0.004011 → LEGITIMATE
+11.  &                   | Impact: -0.003369 → LEGITIMATE
+12.  values              | Impact: -0.003369 → LEGITIMATE
+13.  task                | Impact: -0.003369 → LEGITIMATE
+14.  force               | Impact: -0.003369 → LEGITIMATE
+15.  survey              | Impact: -0.003136 → LEGITIMATE
+16.  questions           | Impact: -0.003136 → LEGITIMATE
+17.  pulse               | Impact: -0.003080 → LEGITIMATE
+18.  survey              | Impact: -0.003080 → LEGITIMATE
+19.  en                  | Impact: -0.002974 → LEGITIMATE
+20. ron                  | Impact: -0.002974 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.005815
+ 2.  to                  | Impact: 0.005815
+ 3.  we                  | Impact: 0.002685
+ 4.  asked               | Impact: 0.002685
+ 5.  a                   | Impact: 0.002031
+ 6.  place               | Impact: 0.002031
+ 7.  congratulations     | Impact: 0.001237
+ 8.  on                  | Impact: 0.001237
+ 9.  your                | Impact: 0.001237
+10.  fine                | Impact: 0.001237
+11.  efforts             | Impact: 0.001237
+12.  we                  | Impact: 0.001235
+13.  realize             | Impact: 0.001235
+14.  that                | Impact: 0.001235
+15.  you                 | Impact: 0.001235
+16.  and                 | Impact: 0.001235
+17.  not                 | Impact: 0.001086
+18.  over                | Impact: 0.001086
+19.  and                 | Impact: 0.001086
+20.  of                  | Impact: 0.000938
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.070885
+ 2.  en                  | Impact: -0.024922
+ 3. ron                  | Impact: -0.017811
+ 4.  en                  | Impact: -0.015572
+ 5.  survey              | Impact: -0.005054
+ 6.  reasonable          | Impact: -0.004122
+ 7.  employee            | Impact: -0.004011
+ 8.  survey              | Impact: -0.004011
+ 9.  &                   | Impact: -0.003369
+10.  values              | Impact: -0.003369
+11.  task                | Impact: -0.003369
+12.  force               | Impact: -0.003369
+13.  survey              | Impact: -0.003136
+14.  questions           | Impact: -0.003136
+15.  pulse               | Impact: -0.003080
+16.  survey              | Impact: -0.003080
+17.  en                  | Impact: -0.002974
+18. ron                  | Impact: -0.002974
+19.  en                  | Impact: -0.002818
+20. ron                  | Impact: -0.002818

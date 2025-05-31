@@ -1,0 +1,75 @@
+Phishing Sample 78
+==================
+
+Sample text preview: <head> <title></title> </head> <body bgcolor="#CCC"> <font FACE="MS Sans Serif" COLOR="#"> <p>Snoring problems?</font><font FACE="MS Sans Serif" COLOR...
+
+Model prediction: [0.03033865 0.9696613 ]
+Predicted class: PHISHING with 0.9697 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  !                   | Impact: 0.007516 → PHISHING
+ 2.  your                | Impact: 0.007516 → PHISHING
+ 3.  family              | Impact: 0.007516 → PHISHING
+ 4.  sleep               | Impact: 0.007516 → PHISHING
+ 5.  again               | Impact: 0.007516 → PHISHING
+ 6.  eli                 | Impact: 0.007516 → PHISHING
+ 7. mina                 | Impact: 0.007516 → PHISHING
+ 8. tor                  | Impact: 0.007516 → PHISHING
+ 9.  !                   | Impact: 0.007516 → PHISHING
+10.  <                   | Impact: 0.007516 → PHISHING
+11.  /                   | Impact: 0.007516 → PHISHING
+12.  p                   | Impact: 0.007516 → PHISHING
+13.  >                   | Impact: 0.007516 → PHISHING
+14.  <                   | Impact: 0.007516 → PHISHING
+15.  p                   | Impact: 0.007516 → PHISHING
+16.  >                   | Impact: 0.007516 → PHISHING
+17.  let                 | Impact: 0.007516 → PHISHING
+18.  by                  | Impact: 0.007516 → PHISHING
+19.  using               | Impact: 0.007516 → PHISHING
+20.  the                 | Impact: 0.007516 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.007516
+ 2.  your                | Impact: 0.007516
+ 3.  family              | Impact: 0.007516
+ 4.  sleep               | Impact: 0.007516
+ 5.  again               | Impact: 0.007516
+ 6.  eli                 | Impact: 0.007516
+ 7. mina                 | Impact: 0.007516
+ 8. tor                  | Impact: 0.007516
+ 9.  !                   | Impact: 0.007516
+10.  <                   | Impact: 0.007516
+11.  /                   | Impact: 0.007516
+12.  p                   | Impact: 0.007516
+13.  >                   | Impact: 0.007516
+14.  <                   | Impact: 0.007516
+15.  p                   | Impact: 0.007516
+16.  >                   | Impact: 0.007516
+17.  let                 | Impact: 0.007516
+18.  by                  | Impact: 0.007516
+19.  using               | Impact: 0.007516
+20.  the                 | Impact: 0.007516
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.000528
+ 2.  <                   | Impact: -0.000528
+ 3.  p                   | Impact: -0.000528
+ 4.  >                   | Impact: -0.000528
+ 5.  s                   | Impact: -0.000528
+ 6. nor                  | Impact: -0.000528
+ 7. ing                  | Impact: -0.000528
+ 8.  problems            | Impact: -0.000528
+ 9.  ?                   | Impact: -0.000528
+10.  <                   | Impact: -0.000031
+11.  /                   | Impact: -0.000031
+12.  p                   | Impact: -0.000031
+13.  >                   | Impact: -0.000031
+14.  <                   | Impact: -0.000031
+15.  /                   | Impact: -0.000031
+16.  b                   | Impact: -0.000031
+17.  >                   | Impact: -0.000031
+18.  <                   | Impact: -0.000031
+19.  /                   | Impact: -0.000031
+20.  font                | Impact: -0.000031

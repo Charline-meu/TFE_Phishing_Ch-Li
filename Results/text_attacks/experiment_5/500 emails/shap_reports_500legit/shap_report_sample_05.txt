@@ -1,0 +1,75 @@
+Sample 5
+========
+
+Sample text preview: Church, AA, same diff? ;-). Cheers, RAH NewsMax.com Wednesday, September , AA Meetings the Hottest Place to Meet Women With Big Bucks If you're lookin...
+
+Model prediction: [9.9951506e-01 4.8498987e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.024899 → LEGITIMATE
+ 2.  cheers              | Impact: -0.017154 → LEGITIMATE
+ 3.  aa                  | Impact: 0.015448 → PHISHING
+ 4.  ;                   | Impact: -0.014941 → LEGITIMATE
+ 5.  october             | Impact: -0.011873 → LEGITIMATE
+ 6.  issue               | Impact: -0.011873 → LEGITIMATE
+ 7.  says                | Impact: -0.011873 → LEGITIMATE
+ 8.  ,                   | Impact: 0.010197 → PHISHING
+ 9.  -                   | Impact: -0.008873 → LEGITIMATE
+10.  ,                   | Impact: -0.007579 → LEGITIMATE
+11.  aa                  | Impact: -0.005988 → LEGITIMATE
+12.  spokesman           | Impact: -0.005988 → LEGITIMATE
+13.  "                   | Impact: -0.005806 → LEGITIMATE
+14.  di                  | Impact: -0.005725 → LEGITIMATE
+15.  gi                  | Impact: -0.005233 → LEGITIMATE
+16.  decline             | Impact: -0.004983 → LEGITIMATE
+17.  aa                  | Impact: -0.004884 → LEGITIMATE
+18.  officials           | Impact: -0.004884 → LEGITIMATE
+19.  .                   | Impact: -0.004761 → LEGITIMATE
+20.  "                   | Impact: -0.004524 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  aa                  | Impact: 0.015448
+ 2.  ,                   | Impact: 0.010197
+ 3.                      | Impact: 0.004186
+ 4.  church              | Impact: 0.004186
+ 5.  ,                   | Impact: 0.004057
+ 6.  k                   | Impact: 0.002136
+ 7.  .                   | Impact: 0.002136
+ 8.  o                   | Impact: 0.002068
+ 9.  .                   | Impact: 0.002068
+10.  vulnerable          | Impact: 0.001553
+11.  women               | Impact: 0.001553
+12.  ,                   | Impact: 0.001553
+13.  same                | Impact: 0.001200
+14.  place               | Impact: 0.000794
+15.  to                  | Impact: 0.000794
+16.  pick                | Impact: 0.000794
+17.  up                  | Impact: 0.000794
+18.  women               | Impact: 0.000794
+19.  !                   | Impact: 0.000794
+20.  millionaire         | Impact: 0.000625
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.024899
+ 2.  cheers              | Impact: -0.017154
+ 3.  ;                   | Impact: -0.014941
+ 4.  october             | Impact: -0.011873
+ 5.  issue               | Impact: -0.011873
+ 6.  says                | Impact: -0.011873
+ 7.  -                   | Impact: -0.008873
+ 8.  ,                   | Impact: -0.007579
+ 9.  aa                  | Impact: -0.005988
+10.  spokesman           | Impact: -0.005988
+11.  "                   | Impact: -0.005806
+12.  di                  | Impact: -0.005725
+13.  gi                  | Impact: -0.005233
+14.  decline             | Impact: -0.004983
+15.  aa                  | Impact: -0.004884
+16.  officials           | Impact: -0.004884
+17.  .                   | Impact: -0.004761
+18.  "                   | Impact: -0.004524
+19.  an                  | Impact: -0.004524
+20.  predicting          | Impact: -0.004398

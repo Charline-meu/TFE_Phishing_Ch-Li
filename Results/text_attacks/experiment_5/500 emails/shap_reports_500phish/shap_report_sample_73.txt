@@ -1,0 +1,75 @@
+Sample 73
+=========
+
+Sample text preview: Below is the result of your feedback form. It was submitted by on Sunday, July , at :: ---------------------------------------------------------------...
+
+Model prediction: [6.8037247e-04 9.9931967e-01]
+Predicted class: PHISHING with 0.9993 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.059171 → PHISHING
+ 2.  free                | Impact: 0.042224 → PHISHING
+ 3.  please              | Impact: 0.036096 → PHISHING
+ 4.  free                | Impact: 0.035513 → PHISHING
+ 5.  for                 | Impact: 0.030553 → PHISHING
+ 6.  choose              | Impact: 0.029302 → PHISHING
+ 7.  your                | Impact: 0.029302 → PHISHING
+ 8.  form                | Impact: 0.024792 → PHISHING
+ 9.  free                | Impact: 0.024063 → PHISHING
+10.  cell                | Impact: 0.024063 → PHISHING
+11.  your                | Impact: 0.023082 → PHISHING
+12.  feedback            | Impact: 0.023082 → PHISHING
+13.  below               | Impact: 0.022127 → PHISHING
+14.  to                  | Impact: 0.022127 → PHISHING
+15.  latest              | Impact: 0.020006 → PHISHING
+16.  phones              | Impact: 0.020006 → PHISHING
+17.  phone               | Impact: 0.019000 → PHISHING
+18.  with                | Impact: 0.019000 → PHISHING
+19.  error               | Impact: 0.018340 → PHISHING
+20.  please              | Impact: 0.018340 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.059171
+ 2.  free                | Impact: 0.042224
+ 3.  please              | Impact: 0.036096
+ 4.  free                | Impact: 0.035513
+ 5.  for                 | Impact: 0.030553
+ 6.  choose              | Impact: 0.029302
+ 7.  your                | Impact: 0.029302
+ 8.  form                | Impact: 0.024792
+ 9.  free                | Impact: 0.024063
+10.  cell                | Impact: 0.024063
+11.  your                | Impact: 0.023082
+12.  feedback            | Impact: 0.023082
+13.  below               | Impact: 0.022127
+14.  to                  | Impact: 0.022127
+15.  latest              | Impact: 0.020006
+16.  phones              | Impact: 0.020006
+17.  phone               | Impact: 0.019000
+18.  with                | Impact: 0.019000
+19.  error               | Impact: 0.018340
+20.  please              | Impact: 0.018340
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  deals               | Impact: -0.017215
+ 2.  with                | Impact: -0.017215
+ 3.  july                | Impact: -0.015660
+ 4.  ,                   | Impact: -0.010553
+ 5.  -                   | Impact: -0.008288
+ 6.  -                   | Impact: -0.008288
+ 7.  below               | Impact: -0.006745
+ 8.  on                  | Impact: -0.006421
+ 9.  sunday              | Impact: -0.006421
+10.  ve                  | Impact: -0.004839
+11. riz                  | Impact: -0.004839
+12. on                   | Impact: -0.004839
+13.  ,                   | Impact: -0.004839
+14.  pac                 | Impact: -0.004314
+15. bell                 | Impact: -0.004314
+16.  ,                   | Impact: -0.004314
+17.  at                  | Impact: -0.003110
+18. t                    | Impact: -0.003110
+19.  ,                   | Impact: -0.003110
+20.  -                   | Impact: -0.001447

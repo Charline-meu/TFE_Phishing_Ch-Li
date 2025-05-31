@@ -1,0 +1,75 @@
+Sample 433
+==========
+
+Sample text preview: &> Seems also from the news being reported that it's likely they already &> have a slice of that pie, which says something about the mindset of &> the...
+
+Model prediction: [9.9965048e-01 3.4954006e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  i                   | Impact: -0.007284 → LEGITIMATE
+ 2.  reckon              | Impact: -0.006965 → LEGITIMATE
+ 3.  airplanes           | Impact: -0.003086 → LEGITIMATE
+ 4.  luggage             | Impact: 0.003077 → PHISHING
+ 5.  >                   | Impact: -0.002746 → LEGITIMATE
+ 6.  who                 | Impact: -0.002608 → LEGITIMATE
+ 7.  slice               | Impact: -0.002487 → LEGITIMATE
+ 8.  it                  | Impact: -0.002271 → LEGITIMATE
+ 9.  :                   | Impact: -0.002112 → LEGITIMATE
+10.  -                   | Impact: 0.001871 → PHISHING
+11.  further             | Impact: 0.001670 → PHISHING
+12.  by                  | Impact: 0.001596 → PHISHING
+13.  a                   | Impact: -0.001498 → LEGITIMATE
+14.  they                | Impact: 0.001385 → PHISHING
+15.  when                | Impact: 0.001344 → PHISHING
+16.  you                 | Impact: 0.001344 → PHISHING
+17.  arrive              | Impact: 0.001344 → PHISHING
+18.  get                 | Impact: -0.001296 → LEGITIMATE
+19.  plane               | Impact: 0.001259 → PHISHING
+20.  they                | Impact: -0.001207 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  luggage             | Impact: 0.003077
+ 2.  -                   | Impact: 0.001871
+ 3.  further             | Impact: 0.001670
+ 4.  by                  | Impact: 0.001596
+ 5.  they                | Impact: 0.001385
+ 6.  when                | Impact: 0.001344
+ 7.  you                 | Impact: 0.001344
+ 8.  arrive              | Impact: 0.001344
+ 9.  plane               | Impact: 0.001259
+10.  of                  | Impact: 0.001138
+11.  the                 | Impact: 0.001138
+12.  passengers          | Impact: 0.001138
+13.  -                   | Impact: 0.001138
+14.  in                  | Impact: 0.001098
+15.  passengers          | Impact: 0.001098
+16.  the                 | Impact: 0.001002
+17.  cabin               | Impact: 0.001002
+18.  and                 | Impact: 0.001002
+19.  likely              | Impact: 0.000985
+20.  /                   | Impact: 0.000979
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.007284
+ 2.  reckon              | Impact: -0.006965
+ 3.  airplanes           | Impact: -0.003086
+ 4.  >                   | Impact: -0.002746
+ 5.  who                 | Impact: -0.002608
+ 6.  slice               | Impact: -0.002487
+ 7.  it                  | Impact: -0.002271
+ 8.  :                   | Impact: -0.002112
+ 9.  a                   | Impact: -0.001498
+10.  get                 | Impact: -0.001296
+11.  they                | Impact: -0.001207
+12.  have                | Impact: -0.001127
+13.  fixing              | Impact: -0.001104
+14.  about               | Impact: -0.000999
+15.  vendors             | Impact: -0.000999
+16.  !                   | Impact: -0.000999
+17.  .                   | Impact: -0.000931
+18.  section             | Impact: -0.000897
+19. ing                  | Impact: -0.000897
+20.  quo                 | Impact: -0.000896

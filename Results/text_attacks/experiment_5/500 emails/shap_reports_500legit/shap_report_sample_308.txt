@@ -1,0 +1,75 @@
+Sample 308
+==========
+
+Sample text preview: Tom, Leave the noms the way they are in Sitara. These volumes are so small, there is no need to adjust anything. D Tom Acton@ENRON // : AM To: Daren J...
+
+Model prediction: [9.9979931e-01 2.0075748e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ec                  | Impact: -0.006677 → LEGITIMATE
+ 2.  ec                  | Impact: -0.006049 → LEGITIMATE
+ 3.  en                  | Impact: -0.005313 → LEGITIMATE
+ 4.  ec                  | Impact: -0.004700 → LEGITIMATE
+ 5.  en                  | Impact: -0.004688 → LEGITIMATE
+ 6. ron                  | Impact: -0.004112 → LEGITIMATE
+ 7. t                    | Impact: -0.004026 → LEGITIMATE
+ 8. ron                  | Impact: -0.003830 → LEGITIMATE
+ 9.  volumes             | Impact: -0.003790 → LEGITIMATE
+10.  the                 | Impact: -0.003650 → LEGITIMATE
+11.  change              | Impact: -0.003650 → LEGITIMATE
+12.  spreads             | Impact: -0.003466 → LEGITIMATE
+13. hee                  | Impact: -0.003466 → LEGITIMATE
+14. t                    | Impact: -0.003466 → LEGITIMATE
+15.  in                  | Impact: -0.003466 → LEGITIMATE
+16.  my                  | Impact: -0.003466 → LEGITIMATE
+17.  ve                  | Impact: -0.003266 → LEGITIMATE
+18.  made                | Impact: -0.003266 → LEGITIMATE
+19.  ec                  | Impact: -0.003119 → LEGITIMATE
+20. t                    | Impact: -0.003119 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  x                   | Impact: 0.002793
+ 2.  -                   | Impact: 0.002793
+ 3.  @                   | Impact: 0.001898
+ 4.  @                   | Impact: 0.001566
+ 5.  taylor              | Impact: 0.001329
+ 6.  @                   | Impact: 0.001248
+ 7.  d                   | Impact: 0.000663
+ 8.  tom                 | Impact: 0.000663
+ 9.  @                   | Impact: 0.000575
+10.  ,                   | Impact: 0.000476
+11.  /                   | Impact: 0.000407
+12.  d                   | Impact: 0.000407
+13.  i                   | Impact: 0.000407
+14.  '                   | Impact: 0.000407
+15.                      | Impact: 0.000390
+16.  mm                  | Impact: 0.000291
+17. bt                   | Impact: 0.000291
+18. u                    | Impact: 0.000291
+19.  no                  | Impact: 0.000170
+20. ms                   | Impact: 0.000170
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ec                  | Impact: -0.006677
+ 2.  ec                  | Impact: -0.006049
+ 3.  en                  | Impact: -0.005313
+ 4.  ec                  | Impact: -0.004700
+ 5.  en                  | Impact: -0.004688
+ 6. ron                  | Impact: -0.004112
+ 7. t                    | Impact: -0.004026
+ 8. ron                  | Impact: -0.003830
+ 9.  volumes             | Impact: -0.003790
+10.  the                 | Impact: -0.003650
+11.  change              | Impact: -0.003650
+12.  spreads             | Impact: -0.003466
+13. hee                  | Impact: -0.003466
+14. t                    | Impact: -0.003466
+15.  in                  | Impact: -0.003466
+16.  my                  | Impact: -0.003466
+17.  ve                  | Impact: -0.003266
+18.  made                | Impact: -0.003266
+19.  ec                  | Impact: -0.003119
+20. t                    | Impact: -0.003119

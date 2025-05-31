@@ -1,0 +1,75 @@
+Sample 236
+==========
+
+Sample text preview: > > You mean like on mac keyboards :-) Or any of the Microsoft USB keyboards. I've an MS Internet Pro unit with two ports off it's hub. I've considere...
+
+Model prediction: [9.9978620e-01 2.1377052e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  flash               | Impact: 0.005650 → PHISHING
+ 2.  considered          | Impact: -0.004570 → LEGITIMATE
+ 3.  :                   | Impact: -0.003818 → LEGITIMATE
+ 4.  i                   | Impact: -0.003362 → LEGITIMATE
+ 5.  ports               | Impact: 0.003057 → PHISHING
+ 6.  unit                | Impact: 0.002947 → PHISHING
+ 7.  internet            | Impact: 0.002927 → PHISHING
+ 8.  an                  | Impact: -0.002847 → LEGITIMATE
+ 9.  usb                 | Impact: 0.002841 → PHISHING
+10.  .                   | Impact: -0.002331 → LEGITIMATE
+11.  '                   | Impact: -0.002135 → LEGITIMATE
+12.  bill                | Impact: -0.002068 → LEGITIMATE
+13.  off                 | Impact: 0.001987 → PHISHING
+14.  )                   | Impact: -0.001934 → LEGITIMATE
+15.  the                 | Impact: -0.001929 → LEGITIMATE
+16.  using               | Impact: -0.001905 → LEGITIMATE
+17.  >                   | Impact: -0.001836 → LEGITIMATE
+18.  kv                  | Impact: -0.001733 → LEGITIMATE
+19.  pro                 | Impact: -0.001725 → LEGITIMATE
+20.  mean                | Impact: -0.001675 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  flash               | Impact: 0.005650
+ 2.  ports               | Impact: 0.003057
+ 3.  unit                | Impact: 0.002947
+ 4.  internet            | Impact: 0.002927
+ 5.  usb                 | Impact: 0.002841
+ 6.  off                 | Impact: 0.001987
+ 7.  i                   | Impact: 0.001330
+ 8.  crazy               | Impact: 0.001329
+ 9.  keys                | Impact: 0.001054
+10.  them                | Impact: 0.001028
+11.  two                 | Impact: 0.000942
+12.  mb                  | Impact: 0.000834
+13.  storage             | Impact: 0.000832
+14.  or                  | Impact: 0.000768
+15.  drive               | Impact: 0.000744
+16.  for                 | Impact: 0.000729
+17.  ms                  | Impact: 0.000526
+18.  s                   | Impact: 0.000466
+19.  keyboards           | Impact: 0.000387
+20.  the                 | Impact: 0.000248
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  considered          | Impact: -0.004570
+ 2.  :                   | Impact: -0.003818
+ 3.  i                   | Impact: -0.003362
+ 4.  an                  | Impact: -0.002847
+ 5.  .                   | Impact: -0.002331
+ 6.  '                   | Impact: -0.002135
+ 7.  bill                | Impact: -0.002068
+ 8.  )                   | Impact: -0.001934
+ 9.  the                 | Impact: -0.001929
+10.  using               | Impact: -0.001905
+11.  >                   | Impact: -0.001836
+12.  kv                  | Impact: -0.001733
+13.  pro                 | Impact: -0.001725
+14.  mean                | Impact: -0.001675
+15.  -                   | Impact: -0.001673
+16.  any                 | Impact: -0.001657
+17.  switching           | Impact: -0.001618
+18.  >                   | Impact: -0.001592
+19.  .                   | Impact: -0.001505
+20.  .                   | Impact: -0.001419

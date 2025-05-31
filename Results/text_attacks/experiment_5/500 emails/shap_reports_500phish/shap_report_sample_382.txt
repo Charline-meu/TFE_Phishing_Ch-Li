@@ -1,0 +1,75 @@
+Sample 382
+==========
+
+Sample text preview: I have a new email address!You can now email me at: I am CHARLES TAYLOR, The Former President of Liberia. As you may be aware that the President Chief...
+
+Model prediction: [1.7029469e-04 9.9982965e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  liberia             | Impact: 0.013755 → PHISHING
+ 2.  of                  | Impact: 0.012184 → PHISHING
+ 3.  liberia             | Impact: 0.012184 → PHISHING
+ 4.  family              | Impact: 0.010468 → PHISHING
+ 5.  address             | Impact: 0.010031 → PHISHING
+ 6.  president           | Impact: 0.009493 → PHISHING
+ 7.  of                  | Impact: 0.009493 → PHISHING
+ 8.  last                | Impact: 0.009145 → PHISHING
+ 9.  .                   | Impact: 0.008064 → PHISHING
+10.  yours               | Impact: 0.008049 → PHISHING
+11.  sincerely           | Impact: 0.008049 → PHISHING
+12.  new                 | Impact: 0.006789 → PHISHING
+13.  email               | Impact: 0.006789 → PHISHING
+14.  my                  | Impact: 0.006460 → PHISHING
+15.  son                 | Impact: 0.006460 → PHISHING
+16.  will                | Impact: 0.006460 → PHISHING
+17.  come                | Impact: 0.006460 → PHISHING
+18.  son                 | Impact: 0.006384 → PHISHING
+19.  to                  | Impact: 0.006384 → PHISHING
+20.  your                | Impact: 0.006046 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  liberia             | Impact: 0.013755
+ 2.  of                  | Impact: 0.012184
+ 3.  liberia             | Impact: 0.012184
+ 4.  family              | Impact: 0.010468
+ 5.  address             | Impact: 0.010031
+ 6.  president           | Impact: 0.009493
+ 7.  of                  | Impact: 0.009493
+ 8.  last                | Impact: 0.009145
+ 9.  .                   | Impact: 0.008064
+10.  yours               | Impact: 0.008049
+11.  sincerely           | Impact: 0.008049
+12.  new                 | Impact: 0.006789
+13.  email               | Impact: 0.006789
+14.  my                  | Impact: 0.006460
+15.  son                 | Impact: 0.006460
+16.  will                | Impact: 0.006460
+17.  come                | Impact: 0.006460
+18.  son                 | Impact: 0.006384
+19.  to                  | Impact: 0.006384
+20.  your                | Impact: 0.006046
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.004014
+ 2.  %                   | Impact: -0.001334
+ 3.  of                  | Impact: -0.001334
+ 4.  the                 | Impact: -0.001334
+ 5.  total               | Impact: -0.001334
+ 6.  policy              | Impact: -0.001036
+ 7.  cover               | Impact: -0.001036
+ 8.  note                | Impact: -0.001036
+ 9.  on                  | Impact: -0.001036
+10.  of                  | Impact: -0.000412
+11.  $                   | Impact: -0.000412
+12.  ,                   | Impact: -0.000412
+13.  your                | Impact: -0.000289
+14.  box                 | Impact: -0.000289
+15.  number              | Impact: -0.000289
+16.  mb                  | Impact: -0.000289
+17.  .                   | Impact: -0.000289
+18.  apply               | Impact: -0.000282
+19.  to                  | Impact: -0.000282
+20.  :                   | Impact: -0.000282

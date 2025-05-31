@@ -1,0 +1,75 @@
+Sample 435
+==========
+
+Sample text preview: Kevin, I would like to see the expense reports to monitor the rate at which we approach our group budget limits. Thanks. Vince Kevin G Moore // : AM T...
+
+Model prediction: [9.9978834e-01 2.1165336e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.003951 → PHISHING
+ 2.  vince               | Impact: -0.003349 → LEGITIMATE
+ 3.  desk                | Impact: -0.003331 → LEGITIMATE
+ 4.  shirley             | Impact: 0.002436 → PHISHING
+ 5.  mike                | Impact: -0.002260 → LEGITIMATE
+ 6.  you                 | Impact: 0.001864 → PHISHING
+ 7.  if                  | Impact: -0.001628 → LEGITIMATE
+ 8.  from                | Impact: 0.001548 → PHISHING
+ 9.  pass                | Impact: -0.001344 → LEGITIMATE
+10.  this                | Impact: 0.001254 → PHISHING
+11.  if                  | Impact: 0.001208 → PHISHING
+12.  report              | Impact: -0.001102 → LEGITIMATE
+13.  thanks              | Impact: -0.001096 → LEGITIMATE
+14.  ec                  | Impact: -0.000896 → LEGITIMATE
+15.  ec                  | Impact: -0.000871 → LEGITIMATE
+16.  by                  | Impact: 0.000849 → PHISHING
+17.  kevin               | Impact: -0.000833 → LEGITIMATE
+18.  i                   | Impact: -0.000817 → LEGITIMATE
+19.  /                   | Impact: -0.000795 → LEGITIMATE
+20.  /                   | Impact: -0.000795 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.003951
+ 2.  shirley             | Impact: 0.002436
+ 3.  you                 | Impact: 0.001864
+ 4.  from                | Impact: 0.001548
+ 5.  this                | Impact: 0.001254
+ 6.  if                  | Impact: 0.001208
+ 7.  by                  | Impact: 0.000849
+ 8.  hello               | Impact: 0.000748
+ 9.  will                | Impact: 0.000729
+10.  also                | Impact: 0.000521
+11.  inform              | Impact: 0.000421
+12.  today               | Impact: 0.000385
+13.  .                   | Impact: 0.000382
+14.  .                   | Impact: 0.000382
+15.  what                | Impact: 0.000376
+16.  it                  | Impact: 0.000376
+17.  is                  | Impact: 0.000376
+18.  .                   | Impact: 0.000364
+19.  .                   | Impact: 0.000364
+20.  shirley             | Impact: 0.000348
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  vince               | Impact: -0.003349
+ 2.  desk                | Impact: -0.003331
+ 3.  mike                | Impact: -0.002260
+ 4.  if                  | Impact: -0.001628
+ 5.  pass                | Impact: -0.001344
+ 6.  report              | Impact: -0.001102
+ 7.  thanks              | Impact: -0.001096
+ 8.  ec                  | Impact: -0.000896
+ 9.  ec                  | Impact: -0.000871
+10.  kevin               | Impact: -0.000833
+11.  i                   | Impact: -0.000817
+12.  /                   | Impact: -0.000795
+13.  /                   | Impact: -0.000795
+14. t                    | Impact: -0.000718
+15.  expense             | Impact: -0.000717
+16.  .                   | Impact: -0.000686
+17.  mike                | Impact: -0.000662
+18.  roberts             | Impact: -0.000662
+19.  anything            | Impact: -0.000653
+20.  else                | Impact: -0.000653

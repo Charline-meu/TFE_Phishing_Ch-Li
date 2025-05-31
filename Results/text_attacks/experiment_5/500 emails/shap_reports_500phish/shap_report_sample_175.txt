@@ -1,0 +1,75 @@
+Sample 175
+==========
+
+Sample text preview: Dear Sir or Madam: Please reply to Receiver: China Enterprise Management Co., Ltd. (CMC) E-mail: As one technical organization supported by China Inve...
+
+Model prediction: [1.6479903e-04 9.9983513e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  yours               | Impact: 0.074929 → PHISHING
+ 2.  please              | Impact: 0.044531 → PHISHING
+ 3.  enter               | Impact: 0.040574 → PHISHING
+ 4.  chinese             | Impact: 0.038060 → PHISHING
+ 5.  help                | Impact: 0.031645 → PHISHING
+ 6.  you                 | Impact: 0.031645 → PHISHING
+ 7.  market              | Impact: 0.031384 → PHISHING
+ 8.  sincerely           | Impact: 0.025735 → PHISHING
+ 9.  dear                | Impact: 0.019984 → PHISHING
+10.  !                   | Impact: 0.019912 → PHISHING
+11.  please              | Impact: 0.019352 → PHISHING
+12.  reply               | Impact: 0.019352 → PHISHING
+13.  check               | Impact: 0.019022 → PHISHING
+14.  you                 | Impact: 0.018063 → PHISHING
+15.  sir                 | Impact: 0.017221 → PHISHING
+16.  to                  | Impact: 0.016225 → PHISHING
+17.  open                | Impact: 0.016225 → PHISHING
+18.  information         | Impact: 0.015688 → PHISHING
+19.  .                   | Impact: 0.014719 → PHISHING
+20.  chinese             | Impact: 0.014368 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  yours               | Impact: 0.074929
+ 2.  please              | Impact: 0.044531
+ 3.  enter               | Impact: 0.040574
+ 4.  chinese             | Impact: 0.038060
+ 5.  help                | Impact: 0.031645
+ 6.  you                 | Impact: 0.031645
+ 7.  market              | Impact: 0.031384
+ 8.  sincerely           | Impact: 0.025735
+ 9.  dear                | Impact: 0.019984
+10.  !                   | Impact: 0.019912
+11.  please              | Impact: 0.019352
+12.  reply               | Impact: 0.019352
+13.  check               | Impact: 0.019022
+14.  you                 | Impact: 0.018063
+15.  sir                 | Impact: 0.017221
+16.  to                  | Impact: 0.016225
+17.  open                | Impact: 0.016225
+18.  information         | Impact: 0.015688
+19.  .                   | Impact: 0.014719
+20.  chinese             | Impact: 0.014368
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  or                  | Impact: -0.003639
+ 2.  chinese             | Impact: -0.003454
+ 3.  quality             | Impact: -0.003454
+ 4.  supervision         | Impact: -0.003454
+ 5.  .                   | Impact: -0.002624
+ 6.  the                 | Impact: -0.002179
+ 7.  relevant            | Impact: -0.002179
+ 8.  we                  | Impact: -0.002032
+ 9.  cooperate           | Impact: -0.002032
+10.  closely             | Impact: -0.001415
+11.  with                | Impact: -0.001415
+12.  standardization     | Impact: -0.001035
+13.  information         | Impact: -0.001035
+14.  organization        | Impact: -0.001035
+15.  (                   | Impact: -0.000955
+16.  (                   | Impact: -0.000503
+17.  un                  | Impact: -0.000503
+18. ido                  | Impact: -0.000503
+19.  )                   | Impact: -0.000503
+20.  ,                   | Impact: -0.000503

@@ -1,0 +1,75 @@
+Phishing Sample 48
+==================
+
+Sample text preview: Join us at DSC ! Come meet us at the Driving Simulation Conference in Strasbourg, where driving simulation specialists from the industrial and academi...
+
+Model prediction: [0.99890876 0.0010912 ]
+Predicted class: LEGITIMATE with 0.9989 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  engineering         | Impact: -0.026765 → LEGITIMATE
+ 2.  you                 | Impact: 0.013942 → PHISHING
+ 3.  support             | Impact: 0.011719 → PHISHING
+ 4.  copyright           | Impact: 0.010402 → PHISHING
+ 5.  us                  | Impact: 0.010345 → PHISHING
+ 6.  logo                | Impact: 0.009981 → PHISHING
+ 7.  event               | Impact: -0.009849 → LEGITIMATE
+ 8.  details             | Impact: -0.009849 → LEGITIMATE
+ 9.  products            | Impact: 0.009513 → PHISHING
+10.  (                   | Impact: -0.009346 → LEGITIMATE
+11.  journey             | Impact: 0.007881 → PHISHING
+12.  st                  | Impact: -0.007841 → LEGITIMATE
+13.  engineering         | Impact: -0.007841 → LEGITIMATE
+14.  (                   | Impact: -0.007754 → LEGITIMATE
+15.  or                  | Impact: -0.006705 → LEGITIMATE
+16. bs                   | Impact: -0.006680 → LEGITIMATE
+17. ibe                  | Impact: -0.006538 → LEGITIMATE
+18.  let                 | Impact: 0.006351 → PHISHING
+19.  in                  | Impact: 0.005131 → PHISHING
+20.  your                | Impact: 0.005131 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.013942
+ 2.  support             | Impact: 0.011719
+ 3.  copyright           | Impact: 0.010402
+ 4.  us                  | Impact: 0.010345
+ 5.  logo                | Impact: 0.009981
+ 6.  products            | Impact: 0.009513
+ 7.  journey             | Impact: 0.007881
+ 8.  let                 | Impact: 0.006351
+ 9.  in                  | Impact: 0.005131
+10.  your                | Impact: 0.005131
+11.  un                  | Impact: 0.005122
+12.  reserved            | Impact: 0.004430
+13.  .                   | Impact: 0.003743
+14.  you                 | Impact: 0.003669
+15.  are                 | Impact: 0.003669
+16.  !                   | Impact: 0.003319
+17.  (                   | Impact: 0.003270
+18.  c                   | Impact: 0.003270
+19.  )                   | Impact: 0.003270
+20.  and                 | Impact: 0.003024
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  engineering         | Impact: -0.026765
+ 2.  event               | Impact: -0.009849
+ 3.  details             | Impact: -0.009849
+ 4.  (                   | Impact: -0.009346
+ 5.  st                  | Impact: -0.007841
+ 6.  engineering         | Impact: -0.007841
+ 7.  (                   | Impact: -0.007754
+ 8.  or                  | Impact: -0.006705
+ 9. bs                   | Impact: -0.006680
+10. ibe                  | Impact: -0.006538
+11.  (                   | Impact: -0.004337
+12.  ant                 | Impact: -0.004222
+13. y                    | Impact: -0.004222
+14. ci                   | Impact: -0.004222
+15. p                    | Impact: -0.004222
+16. su                   | Impact: -0.004190
+17.  in                  | Impact: -0.003811
+18.  st                  | Impact: -0.003811
+19.  software            | Impact: -0.003180
+20.  ,                   | Impact: -0.003180

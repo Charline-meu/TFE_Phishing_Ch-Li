@@ -1,0 +1,60 @@
+Sample 256
+==========
+
+Sample text preview: Your e-mailbox password will expire in days. to keep your password. CLICK=HERE< to update immediately IT-Service Help Desk.
+
+Model prediction: [2.0678159e-04 9.9979323e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  immediately         | Impact: 0.127031 → PHISHING
+ 2.  your                | Impact: 0.095116 → PHISHING
+ 3.  password            | Impact: 0.084755 → PHISHING
+ 4.  =                   | Impact: 0.082190 → PHISHING
+ 5.  click               | Impact: 0.078201 → PHISHING
+ 6.  ex                  | Impact: 0.065385 → PHISHING
+ 7.  <                   | Impact: 0.060284 → PHISHING
+ 8.  password            | Impact: 0.046207 → PHISHING
+ 9.  here                | Impact: 0.044875 → PHISHING
+10.  it                  | Impact: 0.044868 → PHISHING
+11.  your                | Impact: 0.043760 → PHISHING
+12. pire                 | Impact: 0.037960 → PHISHING
+13.  keep                | Impact: 0.033445 → PHISHING
+14.  update              | Impact: 0.032336 → PHISHING
+15. box                  | Impact: 0.025818 → PHISHING
+16.  service             | Impact: -0.017253 → LEGITIMATE
+17.  mail                | Impact: 0.014558 → PHISHING
+18.  desk                | Impact: 0.013823 → PHISHING
+19.  to                  | Impact: 0.013269 → PHISHING
+20.  to                  | Impact: 0.012938 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  immediately         | Impact: 0.127031
+ 2.  your                | Impact: 0.095116
+ 3.  password            | Impact: 0.084755
+ 4.  =                   | Impact: 0.082190
+ 5.  click               | Impact: 0.078201
+ 6.  ex                  | Impact: 0.065385
+ 7.  <                   | Impact: 0.060284
+ 8.  password            | Impact: 0.046207
+ 9.  here                | Impact: 0.044875
+10.  it                  | Impact: 0.044868
+11.  your                | Impact: 0.043760
+12. pire                 | Impact: 0.037960
+13.  keep                | Impact: 0.033445
+14.  update              | Impact: 0.032336
+15. box                  | Impact: 0.025818
+16.  mail                | Impact: 0.014558
+17.  desk                | Impact: 0.013823
+18.  to                  | Impact: 0.013269
+19.  to                  | Impact: 0.012938
+20.  help                | Impact: 0.012538
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  service             | Impact: -0.017253
+ 2.  -                   | Impact: -0.010880
+ 3.  will                | Impact: -0.002707
+ 4.  .                   | Impact: -0.000822
+ 5.  .                   | Impact: -0.000132

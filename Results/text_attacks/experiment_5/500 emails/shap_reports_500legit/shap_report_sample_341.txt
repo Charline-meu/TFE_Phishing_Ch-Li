@@ -1,0 +1,75 @@
+Sample 341
+==========
+
+Sample text preview: *************************************************************** Want to get published? Here's your chance to get recognized. Click to learn more! Spon...
+
+Model prediction: [9.9951375e-01 4.8624125e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  band                | Impact: 0.004941 → PHISHING
+ 2.  example             | Impact: -0.002644 → LEGITIMATE
+ 3.  sentence            | Impact: -0.002644 → LEGITIMATE
+ 4.  for                 | Impact: -0.002253 → LEGITIMATE
+ 5.  january             | Impact: -0.002253 → LEGITIMATE
+ 6.  is                  | Impact: -0.002008 → LEGITIMATE
+ 7.  :                   | Impact: -0.002008 → LEGITIMATE
+ 8.  cory                | Impact: -0.001316 → LEGITIMATE
+ 9. bant                 | Impact: -0.001316 → LEGITIMATE
+10. ic                   | Impact: -0.001316 → LEGITIMATE
+11.  inc                 | Impact: -0.001311 → LEGITIMATE
+12.  you                 | Impact: 0.001100 → PHISHING
+13.  by                  | Impact: 0.001100 → PHISHING
+14.  the                 | Impact: 0.000999 → PHISHING
+15.  rock                | Impact: 0.000999 → PHISHING
+16.  cory                | Impact: -0.000902 → LEGITIMATE
+17. bant                 | Impact: -0.000902 → LEGITIMATE
+18.  ;                   | Impact: -0.000902 → LEGITIMATE
+19.  especially          | Impact: -0.000902 → LEGITIMATE
+20.  (                   | Impact: -0.000890 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  band                | Impact: 0.004941
+ 2.  you                 | Impact: 0.001100
+ 3.  by                  | Impact: 0.001100
+ 4.  the                 | Impact: 0.000999
+ 5.  rock                | Impact: 0.000999
+ 6.  dance               | Impact: 0.000737
+ 7.  to                  | Impact: 0.000737
+ 8.  the                 | Impact: 0.000648
+ 9.  driving             | Impact: 0.000648
+10.  guitars             | Impact: 0.000648
+11.  !                   | Impact: 0.000589
+12.  "                   | Impact: 0.000578
+13.                      | Impact: 0.000534
+14.  *                   | Impact: 0.000534
+15.  *                   | Impact: 0.000534
+16.  *                   | Impact: 0.000534
+17.  brought             | Impact: 0.000524
+18.  to                  | Impact: 0.000524
+19.  the                 | Impact: 0.000468
+20.  pounding            | Impact: 0.000468
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  example             | Impact: -0.002644
+ 2.  sentence            | Impact: -0.002644
+ 3.  for                 | Impact: -0.002253
+ 4.  january             | Impact: -0.002253
+ 5.  is                  | Impact: -0.002008
+ 6.  :                   | Impact: -0.002008
+ 7.  cory                | Impact: -0.001316
+ 8. bant                 | Impact: -0.001316
+ 9. ic                   | Impact: -0.001316
+10.  inc                 | Impact: -0.001311
+11.  cory                | Impact: -0.000902
+12. bant                 | Impact: -0.000902
+13.  ;                   | Impact: -0.000902
+14.  especially          | Impact: -0.000902
+15.  (                   | Impact: -0.000890
+16.  adjective           | Impact: -0.000890
+17.  )                   | Impact: -0.000890
+18.  :                   | Impact: -0.000890
+19.  like                | Impact: -0.000890
+20.  or                  | Impact: -0.000890

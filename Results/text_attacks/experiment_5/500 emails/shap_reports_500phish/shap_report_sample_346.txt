@@ -1,0 +1,68 @@
+Sample 346
+==========
+
+Sample text preview: gDRDV�X �FNFNB�C: `Av�F{B NCAY\�AB�DC�! �FNFOE`F: bPlEaFR�C`Av�F{B �D�DS\u[C NDN_C�C`A\NDQD�FDY cAebvC�eB�FNF sFEW�CO��Ov�FNF�D �DS}ARGBQD�BB �DEdCANE...
+
+Model prediction: [0.00207401 0.997926  ]
+Predicted class: PHISHING with 0.9979 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  \                   | Impact: 0.038017 → PHISHING
+ 2. f                    | Impact: 0.037589 → PHISHING
+ 3.  abd                 | Impact: 0.025233 → PHISHING
+ 4.  !                   | Impact: 0.024604 → PHISHING
+ 5. nbc                  | Impact: -0.024250 → LEGITIMATE
+ 6.  \                   | Impact: 0.023860 → PHISHING
+ 7. gb                   | Impact: 0.022723 → PHISHING
+ 8. x                    | Impact: 0.020752 → PHISHING
+ 9.  c                   | Impact: 0.019703 → PHISHING
+10.  \                   | Impact: 0.018223 → PHISHING
+11.  _                   | Impact: 0.018142 → PHISHING
+12.  \                   | Impact: 0.017010 → PHISHING
+13. n                    | Impact: 0.016378 → PHISHING
+14. n                    | Impact: 0.015714 → PHISHING
+15. ba                   | Impact: 0.015406 → PHISHING
+16. v                    | Impact: 0.015277 → PHISHING
+17. ane                  | Impact: 0.014985 → PHISHING
+18. ay                   | Impact: 0.014919 → PHISHING
+19.  av                  | Impact: 0.014145 → PHISHING
+20.  f                   | Impact: 0.014087 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  \                   | Impact: 0.038017
+ 2. f                    | Impact: 0.037589
+ 3.  abd                 | Impact: 0.025233
+ 4.  !                   | Impact: 0.024604
+ 5.  \                   | Impact: 0.023860
+ 6. gb                   | Impact: 0.022723
+ 7. x                    | Impact: 0.020752
+ 8.  c                   | Impact: 0.019703
+ 9.  \                   | Impact: 0.018223
+10.  _                   | Impact: 0.018142
+11.  \                   | Impact: 0.017010
+12. n                    | Impact: 0.016378
+13. n                    | Impact: 0.015714
+14. ba                   | Impact: 0.015406
+15. v                    | Impact: 0.015277
+16. ane                  | Impact: 0.014985
+17. ay                   | Impact: 0.014919
+18.  av                  | Impact: 0.014145
+19.  f                   | Impact: 0.014087
+20. d                    | Impact: 0.013818
+
+Top features pushing towards LEGITIMATE classification:
+ 1. nbc                  | Impact: -0.024250
+ 2. c                    | Impact: -0.007748
+ 3.  }                   | Impact: -0.003431
+ 4. c                    | Impact: -0.002403
+ 5.  n                   | Impact: -0.000431
+ 6. d                    | Impact: -0.000431
+ 7.  ds                  | Impact: -0.000367
+ 8.  }                   | Impact: -0.000367
+ 9.  ar                  | Impact: -0.000087
+10. gb                   | Impact: -0.000087
+11. q                    | Impact: -0.000087
+12. db                   | Impact: -0.000087
+13. b                    | Impact: -0.000087

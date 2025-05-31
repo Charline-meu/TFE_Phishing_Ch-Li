@@ -1,0 +1,72 @@
+Sample 179
+==========
+
+Sample text preview: Start Date: //; HourAhead hour: ; No ancillary schedules awarded. No variances detected. LOG MESSAGES: PARSING FILE -->> O:\Portland\WestDesk\Californ...
+
+Model prediction: [9.9971300e-01 2.8697116e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  detected            | Impact: 0.044267 → PHISHING
+ 2.  scheduling          | Impact: -0.043563 → LEGITIMATE
+ 3.  messages            | Impact: 0.043004 → PHISHING
+ 4.  variance            | Impact: -0.038672 → LEGITIMATE
+ 5.  :                   | Impact: -0.035566 → LEGITIMATE
+ 6.  par                 | Impact: -0.032575 → LEGITIMATE
+ 7.  file                | Impact: 0.030449 → PHISHING
+ 8.  :                   | Impact: -0.029065 → LEGITIMATE
+ 9.  \                   | Impact: 0.025960 → PHISHING
+10.  west                | Impact: 0.024910 → PHISHING
+11.  \                   | Impact: 0.023826 → PHISHING
+12. s                    | Impact: -0.019521 → LEGITIMATE
+13.  final               | Impact: -0.016430 → LEGITIMATE
+14.  \                   | Impact: 0.015593 → PHISHING
+15.  no                  | Impact: 0.015559 → PHISHING
+16.  .                   | Impact: -0.015550 → LEGITIMATE
+17.  >                   | Impact: -0.014973 → LEGITIMATE
+18. k                    | Impact: 0.014302 → PHISHING
+19.  schedules           | Impact: -0.011375 → LEGITIMATE
+20. des                  | Impact: -0.011294 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  detected            | Impact: 0.044267
+ 2.  messages            | Impact: 0.043004
+ 3.  file                | Impact: 0.030449
+ 4.  \                   | Impact: 0.025960
+ 5.  west                | Impact: 0.024910
+ 6.  \                   | Impact: 0.023826
+ 7.  \                   | Impact: 0.015593
+ 8.  no                  | Impact: 0.015559
+ 9. k                    | Impact: 0.014302
+10.  \                   | Impact: 0.010523
+11.  o                   | Impact: 0.006091
+12.  \                   | Impact: 0.005375
+13.  ;                   | Impact: 0.002364
+14.  -                   | Impact: 0.001064
+15. sing                 | Impact: 0.000789
+16.  an                  | Impact: 0.000753
+17.                      | Impact: 0.000038
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  scheduling          | Impact: -0.043563
+ 2.  variance            | Impact: -0.038672
+ 3.  :                   | Impact: -0.035566
+ 4.  par                 | Impact: -0.032575
+ 5.  :                   | Impact: -0.029065
+ 6. s                    | Impact: -0.019521
+ 7.  final               | Impact: -0.016430
+ 8.  .                   | Impact: -0.015550
+ 9.  >                   | Impact: -0.014973
+10.  schedules           | Impact: -0.011375
+11. des                  | Impact: -0.011294
+12.  >                   | Impact: -0.010851
+13.  iso                 | Impact: -0.009409
+14.  /                   | Impact: -0.009075
+15.  :                   | Impact: -0.005446
+16.  log                 | Impact: -0.005232
+17. t                    | Impact: -0.003860
+18.  california          | Impact: -0.002725
+19.  -                   | Impact: -0.002456
+20. ead                  | Impact: -0.002341

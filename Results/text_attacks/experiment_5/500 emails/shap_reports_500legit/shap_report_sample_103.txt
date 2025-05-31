@@ -1,0 +1,75 @@
+Sample 103
+==========
+
+Sample text preview: David Neary wrote: > Padraig Brady wrote: > >>>Paul Jakma wrote: >>> >>>>chars in hex to plain ASCII? >>>> >>>>eg given >>>> >>>> >>>>is there an easy...
+
+Model prediction: [9.9977452e-01 2.2547867e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  plain               | Impact: 0.002701 → PHISHING
+ 2.  e                   | Impact: -0.001742 → LEGITIMATE
+ 3.  david               | Impact: -0.001461 → LEGITIMATE
+ 4. g                    | Impact: -0.001345 → LEGITIMATE
+ 5.  >                   | Impact: -0.001276 → LEGITIMATE
+ 6.  >                   | Impact: -0.001210 → LEGITIMATE
+ 7.  list                | Impact: -0.001166 → LEGITIMATE
+ 8.  char                | Impact: -0.001144 → LEGITIMATE
+ 9.  be                  | Impact: 0.000880 → PHISHING
+10. c                    | Impact: -0.000863 → LEGITIMATE
+11.  .                   | Impact: -0.000838 → LEGITIMATE
+12.  -                   | Impact: -0.000825 → LEGITIMATE
+13. x                    | Impact: -0.000808 → LEGITIMATE
+14.  -                   | Impact: -0.000794 → LEGITIMATE
+15.  would               | Impact: 0.000647 → PHISHING
+16.  turn                | Impact: 0.000616 → PHISHING
+17.  in                  | Impact: 0.000593 → PHISHING
+18.  wrote               | Impact: -0.000570 → LEGITIMATE
+19.  :                   | Impact: -0.000570 → LEGITIMATE
+20.  echo                | Impact: -0.000556 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  plain               | Impact: 0.002701
+ 2.  be                  | Impact: 0.000880
+ 3.  would               | Impact: 0.000647
+ 4.  turn                | Impact: 0.000616
+ 5.  in                  | Impact: 0.000593
+ 6.  near                | Impact: 0.000547
+ 7.  some                | Impact: 0.000490
+ 8.  to                  | Impact: 0.000375
+ 9.  it                  | Impact: 0.000347
+10.  into                | Impact: 0.000347
+11.  to                  | Impact: 0.000311
+12.  there               | Impact: 0.000298
+13.  an                  | Impact: 0.000298
+14.  easy                | Impact: 0.000283
+15.  way                 | Impact: 0.000283
+16.  "                   | Impact: 0.000109
+17.  `                   | Impact: 0.000109
+18.  in                  | Impact: 0.000083
+19. y                    | Impact: 0.000070
+20.  >                   | Impact: 0.000061
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  e                   | Impact: -0.001742
+ 2.  david               | Impact: -0.001461
+ 3. g                    | Impact: -0.001345
+ 4.  >                   | Impact: -0.001276
+ 5.  >                   | Impact: -0.001210
+ 6.  list                | Impact: -0.001166
+ 7.  char                | Impact: -0.001144
+ 8. c                    | Impact: -0.000863
+ 9.  .                   | Impact: -0.000838
+10.  -                   | Impact: -0.000825
+11. x                    | Impact: -0.000808
+12.  -                   | Impact: -0.000794
+13.  wrote               | Impact: -0.000570
+14.  :                   | Impact: -0.000570
+15.  echo                | Impact: -0.000556
+16.  "                   | Impact: -0.000556
+17.  wrote               | Impact: -0.000537
+18.  :                   | Impact: -0.000537
+19. s                    | Impact: -0.000535
+20. er                   | Impact: -0.000530

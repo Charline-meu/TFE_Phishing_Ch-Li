@@ -1,0 +1,75 @@
+Phishing Sample 29
+==================
+
+Sample text preview: URL: Date: Not supplied SixDegress is a $ OS X app that data-mines your own hard-drive and tries to build links between people, files and folders. Lau...
+
+Model prediction: [9.9976188e-01 2.3814857e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  laura               | Impact: -0.051767 → LEGITIMATE
+ 2.  you                 | Impact: 0.037952 → PHISHING
+ 3.  sent                | Impact: 0.034570 → PHISHING
+ 4.  view                | Impact: 0.026518 → PHISHING
+ 5.  ]                   | Impact: -0.026010 → LEGITIMATE
+ 6.  [                   | Impact: -0.024796 → LEGITIMATE
+ 7.  ]                   | Impact: -0.024757 → LEGITIMATE
+ 8.  [                   | Impact: -0.022650 → LEGITIMATE
+ 9.  [                   | Impact: -0.016593 → LEGITIMATE
+10.  ]                   | Impact: -0.016340 → LEGITIMATE
+11.  *                   | Impact: 0.016271 → PHISHING
+12.  ]                   | Impact: -0.015544 → LEGITIMATE
+13.  person              | Impact: 0.013791 → PHISHING
+14.  has                 | Impact: 0.013791 → PHISHING
+15.  email               | Impact: 0.013509 → PHISHING
+16.  os                  | Impact: -0.012683 → LEGITIMATE
+17.  !                   | Impact: -0.011526 → LEGITIMATE
+18.  files               | Impact: 0.010773 → PHISHING
+19.  are                 | Impact: 0.010773 → PHISHING
+20.  your                | Impact: 0.010673 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.037952
+ 2.  sent                | Impact: 0.034570
+ 3.  view                | Impact: 0.026518
+ 4.  *                   | Impact: 0.016271
+ 5.  person              | Impact: 0.013791
+ 6.  has                 | Impact: 0.013791
+ 7.  email               | Impact: 0.013509
+ 8.  files               | Impact: 0.010773
+ 9.  are                 | Impact: 0.010773
+10.  your                | Impact: 0.010673
+11.  computer            | Impact: 0.010673
+12.  stored              | Impact: 0.008668
+13.  on                  | Impact: 0.008668
+14.  all                 | Impact: 0.007579
+15.  *                   | Impact: 0.006992
+16.  show                | Impact: 0.006992
+17.  .                   | Impact: 0.006244
+18.  your                | Impact: 0.005252
+19.  system              | Impact: 0.005252
+20.  attachment          | Impact: 0.005055
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  laura               | Impact: -0.051767
+ 2.  ]                   | Impact: -0.026010
+ 3.  [                   | Impact: -0.024796
+ 4.  ]                   | Impact: -0.024757
+ 5.  [                   | Impact: -0.022650
+ 6.  [                   | Impact: -0.016593
+ 7.  ]                   | Impact: -0.016340
+ 8.  ]                   | Impact: -0.015544
+ 9.  os                  | Impact: -0.012683
+10.  !                   | Impact: -0.011526
+11.  (                   | Impact: -0.010189
+12.  cool                | Impact: -0.009473
+13.  x                   | Impact: -0.009396
+14.  _                   | Impact: -0.009304
+15.  thanks              | Impact: -0.009304
+16.  ,                   | Impact: -0.009304
+17.  discuss             | Impact: -0.009202
+18.  demo                | Impact: -0.007128
+19.  to                  | Impact: -0.007128
+20.  was                 | Impact: -0.006821

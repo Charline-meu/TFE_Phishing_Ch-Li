@@ -1,0 +1,75 @@
+Phishing Sample 31
+==================
+
+Sample text preview: BANK OF AFRICA AGENCE SAN PEDRO BP San Pedro Cote D'Ivoire-West Africa. Dear Sir, I am Mrs Dorise Marie FRANCOISE,an accountant of auditing and accoun...
+
+Model prediction: [1.7091367e-04 9.9982905e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.036884 → PHISHING
+ 2.  account             | Impact: 0.036884 → PHISHING
+ 3.  ,                   | Impact: 0.019789 → PHISHING
+ 4.  secured             | Impact: 0.015886 → PHISHING
+ 5.  into                | Impact: 0.015886 → PHISHING
+ 6.  fund                | Impact: 0.015668 → PHISHING
+ 7.  is                  | Impact: 0.015668 → PHISHING
+ 8.  mrs                 | Impact: 0.014226 → PHISHING
+ 9.  the                 | Impact: 0.012898 → PHISHING
+10.  deceased            | Impact: 0.012898 → PHISHING
+11.  you                 | Impact: 0.011253 → PHISHING
+12.  to                  | Impact: 0.011253 → PHISHING
+13.  yahoo               | Impact: -0.010997 → LEGITIMATE
+14.  dear                | Impact: 0.010872 → PHISHING
+15.  sir                 | Impact: 0.010872 → PHISHING
+16.  and                 | Impact: 0.008780 → PHISHING
+17.  '                   | Impact: 0.008780 → PHISHING
+18.  am                  | Impact: 0.008780 → PHISHING
+19.  presently           | Impact: 0.008780 → PHISHING
+20.  i                   | Impact: 0.007976 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.036884
+ 2.  account             | Impact: 0.036884
+ 3.  ,                   | Impact: 0.019789
+ 4.  secured             | Impact: 0.015886
+ 5.  into                | Impact: 0.015886
+ 6.  fund                | Impact: 0.015668
+ 7.  is                  | Impact: 0.015668
+ 8.  mrs                 | Impact: 0.014226
+ 9.  the                 | Impact: 0.012898
+10.  deceased            | Impact: 0.012898
+11.  you                 | Impact: 0.011253
+12.  to                  | Impact: 0.011253
+13.  dear                | Impact: 0.010872
+14.  sir                 | Impact: 0.010872
+15.  and                 | Impact: 0.008780
+16.  '                   | Impact: 0.008780
+17.  am                  | Impact: 0.008780
+18.  presently           | Impact: 0.008780
+19.  i                   | Impact: 0.007976
+20.  am                  | Impact: 0.007976
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  yahoo               | Impact: -0.010997
+ 2.  do                  | Impact: -0.004827
+ 3.  you                 | Impact: -0.004827
+ 4.  yahoo               | Impact: -0.004827
+ 5.  !                   | Impact: -0.004827
+ 6.  _                   | Impact: -0.003320
+ 7.  _                   | Impact: -0.003320
+ 8.  _                   | Impact: -0.003320
+ 9.  _                   | Impact: -0.003320
+10.  _                   | Impact: -0.003001
+11.  _                   | Impact: -0.003001
+12.  _                   | Impact: -0.003001
+13.  _                   | Impact: -0.003001
+14.  !                   | Impact: -0.002964
+15.  as                  | Impact: -0.002596
+16.  follows             | Impact: -0.002596
+17.  :                   | Impact: -0.002596
+18.  %                   | Impact: -0.002596
+19.  _                   | Impact: -0.002152
+20.  _                   | Impact: -0.002152

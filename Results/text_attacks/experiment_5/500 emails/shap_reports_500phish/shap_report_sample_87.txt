@@ -1,0 +1,62 @@
+Sample 87
+=========
+
+Sample text preview: PayPal We ve noticed some unusual activities in your account. We re sorry to inform you that we ve limited your account. We ve noticed that someone el...
+
+Model prediction: [2.000272e-04 9.998000e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  account             | Impact: 0.077935 → PHISHING
+ 2.  your                | Impact: 0.061505 → PHISHING
+ 3.  located             | Impact: 0.058675 → PHISHING
+ 4.  pay                 | Impact: 0.048808 → PHISHING
+ 5.  jose                | Impact: 0.042392 → PHISHING
+ 6.  confirm             | Impact: 0.042385 → PHISHING
+ 7.  inc                 | Impact: 0.039755 → PHISHING
+ 8.  n                   | Impact: 0.039369 → PHISHING
+ 9.  account             | Impact: 0.038829 → PHISHING
+10.  account             | Impact: 0.033874 → PHISHING
+11.  copyright           | Impact: 0.030118 → PHISHING
+12.  -                   | Impact: 0.030118 → PHISHING
+13.  .                   | Impact: 0.028528 → PHISHING
+14. pal                  | Impact: 0.028009 → PHISHING
+15.  access              | Impact: 0.027805 → PHISHING
+16.  your                | Impact: 0.026890 → PHISHING
+17.  pay                 | Impact: 0.025114 → PHISHING
+18.  is                  | Impact: 0.023377 → PHISHING
+19.  inform              | Impact: 0.018179 → PHISHING
+20.  your                | Impact: 0.017851 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  account             | Impact: 0.077935
+ 2.  your                | Impact: 0.061505
+ 3.  located             | Impact: 0.058675
+ 4.  pay                 | Impact: 0.048808
+ 5.  jose                | Impact: 0.042392
+ 6.  confirm             | Impact: 0.042385
+ 7.  inc                 | Impact: 0.039755
+ 8.  n                   | Impact: 0.039369
+ 9.  account             | Impact: 0.038829
+10.  account             | Impact: 0.033874
+11.  copyright           | Impact: 0.030118
+12.  -                   | Impact: 0.030118
+13.  .                   | Impact: 0.028528
+14. pal                  | Impact: 0.028009
+15.  access              | Impact: 0.027805
+16.  your                | Impact: 0.026890
+17.  pay                 | Impact: 0.025114
+18.  is                  | Impact: 0.023377
+19.  inform              | Impact: 0.018179
+20.  your                | Impact: 0.017851
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.012257
+ 2.  ca                  | Impact: -0.004878
+ 3.  .                   | Impact: -0.004444
+ 4.  .                   | Impact: -0.002988
+ 5.  .                   | Impact: -0.001985
+ 6.  ,                   | Impact: -0.000297
+ 7.  .                   | Impact: -0.000092

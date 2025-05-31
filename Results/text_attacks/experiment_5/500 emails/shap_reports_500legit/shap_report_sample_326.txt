@@ -1,0 +1,75 @@
+Sample 326
+==========
+
+Sample text preview: Robin, Thanks for your call this morining. As stated, I am unaware of any changes in our agreements or terms with regards to Canadian companies or tra...
+
+Model prediction: [9.9976426e-01 2.3572483e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.013647 → LEGITIMATE
+ 2.  you                 | Impact: -0.009588 → LEGITIMATE
+ 3.  street              | Impact: 0.009212 → PHISHING
+ 4.  en                  | Impact: -0.007740 → LEGITIMATE
+ 5.  i                   | Impact: -0.007566 → LEGITIMATE
+ 6.  department          | Impact: -0.006119 → LEGITIMATE
+ 7.  number              | Impact: 0.005970 → PHISHING
+ 8.  ,                   | Impact: 0.005544 → PHISHING
+ 9.  ,                   | Impact: 0.005315 → PHISHING
+10.  phone               | Impact: 0.005313 → PHISHING
+11.  departments         | Impact: -0.004902 → LEGITIMATE
+12.  name                | Impact: 0.004422 → PHISHING
+13.  person              | Impact: 0.004344 → PHISHING
+14.  texas               | Impact: 0.004234 → PHISHING
+15.  -                   | Impact: -0.003932 → LEGITIMATE
+16.  do                  | Impact: -0.003930 → LEGITIMATE
+17.  houston             | Impact: -0.003490 → LEGITIMATE
+18.  -                   | Impact: -0.003204 → LEGITIMATE
+19.  regards             | Impact: 0.002777 → PHISHING
+20.  spelling            | Impact: -0.002500 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  street              | Impact: 0.009212
+ 2.  number              | Impact: 0.005970
+ 3.  ,                   | Impact: 0.005544
+ 4.  ,                   | Impact: 0.005315
+ 5.  phone               | Impact: 0.005313
+ 6.  name                | Impact: 0.004422
+ 7.  person              | Impact: 0.004344
+ 8.  texas               | Impact: 0.004234
+ 9.  regards             | Impact: 0.002777
+10.  our                 | Impact: 0.002304
+11.  this                | Impact: 0.002063
+12.  legal               | Impact: 0.001837
+13. x                    | Impact: 0.001550
+14.  america             | Impact: 0.001402
+15.  in                  | Impact: 0.001298
+16.  credit              | Impact: 0.001106
+17.  no                  | Impact: 0.001058
+18.  guy                 | Impact: 0.000987
+19. iere                 | Impact: 0.000914
+20.  by                  | Impact: 0.000653
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.013647
+ 2.  you                 | Impact: -0.009588
+ 3.  en                  | Impact: -0.007740
+ 4.  i                   | Impact: -0.007566
+ 5.  department          | Impact: -0.006119
+ 6.  departments         | Impact: -0.004902
+ 7.  -                   | Impact: -0.003932
+ 8.  do                  | Impact: -0.003930
+ 9.  houston             | Impact: -0.003490
+10.  -                   | Impact: -0.003204
+11.  spelling            | Impact: -0.002500
+12.  debra               | Impact: -0.002452
+13.  .                   | Impact: -0.002449
+14.  cara                | Impact: -0.001939
+15.  .                   | Impact: -0.001613
+16.  -                   | Impact: -0.001400
+17.  -                   | Impact: -0.001363
+18.  stated              | Impact: -0.001357
+19.  e                   | Impact: -0.001104
+20. b                    | Impact: -0.001047

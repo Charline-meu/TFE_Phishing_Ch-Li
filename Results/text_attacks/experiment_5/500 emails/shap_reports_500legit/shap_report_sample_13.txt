@@ -1,0 +1,60 @@
+Sample 13
+=========
+
+Sample text preview: Start Date: //; HourAhead hour: ; HourAhead schedule download failed. Manual intervention required.
+
+Model prediction: [9.9962854e-01 3.7144101e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  download            | Impact: 0.173980 → PHISHING
+ 2.  manual              | Impact: 0.131393 → PHISHING
+ 3. ead                  | Impact: -0.115348 → LEGITIMATE
+ 4.  required            | Impact: 0.105355 → PHISHING
+ 5.  date                | Impact: -0.090152 → LEGITIMATE
+ 6.  intervention        | Impact: -0.063641 → LEGITIMATE
+ 7.  hour                | Impact: -0.061520 → LEGITIMATE
+ 8.  :                   | Impact: -0.056846 → LEGITIMATE
+ 9.  hour                | Impact: -0.051215 → LEGITIMATE
+10.  schedule            | Impact: -0.043948 → LEGITIMATE
+11.  .                   | Impact: 0.036879 → PHISHING
+12.  start               | Impact: 0.031787 → PHISHING
+13. ead                  | Impact: -0.030312 → LEGITIMATE
+14.  failed              | Impact: -0.030208 → LEGITIMATE
+15. ah                   | Impact: 0.026813 → PHISHING
+16.  /                   | Impact: -0.022656 → LEGITIMATE
+17.  .                   | Impact: 0.020067 → PHISHING
+18.  hour                | Impact: -0.012655 → LEGITIMATE
+19.  :                   | Impact: -0.011329 → LEGITIMATE
+20.  ;                   | Impact: -0.006158 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  download            | Impact: 0.173980
+ 2.  manual              | Impact: 0.131393
+ 3.  required            | Impact: 0.105355
+ 4.  .                   | Impact: 0.036879
+ 5.  start               | Impact: 0.031787
+ 6. ah                   | Impact: 0.026813
+ 7.  .                   | Impact: 0.020067
+ 8.  /                   | Impact: 0.003815
+ 9.                      | Impact: 0.000003
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ead                  | Impact: -0.115348
+ 2.  date                | Impact: -0.090152
+ 3.  intervention        | Impact: -0.063641
+ 4.  hour                | Impact: -0.061520
+ 5.  :                   | Impact: -0.056846
+ 6.  hour                | Impact: -0.051215
+ 7.  schedule            | Impact: -0.043948
+ 8. ead                  | Impact: -0.030312
+ 9.  failed              | Impact: -0.030208
+10.  /                   | Impact: -0.022656
+11.  hour                | Impact: -0.012655
+12.  :                   | Impact: -0.011329
+13.  ;                   | Impact: -0.006158
+14. ah                   | Impact: -0.003800
+15.  ;                   | Impact: -0.000381
+16.                      | Impact: -0.000000

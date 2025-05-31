@@ -1,0 +1,67 @@
+Sample 224
+==========
+
+Sample text preview: My Dear, Good day to you, I hope fine, dear am writing this mail with due respect and heartful of tears,sorrow and pains in my heart, since we have no...
+
+Model prediction: [1.8635434e-04 9.9981362e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  younger             | Impact: 0.006651 → PHISHING
+ 2.  sister              | Impact: 0.006651 → PHISHING
+ 3.  son                 | Impact: 0.006048 → PHISHING
+ 4.  of                  | Impact: 0.006048 → PHISHING
+ 5.  late                | Impact: 0.006048 → PHISHING
+ 6.  my                  | Impact: 0.005840 → PHISHING
+ 7.  father              | Impact: 0.005840 → PHISHING
+ 8.  my                  | Impact: 0.005565 → PHISHING
+ 9.  father              | Impact: 0.005565 → PHISHING
+10.  and                 | Impact: 0.005565 → PHISHING
+11.  my                  | Impact: 0.005175 → PHISHING
+12.  father              | Impact: 0.005175 → PHISHING
+13.  is                  | Impact: 0.005045 → PHISHING
+14.  former              | Impact: 0.005045 → PHISHING
+15.  best                | Impact: 0.004833 → PHISHING
+16.  friend              | Impact: 0.004833 → PHISHING
+17.  died                | Impact: 0.004833 → PHISHING
+18.  mother              | Impact: 0.004792 → PHISHING
+19.  was                 | Impact: 0.004792 → PHISHING
+20.  assassinated        | Impact: 0.004613 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  younger             | Impact: 0.006651
+ 2.  sister              | Impact: 0.006651
+ 3.  son                 | Impact: 0.006048
+ 4.  of                  | Impact: 0.006048
+ 5.  late                | Impact: 0.006048
+ 6.  my                  | Impact: 0.005840
+ 7.  father              | Impact: 0.005840
+ 8.  my                  | Impact: 0.005565
+ 9.  father              | Impact: 0.005565
+10.  and                 | Impact: 0.005565
+11.  my                  | Impact: 0.005175
+12.  father              | Impact: 0.005175
+13.  is                  | Impact: 0.005045
+14.  former              | Impact: 0.005045
+15.  best                | Impact: 0.004833
+16.  friend              | Impact: 0.004833
+17.  died                | Impact: 0.004833
+18.  mother              | Impact: 0.004792
+19.  was                 | Impact: 0.004792
+20.  assassinated        | Impact: 0.004613
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.000905
+ 2.  have                | Impact: -0.000905
+ 3.  all                 | Impact: -0.000905
+ 4.  original            | Impact: -0.000905
+ 5.  copies              | Impact: -0.000905
+ 6.  of                  | Impact: -0.000905
+ 7.  the                 | Impact: -0.000905
+ 8.  documents           | Impact: -0.000905
+ 9.  i                   | Impact: -0.000100
+10.  hope                | Impact: -0.000100
+11.  fine                | Impact: -0.000100
+12.  ,                   | Impact: -0.000100

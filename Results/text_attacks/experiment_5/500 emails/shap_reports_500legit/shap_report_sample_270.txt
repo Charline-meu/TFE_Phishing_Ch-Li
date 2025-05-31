@@ -1,0 +1,75 @@
+Sample 270
+==========
+
+Sample text preview: EL> On Mon, Sep wrote: >> So Eugen, how many of your homo friends have -had- k lovers? EL> Just one. Not everybody does that. Most of them are now dea...
+
+Model prediction: [9.9976677e-01 2.3323436e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  friends             | Impact: 0.003144 → PHISHING
+ 2.  sep                 | Impact: -0.002579 → LEGITIMATE
+ 3.  wrote               | Impact: -0.002579 → LEGITIMATE
+ 4.  k                   | Impact: 0.002196 → PHISHING
+ 5.  lovers              | Impact: 0.002196 → PHISHING
+ 6.  :                   | Impact: -0.002166 → LEGITIMATE
+ 7.  >                   | Impact: -0.002166 → LEGITIMATE
+ 8.  my                  | Impact: -0.001784 → LEGITIMATE
+ 9.  point               | Impact: -0.001784 → LEGITIMATE
+10.  .                   | Impact: -0.001784 → LEGITIMATE
+11.  homo                | Impact: 0.001658 → PHISHING
+12.  don                 | Impact: 0.001653 → PHISHING
+13.  '                   | Impact: 0.001653 → PHISHING
+14.  t                   | Impact: 0.001653 → PHISHING
+15.  el                  | Impact: -0.001581 → LEGITIMATE
+16.  >                   | Impact: -0.001581 → LEGITIMATE
+17.  which               | Impact: -0.001581 → LEGITIMATE
+18.  was                 | Impact: -0.001581 → LEGITIMATE
+19.  know                | Impact: 0.001337 → PHISHING
+20.  about               | Impact: 0.001337 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  friends             | Impact: 0.003144
+ 2.  k                   | Impact: 0.002196
+ 3.  lovers              | Impact: 0.002196
+ 4.  homo                | Impact: 0.001658
+ 5.  don                 | Impact: 0.001653
+ 6.  '                   | Impact: 0.001653
+ 7.  t                   | Impact: 0.001653
+ 8.  know                | Impact: 0.001337
+ 9.  about               | Impact: 0.001337
+10.  you                 | Impact: 0.001337
+11.  ,                   | Impact: 0.001150
+12.  i                   | Impact: 0.001036
+13.  had                 | Impact: 0.001031
+14.  -                   | Impact: 0.001031
+15.  have                | Impact: 0.000804
+16.  -                   | Impact: 0.000804
+17.  have                | Impact: 0.000690
+18.  to                  | Impact: 0.000690
+19.  do                  | Impact: 0.000690
+20.  with                | Impact: 0.000690
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  sep                 | Impact: -0.002579
+ 2.  wrote               | Impact: -0.002579
+ 3.  :                   | Impact: -0.002166
+ 4.  >                   | Impact: -0.002166
+ 5.  my                  | Impact: -0.001784
+ 6.  point               | Impact: -0.001784
+ 7.  .                   | Impact: -0.001784
+ 8.  el                  | Impact: -0.001581
+ 9.  >                   | Impact: -0.001581
+10.  which               | Impact: -0.001581
+11.  was                 | Impact: -0.001581
+12.  many                | Impact: -0.001286
+13.  how                 | Impact: -0.001101
+14.  >                   | Impact: -0.000735
+15.  so                  | Impact: -0.000735
+16.  eugen               | Impact: -0.000735
+17.  ,                   | Impact: -0.000735
+18.  hyper               | Impact: -0.000734
+19. pro                  | Impact: -0.000734
+20.  i                   | Impact: -0.000649

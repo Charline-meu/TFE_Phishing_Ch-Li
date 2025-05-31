@@ -1,0 +1,47 @@
+Sample 444
+==========
+
+Sample text preview: Mike, Do you have John Hughes e-mail address? Dorland
+
+Model prediction: [9.9973649e-01 2.6346731e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  hughes              | Impact: -0.065604 → LEGITIMATE
+ 2.  you                 | Impact: 0.063944 → PHISHING
+ 3.  do                  | Impact: -0.062127 → LEGITIMATE
+ 4.  address             | Impact: 0.041195 → PHISHING
+ 5.  mike                | Impact: -0.036825 → LEGITIMATE
+ 6.  john                | Impact: -0.034034 → LEGITIMATE
+ 7.  ?                   | Impact: -0.030950 → LEGITIMATE
+ 8. rland                | Impact: -0.028931 → LEGITIMATE
+ 9.  e                   | Impact: -0.026380 → LEGITIMATE
+10.  have                | Impact: -0.015804 → LEGITIMATE
+11.  mail                | Impact: 0.013731 → PHISHING
+12.  do                  | Impact: -0.012635 → LEGITIMATE
+13.  -                   | Impact: -0.011006 → LEGITIMATE
+14.  ,                   | Impact: -0.009187 → LEGITIMATE
+15.                      | Impact: 0.000000 → PHISHING
+16.                      | Impact: 0.000000 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.063944
+ 2.  address             | Impact: 0.041195
+ 3.  mail                | Impact: 0.013731
+ 4.                      | Impact: 0.000000
+ 5.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  hughes              | Impact: -0.065604
+ 2.  do                  | Impact: -0.062127
+ 3.  mike                | Impact: -0.036825
+ 4.  john                | Impact: -0.034034
+ 5.  ?                   | Impact: -0.030950
+ 6. rland                | Impact: -0.028931
+ 7.  e                   | Impact: -0.026380
+ 8.  have                | Impact: -0.015804
+ 9.  do                  | Impact: -0.012635
+10.  -                   | Impact: -0.011006
+11.  ,                   | Impact: -0.009187

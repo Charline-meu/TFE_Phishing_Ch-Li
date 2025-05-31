@@ -1,0 +1,58 @@
+Sample 235
+==========
+
+Sample text preview: The report named: West VaR < published as of // is now available for viewing on the website.
+
+Model prediction: [9.9977928e-01 2.2077428e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  of                  | Impact: -0.135945 → LEGITIMATE
+ 2.  available           | Impact: 0.132068 → PHISHING
+ 3.  report              | Impact: -0.121053 → LEGITIMATE
+ 4.  /                   | Impact: -0.102744 → LEGITIMATE
+ 5.  named               | Impact: -0.086662 → LEGITIMATE
+ 6.  var                 | Impact: 0.072297 → PHISHING
+ 7.  <                   | Impact: 0.068309 → PHISHING
+ 8.  viewing             | Impact: 0.067024 → PHISHING
+ 9.  /                   | Impact: -0.054981 → LEGITIMATE
+10.  :                   | Impact: -0.050469 → LEGITIMATE
+11.  is                  | Impact: -0.041845 → LEGITIMATE
+12.  the                 | Impact: 0.035535 → PHISHING
+13.  website             | Impact: 0.027816 → PHISHING
+14.  on                  | Impact: 0.025537 → PHISHING
+15.  published           | Impact: 0.023294 → PHISHING
+16.  west                | Impact: 0.020322 → PHISHING
+17.  as                  | Impact: 0.015490 → PHISHING
+18.  .                   | Impact: 0.014711 → PHISHING
+19.  for                 | Impact: 0.011268 → PHISHING
+20.  the                 | Impact: -0.011261 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  available           | Impact: 0.132068
+ 2.  var                 | Impact: 0.072297
+ 3.  <                   | Impact: 0.068309
+ 4.  viewing             | Impact: 0.067024
+ 5.  the                 | Impact: 0.035535
+ 6.  website             | Impact: 0.027816
+ 7.  on                  | Impact: 0.025537
+ 8.  published           | Impact: 0.023294
+ 9.  west                | Impact: 0.020322
+10.  as                  | Impact: 0.015490
+11.  .                   | Impact: 0.014711
+12.  for                 | Impact: 0.011268
+13.  now                 | Impact: 0.004291
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  of                  | Impact: -0.135945
+ 2.  report              | Impact: -0.121053
+ 3.  /                   | Impact: -0.102744
+ 4.  named               | Impact: -0.086662
+ 5.  /                   | Impact: -0.054981
+ 6.  :                   | Impact: -0.050469
+ 7.  is                  | Impact: -0.041845
+ 8.  the                 | Impact: -0.011261
+ 9.                      | Impact: -0.000007
+10.                      | Impact: -0.000000

@@ -1,0 +1,31 @@
+=== LIME Explanation for Email #4 ===
+True Label: Phishing
+Model Prediction: Phishing
+Prediction Probability: 0.9986
+
+Top Features Influencing the Prediction:
+LinkedIn: -0.0209 (pushes toward Legitimate)
+unlimited: 0.0202 (pushes toward Phishing)
+Company: 0.0202 (pushes toward Phishing)
+assistance: 0.0190 (pushes toward Phishing)
+countries: 0.0164 (pushes toward Phishing)
+Identity: 0.0153 (pushes toward Phishing)
+Place: 0.0151 (pushes toward Phishing)
+and: -0.0144 (pushes toward Legitimate)
+Bestuurslid: 0.0143 (pushes toward Phishing)
+File: 0.0140 (pushes toward Phishing)
+Registered: 0.0138 (pushes toward Phishing)
+are: -0.0131 (pushes toward Legitimate)
+Virus: 0.0126 (pushes toward Phishing)
+Unsubscribe: -0.0125 (pushes toward Legitimate)
+or: -0.0121 (pushes toward Legitimate)
+Unlimited: 0.0119 (pushes toward Phishing)
+pdf: 0.0118 (pushes toward Phishing)
+registered: 0.0117 (pushes toward Phishing)
+Download: 0.0115 (pushes toward Phishing)
+included: -0.0114 (pushes toward Legitimate)
+via: 0.0106 (pushes toward Phishing)
+this: 0.0099 (pushes toward Phishing)
+InMail: 0.0099 (pushes toward Phishing)
+Vereniging: -0.0099 (pushes toward Legitimate)
+van: -0.0098 (pushes toward Legitimate)

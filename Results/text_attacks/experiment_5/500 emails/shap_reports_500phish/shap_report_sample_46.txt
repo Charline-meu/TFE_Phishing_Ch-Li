@@ -1,0 +1,75 @@
+Sample 46
+=========
+
+Sample text preview: ASSALAMUALAIKUM i am contacting you due to my condition,With the hope that you will carry out my last Legacy for humanity.I don�t know you,I am Salim ...
+
+Model prediction: [1.574765e-04 9.998425e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  (                   | Impact: -0.018393 → LEGITIMATE
+ 2.  you                 | Impact: 0.017272 → PHISHING
+ 3.  email               | Impact: 0.017272 → PHISHING
+ 4.  your                | Impact: 0.015457 → PHISHING
+ 5.  full                | Impact: 0.015457 → PHISHING
+ 6.  names               | Impact: 0.015457 → PHISHING
+ 7.  million             | Impact: 0.011897 → PHISHING
+ 8.  dollars             | Impact: 0.011897 → PHISHING
+ 9.  in                  | Impact: 0.010311 → PHISHING
+10.  your                | Impact: 0.010311 → PHISHING
+11.  country             | Impact: 0.010311 → PHISHING
+12.  salim               | Impact: 0.009915 → PHISHING
+13.  ibrahim             | Impact: 0.009915 → PHISHING
+14.  an                  | Impact: 0.009446 → PHISHING
+15.  orphanage           | Impact: 0.009446 → PHISHING
+16.  i                   | Impact: 0.008050 → PHISHING
+17.  am                  | Impact: 0.008050 → PHISHING
+18.  saudi               | Impact: 0.007585 → PHISHING
+19.  arabia              | Impact: 0.007585 → PHISHING
+20.  my                  | Impact: 0.007280 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.017272
+ 2.  email               | Impact: 0.017272
+ 3.  your                | Impact: 0.015457
+ 4.  full                | Impact: 0.015457
+ 5.  names               | Impact: 0.015457
+ 6.  million             | Impact: 0.011897
+ 7.  dollars             | Impact: 0.011897
+ 8.  in                  | Impact: 0.010311
+ 9.  your                | Impact: 0.010311
+10.  country             | Impact: 0.010311
+11.  salim               | Impact: 0.009915
+12.  ibrahim             | Impact: 0.009915
+13.  an                  | Impact: 0.009446
+14.  orphanage           | Impact: 0.009446
+15.  i                   | Impact: 0.008050
+16.  am                  | Impact: 0.008050
+17.  saudi               | Impact: 0.007585
+18.  arabia              | Impact: 0.007585
+19.  my                  | Impact: 0.007280
+20.  private             | Impact: 0.007280
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.018393
+ 2.  )                   | Impact: -0.004752
+ 3.  .                   | Impact: -0.002907
+ 4.  equivalent          | Impact: -0.002534
+ 5.  to                  | Impact: -0.002534
+ 6.  about               | Impact: -0.002534
+ 7.  .                   | Impact: -0.002534
+ 8.  _                   | Impact: -0.001979
+ 9.  _                   | Impact: -0.001979
+10.  _                   | Impact: -0.001979
+11.  _                   | Impact: -0.001979
+12.  _                   | Impact: -0.001795
+13.  _                   | Impact: -0.001795
+14.  _                   | Impact: -0.001795
+15.  _                   | Impact: -0.001795
+16.  precious            | Impact: -0.001613
+17.  stones              | Impact: -0.001613
+18.  which               | Impact: -0.001613
+19.  is                  | Impact: -0.001613
+20.  _                   | Impact: -0.001604

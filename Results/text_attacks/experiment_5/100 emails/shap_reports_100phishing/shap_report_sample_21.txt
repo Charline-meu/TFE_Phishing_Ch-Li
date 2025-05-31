@@ -1,0 +1,75 @@
+Phishing Sample 21
+==================
+
+Sample text preview: You received a document. Review and Sign REVIEW DOCUMENT Document pending review for: Please view and confirm pending document. Sign for all documents...
+
+Model prediction: [2.7614579e-04 9.9972385e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.019770 → PHISHING
+ 2.  via                 | Impact: 0.019770 → PHISHING
+ 3.  confirm             | Impact: 0.018134 → PHISHING
+ 4.  pending             | Impact: 0.018134 → PHISHING
+ 5.  you                 | Impact: 0.017664 → PHISHING
+ 6.  support             | Impact: 0.017432 → PHISHING
+ 7.  center              | Impact: 0.017432 → PHISHING
+ 8.  sent                | Impact: 0.017347 → PHISHING
+ 9.  to                  | Impact: 0.017347 → PHISHING
+10.  on                  | Impact: 0.016831 → PHISHING
+11.  our                 | Impact: 0.016831 → PHISHING
+12.  electronic          | Impact: 0.015594 → PHISHING
+13.  signature           | Impact: 0.015594 → PHISHING
+14.  service             | Impact: 0.014985 → PHISHING
+15.  document            | Impact: 0.014566 → PHISHING
+16.  digital             | Impact: -0.009799 → LEGITIMATE
+17.  transaction         | Impact: -0.009799 → LEGITIMATE
+18.  management          | Impact: -0.009799 → LEGITIMATE
+19.  app                 | Impact: 0.009044 → PHISHING
+20.  this                | Impact: 0.009044 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.019770
+ 2.  via                 | Impact: 0.019770
+ 3.  confirm             | Impact: 0.018134
+ 4.  pending             | Impact: 0.018134
+ 5.  you                 | Impact: 0.017664
+ 6.  support             | Impact: 0.017432
+ 7.  center              | Impact: 0.017432
+ 8.  sent                | Impact: 0.017347
+ 9.  to                  | Impact: 0.017347
+10.  on                  | Impact: 0.016831
+11.  our                 | Impact: 0.016831
+12.  electronic          | Impact: 0.015594
+13.  signature           | Impact: 0.015594
+14.  service             | Impact: 0.014985
+15.  document            | Impact: 0.014566
+16.  app                 | Impact: 0.009044
+17.  this                | Impact: 0.009044
+18.  help                | Impact: 0.008905
+19.  with                | Impact: 0.008905
+20.  signing             | Impact: 0.008905
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  digital             | Impact: -0.009799
+ 2.  transaction         | Impact: -0.009799
+ 3.  management          | Impact: -0.009799
+ 4.  answer              | Impact: -0.004335
+ 5.  for                 | Impact: -0.004335
+ 6.  .                   | Impact: -0.003444
+ 7.  doc                 | Impact: -0.002821
+ 8. us                   | Impact: -0.002821
+ 9. ign                  | Impact: -0.002821
+10.  -                   | Impact: -0.002821
+11.  -                   | Impact: -0.002821
+12.  even                | Impact: -0.002545
+13.  across              | Impact: -0.002545
+14.  the                 | Impact: -0.002545
+15.  globe               | Impact: -0.002545
+16.  ?                   | Impact: -0.002283
+17.  go                  | Impact: -0.002183
+18.  -                   | Impact: -0.002183
+19.  -                   | Impact: -0.002183
+20.  or                  | Impact: -0.002183

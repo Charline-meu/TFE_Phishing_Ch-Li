@@ -1,0 +1,75 @@
+Sample 14
+=========
+
+Sample text preview: On Wed, -- at :, Justin Mason wrote: > > "Gordon Mohr" said: > > > I still think self-add whitelists are underrated. > > A FoRK whitelist would presum...
+
+Model prediction: [9.9977845e-01 2.2155492e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wed                 | Impact: 0.024731 → PHISHING
+ 2.  -                   | Impact: -0.016059 → LEGITIMATE
+ 3.  -                   | Impact: -0.008409 → LEGITIMATE
+ 4.  ,                   | Impact: 0.006487 → PHISHING
+ 5.  on                  | Impact: -0.005754 → LEGITIMATE
+ 6.  :                   | Impact: -0.004404 → LEGITIMATE
+ 7.  example             | Impact: -0.003120 → LEGITIMATE
+ 8.  ,                   | Impact: 0.002204 → PHISHING
+ 9.  lists               | Impact: -0.001651 → LEGITIMATE
+10.  @                   | Impact: 0.001435 → PHISHING
+11.  address             | Impact: 0.001411 → PHISHING
+12.  problem             | Impact: -0.001408 → LEGITIMATE
+13.  forged              | Impact: 0.001299 → PHISHING
+14.  at                  | Impact: 0.001263 → PHISHING
+15.  for                 | Impact: -0.001014 → LEGITIMATE
+16.  add                 | Impact: -0.000905 → LEGITIMATE
+17.  this                | Impact: 0.000892 → PHISHING
+18.  etc                 | Impact: -0.000856 → LEGITIMATE
+19.  >                   | Impact: -0.000851 → LEGITIMATE
+20.  bills               | Impact: -0.000851 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  wed                 | Impact: 0.024731
+ 2.  ,                   | Impact: 0.006487
+ 3.  ,                   | Impact: 0.002204
+ 4.  @                   | Impact: 0.001435
+ 5.  address             | Impact: 0.001411
+ 6.  forged              | Impact: 0.001299
+ 7.  at                  | Impact: 0.001263
+ 8.  this                | Impact: 0.000892
+ 9.  still               | Impact: 0.000711
+10.  grow                | Impact: 0.000663
+11.  from                | Impact: 0.000663
+12.  i                   | Impact: 0.000638
+13.  there               | Impact: 0.000584
+14.  opening             | Impact: 0.000497
+15.  .                   | Impact: 0.000460
+16.  and                 | Impact: 0.000386
+17.  can                 | Impact: 0.000345
+18.  '                   | Impact: 0.000345
+19.  i                   | Impact: 0.000298
+20.  "                   | Impact: 0.000258
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.016059
+ 2.  -                   | Impact: -0.008409
+ 3.  on                  | Impact: -0.005754
+ 4.  :                   | Impact: -0.004404
+ 5.  example             | Impact: -0.003120
+ 6.  lists               | Impact: -0.001651
+ 7.  problem             | Impact: -0.001408
+ 8.  for                 | Impact: -0.001014
+ 9.  add                 | Impact: -0.000905
+10.  etc                 | Impact: -0.000856
+11.  >                   | Impact: -0.000851
+12.  bills               | Impact: -0.000851
+13.  >                   | Impact: -0.000845
+14.  >                   | Impact: -0.000801
+15.  >                   | Impact: -0.000801
+16.  mail                | Impact: -0.000791
+17.  wrote               | Impact: -0.000782
+18.  :                   | Impact: -0.000782
+19. lists                | Impact: -0.000773
+20.  >                   | Impact: -0.000764

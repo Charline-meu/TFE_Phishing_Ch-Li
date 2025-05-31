@@ -1,0 +1,75 @@
+Sample 152
+==========
+
+Sample text preview: URL: Date: --T::+: It wasn't just the lack of wellies that made this protest different - it was the mix of the marchers, writes *Euan Ferguson*.
+
+Model prediction: [9.997477e-01 2.522668e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  *                   | Impact: 0.020227 → PHISHING
+ 2.  eu                  | Impact: -0.019731 → LEGITIMATE
+ 3.  marche              | Impact: -0.018326 → LEGITIMATE
+ 4.  ferguson            | Impact: 0.013474 → PHISHING
+ 5.  protest             | Impact: -0.012099 → LEGITIMATE
+ 6.  .                   | Impact: -0.011121 → LEGITIMATE
+ 7.  :                   | Impact: -0.010095 → LEGITIMATE
+ 8. an                   | Impact: -0.009903 → LEGITIMATE
+ 9. rs                   | Impact: 0.009364 → PHISHING
+10.  writes              | Impact: 0.009168 → PHISHING
+11.  mix                 | Impact: 0.007928 → PHISHING
+12.  was                 | Impact: 0.007389 → PHISHING
+13.  *                   | Impact: -0.007092 → LEGITIMATE
+14.  +                   | Impact: 0.004045 → PHISHING
+15. ies                  | Impact: -0.003789 → LEGITIMATE
+16.  :                   | Impact: -0.003450 → LEGITIMATE
+17.  ,                   | Impact: 0.002835 → PHISHING
+18.  lack                | Impact: 0.002662 → PHISHING
+19.  wasn                | Impact: 0.002365 → PHISHING
+20.  it                  | Impact: 0.002338 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  *                   | Impact: 0.020227
+ 2.  ferguson            | Impact: 0.013474
+ 3. rs                   | Impact: 0.009364
+ 4.  writes              | Impact: 0.009168
+ 5.  mix                 | Impact: 0.007928
+ 6.  was                 | Impact: 0.007389
+ 7.  +                   | Impact: 0.004045
+ 8.  ,                   | Impact: 0.002835
+ 9.  lack                | Impact: 0.002662
+10.  wasn                | Impact: 0.002365
+11.  it                  | Impact: 0.002338
+12.  just                | Impact: 0.002293
+13.  made                | Impact: 0.002063
+14.  date                | Impact: 0.002055
+15.  -                   | Impact: 0.001360
+16.  this                | Impact: 0.000547
+17.  -                   | Impact: 0.000487
+18.  the                 | Impact: 0.000316
+19.  t                   | Impact: 0.000132
+20.                      | Impact: 0.000002
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  eu                  | Impact: -0.019731
+ 2.  marche              | Impact: -0.018326
+ 3.  protest             | Impact: -0.012099
+ 4.  .                   | Impact: -0.011121
+ 5.  :                   | Impact: -0.010095
+ 6. an                   | Impact: -0.009903
+ 7.  *                   | Impact: -0.007092
+ 8. ies                  | Impact: -0.003789
+ 9.  :                   | Impact: -0.003450
+10.  ur                  | Impact: -0.002334
+11.  -                   | Impact: -0.002326
+12.  :                   | Impact: -0.001855
+13.  :                   | Impact: -0.001219
+14.  different           | Impact: -0.001086
+15.  :                   | Impact: -0.001060
+16.  that                | Impact: -0.000897
+17.  of                  | Impact: -0.000845
+18.  the                 | Impact: -0.000791
+19.  of                  | Impact: -0.000766
+20.  it                  | Impact: -0.000735

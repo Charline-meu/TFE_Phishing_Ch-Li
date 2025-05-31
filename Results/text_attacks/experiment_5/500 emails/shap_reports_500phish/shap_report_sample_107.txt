@@ -1,0 +1,75 @@
+Sample 107
+==========
+
+Sample text preview: Hello, I was recently browsing the internet and came accross some guys that are making really good job. Here they are - . Check it out. Nice designs! ...
+
+Model prediction: [0.9891227  0.01087731]
+Predicted class: LEGITIMATE with 0.9891 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sincerely           | Impact: 0.044715 → PHISHING
+ 2.  net                 | Impact: 0.028733 → PHISHING
+ 3.  designs             | Impact: -0.028155 → LEGITIMATE
+ 4.  hello               | Impact: 0.025611 → PHISHING
+ 5.  welcome             | Impact: 0.024009 → PHISHING
+ 6.  email               | Impact: 0.022411 → PHISHING
+ 7.  job                 | Impact: -0.019131 → LEGITIMATE
+ 8. rth                  | Impact: -0.013152 → LEGITIMATE
+ 9.  good                | Impact: -0.013115 → LEGITIMATE
+10.  was                 | Impact: -0.011186 → LEGITIMATE
+11.  i                   | Impact: -0.010405 → LEGITIMATE
+12.  nice                | Impact: -0.010318 → LEGITIMATE
+13.  heaven              | Impact: 0.009720 → PHISHING
+14.  mark                | Impact: -0.009711 → LEGITIMATE
+15.  geek                | Impact: 0.009666 → PHISHING
+16.  yo                  | Impact: -0.009440 → LEGITIMATE
+17.  .                   | Impact: -0.008167 → LEGITIMATE
+18.  .                   | Impact: -0.007641 → LEGITIMATE
+19.  really              | Impact: -0.007014 → LEGITIMATE
+20.  sighting            | Impact: -0.006878 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  sincerely           | Impact: 0.044715
+ 2.  net                 | Impact: 0.028733
+ 3.  hello               | Impact: 0.025611
+ 4.  welcome             | Impact: 0.024009
+ 5.  email               | Impact: 0.022411
+ 6.  heaven              | Impact: 0.009720
+ 7.  geek                | Impact: 0.009666
+ 8. k                    | Impact: 0.005910
+ 9.  mail                | Impact: 0.004090
+10.  !                   | Impact: 0.003844
+11.  internet            | Impact: 0.003772
+12.  to                  | Impact: 0.003609
+13.  think               | Impact: 0.003385
+14. gee                  | Impact: 0.003385
+15.  list                | Impact: 0.003131
+16.  recently            | Impact: 0.001785
+17.  -                   | Impact: 0.001760
+18.  -                   | Impact: 0.001760
+19.  -                   | Impact: 0.001760
+20.  -                   | Impact: 0.001760
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  designs             | Impact: -0.028155
+ 2.  job                 | Impact: -0.019131
+ 3. rth                  | Impact: -0.013152
+ 4.  good                | Impact: -0.013115
+ 5.  was                 | Impact: -0.011186
+ 6.  i                   | Impact: -0.010405
+ 7.  nice                | Impact: -0.010318
+ 8.  mark                | Impact: -0.009711
+ 9.  yo                  | Impact: -0.009440
+10.  .                   | Impact: -0.008167
+11.  .                   | Impact: -0.007641
+12.  really              | Impact: -0.007014
+13.  sighting            | Impact: -0.006878
+14. s                    | Impact: -0.006878
+15.  :                   | Impact: -0.006852
+16.  making              | Impact: -0.006324
+17.  bo                  | Impact: -0.006054
+18. en                   | Impact: -0.006054
+19.  by                  | Impact: -0.005825
+20.  are                 | Impact: -0.005227

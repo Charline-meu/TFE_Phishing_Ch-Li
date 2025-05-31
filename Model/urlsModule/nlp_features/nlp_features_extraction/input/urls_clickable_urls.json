@@ -1,0 +1,26 @@
+[
+  {
+    "index": 0,
+    "url": "https://trusted.net/next=https://www.malicious.com"
+  },
+  {
+    "index": 1,
+    "url": "https://bit.ly/redirect-to?target=https://www.malicious.com"
+  },
+  {
+    "index": 2,
+    "url": "https://my-bank-support.com/rdr?to=https://www.malicious.com"
+  },
+  {
+    "index": 3,
+    "url": "https://safe-portal.com/redirect=https://www.malicious.com"
+  },
+  {
+    "index": 4,
+    "url": "https://university.edu/login?continue=https://www.malicious.com"
+  },
+  {
+    "index": 5,
+    "url": "https://www.malicious.com"
+  }
+]

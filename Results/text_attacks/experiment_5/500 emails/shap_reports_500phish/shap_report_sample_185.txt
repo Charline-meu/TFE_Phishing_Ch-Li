@@ -1,0 +1,75 @@
+Sample 185
+==========
+
+Sample text preview: Business project >From Qin Wang Lloyds TSB Pacific Limited Hong Kong Branch Fax: +-- Thank you for giving me your time. Please be patient and read my ...
+
+Model prediction: [2.336851e-04 9.997663e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  in                  | Impact: 0.005811 → PHISHING
+ 2.  mid                 | Impact: 0.005811 → PHISHING
+ 3.  ,                   | Impact: 0.005811 → PHISHING
+ 4.  he                  | Impact: 0.005811 → PHISHING
+ 5.  asked               | Impact: 0.005811 → PHISHING
+ 6.  that                | Impact: 0.005811 → PHISHING
+ 7.  the                 | Impact: 0.005811 → PHISHING
+ 8.  money               | Impact: 0.005811 → PHISHING
+ 9.  be                  | Impact: 0.005811 → PHISHING
+10.  liquid              | Impact: 0.005811 → PHISHING
+11. ated                 | Impact: 0.005811 → PHISHING
+12.  an                  | Impact: 0.005541 → PHISHING
+13.  investment          | Impact: 0.005541 → PHISHING
+14.  placed              | Impact: 0.005541 → PHISHING
+15.  under               | Impact: 0.005541 → PHISHING
+16.  the                 | Impact: 0.005235 → PHISHING
+17.  acc                 | Impact: 0.005235 → PHISHING
+18. rued                 | Impact: 0.005235 → PHISHING
+19.  profit              | Impact: 0.005235 → PHISHING
+20.  and                 | Impact: 0.005235 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  in                  | Impact: 0.005811
+ 2.  mid                 | Impact: 0.005811
+ 3.  ,                   | Impact: 0.005811
+ 4.  he                  | Impact: 0.005811
+ 5.  asked               | Impact: 0.005811
+ 6.  that                | Impact: 0.005811
+ 7.  the                 | Impact: 0.005811
+ 8.  money               | Impact: 0.005811
+ 9.  be                  | Impact: 0.005811
+10.  liquid              | Impact: 0.005811
+11. ated                 | Impact: 0.005811
+12.  an                  | Impact: 0.005541
+13.  investment          | Impact: 0.005541
+14.  placed              | Impact: 0.005541
+15.  under               | Impact: 0.005541
+16.  the                 | Impact: 0.005235
+17.  acc                 | Impact: 0.005235
+18. rued                 | Impact: 0.005235
+19.  profit              | Impact: 0.005235
+20.  and                 | Impact: 0.005235
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  this                | Impact: -0.000009
+ 2.  trans               | Impact: -0.000009
+ 3. pired                | Impact: -0.000009
+ 4.  around              | Impact: -0.000009
+ 5.  th                  | Impact: -0.000009
+ 6.  june                | Impact: -0.000009
+ 7.  .                   | Impact: -0.000009
+ 8.  this                | Impact: -0.000009
+ 9.  small               | Impact: -0.000009
+10.  and                 | Impact: -0.000009
+11.  highly              | Impact: -0.000009
+12.  placed              | Impact: -0.000009
+13.  and                 | Impact: -0.000009
+14.  in                  | Impact: -0.000009
+15.  line                | Impact: -0.000009
+16.  with                | Impact: -0.000009
+17.  instructions        | Impact: -0.000009
+18.  ,                   | Impact: -0.000009
+19.  the                 | Impact: -0.000009
+20.  money               | Impact: -0.000009

@@ -1,0 +1,75 @@
+Phishing Sample 100
+===================
+
+Sample text preview: Attn >From The Auditor/Head of Department Bank of Scotland, United Kingdom. {Very Urgent Business Transaction} Dear Partner, In order to transfer out ...
+
+Model prediction: [1.6370787e-04 9.9983621e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bank                | Impact: 0.016833 → PHISHING
+ 2.  here                | Impact: 0.016833 → PHISHING
+ 3.  money               | Impact: 0.015014 → PHISHING
+ 4.  is                  | Impact: 0.015014 → PHISHING
+ 5.  contact             | Impact: 0.014572 → PHISHING
+ 6. ing                  | Impact: 0.014572 → PHISHING
+ 7.  you                 | Impact: 0.014572 → PHISHING
+ 8.  as                  | Impact: 0.014572 → PHISHING
+ 9.  in                  | Impact: 0.014557 → PHISHING
+10.  london              | Impact: 0.014557 → PHISHING
+11.  foreign             | Impact: 0.013875 → PHISHING
+12.  account             | Impact: 0.013875 → PHISHING
+13.  money               | Impact: 0.010732 → PHISHING
+14.  can                 | Impact: 0.010732 → PHISHING
+15.  not                 | Impact: 0.010732 → PHISHING
+16.  be                  | Impact: 0.010732 → PHISHING
+17.  a                   | Impact: 0.008821 → PHISHING
+18.  foreigner           | Impact: 0.008821 → PHISHING
+19.  and                 | Impact: 0.008821 → PHISHING
+20.  pounds              | Impact: 0.008014 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.016833
+ 2.  here                | Impact: 0.016833
+ 3.  money               | Impact: 0.015014
+ 4.  is                  | Impact: 0.015014
+ 5.  contact             | Impact: 0.014572
+ 6. ing                  | Impact: 0.014572
+ 7.  you                 | Impact: 0.014572
+ 8.  as                  | Impact: 0.014572
+ 9.  in                  | Impact: 0.014557
+10.  london              | Impact: 0.014557
+11.  foreign             | Impact: 0.013875
+12.  account             | Impact: 0.013875
+13.  money               | Impact: 0.010732
+14.  can                 | Impact: 0.010732
+15.  not                 | Impact: 0.010732
+16.  be                  | Impact: 0.010732
+17.  a                   | Impact: 0.008821
+18.  foreigner           | Impact: 0.008821
+19.  and                 | Impact: 0.008821
+20.  pounds              | Impact: 0.008014
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.005340
+ 2.  ,                   | Impact: -0.005340
+ 3.  ,                   | Impact: -0.005178
+ 4.  .                   | Impact: -0.005178
+ 5.  )                   | Impact: -0.005178
+ 6.  pounds              | Impact: -0.004256
+ 7.  sterling            | Impact: -0.004256
+ 8.  .                   | Impact: -0.004256
+ 9.  >                   | Impact: -0.003717
+10.  from                | Impact: -0.003717
+11.  the                 | Impact: -0.003717
+12.  auditor             | Impact: -0.003717
+13.  auditor             | Impact: -0.001458
+14.  jim                 | Impact: -0.001458
+15.  harry               | Impact: -0.001458
+16.  -                   | Impact: -0.001458
+17.  -                   | Impact: -0.001458
+18.  -                   | Impact: -0.001458
+19.  -                   | Impact: -0.001458
+20.  -                   | Impact: -0.001458

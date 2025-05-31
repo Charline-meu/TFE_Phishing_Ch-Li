@@ -1,0 +1,75 @@
+Sample 273
+==========
+
+Sample text preview: URL: Date: --T::-: For the past week, I've been waiting for one of my FreeBSD servers to reproduce a problem we've been seeing with MySQL + LinuxThrea...
+
+Model prediction: [9.9972183e-01 2.7813434e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  (                   | Impact: 0.010865 → PHISHING
+ 2.  or                  | Impact: -0.006802 → LEGITIMATE
+ 3.  particular          | Impact: -0.004691 → LEGITIMATE
+ 4.  is                  | Impact: 0.004596 → PHISHING
+ 5.  .                   | Impact: -0.004496 → LEGITIMATE
+ 6.  .                   | Impact: -0.004304 → LEGITIMATE
+ 7. q                    | Impact: -0.004067 → LEGITIMATE
+ 8.  my                  | Impact: 0.003062 → PHISHING
+ 9.  ,                   | Impact: -0.002309 → LEGITIMATE
+10. bs                   | Impact: -0.002223 → LEGITIMATE
+11.  past                | Impact: 0.002204 → PHISHING
+12.  :                   | Impact: -0.002147 → LEGITIMATE
+13. q                    | Impact: -0.002134 → LEGITIMATE
+14. l                    | Impact: -0.002094 → LEGITIMATE
+15.  .                   | Impact: -0.002022 → LEGITIMATE
+16.  .                   | Impact: 0.001663 → PHISHING
+17.  machine             | Impact: 0.001473 → PHISHING
+18.  running             | Impact: -0.001284 → LEGITIMATE
+19.  .                   | Impact: -0.001242 → LEGITIMATE
+20. d                    | Impact: -0.001213 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  (                   | Impact: 0.010865
+ 2.  is                  | Impact: 0.004596
+ 3.  my                  | Impact: 0.003062
+ 4.  past                | Impact: 0.002204
+ 5.  .                   | Impact: 0.001663
+ 6.  machine             | Impact: 0.001473
+ 7.  of                  | Impact: 0.000930
+ 8.  i                   | Impact: 0.000821
+ 9.  been                | Impact: 0.000448
+10.  my                  | Impact: 0.000387
+11.  servers             | Impact: 0.000378
+12.  to                  | Impact: 0.000331
+13.  reproduce           | Impact: 0.000311
+14.  one                 | Impact: 0.000301
+15.  with                | Impact: 0.000298
+16.  seeing              | Impact: 0.000291
+17.  -                   | Impact: 0.000269
+18.  ve                  | Impact: 0.000213
+19.  -                   | Impact: 0.000197
+20.  of                  | Impact: 0.000190
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  or                  | Impact: -0.006802
+ 2.  particular          | Impact: -0.004691
+ 3.  .                   | Impact: -0.004496
+ 4.  .                   | Impact: -0.004304
+ 5. q                    | Impact: -0.004067
+ 6.  ,                   | Impact: -0.002309
+ 7. bs                   | Impact: -0.002223
+ 8.  :                   | Impact: -0.002147
+ 9. q                    | Impact: -0.002134
+10. l                    | Impact: -0.002094
+11.  .                   | Impact: -0.002022
+12.  running             | Impact: -0.001284
+13.  .                   | Impact: -0.001242
+14. d                    | Impact: -0.001213
+15.  custom              | Impact: -0.001192
+16.  my                  | Impact: -0.001119
+17. s                    | Impact: -0.001094
+18.  problem             | Impact: -0.001093
+19.  week                | Impact: -0.001084
+20. s                    | Impact: -0.001051

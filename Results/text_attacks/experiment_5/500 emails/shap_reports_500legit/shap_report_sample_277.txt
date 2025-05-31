@@ -1,0 +1,75 @@
+Sample 277
+==========
+
+Sample text preview: Barry, Are you working directly with the business people at PG&E to review this? What is the status? ----- Forwarded by Gerald Nemec/HOU/ECT on // : P...
+
+Model prediction: [9.9976772e-01 2.3233988e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  draft               | Impact: -0.011326 → LEGITIMATE
+ 2.  review              | Impact: -0.008040 → LEGITIMATE
+ 3.  language            | Impact: -0.007529 → LEGITIMATE
+ 4. ron                  | Impact: -0.006704 → LEGITIMATE
+ 5.  en                  | Impact: -0.006578 → LEGITIMATE
+ 6.  status              | Impact: -0.006513 → LEGITIMATE
+ 7.  numbers             | Impact: -0.006025 → LEGITIMATE
+ 8.  to                  | Impact: -0.003689 → LEGITIMATE
+ 9.  review              | Impact: -0.003689 → LEGITIMATE
+10.  this                | Impact: -0.003689 → LEGITIMATE
+11.  market              | Impact: -0.003484 → LEGITIMATE
+12.  discussion          | Impact: -0.003159 → LEGITIMATE
+13.  what                | Impact: -0.003038 → LEGITIMATE
+14.  ec                  | Impact: -0.002936 → LEGITIMATE
+15. t                    | Impact: -0.002936 → LEGITIMATE
+16.  barry               | Impact: -0.002534 → LEGITIMATE
+17.  barry               | Impact: -0.002487 → LEGITIMATE
+18.  (                   | Impact: -0.002453 → LEGITIMATE
+19.  )                   | Impact: -0.002389 → LEGITIMATE
+20.  the                 | Impact: -0.002355 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  please              | Impact: 0.001285
+ 2.  @                   | Impact: 0.001110
+ 3.  m                   | Impact: 0.000674
+ 4.  .                   | Impact: 0.000674
+ 5.  ?                   | Impact: 0.000457
+ 6.  m                   | Impact: 0.000437
+ 7.  .                   | Impact: 0.000437
+ 8.  mark                | Impact: 0.000288
+ 9.  to                  | Impact: 0.000288
+10.  are                 | Impact: 0.000263
+11.  you                 | Impact: 0.000263
+12.  working             | Impact: 0.000263
+13.  directly            | Impact: 0.000263
+14.  with                | Impact: 0.000263
+15.  the                 | Impact: 0.000263
+16.  business            | Impact: 0.000263
+17.  people              | Impact: 0.000263
+18.  first               | Impact: 0.000233
+19.  thing               | Impact: 0.000233
+20.  this                | Impact: 0.000233
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  draft               | Impact: -0.011326
+ 2.  review              | Impact: -0.008040
+ 3.  language            | Impact: -0.007529
+ 4. ron                  | Impact: -0.006704
+ 5.  en                  | Impact: -0.006578
+ 6.  status              | Impact: -0.006513
+ 7.  numbers             | Impact: -0.006025
+ 8.  to                  | Impact: -0.003689
+ 9.  review              | Impact: -0.003689
+10.  this                | Impact: -0.003689
+11.  market              | Impact: -0.003484
+12.  discussion          | Impact: -0.003159
+13.  what                | Impact: -0.003038
+14.  ec                  | Impact: -0.002936
+15. t                    | Impact: -0.002936
+16.  barry               | Impact: -0.002534
+17.  barry               | Impact: -0.002487
+18.  (                   | Impact: -0.002453
+19.  )                   | Impact: -0.002389
+20.  the                 | Impact: -0.002355

@@ -1,0 +1,75 @@
+Phishing Sample 35
+==================
+
+Sample text preview: A memo is coming out shortly. From: Rod Hayslett/ENRON@enronXgate on // : AM To: Steven J Kean/NA/Enron@Enron cc: Subject: Analyst PRC Where can I go ...
+
+Model prediction: [9.9977916e-01 2.2087766e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.012930 → LEGITIMATE
+ 2.  hays                | Impact: 0.008320 → PHISHING
+ 3.  analyst             | Impact: -0.007338 → LEGITIMATE
+ 4.  memo                | Impact: -0.006917 → LEGITIMATE
+ 5.  -                   | Impact: 0.005930 → PHISHING
+ 6.  upcoming            | Impact: 0.005542 → PHISHING
+ 7.  prc                 | Impact: -0.005161 → LEGITIMATE
+ 8.  required            | Impact: -0.004575 → LEGITIMATE
+ 9.  is                  | Impact: 0.004218 → PHISHING
+10.  find                | Impact: 0.004093 → PHISHING
+11.  coming              | Impact: -0.003875 → LEGITIMATE
+12.  rod                 | Impact: -0.003867 → LEGITIMATE
+13. ron                  | Impact: -0.003837 → LEGITIMATE
+14.  e                   | Impact: -0.003571 → LEGITIMATE
+15. ron                  | Impact: -0.003089 → LEGITIMATE
+16.  @                   | Impact: 0.002736 → PHISHING
+17.  shortly             | Impact: 0.002621 → PHISHING
+18.  out                 | Impact: -0.002454 → LEGITIMATE
+19.  .                   | Impact: -0.002435 → LEGITIMATE
+20.  @                   | Impact: 0.002304 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  hays                | Impact: 0.008320
+ 2.  -                   | Impact: 0.005930
+ 3.  upcoming            | Impact: 0.005542
+ 4.  is                  | Impact: 0.004218
+ 5.  find                | Impact: 0.004093
+ 6.  @                   | Impact: 0.002736
+ 7.  shortly             | Impact: 0.002621
+ 8.  @                   | Impact: 0.002304
+ 9.  a                   | Impact: 0.002280
+10. lett                 | Impact: 0.002139
+11.  is                  | Impact: 0.001771
+12.  me                  | Impact: 0.001535
+13.  /                   | Impact: 0.001216
+14.  ?                   | Impact: 0.000968
+15.  /                   | Impact: 0.000790
+16.  /                   | Impact: 0.000619
+17. gate                 | Impact: 0.000476
+18. x                    | Impact: 0.000442
+19.  /                   | Impact: 0.000350
+20.  ke                  | Impact: 0.000319
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.012930
+ 2.  analyst             | Impact: -0.007338
+ 3.  memo                | Impact: -0.006917
+ 4.  prc                 | Impact: -0.005161
+ 5.  required            | Impact: -0.004575
+ 6.  coming              | Impact: -0.003875
+ 7.  rod                 | Impact: -0.003867
+ 8. ron                  | Impact: -0.003837
+ 9.  e                   | Impact: -0.003571
+10. ron                  | Impact: -0.003089
+11.  out                 | Impact: -0.002454
+12.  .                   | Impact: -0.002435
+13.  :                   | Impact: -0.001995
+14.  :                   | Impact: -0.001940
+15.  :                   | Impact: -0.001778
+16.  na                  | Impact: -0.001393
+17.  en                  | Impact: -0.001368
+18.  rod                 | Impact: -0.001326
+19.  :                   | Impact: -0.001294
+20.  en                  | Impact: -0.001046

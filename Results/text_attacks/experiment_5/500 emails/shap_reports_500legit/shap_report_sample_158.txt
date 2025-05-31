@@ -1,0 +1,75 @@
+Sample 158
+==========
+
+Sample text preview: Hi Michael and Mark - Please revisit the Hong Kong test product (for CDD) as shown below. Please note that it is based on the Melbourne/Sydney format:...
+
+Model prediction: [9.997700e-01 2.300292e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.008486 → LEGITIMATE
+ 2.  en                  | Impact: -0.006486 → LEGITIMATE
+ 3.  below               | Impact: -0.002907 → LEGITIMATE
+ 4.  as                  | Impact: -0.002560 → LEGITIMATE
+ 5.  shown               | Impact: -0.002560 → LEGITIMATE
+ 6.  kong                | Impact: 0.002244 → PHISHING
+ 7.  test                | Impact: 0.002244 → PHISHING
+ 8.  product             | Impact: 0.001644 → PHISHING
+ 9.                      | Impact: 0.001262 → PHISHING
+10.  hi                  | Impact: 0.001262 → PHISHING
+11.  michael             | Impact: 0.001262 → PHISHING
+12.  michael             | Impact: -0.001251 → LEGITIMATE
+13.  en                  | Impact: -0.001251 → LEGITIMATE
+14. ron                  | Impact: -0.001251 → LEGITIMATE
+15.  and                 | Impact: 0.001174 → PHISHING
+16.  ,                   | Impact: 0.001095 → PHISHING
+17.  north               | Impact: -0.001052 → LEGITIMATE
+18.  america             | Impact: -0.001052 → LEGITIMATE
+19.  corp                | Impact: -0.001052 → LEGITIMATE
+20.  please              | Impact: -0.001040 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  kong                | Impact: 0.002244
+ 2.  test                | Impact: 0.002244
+ 3.  product             | Impact: 0.001644
+ 4.                      | Impact: 0.001262
+ 5.  hi                  | Impact: 0.001262
+ 6.  michael             | Impact: 0.001262
+ 7.  and                 | Impact: 0.001174
+ 8.  ,                   | Impact: 0.001095
+ 9.  financial           | Impact: 0.001034
+10.  swap                | Impact: 0.001034
+11.  obliged             | Impact: 0.000864
+12.  to                  | Impact: 0.000864
+13.  pay                 | Impact: 0.000864
+14.  the                 | Impact: 0.000864
+15.  payment             | Impact: 0.000738
+16.  amount              | Impact: 0.000738
+17.  to                  | Impact: 0.000738
+18.  the                 | Impact: 0.000738
+19.  (                   | Impact: 0.000727
+20.  )                   | Impact: 0.000727
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.008486
+ 2.  en                  | Impact: -0.006486
+ 3.  below               | Impact: -0.002907
+ 4.  as                  | Impact: -0.002560
+ 5.  shown               | Impact: -0.002560
+ 6.  michael             | Impact: -0.001251
+ 7.  en                  | Impact: -0.001251
+ 8. ron                  | Impact: -0.001251
+ 9.  north               | Impact: -0.001052
+10.  america             | Impact: -0.001052
+11.  corp                | Impact: -0.001052
+12.  please              | Impact: -0.001040
+13.  note                | Impact: -0.001040
+14.  that                | Impact: -0.001040
+15.  it                  | Impact: -0.001040
+16.  via                 | Impact: -0.000993
+17.  the                 | Impact: -0.000993
+18.  website             | Impact: -0.000993
+19.  .                   | Impact: -0.000993
+20.  .                   | Impact: -0.000955

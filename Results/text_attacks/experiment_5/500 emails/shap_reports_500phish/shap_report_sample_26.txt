@@ -1,0 +1,75 @@
+Sample 26
+=========
+
+Sample text preview: Note:If this eamil is not fit for you,please reply to with "remove".You'd tell me the email address we've used. We don't intend to send spam email to ...
+
+Model prediction: [3.5547095e-04 9.9964452e-01]
+Predicted class: PHISHING with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sanitary            | Impact: 0.036145 → PHISHING
+ 2.  factory             | Impact: 0.036145 → PHISHING
+ 3.  composite           | Impact: 0.016819 → PHISHING
+ 4. d                    | Impact: 0.016819 → PHISHING
+ 5.  dear                | Impact: 0.010197 → PHISHING
+ 6.  sir                 | Impact: 0.010197 → PHISHING
+ 7. s                    | Impact: 0.010197 → PHISHING
+ 8.  or                  | Impact: 0.010197 → PHISHING
+ 9.  madam               | Impact: 0.008628 → PHISHING
+10. s                    | Impact: 0.008628 → PHISHING
+11.  ,                   | Impact: 0.008628 → PHISHING
+12.  please              | Impact: 0.008436 → PHISHING
+13.  reply               | Impact: 0.008436 → PHISHING
+14.  our                 | Impact: 0.007323 → PHISHING
+15.  website             | Impact: 0.007323 → PHISHING
+16.  best                | Impact: 0.007323 → PHISHING
+17.  wishes              | Impact: 0.007323 → PHISHING
+18.  o                   | Impact: 0.006619 → PHISHING
+19. dm                   | Impact: 0.006619 → PHISHING
+20.  manufacturer        | Impact: 0.006619 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sanitary            | Impact: 0.036145
+ 2.  factory             | Impact: 0.036145
+ 3.  composite           | Impact: 0.016819
+ 4. d                    | Impact: 0.016819
+ 5.  dear                | Impact: 0.010197
+ 6.  sir                 | Impact: 0.010197
+ 7. s                    | Impact: 0.010197
+ 8.  or                  | Impact: 0.010197
+ 9.  madam               | Impact: 0.008628
+10. s                    | Impact: 0.008628
+11.  ,                   | Impact: 0.008628
+12.  please              | Impact: 0.008436
+13.  reply               | Impact: 0.008436
+14.  our                 | Impact: 0.007323
+15.  website             | Impact: 0.007323
+16.  best                | Impact: 0.007323
+17.  wishes              | Impact: 0.007323
+18.  o                   | Impact: 0.006619
+19. dm                   | Impact: 0.006619
+20.  manufacturer        | Impact: 0.006619
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.000552
+ 2.  note                | Impact: -0.000552
+ 3.  is                  | Impact: -0.000552
+ 4.  not                 | Impact: -0.000552
+ 5.  :                   | Impact: -0.000552
+ 6.  if                  | Impact: -0.000552
+ 7.  this                | Impact: -0.000552
+ 8.  ea                  | Impact: -0.000552
+ 9. mi                   | Impact: -0.000552
+10. l                    | Impact: -0.000552
+11.  fit                 | Impact: -0.000552
+12.  for                 | Impact: -0.000552
+13.  you                 | Impact: -0.000552
+14.  ,                   | Impact: -0.000552
+15.  -                   | Impact: -0.000258
+16.  -                   | Impact: -0.000258
+17.  -                   | Impact: -0.000258
+18.  -                   | Impact: -0.000258
+19.  -                   | Impact: -0.000258
+20.  -                   | Impact: -0.000258

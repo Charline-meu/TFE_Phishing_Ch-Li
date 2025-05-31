@@ -1,0 +1,75 @@
+Sample 398
+==========
+
+Sample text preview: As seen on NBC, CBS, CNN, and even Oprah! The health discovery that actually reverses aging while burning fat, without dieting or exercise! This prove...
+
+Model prediction: [4.8679774e-04 9.9951315e-01]
+Predicted class: PHISHING with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.073920 → PHISHING
+ 2.  life                | Impact: 0.031201 → PHISHING
+ 3.  forever             | Impact: 0.031201 → PHISHING
+ 4.  change              | Impact: 0.027766 → PHISHING
+ 5.  your                | Impact: 0.027766 → PHISHING
+ 6.  click               | Impact: 0.018105 → PHISHING
+ 7.  here                | Impact: 0.018105 → PHISHING
+ 8.  :                   | Impact: 0.018105 → PHISHING
+ 9.  would               | Impact: 0.018105 → PHISHING
+10.  are                 | Impact: 0.017965 → PHISHING
+11.  receiving           | Impact: 0.017965 → PHISHING
+12.  this                | Impact: 0.017898 → PHISHING
+13.  email               | Impact: 0.017898 → PHISHING
+14.  just                | Impact: 0.017766 → PHISHING
+15.  %                   | Impact: 0.017196 → PHISHING
+16.  guaranteed          | Impact: 0.017196 → PHISHING
+17.  !                   | Impact: 0.017196 → PHISHING
+18.  you                 | Impact: 0.015109 → PHISHING
+19.  like                | Impact: 0.015109 → PHISHING
+20.  to                  | Impact: 0.015109 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.073920
+ 2.  life                | Impact: 0.031201
+ 3.  forever             | Impact: 0.031201
+ 4.  change              | Impact: 0.027766
+ 5.  your                | Impact: 0.027766
+ 6.  click               | Impact: 0.018105
+ 7.  here                | Impact: 0.018105
+ 8.  :                   | Impact: 0.018105
+ 9.  would               | Impact: 0.018105
+10.  are                 | Impact: 0.017965
+11.  receiving           | Impact: 0.017965
+12.  this                | Impact: 0.017898
+13.  email               | Impact: 0.017898
+14.  just                | Impact: 0.017766
+15.  %                   | Impact: 0.017196
+16.  guaranteed          | Impact: 0.017196
+17.  !                   | Impact: 0.017196
+18.  you                 | Impact: 0.015109
+19.  like                | Impact: 0.015109
+20.  to                  | Impact: 0.015109
+
+Top features pushing towards LEGITIMATE classification:
+ 1. bs                   | Impact: -0.008964
+ 2. cr                   | Impact: -0.008964
+ 3. ibe                  | Impact: -0.008964
+ 4.  to                  | Impact: -0.007020
+ 5.  the                 | Impact: -0.007020
+ 6.  opt                 | Impact: -0.007020
+ 7.  -                   | Impact: -0.007020
+ 8.  sub                 | Impact: -0.006755
+ 9. scribe               | Impact: -0.006755
+10. r                    | Impact: -0.006755
+11.  as                  | Impact: -0.006755
+12.  a                   | Impact: -0.006755
+13.  journal             | Impact: -0.006380
+14.  of                  | Impact: -0.006380
+15.  medicine            | Impact: -0.006380
+16.  new                 | Impact: -0.006142
+17.  england             | Impact: -0.006142
+18.  un                  | Impact: -0.005726
+19. su                   | Impact: -0.005726
+20.  ,                   | Impact: -0.005236

@@ -1,0 +1,71 @@
+Phishing Sample 6
+=================
+
+Sample text preview: Dear Partner, I'm happy to inform you about my success in getting those funds transferred under the co-operation of a new partner from Venezuala.Prese...
+
+Model prediction: [1.7733326e-04 9.9982268e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.044861 → PHISHING
+ 2.  your                | Impact: 0.031502 → PHISHING
+ 3.  investment          | Impact: 0.031080 → PHISHING
+ 4.  you                 | Impact: 0.028533 → PHISHING
+ 5.  forget              | Impact: 0.028264 → PHISHING
+ 6.  mr                  | Impact: 0.026633 → PHISHING
+ 7.  elton               | Impact: 0.026633 → PHISHING
+ 8.  mr                  | Impact: 0.024538 → PHISHING
+ 9.  partner             | Impact: 0.023500 → PHISHING
+10.  about               | Impact: 0.019334 → PHISHING
+11.  compensation        | Impact: 0.015999 → PHISHING
+12.  for                 | Impact: 0.015999 → PHISHING
+13.  for                 | Impact: 0.015900 → PHISHING
+14.  your                | Impact: 0.015900 → PHISHING
+15.  those               | Impact: 0.015744 → PHISHING
+16.  funds               | Impact: 0.015744 → PHISHING
+17.  my                  | Impact: 0.015607 → PHISHING
+18.  secretary           | Impact: 0.015607 → PHISHING
+19.  my                  | Impact: 0.015097 → PHISHING
+20.  his                 | Impact: 0.014991 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.044861
+ 2.  your                | Impact: 0.031502
+ 3.  investment          | Impact: 0.031080
+ 4.  you                 | Impact: 0.028533
+ 5.  forget              | Impact: 0.028264
+ 6.  mr                  | Impact: 0.026633
+ 7.  elton               | Impact: 0.026633
+ 8.  mr                  | Impact: 0.024538
+ 9.  partner             | Impact: 0.023500
+10.  about               | Impact: 0.019334
+11.  compensation        | Impact: 0.015999
+12.  for                 | Impact: 0.015999
+13.  for                 | Impact: 0.015900
+14.  your                | Impact: 0.015900
+15.  those               | Impact: 0.015744
+16.  funds               | Impact: 0.015744
+17.  my                  | Impact: 0.015607
+18.  secretary           | Impact: 0.015607
+19.  my                  | Impact: 0.015097
+20.  his                 | Impact: 0.014991
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  barr                | Impact: -0.014091
+ 2.  .                   | Impact: -0.004851
+ 3.  didn                | Impact: -0.002753
+ 4.  '                   | Impact: -0.002753
+ 5.  t                   | Impact: -0.002753
+ 6.  i                   | Impact: -0.002753
+ 7.  .                   | Impact: -0.001414
+ 8.  ve                  | Impact: -0.001180
+ 9. ne                   | Impact: -0.001180
+10. zu                   | Impact: -0.001180
+11. ala                  | Impact: -0.001180
+12.                      | Impact: -0.001174
+13.  meanwhile           | Impact: -0.000705
+14.  ,                   | Impact: -0.000705
+15.  i                   | Impact: -0.000192
+16.  '                   | Impact: -0.000192

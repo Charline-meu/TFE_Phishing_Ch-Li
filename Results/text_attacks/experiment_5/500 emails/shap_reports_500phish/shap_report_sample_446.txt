@@ -1,0 +1,75 @@
+Sample 446
+==========
+
+Sample text preview: Hi Friend, ezDebtConsolidationInfo.com ----------------------------------------------------------- Is your debt causing you problems? CONSOLIDATE YOUR...
+
+Model prediction: [2.8545535e-04 9.9971455e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  friend              | Impact: 0.063559 → PHISHING
+ 2.  debts               | Impact: 0.035159 → PHISHING
+ 3.  your                | Impact: 0.031777 → PHISHING
+ 4.  debt                | Impact: 0.031777 → PHISHING
+ 5.                      | Impact: 0.029926 → PHISHING
+ 6.  hi                  | Impact: 0.029926 → PHISHING
+ 7.  consolidate         | Impact: 0.026348 → PHISHING
+ 8.  your                | Impact: 0.025911 → PHISHING
+ 9.  paying              | Impact: 0.017701 → PHISHING
+10.  off                 | Impact: 0.017701 → PHISHING
+11.  payment             | Impact: 0.012512 → PHISHING
+12.  that                | Impact: 0.012512 → PHISHING
+13.  you                 | Impact: 0.012512 → PHISHING
+14.  can                 | Impact: 0.012512 → PHISHING
+15.  *                   | Impact: 0.011286 → PHISHING
+16.  pay                 | Impact: 0.011286 → PHISHING
+17.  one                 | Impact: 0.011286 → PHISHING
+18.  monthly             | Impact: 0.011286 → PHISHING
+19.  afford              | Impact: 0.011158 → PHISHING
+20.  *                   | Impact: 0.011158 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  friend              | Impact: 0.063559
+ 2.  debts               | Impact: 0.035159
+ 3.  your                | Impact: 0.031777
+ 4.  debt                | Impact: 0.031777
+ 5.                      | Impact: 0.029926
+ 6.  hi                  | Impact: 0.029926
+ 7.  consolidate         | Impact: 0.026348
+ 8.  your                | Impact: 0.025911
+ 9.  paying              | Impact: 0.017701
+10.  off                 | Impact: 0.017701
+11.  payment             | Impact: 0.012512
+12.  that                | Impact: 0.012512
+13.  you                 | Impact: 0.012512
+14.  can                 | Impact: 0.012512
+15.  *                   | Impact: 0.011286
+16.  pay                 | Impact: 0.011286
+17.  one                 | Impact: 0.011286
+18.  monthly             | Impact: 0.011286
+19.  afford              | Impact: 0.011158
+20.  *                   | Impact: 0.011158
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ,                   | Impact: -0.006678
+ 2.  recurring           | Impact: -0.002594
+ 3.  list                | Impact: -0.002594
+ 4.  by                  | Impact: -0.002594
+ 5.  sending             | Impact: -0.002594
+ 6.  net                 | Impact: -0.002545
+ 7.  email               | Impact: -0.002545
+ 8.  is                  | Impact: -0.002545
+ 9.  sponsored           | Impact: -0.002545
+10.  -                   | Impact: -0.001697
+11.  -                   | Impact: -0.001697
+12.  -                   | Impact: -0.001697
+13.  -                   | Impact: -0.001697
+14.  -                   | Impact: -0.001648
+15.  -                   | Impact: -0.001648
+16.  -                   | Impact: -0.001648
+17.  -                   | Impact: -0.001648
+18.  -                   | Impact: -0.001648
+19.  -                   | Impact: -0.001648
+20.  -                   | Impact: -0.001648

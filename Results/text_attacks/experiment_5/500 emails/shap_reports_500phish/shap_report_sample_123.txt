@@ -1,0 +1,75 @@
+Sample 123
+==========
+
+Sample text preview: FROM THE DESK OF DR.ADAMU ALI, AUDITING AND ACCOUNTING MANEGER, BANK OF AFRICA (B.O.A) OUAGADOUGOU-BURKINA FASO. Dear Friend, I am the manager of audi...
+
+Model prediction: [2.0142182e-04 9.9979860e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  claim               | Impact: 0.005152 → PHISHING
+ 2.  his                 | Impact: 0.005152 → PHISHING
+ 3.  money               | Impact: 0.005152 → PHISHING
+ 4.  because             | Impact: 0.005152 → PHISHING
+ 5.  we                  | Impact: 0.005152 → PHISHING
+ 6.  cannot              | Impact: 0.005152 → PHISHING
+ 7.  release             | Impact: 0.005152 → PHISHING
+ 8.  it                  | Impact: 0.005152 → PHISHING
+ 9.  him                 | Impact: 0.004693 → PHISHING
+10.  at                  | Impact: 0.004693 → PHISHING
+11.  the                 | Impact: 0.004693 → PHISHING
+12.  plane               | Impact: 0.004693 → PHISHING
+13.  who                 | Impact: 0.004137 → PHISHING
+14.  died                | Impact: 0.004137 → PHISHING
+15.  along               | Impact: 0.004137 → PHISHING
+16.  with                | Impact: 0.004137 → PHISHING
+17.  his                 | Impact: 0.004137 → PHISHING
+18.  entire              | Impact: 0.004137 → PHISHING
+19.  family              | Impact: 0.004137 → PHISHING
+20.  in                  | Impact: 0.004137 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  claim               | Impact: 0.005152
+ 2.  his                 | Impact: 0.005152
+ 3.  money               | Impact: 0.005152
+ 4.  because             | Impact: 0.005152
+ 5.  we                  | Impact: 0.005152
+ 6.  cannot              | Impact: 0.005152
+ 7.  release             | Impact: 0.005152
+ 8.  it                  | Impact: 0.005152
+ 9.  him                 | Impact: 0.004693
+10.  at                  | Impact: 0.004693
+11.  the                 | Impact: 0.004693
+12.  plane               | Impact: 0.004693
+13.  who                 | Impact: 0.004137
+14.  died                | Impact: 0.004137
+15.  along               | Impact: 0.004137
+16.  with                | Impact: 0.004137
+17.  his                 | Impact: 0.004137
+18.  entire              | Impact: 0.004137
+19.  family              | Impact: 0.004137
+20.  in                  | Impact: 0.004137
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  accounting          | Impact: -0.000008
+ 2.  at                  | Impact: -0.000008
+ 3.  the                 | Impact: -0.000008
+ 4.  foreign             | Impact: -0.000008
+ 5.  re                  | Impact: -0.000008
+ 6. mit                  | Impact: -0.000008
+ 7. tance                | Impact: -0.000008
+ 8.  department          | Impact: -0.000008
+ 9.  of                  | Impact: -0.000008
+10.  bank                | Impact: -0.000008
+11.  of                  | Impact: -0.000008
+12.  africa              | Impact: -0.000008
+13.  address             | Impact: -0.000000
+14.  :                   | Impact: -0.000000
+15.  .                   | Impact: -0.000000
+16.  .                   | Impact: -0.000000
+17.  .                   | Impact: -0.000000
+18.  .                   | Impact: -0.000000
+19.  .                   | Impact: -0.000000
+20.  .                   | Impact: -0.000000

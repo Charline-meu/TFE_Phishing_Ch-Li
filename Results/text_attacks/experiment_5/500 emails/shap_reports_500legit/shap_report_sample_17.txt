@@ -1,0 +1,75 @@
+Sample 17
+=========
+
+Sample text preview: Alan, per my voice mail to you. Thank you. Jim -----Original Message----- From: "Sertac Yener" Sent: Thursday, December , : PM To: Derrick Jr., James ...
+
+Model prediction: [9.9976331e-01 2.3675193e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.018462 → LEGITIMATE
+ 2.  en                  | Impact: -0.018236 → LEGITIMATE
+ 3.  en                  | Impact: -0.013649 → LEGITIMATE
+ 4. ron                  | Impact: -0.013649 → LEGITIMATE
+ 5.  en                  | Impact: -0.008557 → LEGITIMATE
+ 6. ron                  | Impact: -0.008379 → LEGITIMATE
+ 7.  middle              | Impact: -0.007393 → LEGITIMATE
+ 8.  east                | Impact: -0.007393 → LEGITIMATE
+ 9.  en                  | Impact: -0.005769 → LEGITIMATE
+10. ron                  | Impact: -0.005769 → LEGITIMATE
+11.  full                | Impact: -0.005724 → LEGITIMATE
+12.  documentation       | Impact: -0.005724 → LEGITIMATE
+13.  relating            | Impact: -0.005365 → LEGITIMATE
+14.  to                  | Impact: -0.005365 → LEGITIMATE
+15. ron                  | Impact: -0.005353 → LEGITIMATE
+16.  en                  | Impact: -0.005071 → LEGITIMATE
+17.  en                  | Impact: -0.005010 → LEGITIMATE
+18. ron                  | Impact: -0.005010 → LEGITIMATE
+19.  dubai               | Impact: 0.003347 → PHISHING
+20.  ,                   | Impact: 0.003347 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dubai               | Impact: 0.003347
+ 2.  ,                   | Impact: 0.003347
+ 3.  family              | Impact: 0.002423
+ 4.  dear                | Impact: 0.001908
+ 5.  sir                 | Impact: 0.001908
+ 6.  done                | Impact: 0.001859
+ 7. gan                  | Impact: 0.001859
+ 8.  that                | Impact: 0.001682
+ 9.  mr                  | Impact: 0.001682
+10.  .                   | Impact: 0.001682
+11.  and                 | Impact: 0.001177
+12.  for                 | Impact: 0.001109
+13.  my                  | Impact: 0.001109
+14.  :                   | Impact: 0.001020
+15.  my                  | Impact: 0.001020
+16.  to                  | Impact: 0.000950
+17.  sell                | Impact: 0.000950
+18.  derrick             | Impact: 0.000942
+19.  jr                  | Impact: 0.000942
+20.  .                   | Impact: 0.000942
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.018462
+ 2.  en                  | Impact: -0.018236
+ 3.  en                  | Impact: -0.013649
+ 4. ron                  | Impact: -0.013649
+ 5.  en                  | Impact: -0.008557
+ 6. ron                  | Impact: -0.008379
+ 7.  middle              | Impact: -0.007393
+ 8.  east                | Impact: -0.007393
+ 9.  en                  | Impact: -0.005769
+10. ron                  | Impact: -0.005769
+11.  full                | Impact: -0.005724
+12.  documentation       | Impact: -0.005724
+13.  relating            | Impact: -0.005365
+14.  to                  | Impact: -0.005365
+15. ron                  | Impact: -0.005353
+16.  en                  | Impact: -0.005071
+17.  en                  | Impact: -0.005010
+18. ron                  | Impact: -0.005010
+19.  the                 | Impact: -0.003157
+20.  claim               | Impact: -0.003157

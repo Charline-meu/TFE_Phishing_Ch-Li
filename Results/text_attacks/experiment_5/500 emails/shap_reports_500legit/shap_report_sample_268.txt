@@ -1,0 +1,75 @@
+Sample 268
+==========
+
+Sample text preview: Forwarded-by: Sven Guckes Port San Luis, California September , A WHALE which suddenly breached and crashed into the bow of a fishing boat killed a re...
+
+Model prediction: [9.996145e-01 3.854954e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  jerry               | Impact: -0.024252 → LEGITIMATE
+ 2.  sven                | Impact: -0.019513 → LEGITIMATE
+ 3.  :                   | Impact: -0.017300 → LEGITIMATE
+ 4.  -                   | Impact: -0.011878 → LEGITIMATE
+ 5.  by                  | Impact: -0.008778 → LEGITIMATE
+ 6.  owner               | Impact: 0.008497 → PHISHING
+ 7.  authorities         | Impact: 0.007286 → PHISHING
+ 8.  .                   | Impact: -0.007170 → LEGITIMATE
+ 9.  sea                 | Impact: 0.006552 → PHISHING
+10.  five                | Impact: 0.006552 → PHISHING
+11.  ,                   | Impact: -0.006322 → LEGITIMATE
+12.  miles               | Impact: 0.006274 → PHISHING
+13.  off                 | Impact: 0.006274 → PHISHING
+14.  september           | Impact: -0.006193 → LEGITIMATE
+15.  restaurant          | Impact: 0.006080 → PHISHING
+16.  damaged             | Impact: 0.005961 → PHISHING
+17.  boat                | Impact: 0.005961 → PHISHING
+18.  towed               | Impact: 0.005275 → PHISHING
+19.  a                   | Impact: 0.005248 → PHISHING
+20.  search              | Impact: 0.005248 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  owner               | Impact: 0.008497
+ 2.  authorities         | Impact: 0.007286
+ 3.  sea                 | Impact: 0.006552
+ 4.  five                | Impact: 0.006552
+ 5.  miles               | Impact: 0.006274
+ 6.  off                 | Impact: 0.006274
+ 7.  restaurant          | Impact: 0.006080
+ 8.  damaged             | Impact: 0.005961
+ 9.  boat                | Impact: 0.005961
+10.  towed               | Impact: 0.005275
+11.  a                   | Impact: 0.005248
+12.  search              | Impact: 0.005248
+13.  and                 | Impact: 0.004939
+14.  aboard              | Impact: 0.004701
+15.  the                 | Impact: 0.004701
+16.  which               | Impact: 0.004276
+17.  friends             | Impact: 0.003743
+18.  were                | Impact: 0.003743
+19.  his                 | Impact: 0.003566
+20.  three               | Impact: 0.003566
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  jerry               | Impact: -0.024252
+ 2.  sven                | Impact: -0.019513
+ 3.  :                   | Impact: -0.017300
+ 4.  -                   | Impact: -0.011878
+ 5.  by                  | Impact: -0.008778
+ 6.  .                   | Impact: -0.007170
+ 7.  ,                   | Impact: -0.006322
+ 8.  september           | Impact: -0.006193
+ 9.  .                   | Impact: -0.005027
+10.  ti                  | Impact: -0.004894
+11. bbs                  | Impact: -0.004894
+12.  ti                  | Impact: -0.004404
+13. bbs                  | Impact: -0.004404
+14.  officials           | Impact: -0.004140
+15.  said                | Impact: -0.004140
+16.  it                  | Impact: -0.003724
+17.  was                 | Impact: -0.003724
+18.  said                | Impact: -0.003320
+19.  california          | Impact: -0.002905
+20.  ,                   | Impact: -0.002527

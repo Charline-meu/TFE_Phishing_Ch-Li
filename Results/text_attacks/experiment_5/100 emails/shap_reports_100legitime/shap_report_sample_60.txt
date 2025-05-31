@@ -1,0 +1,75 @@
+Phishing Sample 60
+==================
+
+Sample text preview: Fax number is () -. "Tipton, Bill" on // :: PM To: "'Gerald Nemec'" cc: "'Mark Knippa'" Subject: RE: Confidentiality Agreement Gerald, Could you give ...
+
+Model prediction: [9.997259e-01 2.740517e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.016055 → PHISHING
+ 2.  you                 | Impact: 0.012786 → PHISHING
+ 3.  mark                | Impact: -0.010764 → LEGITIMATE
+ 4.  .                   | Impact: 0.004984 → PHISHING
+ 5.  to                  | Impact: 0.004740 → PHISHING
+ 6.  back                | Impact: 0.004615 → PHISHING
+ 7.  me                  | Impact: 0.004566 → PHISHING
+ 8.  thanks              | Impact: -0.004479 → LEGITIMATE
+ 9.  look                | Impact: -0.004346 → LEGITIMATE
+10.  how                 | Impact: -0.004063 → LEGITIMATE
+11.  -                   | Impact: -0.003800 → LEGITIMATE
+12.  '                   | Impact: -0.003576 → LEGITIMATE
+13.  your                | Impact: 0.003561 → PHISHING
+14.  ,                   | Impact: -0.003435 → LEGITIMATE
+15.  you                 | Impact: -0.003145 → LEGITIMATE
+16.  give                | Impact: 0.002791 → PHISHING
+17.  review              | Impact: -0.002767 → LEGITIMATE
+18.  -                   | Impact: -0.002727 → LEGITIMATE
+19.  .                   | Impact: -0.002551 → LEGITIMATE
+20.  .                   | Impact: -0.002424 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.016055
+ 2.  you                 | Impact: 0.012786
+ 3.  .                   | Impact: 0.004984
+ 4.  to                  | Impact: 0.004740
+ 5.  back                | Impact: 0.004615
+ 6.  me                  | Impact: 0.004566
+ 7.  your                | Impact: 0.003561
+ 8.  give                | Impact: 0.002791
+ 9.  number              | Impact: 0.001890
+10.  pm                  | Impact: 0.001279
+11.  this                | Impact: 0.001227
+12.  .                   | Impact: 0.000925
+13.  am                  | Impact: 0.000848
+14.  confidential        | Impact: 0.000677
+15.  schedule            | Impact: 0.000500
+16.  so                  | Impact: 0.000349
+17.  :                   | Impact: 0.000349
+18.  to                  | Impact: 0.000296
+19.  :                   | Impact: 0.000296
+20. ity                  | Impact: 0.000244
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  mark                | Impact: -0.010764
+ 2.  thanks              | Impact: -0.004479
+ 3.  look                | Impact: -0.004346
+ 4.  how                 | Impact: -0.004063
+ 5.  -                   | Impact: -0.003800
+ 6.  '                   | Impact: -0.003576
+ 7.  ,                   | Impact: -0.003435
+ 8.  you                 | Impact: -0.003145
+ 9.  review              | Impact: -0.002767
+10.  -                   | Impact: -0.002727
+11.  .                   | Impact: -0.002551
+12.  .                   | Impact: -0.002424
+13.  -                   | Impact: -0.002255
+14.  s                   | Impact: -0.002096
+15.  .                   | Impact: -0.001744
+16.  (                   | Impact: -0.001744
+17.  )                   | Impact: -0.001721
+18. x                    | Impact: -0.001468
+19.  agreement           | Impact: -0.001281
+20.  gerald              | Impact: -0.001085

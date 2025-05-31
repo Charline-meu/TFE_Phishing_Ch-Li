@@ -1,0 +1,75 @@
+Phishing Sample 24
+==================
+
+Sample text preview: Here's the hottest thing in DVDs. Now you can make a personal backup copy of a DVD right onto CD-R. Our "Hot" new software easily takes you through th...
+
+Model prediction: [0.00672508 0.9932749 ]
+Predicted class: PHISHING with 0.9933 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  limited             | Impact: 0.013726 → PHISHING
+ 2.  time                | Impact: 0.013726 → PHISHING
+ 3.  offer               | Impact: 0.013726 → PHISHING
+ 4.  !                   | Impact: 0.013726 → PHISHING
+ 5.  trial               | Impact: 0.012747 → PHISHING
+ 6.  available           | Impact: 0.012747 → PHISHING
+ 7.  -                   | Impact: 0.012747 → PHISHING
+ 8.  free                | Impact: 0.012747 → PHISHING
+ 9.  this                | Impact: 0.011953 → PHISHING
+10.  email               | Impact: 0.011953 → PHISHING
+11.  copy                | Impact: 0.011952 → PHISHING
+12.  your                | Impact: 0.011952 → PHISHING
+13.  -                   | Impact: 0.008930 → PHISHING
+14.  day                 | Impact: 0.008930 → PHISHING
+15.  risk                | Impact: 0.008930 → PHISHING
+16.  free                | Impact: 0.008930 → PHISHING
+17.  of                  | Impact: 0.008184 → PHISHING
+18.  your                | Impact: 0.008184 → PHISHING
+19.  own                 | Impact: 0.008184 → PHISHING
+20.  dvds                | Impact: 0.008184 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  limited             | Impact: 0.013726
+ 2.  time                | Impact: 0.013726
+ 3.  offer               | Impact: 0.013726
+ 4.  !                   | Impact: 0.013726
+ 5.  trial               | Impact: 0.012747
+ 6.  available           | Impact: 0.012747
+ 7.  -                   | Impact: 0.012747
+ 8.  free                | Impact: 0.012747
+ 9.  this                | Impact: 0.011953
+10.  email               | Impact: 0.011953
+11.  copy                | Impact: 0.011952
+12.  your                | Impact: 0.011952
+13.  -                   | Impact: 0.008930
+14.  day                 | Impact: 0.008930
+15.  risk                | Impact: 0.008930
+16.  free                | Impact: 0.008930
+17.  of                  | Impact: 0.008184
+18.  your                | Impact: 0.008184
+19.  own                 | Impact: 0.008184
+20.  dvds                | Impact: 0.008184
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thousands           | Impact: -0.003692
+ 2.  of                  | Impact: -0.003692
+ 3.  other               | Impact: -0.003692
+ 4.  email               | Impact: -0.003692
+ 5.  providers           | Impact: -0.003181
+ 6.  please              | Impact: -0.003181
+ 7.  visit               | Impact: -0.003181
+ 8.  +                   | Impact: -0.003181
+ 9.  if                  | Impact: -0.003161
+10.  you                 | Impact: -0.003161
+11.  wish                | Impact: -0.003161
+12.  to                  | Impact: -0.003161
+13.  "                   | Impact: -0.002960
+14.  opt                 | Impact: -0.002960
+15.  -                   | Impact: -0.002960
+16.  out                 | Impact: -0.002960
+17.  "                   | Impact: -0.002960
+18.  from                | Impact: -0.002960
+19.  this                | Impact: -0.002960
+20.  mail                | Impact: -0.002461

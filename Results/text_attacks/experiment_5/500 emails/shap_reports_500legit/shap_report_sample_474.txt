@@ -1,0 +1,75 @@
+Sample 474
+==========
+
+Sample text preview: Attached is the tentative holiday schedule for our department. If you can't reach me, try Harry Walters, Dan Fancler, or Robert Miller (subbing for Al...
+
+Model prediction: [9.9977285e-01 2.2716136e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  is                  | Impact: 0.099479 → PHISHING
+ 2.  depending           | Impact: -0.045671 → LEGITIMATE
+ 3.  department          | Impact: -0.037740 → LEGITIMATE
+ 4.  .                   | Impact: -0.025148 → LEGITIMATE
+ 5.  scheduled           | Impact: 0.024700 → PHISHING
+ 6.  holiday             | Impact: -0.024358 → LEGITIMATE
+ 7.  attached            | Impact: -0.023294 → LEGITIMATE
+ 8.  schedule            | Impact: -0.022269 → LEGITIMATE
+ 9.  reach               | Impact: 0.021009 → PHISHING
+10.  tentative           | Impact: -0.017084 → LEGITIMATE
+11.  the                 | Impact: 0.016715 → PHISHING
+12.  miller              | Impact: -0.014556 → LEGITIMATE
+13.  dan                 | Impact: -0.012944 → LEGITIMATE
+14.  or                  | Impact: -0.011650 → LEGITIMATE
+15.  walters             | Impact: -0.011511 → LEGITIMATE
+16.  harry               | Impact: -0.009753 → LEGITIMATE
+17.  in                  | Impact: 0.009476 → PHISHING
+18.  if                  | Impact: -0.009375 → LEGITIMATE
+19.  you                 | Impact: 0.009074 → PHISHING
+20.  on                  | Impact: 0.007875 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  is                  | Impact: 0.099479
+ 2.  scheduled           | Impact: 0.024700
+ 3.  reach               | Impact: 0.021009
+ 4.  the                 | Impact: 0.016715
+ 5.  in                  | Impact: 0.009476
+ 6.  you                 | Impact: 0.009074
+ 7.  on                  | Impact: 0.007875
+ 8.  calling             | Impact: 0.007846
+ 9.  ,                   | Impact: 0.007321
+10.  who                 | Impact: 0.004953
+11.  office              | Impact: 0.004376
+12.  me                  | Impact: 0.002347
+13.  fan                 | Impact: 0.002136
+14.  )                   | Impact: 0.001863
+15.  be                  | Impact: 0.001659
+16.  .                   | Impact: 0.001116
+17.  re                  | Impact: 0.001069
+18.  on                  | Impact: 0.000824
+19.  the                 | Impact: 0.000824
+20.  day                 | Impact: 0.000824
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  depending           | Impact: -0.045671
+ 2.  department          | Impact: -0.037740
+ 3.  .                   | Impact: -0.025148
+ 4.  holiday             | Impact: -0.024358
+ 5.  attached            | Impact: -0.023294
+ 6.  schedule            | Impact: -0.022269
+ 7.  tentative           | Impact: -0.017084
+ 8.  miller              | Impact: -0.014556
+ 9.  dan                 | Impact: -0.012944
+10.  or                  | Impact: -0.011650
+11.  walters             | Impact: -0.011511
+12.  harry               | Impact: -0.009753
+13.  if                  | Impact: -0.009375
+14.  allison             | Impact: -0.006314
+15.  our                 | Impact: -0.005851
+16.  robert              | Impact: -0.005676
+17.  is                  | Impact: -0.004210
+18.  to                  | Impact: -0.004054
+19.  for                 | Impact: -0.003883
+20.  can                 | Impact: -0.003614

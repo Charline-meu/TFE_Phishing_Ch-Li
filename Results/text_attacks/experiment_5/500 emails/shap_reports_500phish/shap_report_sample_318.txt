@@ -1,0 +1,75 @@
+Sample 318
+==========
+
+Sample text preview: To ensure delivery to your inbox, please add to your address book. Personal Profile Update View Accounts | Privacy Promise | Contact Us USAA SECURITY ...
+
+Model prediction: [1.691928e-04 9.998307e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  please              | Impact: 0.023072 → PHISHING
+ 2.  contact             | Impact: 0.023072 → PHISHING
+ 3.  us                  | Impact: 0.020186 → PHISHING
+ 4.  account             | Impact: 0.018853 → PHISHING
+ 5.  a                   | Impact: 0.015160 → PHISHING
+ 6.  secure              | Impact: 0.015160 → PHISHING
+ 7.  to                  | Impact: 0.015012 → PHISHING
+ 8.  send                | Impact: 0.015012 → PHISHING
+ 9.  :                   | Impact: 0.014203 → PHISHING
+10.  if                  | Impact: 0.014203 → PHISHING
+11.  your                | Impact: 0.014203 → PHISHING
+12.  account             | Impact: 0.014203 → PHISHING
+13.  gary                | Impact: -0.013427 → LEGITIMATE
+14.  d                   | Impact: -0.013427 → LEGITIMATE
+15.  account             | Impact: 0.011856 → PHISHING
+16.  your                | Impact: 0.011530 → PHISHING
+17.  |                   | Impact: 0.010120 → PHISHING
+18.  contact             | Impact: 0.010120 → PHISHING
+19.  in                  | Impact: 0.010043 → PHISHING
+20.  your                | Impact: 0.010043 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  please              | Impact: 0.023072
+ 2.  contact             | Impact: 0.023072
+ 3.  us                  | Impact: 0.020186
+ 4.  account             | Impact: 0.018853
+ 5.  a                   | Impact: 0.015160
+ 6.  secure              | Impact: 0.015160
+ 7.  to                  | Impact: 0.015012
+ 8.  send                | Impact: 0.015012
+ 9.  :                   | Impact: 0.014203
+10.  if                  | Impact: 0.014203
+11.  your                | Impact: 0.014203
+12.  account             | Impact: 0.014203
+13.  account             | Impact: 0.011856
+14.  your                | Impact: 0.011530
+15.  |                   | Impact: 0.010120
+16.  contact             | Impact: 0.010120
+17.  in                  | Impact: 0.010043
+18.  your                | Impact: 0.010043
+19.  account             | Impact: 0.010043
+20.  my                  | Impact: 0.009914
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  gary                | Impact: -0.013427
+ 2.  d                   | Impact: -0.013427
+ 3.  mca                 | Impact: -0.004927
+ 4. lum                  | Impact: -0.004927
+ 5.  senior              | Impact: -0.004927
+ 6.  vice                | Impact: -0.004927
+ 7.  president           | Impact: -0.004927
+ 8.  -                   | Impact: -0.002622
+ 9.                      | Impact: -0.002622
+10.  ,                   | Impact: -0.001493
+11.  both                | Impact: -0.001493
+12.  registered          | Impact: -0.001493
+13.  broker              | Impact: -0.001493
+14.  dealers             | Impact: -0.001493
+15.  .                   | Impact: -0.001493
+16.  ,                   | Impact: -0.001337
+17.  .                   | Impact: -0.000603
+18.  due                 | Impact: -0.000515
+19.  to                  | Impact: -0.000515
+20.  system              | Impact: -0.000515

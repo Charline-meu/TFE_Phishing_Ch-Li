@@ -1,0 +1,75 @@
+Sample 183
+==========
+
+Sample text preview: YTC INVITATION( CHINA) Dear Sir/Madam, It is a pleasure to write to you in respect of our company Yokoono trading Company. We are a small company loca...
+
+Model prediction: [2.1944246e-04 9.9978060e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.039519 → PHISHING
+ 2.  your                | Impact: 0.035908 → PHISHING
+ 3.  services            | Impact: 0.035908 → PHISHING
+ 4.  addresses           | Impact: 0.027210 → PHISHING
+ 5.  payment             | Impact: 0.025837 → PHISHING
+ 6.  for                 | Impact: 0.025837 → PHISHING
+ 7.  dear                | Impact: 0.019320 → PHISHING
+ 8.  sir                 | Impact: 0.019320 → PHISHING
+ 9.  /                   | Impact: 0.019320 → PHISHING
+10.  madam               | Impact: 0.019320 → PHISHING
+11.  mr                  | Impact: 0.019087 → PHISHING
+12.  representative      | Impact: 0.018110 → PHISHING
+13.  in                  | Impact: 0.018110 → PHISHING
+14.  him                 | Impact: 0.017623 → PHISHING
+15.  your                | Impact: 0.017623 → PHISHING
+16.  as                  | Impact: 0.015887 → PHISHING
+17.  our                 | Impact: 0.015887 → PHISHING
+18.  full                | Impact: 0.015804 → PHISHING
+19.  contact             | Impact: 0.014350 → PHISHING
+20.  andrew              | Impact: 0.010388 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.039519
+ 2.  your                | Impact: 0.035908
+ 3.  services            | Impact: 0.035908
+ 4.  addresses           | Impact: 0.027210
+ 5.  payment             | Impact: 0.025837
+ 6.  for                 | Impact: 0.025837
+ 7.  dear                | Impact: 0.019320
+ 8.  sir                 | Impact: 0.019320
+ 9.  /                   | Impact: 0.019320
+10.  madam               | Impact: 0.019320
+11.  mr                  | Impact: 0.019087
+12.  representative      | Impact: 0.018110
+13.  in                  | Impact: 0.018110
+14.  him                 | Impact: 0.017623
+15.  your                | Impact: 0.017623
+16.  as                  | Impact: 0.015887
+17.  our                 | Impact: 0.015887
+18.  full                | Impact: 0.015804
+19.  contact             | Impact: 0.014350
+20.  andrew              | Impact: 0.010388
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  mode                | Impact: -0.009058
+ 2.  of                  | Impact: -0.009058
+ 3.  negotiate           | Impact: -0.007177
+ 4.  the                 | Impact: -0.007177
+ 5.  canada              | Impact: -0.005217
+ 6.  /                   | Impact: -0.005217
+ 7.  america             | Impact: -0.005217
+ 8.  /                   | Impact: -0.005217
+ 9.  europe              | Impact: -0.005217
+10.  .                   | Impact: -0.002710
+11.  from                | Impact: -0.002624
+12.  our                 | Impact: -0.002624
+13.  costume             | Impact: -0.002624
+14. rs                   | Impact: -0.002624
+15.  given               | Impact: -0.001829
+16.  the                 | Impact: -0.001829
+17.  opportunity         | Impact: -0.001829
+18.  to                  | Impact: -0.001829
+19.  in                  | Impact: -0.001576
+20.  the                 | Impact: -0.001576

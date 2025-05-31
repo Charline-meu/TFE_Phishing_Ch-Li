@@ -1,0 +1,72 @@
+Sample 404
+==========
+
+Sample text preview: Dear Supplier, Please find attached Purchase Order number from Heubach ColMX SA CV.All supporting docs included. Kindly click on link below to see pur...
+
+Model prediction: [0.00435917 0.9956409 ]
+Predicted class: PHISHING with 0.9956 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.302208 → PHISHING
+ 2. arian                | Impact: -0.123401 → LEGITIMATE
+ 3.  click               | Impact: 0.117635 → PHISHING
+ 4.  kindly              | Impact: 0.080973 → PHISHING
+ 5.  supplier            | Impact: 0.076237 → PHISHING
+ 6.  us                  | Impact: 0.066477 → PHISHING
+ 7.  best                | Impact: 0.063563 → PHISHING
+ 8.  regards             | Impact: 0.049208 → PHISHING
+ 9.  link                | Impact: 0.044018 → PHISHING
+10.  immediately         | Impact: 0.040855 → PHISHING
+11.  ,                   | Impact: 0.036525 → PHISHING
+12.  contact             | Impact: 0.035049 → PHISHING
+13.  procurement         | Impact: -0.032938 → LEGITIMATE
+14.  on                  | Impact: 0.028684 → PHISHING
+15. t                    | Impact: -0.026854 → LEGITIMATE
+16.  please              | Impact: 0.022876 → PHISHING
+17.  ,                   | Impact: -0.022064 → LEGITIMATE
+18.  doc                 | Impact: -0.020586 → LEGITIMATE
+19.  sa                  | Impact: 0.018722 → PHISHING
+20.  purchase            | Impact: 0.017171 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.302208
+ 2.  click               | Impact: 0.117635
+ 3.  kindly              | Impact: 0.080973
+ 4.  supplier            | Impact: 0.076237
+ 5.  us                  | Impact: 0.066477
+ 6.  best                | Impact: 0.063563
+ 7.  regards             | Impact: 0.049208
+ 8.  link                | Impact: 0.044018
+ 9.  immediately         | Impact: 0.040855
+10.  ,                   | Impact: 0.036525
+11.  contact             | Impact: 0.035049
+12.  on                  | Impact: 0.028684
+13.  please              | Impact: 0.022876
+14.  sa                  | Impact: 0.018722
+15.  purchase            | Impact: 0.017171
+16.  .                   | Impact: 0.016763
+17.  below               | Impact: 0.015751
+18.  to                  | Impact: 0.015078
+19.  cv                  | Impact: 0.014862
+20.  purchase            | Impact: 0.013240
+
+Top features pushing towards LEGITIMATE classification:
+ 1. arian                | Impact: -0.123401
+ 2.  procurement         | Impact: -0.032938
+ 3. t                    | Impact: -0.026854
+ 4.  ,                   | Impact: -0.022064
+ 5.  doc                 | Impact: -0.020586
+ 6.  operations          | Impact: -0.014316
+ 7.  .                   | Impact: -0.004924
+ 8.  in                  | Impact: -0.003180
+ 9.  case                | Impact: -0.003180
+10.  of                  | Impact: -0.002463
+11.  any                 | Impact: -0.002463
+12.  supporting          | Impact: -0.002237
+13.  from                | Impact: -0.001912
+14.                      | Impact: -0.001720
+15.  he                  | Impact: -0.001361
+16. uba                  | Impact: -0.001361
+17. ch                   | Impact: -0.001361

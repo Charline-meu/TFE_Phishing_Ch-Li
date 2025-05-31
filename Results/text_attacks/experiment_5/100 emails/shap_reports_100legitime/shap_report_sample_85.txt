@@ -1,0 +1,75 @@
+Phishing Sample 85
+==================
+
+Sample text preview: URL: Date: Not supplied Steve sez: "It's tragic when life imitates Wile E. Coyote cartoons. Guy boobytraps his house to get his family if they try to ...
+
+Model prediction: [9.9974960e-01 2.5038098e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  cartoons            | Impact: 0.028802 → PHISHING
+ 2.  guy                 | Impact: -0.027112 → LEGITIMATE
+ 3.  family              | Impact: 0.024460 → PHISHING
+ 4.  killed              | Impact: 0.022019 → PHISHING
+ 5.  traps               | Impact: 0.019755 → PHISHING
+ 6.  .                   | Impact: -0.018051 → LEGITIMATE
+ 7.  .                   | Impact: -0.016639 → LEGITIMATE
+ 8.  if                  | Impact: -0.013815 → LEGITIMATE
+ 9.  and                 | Impact: 0.013082 → PHISHING
+10.  life                | Impact: 0.011802 → PHISHING
+11.  [                   | Impact: -0.011513 → LEGITIMATE
+12.  break               | Impact: 0.011367 → PHISHING
+13.  ]                   | Impact: -0.010652 → LEGITIMATE
+14.  try                 | Impact: 0.009927 → PHISHING
+15. itate                | Impact: -0.009735 → LEGITIMATE
+16.  himself             | Impact: 0.009438 → PHISHING
+17.  ,                   | Impact: -0.008256 → LEGITIMATE
+18.  in                  | Impact: 0.007911 → PHISHING
+19.  when                | Impact: -0.007427 → LEGITIMATE
+20.  [                   | Impact: -0.007185 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  cartoons            | Impact: 0.028802
+ 2.  family              | Impact: 0.024460
+ 3.  killed              | Impact: 0.022019
+ 4.  traps               | Impact: 0.019755
+ 5.  and                 | Impact: 0.013082
+ 6.  life                | Impact: 0.011802
+ 7.  break               | Impact: 0.011367
+ 8.  try                 | Impact: 0.009927
+ 9.  himself             | Impact: 0.009438
+10.  in                  | Impact: 0.007911
+11.  his                 | Impact: 0.006831
+12.  to                  | Impact: 0.005822
+13.  own                 | Impact: 0.005768
+14.  tragic              | Impact: 0.005539
+15.  his                 | Impact: 0.005489
+16.  his                 | Impact: 0.005483
+17.  by                  | Impact: 0.005176
+18.  coyote              | Impact: 0.004657
+19.  is                  | Impact: 0.003603
+20. by                   | Impact: 0.002132
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  guy                 | Impact: -0.027112
+ 2.  .                   | Impact: -0.018051
+ 3.  .                   | Impact: -0.016639
+ 4.  if                  | Impact: -0.013815
+ 5.  [                   | Impact: -0.011513
+ 6.  ]                   | Impact: -0.010652
+ 7. itate                | Impact: -0.009735
+ 8.  ,                   | Impact: -0.008256
+ 9.  when                | Impact: -0.007427
+10.  [                   | Impact: -0.007185
+11.  [                   | Impact: -0.007153
+12.  ]                   | Impact: -0.006524
+13.  ]                   | Impact: -0.006324
+14.  ]                   | Impact: -0.006236
+15.  [                   | Impact: -0.006190
+16. ps                   | Impact: -0.006180
+17.  ]                   | Impact: -0.005315
+18.  )                   | Impact: -0.004802
+19.  link                | Impact: -0.004359
+20.  (                   | Impact: -0.004348

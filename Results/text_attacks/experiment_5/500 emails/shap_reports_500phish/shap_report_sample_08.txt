@@ -1,0 +1,75 @@
+Sample 8
+========
+
+Sample text preview: From:Mrs MOHAMMED. Attn:The Managing Director Before I proceed, may I humbly introduce myself to your goodself, My Name is Mrs. Aisha mohammed, an Ira...
+
+Model prediction: [1.5349315e-04 9.9984646e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.018724 → PHISHING
+ 2.  name                | Impact: 0.018724 → PHISHING
+ 3.  my                  | Impact: 0.018292 → PHISHING
+ 4.  husband             | Impact: 0.018292 → PHISHING
+ 5.  is                  | Impact: 0.012410 → PHISHING
+ 6.  mrs                 | Impact: 0.012410 → PHISHING
+ 7.  husband             | Impact: 0.011201 → PHISHING
+ 8.  position            | Impact: 0.011201 → PHISHING
+ 9.  mrs                 | Impact: 0.010255 → PHISHING
+10.  .                   | Impact: 0.010255 → PHISHING
+11.  in                  | Impact: 0.009142 → PHISHING
+12.  your                | Impact: 0.009142 → PHISHING
+13.  country             | Impact: 0.009142 → PHISHING
+14.  which               | Impact: 0.009142 → PHISHING
+15.  my                  | Impact: 0.008665 → PHISHING
+16.  late                | Impact: 0.008665 → PHISHING
+17.  contact             | Impact: 0.007385 → PHISHING
+18.  you                 | Impact: 0.007385 → PHISHING
+19.  because             | Impact: 0.007385 → PHISHING
+20.  i                   | Impact: 0.007385 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.018724
+ 2.  name                | Impact: 0.018724
+ 3.  my                  | Impact: 0.018292
+ 4.  husband             | Impact: 0.018292
+ 5.  is                  | Impact: 0.012410
+ 6.  mrs                 | Impact: 0.012410
+ 7.  husband             | Impact: 0.011201
+ 8.  position            | Impact: 0.011201
+ 9.  mrs                 | Impact: 0.010255
+10.  .                   | Impact: 0.010255
+11.  in                  | Impact: 0.009142
+12.  your                | Impact: 0.009142
+13.  country             | Impact: 0.009142
+14.  which               | Impact: 0.009142
+15.  my                  | Impact: 0.008665
+16.  late                | Impact: 0.008665
+17.  contact             | Impact: 0.007385
+18.  you                 | Impact: 0.007385
+19.  because             | Impact: 0.007385
+20.  i                   | Impact: 0.007385
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.003437
+ 2.  before              | Impact: -0.002064
+ 3.  i                   | Impact: -0.002064
+ 4.  proceed             | Impact: -0.002064
+ 5.  aid                 | Impact: -0.001065
+ 6.  to                  | Impact: -0.001065
+ 7.  the                 | Impact: -0.001065
+ 8.  president           | Impact: -0.001065
+ 9.  or                  | Impact: -0.000823
+10.  better              | Impact: -0.000823
+11.  still               | Impact: -0.000823
+12.  commit              | Impact: -0.000823
+13.  it                  | Impact: -0.000823
+14.  ,                   | Impact: -0.000590
+15.  of                  | Impact: -0.000539
+16.  your                | Impact: -0.000539
+17.  participation       | Impact: -0.000539
+18.  in                  | Impact: -0.000539
+19.  view                | Impact: -0.000539
+20.  ra                  | Impact: -0.000313

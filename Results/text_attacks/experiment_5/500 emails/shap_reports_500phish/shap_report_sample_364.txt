@@ -1,0 +1,75 @@
+Sample 364
+==========
+
+Sample text preview: <IMG style="BORDER-TOP: px; BORDER-RIGHT: px; BORDER-BOTTOM: px; PADDING-BOTTOM: px; PADDING-TOP: px; PADDING-LEFT: px; BORDER-LEFT: px; DISPLAY: bloc...
+
+Model prediction: [1.6360208e-04 9.9983633e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.042290 → PHISHING
+ 2.  ©                   | Impact: 0.039990 → PHISHING
+ 3.  usa                 | Impact: 0.033369 → PHISHING
+ 4.  <                   | Impact: 0.032678 → PHISHING
+ 5.  your                | Impact: 0.030814 → PHISHING
+ 6.  =                   | Impact: 0.025166 → PHISHING
+ 7.  usa                 | Impact: 0.022078 → PHISHING
+ 8.  usa                 | Impact: 0.021934 → PHISHING
+ 9.  your                | Impact: 0.021614 → PHISHING
+10.  account             | Impact: 0.020013 → PHISHING
+11.  style               | Impact: 0.019985 → PHISHING
+12.  thank               | Impact: 0.017707 → PHISHING
+13.  you                 | Impact: 0.017707 → PHISHING
+14.  safe                | Impact: 0.015941 → PHISHING
+15.  to                  | Impact: 0.015941 → PHISHING
+16.  your                | Impact: 0.015744 → PHISHING
+17.  information         | Impact: 0.014555 → PHISHING
+18.  personal            | Impact: 0.014484 → PHISHING
+19.  on                  | Impact: 0.014010 → PHISHING
+20.  click               | Impact: 0.012536 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.042290
+ 2.  ©                   | Impact: 0.039990
+ 3.  usa                 | Impact: 0.033369
+ 4.  <                   | Impact: 0.032678
+ 5.  your                | Impact: 0.030814
+ 6.  =                   | Impact: 0.025166
+ 7.  usa                 | Impact: 0.022078
+ 8.  usa                 | Impact: 0.021934
+ 9.  your                | Impact: 0.021614
+10.  account             | Impact: 0.020013
+11.  style               | Impact: 0.019985
+12.  thank               | Impact: 0.017707
+13.  you                 | Impact: 0.017707
+14.  safe                | Impact: 0.015941
+15.  to                  | Impact: 0.015941
+16.  your                | Impact: 0.015744
+17.  information         | Impact: 0.014555
+18.  personal            | Impact: 0.014484
+19.  on                  | Impact: 0.014010
+20.  click               | Impact: 0.012536
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  member              | Impact: -0.007545
+ 2.  usa                 | Impact: -0.002342
+ 3. a                    | Impact: -0.002342
+ 4.  ,                   | Impact: -0.001367
+ 5. a                    | Impact: -0.001005
+ 6.  in                  | Impact: -0.000754
+ 7.  :                   | Impact: -0.000754
+ 8.  *                   | Impact: -0.000754
+ 9.  *                   | Impact: -0.000754
+10.  <                   | Impact: -0.000421
+11.  /                   | Impact: -0.000421
+12.  tab                 | Impact: -0.000421
+13. l                    | Impact: -0.000421
+14.  center              | Impact: -0.000421
+15.  <                   | Impact: -0.000421
+16.  >                   | Impact: -0.000421
+17.                      | Impact: -0.000421
+18.  p                   | Impact: -0.000363
+19. x                    | Impact: -0.000363
+20.  ;                   | Impact: -0.000363

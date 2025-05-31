@@ -1,0 +1,75 @@
+Sample 429
+==========
+
+Sample text preview: Dieupeul Villa Dakar,Senegal. Dear Sir, I am Mamadou Sidibie, from Senegal, west Africa.I have contacted you for a possible Investment assistance.I ha...
+
+Model prediction: [1.557618e-04 9.998442e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.051665 → PHISHING
+ 2.  your                | Impact: 0.043458 → PHISHING
+ 3.  country             | Impact: 0.035422 → PHISHING
+ 4.  country             | Impact: 0.034720 → PHISHING
+ 5.  regards             | Impact: 0.028908 → PHISHING
+ 6.  upon                | Impact: 0.027915 → PHISHING
+ 7.  you                 | Impact: 0.027540 → PHISHING
+ 8.  dear                | Impact: 0.025990 → PHISHING
+ 9.  your                | Impact: 0.022395 → PHISHING
+10.  mama                | Impact: 0.021208 → PHISHING
+11.  sid                 | Impact: 0.020944 → PHISHING
+12. ib                   | Impact: 0.020944 → PHISHING
+13.  best                | Impact: 0.020228 → PHISHING
+14. dou                  | Impact: 0.018784 → PHISHING
+15.  sir                 | Impact: 0.018235 → PHISHING
+16.  contacted           | Impact: 0.018122 → PHISHING
+17.  in                  | Impact: 0.018069 → PHISHING
+18.  your                | Impact: 0.014213 → PHISHING
+19.  mutual              | Impact: 0.014213 → PHISHING
+20.  interest            | Impact: 0.014213 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.051665
+ 2.  your                | Impact: 0.043458
+ 3.  country             | Impact: 0.035422
+ 4.  country             | Impact: 0.034720
+ 5.  regards             | Impact: 0.028908
+ 6.  upon                | Impact: 0.027915
+ 7.  you                 | Impact: 0.027540
+ 8.  dear                | Impact: 0.025990
+ 9.  your                | Impact: 0.022395
+10.  mama                | Impact: 0.021208
+11.  sid                 | Impact: 0.020944
+12. ib                   | Impact: 0.020944
+13.  best                | Impact: 0.020228
+14. dou                  | Impact: 0.018784
+15.  sir                 | Impact: 0.018235
+16.  contacted           | Impact: 0.018122
+17.  in                  | Impact: 0.018069
+18.  your                | Impact: 0.014213
+19.  mutual              | Impact: 0.014213
+20.  interest            | Impact: 0.014213
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  reply               | Impact: -0.006747
+ 2.  ,                   | Impact: -0.001994
+ 3.  plan                | Impact: -0.001836
+ 4. ing                  | Impact: -0.001836
+ 5.  a                   | Impact: -0.001836
+ 6.  minister            | Impact: -0.001836
+ 7.  of                  | Impact: -0.001836
+ 8.  i                   | Impact: -0.001500
+ 9.  am                  | Impact: -0.001500
+10.  still               | Impact: -0.001500
+11.  serving             | Impact: -0.001500
+12.  .                   | Impact: -0.001279
+13.  waiting             | Impact: -0.001249
+14.  for                 | Impact: -0.001249
+15.  and                 | Impact: -0.000713
+16.  development         | Impact: -0.000713
+17.  ,                   | Impact: -0.000713
+18.  com                 | Impact: -0.000696
+19. mu                   | Impact: -0.000696
+20. cation               | Impact: -0.000696

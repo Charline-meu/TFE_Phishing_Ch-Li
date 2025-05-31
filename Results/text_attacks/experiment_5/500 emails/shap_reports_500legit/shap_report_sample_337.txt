@@ -1,0 +1,75 @@
+Sample 337
+==========
+
+Sample text preview: Fossil &#;&zwnj; &#;&zwnj; &#;&zwnj; &#;&zwnj; &#;&zwnj; &#;&zwnj; &#;&zwnj; &#;&zwnj; &#;&zwnj; &#;&zwnj; &#;&zwnj; &#;&zwnj; &#;&zwnj; &#;&zwnj; &#;...
+
+Model prediction: [9.9973124e-01 2.6878662e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  z                   | Impact: -0.002465 → LEGITIMATE
+ 2. wn                   | Impact: -0.002465 → LEGITIMATE
+ 3. j                    | Impact: -0.002465 → LEGITIMATE
+ 4.  ;                   | Impact: -0.002465 → LEGITIMATE
+ 5.  &                   | Impact: -0.002465 → LEGITIMATE
+ 6.  #                   | Impact: -0.002436 → LEGITIMATE
+ 7.  ;                   | Impact: -0.002436 → LEGITIMATE
+ 8.  &                   | Impact: -0.002436 → LEGITIMATE
+ 9.  #                   | Impact: -0.001552 → LEGITIMATE
+10.  ;                   | Impact: -0.001552 → LEGITIMATE
+11.  &                   | Impact: -0.001552 → LEGITIMATE
+12.  #                   | Impact: -0.001540 → LEGITIMATE
+13.  ;                   | Impact: -0.001540 → LEGITIMATE
+14.  &                   | Impact: -0.001540 → LEGITIMATE
+15.  ;                   | Impact: -0.001540 → LEGITIMATE
+16.  &                   | Impact: -0.001540 → LEGITIMATE
+17.  z                   | Impact: -0.001540 → LEGITIMATE
+18. wn                   | Impact: -0.001540 → LEGITIMATE
+19. j                    | Impact: -0.001540 → LEGITIMATE
+20.  z                   | Impact: -0.001534 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  #                   | Impact: 0.001488
+ 2.  ;                   | Impact: 0.001488
+ 3.  &                   | Impact: 0.001488
+ 4.  z                   | Impact: 0.001470
+ 5. wn                   | Impact: 0.001470
+ 6. j                    | Impact: 0.001470
+ 7.  ;                   | Impact: 0.001470
+ 8.  &                   | Impact: 0.001470
+ 9.  z                   | Impact: 0.001283
+10. wn                   | Impact: 0.001283
+11. j                    | Impact: 0.001283
+12.  ;                   | Impact: 0.001283
+13.  &                   | Impact: 0.001283
+14.  #                   | Impact: 0.001283
+15.  ;                   | Impact: 0.001283
+16.  &                   | Impact: 0.001283
+17.  z                   | Impact: 0.001185
+18. wn                   | Impact: 0.001185
+19. j                    | Impact: 0.001185
+20.  ;                   | Impact: 0.001185
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  z                   | Impact: -0.002465
+ 2. wn                   | Impact: -0.002465
+ 3. j                    | Impact: -0.002465
+ 4.  ;                   | Impact: -0.002465
+ 5.  &                   | Impact: -0.002465
+ 6.  #                   | Impact: -0.002436
+ 7.  ;                   | Impact: -0.002436
+ 8.  &                   | Impact: -0.002436
+ 9.  #                   | Impact: -0.001552
+10.  ;                   | Impact: -0.001552
+11.  &                   | Impact: -0.001552
+12.  #                   | Impact: -0.001540
+13.  ;                   | Impact: -0.001540
+14.  &                   | Impact: -0.001540
+15.  ;                   | Impact: -0.001540
+16.  &                   | Impact: -0.001540
+17.  z                   | Impact: -0.001540
+18. wn                   | Impact: -0.001540
+19. j                    | Impact: -0.001540
+20.  z                   | Impact: -0.001534

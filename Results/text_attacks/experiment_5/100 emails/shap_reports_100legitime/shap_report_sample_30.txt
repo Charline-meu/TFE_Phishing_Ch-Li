@@ -1,0 +1,75 @@
+Phishing Sample 30
+==================
+
+Sample text preview: On Tue, Aug :: CDT, Chris Garrigues said: > For those who have other sequences defined, the window will widen to display > the other sequences. Prefer...
+
+Model prediction: [9.9979693e-01 2.0304212e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.009882 → LEGITIMATE
+ 2.  *                   | Impact: 0.009509 → PHISHING
+ 3.  sequence            | Impact: -0.009464 → LEGITIMATE
+ 4.  to                  | Impact: 0.009260 → PHISHING
+ 5.  i                   | Impact: -0.008616 → LEGITIMATE
+ 6.  systems             | Impact: -0.008476 → LEGITIMATE
+ 7.  -                   | Impact: -0.007711 → LEGITIMATE
+ 8.  preferences         | Impact: -0.006400 → LEGITIMATE
+ 9.  ever                | Impact: 0.006012 → PHISHING
+10. h                    | Impact: -0.005461 → LEGITIMATE
+11.  computer            | Impact: -0.004481 → LEGITIMATE
+12. e                    | Impact: -0.004398 → LEGITIMATE
+13.  unseen              | Impact: 0.003795 → PHISHING
+14.  ps                  | Impact: -0.003742 → LEGITIMATE
+15.  say                 | Impact: -0.003508 → LEGITIMATE
+16.  you                 | Impact: 0.003221 → PHISHING
+17.  .                   | Impact: 0.003111 → PHISHING
+18.  if                  | Impact: -0.003082 → LEGITIMATE
+19. q                    | Impact: -0.003056 → LEGITIMATE
+20.  allow               | Impact: -0.003022 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  *                   | Impact: 0.009509
+ 2.  to                  | Impact: 0.009260
+ 3.  ever                | Impact: 0.006012
+ 4.  unseen              | Impact: 0.003795
+ 5.  you                 | Impact: 0.003221
+ 6.  .                   | Impact: 0.003111
+ 7.  *                   | Impact: 0.002924
+ 8.  k                   | Impact: 0.002781
+ 9.  not                 | Impact: 0.002374
+10.  to                  | Impact: 0.002058
+11.  a                   | Impact: 0.001941
+12.  has                 | Impact: 0.001917
+13.  .                   | Impact: 0.001819
+14. ks                   | Impact: 0.001775
+15.  big                 | Impact: 0.001766
+16.  box                 | Impact: 0.001189
+17.  that                | Impact: 0.001189
+18. dis                  | Impact: 0.001135
+19.  looking             | Impact: 0.000948
+20.  get                 | Impact: 0.000932
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.009882
+ 2.  sequence            | Impact: -0.009464
+ 3.  i                   | Impact: -0.008616
+ 4.  systems             | Impact: -0.008476
+ 5.  -                   | Impact: -0.007711
+ 6.  preferences         | Impact: -0.006400
+ 7. h                    | Impact: -0.005461
+ 8.  computer            | Impact: -0.004481
+ 9. e                    | Impact: -0.004398
+10.  ps                  | Impact: -0.003742
+11.  say                 | Impact: -0.003508
+12.  if                  | Impact: -0.003082
+13. q                    | Impact: -0.003056
+14.  allow               | Impact: -0.003022
+15.  >                   | Impact: -0.002948
+16.  ?                   | Impact: -0.002909
+17.  a                   | Impact: -0.002605
+18.  sequence            | Impact: -0.002352
+19.  >                   | Impact: -0.002347
+20.  tried               | Impact: -0.001907

@@ -1,0 +1,66 @@
+Phishing Sample 91
+==================
+
+Sample text preview: To ensure delivery to your inbox, please add to your address book. Account Information Update View Accounts | Privacy Promise | Contact Us USAA SECURI...
+
+Model prediction: [1.8130639e-04 9.9981874e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  visit               | Impact: 0.036910 → PHISHING
+ 2.  usa                 | Impact: 0.032156 → PHISHING
+ 3.  your                | Impact: 0.029743 → PHISHING
+ 4.  contact             | Impact: 0.029293 → PHISHING
+ 5.  secure              | Impact: 0.022161 → PHISHING
+ 6.  address             | Impact: 0.019565 → PHISHING
+ 7.  our                 | Impact: 0.018133 → PHISHING
+ 8.  all                 | Impact: 0.017786 → PHISHING
+ 9.  your                | Impact: 0.017786 → PHISHING
+10.  financial           | Impact: 0.016808 → PHISHING
+11.  needs               | Impact: 0.016808 → PHISHING
+12.  contact             | Impact: 0.016299 → PHISHING
+13.  business            | Impact: 0.015459 → PHISHING
+14.  road                | Impact: 0.015007 → PHISHING
+15.  sign                | Impact: 0.014033 → PHISHING
+16.  address             | Impact: 0.013519 → PHISHING
+17.  delivery            | Impact: 0.013445 → PHISHING
+18.  on                  | Impact: 0.012682 → PHISHING
+19.  mail                | Impact: 0.012129 → PHISHING
+20.  ensure              | Impact: 0.011202 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  visit               | Impact: 0.036910
+ 2.  usa                 | Impact: 0.032156
+ 3.  your                | Impact: 0.029743
+ 4.  contact             | Impact: 0.029293
+ 5.  secure              | Impact: 0.022161
+ 6.  address             | Impact: 0.019565
+ 7.  our                 | Impact: 0.018133
+ 8.  all                 | Impact: 0.017786
+ 9.  your                | Impact: 0.017786
+10.  financial           | Impact: 0.016808
+11.  needs               | Impact: 0.016808
+12.  contact             | Impact: 0.016299
+13.  business            | Impact: 0.015459
+14.  road                | Impact: 0.015007
+15.  sign                | Impact: 0.014033
+16.  address             | Impact: 0.013519
+17.  delivery            | Impact: 0.013445
+18.  on                  | Impact: 0.012682
+19.  mail                | Impact: 0.012129
+20.  ensure              | Impact: 0.011202
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.008929
+ 2.  book                | Impact: -0.005511
+ 3.  tx                  | Impact: -0.005012
+ 4.  ,                   | Impact: -0.002188
+ 5.  .                   | Impact: -0.001925
+ 6.  com                 | Impact: -0.001341
+ 7.  .                   | Impact: -0.001341
+ 8.  so                  | Impact: -0.000179
+ 9.  you                 | Impact: -0.000179
+10.  can                 | Impact: -0.000179
+11.  enjoy               | Impact: -0.000179

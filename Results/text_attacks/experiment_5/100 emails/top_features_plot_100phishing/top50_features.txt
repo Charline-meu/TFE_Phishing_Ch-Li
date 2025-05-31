@@ -1,0 +1,53 @@
+Top 50 Most Influential Features Across All Emails:
+Rank | Feature | Total Impact | Direction
+--------------------------------------------------
+ 1. your | 2.432135 | PHISHING
+ 2. dear | 1.395663 | PHISHING
+ 3. you | 1.120867 | PHISHING
+ 4. account | 1.073964 | PHISHING
+ 5. to | 0.732069 | PHISHING
+ 6. this | 0.441585 | PHISHING
+ 7. money | 0.375432 | PHISHING
+ 8. © | 0.342961 | PHISHING
+ 9. mr | 0.328069 | PHISHING
+10. mail | 0.324327 | PHISHING
+11. contact | 0.301540 | PHISHING
+12. email | 0.292174 | PHISHING
+13. in | 0.274763 | PHISHING
+14. be | 0.264863 | PHISHING
+15. free | 0.264560 | PHISHING
+16. ! | 0.263416 | PHISHING
+17. my | 0.261443 | PHISHING
+18. . | 0.254367 | PHISHING
+19. is | 0.246420 | PHISHING
+20. bank | 0.244614 | PHISHING
+21. will | 0.231582 | PHISHING
+22. message | 0.224899 | PHISHING
+23. folder | 0.219845 | PHISHING
+24. the | 0.216287 | PHISHING
+25. of | 0.212663 | PHISHING
+26. our | 0.210541 | PHISHING
+27. messages | 0.210510 | PHISHING
+28. us | 0.206480 | PHISHING
+29. name | 0.206182 | PHISHING
+30. click | 0.190770 | PHISHING
+31. [EMPTY] | 0.187605 | PHISHING
+32. pending | 0.183592 | PHISHING
+33. for | 0.182554 | PHISHING
+34. notification | 0.179589 | PHISHING
+35. mohammed | 0.174573 | PHISHING
+36. , | 0.170770 | PHISHING
+37. below | 0.169673 | PHISHING
+38. org | 0.165854 | PHISHING
+39. sincerely | 0.162824 | PHISHING
+40. release | 0.162232 | PHISHING
+41. please | 0.157831 | PHISHING
+42. / | -0.154074 | LEGITIMATE
+43. delivered | 0.152845 | PHISHING
+44. country | 0.150962 | PHISHING
+45. address | 0.135382 | PHISHING
+46. - | -0.131948 | LEGITIMATE
+47. as | 0.131659 | PHISHING
+48. transfer | 0.129554 | PHISHING
+49. automatically | 0.126502 | PHISHING
+50. information | 0.125322 | PHISHING

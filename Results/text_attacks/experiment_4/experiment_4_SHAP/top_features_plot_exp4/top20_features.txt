@@ -1,0 +1,23 @@
+Top 20 Most Influential Features Across All Emails:
+Rank | Feature | Total Impact | Direction
+--------------------------------------------------
+ 1. your | 0.627159 | PHISHING
+ 2. preferences | -0.594348 | LEGITIMATE
+ 3. you | 0.375940 | PHISHING
+ 4. message | 0.289368 | PHISHING
+ 5. security | 0.256594 | PHISHING
+ 6. to | 0.216140 | PHISHING
+ 7. account | 0.211888 | PHISHING
+ 8. business | 0.187508 | PHISHING
+ 9. registered | 0.186566 | PHISHING
+10. dear | 0.177193 | PHISHING
+11. settings | 0.164119 | PHISHING
+12. document | 0.136638 | PHISHING
+13. . | 0.127414 | PHISHING
+14. alert | 0.121769 | PHISHING
+15. available | 0.104769 | PHISHING
+16. view | 0.103596 | PHISHING
+17. click | 0.100853 | PHISHING
+18. hello | 0.100348 | PHISHING
+19. with | 0.096582 | PHISHING
+20. file | 0.096348 | PHISHING

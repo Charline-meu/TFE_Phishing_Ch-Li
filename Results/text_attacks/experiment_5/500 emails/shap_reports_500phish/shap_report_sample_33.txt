@@ -1,0 +1,75 @@
+Sample 33
+=========
+
+Sample text preview: Attn :......... RE: TRANSFER OF ,,. I am quite Sure that this mail Will come to you as a surprise Since I have not been having previous correspondence...
+
+Model prediction: [1.4738101e-04 9.9985254e-01]
+Predicted class: PHISHING with 0.9999 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  million             | Impact: 0.024834 → PHISHING
+ 2.  pounds              | Impact: 0.024834 → PHISHING
+ 3.  mr                  | Impact: 0.017187 → PHISHING
+ 4.  .                   | Impact: 0.017187 → PHISHING
+ 5.  fifty               | Impact: 0.015122 → PHISHING
+ 6.  six                 | Impact: 0.015122 → PHISHING
+ 7.  contact             | Impact: 0.014717 → PHISHING
+ 8.  me                  | Impact: 0.014717 → PHISHING
+ 9.  you                 | Impact: 0.012790 → PHISHING
+10.  can                 | Impact: 0.012790 → PHISHING
+11.  :                   | Impact: -0.012747 → LEGITIMATE
+12.  yours               | Impact: 0.010758 → PHISHING
+13.  faithful            | Impact: 0.010758 → PHISHING
+14. ly                   | Impact: 0.010758 → PHISHING
+15.  ,                   | Impact: 0.010758 → PHISHING
+16.  .                   | Impact: -0.008996 → LEGITIMATE
+17.  fifty               | Impact: 0.007814 → PHISHING
+18.  six                 | Impact: 0.007814 → PHISHING
+19.  million             | Impact: 0.007814 → PHISHING
+20.  pounds              | Impact: 0.007814 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  million             | Impact: 0.024834
+ 2.  pounds              | Impact: 0.024834
+ 3.  mr                  | Impact: 0.017187
+ 4.  .                   | Impact: 0.017187
+ 5.  fifty               | Impact: 0.015122
+ 6.  six                 | Impact: 0.015122
+ 7.  contact             | Impact: 0.014717
+ 8.  me                  | Impact: 0.014717
+ 9.  you                 | Impact: 0.012790
+10.  can                 | Impact: 0.012790
+11.  yours               | Impact: 0.010758
+12.  faithful            | Impact: 0.010758
+13. ly                   | Impact: 0.010758
+14.  ,                   | Impact: 0.010758
+15.  fifty               | Impact: 0.007814
+16.  six                 | Impact: 0.007814
+17.  million             | Impact: 0.007814
+18.  pounds              | Impact: 0.007814
+19.  aside               | Impact: 0.007469
+20.  for                 | Impact: 0.007469
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.012747
+ 2.  .                   | Impact: -0.008996
+ 3.  andy                | Impact: -0.005641
+ 4.  horn                | Impact: -0.005641
+ 5. by                   | Impact: -0.005641
+ 6. marks                | Impact: -0.005639
+ 7.  book                | Impact: -0.003905
+ 8.  .                   | Impact: -0.003436
+ 9.  -                   | Impact: -0.002389
+10.  -                   | Impact: -0.002389
+11.  -                   | Impact: -0.002389
+12.  -                   | Impact: -0.002389
+13.  -                   | Impact: -0.002103
+14.  -                   | Impact: -0.002103
+15.  -                   | Impact: -0.002103
+16.  -                   | Impact: -0.002103
+17.  -                   | Impact: -0.001930
+18.  -                   | Impact: -0.001930
+19.  -                   | Impact: -0.001930
+20.  -                   | Impact: -0.001930

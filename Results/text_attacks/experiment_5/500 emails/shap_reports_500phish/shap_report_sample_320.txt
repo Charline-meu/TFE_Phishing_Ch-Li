@@ -1,0 +1,58 @@
+Sample 320
+==========
+
+Sample text preview: FROM RITA GUEI Abidjan cote D`Ivoire West Africa. Dearest One, I am the first duaghter of an ex military/ex president been an opposition party to the ...
+
+Model prediction: [1.9807766e-04 9.9980193e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  awaiting            | Impact: 0.009473 → PHISHING
+ 2.  to                  | Impact: 0.009473 → PHISHING
+ 3.  hear                | Impact: 0.009473 → PHISHING
+ 4.  from                | Impact: 0.009473 → PHISHING
+ 5.  you                 | Impact: 0.009473 → PHISHING
+ 6.  before              | Impact: 0.009372 → PHISHING
+ 7.  i                   | Impact: 0.009372 → PHISHING
+ 8.  even                | Impact: 0.009372 → PHISHING
+ 9.  pick                | Impact: 0.009372 → PHISHING
+10.  you                 | Impact: 0.009372 → PHISHING
+11.  to                  | Impact: 0.009372 → PHISHING
+12.  assist              | Impact: 0.009372 → PHISHING
+13.  me                  | Impact: 0.009372 → PHISHING
+14.  i                   | Impact: 0.008949 → PHISHING
+15.  have                | Impact: 0.008949 → PHISHING
+16.  prayed              | Impact: 0.008949 → PHISHING
+17.  and                 | Impact: 0.008949 → PHISHING
+18.  me                  | Impact: 0.008456 → PHISHING
+19.  a                   | Impact: 0.008456 → PHISHING
+20.  god                 | Impact: 0.008456 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  awaiting            | Impact: 0.009473
+ 2.  to                  | Impact: 0.009473
+ 3.  hear                | Impact: 0.009473
+ 4.  from                | Impact: 0.009473
+ 5.  you                 | Impact: 0.009473
+ 6.  before              | Impact: 0.009372
+ 7.  i                   | Impact: 0.009372
+ 8.  even                | Impact: 0.009372
+ 9.  pick                | Impact: 0.009372
+10.  you                 | Impact: 0.009372
+11.  to                  | Impact: 0.009372
+12.  assist              | Impact: 0.009372
+13.  me                  | Impact: 0.009372
+14.  i                   | Impact: 0.008949
+15.  have                | Impact: 0.008949
+16.  prayed              | Impact: 0.008949
+17.  and                 | Impact: 0.008949
+18.  me                  | Impact: 0.008456
+19.  a                   | Impact: 0.008456
+20.  god                 | Impact: 0.008456
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  mu                  | Impact: -0.001163
+ 2. sd                   | Impact: -0.001163
+ 3.  .                   | Impact: -0.001163

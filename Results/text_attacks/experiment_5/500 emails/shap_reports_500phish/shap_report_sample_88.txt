@@ -1,0 +1,75 @@
+Sample 88
+=========
+
+Sample text preview: From: Mr. Frank Williams. Gulf Bank Nig,plc. Head Office,Plot , tijian bello Street, Victoria Island.P.M.B , Lagos . Attn: Sir, I know that you must h...
+
+Model prediction: [1.7089298e-04 9.9982905e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  claim               | Impact: 0.022081 → PHISHING
+ 2.  this                | Impact: 0.022081 → PHISHING
+ 3.  fund                | Impact: 0.022081 → PHISHING
+ 4.  be                  | Impact: 0.022081 → PHISHING
+ 5.  by                  | Impact: 0.022081 → PHISHING
+ 6.  your                | Impact: 0.022081 → PHISHING
+ 7.  side                | Impact: 0.022081 → PHISHING
+ 8.  as                  | Impact: 0.022081 → PHISHING
+ 9.  you                 | Impact: 0.022081 → PHISHING
+10.  and                 | Impact: 0.012003 → PHISHING
+11.  i                   | Impact: 0.012003 → PHISHING
+12.  and                 | Impact: 0.012003 → PHISHING
+13.  i                   | Impact: 0.007543 → PHISHING
+14.  and                 | Impact: 0.007543 → PHISHING
+15.  my                  | Impact: 0.007543 → PHISHING
+16.  partner             | Impact: 0.007543 → PHISHING
+17.  will                | Impact: 0.007543 → PHISHING
+18.  strongly            | Impact: 0.007543 → PHISHING
+19.  the                 | Impact: 0.004229 → PHISHING
+20.  next                | Impact: 0.004229 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  claim               | Impact: 0.022081
+ 2.  this                | Impact: 0.022081
+ 3.  fund                | Impact: 0.022081
+ 4.  be                  | Impact: 0.022081
+ 5.  by                  | Impact: 0.022081
+ 6.  your                | Impact: 0.022081
+ 7.  side                | Impact: 0.022081
+ 8.  as                  | Impact: 0.022081
+ 9.  you                 | Impact: 0.022081
+10.  and                 | Impact: 0.012003
+11.  i                   | Impact: 0.012003
+12.  and                 | Impact: 0.012003
+13.  i                   | Impact: 0.007543
+14.  and                 | Impact: 0.007543
+15.  my                  | Impact: 0.007543
+16.  partner             | Impact: 0.007543
+17.  will                | Impact: 0.007543
+18.  strongly            | Impact: 0.007543
+19.  the                 | Impact: 0.004229
+20.  next                | Impact: 0.004229
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  metal               | Impact: -0.000868
+ 2.  trunk               | Impact: -0.000868
+ 3.  boxes               | Impact: -0.000868
+ 4.  as                  | Impact: -0.000868
+ 5.  photographic        | Impact: -0.000868
+ 6.  materials           | Impact: -0.000868
+ 7.  .                   | Impact: -0.000868
+ 8.  as                  | Impact: -0.000451
+ 9.  the                 | Impact: -0.000451
+10.  head                | Impact: -0.000451
+11.  of                  | Impact: -0.000451
+12.  accounts            | Impact: -0.000451
+13.  department          | Impact: -0.000451
+14.  of                  | Impact: -0.000451
+15.  gb                  | Impact: -0.000451
+16. np                   | Impact: -0.000451
+17.  ,                   | Impact: -0.000451
+18.  it                  | Impact: -0.000384
+19.  was                 | Impact: -0.000384
+20.  (                   | Impact: -0.000384

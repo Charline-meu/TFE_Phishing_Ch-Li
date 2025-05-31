@@ -1,0 +1,69 @@
+Sample 35
+=========
+
+Sample text preview: URL: Date: --T::+: *Media:* BBC and Sky-backed service will be launched at the end of this month with free channels.
+
+Model prediction: [9.996402e-01 3.597845e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ur                  | Impact: -0.196306 → LEGITIMATE
+ 2. l                    | Impact: -0.146518 → LEGITIMATE
+ 3.  free                | Impact: 0.093080 → PHISHING
+ 4.  launched            | Impact: 0.087148 → PHISHING
+ 5.  date                | Impact: -0.057025 → LEGITIMATE
+ 6.  channels            | Impact: 0.055808 → PHISHING
+ 7.  service             | Impact: 0.049313 → PHISHING
+ 8.  :                   | Impact: -0.048460 → LEGITIMATE
+ 9.  backed              | Impact: 0.046560 → PHISHING
+10.  will                | Impact: 0.032887 → PHISHING
+11.  :                   | Impact: -0.031602 → LEGITIMATE
+12.  be                  | Impact: 0.028984 → PHISHING
+13.  month               | Impact: 0.015168 → PHISHING
+14.  end                 | Impact: 0.015044 → PHISHING
+15.  .                   | Impact: 0.014361 → PHISHING
+16.  -                   | Impact: -0.013033 → LEGITIMATE
+17.  -                   | Impact: 0.011952 → PHISHING
+18.  +                   | Impact: 0.007671 → PHISHING
+19.  sky                 | Impact: 0.007624 → PHISHING
+20.  this                | Impact: 0.007392 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  free                | Impact: 0.093080
+ 2.  launched            | Impact: 0.087148
+ 3.  channels            | Impact: 0.055808
+ 4.  service             | Impact: 0.049313
+ 5.  backed              | Impact: 0.046560
+ 6.  will                | Impact: 0.032887
+ 7.  be                  | Impact: 0.028984
+ 8.  month               | Impact: 0.015168
+ 9.  end                 | Impact: 0.015044
+10.  .                   | Impact: 0.014361
+11.  -                   | Impact: 0.011952
+12.  +                   | Impact: 0.007671
+13.  sky                 | Impact: 0.007624
+14.  this                | Impact: 0.007392
+15.  the                 | Impact: 0.005306
+16.  bbc                 | Impact: 0.002748
+17.  :                   | Impact: 0.001705
+18.  *                   | Impact: 0.001705
+19.  and                 | Impact: 0.001282
+20.  -                   | Impact: 0.000258
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ur                  | Impact: -0.196306
+ 2. l                    | Impact: -0.146518
+ 3.  date                | Impact: -0.057025
+ 4.  :                   | Impact: -0.048460
+ 5.  :                   | Impact: -0.031602
+ 6.  -                   | Impact: -0.013033
+ 7.  at                  | Impact: -0.003946
+ 8.  with                | Impact: -0.003434
+ 9.  media               | Impact: -0.002141
+10.  *                   | Impact: -0.000923
+11.  :                   | Impact: -0.000646
+12.                      | Impact: -0.000201
+13.  of                  | Impact: -0.000056
+14.                      | Impact: -0.000000

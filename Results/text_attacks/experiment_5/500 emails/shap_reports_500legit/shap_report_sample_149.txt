@@ -1,0 +1,75 @@
+Sample 149
+==========
+
+Sample text preview: URL: Date: Not supplied Curcumin, the chemical that makes curry yellow, turns out to be a good compound for treating radiation burns resulting from ca...
+
+Model prediction: [9.9975020e-01 2.4985068e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  curry               | Impact: -0.032520 → LEGITIMATE
+ 2.  chemical            | Impact: 0.031712 → PHISHING
+ 3.  .                   | Impact: -0.026060 → LEGITIMATE
+ 4.  good                | Impact: -0.024137 → LEGITIMATE
+ 5.  ur                  | Impact: -0.022579 → LEGITIMATE
+ 6.  compound            | Impact: 0.019657 → PHISHING
+ 7.  date                | Impact: -0.019517 → LEGITIMATE
+ 8.  cancer              | Impact: 0.017568 → PHISHING
+ 9.  resulting           | Impact: 0.015417 → PHISHING
+10.  supplied            | Impact: 0.013611 → PHISHING
+11.  therapy             | Impact: 0.012725 → PHISHING
+12. l                    | Impact: -0.012164 → LEGITIMATE
+13.  be                  | Impact: 0.011798 → PHISHING
+14.  cu                  | Impact: 0.011590 → PHISHING
+15. n                    | Impact: 0.011109 → PHISHING
+16.  :                   | Impact: -0.010918 → LEGITIMATE
+17.  :                   | Impact: -0.010441 → LEGITIMATE
+18.  turns               | Impact: -0.009506 → LEGITIMATE
+19.  _                   | Impact: -0.008129 → LEGITIMATE
+20.  that                | Impact: -0.006776 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  chemical            | Impact: 0.031712
+ 2.  compound            | Impact: 0.019657
+ 3.  cancer              | Impact: 0.017568
+ 4.  resulting           | Impact: 0.015417
+ 5.  supplied            | Impact: 0.013611
+ 6.  therapy             | Impact: 0.012725
+ 7.  be                  | Impact: 0.011798
+ 8.  cu                  | Impact: 0.011590
+ 9. n                    | Impact: 0.011109
+10.  to                  | Impact: 0.006704
+11.  the                 | Impact: 0.005272
+12.  yellow              | Impact: 0.003571
+13.  ,                   | Impact: 0.003262
+14.  )                   | Impact: 0.002497
+15.  from                | Impact: 0.002359
+16.  [                   | Impact: 0.002079
+17.  cheryl              | Impact: 0.001568
+18.  a                   | Impact: 0.000811
+19.  not                 | Impact: 0.000714
+20.  !                   | Impact: 0.000508
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  curry               | Impact: -0.032520
+ 2.  .                   | Impact: -0.026060
+ 3.  good                | Impact: -0.024137
+ 4.  ur                  | Impact: -0.022579
+ 5.  date                | Impact: -0.019517
+ 6. l                    | Impact: -0.012164
+ 7.  :                   | Impact: -0.010918
+ 8.  :                   | Impact: -0.010441
+ 9.  turns               | Impact: -0.009506
+10.  _                   | Impact: -0.008129
+11.  that                | Impact: -0.006776
+12.  burns               | Impact: -0.005949
+13.  makes               | Impact: -0.005592
+14. umi                  | Impact: -0.004592
+15.  treating            | Impact: -0.004573
+16.  ]                   | Impact: -0.004396
+17. rc                   | Impact: -0.004174
+18.  [                   | Impact: -0.004044
+19.  ]                   | Impact: -0.003368
+20.  radiation           | Impact: -0.003249

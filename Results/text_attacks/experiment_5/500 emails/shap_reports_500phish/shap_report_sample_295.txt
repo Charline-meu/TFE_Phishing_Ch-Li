@@ -1,0 +1,75 @@
+Sample 295
+==========
+
+Sample text preview: THANKS IN ANTICIPATION, I am Barr. Charles Brown, A Canadian Attorney based in Manchester, United Kingdom and the personal attorney to Late Mr. Mark M...
+
+Model prediction: [1.6130338e-04 9.9983871e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.034831 → PHISHING
+ 2.  his                 | Impact: 0.009437 → PHISHING
+ 3.  relatives           | Impact: 0.009437 → PHISHING
+ 4.  late                | Impact: 0.008904 → PHISHING
+ 5.  your                | Impact: 0.008691 → PHISHING
+ 6.  residential         | Impact: 0.008691 → PHISHING
+ 7.  address             | Impact: 0.008691 → PHISHING
+ 8.  .                   | Impact: 0.008691 → PHISHING
+ 9.  late                | Impact: 0.008173 → PHISHING
+10.  mr                  | Impact: 0.008173 → PHISHING
+11.  .                   | Impact: 0.008173 → PHISHING
+12.  .                   | Impact: 0.007454 → PHISHING
+13.  the                 | Impact: 0.006668 → PHISHING
+14.  personal            | Impact: 0.006668 → PHISHING
+15.  attorney            | Impact: 0.006668 → PHISHING
+16.  to                  | Impact: 0.006668 → PHISHING
+17.  further             | Impact: 0.005778 → PHISHING
+18.  details             | Impact: 0.005778 → PHISHING
+19.  await               | Impact: 0.005778 → PHISHING
+20.  you                 | Impact: 0.005778 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.034831
+ 2.  his                 | Impact: 0.009437
+ 3.  relatives           | Impact: 0.009437
+ 4.  late                | Impact: 0.008904
+ 5.  your                | Impact: 0.008691
+ 6.  residential         | Impact: 0.008691
+ 7.  address             | Impact: 0.008691
+ 8.  .                   | Impact: 0.008691
+ 9.  late                | Impact: 0.008173
+10.  mr                  | Impact: 0.008173
+11.  .                   | Impact: 0.008173
+12.  .                   | Impact: 0.007454
+13.  the                 | Impact: 0.006668
+14.  personal            | Impact: 0.006668
+15.  attorney            | Impact: 0.006668
+16.  to                  | Impact: 0.006668
+17.  further             | Impact: 0.005778
+18.  details             | Impact: 0.005778
+19.  await               | Impact: 0.005778
+20.  you                 | Impact: 0.005778
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.002848
+ 2.  thanks              | Impact: -0.002848
+ 3.  in                  | Impact: -0.002848
+ 4.  anticipation        | Impact: -0.002848
+ 5.  ,                   | Impact: -0.002848
+ 6.  .                   | Impact: -0.001605
+ 7.  i                   | Impact: -0.001605
+ 8.  am                  | Impact: -0.001605
+ 9.  barr                | Impact: -0.001605
+10.  bar                 | Impact: -0.001288
+11.  .                   | Impact: -0.001288
+12.  this                | Impact: -0.000848
+13.  is                  | Impact: -0.000848
+14.  a                   | Impact: -0.000848
+15.  very                | Impact: -0.000848
+16.  legal               | Impact: -0.000258
+17.  business            | Impact: -0.000258
+18.  that                | Impact: -0.000258
+19.  i                   | Impact: -0.000258
+20.  i                   | Impact: -0.000013

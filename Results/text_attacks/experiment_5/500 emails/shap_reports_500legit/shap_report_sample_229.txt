@@ -1,0 +1,75 @@
+Sample 229
+==========
+
+Sample text preview: On Thu, Sep , at ::PM -, Jeremy Kusnetz wrote: > When running: > spamc -c < sample-spam.txt > I get: ./. Which looks correct, BUT > doing an echo $?, ...
+
+Model prediction: [9.9977762e-01 2.2236863e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.014695 → LEGITIMATE
+ 2.  -                   | Impact: -0.014256 → LEGITIMATE
+ 3.  response            | Impact: -0.011802 → LEGITIMATE
+ 4.  the                 | Impact: -0.011746 → LEGITIMATE
+ 5.  generated           | Impact: -0.011165 → LEGITIMATE
+ 6.  removed             | Impact: 0.011053 → PHISHING
+ 7.  [                   | Impact: -0.010666 → LEGITIMATE
+ 8.  ]                   | Impact: -0.010036 → LEGITIMATE
+ 9.  randomly            | Impact: -0.007861 → LEGITIMATE
+10.  pu                  | Impact: 0.007218 → PHISHING
+11.  check               | Impact: 0.005723 → PHISHING
+12.  u                   | Impact: 0.005264 → PHISHING
+13. oy                   | Impact: 0.005264 → PHISHING
+14.  si                  | Impact: 0.004918 → PHISHING
+15. ht                   | Impact: 0.004918 → PHISHING
+16.  jeremy              | Impact: -0.004679 → LEGITIMATE
+17.  for                 | Impact: 0.004397 → PHISHING
+18.  .                   | Impact: -0.004319 → LEGITIMATE
+19.  ta                  | Impact: 0.004162 → PHISHING
+20. h                    | Impact: 0.004162 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  removed             | Impact: 0.011053
+ 2.  pu                  | Impact: 0.007218
+ 3.  check               | Impact: 0.005723
+ 4.  u                   | Impact: 0.005264
+ 5. oy                   | Impact: 0.005264
+ 6.  si                  | Impact: 0.004918
+ 7. ht                   | Impact: 0.004918
+ 8.  for                 | Impact: 0.004397
+ 9.  ta                  | Impact: 0.004162
+10. h                    | Impact: 0.004162
+11.  si                  | Impact: 0.004114
+12.                      | Impact: 0.004114
+13. w                    | Impact: 0.004095
+14.  spa                 | Impact: 0.002825
+15. mc                   | Impact: 0.002825
+16.  content             | Impact: 0.002429
+17.  -                   | Impact: 0.002429
+18.  len                 | Impact: 0.002429
+19. gt                   | Impact: 0.002429
+20.  a                   | Impact: 0.002392
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.014695
+ 2.  -                   | Impact: -0.014256
+ 3.  response            | Impact: -0.011802
+ 4.  the                 | Impact: -0.011746
+ 5.  generated           | Impact: -0.011165
+ 6.  [                   | Impact: -0.010666
+ 7.  ]                   | Impact: -0.010036
+ 8.  randomly            | Impact: -0.007861
+ 9.  jeremy              | Impact: -0.004679
+10.  .                   | Impact: -0.004319
+11.  .                   | Impact: -0.002253
+12.  .                   | Impact: -0.002102
+13.  .                   | Impact: -0.002102
+14.  .                   | Impact: -0.001885
+15.  .                   | Impact: -0.001856
+16.  returning           | Impact: -0.001856
+17.  false               | Impact: -0.001856
+18.  incorrectly         | Impact: -0.001856
+19.  wrote               | Impact: -0.001517
+20.  :                   | Impact: -0.001517

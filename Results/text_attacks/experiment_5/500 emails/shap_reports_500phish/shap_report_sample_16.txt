@@ -1,0 +1,65 @@
+Sample 16
+=========
+
+Sample text preview: monkey.org server notification Email Verification Dear jose, To prevent your email from being shutdown, on // You are required to use below to keep sa...
+
+Model prediction: [1.7563635e-04 9.9982435e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ©                   | Impact: 0.119367 → PHISHING
+ 2.  mail                | Impact: 0.110018 → PHISHING
+ 3.  org                 | Impact: 0.093185 → PHISHING
+ 4.  monkey              | Impact: 0.050228 → PHISHING
+ 5.  dear                | Impact: 0.048027 → PHISHING
+ 6.  your                | Impact: 0.036346 → PHISHING
+ 7.  password            | Impact: 0.035393 → PHISHING
+ 8.  your                | Impact: 0.031051 → PHISHING
+ 9.  /                   | Impact: -0.030081 → LEGITIMATE
+10.  access              | Impact: 0.030054 → PHISHING
+11.  monkey              | Impact: 0.028310 → PHISHING
+12.  denied              | Impact: 0.027717 → PHISHING
+13.  rights              | Impact: 0.026867 → PHISHING
+14.  email               | Impact: 0.025251 → PHISHING
+15.  all                 | Impact: 0.024383 → PHISHING
+16.  password            | Impact: 0.022693 → PHISHING
+17.  prevent             | Impact: 0.022441 → PHISHING
+18.  notification        | Impact: 0.022048 → PHISHING
+19. box                  | Impact: 0.021807 → PHISHING
+20.  connected           | Impact: 0.017566 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.119367
+ 2.  mail                | Impact: 0.110018
+ 3.  org                 | Impact: 0.093185
+ 4.  monkey              | Impact: 0.050228
+ 5.  dear                | Impact: 0.048027
+ 6.  your                | Impact: 0.036346
+ 7.  password            | Impact: 0.035393
+ 8.  your                | Impact: 0.031051
+ 9.  access              | Impact: 0.030054
+10.  monkey              | Impact: 0.028310
+11.  denied              | Impact: 0.027717
+12.  rights              | Impact: 0.026867
+13.  email               | Impact: 0.025251
+14.  all                 | Impact: 0.024383
+15.  password            | Impact: 0.022693
+16.  prevent             | Impact: 0.022441
+17.  notification        | Impact: 0.022048
+18. box                  | Impact: 0.021807
+19.  connected           | Impact: 0.017566
+20.  below               | Impact: 0.014335
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  /                   | Impact: -0.030081
+ 2.  to                  | Impact: -0.010992
+ 3.  .                   | Impact: -0.006619
+ 4.  verification        | Impact: -0.006421
+ 5.  from                | Impact: -0.006257
+ 6.  keep                | Impact: -0.005300
+ 7.  being               | Impact: -0.005015
+ 8. down                 | Impact: -0.003988
+ 9.  server              | Impact: -0.000420
+10.  shut                | Impact: -0.000231

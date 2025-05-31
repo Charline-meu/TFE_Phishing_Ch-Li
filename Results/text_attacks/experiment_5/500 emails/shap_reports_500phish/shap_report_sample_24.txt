@@ -1,0 +1,63 @@
+Sample 24
+=========
+
+Sample text preview: Attn: The CEO/ Managing Director From: Mrs Amina Bola Ige Tel-Fax: . Mob . Sir, I am making this contact to you on the fact that we may be of assistan...
+
+Model prediction: [2.0661129e-04 9.9979335e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  and                 | Impact: 0.013964 → PHISHING
+ 2.  my                  | Impact: 0.013964 → PHISHING
+ 3.  child               | Impact: 0.013964 → PHISHING
+ 4.  brother             | Impact: 0.012288 → PHISHING
+ 5.  '                   | Impact: 0.012288 → PHISHING
+ 6.  s                   | Impact: 0.012288 → PHISHING
+ 7.  and                 | Impact: 0.012288 → PHISHING
+ 8.  my                  | Impact: 0.011663 → PHISHING
+ 9.  husband             | Impact: 0.011663 → PHISHING
+10.  '                   | Impact: 0.011663 → PHISHING
+11.  s                   | Impact: 0.011663 → PHISHING
+12.  without             | Impact: 0.008179 → PHISHING
+13.  any                 | Impact: 0.008179 → PHISHING
+14.  cash                | Impact: 0.008179 → PHISHING
+15.  .                   | Impact: 0.008179 → PHISHING
+16.  wife                | Impact: 0.006886 → PHISHING
+17.  since               | Impact: 0.006886 → PHISHING
+18.  they                | Impact: 0.006886 → PHISHING
+19.  have                | Impact: 0.006886 → PHISHING
+20.  confiscated         | Impact: 0.006886 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  and                 | Impact: 0.013964
+ 2.  my                  | Impact: 0.013964
+ 3.  child               | Impact: 0.013964
+ 4.  brother             | Impact: 0.012288
+ 5.  '                   | Impact: 0.012288
+ 6.  s                   | Impact: 0.012288
+ 7.  and                 | Impact: 0.012288
+ 8.  my                  | Impact: 0.011663
+ 9.  husband             | Impact: 0.011663
+10.  '                   | Impact: 0.011663
+11.  s                   | Impact: 0.011663
+12.  without             | Impact: 0.008179
+13.  any                 | Impact: 0.008179
+14.  cash                | Impact: 0.008179
+15.  .                   | Impact: 0.008179
+16.  wife                | Impact: 0.006886
+17.  since               | Impact: 0.006886
+18.  they                | Impact: 0.006886
+19.  have                | Impact: 0.006886
+20.  confiscated         | Impact: 0.006886
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.000141
+ 2.  my                  | Impact: -0.000141
+ 3.  refusal             | Impact: -0.000141
+ 4.  to                  | Impact: -0.000141
+ 5.  accept              | Impact: -0.000141
+ 6.  their               | Impact: -0.000141
+ 7.  religion            | Impact: -0.000141
+ 8.  .                   | Impact: -0.000141

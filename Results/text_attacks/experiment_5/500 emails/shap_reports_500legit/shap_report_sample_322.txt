@@ -1,0 +1,75 @@
+Sample 322
+==========
+
+Sample text preview: The All-Employee Meeting will be held Tuesday, Oct. , at a.m. Houston time at the Hyatt Regency Houston Imperial Ballroom. As one of the enhanced secu...
+
+Model prediction: [9.9978369e-01 2.1631086e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.009117 → LEGITIMATE
+ 2.  en                  | Impact: -0.008366 → LEGITIMATE
+ 3.  en                  | Impact: -0.008060 → LEGITIMATE
+ 4. ron                  | Impact: -0.008060 → LEGITIMATE
+ 5.  building            | Impact: -0.008060 → LEGITIMATE
+ 6.  held                | Impact: -0.006713 → LEGITIMATE
+ 7.  tuesday             | Impact: -0.006713 → LEGITIMATE
+ 8.  badge               | Impact: -0.004964 → LEGITIMATE
+ 9. ron                  | Impact: -0.004269 → LEGITIMATE
+10.  the                 | Impact: -0.004002 → LEGITIMATE
+11.  meeting             | Impact: -0.004002 → LEGITIMATE
+12.  employee            | Impact: -0.003996 → LEGITIMATE
+13.  meeting             | Impact: -0.003996 → LEGITIMATE
+14.  ,                   | Impact: -0.003954 → LEGITIMATE
+15.  will                | Impact: -0.003950 → LEGITIMATE
+16.  be                  | Impact: -0.003950 → LEGITIMATE
+17.  en                  | Impact: -0.003786 → LEGITIMATE
+18.  .                   | Impact: -0.003673 → LEGITIMATE
+19.  and                 | Impact: -0.003421 → LEGITIMATE
+20.  .                   | Impact: -0.003374 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  employed            | Impact: 0.001725
+ 2.  live                | Impact: 0.001095
+ 3.  event               | Impact: 0.001095
+ 4.  have                | Impact: 0.000993
+ 5.  recently            | Impact: 0.000993
+ 6.  dubai               | Impact: 0.000768
+ 7.  ,                   | Impact: 0.000768
+ 8.  buenos              | Impact: 0.000768
+ 9.  aires               | Impact: 0.000768
+10.  ,                   | Impact: 0.000768
+11.  m                   | Impact: 0.000754
+12.  .                   | Impact: 0.000754
+13.  to                  | Impact: 0.000719
+14.  employees           | Impact: 0.000719
+15.  in                  | Impact: 0.000719
+16.  sao                 | Impact: 0.000719
+17.  paulo               | Impact: 0.000719
+18.  currently           | Impact: 0.000531
+19.  have                | Impact: 0.000531
+20.  a                   | Impact: 0.000531
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.009117
+ 2.  en                  | Impact: -0.008366
+ 3.  en                  | Impact: -0.008060
+ 4. ron                  | Impact: -0.008060
+ 5.  building            | Impact: -0.008060
+ 6.  held                | Impact: -0.006713
+ 7.  tuesday             | Impact: -0.006713
+ 8.  badge               | Impact: -0.004964
+ 9. ron                  | Impact: -0.004269
+10.  the                 | Impact: -0.004002
+11.  meeting             | Impact: -0.004002
+12.  employee            | Impact: -0.003996
+13.  meeting             | Impact: -0.003996
+14.  ,                   | Impact: -0.003954
+15.  will                | Impact: -0.003950
+16.  be                  | Impact: -0.003950
+17.  en                  | Impact: -0.003786
+18.  .                   | Impact: -0.003673
+19.  and                 | Impact: -0.003421
+20.  .                   | Impact: -0.003374

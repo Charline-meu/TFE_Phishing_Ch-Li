@@ -1,0 +1,75 @@
+Sample 29
+=========
+
+Sample text preview: Hi We're having some trouble with your current billing information. We'll try again, but in the meantime you may want to update your payment details. ...
+
+Model prediction: [1.9895367e-04 9.9980110e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.036645 → PHISHING
+ 2.  payment             | Impact: 0.036645 → PHISHING
+ 3.  details             | Impact: 0.032483 → PHISHING
+ 4.  account             | Impact: 0.031601 → PHISHING
+ 5.  email               | Impact: 0.031084 → PHISHING
+ 6.  you                 | Impact: 0.028633 → PHISHING
+ 7.  update              | Impact: 0.027262 → PHISHING
+ 8.  account             | Impact: 0.023718 → PHISHING
+ 9.  email               | Impact: 0.016395 → PHISHING
+10.  for                 | Impact: 0.016212 → PHISHING
+11.  your                | Impact: 0.016212 → PHISHING
+12.  account             | Impact: 0.016212 → PHISHING
+13.  meantime            | Impact: 0.015878 → PHISHING
+14.  you                 | Impact: 0.015878 → PHISHING
+15.  your                | Impact: 0.015781 → PHISHING
+16.  payment             | Impact: 0.015781 → PHISHING
+17.  details             | Impact: 0.015781 → PHISHING
+18.  contact             | Impact: 0.014736 → PHISHING
+19.  us                  | Impact: 0.014736 → PHISHING
+20.  now                 | Impact: 0.014736 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.036645
+ 2.  payment             | Impact: 0.036645
+ 3.  details             | Impact: 0.032483
+ 4.  account             | Impact: 0.031601
+ 5.  email               | Impact: 0.031084
+ 6.  you                 | Impact: 0.028633
+ 7.  update              | Impact: 0.027262
+ 8.  account             | Impact: 0.023718
+ 9.  email               | Impact: 0.016395
+10.  for                 | Impact: 0.016212
+11.  your                | Impact: 0.016212
+12.  account             | Impact: 0.016212
+13.  meantime            | Impact: 0.015878
+14.  you                 | Impact: 0.015878
+15.  your                | Impact: 0.015781
+16.  payment             | Impact: 0.015781
+17.  details             | Impact: 0.015781
+18.  contact             | Impact: 0.014736
+19.  us                  | Impact: 0.014736
+20.  now                 | Impact: 0.014736
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  netflix             | Impact: -0.010375
+ 2.  questions           | Impact: -0.010375
+ 3.  -                   | Impact: -0.009215
+ 4.  -                   | Impact: -0.009215
+ 5.  ?                   | Impact: -0.007629
+ 6.  -                   | Impact: -0.004464
+ 7.  -                   | Impact: -0.004464
+ 8.  call                | Impact: -0.002581
+ 9.  -                   | Impact: -0.002581
+10.  but                 | Impact: -0.002481
+11.  call                | Impact: -0.002046
+12.  -                   | Impact: -0.002046
+13.  ll                  | Impact: -0.001756
+14.  try                 | Impact: -0.001756
+15.  again               | Impact: -0.001756
+16.  we                  | Impact: -0.001186
+17.  ’                   | Impact: -0.001186
+18.  re                  | Impact: -0.001186
+19.  here                | Impact: -0.001186
+20.  if                  | Impact: -0.001186

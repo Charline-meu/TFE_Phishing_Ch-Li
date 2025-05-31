@@ -1,0 +1,75 @@
+Phishing Sample 58
+==================
+
+Sample text preview: //this function should print all numbers up to ... void print_nums() { int i; for(i = ; i < l; i++) { printf("%d\n",i); } }
+
+Model prediction: [0.9794209  0.02057908]
+Predicted class: LEGITIMATE with 0.9794 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  print               | Impact: 0.090846 → PHISHING
+ 2.  should              | Impact: -0.088688 → LEGITIMATE
+ 3.  numbers             | Impact: -0.085529 → LEGITIMATE
+ 4.  print               | Impact: 0.065520 → PHISHING
+ 5.  function            | Impact: -0.040681 → LEGITIMATE
+ 6.  (                   | Impact: -0.040545 → LEGITIMATE
+ 7.  int                 | Impact: 0.038841 → PHISHING
+ 8.  _                   | Impact: 0.028944 → PHISHING
+ 9.  for                 | Impact: -0.025299 → LEGITIMATE
+10.  }                   | Impact: 0.024454 → PHISHING
+11.  <                   | Impact: 0.019369 → PHISHING
+12.  up                  | Impact: -0.017785 → LEGITIMATE
+13.  +                   | Impact: 0.016377 → PHISHING
+14.  +                   | Impact: 0.015574 → PHISHING
+15.  this                | Impact: -0.014538 → LEGITIMATE
+16.  )                   | Impact: -0.014154 → LEGITIMATE
+17.  /                   | Impact: -0.013231 → LEGITIMATE
+18.  void                | Impact: 0.012324 → PHISHING
+19.  nu                  | Impact: 0.011423 → PHISHING
+20.  .                   | Impact: -0.010835 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  print               | Impact: 0.090846
+ 2.  print               | Impact: 0.065520
+ 3.  int                 | Impact: 0.038841
+ 4.  _                   | Impact: 0.028944
+ 5.  }                   | Impact: 0.024454
+ 6.  <                   | Impact: 0.019369
+ 7.  +                   | Impact: 0.016377
+ 8.  +                   | Impact: 0.015574
+ 9.  void                | Impact: 0.012324
+10.  nu                  | Impact: 0.011423
+11. ms                   | Impact: 0.008021
+12.  l                   | Impact: 0.007870
+13.  to                  | Impact: 0.007575
+14.  {                   | Impact: 0.007258
+15.  )                   | Impact: 0.007149
+16.  i                   | Impact: 0.004517
+17.  d                   | Impact: 0.002417
+18.  \                   | Impact: 0.002417
+19.  {                   | Impact: 0.002045
+20.  ;                   | Impact: 0.001139
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  should              | Impact: -0.088688
+ 2.  numbers             | Impact: -0.085529
+ 3.  function            | Impact: -0.040681
+ 4.  (                   | Impact: -0.040545
+ 5.  for                 | Impact: -0.025299
+ 6.  up                  | Impact: -0.017785
+ 7.  this                | Impact: -0.014538
+ 8.  )                   | Impact: -0.014154
+ 9.  /                   | Impact: -0.013231
+10.  .                   | Impact: -0.010835
+11.  print               | Impact: -0.007955
+12.  /                   | Impact: -0.007860
+13.  all                 | Impact: -0.007574
+14. f                    | Impact: -0.007427
+15.  (                   | Impact: -0.005614
+16.  ;                   | Impact: -0.005316
+17.  i                   | Impact: -0.005316
+18.  ;                   | Impact: -0.003751
+19.                      | Impact: -0.003548
+20.  (                   | Impact: -0.003436

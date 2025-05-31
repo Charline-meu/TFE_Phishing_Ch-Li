@@ -1,0 +1,68 @@
+Sample 60
+=========
+
+Sample text preview: Dear Friend, I know that this mail will come to you as a surprise,please accept the content in good faith. I do not intend to cause any grief to you a...
+
+Model prediction: [1.6041636e-04 9.9983954e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ben                 | Impact: 0.015974 → PHISHING
+ 2. ef                   | Impact: 0.015974 → PHISHING
+ 3. icia                 | Impact: 0.015974 → PHISHING
+ 4. ry                   | Impact: 0.015974 → PHISHING
+ 5.  my                  | Impact: 0.010208 → PHISHING
+ 6.  father              | Impact: 0.010208 → PHISHING
+ 7.  your                | Impact: 0.007919 → PHISHING
+ 8.  family              | Impact: 0.007919 → PHISHING
+ 9.  to                  | Impact: 0.007690 → PHISHING
+10.  the                 | Impact: 0.007690 → PHISHING
+11.  you                 | Impact: 0.007690 → PHISHING
+12.  if                  | Impact: 0.007690 → PHISHING
+13.  you                 | Impact: 0.007690 → PHISHING
+14.  will                | Impact: 0.007690 → PHISHING
+15.  help                | Impact: 0.007690 → PHISHING
+16.  the                 | Impact: 0.007690 → PHISHING
+17.  family              | Impact: 0.007690 → PHISHING
+18.  .                   | Impact: 0.007690 → PHISHING
+19.  ben                 | Impact: 0.006989 → PHISHING
+20. ef                   | Impact: 0.006989 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ben                 | Impact: 0.015974
+ 2. ef                   | Impact: 0.015974
+ 3. icia                 | Impact: 0.015974
+ 4. ry                   | Impact: 0.015974
+ 5.  my                  | Impact: 0.010208
+ 6.  father              | Impact: 0.010208
+ 7.  your                | Impact: 0.007919
+ 8.  family              | Impact: 0.007919
+ 9.  to                  | Impact: 0.007690
+10.  the                 | Impact: 0.007690
+11.  you                 | Impact: 0.007690
+12.  if                  | Impact: 0.007690
+13.  you                 | Impact: 0.007690
+14.  will                | Impact: 0.007690
+15.  help                | Impact: 0.007690
+16.  the                 | Impact: 0.007690
+17.  family              | Impact: 0.007690
+18.  .                   | Impact: 0.007690
+19.  ben                 | Impact: 0.006989
+20. ef                   | Impact: 0.006989
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  that                | Impact: -0.001439
+ 2.  is                  | Impact: -0.001439
+ 3.  my                  | Impact: -0.001439
+ 4.  problem             | Impact: -0.001439
+ 5.  now                 | Impact: -0.001439
+ 6.  ,                   | Impact: -0.001439
+ 7.  please              | Impact: -0.000174
+ 8.  if                  | Impact: -0.000174
+ 9.  you                 | Impact: -0.000174
+10.  can                 | Impact: -0.000174
+11.  help                | Impact: -0.000174
+12.  me                  | Impact: -0.000174
+13.  and                 | Impact: -0.000174

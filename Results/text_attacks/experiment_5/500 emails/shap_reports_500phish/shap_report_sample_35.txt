@@ -1,0 +1,75 @@
+Sample 35
+=========
+
+Sample text preview: To ensure delivery to your inbox, please add to your address book. New Money Transfer View Accounts | Privacy Promise | Contact Us USAA SECURITY ZONE ...
+
+Model prediction: [1.5979350e-04 9.9984014e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  contact             | Impact: 0.035146 → PHISHING
+ 2.  please              | Impact: 0.034120 → PHISHING
+ 3.  us                  | Impact: 0.025716 → PHISHING
+ 4.  transfer            | Impact: 0.022959 → PHISHING
+ 5.  your                | Impact: 0.022419 → PHISHING
+ 6.  usa                 | Impact: 0.020081 → PHISHING
+ 7. a                    | Impact: 0.020081 → PHISHING
+ 8.  a                   | Impact: 0.019391 → PHISHING
+ 9.  secure              | Impact: 0.019391 → PHISHING
+10.  approve             | Impact: 0.017317 → PHISHING
+11.  we                  | Impact: 0.016700 → PHISHING
+12.  your                | Impact: 0.014023 → PHISHING
+13.  account             | Impact: 0.014023 → PHISHING
+14.  message             | Impact: 0.013435 → PHISHING
+15.  to                  | Impact: 0.013435 → PHISHING
+16.  to                  | Impact: 0.011569 → PHISHING
+17.  send                | Impact: 0.011569 → PHISHING
+18.  please              | Impact: 0.011088 → PHISHING
+19.  address             | Impact: 0.009516 → PHISHING
+20.  to                  | Impact: 0.008919 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.035146
+ 2.  please              | Impact: 0.034120
+ 3.  us                  | Impact: 0.025716
+ 4.  transfer            | Impact: 0.022959
+ 5.  your                | Impact: 0.022419
+ 6.  usa                 | Impact: 0.020081
+ 7. a                    | Impact: 0.020081
+ 8.  a                   | Impact: 0.019391
+ 9.  secure              | Impact: 0.019391
+10.  approve             | Impact: 0.017317
+11.  we                  | Impact: 0.016700
+12.  your                | Impact: 0.014023
+13.  account             | Impact: 0.014023
+14.  message             | Impact: 0.013435
+15.  to                  | Impact: 0.013435
+16.  to                  | Impact: 0.011569
+17.  send                | Impact: 0.011569
+18.  please              | Impact: 0.011088
+19.  address             | Impact: 0.009516
+20.  to                  | Impact: 0.008919
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.003085
+ 2.  .                   | Impact: -0.002880
+ 3.  .                   | Impact: -0.001967
+ 4.  banks               | Impact: -0.001574
+ 5.  member              | Impact: -0.001574
+ 6.  f                   | Impact: -0.001574
+ 7. dic                  | Impact: -0.001574
+ 8.  -                   | Impact: -0.001468
+ 9.                      | Impact: -0.001468
+10.  .                   | Impact: -0.001445
+11.  book                | Impact: -0.001174
+12.  and                 | Impact: -0.000908
+13.  the                 | Impact: -0.000908
+14.  receiver            | Impact: -0.000908
+15.  .                   | Impact: -0.000908
+16.  ,                   | Impact: -0.000580
+17.  both                | Impact: -0.000580
+18.  registered          | Impact: -0.000580
+19.  broker              | Impact: -0.000580
+20.  dealers             | Impact: -0.000580

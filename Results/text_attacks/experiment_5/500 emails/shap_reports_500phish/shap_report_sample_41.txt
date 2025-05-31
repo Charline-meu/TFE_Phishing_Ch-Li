@@ -1,0 +1,75 @@
+Sample 41
+=========
+
+Sample text preview: Dear friend, As you read this, I don't want you to feel sorry for me, because, I Believe Everyone will die someday. My name is JAIN HAGIS I am a merch...
+
+Model prediction: [1.7412561e-04 9.9982589e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.012755 → PHISHING
+ 2.  .                   | Impact: 0.012755 → PHISHING
+ 3.  for                 | Impact: 0.010937 → PHISHING
+ 4.  your                | Impact: 0.010937 → PHISHING
+ 5.  time                | Impact: 0.010937 → PHISHING
+ 6.  .                   | Impact: 0.010937 → PHISHING
+ 7.  god                 | Impact: 0.009096 → PHISHING
+ 8.  be                  | Impact: 0.009096 → PHISHING
+ 9.  with                | Impact: 0.009096 → PHISHING
+10.  you                 | Impact: 0.009096 → PHISHING
+11.  .                   | Impact: 0.009096 → PHISHING
+12.  to                  | Impact: 0.008427 → PHISHING
+13.  help                | Impact: 0.008427 → PHISHING
+14.  me                  | Impact: 0.008427 → PHISHING
+15.  collect             | Impact: 0.008427 → PHISHING
+16.  this                | Impact: 0.008427 → PHISHING
+17.  deposit             | Impact: 0.008427 → PHISHING
+18.  and                 | Impact: 0.008427 → PHISHING
+19.  i                   | Impact: 0.008178 → PHISHING
+20.  will                | Impact: 0.008178 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.012755
+ 2.  .                   | Impact: 0.012755
+ 3.  for                 | Impact: 0.010937
+ 4.  your                | Impact: 0.010937
+ 5.  time                | Impact: 0.010937
+ 6.  .                   | Impact: 0.010937
+ 7.  god                 | Impact: 0.009096
+ 8.  be                  | Impact: 0.009096
+ 9.  with                | Impact: 0.009096
+10.  you                 | Impact: 0.009096
+11.  .                   | Impact: 0.009096
+12.  to                  | Impact: 0.008427
+13.  help                | Impact: 0.008427
+14.  me                  | Impact: 0.008427
+15.  collect             | Impact: 0.008427
+16.  this                | Impact: 0.008427
+17.  deposit             | Impact: 0.008427
+18.  and                 | Impact: 0.008427
+19.  i                   | Impact: 0.008178
+20.  will                | Impact: 0.008178
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  as                  | Impact: -0.000877
+ 2.  they                | Impact: -0.000877
+ 3.  seem                | Impact: -0.000877
+ 4.  not                 | Impact: -0.000877
+ 5.  to                  | Impact: -0.000877
+ 6.  be                  | Impact: -0.000877
+ 7.  contend             | Impact: -0.000877
+ 8. ed                   | Impact: -0.000877
+ 9.  with                | Impact: -0.000868
+10.  what                | Impact: -0.000868
+11.  i                   | Impact: -0.000868
+12.  have                | Impact: -0.000868
+13.  left                | Impact: -0.000868
+14.  for                 | Impact: -0.000868
+15.  them                | Impact: -0.000868
+16.  .                   | Impact: -0.000868
+17.  hence               | Impact: -0.000700
+18.  ,                   | Impact: -0.000700
+19.  i                   | Impact: -0.000700
+20.  do                  | Impact: -0.000700

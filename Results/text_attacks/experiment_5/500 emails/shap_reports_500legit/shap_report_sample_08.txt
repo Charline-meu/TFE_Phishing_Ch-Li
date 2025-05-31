@@ -1,0 +1,75 @@
+Sample 8
+========
+
+Sample text preview: No -- I totally forgot. Will you remind me in the morning and we can call her (if you still want to listen in). Leslie Tana Jones // : PM To: Leslie H...
+
+Model prediction: [9.9965549e-01 3.4446004e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ?                   | Impact: 0.011999 → PHISHING
+ 2.  no                  | Impact: 0.007487 → PHISHING
+ 3.  -                   | Impact: -0.006767 → LEGITIMATE
+ 4.  -                   | Impact: -0.006547 → LEGITIMATE
+ 5.  gillian             | Impact: -0.006043 → LEGITIMATE
+ 6.  (                   | Impact: -0.006000 → LEGITIMATE
+ 7.  /                   | Impact: 0.005040 → PHISHING
+ 8.  difference          | Impact: -0.004963 → LEGITIMATE
+ 9.  )                   | Impact: -0.003718 → LEGITIMATE
+10.  :                   | Impact: -0.003688 → LEGITIMATE
+11.  we                  | Impact: 0.003682 → PHISHING
+12.  about               | Impact: -0.003555 → LEGITIMATE
+13.  .                   | Impact: -0.003539 → LEGITIMATE
+14.  ever                | Impact: 0.003514 → PHISHING
+15.  morning             | Impact: 0.003487 → PHISHING
+16.  subject             | Impact: -0.003368 → LEGITIMATE
+17.  speak               | Impact: -0.003357 → LEGITIMATE
+18.  these               | Impact: 0.002715 → PHISHING
+19.  totally             | Impact: -0.002702 → LEGITIMATE
+20.  johnson             | Impact: -0.002687 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ?                   | Impact: 0.011999
+ 2.  no                  | Impact: 0.007487
+ 3.  /                   | Impact: 0.005040
+ 4.  we                  | Impact: 0.003682
+ 5.  ever                | Impact: 0.003514
+ 6.  morning             | Impact: 0.003487
+ 7.  these               | Impact: 0.002715
+ 8.  in                  | Impact: 0.002473
+ 9.  @                   | Impact: 0.001578
+10.  lo                  | Impact: 0.001375
+11.  in                  | Impact: 0.001348
+12.  will                | Impact: 0.001276
+13.  /                   | Impact: 0.001019
+14.  her                 | Impact: 0.000995
+15.  the                 | Impact: 0.000942
+16.  mo                  | Impact: 0.000878
+17.  jones               | Impact: 0.000874
+18.  ag                  | Impact: 0.000719
+19. s                    | Impact: 0.000523
+20.  .                   | Impact: 0.000484
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.006767
+ 2.  -                   | Impact: -0.006547
+ 3.  gillian             | Impact: -0.006043
+ 4.  (                   | Impact: -0.006000
+ 5.  difference          | Impact: -0.004963
+ 6.  )                   | Impact: -0.003718
+ 7.  :                   | Impact: -0.003688
+ 8.  about               | Impact: -0.003555
+ 9.  .                   | Impact: -0.003539
+10.  subject             | Impact: -0.003368
+11.  speak               | Impact: -0.003357
+12.  totally             | Impact: -0.002702
+13.  johnson             | Impact: -0.002687
+14.  yesterday           | Impact: -0.002627
+15.  remind              | Impact: -0.002534
+16.  :                   | Impact: -0.002440
+17.  i                   | Impact: -0.001649
+18.  ec                  | Impact: -0.001618
+19.  of                  | Impact: -0.001615
+20. t                    | Impact: -0.001527

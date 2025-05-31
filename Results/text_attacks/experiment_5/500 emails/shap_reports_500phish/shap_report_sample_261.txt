@@ -1,0 +1,61 @@
+Sample 261
+==========
+
+Sample text preview: Your e-mailbox password will soon expire. To keep your password active. Click Here< to update IT- Desk
+
+Model prediction: [2.2697433e-04 9.9977309e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.172637 → PHISHING
+ 2.  click               | Impact: 0.160063 → PHISHING
+ 3.  password            | Impact: 0.094885 → PHISHING
+ 4.  ex                  | Impact: 0.093553 → PHISHING
+ 5.  your                | Impact: 0.077015 → PHISHING
+ 6.  password            | Impact: 0.062298 → PHISHING
+ 7.  here                | Impact: 0.046299 → PHISHING
+ 8. pire                 | Impact: 0.045796 → PHISHING
+ 9.  keep                | Impact: 0.040723 → PHISHING
+10.  -                   | Impact: -0.040159 → LEGITIMATE
+11. box                  | Impact: 0.038829 → PHISHING
+12.  desk                | Impact: 0.036253 → PHISHING
+13.  it                  | Impact: 0.033492 → PHISHING
+14.  mail                | Impact: 0.026436 → PHISHING
+15.  to                  | Impact: 0.025895 → PHISHING
+16.  soon                | Impact: 0.015395 → PHISHING
+17.  -                   | Impact: 0.015190 → PHISHING
+18.  .                   | Impact: -0.006073 → LEGITIMATE
+19.  update              | Impact: 0.005915 → PHISHING
+20.  active              | Impact: -0.004044 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.172637
+ 2.  click               | Impact: 0.160063
+ 3.  password            | Impact: 0.094885
+ 4.  ex                  | Impact: 0.093553
+ 5.  your                | Impact: 0.077015
+ 6.  password            | Impact: 0.062298
+ 7.  here                | Impact: 0.046299
+ 8. pire                 | Impact: 0.045796
+ 9.  keep                | Impact: 0.040723
+10. box                  | Impact: 0.038829
+11.  desk                | Impact: 0.036253
+12.  it                  | Impact: 0.033492
+13.  mail                | Impact: 0.026436
+14.  to                  | Impact: 0.025895
+15.  soon                | Impact: 0.015395
+16.  -                   | Impact: 0.015190
+17.  update              | Impact: 0.005915
+18.  .                   | Impact: 0.002287
+19.  to                  | Impact: 0.000049
+20.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.040159
+ 2.  .                   | Impact: -0.006073
+ 3.  active              | Impact: -0.004044
+ 4.  e                   | Impact: -0.003221
+ 5.  <                   | Impact: -0.003129
+ 6.  will                | Impact: -0.000230

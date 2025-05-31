@@ -1,0 +1,75 @@
+Sample 306
+==========
+
+Sample text preview: ENGLISH Dear Below your shipment invoices and airway bill posted from DHL. SHIPPING DOCUMENT Thank you for shipping with DHL Express. Deutsche Post DH...
+
+Model prediction: [1.8086264e-04 9.9981922e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.220638 → PHISHING
+ 2.  shipment            | Impact: 0.143203 → PHISHING
+ 3.  ©                   | Impact: 0.126259 → PHISHING
+ 4.  your                | Impact: 0.091435 → PHISHING
+ 5.  document            | Impact: 0.072321 → PHISHING
+ 6.  you                 | Impact: 0.066078 → PHISHING
+ 7.  gmbh                | Impact: 0.052362 → PHISHING
+ 8.  &                   | Impact: 0.040716 → PHISHING
+ 9.  deutsche            | Impact: -0.039136 → LEGITIMATE
+10.  express             | Impact: 0.031834 → PHISHING
+11.  thank               | Impact: 0.024831 → PHISHING
+12.  privacy             | Impact: 0.023078 → PHISHING
+13.  mail                | Impact: 0.022191 → PHISHING
+14.  &                   | Impact: 0.021886 → PHISHING
+15.  conditions          | Impact: -0.020890 → LEGITIMATE
+16.  shipping            | Impact: -0.019650 → LEGITIMATE
+17.  rights              | Impact: 0.019030 → PHISHING
+18.  international       | Impact: 0.017160 → PHISHING
+19.  |                   | Impact: 0.016502 → PHISHING
+20.  dh                  | Impact: 0.015882 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.220638
+ 2.  shipment            | Impact: 0.143203
+ 3.  ©                   | Impact: 0.126259
+ 4.  your                | Impact: 0.091435
+ 5.  document            | Impact: 0.072321
+ 6.  you                 | Impact: 0.066078
+ 7.  gmbh                | Impact: 0.052362
+ 8.  &                   | Impact: 0.040716
+ 9.  express             | Impact: 0.031834
+10.  thank               | Impact: 0.024831
+11.  privacy             | Impact: 0.023078
+12.  mail                | Impact: 0.022191
+13.  &                   | Impact: 0.021886
+14.  rights              | Impact: 0.019030
+15.  international       | Impact: 0.017160
+16.  |                   | Impact: 0.016502
+17.  dh                  | Impact: 0.015882
+18.  all                 | Impact: 0.014601
+19.  english             | Impact: 0.014439
+20.  in                  | Impact: 0.013629
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  deutsche            | Impact: -0.039136
+ 2.  conditions          | Impact: -0.020890
+ 3.  shipping            | Impact: -0.019650
+ 4.  the                 | Impact: -0.014867
+ 5. ices                 | Impact: -0.014705
+ 6.  dh                  | Impact: -0.007266
+ 7.  .                   | Impact: -0.006633
+ 8. l                    | Impact: -0.005458
+ 9.  air                 | Impact: -0.005044
+10.  .                   | Impact: -0.004855
+11.  statement           | Impact: -0.004061
+12.  bill                | Impact: -0.003989
+13.  group               | Impact: -0.003861
+14. way                  | Impact: -0.003582
+15.  from                | Impact: -0.003234
+16.  logistics           | Impact: -0.003224
+17.  posted              | Impact: -0.003050
+18.  -                   | Impact: -0.002548
+19.  terms               | Impact: -0.002112
+20.  for                 | Impact: -0.001925

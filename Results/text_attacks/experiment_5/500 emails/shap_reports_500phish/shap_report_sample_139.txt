@@ -1,0 +1,75 @@
+Sample 139
+==========
+
+Sample text preview: MANAGING PARTNER E.U. PHILIPSON & SOLICITORS ROYAL LIVER BUILDING, PIER HEAD, LIVERPOOL L LL, ENGLAND NOTIFICATION OF BEQUEST On behalf of the Trustee...
+
+Model prediction: [1.9926539e-04 9.9980074e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.012301 → PHISHING
+ 2.  humanitarian        | Impact: 0.012301 → PHISHING
+ 3.  activities          | Impact: 0.012301 → PHISHING
+ 4.  and                 | Impact: 0.012301 → PHISHING
+ 5.  money               | Impact: 0.012285 → PHISHING
+ 6.  is                  | Impact: 0.012285 → PHISHING
+ 7.  to                  | Impact: 0.012285 → PHISHING
+ 8.  support             | Impact: 0.012285 → PHISHING
+ 9.  philanthropist      | Impact: 0.009987 → PHISHING
+10.  to                  | Impact: 0.007853 → PHISHING
+11.  help                | Impact: 0.007853 → PHISHING
+12.  the                 | Impact: 0.007853 → PHISHING
+13.  poor                | Impact: 0.007853 → PHISHING
+14.  according           | Impact: 0.007733 → PHISHING
+15.  to                  | Impact: 0.007733 → PHISHING
+16.  him                 | Impact: 0.007733 → PHISHING
+17.  this                | Impact: 0.007733 → PHISHING
+18.  sincerely           | Impact: 0.007702 → PHISHING
+19.  yours               | Impact: 0.007702 → PHISHING
+20.  from                | Impact: 0.007596 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.012301
+ 2.  humanitarian        | Impact: 0.012301
+ 3.  activities          | Impact: 0.012301
+ 4.  and                 | Impact: 0.012301
+ 5.  money               | Impact: 0.012285
+ 6.  is                  | Impact: 0.012285
+ 7.  to                  | Impact: 0.012285
+ 8.  support             | Impact: 0.012285
+ 9.  philanthropist      | Impact: 0.009987
+10.  to                  | Impact: 0.007853
+11.  help                | Impact: 0.007853
+12.  the                 | Impact: 0.007853
+13.  poor                | Impact: 0.007853
+14.  according           | Impact: 0.007733
+15.  to                  | Impact: 0.007733
+16.  him                 | Impact: 0.007733
+17.  this                | Impact: 0.007733
+18.  sincerely           | Impact: 0.007702
+19.  yours               | Impact: 0.007702
+20.  from                | Impact: 0.007596
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  eng                 | Impact: -0.005353
+ 2. r                    | Impact: -0.005353
+ 3.  and                 | Impact: -0.003406
+ 4.  the                 | Impact: -0.003406
+ 5.  institute           | Impact: -0.003406
+ 6.  of                  | Impact: -0.003406
+ 7.  electronic          | Impact: -0.003406
+ 8.  .                   | Impact: -0.003134
+ 9.  i                   | Impact: -0.002458
+10.  am                  | Impact: -0.002458
+11.  hopeful             | Impact: -0.002458
+12.  ,                   | Impact: -0.002458
+13.  this                | Impact: -0.002289
+14.  may                 | Impact: -0.002289
+15.  sound               | Impact: -0.002289
+16.  strange             | Impact: -0.002289
+17.  and                 | Impact: -0.002289
+18.  &                   | Impact: -0.002124
+19.  electrical          | Impact: -0.002124
+20.  engineers           | Impact: -0.002124

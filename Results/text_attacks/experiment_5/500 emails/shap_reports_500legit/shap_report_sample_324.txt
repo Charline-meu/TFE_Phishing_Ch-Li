@@ -1,0 +1,75 @@
+Sample 324
+==========
+
+Sample text preview: Mirant Corporation has added the following News Release to its Investor Relations web site. Mirant to Discuss Third Quarter Earnings Date(s): // :: PM...
+
+Model prediction: [0.99755055 0.0024494 ]
+Predicted class: LEGITIMATE with 0.9976 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  join                | Impact: -0.027785 → LEGITIMATE
+ 2.  service             | Impact: 0.024670 → PHISHING
+ 3. mail                 | Impact: -0.023516 → LEGITIMATE
+ 4.  -                   | Impact: 0.019595 → PHISHING
+ 5.  mail                | Impact: 0.019595 → PHISHING
+ 6.  join                | Impact: -0.015566 → LEGITIMATE
+ 7.  please              | Impact: 0.014801 → PHISHING
+ 8.  click               | Impact: 0.014801 → PHISHING
+ 9.  alert               | Impact: 0.013939 → PHISHING
+10.  discuss             | Impact: -0.012453 → LEGITIMATE
+11. mail                 | Impact: -0.009292 → LEGITIMATE
+12.  more                | Impact: -0.008808 → LEGITIMATE
+13.  about               | Impact: -0.008808 → LEGITIMATE
+14.  s                   | Impact: -0.008399 → LEGITIMATE
+15.  ,                   | Impact: -0.008260 → LEGITIMATE
+16.  to                  | Impact: -0.007790 → LEGITIMATE
+17.  learn               | Impact: -0.007790 → LEGITIMATE
+18.  mira                | Impact: -0.007744 → LEGITIMATE
+19.  link                | Impact: 0.007692 → PHISHING
+20.  below               | Impact: 0.007692 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  service             | Impact: 0.024670
+ 2.  -                   | Impact: 0.019595
+ 3.  mail                | Impact: 0.019595
+ 4.  please              | Impact: 0.014801
+ 5.  click               | Impact: 0.014801
+ 6.  alert               | Impact: 0.013939
+ 7.  link                | Impact: 0.007692
+ 8.  below               | Impact: 0.007692
+ 9.  list                | Impact: 0.007503
+10.  this                | Impact: 0.007377
+11.  e                   | Impact: 0.007377
+12.  click               | Impact: 0.007302
+13.  management          | Impact: 0.006026
+14.  and                 | Impact: 0.004699
+15.  send                | Impact: 0.003376
+16.  a                   | Impact: 0.003376
+17.  blank               | Impact: 0.003376
+18.  reply               | Impact: 0.003376
+19.  view                | Impact: 0.003223
+20.  on                  | Impact: 0.002862
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  join                | Impact: -0.027785
+ 2. mail                 | Impact: -0.023516
+ 3.  join                | Impact: -0.015566
+ 4.  discuss             | Impact: -0.012453
+ 5. mail                 | Impact: -0.009292
+ 6.  more                | Impact: -0.008808
+ 7.  about               | Impact: -0.008808
+ 8.  s                   | Impact: -0.008399
+ 9.  ,                   | Impact: -0.008260
+10.  to                  | Impact: -0.007790
+11.  learn               | Impact: -0.007790
+12.  mira                | Impact: -0.007744
+13.  com                 | Impact: -0.007261
+14.  '                   | Impact: -0.006167
+15.  cc                  | Impact: -0.005656
+16. bn                   | Impact: -0.005656
+17.  uses                | Impact: -0.005608
+18.  to                  | Impact: -0.005167
+19.  visit               | Impact: -0.004772
+20.  added               | Impact: -0.004650

@@ -1,0 +1,75 @@
+Phishing Sample 70
+==================
+
+Sample text preview: Thank you! -----Original Message----- From: Tomaski, Richard Sent: Friday, October , : AM To: Mims, Patrice L. Cc: Classen, Kay Subject: trunkline STX...
+
+Model prediction: [9.9976903e-01 2.3095991e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  kay                 | Impact: -0.012757 → LEGITIMATE
+ 2.  patrice             | Impact: -0.012372 → LEGITIMATE
+ 3. line                 | Impact: 0.011690 → PHISHING
+ 4.  subject             | Impact: -0.010067 → LEGITIMATE
+ 5.  hey                 | Impact: -0.008119 → LEGITIMATE
+ 6.  :                   | Impact: -0.007757 → LEGITIMATE
+ 7.  later               | Impact: 0.007480 → PHISHING
+ 8. x                    | Impact: 0.006852 → PHISHING
+ 9.  nov                 | Impact: 0.006328 → PHISHING
+10.  trunk               | Impact: -0.006036 → LEGITIMATE
+11.  you                 | Impact: 0.004983 → PHISHING
+12.  message             | Impact: 0.004572 → PHISHING
+13.  will                | Impact: 0.004512 → PHISHING
+14.  a                   | Impact: 0.004505 → PHISHING
+15.  -                   | Impact: -0.004478 → LEGITIMATE
+16.  this                | Impact: -0.003973 → LEGITIMATE
+17.  -                   | Impact: -0.003567 → LEGITIMATE
+18.  st                  | Impact: 0.003459 → PHISHING
+19.  thank               | Impact: -0.002922 → LEGITIMATE
+20.  !                   | Impact: 0.002809 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1. line                 | Impact: 0.011690
+ 2.  later               | Impact: 0.007480
+ 3. x                    | Impact: 0.006852
+ 4.  nov                 | Impact: 0.006328
+ 5.  you                 | Impact: 0.004983
+ 6.  message             | Impact: 0.004572
+ 7.  will                | Impact: 0.004512
+ 8.  a                   | Impact: 0.004505
+ 9.  st                  | Impact: 0.003459
+10.  !                   | Impact: 0.002809
+11.  we                  | Impact: 0.002529
+12.  original            | Impact: 0.002090
+13.  october             | Impact: 0.001963
+14.  trunk               | Impact: 0.000811
+15.  morning             | Impact: 0.000697
+16.  l                   | Impact: 0.000607
+17.  -                   | Impact: 0.000598
+18.  .                   | Impact: 0.000595
+19.  get                 | Impact: 0.000586
+20.  -                   | Impact: 0.000445
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  kay                 | Impact: -0.012757
+ 2.  patrice             | Impact: -0.012372
+ 3.  subject             | Impact: -0.010067
+ 4.  hey                 | Impact: -0.008119
+ 5.  :                   | Impact: -0.007757
+ 6.  trunk               | Impact: -0.006036
+ 7.  -                   | Impact: -0.004478
+ 8.  this                | Impact: -0.003973
+ 9.  -                   | Impact: -0.003567
+10.  thank               | Impact: -0.002922
+11. line                 | Impact: -0.002770
+12. x                    | Impact: -0.002752
+13.  :                   | Impact: -0.002328
+14.  st                  | Impact: -0.001908
+15.  -                   | Impact: -0.001742
+16.  price               | Impact: -0.001651
+17.  ,                   | Impact: -0.001378
+18.  cc                  | Impact: -0.001147
+19.  -                   | Impact: -0.001142
+20.  -                   | Impact: -0.000767

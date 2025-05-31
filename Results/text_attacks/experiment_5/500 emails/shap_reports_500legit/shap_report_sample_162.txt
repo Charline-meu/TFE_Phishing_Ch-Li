@@ -1,0 +1,75 @@
+Sample 162
+==========
+
+Sample text preview: This article from NYTimes.com has been sent to you by I'm sure that at the end of the universe, they'll still only find Douglas Adams, calmly munching...
+
+Model prediction: [9.9940753e-01 5.9244758e-04]
+Predicted class: LEGITIMATE with 0.9994 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.                      | Impact: -0.001160 → LEGITIMATE
+ 2.  this                | Impact: -0.001160 → LEGITIMATE
+ 3.  article             | Impact: -0.001160 → LEGITIMATE
+ 4.  from                | Impact: -0.001160 → LEGITIMATE
+ 5.  ro                  | Impact: -0.000997 → LEGITIMATE
+ 6. hit                  | Impact: -0.000997 → LEGITIMATE
+ 7.  .                   | Impact: -0.000997 → LEGITIMATE
+ 8.  in                  | Impact: -0.000997 → LEGITIMATE
+ 9.  the                 | Impact: -0.000997 → LEGITIMATE
+10.  beginning           | Impact: -0.000997 → LEGITIMATE
+11.  ny                  | Impact: -0.000943 → LEGITIMATE
+12. time                 | Impact: -0.000943 → LEGITIMATE
+13. s                    | Impact: -0.000943 → LEGITIMATE
+14.  .                   | Impact: -0.000943 → LEGITIMATE
+15.  com                 | Impact: 0.000887 → PHISHING
+16.  has                 | Impact: 0.000887 → PHISHING
+17.  been                | Impact: 0.000887 → PHISHING
+18.  sent                | Impact: 0.000887 → PHISHING
+19.  to                  | Impact: 0.000887 → PHISHING
+20.  you                 | Impact: 0.000887 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  com                 | Impact: 0.000887
+ 2.  has                 | Impact: 0.000887
+ 3.  been                | Impact: 0.000887
+ 4.  sent                | Impact: 0.000887
+ 5.  to                  | Impact: 0.000887
+ 6.  you                 | Impact: 0.000887
+ 7.  by                  | Impact: 0.000887
+ 8.  it                  | Impact: 0.000454
+ 9.  pu                  | Impact: 0.000454
+10. rp                   | Impact: 0.000454
+11. ort                  | Impact: 0.000454
+12. s                    | Impact: 0.000454
+13.  when                | Impact: 0.000454
+14.  the                 | Impact: 0.000454
+15.  universe            | Impact: 0.000454
+16.  was                 | Impact: 0.000454
+17.  a                   | Impact: 0.000454
+18.  boiling             | Impact: 0.000454
+19.  particles           | Impact: 0.000454
+20.  ,                   | Impact: 0.000454
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.001160
+ 2.  this                | Impact: -0.001160
+ 3.  article             | Impact: -0.001160
+ 4.  from                | Impact: -0.001160
+ 5.  ro                  | Impact: -0.000997
+ 6. hit                  | Impact: -0.000997
+ 7.  .                   | Impact: -0.000997
+ 8.  in                  | Impact: -0.000997
+ 9.  the                 | Impact: -0.000997
+10.  beginning           | Impact: -0.000997
+11.  ny                  | Impact: -0.000943
+12. time                 | Impact: -0.000943
+13. s                    | Impact: -0.000943
+14.  .                   | Impact: -0.000943
+15.  ?                   | Impact: -0.000755
+16.  !                   | Impact: -0.000755
+17.  ?                   | Impact: -0.000755
+18.  -                   | Impact: -0.000755
+19.  -                   | Impact: -0.000755
+20.  is                  | Impact: -0.000755

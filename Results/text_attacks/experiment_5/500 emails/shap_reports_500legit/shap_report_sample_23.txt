@@ -1,0 +1,64 @@
+Sample 23
+=========
+
+Sample text preview: Debra Perlingiere Enron North America Corp. Legal Department Smith Street, EB Houston, Texas Phone -- Fax --
+
+Model prediction: [9.9976009e-01 2.3996906e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.070837 → LEGITIMATE
+ 2.  street              | Impact: 0.057571 → PHISHING
+ 3.  e                   | Impact: -0.051427 → LEGITIMATE
+ 4.  america             | Impact: 0.041807 → PHISHING
+ 5.  houston             | Impact: -0.034839 → LEGITIMATE
+ 6.  phone               | Impact: 0.029271 → PHISHING
+ 7.  smith               | Impact: 0.021975 → PHISHING
+ 8.  debra               | Impact: -0.019992 → LEGITIMATE
+ 9.  -                   | Impact: -0.019411 → LEGITIMATE
+10. ling                 | Impact: 0.014793 → PHISHING
+11. iere                 | Impact: 0.014351 → PHISHING
+12. b                    | Impact: -0.014188 → LEGITIMATE
+13.  per                 | Impact: -0.013169 → LEGITIMATE
+14.  -                   | Impact: -0.012771 → LEGITIMATE
+15.  -                   | Impact: -0.011039 → LEGITIMATE
+16. x                    | Impact: 0.008973 → PHISHING
+17.  .                   | Impact: -0.008153 → LEGITIMATE
+18.  en                  | Impact: 0.008112 → PHISHING
+19.  ,                   | Impact: 0.005698 → PHISHING
+20.  -                   | Impact: -0.004337 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  street              | Impact: 0.057571
+ 2.  america             | Impact: 0.041807
+ 3.  phone               | Impact: 0.029271
+ 4.  smith               | Impact: 0.021975
+ 5. ling                 | Impact: 0.014793
+ 6. iere                 | Impact: 0.014351
+ 7. x                    | Impact: 0.008973
+ 8.  en                  | Impact: 0.008112
+ 9.  ,                   | Impact: 0.005698
+10.  fa                  | Impact: 0.004196
+11.  ,                   | Impact: 0.002750
+12.  north               | Impact: 0.001243
+13.                      | Impact: 0.000000
+14.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.070837
+ 2.  e                   | Impact: -0.051427
+ 3.  houston             | Impact: -0.034839
+ 4.  debra               | Impact: -0.019992
+ 5.  -                   | Impact: -0.019411
+ 6. b                    | Impact: -0.014188
+ 7.  per                 | Impact: -0.013169
+ 8.  -                   | Impact: -0.012771
+ 9.  -                   | Impact: -0.011039
+10.  .                   | Impact: -0.008153
+11.  -                   | Impact: -0.004337
+12.  texas               | Impact: -0.003209
+13.  corp                | Impact: -0.000336
+14.  department          | Impact: -0.000246
+15.  legal               | Impact: -0.000004

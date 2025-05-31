@@ -1,0 +1,75 @@
+Sample 282
+==========
+
+Sample text preview: On Sat, Jul , at ::PM +, Kenn Humborg wrote: > > mine, and i is happy person once again. In case you were wondering, the > > aim of all of this was to...
+
+Model prediction: [9.9978846e-01 2.1155107e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  person              | Impact: 0.008401 → PHISHING
+ 2.  wrote               | Impact: -0.008173 → LEGITIMATE
+ 3.  indeed              | Impact: 0.006866 → PHISHING
+ 4.  happy               | Impact: 0.006230 → PHISHING
+ 5.  >                   | Impact: -0.005522 → LEGITIMATE
+ 6.  >                   | Impact: -0.005363 → LEGITIMATE
+ 7.  :                   | Impact: -0.004328 → LEGITIMATE
+ 8.  is                  | Impact: 0.003729 → PHISHING
+ 9. n                    | Impact: 0.003545 → PHISHING
+10.  you                 | Impact: 0.003369 → PHISHING
+11.  ,                   | Impact: -0.003315 → LEGITIMATE
+12.  wondering           | Impact: -0.002750 → LEGITIMATE
+13.  was                 | Impact: 0.002535 → PHISHING
+14.  determined          | Impact: 0.002447 → PHISHING
+15.  find                | Impact: 0.002399 → PHISHING
+16.  .                   | Impact: -0.002307 → LEGITIMATE
+17.  were                | Impact: 0.002023 → PHISHING
+18.  -                   | Impact: -0.001858 → LEGITIMATE
+19.  back                | Impact: -0.001858 → LEGITIMATE
+20.  >                   | Impact: -0.001808 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  person              | Impact: 0.008401
+ 2.  indeed              | Impact: 0.006866
+ 3.  happy               | Impact: 0.006230
+ 4.  is                  | Impact: 0.003729
+ 5. n                    | Impact: 0.003545
+ 6.  you                 | Impact: 0.003369
+ 7.  was                 | Impact: 0.002535
+ 8.  determined          | Impact: 0.002447
+ 9.  find                | Impact: 0.002399
+10.  were                | Impact: 0.002023
+11.  to                  | Impact: 0.001764
+12.  hum                 | Impact: 0.001691
+13. borg                 | Impact: 0.001546
+14.  in                  | Impact: 0.001525
+15.  i                   | Impact: 0.001458
+16.  couldn              | Impact: 0.000821
+17.  once                | Impact: 0.000759
+18.  again               | Impact: 0.000740
+19.  and                 | Impact: 0.000575
+20.  '                   | Impact: 0.000513
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  wrote               | Impact: -0.008173
+ 2.  >                   | Impact: -0.005522
+ 3.  >                   | Impact: -0.005363
+ 4.  :                   | Impact: -0.004328
+ 5.  ,                   | Impact: -0.003315
+ 6.  wondering           | Impact: -0.002750
+ 7.  .                   | Impact: -0.002307
+ 8.  -                   | Impact: -0.001858
+ 9.  back                | Impact: -0.001858
+10.  >                   | Impact: -0.001808
+11.  case                | Impact: -0.001545
+12.  ken                 | Impact: -0.001399
+13.  im                  | Impact: -0.001345
+14. ap                   | Impact: -0.001345
+15.  and                 | Impact: -0.001324
+16.  ,                   | Impact: -0.001241
+17.  question            | Impact: -0.001235
+18.  i                   | Impact: -0.001213
+19.  >                   | Impact: -0.001207
+20.  >                   | Impact: -0.001196

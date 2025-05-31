@@ -1,0 +1,55 @@
+Sample 431
+==========
+
+Sample text preview: GREETINGS FROM MR. ABU M.SESAY DEAR FRIEND, THROUGH THE COURTESY OF BUSINESS OPPORTUNITY, I TAKE LIBERTY ANCHORED ON A STRONG DESIRE TO SOLICIT YOUR A...
+
+Model prediction: [1.7965367e-04 9.9982041e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.009298 → PHISHING
+ 2.  children            | Impact: 0.009298 → PHISHING
+ 3.  ,                   | Impact: 0.009298 → PHISHING
+ 4.  my                  | Impact: 0.006490 → PHISHING
+ 5.  wife                | Impact: 0.006490 → PHISHING
+ 6.  along               | Impact: 0.006490 → PHISHING
+ 7.  with                | Impact: 0.006490 → PHISHING
+ 8.  se                  | Impact: 0.005523 → PHISHING
+ 9. say                  | Impact: 0.005523 → PHISHING
+10.  dear                | Impact: 0.005523 → PHISHING
+11.  friend              | Impact: 0.005523 → PHISHING
+12.  with                | Impact: 0.005280 → PHISHING
+13.  my                  | Impact: 0.005280 → PHISHING
+14.  wife                | Impact: 0.005280 → PHISHING
+15.  billions            | Impact: 0.005157 → PHISHING
+16.  of                  | Impact: 0.005157 → PHISHING
+17.  dollars             | Impact: 0.005157 → PHISHING
+18.  deposited           | Impact: 0.005157 → PHISHING
+19.  leone               | Impact: 0.005146 → PHISHING
+20.  to                  | Impact: 0.005146 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.009298
+ 2.  children            | Impact: 0.009298
+ 3.  ,                   | Impact: 0.009298
+ 4.  my                  | Impact: 0.006490
+ 5.  wife                | Impact: 0.006490
+ 6.  along               | Impact: 0.006490
+ 7.  with                | Impact: 0.006490
+ 8.  se                  | Impact: 0.005523
+ 9. say                  | Impact: 0.005523
+10.  dear                | Impact: 0.005523
+11.  friend              | Impact: 0.005523
+12.  with                | Impact: 0.005280
+13.  my                  | Impact: 0.005280
+14.  wife                | Impact: 0.005280
+15.  billions            | Impact: 0.005157
+16.  of                  | Impact: 0.005157
+17.  dollars             | Impact: 0.005157
+18.  deposited           | Impact: 0.005157
+19.  leone               | Impact: 0.005146
+20.  to                  | Impact: 0.005146
+
+Top features pushing towards LEGITIMATE classification:

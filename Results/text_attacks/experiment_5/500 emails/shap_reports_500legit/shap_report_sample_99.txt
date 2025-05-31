@@ -1,0 +1,75 @@
+Sample 99
+=========
+
+Sample text preview: ---------------------- Forwarded by Mary Poorman/NA/Enron on // : AM --------------------------- "Shankster JL (Luther)" on // :: AM To: "'Lamphier, G...
+
+Model prediction: [9.9979514e-01 2.0491407e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  nominations         | Impact: -0.013002 → LEGITIMATE
+ 2.  gas                 | Impact: -0.004491 → LEGITIMATE
+ 3.  deer                | Impact: 0.003269 → PHISHING
+ 4.  -                   | Impact: -0.003041 → LEGITIMATE
+ 5.  firm                | Impact: 0.002535 → PHISHING
+ 6.  basel               | Impact: 0.002264 → PHISHING
+ 7. oa                   | Impact: 0.001839 → PHISHING
+ 8.  gary                | Impact: -0.001836 → LEGITIMATE
+ 9.  are                 | Impact: 0.001678 → PHISHING
+10.  shell               | Impact: 0.001644 → PHISHING
+11.  :                   | Impact: 0.001137 → PHISHING
+12.  any                 | Impact: -0.001097 → LEGITIMATE
+13.  questions           | Impact: -0.001097 → LEGITIMATE
+14.  j                   | Impact: -0.001097 → LEGITIMATE
+15.  j                   | Impact: -0.001068 → LEGITIMATE
+16. ron                  | Impact: -0.001021 → LEGITIMATE
+17.  luther              | Impact: -0.000945 → LEGITIMATE
+18.  (                   | Impact: -0.000933 → LEGITIMATE
+19. l                    | Impact: -0.000882 → LEGITIMATE
+20.  en                  | Impact: -0.000857 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  deer                | Impact: 0.003269
+ 2.  firm                | Impact: 0.002535
+ 3.  basel               | Impact: 0.002264
+ 4. oa                   | Impact: 0.001839
+ 5.  are                 | Impact: 0.001678
+ 6.  shell               | Impact: 0.001644
+ 7.  :                   | Impact: 0.001137
+ 8.  delivery            | Impact: 0.000804
+ 9.  deer                | Impact: 0.000688
+10.  contract            | Impact: 0.000292
+11.  quantities          | Impact: 0.000292
+12.  delivery            | Impact: 0.000262
+13.  of                  | Impact: 0.000262
+14.  mm                  | Impact: 0.000259
+15. bt                   | Impact: 0.000259
+16.  mm                  | Impact: 0.000210
+17. bt                   | Impact: 0.000210
+18. u                    | Impact: 0.000210
+19.  -                   | Impact: 0.000178
+20.  hp                  | Impact: 0.000178
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  nominations         | Impact: -0.013002
+ 2.  gas                 | Impact: -0.004491
+ 3.  -                   | Impact: -0.003041
+ 4.  gary                | Impact: -0.001836
+ 5.  any                 | Impact: -0.001097
+ 6.  questions           | Impact: -0.001097
+ 7.  j                   | Impact: -0.001097
+ 8.  j                   | Impact: -0.001068
+ 9. ron                  | Impact: -0.001021
+10.  luther              | Impact: -0.000945
+11.  (                   | Impact: -0.000933
+12. l                    | Impact: -0.000882
+13.  en                  | Impact: -0.000857
+14.  -                   | Impact: -0.000737
+15.  on                  | Impact: -0.000604
+16.  /                   | Impact: -0.000604
+17.  activity            | Impact: -0.000554
+18.  for                 | Impact: -0.000547
+19.  .                   | Impact: -0.000540
+20.  -                   | Impact: -0.000526

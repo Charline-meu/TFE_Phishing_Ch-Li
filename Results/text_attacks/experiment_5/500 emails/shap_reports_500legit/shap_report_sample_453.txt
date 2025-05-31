@@ -1,0 +1,75 @@
+Sample 453
+==========
+
+Sample text preview: Due to some problems with my email yesterday, I may not have received your RSVP.....please excuse any confusion this may have caused. RSVP REQUESTED! ...
+
+Model prediction: [9.9980193e-01 1.9803781e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.023111 → LEGITIMATE
+ 2. ron                  | Impact: -0.013067 → LEGITIMATE
+ 3.  regulation          | Impact: -0.010169 → LEGITIMATE
+ 4.  on                  | Impact: -0.008705 → LEGITIMATE
+ 5.  emissions           | Impact: -0.008705 → LEGITIMATE
+ 6.  advocacy            | Impact: -0.007419 → LEGITIMATE
+ 7.  objectives          | Impact: -0.007188 → LEGITIMATE
+ 8.  markets             | Impact: -0.006843 → LEGITIMATE
+ 9.  )                   | Impact: -0.004524 → LEGITIMATE
+10.  :                   | Impact: -0.004285 → LEGITIMATE
+11.  .                   | Impact: -0.003879 → LEGITIMATE
+12.  en                  | Impact: -0.003790 → LEGITIMATE
+13. ron                  | Impact: -0.003790 → LEGITIMATE
+14.  efforts             | Impact: -0.003505 → LEGITIMATE
+15.  the                 | Impact: -0.003430 → LEGITIMATE
+16.  legislation         | Impact: -0.003334 → LEGITIMATE
+17.  -                   | Impact: -0.003334 → LEGITIMATE
+18.  emissions           | Impact: -0.003141 → LEGITIMATE
+19.  issues              | Impact: -0.003141 → LEGITIMATE
+20.  -                   | Impact: -0.003141 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.001987
+ 2.  .                   | Impact: 0.001987
+ 3.  '                   | Impact: 0.001745
+ 4.  s                   | Impact: 0.001745
+ 5.  and                 | Impact: 0.001622
+ 6.  ,                   | Impact: 0.001597
+ 7.  ,                   | Impact: 0.000734
+ 8.  worldwide           | Impact: 0.000628
+ 9.  friday              | Impact: 0.000608
+10.  please              | Impact: 0.000599
+11.  excuse              | Impact: 0.000599
+12.  any                 | Impact: 0.000599
+13.  confusion           | Impact: 0.000599
+14.  s                   | Impact: 0.000341
+15.  .                   | Impact: 0.000341
+16.  and                 | Impact: 0.000319
+17.  ,                   | Impact: 0.000246
+18.  nw                  | Impact: 0.000236
+19.  suite               | Impact: 0.000236
+20.  washington          | Impact: 0.000236
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.023111
+ 2. ron                  | Impact: -0.013067
+ 3.  regulation          | Impact: -0.010169
+ 4.  on                  | Impact: -0.008705
+ 5.  emissions           | Impact: -0.008705
+ 6.  advocacy            | Impact: -0.007419
+ 7.  objectives          | Impact: -0.007188
+ 8.  markets             | Impact: -0.006843
+ 9.  )                   | Impact: -0.004524
+10.  :                   | Impact: -0.004285
+11.  .                   | Impact: -0.003879
+12.  en                  | Impact: -0.003790
+13. ron                  | Impact: -0.003790
+14.  efforts             | Impact: -0.003505
+15.  the                 | Impact: -0.003430
+16.  legislation         | Impact: -0.003334
+17.  -                   | Impact: -0.003334
+18.  emissions           | Impact: -0.003141
+19.  issues              | Impact: -0.003141
+20.  -                   | Impact: -0.003141

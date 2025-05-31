@@ -1,0 +1,67 @@
+Sample 347
+==========
+
+Sample text preview: Dear Member, You have an urget message regarding your card services visit our secure server below to read. Note: Failure to take action will result to...
+
+Model prediction: [1.754218e-04 9.998246e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.223134 → PHISHING
+ 2.  your                | Impact: 0.162060 → PHISHING
+ 3.  termination         | Impact: 0.114459 → PHISHING
+ 4.  services            | Impact: 0.078257 → PHISHING
+ 5.  secure              | Impact: 0.066731 → PHISHING
+ 6.  action              | Impact: 0.053873 → PHISHING
+ 7.  thanks              | Impact: -0.047141 → LEGITIMATE
+ 8.  team                | Impact: 0.043493 → PHISHING
+ 9.  your                | Impact: 0.041169 → PHISHING
+10.  :                   | Impact: -0.035082 → LEGITIMATE
+11.  result              | Impact: 0.032968 → PHISHING
+12.  failure             | Impact: 0.030940 → PHISHING
+13.                      | Impact: 0.028488 → PHISHING
+14.  .                   | Impact: -0.026629 → LEGITIMATE
+15.  our                 | Impact: 0.024809 → PHISHING
+16.  visit               | Impact: 0.023674 → PHISHING
+17.  express             | Impact: 0.022507 → PHISHING
+18.  services            | Impact: 0.021881 → PHISHING
+19.  you                 | Impact: 0.021782 → PHISHING
+20.  below               | Impact: 0.020291 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.223134
+ 2.  your                | Impact: 0.162060
+ 3.  termination         | Impact: 0.114459
+ 4.  services            | Impact: 0.078257
+ 5.  secure              | Impact: 0.066731
+ 6.  action              | Impact: 0.053873
+ 7.  team                | Impact: 0.043493
+ 8.  your                | Impact: 0.041169
+ 9.  result              | Impact: 0.032968
+10.  failure             | Impact: 0.030940
+11.                      | Impact: 0.028488
+12.  our                 | Impact: 0.024809
+13.  visit               | Impact: 0.023674
+14.  express             | Impact: 0.022507
+15.  services            | Impact: 0.021881
+16.  you                 | Impact: 0.021782
+17.  below               | Impact: 0.020291
+18.  member              | Impact: 0.019319
+19.  will                | Impact: 0.016501
+20.  message             | Impact: 0.016063
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.047141
+ 2.  :                   | Impact: -0.035082
+ 3.  .                   | Impact: -0.026629
+ 4.  .                   | Impact: -0.019622
+ 5.  card                | Impact: -0.012111
+ 6.  note                | Impact: -0.007171
+ 7.  .                   | Impact: -0.006277
+ 8.  to                  | Impact: -0.002030
+ 9.  to                  | Impact: -0.000947
+10.  .                   | Impact: -0.000763
+11.  have                | Impact: -0.000727
+12. t                    | Impact: -0.000250

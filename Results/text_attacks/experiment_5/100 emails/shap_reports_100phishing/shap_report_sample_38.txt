@@ -1,0 +1,75 @@
+Phishing Sample 38
+==================
+
+Sample text preview: Mr TIMI ALAIBE Executive Director Project, Niger Delta Development Commission, Old Secretariat Complex, Victorial-Island, Lagos. Tel:+ Dear Sir, I am ...
+
+Model prediction: [1.8179890e-04 9.9981827e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lagos               | Impact: 0.013783 → PHISHING
+ 2.  .                   | Impact: 0.013783 → PHISHING
+ 3.                      | Impact: 0.012476 → PHISHING
+ 4.  mr                  | Impact: 0.012476 → PHISHING
+ 5.  +                   | Impact: 0.009565 → PHISHING
+ 6.  dear                | Impact: 0.009565 → PHISHING
+ 7.  sir                 | Impact: 0.009565 → PHISHING
+ 8.  account             | Impact: 0.006649 → PHISHING
+ 9.  central             | Impact: 0.006649 → PHISHING
+10.  bank                | Impact: 0.006649 → PHISHING
+11.  of                  | Impact: 0.006649 → PHISHING
+12.  nigeria             | Impact: 0.006649 → PHISHING
+13.  arrive              | Impact: 0.006595 → PHISHING
+14.  your                | Impact: 0.006595 → PHISHING
+15.  the                 | Impact: 0.006273 → PHISHING
+16.  funds               | Impact: 0.006273 → PHISHING
+17.  tel                 | Impact: 0.006103 → PHISHING
+18.  :                   | Impact: 0.006103 → PHISHING
+19.  bank                | Impact: 0.005961 → PHISHING
+20.  account             | Impact: 0.005961 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  lagos               | Impact: 0.013783
+ 2.  .                   | Impact: 0.013783
+ 3.                      | Impact: 0.012476
+ 4.  mr                  | Impact: 0.012476
+ 5.  +                   | Impact: 0.009565
+ 6.  dear                | Impact: 0.009565
+ 7.  sir                 | Impact: 0.009565
+ 8.  account             | Impact: 0.006649
+ 9.  central             | Impact: 0.006649
+10.  bank                | Impact: 0.006649
+11.  of                  | Impact: 0.006649
+12.  nigeria             | Impact: 0.006649
+13.  arrive              | Impact: 0.006595
+14.  your                | Impact: 0.006595
+15.  the                 | Impact: 0.006273
+16.  funds               | Impact: 0.006273
+17.  tel                 | Impact: 0.006103
+18.  :                   | Impact: 0.006103
+19.  bank                | Impact: 0.005961
+20.  account             | Impact: 0.005961
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  myself              | Impact: -0.000497
+ 2.  and                 | Impact: -0.000497
+ 3.  other               | Impact: -0.000497
+ 4.  colleagues          | Impact: -0.000497
+ 5.  in                  | Impact: -0.000497
+ 6.  the                 | Impact: -0.000497
+ 7.  n                   | Impact: -0.000497
+ 8. dd                   | Impact: -0.000497
+ 9. c                    | Impact: -0.000497
+10.  however             | Impact: -0.000104
+11.  ,                   | Impact: -0.000104
+12.  by                  | Impact: -0.000104
+13.  virtue              | Impact: -0.000104
+14.  of                  | Impact: -0.000104
+15.  my                  | Impact: -0.000104
+16.  position            | Impact: -0.000104
+17.  as                  | Impact: -0.000104
+18.  civil               | Impact: -0.000104
+19.  servant             | Impact: -0.000104
+20.  and                 | Impact: -0.000104

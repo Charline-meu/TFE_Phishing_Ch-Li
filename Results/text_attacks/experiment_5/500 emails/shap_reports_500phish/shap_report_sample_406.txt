@@ -1,0 +1,75 @@
+Sample 406
+==========
+
+Sample text preview: No VS Cethswayo Estate Generation-South Africa. Satelite phone no. - ..................... {URGENT AND CONFIDENTIAL} (RE: TRANSFER OF ($ ,.. USD} {ONE...
+
+Model prediction: [2.0545500e-04 9.9979454e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  this                | Impact: 0.011067 → PHISHING
+ 2.  money               | Impact: 0.011067 → PHISHING
+ 3.  into                | Impact: 0.011067 → PHISHING
+ 4.  a                   | Impact: 0.011067 → PHISHING
+ 5.  safe                | Impact: 0.011067 → PHISHING
+ 6.  foreigners          | Impact: 0.011067 → PHISHING
+ 7.  account             | Impact: 0.011067 → PHISHING
+ 8.  abroad              | Impact: 0.011067 → PHISHING
+ 9.  before              | Impact: 0.011067 → PHISHING
+10.  the                 | Impact: 0.011067 → PHISHING
+11.  rest                | Impact: 0.011067 → PHISHING
+12.  ,                   | Impact: 0.011067 → PHISHING
+13.  i                   | Impact: 0.009356 → PHISHING
+14.  am                  | Impact: 0.009356 → PHISHING
+15.  only                | Impact: 0.009356 → PHISHING
+16.  contact             | Impact: 0.009356 → PHISHING
+17. ing                  | Impact: 0.009356 → PHISHING
+18.  you                 | Impact: 0.009356 → PHISHING
+19.  as                  | Impact: 0.009356 → PHISHING
+20.  a                   | Impact: 0.009356 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  this                | Impact: 0.011067
+ 2.  money               | Impact: 0.011067
+ 3.  into                | Impact: 0.011067
+ 4.  a                   | Impact: 0.011067
+ 5.  safe                | Impact: 0.011067
+ 6.  foreigners          | Impact: 0.011067
+ 7.  account             | Impact: 0.011067
+ 8.  abroad              | Impact: 0.011067
+ 9.  before              | Impact: 0.011067
+10.  the                 | Impact: 0.011067
+11.  rest                | Impact: 0.011067
+12.  ,                   | Impact: 0.011067
+13.  i                   | Impact: 0.009356
+14.  am                  | Impact: 0.009356
+15.  only                | Impact: 0.009356
+16.  contact             | Impact: 0.009356
+17. ing                  | Impact: 0.009356
+18.  you                 | Impact: 0.009356
+19.  as                  | Impact: 0.009356
+20.  a                   | Impact: 0.009356
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  even                | Impact: -0.000241
+ 2.  an                  | Impact: -0.000241
+ 3.  empty               | Impact: -0.000241
+ 4.  a                   | Impact: -0.000241
+ 5.  /                   | Impact: -0.000241
+ 6.  c                   | Impact: -0.000241
+ 7.  can                 | Impact: -0.000241
+ 8.  serve               | Impact: -0.000241
+ 9.  during              | Impact: -0.000010
+10.  the                 | Impact: -0.000010
+11.  course              | Impact: -0.000010
+12.  of                  | Impact: -0.000010
+13.  our                 | Impact: -0.000010
+14.  audit               | Impact: -0.000010
+15. ing                  | Impact: -0.000010
+16.  i                   | Impact: -0.000010
+17.  discovered          | Impact: -0.000010
+18.  a                   | Impact: -0.000010
+19.  floating            | Impact: -0.000010
+20.  fund                | Impact: -0.000010

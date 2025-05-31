@@ -1,0 +1,73 @@
+Sample 174
+==========
+
+Sample text preview: Hello, My name is Dr.Frances Omereme, the Auditing credit and foreign bill director of Union Bank of Nigeria[U.B.N]. I am writing in respect of foreig...
+
+Model prediction: [1.6581602e-04 9.9983418e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.018103 → PHISHING
+ 2.  name                | Impact: 0.018103 → PHISHING
+ 3.  hello               | Impact: 0.013633 → PHISHING
+ 4.  bank                | Impact: 0.011241 → PHISHING
+ 5.  with                | Impact: 0.011241 → PHISHING
+ 6.  of                  | Impact: 0.009945 → PHISHING
+ 7.  my                  | Impact: 0.009945 → PHISHING
+ 8.  is                  | Impact: 0.009008 → PHISHING
+ 9.  dr                  | Impact: 0.009008 → PHISHING
+10.                      | Impact: 0.006364 → PHISHING
+11.  you                 | Impact: 0.004733 → PHISHING
+12.  receive             | Impact: 0.004733 → PHISHING
+13.  who                 | Impact: 0.004651 → PHISHING
+14.  died                | Impact: 0.004651 → PHISHING
+15.  in                  | Impact: 0.004651 → PHISHING
+16.  a                   | Impact: 0.004651 → PHISHING
+17.  plane               | Impact: 0.004651 → PHISHING
+18.  crash               | Impact: 0.004651 → PHISHING
+19.  ,                   | Impact: 0.004560 → PHISHING
+20.  this                | Impact: 0.004439 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.018103
+ 2.  name                | Impact: 0.018103
+ 3.  hello               | Impact: 0.013633
+ 4.  bank                | Impact: 0.011241
+ 5.  with                | Impact: 0.011241
+ 6.  of                  | Impact: 0.009945
+ 7.  my                  | Impact: 0.009945
+ 8.  is                  | Impact: 0.009008
+ 9.  dr                  | Impact: 0.009008
+10.                      | Impact: 0.006364
+11.  you                 | Impact: 0.004733
+12.  receive             | Impact: 0.004733
+13.  who                 | Impact: 0.004651
+14.  died                | Impact: 0.004651
+15.  in                  | Impact: 0.004651
+16.  a                   | Impact: 0.004651
+17.  plane               | Impact: 0.004651
+18.  crash               | Impact: 0.004651
+19.  ,                   | Impact: 0.004560
+20.  this                | Impact: 0.004439
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  writing             | Impact: -0.004333
+ 2.  in                  | Impact: -0.004333
+ 3.  respect             | Impact: -0.000081
+ 4.  of                  | Impact: -0.000081
+ 5.  foreign             | Impact: -0.000081
+ 6.  customer            | Impact: -0.000081
+ 7.  mail                | Impact: -0.000044
+ 8.  the                 | Impact: -0.000044
+ 9.  application         | Impact: -0.000044
+10.  and                 | Impact: -0.000044
+11.  the                 | Impact: -0.000044
+12.  next                | Impact: -0.000044
+13.  step                | Impact: -0.000044
+14.  to                  | Impact: -0.000044
+15.  take                | Impact: -0.000044
+16.  e                   | Impact: -0.000044
+17.  -                   | Impact: -0.000044
+18.  .                   | Impact: -0.000044

@@ -1,0 +1,75 @@
+Sample 334
+==========
+
+Sample text preview: Karen: We have the schedules and they're several inches thick. Do you want to come by and review them to see which ones you'd like to have, or do you ...
+
+Model prediction: [9.9974316e-01 2.5677888e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.037482 → LEGITIMATE
+ 2.  inches              | Impact: 0.028281 → PHISHING
+ 3.  thanks              | Impact: -0.020611 → LEGITIMATE
+ 4.  schedules           | Impact: 0.015323 → PHISHING
+ 5.  you                 | Impact: 0.014629 → PHISHING
+ 6.  ones                | Impact: -0.014444 → LEGITIMATE
+ 7.  '                   | Impact: -0.013742 → LEGITIMATE
+ 8.  which               | Impact: -0.013581 → LEGITIMATE
+ 9.  please              | Impact: 0.013491 → PHISHING
+10.  review              | Impact: -0.010840 → LEGITIMATE
+11.  advise              | Impact: -0.010532 → LEGITIMATE
+12.  and                 | Impact: 0.010512 → PHISHING
+13.  they                | Impact: 0.009675 → PHISHING
+14.  thick               | Impact: -0.008968 → LEGITIMATE
+15.  simply              | Impact: 0.008507 → PHISHING
+16.  karen               | Impact: -0.008427 → LEGITIMATE
+17.  re                  | Impact: -0.007197 → LEGITIMATE
+18.  like                | Impact: -0.007181 → LEGITIMATE
+19.  by                  | Impact: -0.006928 → LEGITIMATE
+20.  ?                   | Impact: 0.006655 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  inches              | Impact: 0.028281
+ 2.  schedules           | Impact: 0.015323
+ 3.  you                 | Impact: 0.014629
+ 4.  please              | Impact: 0.013491
+ 5.  and                 | Impact: 0.010512
+ 6.  they                | Impact: 0.009675
+ 7.  simply              | Impact: 0.008507
+ 8.  ?                   | Impact: 0.006655
+ 9.  x                   | Impact: 0.005790
+10.  we                  | Impact: 0.004757
+11.  you                 | Impact: 0.003930
+12.  come                | Impact: 0.003211
+13.  have                | Impact: 0.003140
+14.  to                  | Impact: 0.002978
+15.  want                | Impact: 0.002958
+16.  have                | Impact: 0.002832
+17.  to                  | Impact: 0.002794
+18.  to                  | Impact: 0.002789
+19.  mary                | Impact: 0.002189
+20.  them                | Impact: 0.001484
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.037482
+ 2.  thanks              | Impact: -0.020611
+ 3.  ones                | Impact: -0.014444
+ 4.  '                   | Impact: -0.013742
+ 5.  which               | Impact: -0.013581
+ 6.  review              | Impact: -0.010840
+ 7.  advise              | Impact: -0.010532
+ 8.  thick               | Impact: -0.008968
+ 9.  karen               | Impact: -0.008427
+10.  re                  | Impact: -0.007197
+11.  like                | Impact: -0.007181
+12.  by                  | Impact: -0.006928
+13.  .                   | Impact: -0.005878
+14.  ,                   | Impact: -0.004360
+15.  you                 | Impact: -0.003593
+16.  ,                   | Impact: -0.003588
+17.  ,                   | Impact: -0.003580
+18.  or                  | Impact: -0.003381
+19.  the                 | Impact: -0.003060
+20.  do                  | Impact: -0.002711

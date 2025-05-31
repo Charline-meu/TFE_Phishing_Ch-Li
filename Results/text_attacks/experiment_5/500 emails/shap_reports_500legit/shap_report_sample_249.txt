@@ -1,0 +1,75 @@
+Sample 249
+==========
+
+Sample text preview: Bob -- Chris and I discussed this problem with Ken yesterday, and he suggests that we clarify the issue through the CFTC rulemaking process. Both Ken ...
+
+Model prediction: [9.9979037e-01 2.0965727e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  two                 | Impact: 0.001286 → PHISHING
+ 2.  our                 | Impact: 0.000849 → PHISHING
+ 3.  strongly            | Impact: -0.000686 → LEGITIMATE
+ 4.  believe             | Impact: -0.000686 → LEGITIMATE
+ 5.  the                 | Impact: -0.000681 → LEGITIMATE
+ 6.  answer              | Impact: -0.000681 → LEGITIMATE
+ 7.  en                  | Impact: -0.000642 → LEGITIMATE
+ 8. ron                  | Impact: -0.000642 → LEGITIMATE
+ 9.  outside             | Impact: 0.000624 → PHISHING
+10.  lawyers             | Impact: 0.000624 → PHISHING
+11.  is                  | Impact: -0.000604 → LEGITIMATE
+12.  "                   | Impact: -0.000604 → LEGITIMATE
+13.  no                  | Impact: -0.000604 → LEGITIMATE
+14.  ,                   | Impact: -0.000538 → LEGITIMATE
+15.  bill                | Impact: -0.000482 → LEGITIMATE
+16.  )                   | Impact: -0.000482 → LEGITIMATE
+17.  implementing        | Impact: -0.000482 → LEGITIMATE
+18.  the                 | Impact: -0.000482 → LEGITIMATE
+19.  cf                  | Impact: -0.000482 → LEGITIMATE
+20. ma                   | Impact: -0.000482 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  two                 | Impact: 0.001286
+ 2.  our                 | Impact: 0.000849
+ 3.  outside             | Impact: 0.000624
+ 4.  lawyers             | Impact: 0.000624
+ 5.  with                | Impact: 0.000346
+ 6.  so                  | Impact: 0.000346
+ 7.  far                 | Impact: 0.000346
+ 8.  of                  | Impact: 0.000100
+ 9.  course              | Impact: 0.000100
+10.  ,                   | Impact: 0.000100
+11.  basis               | Impact: 0.000099
+12.  .                   | Impact: 0.000099
+13.  ex                  | Impact: 0.000099
+14. ped                  | Impact: 0.000099
+15. ited                 | Impact: 0.000099
+16.  let                 | Impact: 0.000064
+17.  me                  | Impact: 0.000064
+18.  know                | Impact: 0.000064
+19.  if                  | Impact: 0.000064
+20.  you                 | Impact: 0.000064
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  strongly            | Impact: -0.000686
+ 2.  believe             | Impact: -0.000686
+ 3.  the                 | Impact: -0.000681
+ 4.  answer              | Impact: -0.000681
+ 5.  en                  | Impact: -0.000642
+ 6. ron                  | Impact: -0.000642
+ 7.  is                  | Impact: -0.000604
+ 8.  "                   | Impact: -0.000604
+ 9.  no                  | Impact: -0.000604
+10.  ,                   | Impact: -0.000538
+11.  bill                | Impact: -0.000482
+12.  )                   | Impact: -0.000482
+13.  implementing        | Impact: -0.000482
+14.  the                 | Impact: -0.000482
+15.  cf                  | Impact: -0.000482
+16. ma                   | Impact: -0.000482
+17.  .                   | Impact: -0.000482
+18.  the                 | Impact: -0.000398
+19.  next                | Impact: -0.000398
+20.  best                | Impact: -0.000398

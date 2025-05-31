@@ -1,0 +1,70 @@
+Sample 338
+==========
+
+Sample text preview: We're writing to let you know that we detected somethingunurulesual about recent sign-in to yourChhereaseOnfirelinedeppoliticalositacwhethercount. To ...
+
+Model prediction: [2.8576737e-04 9.9971420e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.051527 → PHISHING
+ 2.  sincerely           | Impact: 0.041395 → PHISHING
+ 3.  your                | Impact: 0.031811 → PHISHING
+ 4.  visit               | Impact: 0.028014 → PHISHING
+ 5.  please              | Impact: 0.027384 → PHISHING
+ 6.  please              | Impact: 0.022323 → PHISHING
+ 7.  safe                | Impact: 0.021252 → PHISHING
+ 8. ac                   | Impact: 0.019089 → PHISHING
+ 9.  .                   | Impact: 0.016735 → PHISHING
+10.  log                 | Impact: 0.016689 → PHISHING
+11.  us                  | Impact: 0.016124 → PHISHING
+12. ba                   | Impact: 0.013309 → PHISHING
+13. col                  | Impact: 0.013309 → PHISHING
+14.  your                | Impact: 0.012181 → PHISHING
+15. ace                  | Impact: 0.012181 → PHISHING
+16. line                 | Impact: 0.012144 → PHISHING
+17. ac                   | Impact: 0.012144 → PHISHING
+18. on                   | Impact: 0.011470 → PHISHING
+19. face                 | Impact: 0.011470 → PHISHING
+20.  team                | Impact: 0.010943 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.051527
+ 2.  sincerely           | Impact: 0.041395
+ 3.  your                | Impact: 0.031811
+ 4.  visit               | Impact: 0.028014
+ 5.  please              | Impact: 0.027384
+ 6.  please              | Impact: 0.022323
+ 7.  safe                | Impact: 0.021252
+ 8. ac                   | Impact: 0.019089
+ 9.  .                   | Impact: 0.016735
+10.  log                 | Impact: 0.016689
+11.  us                  | Impact: 0.016124
+12. ba                   | Impact: 0.013309
+13. col                  | Impact: 0.013309
+14.  your                | Impact: 0.012181
+15. ace                  | Impact: 0.012181
+16. line                 | Impact: 0.012144
+17. ac                   | Impact: 0.012144
+18. on                   | Impact: 0.011470
+19. face                 | Impact: 0.011470
+20.  team                | Impact: 0.010943
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  customer            | Impact: -0.004751
+ 2.  :                   | Impact: -0.004751
+ 3.  recently            | Impact: -0.002833
+ 4.  ,                   | Impact: -0.000764
+ 5.  re                  | Impact: -0.000398
+ 6.  writing             | Impact: -0.000398
+ 7.  that                | Impact: -0.000047
+ 8.  seems               | Impact: -0.000047
+ 9. un                   | Impact: -0.000047
+10. ush                  | Impact: -0.000047
+11. akes                 | Impact: -0.000047
+12. ual                  | Impact: -0.000047
+13.  compared            | Impact: -0.000047
+14.  to                  | Impact: -0.000047
+15.  your                | Impact: -0.000047

@@ -1,0 +1,75 @@
+Sample 92
+=========
+
+Sample text preview: From: Dr. Rasheed S. Abubakar, Dear Friend, My Compliment to you, I guess this letter may come to you as a surprise since I had no previous correspond...
+
+Model prediction: [1.7307531e-04 9.9982697e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.008661 → PHISHING
+ 2.  friend              | Impact: 0.008661 → PHISHING
+ 3.  ,                   | Impact: 0.008661 → PHISHING
+ 4.  bank                | Impact: 0.008106 → PHISHING
+ 5.  account             | Impact: 0.008106 → PHISHING
+ 6.  .                   | Impact: 0.008106 → PHISHING
+ 7.  the                 | Impact: 0.007275 → PHISHING
+ 8.  funds               | Impact: 0.007275 → PHISHING
+ 9.  arrive              | Impact: 0.007275 → PHISHING
+10.  your                | Impact: 0.007275 → PHISHING
+11.  abu                 | Impact: 0.007121 → PHISHING
+12. ba                   | Impact: 0.007121 → PHISHING
+13. kar                  | Impact: 0.007121 → PHISHING
+14.  .                   | Impact: 0.007121 → PHISHING
+15.  abu                 | Impact: 0.006723 → PHISHING
+16. ba                   | Impact: 0.006723 → PHISHING
+17. kar                  | Impact: 0.006723 → PHISHING
+18.  ,                   | Impact: 0.006723 → PHISHING
+19.  contact             | Impact: 0.006270 → PHISHING
+20.  me                  | Impact: 0.006270 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.008661
+ 2.  friend              | Impact: 0.008661
+ 3.  ,                   | Impact: 0.008661
+ 4.  bank                | Impact: 0.008106
+ 5.  account             | Impact: 0.008106
+ 6.  .                   | Impact: 0.008106
+ 7.  the                 | Impact: 0.007275
+ 8.  funds               | Impact: 0.007275
+ 9.  arrive              | Impact: 0.007275
+10.  your                | Impact: 0.007275
+11.  abu                 | Impact: 0.007121
+12. ba                   | Impact: 0.007121
+13. kar                  | Impact: 0.007121
+14.  .                   | Impact: 0.007121
+15.  abu                 | Impact: 0.006723
+16. ba                   | Impact: 0.006723
+17. kar                  | Impact: 0.006723
+18.  ,                   | Impact: 0.006723
+19.  contact             | Impact: 0.006270
+20.  me                  | Impact: 0.006270
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  this                | Impact: -0.002738
+ 2.  type                | Impact: -0.002738
+ 3.  are                 | Impact: -0.002738
+ 4.  being               | Impact: -0.002738
+ 5.  way                 | Impact: -0.002094
+ 6.  email               | Impact: -0.002094
+ 7.  proposals           | Impact: -0.002094
+ 8.  of                  | Impact: -0.002094
+ 9.  settle              | Impact: -0.001797
+10. y                    | Impact: -0.001797
+11.  daze                | Impact: -0.001797
+12.  as                  | Impact: -0.001269
+13.  regards             | Impact: -0.001269
+14.  that                | Impact: -0.001269
+15.  ,                   | Impact: -0.001269
+16.  my                  | Impact: -0.001203
+17.  compliment          | Impact: -0.001203
+18.  to                  | Impact: -0.001203
+19.  you                 | Impact: -0.001203
+20.  ,                   | Impact: -0.001203

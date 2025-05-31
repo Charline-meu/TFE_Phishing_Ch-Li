@@ -1,0 +1,75 @@
+Phishing Sample 10
+==================
+
+Sample text preview: From the Office of G. Fredricks Private Client Division Mall London Rd, Swanley Kent BR WL London ECR BP – United Kingdom 📠 FAX: + ⸻ Subject: Unclaime...
+
+Model prediction: [0.00104257 0.9989574 ]
+Predicted class: PHISHING with 0.9990 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ec                  | Impact: -0.060750 → LEGITIMATE
+ 2. r                    | Impact: -0.060750 → LEGITIMATE
+ 3.  estate              | Impact: 0.040602 → PHISHING
+ 4.  notification        | Impact: 0.040602 → PHISHING
+ 5.  portfolio           | Impact: 0.030464 → PHISHING
+ 6.  inquiry             | Impact: 0.030464 → PHISHING
+ 7.  dear                | Impact: 0.030464 → PHISHING
+ 8.  sir                 | Impact: 0.030464 → PHISHING
+ 9.  bp                  | Impact: -0.030349 → LEGITIMATE
+10.  –                   | Impact: -0.030349 → LEGITIMATE
+11.  /                   | Impact: 0.027502 → PHISHING
+12.  madam               | Impact: 0.027502 → PHISHING
+13.  ,                   | Impact: 0.027502 → PHISHING
+14.  fred                | Impact: -0.025286 → LEGITIMATE
+15. rick                 | Impact: -0.025286 → LEGITIMATE
+16.  –                   | Impact: 0.020807 → PHISHING
+17.  private             | Impact: 0.020807 → PHISHING
+18.  private             | Impact: 0.016130 → PHISHING
+19.  client              | Impact: 0.016130 → PHISHING
+20.  with                | Impact: 0.016041 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  estate              | Impact: 0.040602
+ 2.  notification        | Impact: 0.040602
+ 3.  portfolio           | Impact: 0.030464
+ 4.  inquiry             | Impact: 0.030464
+ 5.  dear                | Impact: 0.030464
+ 6.  sir                 | Impact: 0.030464
+ 7.  /                   | Impact: 0.027502
+ 8.  madam               | Impact: 0.027502
+ 9.  ,                   | Impact: 0.027502
+10.  –                   | Impact: 0.020807
+11.  private             | Impact: 0.020807
+12.  private             | Impact: 0.016130
+13.  client              | Impact: 0.016130
+14.  with                | Impact: 0.016041
+15.  international       | Impact: 0.016041
+16.  banking             | Impact: 0.016041
+17.  regulations         | Impact: 0.016041
+18.  and                 | Impact: 0.014529
+19.  a                   | Impact: 0.013282
+20.  foreign             | Impact: 0.013282
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ec                  | Impact: -0.060750
+ 2. r                    | Impact: -0.060750
+ 3.  bp                  | Impact: -0.030349
+ 4.  –                   | Impact: -0.030349
+ 5.  fred                | Impact: -0.025286
+ 6. rick                 | Impact: -0.025286
+ 7. s                    | Impact: -0.014497
+ 8.  international       | Impact: -0.011540
+ 9.  partnership         | Impact: -0.011540
+10.  databases           | Impact: -0.011540
+11.  surfaced            | Impact: -0.011540
+12.  reference           | Impact: -0.011351
+13.  :                   | Impact: -0.011351
+14.  bbc                 | Impact: -0.011351
+15.  archive             | Impact: -0.011351
+16.  report              | Impact: -0.011351
+17.  as                  | Impact: -0.011351
+18.  protocol            | Impact: -0.011351
+19.  the                 | Impact: -0.008230
+20.  direct              | Impact: -0.008230

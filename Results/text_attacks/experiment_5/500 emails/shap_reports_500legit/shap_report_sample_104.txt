@@ -1,0 +1,75 @@
+Sample 104
+==========
+
+Sample text preview: URL: Date: --T::+: *Politics:* Disgraced peer Jeffrey Archer is set to make m from his Belmarsh diaries. But the coup could cost him another year insi...
+
+Model prediction: [9.9976867e-01 2.3129793e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  year                | Impact: 0.086633 → PHISHING
+ 2.  cost                | Impact: 0.075137 → PHISHING
+ 3.  inside              | Impact: 0.068904 → PHISHING
+ 4.  him                 | Impact: 0.065120 → PHISHING
+ 5.  archer              | Impact: -0.057608 → LEGITIMATE
+ 6.  jeffrey             | Impact: -0.055126 → LEGITIMATE
+ 7.  but                 | Impact: -0.054172 → LEGITIMATE
+ 8.  :                   | Impact: -0.047920 → LEGITIMATE
+ 9.  kamal               | Impact: 0.042212 → PHISHING
+10.  disgrace            | Impact: 0.040535 → PHISHING
+11.  diaries             | Impact: -0.038565 → LEGITIMATE
+12.  coup                | Impact: 0.036474 → PHISHING
+13.  :                   | Impact: -0.034147 → LEGITIMATE
+14.  ur                  | Impact: -0.030728 → LEGITIMATE
+15.  *                   | Impact: 0.030379 → PHISHING
+16.  *                   | Impact: -0.029449 → LEGITIMATE
+17.  another             | Impact: 0.029417 → PHISHING
+18.  could               | Impact: 0.025146 → PHISHING
+19.  ,                   | Impact: -0.023913 → LEGITIMATE
+20. sh                   | Impact: -0.023273 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  year                | Impact: 0.086633
+ 2.  cost                | Impact: 0.075137
+ 3.  inside              | Impact: 0.068904
+ 4.  him                 | Impact: 0.065120
+ 5.  kamal               | Impact: 0.042212
+ 6.  disgrace            | Impact: 0.040535
+ 7.  coup                | Impact: 0.036474
+ 8.  *                   | Impact: 0.030379
+ 9.  another             | Impact: 0.029417
+10.  could               | Impact: 0.025146
+11.  ahmed               | Impact: 0.021822
+12.  set                 | Impact: 0.012445
+13.  peer                | Impact: 0.012434
+14. d                    | Impact: 0.011873
+15.  his                 | Impact: 0.011547
+16.  .                   | Impact: 0.009447
+17.  +                   | Impact: 0.005965
+18.  from                | Impact: 0.003708
+19.  to                  | Impact: 0.003507
+20.  -                   | Impact: 0.002393
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  archer              | Impact: -0.057608
+ 2.  jeffrey             | Impact: -0.055126
+ 3.  but                 | Impact: -0.054172
+ 4.  :                   | Impact: -0.047920
+ 5.  diaries             | Impact: -0.038565
+ 6.  :                   | Impact: -0.034147
+ 7.  ur                  | Impact: -0.030728
+ 8.  *                   | Impact: -0.029449
+ 9.  ,                   | Impact: -0.023913
+10. sh                   | Impact: -0.023273
+11. mar                  | Impact: -0.021603
+12. l                    | Impact: -0.021412
+13.  :                   | Impact: -0.019781
+14.  :                   | Impact: -0.019759
+15.  :                   | Impact: -0.017959
+16.  is                  | Impact: -0.017890
+17.  reports             | Impact: -0.014731
+18.  :                   | Impact: -0.012881
+19.  t                   | Impact: -0.012728
+20.  *                   | Impact: -0.011961

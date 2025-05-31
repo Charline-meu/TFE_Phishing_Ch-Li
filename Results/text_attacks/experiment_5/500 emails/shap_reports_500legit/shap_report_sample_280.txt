@@ -1,0 +1,51 @@
+Sample 280
+==========
+
+Sample text preview: If you have any questions, please feel free to call. Best Regards, Brad
+
+Model prediction: [0.99151105 0.00848896]
+Predicted class: LEGITIMATE with 0.9915 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  regards             | Impact: 0.355011 → PHISHING
+ 2.  questions           | Impact: -0.339023 → LEGITIMATE
+ 3.  best                | Impact: 0.270717 → PHISHING
+ 4.  brad                | Impact: -0.256278 → LEGITIMATE
+ 5.  call                | Impact: -0.175380 → LEGITIMATE
+ 6.  free                | Impact: 0.154259 → PHISHING
+ 7.  you                 | Impact: 0.121815 → PHISHING
+ 8.  please              | Impact: 0.120523 → PHISHING
+ 9.  feel                | Impact: -0.115549 → LEGITIMATE
+10.  if                  | Impact: -0.105323 → LEGITIMATE
+11.  to                  | Impact: -0.098940 → LEGITIMATE
+12.  .                   | Impact: -0.068800 → LEGITIMATE
+13.  any                 | Impact: -0.042015 → LEGITIMATE
+14.  ,                   | Impact: 0.031775 → PHISHING
+15.  have                | Impact: 0.025102 → PHISHING
+16.  ,                   | Impact: -0.021658 → LEGITIMATE
+17.                      | Impact: 0.000000 → PHISHING
+18.                      | Impact: 0.000000 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.355011
+ 2.  best                | Impact: 0.270717
+ 3.  free                | Impact: 0.154259
+ 4.  you                 | Impact: 0.121815
+ 5.  please              | Impact: 0.120523
+ 6.  ,                   | Impact: 0.031775
+ 7.  have                | Impact: 0.025102
+ 8.                      | Impact: 0.000000
+ 9.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  questions           | Impact: -0.339023
+ 2.  brad                | Impact: -0.256278
+ 3.  call                | Impact: -0.175380
+ 4.  feel                | Impact: -0.115549
+ 5.  if                  | Impact: -0.105323
+ 6.  to                  | Impact: -0.098940
+ 7.  .                   | Impact: -0.068800
+ 8.  any                 | Impact: -0.042015
+ 9.  ,                   | Impact: -0.021658

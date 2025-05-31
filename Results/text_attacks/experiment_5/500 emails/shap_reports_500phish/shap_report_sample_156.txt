@@ -1,0 +1,70 @@
+Sample 156
+==========
+
+Sample text preview: Hibiscus Street Durbanville Cape Town South Africa. E-mail address: {GREETINGS AND COMPLIMENTS OF THE DAY} Dear Sir/Madam, In order to transfer from a...
+
+Model prediction: [1.7723827e-04 9.9982280e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  cape                | Impact: 0.012993 → PHISHING
+ 2.  town                | Impact: 0.012993 → PHISHING
+ 3.  send                | Impact: 0.011116 → PHISHING
+ 4.  your                | Impact: 0.011116 → PHISHING
+ 5.  south               | Impact: 0.009069 → PHISHING
+ 6.  africa              | Impact: 0.009069 → PHISHING
+ 7.  wish                | Impact: 0.008045 → PHISHING
+ 8.  for                 | Impact: 0.008045 → PHISHING
+ 9.  utmost              | Impact: 0.008045 → PHISHING
+10.  durban              | Impact: 0.007535 → PHISHING
+11. ville                | Impact: 0.007535 → PHISHING
+12.  street              | Impact: 0.006863 → PHISHING
+13.  /                   | Impact: 0.006038 → PHISHING
+14.  madam               | Impact: 0.006038 → PHISHING
+15.  ,                   | Impact: 0.006038 → PHISHING
+16.  day                 | Impact: 0.006038 → PHISHING
+17.  }                   | Impact: 0.006038 → PHISHING
+18.  dear                | Impact: 0.006038 → PHISHING
+19.  sir                 | Impact: 0.006038 → PHISHING
+20.  amount              | Impact: 0.006024 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  cape                | Impact: 0.012993
+ 2.  town                | Impact: 0.012993
+ 3.  send                | Impact: 0.011116
+ 4.  your                | Impact: 0.011116
+ 5.  south               | Impact: 0.009069
+ 6.  africa              | Impact: 0.009069
+ 7.  wish                | Impact: 0.008045
+ 8.  for                 | Impact: 0.008045
+ 9.  utmost              | Impact: 0.008045
+10.  durban              | Impact: 0.007535
+11. ville                | Impact: 0.007535
+12.  street              | Impact: 0.006863
+13.  /                   | Impact: 0.006038
+14.  madam               | Impact: 0.006038
+15.  ,                   | Impact: 0.006038
+16.  day                 | Impact: 0.006038
+17.  }                   | Impact: 0.006038
+18.  dear                | Impact: 0.006038
+19.  sir                 | Impact: 0.006038
+20.  amount              | Impact: 0.006024
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.000386
+ 2.  :                   | Impact: -0.000298
+ 3.  {                   | Impact: -0.000298
+ 4.  greeting            | Impact: -0.000298
+ 5. s                    | Impact: -0.000298
+ 6.  and                 | Impact: -0.000298
+ 7.  e                   | Impact: -0.000298
+ 8.  -                   | Impact: -0.000298
+ 9.  mail                | Impact: -0.000298
+10.  address             | Impact: -0.000298
+11.  and                 | Impact: -0.000028
+12.  i                   | Impact: -0.000028
+13.  work                | Impact: -0.000028
+14.  in                  | Impact: -0.000028
+15.  the                 | Impact: -0.000028

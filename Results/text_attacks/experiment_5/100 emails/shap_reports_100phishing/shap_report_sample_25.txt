@@ -1,0 +1,75 @@
+Phishing Sample 25
+==================
+
+Sample text preview: USMAN BELLO SECRETARY TO THE STATE GOVERNMENT(SSG) GOVERNMENT HOUSE, PMB ASABA DELTA STATE NIGERIA. DEAR SIR, MY NAME IS USMAN BELLO,I AM ONE OF THE S...
+
+Model prediction: [2.3170808e-04 9.9976832e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  nigeria             | Impact: 0.051306 → PHISHING
+ 2.  dear                | Impact: 0.022774 → PHISHING
+ 3.  sir                 | Impact: 0.020562 → PHISHING
+ 4.  presently           | Impact: 0.016868 → PHISHING
+ 5.  my                  | Impact: 0.015660 → PHISHING
+ 6.  name                | Impact: 0.015660 → PHISHING
+ 7.  is                  | Impact: 0.014094 → PHISHING
+ 8.  of                  | Impact: 0.013015 → PHISHING
+ 9.  the                 | Impact: 0.013015 → PHISHING
+10.  money               | Impact: 0.013015 → PHISHING
+11.  ,                   | Impact: 0.013015 → PHISHING
+12.  and                 | Impact: 0.011371 → PHISHING
+13.  release             | Impact: 0.011371 → PHISHING
+14.  funds               | Impact: 0.011371 → PHISHING
+15.  us                  | Impact: 0.010610 → PHISHING
+16. man                  | Impact: 0.010485 → PHISHING
+17.  delta               | Impact: 0.010178 → PHISHING
+18.  state               | Impact: 0.010178 → PHISHING
+19.  regards             | Impact: 0.008821 → PHISHING
+20.  of                  | Impact: 0.008193 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  nigeria             | Impact: 0.051306
+ 2.  dear                | Impact: 0.022774
+ 3.  sir                 | Impact: 0.020562
+ 4.  presently           | Impact: 0.016868
+ 5.  my                  | Impact: 0.015660
+ 6.  name                | Impact: 0.015660
+ 7.  is                  | Impact: 0.014094
+ 8.  of                  | Impact: 0.013015
+ 9.  the                 | Impact: 0.013015
+10.  money               | Impact: 0.013015
+11.  ,                   | Impact: 0.013015
+12.  and                 | Impact: 0.011371
+13.  release             | Impact: 0.011371
+14.  funds               | Impact: 0.011371
+15.  us                  | Impact: 0.010610
+16. man                  | Impact: 0.010485
+17.  delta               | Impact: 0.010178
+18.  state               | Impact: 0.010178
+19.  regards             | Impact: 0.008821
+20.  of                  | Impact: 0.008193
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  some                | Impact: -0.004098
+ 2.  key                 | Impact: -0.004098
+ 3.  members             | Impact: -0.004098
+ 4.  of                  | Impact: -0.004098
+ 5.  the                 | Impact: -0.004098
+ 6.  commit              | Impact: -0.003663
+ 7. tte                  | Impact: -0.003663
+ 8.  .                   | Impact: -0.003663
+ 9.  we                  | Impact: -0.003304
+10.  also                | Impact: -0.003304
+11.  found               | Impact: -0.003304
+12.  that                | Impact: -0.003304
+13.  bell                | Impact: -0.002102
+14. o                    | Impact: -0.002102
+15.  secretary           | Impact: -0.002102
+16.  to                  | Impact: -0.002102
+17.  %                   | Impact: -0.001866
+18.  of                  | Impact: -0.001866
+19.  the                 | Impact: -0.001866
+20.  principal           | Impact: -0.001866

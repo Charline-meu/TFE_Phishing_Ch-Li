@@ -1,0 +1,75 @@
+Sample 203
+==========
+
+Sample text preview: You Can't Beat This Deal: Million email addresses Database, On CDs!! ==Only $.== million email addresses Database, On CD ==Only $.== . Million USA Bus...
+
+Model prediction: [2.9135004e-04 9.9970859e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  fa                  | Impact: 0.007176 → PHISHING
+ 2. x                    | Impact: 0.007176 → PHISHING
+ 3.  numbers             | Impact: 0.007176 → PHISHING
+ 4.  ,                   | Impact: 0.007176 → PHISHING
+ 5.  million             | Impact: 0.007176 → PHISHING
+ 6.  usa                 | Impact: 0.007176 → PHISHING
+ 7.  business            | Impact: 0.007176 → PHISHING
+ 8.  trade               | Impact: 0.005343 → PHISHING
+ 9.  shows               | Impact: 0.005343 → PHISHING
+10.  etc                 | Impact: 0.005343 → PHISHING
+11.  .                   | Impact: 0.005343 → PHISHING
+12.  *                   | Impact: 0.004059 → PHISHING
+13.  persons             | Impact: 0.004059 → PHISHING
+14.  interested          | Impact: 0.004059 → PHISHING
+15.  in                  | Impact: 0.004059 → PHISHING
+16.  travel              | Impact: 0.004059 → PHISHING
+17.  ,                   | Impact: 0.004059 → PHISHING
+18.  sports              | Impact: 0.004059 → PHISHING
+19.  ,                   | Impact: 0.004059 → PHISHING
+20.  dining              | Impact: 0.004059 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  fa                  | Impact: 0.007176
+ 2. x                    | Impact: 0.007176
+ 3.  numbers             | Impact: 0.007176
+ 4.  ,                   | Impact: 0.007176
+ 5.  million             | Impact: 0.007176
+ 6.  usa                 | Impact: 0.007176
+ 7.  business            | Impact: 0.007176
+ 8.  trade               | Impact: 0.005343
+ 9.  shows               | Impact: 0.005343
+10.  etc                 | Impact: 0.005343
+11.  .                   | Impact: 0.005343
+12.  *                   | Impact: 0.004059
+13.  persons             | Impact: 0.004059
+14.  interested          | Impact: 0.004059
+15.  in                  | Impact: 0.004059
+16.  travel              | Impact: 0.004059
+17.  ,                   | Impact: 0.004059
+18.  sports              | Impact: 0.004059
+19.  ,                   | Impact: 0.004059
+20.  dining              | Impact: 0.004059
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  of                  | Impact: -0.000000
+ 2.  card                | Impact: -0.000000
+ 3.  next                | Impact: -0.000000
+ 4.  to                  | Impact: -0.000000
+ 5.  signature           | Impact: -0.000000
+ 6.  :                   | Impact: -0.000000
+ 7.  [                   | Impact: -0.000000
+ 8.  ]                   | Impact: -0.000000
+ 9.  -                   | Impact: -0.000000
+10.  [                   | Impact: -0.000000
+11.  ]                   | Impact: -0.000000
+12.  -                   | Impact: -0.000000
+13.  [                   | Impact: -0.000000
+14.  ]                   | Impact: -0.000000
+15.  card                | Impact: -0.000000
+16. holder               | Impact: -0.000000
+17.  signature           | Impact: -0.000000
+18.  :                   | Impact: -0.000000
+19.  _                   | Impact: -0.000000
+20.  _                   | Impact: -0.000000

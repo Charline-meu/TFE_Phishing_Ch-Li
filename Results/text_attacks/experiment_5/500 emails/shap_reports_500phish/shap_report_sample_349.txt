@@ -1,0 +1,58 @@
+Sample 349
+==========
+
+Sample text preview: Dear Ayoub, Your Uber account has been blocked, please check your payment details and...
+
+Model prediction: [1.9691823e-04 9.9980313e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.157744 → PHISHING
+ 2.  payment             | Impact: 0.140115 → PHISHING
+ 3.  your                | Impact: 0.133040 → PHISHING
+ 4.  your                | Impact: 0.129116 → PHISHING
+ 5.  account             | Impact: 0.121928 → PHISHING
+ 6.  check               | Impact: 0.121824 → PHISHING
+ 7.  blocked             | Impact: 0.092761 → PHISHING
+ 8.  uber                | Impact: -0.073496 → LEGITIMATE
+ 9.  please              | Impact: 0.046142 → PHISHING
+10. you                  | Impact: 0.034403 → PHISHING
+11.  details             | Impact: 0.032927 → PHISHING
+12.  .                   | Impact: -0.025076 → LEGITIMATE
+13.  .                   | Impact: -0.023893 → LEGITIMATE
+14.  and                 | Impact: 0.020633 → PHISHING
+15.  .                   | Impact: 0.018108 → PHISHING
+16.  ,                   | Impact: -0.014413 → LEGITIMATE
+17.  has                 | Impact: -0.011276 → LEGITIMATE
+18.  ,                   | Impact: 0.009128 → PHISHING
+19.  been                | Impact: 0.008383 → PHISHING
+20. b                    | Impact: -0.003702 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.157744
+ 2.  payment             | Impact: 0.140115
+ 3.  your                | Impact: 0.133040
+ 4.  your                | Impact: 0.129116
+ 5.  account             | Impact: 0.121928
+ 6.  check               | Impact: 0.121824
+ 7.  blocked             | Impact: 0.092761
+ 8.  please              | Impact: 0.046142
+ 9. you                  | Impact: 0.034403
+10.  details             | Impact: 0.032927
+11.  and                 | Impact: 0.020633
+12.  .                   | Impact: 0.018108
+13.  ,                   | Impact: 0.009128
+14.  been                | Impact: 0.008383
+15.                      | Impact: 0.000058
+16.                      | Impact: 0.000008
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  uber                | Impact: -0.073496
+ 2.  .                   | Impact: -0.025076
+ 3.  .                   | Impact: -0.023893
+ 4.  ,                   | Impact: -0.014413
+ 5.  has                 | Impact: -0.011276
+ 6. b                    | Impact: -0.003702
+ 7.  a                   | Impact: -0.001886

@@ -1,0 +1,75 @@
+Sample 275
+==========
+
+Sample text preview: From: Mr.Morris Yomoni. Tel:--- URGENT AND PRIVATE Sir / Madam, Please accept my apology if this letter comes to you as a surprise since I believe tha...
+
+Model prediction: [1.6153224e-04 9.9983847e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  this                | Impact: 0.007620 → PHISHING
+ 2.  fund                | Impact: 0.007620 → PHISHING
+ 3.  in                  | Impact: 0.007620 → PHISHING
+ 4.  en                  | Impact: 0.007329 → PHISHING
+ 5. rich                 | Impact: 0.007329 → PHISHING
+ 6. ing                  | Impact: 0.007329 → PHISHING
+ 7.  position            | Impact: 0.006900 → PHISHING
+ 8.  within              | Impact: 0.006900 → PHISHING
+ 9.  in                  | Impact: 0.006900 → PHISHING
+10.  the                 | Impact: 0.006900 → PHISHING
+11.  bank                | Impact: 0.006900 → PHISHING
+12.  mr                  | Impact: 0.006424 → PHISHING
+13.  .                   | Impact: 0.006424 → PHISHING
+14.  ?                   | Impact: 0.006221 → PHISHING
+15.  and                 | Impact: 0.006071 → PHISHING
+16.  be                  | Impact: 0.006071 → PHISHING
+17.  rest                | Impact: 0.006071 → PHISHING
+18.  assured             | Impact: 0.006071 → PHISHING
+19.  that                | Impact: 0.006071 → PHISHING
+20.  you                 | Impact: 0.006070 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  this                | Impact: 0.007620
+ 2.  fund                | Impact: 0.007620
+ 3.  in                  | Impact: 0.007620
+ 4.  en                  | Impact: 0.007329
+ 5. rich                 | Impact: 0.007329
+ 6. ing                  | Impact: 0.007329
+ 7.  position            | Impact: 0.006900
+ 8.  within              | Impact: 0.006900
+ 9.  in                  | Impact: 0.006900
+10.  the                 | Impact: 0.006900
+11.  bank                | Impact: 0.006900
+12.  mr                  | Impact: 0.006424
+13.  .                   | Impact: 0.006424
+14.  ?                   | Impact: 0.006221
+15.  and                 | Impact: 0.006071
+16.  be                  | Impact: 0.006071
+17.  rest                | Impact: 0.006071
+18.  assured             | Impact: 0.006071
+19.  that                | Impact: 0.006071
+20.  you                 | Impact: 0.006070
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  also                | Impact: -0.000403
+ 2.  ,                   | Impact: -0.000403
+ 3.  on                  | Impact: -0.000238
+ 4.  further             | Impact: -0.000238
+ 5.  investigation       | Impact: -0.000238
+ 6.  ,                   | Impact: -0.000238
+ 7.  i                   | Impact: -0.000238
+ 8.  discovered          | Impact: -0.000238
+ 9.  that                | Impact: -0.000238
+10.  even                | Impact: -0.000238
+11.  the                 | Impact: -0.000238
+12.  company             | Impact: -0.000238
+13.  hope                | Impact: -0.000043
+14.  to                  | Impact: -0.000043
+15.  hear                | Impact: -0.000043
+16.  from                | Impact: -0.000043
+17.  you                 | Impact: -0.000043
+18.  soon                | Impact: -0.000043
+19.  .                   | Impact: -0.000043
+20.  best                | Impact: -0.000043

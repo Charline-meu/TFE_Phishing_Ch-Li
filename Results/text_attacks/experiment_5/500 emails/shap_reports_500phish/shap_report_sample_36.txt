@@ -1,0 +1,65 @@
+Sample 36
+=========
+
+Sample text preview: Dr. Taylor Akintola, United Bank For Africa, ILupeju Branch, Lagos, Nigeria Reply: ATTN: Sir/Madam I am Dr.Taylor Akintola, Branch Manager with United...
+
+Model prediction: [1.6624299e-04 9.9983370e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lodged              | Impact: 0.010964 → PHISHING
+ 2.  in                  | Impact: 0.010964 → PHISHING
+ 3.  your                | Impact: 0.010964 → PHISHING
+ 4.  account             | Impact: 0.010964 → PHISHING
+ 5.  .                   | Impact: 0.010964 → PHISHING
+ 6.  railway             | Impact: 0.008269 → PHISHING
+ 7.  corporation         | Impact: 0.008269 → PHISHING
+ 8.  mr                  | Impact: 0.008269 → PHISHING
+ 9.  .                   | Impact: 0.008269 → PHISHING
+10.  his                 | Impact: 0.005650 → PHISHING
+11.  contract            | Impact: 0.005650 → PHISHING
+12.  employers           | Impact: 0.005650 → PHISHING
+13.  nigerian            | Impact: 0.005650 → PHISHING
+14.  lagos               | Impact: 0.005598 → PHISHING
+15.  ,                   | Impact: 0.005598 → PHISHING
+16.  nigeria             | Impact: 0.005510 → PHISHING
+17.  .                   | Impact: 0.005510 → PHISHING
+18.  died                | Impact: 0.005418 → PHISHING
+19.  from                | Impact: 0.005418 → PHISHING
+20.  abbas               | Impact: 0.005369 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  lodged              | Impact: 0.010964
+ 2.  in                  | Impact: 0.010964
+ 3.  your                | Impact: 0.010964
+ 4.  account             | Impact: 0.010964
+ 5.  .                   | Impact: 0.010964
+ 6.  railway             | Impact: 0.008269
+ 7.  corporation         | Impact: 0.008269
+ 8.  mr                  | Impact: 0.008269
+ 9.  .                   | Impact: 0.008269
+10.  his                 | Impact: 0.005650
+11.  contract            | Impact: 0.005650
+12.  employers           | Impact: 0.005650
+13.  nigerian            | Impact: 0.005650
+14.  lagos               | Impact: 0.005598
+15.  ,                   | Impact: 0.005598
+16.  nigeria             | Impact: 0.005510
+17.  .                   | Impact: 0.005510
+18.  died                | Impact: 0.005418
+19.  from                | Impact: 0.005418
+20.  abbas               | Impact: 0.005369
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  code                | Impact: -0.000268
+ 2.  of                  | Impact: -0.000268
+ 3.  and                 | Impact: -0.000268
+ 4.  operate             | Impact: -0.000268
+ 5.  foreign             | Impact: -0.000268
+ 6.  accounts            | Impact: -0.000268
+ 7.  and                 | Impact: -0.000268
+ 8.  ethics              | Impact: -0.000268
+ 9.  to                  | Impact: -0.000268
+10.  own                 | Impact: -0.000268

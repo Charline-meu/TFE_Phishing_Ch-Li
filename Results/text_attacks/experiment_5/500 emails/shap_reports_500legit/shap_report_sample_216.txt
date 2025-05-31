@@ -1,0 +1,75 @@
+Sample 216
+==========
+
+Sample text preview: Please read the attached and respond. ---------------------- Forwarded by Gerald Nemec/HOU/ECT on // : PM --------------------------- Enron Capital & ...
+
+Model prediction: [9.9977118e-01 2.2877657e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ec                  | Impact: -0.001285 → LEGITIMATE
+ 2. t                    | Impact: -0.001285 → LEGITIMATE
+ 3.  mm                  | Impact: 0.001165 → PHISHING
+ 4. bt                   | Impact: 0.001041 → PHISHING
+ 5.  .                   | Impact: -0.000736 → LEGITIMATE
+ 6.  (                   | Impact: -0.000733 → LEGITIMATE
+ 7.  primary             | Impact: -0.000729 → LEGITIMATE
+ 8.  term                | Impact: -0.000729 → LEGITIMATE
+ 9.  hp                  | Impact: 0.000690 → PHISHING
+10. lr                   | Impact: 0.000690 → PHISHING
+11.  ec                  | Impact: -0.000686 → LEGITIMATE
+12. t                    | Impact: -0.000686 → LEGITIMATE
+13.  hp                  | Impact: -0.000638 → LEGITIMATE
+14. lr                   | Impact: -0.000638 → LEGITIMATE
+15.  the                 | Impact: -0.000638 → LEGITIMATE
+16.  processing          | Impact: -0.000638 → LEGITIMATE
+17.  .                   | Impact: -0.000612 → LEGITIMATE
+18.  to                  | Impact: -0.000578 → LEGITIMATE
+19.  sept                | Impact: -0.000578 → LEGITIMATE
+20.  en                  | Impact: -0.000574 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mm                  | Impact: 0.001165
+ 2. bt                   | Impact: 0.001041
+ 3.  hp                  | Impact: 0.000690
+ 4. lr                   | Impact: 0.000690
+ 5.  dated               | Impact: 0.000533
+ 6.  july                | Impact: 0.000533
+ 7.  and                 | Impact: 0.000459
+ 8.  ,                   | Impact: 0.000411
+ 9.  processing          | Impact: 0.000383
+10.  plant               | Impact: 0.000383
+11.  ex                  | Impact: 0.000307
+12. xon                  | Impact: 0.000307
+13.  company             | Impact: 0.000307
+14.  usa                 | Impact: 0.000307
+15.  then                | Impact: 0.000275
+16.  month               | Impact: 0.000275
+17.  king                | Impact: 0.000174
+18.  ranch               | Impact: 0.000174
+19.  to                  | Impact: 0.000171
+20.  month               | Impact: 0.000171
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ec                  | Impact: -0.001285
+ 2. t                    | Impact: -0.001285
+ 3.  .                   | Impact: -0.000736
+ 4.  (                   | Impact: -0.000733
+ 5.  primary             | Impact: -0.000729
+ 6.  term                | Impact: -0.000729
+ 7.  ec                  | Impact: -0.000686
+ 8. t                    | Impact: -0.000686
+ 9.  hp                  | Impact: -0.000638
+10. lr                   | Impact: -0.000638
+11.  the                 | Impact: -0.000638
+12.  processing          | Impact: -0.000638
+13.  .                   | Impact: -0.000612
+14.  to                  | Impact: -0.000578
+15.  sept                | Impact: -0.000578
+16.  en                  | Impact: -0.000574
+17. ron                  | Impact: -0.000574
+18.  capacity            | Impact: -0.000556
+19.  rights              | Impact: -0.000556
+20.  since               | Impact: -0.000556

@@ -1,0 +1,75 @@
+Sample 10
+=========
+
+Sample text preview: Dear, I know that this proposal might be a surprise to you but do consider it as an emergency. In a nut shell my name is Miss Vivian Gueye, years old ...
+
+Model prediction: [1.54975e-04 9.99845e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.011455 → PHISHING
+ 2.  father              | Impact: 0.010107 → PHISHING
+ 3.  was                 | Impact: 0.010107 → PHISHING
+ 4.  the                 | Impact: 0.009245 → PHISHING
+ 5.  only                | Impact: 0.009245 → PHISHING
+ 6.  child               | Impact: 0.009245 → PHISHING
+ 7.  of                  | Impact: 0.009245 → PHISHING
+ 8.  me                  | Impact: 0.008402 → PHISHING
+ 9.  as                  | Impact: 0.008402 → PHISHING
+10.  child               | Impact: 0.008402 → PHISHING
+11.  i                   | Impact: 0.008402 → PHISHING
+12.  my                  | Impact: 0.008390 → PHISHING
+13.  late                | Impact: 0.008390 → PHISHING
+14.  my                  | Impact: 0.006366 → PHISHING
+15.  money               | Impact: 0.006366 → PHISHING
+16.  is                  | Impact: 0.006366 → PHISHING
+17.  released            | Impact: 0.006366 → PHISHING
+18.  my                  | Impact: 0.006198 → PHISHING
+19.  name                | Impact: 0.006198 → PHISHING
+20.  is                  | Impact: 0.006198 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.011455
+ 2.  father              | Impact: 0.010107
+ 3.  was                 | Impact: 0.010107
+ 4.  the                 | Impact: 0.009245
+ 5.  only                | Impact: 0.009245
+ 6.  child               | Impact: 0.009245
+ 7.  of                  | Impact: 0.009245
+ 8.  me                  | Impact: 0.008402
+ 9.  as                  | Impact: 0.008402
+10.  child               | Impact: 0.008402
+11.  i                   | Impact: 0.008402
+12.  my                  | Impact: 0.008390
+13.  late                | Impact: 0.008390
+14.  my                  | Impact: 0.006366
+15.  money               | Impact: 0.006366
+16.  is                  | Impact: 0.006366
+17.  released            | Impact: 0.006366
+18.  my                  | Impact: 0.006198
+19.  name                | Impact: 0.006198
+20.  is                  | Impact: 0.006198
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  in                  | Impact: -0.002180
+ 2.  a                   | Impact: -0.002180
+ 3.  nut                 | Impact: -0.002180
+ 4.  shell               | Impact: -0.002180
+ 5.  (                   | Impact: -0.000924
+ 6.  )                   | Impact: -0.000924
+ 7.  invest              | Impact: -0.000924
+ 8.  and                 | Impact: -0.000924
+ 9.  however             | Impact: -0.000766
+10.  ,                   | Impact: -0.000766
+11.  (                   | Impact: -0.000757
+12.  un                  | Impact: -0.000757
+13. hc                   | Impact: -0.000757
+14. r                    | Impact: -0.000757
+15.  )                   | Impact: -0.000757
+16.  .                   | Impact: -0.000757
+17.  (                   | Impact: -0.000566
+18.  )                   | Impact: -0.000566
+19.  help                | Impact: -0.000566
+20.  me                  | Impact: -0.000566

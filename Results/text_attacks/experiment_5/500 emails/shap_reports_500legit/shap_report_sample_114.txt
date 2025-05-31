@@ -1,0 +1,75 @@
+Sample 114
+==========
+
+Sample text preview: ---------------------- Forwarded by Mike Riedel/ET&S/Enron on // : PM --------------------------- From: William Kendrick // : AM To: Leo Nichols/ET&S/...
+
+Model prediction: [9.997681e-01 2.318813e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  john                | Impact: 0.003793 → PHISHING
+ 2.  en                  | Impact: -0.003537 → LEGITIMATE
+ 3.  objectives          | Impact: -0.003185 → LEGITIMATE
+ 4.  for                 | Impact: -0.003185 → LEGITIMATE
+ 5.  environmental       | Impact: -0.003185 → LEGITIMATE
+ 6. ron                  | Impact: -0.003154 → LEGITIMATE
+ 7.  en                  | Impact: -0.003009 → LEGITIMATE
+ 8.  the                 | Impact: -0.002937 → LEGITIMATE
+ 9.  summarized          | Impact: -0.002937 → LEGITIMATE
+10.  en                  | Impact: -0.002833 → LEGITIMATE
+11. ron                  | Impact: -0.002833 → LEGITIMATE
+12.  /                   | Impact: -0.002805 → LEGITIMATE
+13.  en                  | Impact: -0.002728 → LEGITIMATE
+14.  en                  | Impact: -0.002699 → LEGITIMATE
+15.  :                   | Impact: -0.002611 → LEGITIMATE
+16. ron                  | Impact: -0.002262 → LEGITIMATE
+17.  en                  | Impact: -0.002052 → LEGITIMATE
+18. ron                  | Impact: -0.002018 → LEGITIMATE
+19.  en                  | Impact: -0.001990 → LEGITIMATE
+20. ron                  | Impact: -0.001990 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  john                | Impact: 0.003793
+ 2.  mike                | Impact: 0.001839
+ 3.  @                   | Impact: 0.001387
+ 4.  '                   | Impact: 0.001324
+ 5.  wilson              | Impact: 0.000786
+ 6.  i                   | Impact: 0.000714
+ 7.  @                   | Impact: 0.000688
+ 8.  bar                 | Impact: 0.000600
+ 9. bee                  | Impact: 0.000600
+10.  s                   | Impact: 0.000580
+11.  -                   | Impact: 0.000580
+12.  ,                   | Impact: 0.000198
+13.  ,                   | Impact: 0.000142
+14.  leo                 | Impact: 0.000136
+15.  nichols             | Impact: 0.000136
+16.  ,                   | Impact: 0.000107
+17.  kyle                | Impact: 0.000098
+18.  pu                  | Impact: 0.000098
+19. rvis                 | Impact: 0.000098
+20.  /                   | Impact: 0.000098
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.003537
+ 2.  objectives          | Impact: -0.003185
+ 3.  for                 | Impact: -0.003185
+ 4.  environmental       | Impact: -0.003185
+ 5. ron                  | Impact: -0.003154
+ 6.  en                  | Impact: -0.003009
+ 7.  the                 | Impact: -0.002937
+ 8.  summarized          | Impact: -0.002937
+ 9.  en                  | Impact: -0.002833
+10. ron                  | Impact: -0.002833
+11.  /                   | Impact: -0.002805
+12.  en                  | Impact: -0.002728
+13.  en                  | Impact: -0.002699
+14.  :                   | Impact: -0.002611
+15. ron                  | Impact: -0.002262
+16.  en                  | Impact: -0.002052
+17. ron                  | Impact: -0.002018
+18.  en                  | Impact: -0.001990
+19. ron                  | Impact: -0.001990
+20. ron                  | Impact: -0.001949

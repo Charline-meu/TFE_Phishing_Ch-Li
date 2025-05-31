@@ -1,0 +1,75 @@
+Sample 339
+==========
+
+Sample text preview: The DPR for today is final and posted to the Executive Reports Viewer. Please note that a revision to the DPR format has been made, effective today, d...
+
+Model prediction: [9.9976236e-01 2.3767108e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  &                   | Impact: 0.008014 → PHISHING
+ 2. ron                  | Impact: -0.007469 → LEGITIMATE
+ 3. pr                   | Impact: -0.006331 → LEGITIMATE
+ 4.  executive           | Impact: 0.004891 → PHISHING
+ 5.  reports             | Impact: -0.004504 → LEGITIMATE
+ 6.  .                   | Impact: -0.003764 → LEGITIMATE
+ 7.  "                   | Impact: -0.003486 → LEGITIMATE
+ 8. ron                  | Impact: -0.003369 → LEGITIMATE
+ 9.  the                 | Impact: 0.003175 → PHISHING
+10.  paper               | Impact: -0.003133 → LEGITIMATE
+11.  viewer              | Impact: 0.002735 → PHISHING
+12.  industrial          | Impact: 0.002604 → PHISHING
+13.  been                | Impact: 0.002573 → PHISHING
+14.  section             | Impact: -0.002527 → LEGITIMATE
+15.  is                  | Impact: 0.002372 → PHISHING
+16.  en                  | Impact: -0.002359 → LEGITIMATE
+17. pr                   | Impact: -0.002170 → LEGITIMATE
+18.  en                  | Impact: -0.002048 → LEGITIMATE
+19.  america             | Impact: 0.002014 → PHISHING
+20.  been                | Impact: 0.001960 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  &                   | Impact: 0.008014
+ 2.  executive           | Impact: 0.004891
+ 3.  the                 | Impact: 0.003175
+ 4.  viewer              | Impact: 0.002735
+ 5.  industrial          | Impact: 0.002604
+ 6.  been                | Impact: 0.002573
+ 7.  is                  | Impact: 0.002372
+ 8.  america             | Impact: 0.002014
+ 9.  been                | Impact: 0.001960
+10.  and                 | Impact: 0.001942
+11.  the                 | Impact: 0.001877
+12.  businesses          | Impact: 0.001817
+13.  markets             | Impact: 0.001712
+14.  mo                  | Impact: 0.001699
+15.  has                 | Impact: 0.001205
+16.  today               | Impact: 0.000955
+17.  includes            | Impact: 0.000944
+18.  removed             | Impact: 0.000781
+19.  emerging            | Impact: 0.000758
+20.  the                 | Impact: 0.000555
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.007469
+ 2. pr                   | Impact: -0.006331
+ 3.  reports             | Impact: -0.004504
+ 4.  .                   | Impact: -0.003764
+ 5.  "                   | Impact: -0.003486
+ 6. ron                  | Impact: -0.003369
+ 7.  paper               | Impact: -0.003133
+ 8.  section             | Impact: -0.002527
+ 9.  en                  | Impact: -0.002359
+10. pr                   | Impact: -0.002170
+11.  en                  | Impact: -0.002048
+12.  revision            | Impact: -0.001947
+13.  replaced            | Impact: -0.001861
+14.  effective           | Impact: -0.001850
+15.  .                   | Impact: -0.001756
+16.  .                   | Impact: -0.001689
+17.  final               | Impact: -0.001632
+18.  "                   | Impact: -0.001497
+19.  d                   | Impact: -0.001402
+20.  at                  | Impact: -0.001345

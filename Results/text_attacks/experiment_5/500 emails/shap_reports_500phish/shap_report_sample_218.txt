@@ -1,0 +1,75 @@
+Sample 218
+==========
+
+Sample text preview: From:FRANK BELLO, ATTN:PLEASE, permit me to inform you of my desire of going into business relationship with you . I am FRANK BELLO JR, The first son ...
+
+Model prediction: [1.7527281e-04 9.9982470e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  regards             | Impact: 0.013391 → PHISHING
+ 2.  best                | Impact: 0.011255 → PHISHING
+ 3.  awaiting            | Impact: 0.009474 → PHISHING
+ 4.  to                  | Impact: 0.009474 → PHISHING
+ 5.  to                  | Impact: 0.008371 → PHISHING
+ 6.  your                | Impact: 0.008371 → PHISHING
+ 7.  country             | Impact: 0.008371 → PHISHING
+ 8.  to                  | Impact: 0.008371 → PHISHING
+ 9.  the                 | Impact: 0.007823 → PHISHING
+10.  first               | Impact: 0.007823 → PHISHING
+11.  son                 | Impact: 0.007823 → PHISHING
+12.  of                  | Impact: 0.007823 → PHISHING
+13.  this                | Impact: 0.007509 → PHISHING
+14.  fund                | Impact: 0.007509 → PHISHING
+15.  into                | Impact: 0.007509 → PHISHING
+16.  your                | Impact: 0.007509 → PHISHING
+17.  late                | Impact: 0.007357 → PHISHING
+18.  mr                  | Impact: 0.007357 → PHISHING
+19.  and                 | Impact: 0.007357 → PHISHING
+20.  jr                  | Impact: 0.007316 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.013391
+ 2.  best                | Impact: 0.011255
+ 3.  awaiting            | Impact: 0.009474
+ 4.  to                  | Impact: 0.009474
+ 5.  to                  | Impact: 0.008371
+ 6.  your                | Impact: 0.008371
+ 7.  country             | Impact: 0.008371
+ 8.  to                  | Impact: 0.008371
+ 9.  the                 | Impact: 0.007823
+10.  first               | Impact: 0.007823
+11.  son                 | Impact: 0.007823
+12.  of                  | Impact: 0.007823
+13.  this                | Impact: 0.007509
+14.  fund                | Impact: 0.007509
+15.  into                | Impact: 0.007509
+16.  your                | Impact: 0.007509
+17.  late                | Impact: 0.007357
+18.  mr                  | Impact: 0.007357
+19.  and                 | Impact: 0.007357
+20.  jr                  | Impact: 0.007316
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.003969
+ 2.  )                   | Impact: -0.003969
+ 3.  he                  | Impact: -0.001169
+ 4.  also                | Impact: -0.001169
+ 5.  said                | Impact: -0.001169
+ 6.  that                | Impact: -0.001169
+ 7.  the                 | Impact: -0.001169
+ 8.  security            | Impact: -0.001169
+ 9.  company             | Impact: -0.001169
+10.  does                | Impact: -0.001169
+11.                      | Impact: -0.001055
+12.  from                | Impact: -0.001055
+13.  :                   | Impact: -0.001055
+14.  frank               | Impact: -0.001055
+15.  bell                | Impact: -0.001055
+16. o                    | Impact: -0.001055
+17.  ,                   | Impact: -0.001055
+18.  at                  | Impact: -0.000814
+19. t                    | Impact: -0.000814
+20. n                    | Impact: -0.000814

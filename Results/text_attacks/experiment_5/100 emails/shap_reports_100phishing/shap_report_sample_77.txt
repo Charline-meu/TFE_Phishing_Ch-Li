@@ -1,0 +1,75 @@
+Phishing Sample 77
+==================
+
+Sample text preview: MR.RONARD TONY WEMA BANK PLC. LAGOS/NIGERIA Email: Dear Sir, REQUEST FOR CO-OPERATION ON A PRIVATE BUSINESS RELATIONSHIP Every four years, Nigeria Ban...
+
+Model prediction: [1.8625009e-04 9.9981374e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bank                | Impact: 0.020723 → PHISHING
+ 2.  account             | Impact: 0.020723 → PHISHING
+ 3.  provide             | Impact: 0.011473 → PHISHING
+ 4.  your                | Impact: 0.011473 → PHISHING
+ 5.                      | Impact: 0.009725 → PHISHING
+ 6.  mr                  | Impact: 0.009725 → PHISHING
+ 7.  will                | Impact: 0.008475 → PHISHING
+ 8.  be                  | Impact: 0.008475 → PHISHING
+ 9.  for                 | Impact: 0.008475 → PHISHING
+10.  you                 | Impact: 0.008475 → PHISHING
+11.  your                | Impact: 0.008095 → PHISHING
+12.  country             | Impact: 0.008095 → PHISHING
+13.  for                 | Impact: 0.008095 → PHISHING
+14.  eventually          | Impact: 0.007700 → PHISHING
+15.  visit               | Impact: 0.007700 → PHISHING
+16.  as                  | Impact: 0.006977 → PHISHING
+17.  my                  | Impact: 0.006977 → PHISHING
+18.  foreign             | Impact: 0.006977 → PHISHING
+19.  partner             | Impact: 0.006977 → PHISHING
+20.  with                | Impact: 0.006831 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.020723
+ 2.  account             | Impact: 0.020723
+ 3.  provide             | Impact: 0.011473
+ 4.  your                | Impact: 0.011473
+ 5.                      | Impact: 0.009725
+ 6.  mr                  | Impact: 0.009725
+ 7.  will                | Impact: 0.008475
+ 8.  be                  | Impact: 0.008475
+ 9.  for                 | Impact: 0.008475
+10.  you                 | Impact: 0.008475
+11.  your                | Impact: 0.008095
+12.  country             | Impact: 0.008095
+13.  for                 | Impact: 0.008095
+14.  eventually          | Impact: 0.007700
+15.  visit               | Impact: 0.007700
+16.  as                  | Impact: 0.006977
+17.  my                  | Impact: 0.006977
+18.  foreign             | Impact: 0.006977
+19.  partner             | Impact: 0.006977
+20.  with                | Impact: 0.006831
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  david               | Impact: -0.004992
+ 2.  fang                | Impact: -0.004992
+ 3.  guidelines          | Impact: -0.003897
+ 4.  .                   | Impact: -0.003897
+ 5.  (                   | Impact: -0.002400
+ 6.  b                   | Impact: -0.002400
+ 7.  )                   | Impact: -0.002400
+ 8.  banking             | Impact: -0.002060
+ 9.  laws                | Impact: -0.002060
+10.  and                 | Impact: -0.002060
+11.  in                  | Impact: -0.001032
+12.  compliance          | Impact: -0.001032
+13.  with                | Impact: -0.001032
+14.  the                 | Impact: -0.001032
+15.  and                 | Impact: -0.000382
+16.  with                | Impact: -0.000370
+17.  reference           | Impact: -0.000370
+18.  to                  | Impact: -0.000370
+19.  my                  | Impact: -0.000370
+20.  bank                | Impact: -0.000370

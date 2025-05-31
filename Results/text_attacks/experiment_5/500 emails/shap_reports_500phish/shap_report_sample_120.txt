@@ -1,0 +1,75 @@
+Sample 120
+==========
+
+Sample text preview: From : Stella Dikko Samba Abidjan, Ivory Coast West Africa. TEL + APPEAL FOR URGENT BUSINESS ASSISTANCE. MY Dear , Permit me to inform you of my desir...
+
+Model prediction: [1.7479781e-04 9.9982518e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  this                | Impact: 0.013938 → PHISHING
+ 2.  fund                | Impact: 0.013938 → PHISHING
+ 3.  sir                 | Impact: 0.010768 → PHISHING
+ 4.  sir                 | Impact: 0.009813 → PHISHING
+ 5.  i                   | Impact: 0.009813 → PHISHING
+ 6.  into                | Impact: 0.009665 → PHISHING
+ 7.  your                | Impact: 0.009665 → PHISHING
+ 8.  am                  | Impact: 0.007881 → PHISHING
+ 9.  willing             | Impact: 0.007881 → PHISHING
+10.  samba               | Impact: 0.007340 → PHISHING
+11.  the                 | Impact: 0.007340 → PHISHING
+12.  only                | Impact: 0.007340 → PHISHING
+13.  daughter            | Impact: 0.007340 → PHISHING
+14.  my                  | Impact: 0.006825 → PHISHING
+15.  dear                | Impact: 0.006825 → PHISHING
+16.  nominated           | Impact: 0.006594 → PHISHING
+17.  account             | Impact: 0.006594 → PHISHING
+18.  overseas            | Impact: 0.006594 → PHISHING
+19.  as                  | Impact: 0.006584 → PHISHING
+20.  compensation        | Impact: 0.006584 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  this                | Impact: 0.013938
+ 2.  fund                | Impact: 0.013938
+ 3.  sir                 | Impact: 0.010768
+ 4.  sir                 | Impact: 0.009813
+ 5.  i                   | Impact: 0.009813
+ 6.  into                | Impact: 0.009665
+ 7.  your                | Impact: 0.009665
+ 8.  am                  | Impact: 0.007881
+ 9.  willing             | Impact: 0.007881
+10.  samba               | Impact: 0.007340
+11.  the                 | Impact: 0.007340
+12.  only                | Impact: 0.007340
+13.  daughter            | Impact: 0.007340
+14.  my                  | Impact: 0.006825
+15.  dear                | Impact: 0.006825
+16.  nominated           | Impact: 0.006594
+17.  account             | Impact: 0.006594
+18.  overseas            | Impact: 0.006594
+19.  as                  | Impact: 0.006584
+20.  compensation        | Impact: 0.006584
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  effort              | Impact: -0.001395
+ 2.  /                   | Impact: -0.001395
+ 3.  input               | Impact: -0.001395
+ 4.  after               | Impact: -0.001395
+ 5.  (                   | Impact: -0.000945
+ 6.  )                   | Impact: -0.000945
+ 7.  to                  | Impact: -0.000945
+ 8.  serve               | Impact: -0.000945
+ 9.  as                  | Impact: -0.000945
+10.  a                   | Impact: -0.000945
+11.  moreover            | Impact: -0.000937
+12.  ,                   | Impact: -0.000937
+13.  the                 | Impact: -0.000474
+14.  following           | Impact: -0.000474
+15.  ways                | Impact: -0.000474
+16.  :                   | Impact: -0.000474
+17.  (                   | Impact: -0.000474
+18.  )                   | Impact: -0.000474
+19.  (                   | Impact: -0.000415
+20.  )                   | Impact: -0.000415

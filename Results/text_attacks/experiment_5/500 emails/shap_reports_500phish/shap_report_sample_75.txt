@@ -1,0 +1,55 @@
+Sample 75
+=========
+
+Sample text preview: FROM:KEVIN KAMARA AND SISTER. ABIDJAN, COTE D?IVOIRE WEST-AFRICA TELL+ ATTERNATIVE Dear Director/Ceo CONFIDENTIAL Please I am KEVIN KAMARA, the only s...
+
+Model prediction: [1.802884e-04 9.998197e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: 0.016564 → PHISHING
+ 2.  old                 | Impact: 0.016564 → PHISHING
+ 3.  sister              | Impact: 0.016564 → PHISHING
+ 4.  and                 | Impact: 0.016564 → PHISHING
+ 5.  now                 | Impact: 0.009766 → PHISHING
+ 6.  my                  | Impact: 0.009766 → PHISHING
+ 7.  -                   | Impact: 0.009766 → PHISHING
+ 8.  year                | Impact: 0.009766 → PHISHING
+ 9.  we                  | Impact: 0.007391 → PHISHING
+10.  are                 | Impact: 0.007391 → PHISHING
+11.  now                 | Impact: 0.007391 → PHISHING
+12.  like                | Impact: 0.007391 → PHISHING
+13.  refugees            | Impact: 0.007391 → PHISHING
+14.  and                 | Impact: 0.007391 → PHISHING
+15.  orphans             | Impact: 0.007391 → PHISHING
+16.  .                   | Impact: 0.007391 → PHISHING
+17.  our                 | Impact: 0.006314 → PHISHING
+18.  father              | Impact: 0.006314 → PHISHING
+19.  deposited           | Impact: 0.006314 → PHISHING
+20.  in                  | Impact: 0.006314 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  -                   | Impact: 0.016564
+ 2.  old                 | Impact: 0.016564
+ 3.  sister              | Impact: 0.016564
+ 4.  and                 | Impact: 0.016564
+ 5.  now                 | Impact: 0.009766
+ 6.  my                  | Impact: 0.009766
+ 7.  -                   | Impact: 0.009766
+ 8.  year                | Impact: 0.009766
+ 9.  we                  | Impact: 0.007391
+10.  are                 | Impact: 0.007391
+11.  now                 | Impact: 0.007391
+12.  like                | Impact: 0.007391
+13.  refugees            | Impact: 0.007391
+14.  and                 | Impact: 0.007391
+15.  orphans             | Impact: 0.007391
+16.  .                   | Impact: 0.007391
+17.  our                 | Impact: 0.006314
+18.  father              | Impact: 0.006314
+19.  deposited           | Impact: 0.006314
+20.  in                  | Impact: 0.006314
+
+Top features pushing towards LEGITIMATE classification:

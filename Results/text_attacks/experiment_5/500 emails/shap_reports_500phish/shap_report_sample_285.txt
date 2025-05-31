@@ -1,0 +1,75 @@
+Sample 285
+==========
+
+Sample text preview: Your AppID was just used to download MAP GPS NAVIGATION PRO from the AppStore on a computer or device that had not previously been associated with tha...
+
+Model prediction: [0.02054388 0.9794561 ]
+Predicted class: PHISHING with 0.9795 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  download            | Impact: 0.061905 → PHISHING
+ 2.  your                | Impact: 0.059995 → PHISHING
+ 3.  email               | Impact: 0.049927 → PHISHING
+ 4.  download            | Impact: 0.048489 → PHISHING
+ 5.  cancellation        | Impact: 0.043478 → PHISHING
+ 6.  form                | Impact: 0.043478 → PHISHING
+ 7.  sent                | Impact: 0.040683 → PHISHING
+ 8.  download            | Impact: 0.038199 → PHISHING
+ 9.  you                 | Impact: 0.036145 → PHISHING
+10.  go                  | Impact: 0.035904 → PHISHING
+11.  to                  | Impact: 0.035904 → PHISHING
+12.  initiate            | Impact: 0.032194 → PHISHING
+13.  this                | Impact: 0.032194 → PHISHING
+14.                      | Impact: 0.028956 → PHISHING
+15.  gps                 | Impact: 0.027367 → PHISHING
+16.  in                  | Impact: 0.025367 → PHISHING
+17.  we                  | Impact: 0.025205 → PHISHING
+18.  recommend           | Impact: 0.025205 → PHISHING
+19.  this                | Impact: 0.023528 → PHISHING
+20.  order               | Impact: 0.023528 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  download            | Impact: 0.061905
+ 2.  your                | Impact: 0.059995
+ 3.  email               | Impact: 0.049927
+ 4.  download            | Impact: 0.048489
+ 5.  cancellation        | Impact: 0.043478
+ 6.  form                | Impact: 0.043478
+ 7.  sent                | Impact: 0.040683
+ 8.  download            | Impact: 0.038199
+ 9.  you                 | Impact: 0.036145
+10.  go                  | Impact: 0.035904
+11.  to                  | Impact: 0.035904
+12.  initiate            | Impact: 0.032194
+13.  this                | Impact: 0.032194
+14.                      | Impact: 0.028956
+15.  gps                 | Impact: 0.027367
+16.  in                  | Impact: 0.025367
+17.  we                  | Impact: 0.025205
+18.  recommend           | Impact: 0.025205
+19.  this                | Impact: 0.023528
+20.  order               | Impact: 0.023528
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  associated          | Impact: -0.020185
+ 2.  with                | Impact: -0.020185
+ 3.  that                | Impact: -0.020185
+ 4.  used                | Impact: -0.018997
+ 5.  to                  | Impact: -0.018386
+ 6.  previously          | Impact: -0.016063
+ 7.  been                | Impact: -0.015060
+ 8.  was                 | Impact: -0.014120
+ 9.  just                | Impact: -0.014120
+10.  :                   | Impact: -0.011301
+11.  .                   | Impact: -0.009218
+12.  app                 | Impact: -0.008830
+13. id                   | Impact: -0.008830
+14.  .                   | Impact: -0.006766
+15.  order               | Impact: -0.004938
+16.  total               | Impact: -0.004938
+17.  :                   | Impact: -0.004938
+18.  case                | Impact: -0.001840
+19.  you                 | Impact: -0.001840
+20.  ,                   | Impact: -0.000706

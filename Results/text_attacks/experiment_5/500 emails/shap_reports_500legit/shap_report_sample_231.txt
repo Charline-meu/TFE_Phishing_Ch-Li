@@ -1,0 +1,75 @@
+Sample 231
+==========
+
+Sample text preview: Rob: Our credit person is okay incorporating the Specified Transaction concept without a threshold. Please call me at your convenience to discuss the ...
+
+Model prediction: [9.9968350e-01 3.1647188e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  issues              | Impact: -0.025803 → LEGITIMATE
+ 2.  -                   | Impact: -0.021341 → LEGITIMATE
+ 3.  concept             | Impact: -0.019371 → LEGITIMATE
+ 4.  -                   | Impact: -0.017376 → LEGITIMATE
+ 5.  rob                 | Impact: -0.016959 → LEGITIMATE
+ 6.  )                   | Impact: 0.016505 → PHISHING
+ 7.  okay                | Impact: -0.015314 → LEGITIMATE
+ 8.  our                 | Impact: 0.014819 → PHISHING
+ 9.  your                | Impact: 0.014129 → PHISHING
+10.  carol               | Impact: -0.013966 → LEGITIMATE
+11.  threshold           | Impact: 0.013067 → PHISHING
+12.  please              | Impact: 0.011695 → PHISHING
+13.  person              | Impact: 0.010894 → PHISHING
+14.  .                   | Impact: -0.009198 → LEGITIMATE
+15.  a                   | Impact: 0.008509 → PHISHING
+16.  incorporating       | Impact: -0.008113 → LEGITIMATE
+17.  )                   | Impact: 0.007523 → PHISHING
+18.  me                  | Impact: 0.005972 → PHISHING
+19.  the                 | Impact: -0.005723 → LEGITIMATE
+20.  st                  | Impact: 0.005631 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  )                   | Impact: 0.016505
+ 2.  our                 | Impact: 0.014819
+ 3.  your                | Impact: 0.014129
+ 4.  threshold           | Impact: 0.013067
+ 5.  please              | Impact: 0.011695
+ 6.  person              | Impact: 0.010894
+ 7.  a                   | Impact: 0.008509
+ 8.  )                   | Impact: 0.007523
+ 9.  me                  | Impact: 0.005972
+10.  st                  | Impact: 0.005631
+11.  call                | Impact: 0.005500
+12.  open                | Impact: 0.005332
+13.  (                   | Impact: 0.004196
+14.  convenience         | Impact: 0.003929
+15. b                    | Impact: 0.003643
+16.  is                  | Impact: 0.003475
+17.  .                   | Impact: 0.002841
+18.  clair               | Impact: 0.002517
+19.  specified           | Impact: 0.002419
+20.  to                  | Impact: 0.002305
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  issues              | Impact: -0.025803
+ 2.  -                   | Impact: -0.021341
+ 3.  concept             | Impact: -0.019371
+ 4.  -                   | Impact: -0.017376
+ 5.  rob                 | Impact: -0.016959
+ 6.  okay                | Impact: -0.015314
+ 7.  carol               | Impact: -0.013966
+ 8.  .                   | Impact: -0.009198
+ 9.  incorporating       | Impact: -0.008113
+10.  the                 | Impact: -0.005723
+11.  thanks              | Impact: -0.004764
+12.  without             | Impact: -0.004682
+13.  e                   | Impact: -0.004481
+14. x                    | Impact: -0.004315
+15.  credit              | Impact: -0.004275
+16.  at                  | Impact: -0.003976
+17.  .                   | Impact: -0.003124
+18.  .                   | Impact: -0.001278
+19.  fa                  | Impact: -0.000111
+20.                      | Impact: -0.000008

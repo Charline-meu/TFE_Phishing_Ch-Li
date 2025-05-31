@@ -1,0 +1,75 @@
+Sample 89
+=========
+
+Sample text preview: Mrs. vanisa kouassi, ,rue Lot ,Deux Plateau Abidjan-Coted'ivoire Dear One. It's my pleasure to contact you for a business venture which I and my Son i...
+
+Model prediction: [1.6667423e-04 9.9983335e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  son                 | Impact: 0.015780 → PHISHING
+ 2.  regards             | Impact: 0.012420 → PHISHING
+ 3.  to                  | Impact: 0.012420 → PHISHING
+ 4.  your                | Impact: 0.012420 → PHISHING
+ 5.  entire              | Impact: 0.012420 → PHISHING
+ 6.  family              | Impact: 0.012420 → PHISHING
+ 7.  you                 | Impact: 0.012097 → PHISHING
+ 8.  to                  | Impact: 0.012097 → PHISHING
+ 9.  now                 | Impact: 0.011213 → PHISHING
+10.  my                  | Impact: 0.011213 → PHISHING
+11.  to                  | Impact: 0.010563 → PHISHING
+12.  you                 | Impact: 0.010563 → PHISHING
+13.  to                  | Impact: 0.009712 → PHISHING
+14.  offer               | Impact: 0.009712 → PHISHING
+15.  to                  | Impact: 0.009504 → PHISHING
+16.  invest              | Impact: 0.009504 → PHISHING
+17.  these               | Impact: 0.009504 → PHISHING
+18.  money               | Impact: 0.009504 → PHISHING
+19.  sincerely           | Impact: 0.009425 → PHISHING
+20.  ,                   | Impact: 0.009425 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  son                 | Impact: 0.015780
+ 2.  regards             | Impact: 0.012420
+ 3.  to                  | Impact: 0.012420
+ 4.  your                | Impact: 0.012420
+ 5.  entire              | Impact: 0.012420
+ 6.  family              | Impact: 0.012420
+ 7.  you                 | Impact: 0.012097
+ 8.  to                  | Impact: 0.012097
+ 9.  now                 | Impact: 0.011213
+10.  my                  | Impact: 0.011213
+11.  to                  | Impact: 0.010563
+12.  you                 | Impact: 0.010563
+13.  to                  | Impact: 0.009712
+14.  offer               | Impact: 0.009712
+15.  to                  | Impact: 0.009504
+16.  invest              | Impact: 0.009504
+17.  these               | Impact: 0.009504
+18.  money               | Impact: 0.009504
+19.  sincerely           | Impact: 0.009425
+20.  ,                   | Impact: 0.009425
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  telecommunication   | Impact: -0.008179
+ 2.  )                   | Impact: -0.005100
+ 3.  .                   | Impact: -0.003032
+ 4.  below               | Impact: -0.002155
+ 5.  :                   | Impact: -0.002155
+ 6.  )                   | Impact: -0.002155
+ 7.  .                   | Impact: -0.001401
+ 8.  la                  | Impact: -0.001401
+ 9.  version             | Impact: -0.001401
+10.  beta                | Impact: -0.001401
+11.  on                  | Impact: -0.001347
+12.  the                 | Impact: -0.001347
+13.  following           | Impact: -0.001347
+14. s                    | Impact: -0.001347
+15.  ;                   | Impact: -0.000773
+16.  l                   | Impact: -0.000773
+17.  &                   | Impact: -0.000773
+18.  ea                  | Impact: -0.000773
+19. cute                 | Impact: -0.000773
+20.  ea                  | Impact: -0.000773

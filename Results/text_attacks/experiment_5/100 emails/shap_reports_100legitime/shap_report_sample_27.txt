@@ -1,0 +1,75 @@
+Phishing Sample 27
+==================
+
+Sample text preview: ( ) The clock is ticking! In just days, Hackfinity Battle will open its digital gates to cyber warriors worldwide. With over $, in prizes on the line,...
+
+Model prediction: [0.9977494  0.00225061]
+Predicted class: LEGITIMATE with 0.9977 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  (                   | Impact: -0.022415 → LEGITIMATE
+ 2.  )                   | Impact: -0.019881 → LEGITIMATE
+ 3.  copyright           | Impact: 0.009587 → PHISHING
+ 4.  ©                   | Impact: 0.009587 → PHISHING
+ 5.  (                   | Impact: -0.009347 → LEGITIMATE
+ 6.  )                   | Impact: -0.009347 → LEGITIMATE
+ 7.  register            | Impact: -0.008778 → LEGITIMATE
+ 8.  your                | Impact: -0.008778 → LEGITIMATE
+ 9.  team                | Impact: -0.008778 → LEGITIMATE
+10.  add                 | Impact: -0.008330 → LEGITIMATE
+11.  to                  | Impact: -0.008330 → LEGITIMATE
+12.  calendar            | Impact: -0.008330 → LEGITIMATE
+13.  check               | Impact: -0.008227 → LEGITIMATE
+14. list                 | Impact: -0.008227 → LEGITIMATE
+15.  (                   | Impact: -0.008027 → LEGITIMATE
+16.  )                   | Impact: -0.008027 → LEGITIMATE
+17.  (                   | Impact: -0.007358 → LEGITIMATE
+18.  )                   | Impact: -0.007358 → LEGITIMATE
+19.  warriors            | Impact: 0.007322 → PHISHING
+20.  worldwide           | Impact: 0.007322 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  copyright           | Impact: 0.009587
+ 2.  ©                   | Impact: 0.009587
+ 3.  warriors            | Impact: 0.007322
+ 4.  worldwide           | Impact: 0.007322
+ 5.  .                   | Impact: 0.007322
+ 6.  friends             | Impact: 0.004194
+ 7.  who                 | Impact: 0.004194
+ 8.  (                   | Impact: 0.003454
+ 9.  )                   | Impact: 0.003454
+10.  share               | Impact: 0.003268
+11.  with                | Impact: 0.003268
+12.  battle              | Impact: 0.002615
+13.  will                | Impact: 0.002615
+14.  open                | Impact: 0.002615
+15.  its                 | Impact: 0.002615
+16.  might               | Impact: 0.002615
+17.  want                | Impact: 0.002615
+18.  to                  | Impact: 0.002615
+19.  join                | Impact: 0.002615
+20.  your                | Impact: 0.002615
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.022415
+ 2.  )                   | Impact: -0.019881
+ 3.  (                   | Impact: -0.009347
+ 4.  )                   | Impact: -0.009347
+ 5.  register            | Impact: -0.008778
+ 6.  your                | Impact: -0.008778
+ 7.  team                | Impact: -0.008778
+ 8.  add                 | Impact: -0.008330
+ 9.  to                  | Impact: -0.008330
+10.  calendar            | Impact: -0.008330
+11.  check               | Impact: -0.008227
+12. list                 | Impact: -0.008227
+13.  (                   | Impact: -0.008027
+14.  )                   | Impact: -0.008027
+15.  (                   | Impact: -0.007358
+16.  )                   | Impact: -0.007358
+17.  final               | Impact: -0.006934
+18.  preparation         | Impact: -0.006934
+19.  register            | Impact: -0.005689
+20.  your                | Impact: -0.005689

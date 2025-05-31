@@ -1,0 +1,58 @@
+Sample 54
+=========
+
+Sample text preview: On Thu, Aug , at ::AM +, wintermute mentioned: > Interesting. I've always wondered about things 'considered' to be bad. > Example the GOTO, most langu...
+
+Model prediction: [9.9977738e-01 2.2268968e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. morphism             | Impact: -0.009462 → LEGITIMATE
+ 2.  example             | Impact: -0.006889 → LEGITIMATE
+ 3.  >                   | Impact: -0.006556 → LEGITIMATE
+ 4.  honest              | Impact: -0.006357 → LEGITIMATE
+ 5.  poly                | Impact: -0.006277 → LEGITIMATE
+ 6.  >                   | Impact: -0.005616 → LEGITIMATE
+ 7.  linux               | Impact: -0.005195 → LEGITIMATE
+ 8.  compiler            | Impact: -0.005002 → LEGITIMATE
+ 9.  function            | Impact: -0.004829 → LEGITIMATE
+10.  kernel              | Impact: -0.004665 → LEGITIMATE
+11.  >                   | Impact: -0.004621 → LEGITIMATE
+12.  <                   | Impact: -0.004370 → LEGITIMATE
+13.  general             | Impact: -0.004315 → LEGITIMATE
+14.  considered          | Impact: -0.004153 → LEGITIMATE
+15.  '                   | Impact: -0.004153 → LEGITIMATE
+16.  >                   | Impact: -0.004067 → LEGITIMATE
+17.  interesting         | Impact: -0.004049 → LEGITIMATE
+18.  maintain            | Impact: -0.004023 → LEGITIMATE
+19.  advantage           | Impact: -0.004019 → LEGITIMATE
+20.  .                   | Impact: -0.003884 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  people              | Impact: 0.000505
+ 2.  ?                   | Impact: 0.000382
+ 3.  for                 | Impact: 0.000296
+
+Top features pushing towards LEGITIMATE classification:
+ 1. morphism             | Impact: -0.009462
+ 2.  example             | Impact: -0.006889
+ 3.  >                   | Impact: -0.006556
+ 4.  honest              | Impact: -0.006357
+ 5.  poly                | Impact: -0.006277
+ 6.  >                   | Impact: -0.005616
+ 7.  linux               | Impact: -0.005195
+ 8.  compiler            | Impact: -0.005002
+ 9.  function            | Impact: -0.004829
+10.  kernel              | Impact: -0.004665
+11.  >                   | Impact: -0.004621
+12.  <                   | Impact: -0.004370
+13.  general             | Impact: -0.004315
+14.  considered          | Impact: -0.004153
+15.  '                   | Impact: -0.004153
+16.  >                   | Impact: -0.004067
+17.  interesting         | Impact: -0.004049
+18.  maintain            | Impact: -0.004023
+19.  advantage           | Impact: -0.004019
+20.  .                   | Impact: -0.003884

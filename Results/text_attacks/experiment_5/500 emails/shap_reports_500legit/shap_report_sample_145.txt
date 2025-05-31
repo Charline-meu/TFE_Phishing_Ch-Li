@@ -1,0 +1,75 @@
+Sample 145
+==========
+
+Sample text preview: Mr. Neal, At this time, you do not have a profile on CERA.com. Following are instructions for establishing one. Create your profile on cera.com! Open ...
+
+Model prediction: [9.9975640e-01 2.4354682e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.020679 → LEGITIMATE
+ 2.  en                  | Impact: -0.017886 → LEGITIMATE
+ 3. ron                  | Impact: -0.011213 → LEGITIMATE
+ 4.  en                  | Impact: -0.010327 → LEGITIMATE
+ 5.  en                  | Impact: -0.008221 → LEGITIMATE
+ 6. ron                  | Impact: -0.008221 → LEGITIMATE
+ 7.  corp                | Impact: -0.008221 → LEGITIMATE
+ 8.  specific            | Impact: -0.004560 → LEGITIMATE
+ 9.  pieces              | Impact: -0.004560 → LEGITIMATE
+10.  instructions        | Impact: -0.004464 → LEGITIMATE
+11.  for                 | Impact: -0.004464 → LEGITIMATE
+12.  en                  | Impact: -0.004428 → LEGITIMATE
+13. ron                  | Impact: -0.004428 → LEGITIMATE
+14.  your                | Impact: 0.003142 → PHISHING
+15.  contact             | Impact: 0.003142 → PHISHING
+16.  following           | Impact: -0.003051 → LEGITIMATE
+17.  are                 | Impact: -0.003051 → LEGITIMATE
+18.  en                  | Impact: -0.003013 → LEGITIMATE
+19. ron                  | Impact: -0.003013 → LEGITIMATE
+20.  :                   | Impact: -0.002983 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.003142
+ 2.  contact             | Impact: 0.003142
+ 3.  com                 | Impact: 0.002779
+ 4.  !                   | Impact: 0.002660
+ 5.  mr                  | Impact: 0.002612
+ 6.  details             | Impact: 0.002575
+ 7.  you                 | Impact: 0.002575
+ 8.  will                | Impact: 0.002212
+ 9.  be                  | Impact: 0.002212
+10.  .                   | Impact: 0.001917
+11.  notification        | Impact: 0.001542
+12.  of                  | Impact: 0.001542
+13.  after               | Impact: 0.001443
+14.  entering            | Impact: 0.001443
+15.  your                | Impact: 0.001402
+16.  company             | Impact: 0.001402
+17.  user                | Impact: 0.001402
+18. name                 | Impact: 0.001402
+19.  -                   | Impact: 0.000954
+20.  mail                | Impact: 0.000954
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.020679
+ 2.  en                  | Impact: -0.017886
+ 3. ron                  | Impact: -0.011213
+ 4.  en                  | Impact: -0.010327
+ 5.  en                  | Impact: -0.008221
+ 6. ron                  | Impact: -0.008221
+ 7.  corp                | Impact: -0.008221
+ 8.  specific            | Impact: -0.004560
+ 9.  pieces              | Impact: -0.004560
+10.  instructions        | Impact: -0.004464
+11.  for                 | Impact: -0.004464
+12.  en                  | Impact: -0.004428
+13. ron                  | Impact: -0.004428
+14.  following           | Impact: -0.003051
+15.  are                 | Impact: -0.003051
+16.  en                  | Impact: -0.003013
+17. ron                  | Impact: -0.003013
+18.  :                   | Impact: -0.002983
+19.  pm                  | Impact: -0.002983
+20.  password            | Impact: -0.002966

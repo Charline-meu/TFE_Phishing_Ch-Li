@@ -1,0 +1,75 @@
+Sample 348
+==========
+
+Sample text preview: Ouch.... hooooo.... Cheers, RAH --- begin forwarded text Date: Thu, Sep :: - From: Same Guy Subject: Re: Electric car an Edsel... To: "R. A. Hettinga"...
+
+Model prediction: [9.9977237e-01 2.2766595e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wrote               | Impact: -0.001231 → LEGITIMATE
+ 2.  :                   | Impact: -0.001231 → LEGITIMATE
+ 3.  cheers              | Impact: -0.001076 → LEGITIMATE
+ 4.  ,                   | Impact: -0.001076 → LEGITIMATE
+ 5.  >                   | Impact: -0.000927 → LEGITIMATE
+ 6.  maxwell             | Impact: -0.000927 → LEGITIMATE
+ 7.  date                | Impact: 0.000852 → PHISHING
+ 8.  :                   | Impact: 0.000852 → PHISHING
+ 9.  wed                 | Impact: 0.000852 → PHISHING
+10.  on                  | Impact: 0.000696 → PHISHING
+11.  wed                 | Impact: 0.000696 → PHISHING
+12.  ,                   | Impact: 0.000696 → PHISHING
+13.  subject             | Impact: -0.000619 → LEGITIMATE
+14.  :                   | Impact: -0.000619 → LEGITIMATE
+15.  re                  | Impact: -0.000619 → LEGITIMATE
+16.  :                   | Impact: -0.000619 → LEGITIMATE
+17.  systems             | Impact: -0.000548 → LEGITIMATE
+18.  with                | Impact: -0.000548 → LEGITIMATE
+19.  the                 | Impact: -0.000548 → LEGITIMATE
+20.  kv                  | Impact: -0.000548 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  date                | Impact: 0.000852
+ 2.  :                   | Impact: 0.000852
+ 3.  wed                 | Impact: 0.000852
+ 4.  on                  | Impact: 0.000696
+ 5.  wed                 | Impact: 0.000696
+ 6.  ,                   | Impact: 0.000696
+ 7.  ,                   | Impact: 0.000518
+ 8.  .                   | Impact: 0.000367
+ 9.  .                   | Impact: 0.000367
+10.  .                   | Impact: 0.000243
+11.  .                   | Impact: 0.000243
+12.  sep                 | Impact: 0.000198
+13.  ,                   | Impact: 0.000198
+14.  r                   | Impact: 0.000198
+15.  .                   | Impact: 0.000198
+16.  .                   | Impact: 0.000193
+17.  .                   | Impact: 0.000193
+18.  .                   | Impact: 0.000193
+19.  ho                  | Impact: 0.000193
+20. oo                   | Impact: 0.000193
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  wrote               | Impact: -0.001231
+ 2.  :                   | Impact: -0.001231
+ 3.  cheers              | Impact: -0.001076
+ 4.  ,                   | Impact: -0.001076
+ 5.  >                   | Impact: -0.000927
+ 6.  maxwell             | Impact: -0.000927
+ 7.  subject             | Impact: -0.000619
+ 8.  :                   | Impact: -0.000619
+ 9.  re                  | Impact: -0.000619
+10.  :                   | Impact: -0.000619
+11.  systems             | Impact: -0.000548
+12.  with                | Impact: -0.000548
+13.  the                 | Impact: -0.000548
+14.  kv                  | Impact: -0.000548
+15.  i                   | Impact: -0.000508
+16.  design              | Impact: -0.000508
+17.  loads               | Impact: -0.000508
+18.  for                 | Impact: -0.000508
+19.  .                   | Impact: -0.000498
+20.  electric            | Impact: -0.000452

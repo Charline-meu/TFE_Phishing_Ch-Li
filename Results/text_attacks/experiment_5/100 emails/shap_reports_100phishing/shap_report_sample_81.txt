@@ -1,0 +1,75 @@
+Phishing Sample 81
+==================
+
+Sample text preview: J'ai une nouvelle adresse mailVous pouvez maintenant m'écrire à : From: JOEL/MARY JOHNSON Asyluim Camp Abidjan cote d' ivoire My phone/+ Dearest One, ...
+
+Model prediction: [1.7540806e-04 9.9982458e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  money               | Impact: 0.010506 → PHISHING
+ 2.  amount              | Impact: 0.010506 → PHISHING
+ 3.  ,                   | Impact: 0.010506 → PHISHING
+ 4.  %                   | Impact: 0.006964 → PHISHING
+ 5.  of                  | Impact: 0.006964 → PHISHING
+ 6.  the                 | Impact: 0.006964 → PHISHING
+ 7.  total               | Impact: 0.006964 → PHISHING
+ 8.  sierra              | Impact: 0.006839 → PHISHING
+ 9.  leone               | Impact: 0.006839 → PHISHING
+10.  has                 | Impact: 0.006839 → PHISHING
+11.  revoked             | Impact: 0.006839 → PHISHING
+12.  younger             | Impact: 0.006350 → PHISHING
+13.  sister              | Impact: 0.006350 → PHISHING
+14.  the                 | Impact: 0.006264 → PHISHING
+15.  present             | Impact: 0.006264 → PHISHING
+16.  government          | Impact: 0.006264 → PHISHING
+17.  of                  | Impact: 0.006264 → PHISHING
+18.  please              | Impact: 0.005283 → PHISHING
+19.  write               | Impact: 0.005283 → PHISHING
+20.  me                  | Impact: 0.005283 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.010506
+ 2.  amount              | Impact: 0.010506
+ 3.  ,                   | Impact: 0.010506
+ 4.  %                   | Impact: 0.006964
+ 5.  of                  | Impact: 0.006964
+ 6.  the                 | Impact: 0.006964
+ 7.  total               | Impact: 0.006964
+ 8.  sierra              | Impact: 0.006839
+ 9.  leone               | Impact: 0.006839
+10.  has                 | Impact: 0.006839
+11.  revoked             | Impact: 0.006839
+12.  younger             | Impact: 0.006350
+13.  sister              | Impact: 0.006350
+14.  the                 | Impact: 0.006264
+15.  present             | Impact: 0.006264
+16.  government          | Impact: 0.006264
+17.  of                  | Impact: 0.006264
+18.  please              | Impact: 0.005283
+19.  write               | Impact: 0.005283
+20.  me                  | Impact: 0.005283
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  it                  | Impact: -0.000060
+ 2.  is                  | Impact: -0.000060
+ 3.  important           | Impact: -0.000060
+ 4.  .                   | Impact: -0.000060
+ 5.  b                   | Impact: -0.000022
+ 6.  try                 | Impact: -0.000022
+ 7.  and                 | Impact: -0.000022
+ 8.  negotiate           | Impact: -0.000022
+ 9.  for                 | Impact: -0.000022
+10.  me                  | Impact: -0.000022
+11.  some                | Impact: -0.000022
+12.  profitable          | Impact: -0.000022
+13.  blue                | Impact: -0.000022
+14.  chip                | Impact: -0.000022
+15.  investment          | Impact: -0.000022
+16.  personally          | Impact: -0.000022
+17.  i                   | Impact: -0.000022
+18.  am                  | Impact: -0.000022
+19.  interested          | Impact: -0.000022
+20.  in                  | Impact: -0.000022

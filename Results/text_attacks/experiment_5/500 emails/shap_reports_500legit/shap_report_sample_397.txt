@@ -1,0 +1,65 @@
+Sample 397
+==========
+
+Sample text preview: If you can keep your head when all about you are losing theirs, it's just possible you haven't fully grasped the situation.
+
+Model prediction: [0.9951344  0.00486562]
+Predicted class: LEGITIMATE with 0.9951 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.124788 → PHISHING
+ 2.  when                | Impact: -0.089829 → LEGITIMATE
+ 3.  situation           | Impact: -0.085170 → LEGITIMATE
+ 4.  about               | Impact: -0.079507 → LEGITIMATE
+ 5.  your                | Impact: 0.075797 → PHISHING
+ 6.  possible            | Impact: -0.064533 → LEGITIMATE
+ 7.  can                 | Impact: 0.060031 → PHISHING
+ 8.  if                  | Impact: 0.045732 → PHISHING
+ 9.  you                 | Impact: 0.043830 → PHISHING
+10.  the                 | Impact: -0.035124 → LEGITIMATE
+11.  losing              | Impact: 0.033180 → PHISHING
+12.  just                | Impact: -0.033030 → LEGITIMATE
+13.  head                | Impact: 0.032220 → PHISHING
+14.  s                   | Impact: -0.031325 → LEGITIMATE
+15.  '                   | Impact: -0.028717 → LEGITIMATE
+16.  theirs              | Impact: 0.025961 → PHISHING
+17.  are                 | Impact: 0.025067 → PHISHING
+18.  .                   | Impact: 0.021346 → PHISHING
+19.  ,                   | Impact: -0.018211 → LEGITIMATE
+20.  you                 | Impact: -0.016910 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.124788
+ 2.  your                | Impact: 0.075797
+ 3.  can                 | Impact: 0.060031
+ 4.  if                  | Impact: 0.045732
+ 5.  you                 | Impact: 0.043830
+ 6.  losing              | Impact: 0.033180
+ 7.  head                | Impact: 0.032220
+ 8.  theirs              | Impact: 0.025961
+ 9.  are                 | Impact: 0.025067
+10.  .                   | Impact: 0.021346
+11.  keep                | Impact: 0.008656
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  when                | Impact: -0.089829
+ 2.  situation           | Impact: -0.085170
+ 3.  about               | Impact: -0.079507
+ 4.  possible            | Impact: -0.064533
+ 5.  the                 | Impact: -0.035124
+ 6.  just                | Impact: -0.033030
+ 7.  s                   | Impact: -0.031325
+ 8.  '                   | Impact: -0.028717
+ 9.  ,                   | Impact: -0.018211
+10.  you                 | Impact: -0.016910
+11.  t                   | Impact: -0.014393
+12.  haven               | Impact: -0.010888
+13.  '                   | Impact: -0.010444
+14.  all                 | Impact: -0.009703
+15.  grasped             | Impact: -0.006941
+16.  fully               | Impact: -0.004749
+17.  it                  | Impact: -0.003395
+18.                      | Impact: -0.000387
+19.                      | Impact: -0.000046

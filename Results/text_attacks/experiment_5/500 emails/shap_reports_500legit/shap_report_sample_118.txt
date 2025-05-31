@@ -1,0 +1,75 @@
+Sample 118
+==========
+
+Sample text preview: URL: Date: Mon, Sep :: GMT Google PR sends a message that they have a new News service[]. Maybe I'm slow this morning, or maybe I'm spoiled, but what'...
+
+Model prediction: [9.9975783e-01 2.4223402e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ur                  | Impact: -0.009499 → LEGITIMATE
+ 2.  [                   | Impact: -0.006753 → LEGITIMATE
+ 3.  aggregator          | Impact: -0.006258 → LEGITIMATE
+ 4.  ]                   | Impact: -0.005962 → LEGITIMATE
+ 5.  ]                   | Impact: -0.005786 → LEGITIMATE
+ 6.  :                   | Impact: -0.005676 → LEGITIMATE
+ 7.  [                   | Impact: -0.003904 → LEGITIMATE
+ 8.  personal            | Impact: 0.003550 → PHISHING
+ 9.  .                   | Impact: -0.003227 → LEGITIMATE
+10.  gm                  | Impact: -0.002958 → LEGITIMATE
+11.  me                  | Impact: 0.002771 → PHISHING
+12.  thought             | Impact: -0.002635 → LEGITIMATE
+13.  [                   | Impact: -0.002515 → LEGITIMATE
+14.  ]                   | Impact: -0.002486 → LEGITIMATE
+15.  :                   | Impact: -0.002406 → LEGITIMATE
+16.  already             | Impact: -0.002384 → LEGITIMATE
+17.  .                   | Impact: -0.002257 → LEGITIMATE
+18.  .                   | Impact: -0.002237 → LEGITIMATE
+19.  mon                 | Impact: 0.002200 → PHISHING
+20. l                    | Impact: -0.002151 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  personal            | Impact: 0.003550
+ 2.  me                  | Impact: 0.002771
+ 3.  mon                 | Impact: 0.002200
+ 4.  had                 | Impact: 0.001877
+ 5.  my                  | Impact: 0.001664
+ 6.  spoiled             | Impact: 0.001054
+ 7.  date                | Impact: 0.000728
+ 8. t                    | Impact: 0.000722
+ 9.  service             | Impact: 0.000424
+10.  me                  | Impact: 0.000332
+11.  they                | Impact: 0.000269
+12.  have                | Impact: 0.000269
+13.  a                   | Impact: 0.000249
+14.  new                 | Impact: 0.000249
+15.  m                   | Impact: 0.000234
+16.  s                   | Impact: 0.000218
+17.  ]                   | Impact: 0.000215
+18.  it                  | Impact: 0.000203
+19.  shows               | Impact: 0.000203
+20.  the                 | Impact: 0.000166
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ur                  | Impact: -0.009499
+ 2.  [                   | Impact: -0.006753
+ 3.  aggregator          | Impact: -0.006258
+ 4.  ]                   | Impact: -0.005962
+ 5.  ]                   | Impact: -0.005786
+ 6.  :                   | Impact: -0.005676
+ 7.  [                   | Impact: -0.003904
+ 8.  .                   | Impact: -0.003227
+ 9.  gm                  | Impact: -0.002958
+10.  thought             | Impact: -0.002635
+11.  [                   | Impact: -0.002515
+12.  ]                   | Impact: -0.002486
+13.  :                   | Impact: -0.002406
+14.  already             | Impact: -0.002384
+15.  .                   | Impact: -0.002257
+16.  .                   | Impact: -0.002237
+17. l                    | Impact: -0.002151
+18.  but                 | Impact: -0.002105
+19.  ,                   | Impact: -0.002007
+20.  .                   | Impact: -0.002002

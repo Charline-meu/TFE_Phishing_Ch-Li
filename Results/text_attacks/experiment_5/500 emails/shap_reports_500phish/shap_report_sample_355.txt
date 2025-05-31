@@ -1,0 +1,55 @@
+Sample 355
+==========
+
+Sample text preview: DR. ChINEDU CHARLE b RIDER HAGGARD CLOSE JOHANAESBURG,SOUTH AFFRICA ATTN: In order to transfer out (US$ Million)niety million United States Dollars) f...
+
+Model prediction: [1.6589477e-04 9.9983406e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  the                 | Impact: 0.019434 → PHISHING
+ 2.  money               | Impact: 0.019434 → PHISHING
+ 3.  into                | Impact: 0.019434 → PHISHING
+ 4.  your                | Impact: 0.019434 → PHISHING
+ 5.  account             | Impact: 0.019434 → PHISHING
+ 6.  you                 | Impact: 0.015648 → PHISHING
+ 7.  shall               | Impact: 0.015648 → PHISHING
+ 8.  be                  | Impact: 0.015648 → PHISHING
+ 9.  entitled            | Impact: 0.015648 → PHISHING
+10.  bank                | Impact: 0.011602 → PHISHING
+11.  account             | Impact: 0.011602 → PHISHING
+12.  .                   | Impact: 0.011602 → PHISHING
+13.  of                  | Impact: 0.010907 → PHISHING
+14.  your                | Impact: 0.010907 → PHISHING
+15.  chosen              | Impact: 0.010907 → PHISHING
+16.  designated          | Impact: 0.010907 → PHISHING
+17.  ,                   | Impact: 0.009137 → PHISHING
+18.  the                 | Impact: 0.006939 → PHISHING
+19.  fund                | Impact: 0.006939 → PHISHING
+20.  into                | Impact: 0.006939 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  the                 | Impact: 0.019434
+ 2.  money               | Impact: 0.019434
+ 3.  into                | Impact: 0.019434
+ 4.  your                | Impact: 0.019434
+ 5.  account             | Impact: 0.019434
+ 6.  you                 | Impact: 0.015648
+ 7.  shall               | Impact: 0.015648
+ 8.  be                  | Impact: 0.015648
+ 9.  entitled            | Impact: 0.015648
+10.  bank                | Impact: 0.011602
+11.  account             | Impact: 0.011602
+12.  .                   | Impact: 0.011602
+13.  of                  | Impact: 0.010907
+14.  your                | Impact: 0.010907
+15.  chosen              | Impact: 0.010907
+16.  designated          | Impact: 0.010907
+17.  ,                   | Impact: 0.009137
+18.  the                 | Impact: 0.006939
+19.  fund                | Impact: 0.006939
+20.  into                | Impact: 0.006939
+
+Top features pushing towards LEGITIMATE classification:

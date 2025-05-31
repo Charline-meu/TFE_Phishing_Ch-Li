@@ -1,0 +1,75 @@
+Sample 107
+==========
+
+Sample text preview: On The Way to Telluride, On My Way Back to the World // Dear friends, I go to turn my computer on but I have forgotten where the on/off switch is. I h...
+
+Model prediction: [0.9988433  0.00115672]
+Predicted class: LEGITIMATE with 0.9988 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  "                   | Impact: -0.001393 → LEGITIMATE
+ 2.  boy                 | Impact: -0.001393 → LEGITIMATE
+ 3.  ,                   | Impact: -0.001393 → LEGITIMATE
+ 4.  that                | Impact: -0.001393 → LEGITIMATE
+ 5.  '                   | Impact: -0.001393 → LEGITIMATE
+ 6.  s                   | Impact: -0.001393 → LEGITIMATE
+ 7.  saying              | Impact: -0.001393 → LEGITIMATE
+ 8.  ,                   | Impact: -0.001393 → LEGITIMATE
+ 9.  something           | Impact: -0.001393 → LEGITIMATE
+10.  ,                   | Impact: -0.001393 → LEGITIMATE
+11.  catching            | Impact: -0.001018 → LEGITIMATE
+12.  a                   | Impact: -0.001018 → LEGITIMATE
+13.  scene               | Impact: -0.001018 → LEGITIMATE
+14.  here                | Impact: -0.001018 → LEGITIMATE
+15.  and                 | Impact: -0.001018 → LEGITIMATE
+16.  there               | Impact: -0.001018 → LEGITIMATE
+17.  ,                   | Impact: -0.001018 → LEGITIMATE
+18.  my                  | Impact: 0.000819 → PHISHING
+19.  mother              | Impact: 0.000819 → PHISHING
+20.  did                 | Impact: 0.000819 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.000819
+ 2.  mother              | Impact: 0.000819
+ 3.  did                 | Impact: 0.000819
+ 4.  not                 | Impact: 0.000819
+ 5.  get                 | Impact: 0.000672
+ 6.  to                  | Impact: 0.000672
+ 7.  see                 | Impact: 0.000672
+ 8.  this                | Impact: 0.000672
+ 9.  new                 | Impact: 0.000672
+10.  film                | Impact: 0.000672
+11.  .                   | Impact: 0.000672
+12.  gone                | Impact: 0.000590
+13.  like                | Impact: 0.000590
+14.  this                | Impact: 0.000590
+15.  long                | Impact: 0.000590
+16.  ,                   | Impact: 0.000590
+17.  sad                 | Impact: 0.000590
+18.  ,                   | Impact: 0.000590
+19.  summer              | Impact: 0.000590
+20.  ,                   | Impact: 0.000590
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  "                   | Impact: -0.001393
+ 2.  boy                 | Impact: -0.001393
+ 3.  ,                   | Impact: -0.001393
+ 4.  that                | Impact: -0.001393
+ 5.  '                   | Impact: -0.001393
+ 6.  s                   | Impact: -0.001393
+ 7.  saying              | Impact: -0.001393
+ 8.  ,                   | Impact: -0.001393
+ 9.  something           | Impact: -0.001393
+10.  ,                   | Impact: -0.001393
+11.  catching            | Impact: -0.001018
+12.  a                   | Impact: -0.001018
+13.  scene               | Impact: -0.001018
+14.  here                | Impact: -0.001018
+15.  and                 | Impact: -0.001018
+16.  there               | Impact: -0.001018
+17.  ,                   | Impact: -0.001018
+18.  a                   | Impact: -0.000764
+19.  few                 | Impact: -0.000764
+20.  weeks               | Impact: -0.000764

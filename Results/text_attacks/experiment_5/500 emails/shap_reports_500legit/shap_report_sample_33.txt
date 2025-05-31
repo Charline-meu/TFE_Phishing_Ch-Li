@@ -1,0 +1,75 @@
+Sample 33
+=========
+
+Sample text preview: ---------------------- Forwarded by Vince J Kaminski/HOU/ECT on // : PM --------------------------- Anjam Ahmad // : PM To: Vince J Kaminski/HOU/ECT@E...
+
+Model prediction: [9.9978787e-01 2.1217446e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ec                  | Impact: -0.001043 → LEGITIMATE
+ 2.  pm                  | Impact: -0.000992 → LEGITIMATE
+ 3.  ec                  | Impact: -0.000895 → LEGITIMATE
+ 4.  com                 | Impact: -0.000694 → LEGITIMATE
+ 5. t                    | Impact: -0.000685 → LEGITIMATE
+ 6.  :                   | Impact: -0.000642 → LEGITIMATE
+ 7.  ec                  | Impact: -0.000642 → LEGITIMATE
+ 8.  .                   | Impact: -0.000632 → LEGITIMATE
+ 9.  curran              | Impact: -0.000594 → LEGITIMATE
+10.  michael             | Impact: -0.000585 → LEGITIMATE
+11.  /                   | Impact: -0.000571 → LEGITIMATE
+12. t                    | Impact: -0.000549 → LEGITIMATE
+13.  -                   | Impact: -0.000532 → LEGITIMATE
+14.  j                   | Impact: -0.000528 → LEGITIMATE
+15.  wednesday           | Impact: -0.000501 → LEGITIMATE
+16.  am                  | Impact: -0.000501 → LEGITIMATE
+17.  ec                  | Impact: -0.000494 → LEGITIMATE
+18. t                    | Impact: -0.000494 → LEGITIMATE
+19.  mika                | Impact: -0.000488 → LEGITIMATE
+20.  j                   | Impact: -0.000482 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.000445
+ 2.  am                  | Impact: 0.000383
+ 3.  @                   | Impact: 0.000350
+ 4. m                    | Impact: 0.000312
+ 5.  x                   | Impact: 0.000237
+ 6.  an                  | Impact: 0.000157
+ 7. ja                   | Impact: 0.000157
+ 8.  .                   | Impact: 0.000078
+ 9.  an                  | Impact: 0.000054
+10. ja                   | Impact: 0.000054
+11. m                    | Impact: 0.000054
+12.                      | Impact: 0.000045
+13.  and                 | Impact: 0.000028
+14.  an                  | Impact: 0.000008
+15. ja                   | Impact: 0.000008
+16. m                    | Impact: 0.000008
+17.  shirley             | Impact: 0.000006
+18.  cr                  | Impact: 0.000006
+19. ens                  | Impact: 0.000006
+20. haw                  | Impact: 0.000006
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ec                  | Impact: -0.001043
+ 2.  pm                  | Impact: -0.000992
+ 3.  ec                  | Impact: -0.000895
+ 4.  com                 | Impact: -0.000694
+ 5. t                    | Impact: -0.000685
+ 6.  :                   | Impact: -0.000642
+ 7.  ec                  | Impact: -0.000642
+ 8.  .                   | Impact: -0.000632
+ 9.  curran              | Impact: -0.000594
+10.  michael             | Impact: -0.000585
+11.  /                   | Impact: -0.000571
+12. t                    | Impact: -0.000549
+13.  -                   | Impact: -0.000532
+14.  j                   | Impact: -0.000528
+15.  wednesday           | Impact: -0.000501
+16.  am                  | Impact: -0.000501
+17.  ec                  | Impact: -0.000494
+18. t                    | Impact: -0.000494
+19.  mika                | Impact: -0.000488
+20.  j                   | Impact: -0.000482

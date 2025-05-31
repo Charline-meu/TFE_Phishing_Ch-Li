@@ -1,0 +1,75 @@
+Phishing Sample 12
+==================
+
+Sample text preview: <BODY style="FONT-SIZE: medium; FONT-FAMILY: 'Google Sans', Roboto, RobotoDraft, Helvetica, Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: px; ...
+
+Model prediction: [0.00180833 0.99819165]
+Predicted class: PHISHING with 0.9982 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  initial             | Impact: 0.029426 → PHISHING
+ 2.  color               | Impact: 0.022177 → PHISHING
+ 3.  decoration          | Impact: 0.020097 → PHISHING
+ 4.  width               | Impact: 0.019618 → PHISHING
+ 5.  :                   | Impact: 0.019327 → PHISHING
+ 6.  -                   | Impact: 0.016611 → PHISHING
+ 7.  caps                | Impact: 0.016611 → PHISHING
+ 8.  sans                | Impact: 0.016130 → PHISHING
+ 9. rst                  | Impact: 0.015689 → PHISHING
+10.  :                   | Impact: 0.015614 → PHISHING
+11.  normal              | Impact: 0.015614 → PHISHING
+12.  -                   | Impact: 0.015299 → PHISHING
+13.  robot               | Impact: 0.014930 → PHISHING
+14.  size                | Impact: 0.014315 → PHISHING
+15.  text                | Impact: 0.013582 → PHISHING
+16.  you                 | Impact: 0.013440 → PHISHING
+17.  robot               | Impact: 0.013413 → PHISHING
+18. od                   | Impact: 0.013413 → PHISHING
+19.  thickness           | Impact: 0.012904 → PHISHING
+20.  -                   | Impact: 0.011770 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  initial             | Impact: 0.029426
+ 2.  color               | Impact: 0.022177
+ 3.  decoration          | Impact: 0.020097
+ 4.  width               | Impact: 0.019618
+ 5.  :                   | Impact: 0.019327
+ 6.  -                   | Impact: 0.016611
+ 7.  caps                | Impact: 0.016611
+ 8.  sans                | Impact: 0.016130
+ 9. rst                  | Impact: 0.015689
+10.  :                   | Impact: 0.015614
+11.  normal              | Impact: 0.015614
+12.  -                   | Impact: 0.015299
+13.  robot               | Impact: 0.014930
+14.  size                | Impact: 0.014315
+15.  text                | Impact: 0.013582
+16.  you                 | Impact: 0.013440
+17.  robot               | Impact: 0.013413
+18. od                   | Impact: 0.013413
+19.  thickness           | Impact: 0.012904
+20.  -                   | Impact: 0.011770
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.009379
+ 2.  he                  | Impact: -0.004230
+ 3. l                    | Impact: -0.004230
+ 4.  your                | Impact: -0.003715
+ 5.  august              | Impact: -0.003715
+ 6.  payroll             | Impact: -0.003715
+ 7.  report              | Impact: -0.003715
+ 8. vet                  | Impact: -0.003714
+ 9. ica                  | Impact: -0.003714
+10.  (                   | Impact: -0.002148
+11.  sf                  | Impact: -0.002148
+12.  _                   | Impact: -0.002148
+13.  ,                   | Impact: -0.001853
+14.  hr                  | Impact: -0.000244
+15.  and                 | Impact: -0.000244
+16.  executive           | Impact: -0.000244
+17.  has                 | Impact: -0.000244
+18.  shared              | Impact: -0.000244
+19.  "                   | Impact: -0.000244
+20.  (                   | Impact: -0.000183

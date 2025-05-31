@@ -1,0 +1,75 @@
+Sample 352
+==========
+
+Sample text preview: Constellation Energy Group, Inc. has added a News Release to its Investor Relations web site. For a complete listing of our News Releases visit: Title...
+
+Model prediction: [9.9969864e-01 3.0141650e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.044066 → PHISHING
+ 2.  please              | Impact: 0.041356 → PHISHING
+ 3.  -                   | Impact: 0.021259 → PHISHING
+ 4.  mail                | Impact: 0.021259 → PHISHING
+ 5.  below               | Impact: 0.020859 → PHISHING
+ 6.  link                | Impact: 0.020553 → PHISHING
+ 7.  blank               | Impact: 0.016494 → PHISHING
+ 8.  reply               | Impact: 0.016494 → PHISHING
+ 9.  energy              | Impact: -0.013089 → LEGITIMATE
+10.  this                | Impact: 0.011384 → PHISHING
+11.  e                   | Impact: 0.011384 → PHISHING
+12.  com                 | Impact: -0.008893 → LEGITIMATE
+13.  '                   | Impact: -0.008893 → LEGITIMATE
+14.  constellation       | Impact: -0.008807 → LEGITIMATE
+15.  title               | Impact: 0.008448 → PHISHING
+16.  site                | Impact: 0.007729 → PHISHING
+17.  list                | Impact: -0.007685 → LEGITIMATE
+18.  management          | Impact: -0.007685 → LEGITIMATE
+19.  software            | Impact: -0.007685 → LEGITIMATE
+20.  s                   | Impact: -0.007624 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.044066
+ 2.  please              | Impact: 0.041356
+ 3.  -                   | Impact: 0.021259
+ 4.  mail                | Impact: 0.021259
+ 5.  below               | Impact: 0.020859
+ 6.  link                | Impact: 0.020553
+ 7.  blank               | Impact: 0.016494
+ 8.  reply               | Impact: 0.016494
+ 9.  this                | Impact: 0.011384
+10.  e                   | Impact: 0.011384
+11.  title               | Impact: 0.008448
+12.  site                | Impact: 0.007729
+13.  and                 | Impact: 0.005923
+14.  visit               | Impact: 0.005676
+15.  cc                  | Impact: 0.005676
+16. bn                   | Impact: 0.005676
+17.  .                   | Impact: 0.005623
+18.  web                 | Impact: 0.005350
+19.  site                | Impact: 0.005350
+20.  at                  | Impact: 0.004215
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  energy              | Impact: -0.013089
+ 2.  com                 | Impact: -0.008893
+ 3.  '                   | Impact: -0.008893
+ 4.  constellation       | Impact: -0.008807
+ 5.  list                | Impact: -0.007685
+ 6.  management          | Impact: -0.007685
+ 7.  software            | Impact: -0.007685
+ 8.  s                   | Impact: -0.007624
+ 9.  investor            | Impact: -0.007366
+10.  .                   | Impact: -0.006431
+11.  listing             | Impact: -0.006307
+12.  energy              | Impact: -0.006163
+13.  group               | Impact: -0.006163
+14.  group               | Impact: -0.005966
+15.  names               | Impact: -0.005966
+16.  join                | Impact: -0.005886
+17. mail                 | Impact: -0.005886
+18.  added               | Impact: -0.005320
+19.  cc                  | Impact: -0.005243
+20. bn                   | Impact: -0.005243

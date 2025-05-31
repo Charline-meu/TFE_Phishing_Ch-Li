@@ -1,0 +1,75 @@
+Phishing Sample 54
+==================
+
+Sample text preview: Hello, I got your email address through search in the Internet.I hope and pray to God that I have the right person who will assist me.I have interest ...
+
+Model prediction: [1.5668670e-04 9.9984324e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wife                | Impact: 0.008744 → PHISHING
+ 2.  of                  | Impact: 0.008744 → PHISHING
+ 3.  your                | Impact: 0.008388 → PHISHING
+ 4.  you                 | Impact: 0.007714 → PHISHING
+ 5.  will                | Impact: 0.007714 → PHISHING
+ 6.  be                  | Impact: 0.007714 → PHISHING
+ 7.  entitled            | Impact: 0.007714 → PHISHING
+ 8.  dr                  | Impact: 0.007584 → PHISHING
+ 9.  mrs                 | Impact: 0.007584 → PHISHING
+10.  mary                | Impact: 0.007584 → PHISHING
+11. am                   | Impact: 0.007584 → PHISHING
+12.  mail                | Impact: 0.006883 → PHISHING
+13.  your                | Impact: 0.006883 → PHISHING
+14.  readiness           | Impact: 0.006883 → PHISHING
+15.  to                  | Impact: 0.006883 → PHISHING
+16.  your                | Impact: 0.006852 → PHISHING
+17.  assistance          | Impact: 0.006852 → PHISHING
+18.  .                   | Impact: 0.006852 → PHISHING
+19.  bank                | Impact: 0.006790 → PHISHING
+20.  account             | Impact: 0.006790 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  wife                | Impact: 0.008744
+ 2.  of                  | Impact: 0.008744
+ 3.  your                | Impact: 0.008388
+ 4.  you                 | Impact: 0.007714
+ 5.  will                | Impact: 0.007714
+ 6.  be                  | Impact: 0.007714
+ 7.  entitled            | Impact: 0.007714
+ 8.  dr                  | Impact: 0.007584
+ 9.  mrs                 | Impact: 0.007584
+10.  mary                | Impact: 0.007584
+11. am                   | Impact: 0.007584
+12.  mail                | Impact: 0.006883
+13.  your                | Impact: 0.006883
+14.  readiness           | Impact: 0.006883
+15.  to                  | Impact: 0.006883
+16.  your                | Impact: 0.006852
+17.  assistance          | Impact: 0.006852
+18.  .                   | Impact: 0.006852
+19.  bank                | Impact: 0.006790
+20.  account             | Impact: 0.006790
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.003810
+ 2.  ,                   | Impact: -0.003810
+ 3.  i                   | Impact: -0.003050
+ 4.  got                 | Impact: -0.003050
+ 5.  author              | Impact: -0.001796
+ 6. izing                | Impact: -0.001796
+ 7.  .                   | Impact: -0.001622
+ 8.  also                | Impact: -0.001349
+ 9.  the                 | Impact: -0.001349
+10.  security            | Impact: -0.001349
+11.  company             | Impact: -0.001349
+12.  the                 | Impact: -0.001220
+13.  pin                 | Impact: -0.001220
+14.  code                | Impact: -0.001220
+15.  number              | Impact: -0.001220
+16.  to                  | Impact: -0.001203
+17.  release             | Impact: -0.001203
+18.  the                 | Impact: -0.001203
+19.  follows             | Impact: -0.001202
+20.  :                   | Impact: -0.001202

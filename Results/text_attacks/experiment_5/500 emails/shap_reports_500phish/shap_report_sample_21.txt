@@ -1,0 +1,75 @@
+Sample 21
+=========
+
+Sample text preview: My Dear, Good day to you, I hope fine, dear am writing this mail with due respect and heartful of tears,sorrow and pains in my heart, since we have no...
+
+Model prediction: [1.6539644e-04 9.9983454e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  to                  | Impact: 0.010664 → PHISHING
+ 2.  your                | Impact: 0.010664 → PHISHING
+ 3.  sum                 | Impact: 0.009177 → PHISHING
+ 4.  of                  | Impact: 0.009177 → PHISHING
+ 5.  is                  | Impact: 0.008748 → PHISHING
+ 6.  mr                  | Impact: 0.008748 → PHISHING
+ 7.  country             | Impact: 0.008675 → PHISHING
+ 8.  for                 | Impact: 0.008675 → PHISHING
+ 9.  investment          | Impact: 0.008675 → PHISHING
+10.  the                 | Impact: 0.008058 → PHISHING
+11.  fund                | Impact: 0.008058 → PHISHING
+12.  my                  | Impact: 0.008045 → PHISHING
+13.  father              | Impact: 0.008045 → PHISHING
+14.  deposited           | Impact: 0.008045 → PHISHING
+15.  the                 | Impact: 0.008045 → PHISHING
+16.  my                  | Impact: 0.007953 → PHISHING
+17.  name                | Impact: 0.007953 → PHISHING
+18.                      | Impact: 0.007144 → PHISHING
+19.  my                  | Impact: 0.007144 → PHISHING
+20.  dear                | Impact: 0.007144 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.010664
+ 2.  your                | Impact: 0.010664
+ 3.  sum                 | Impact: 0.009177
+ 4.  of                  | Impact: 0.009177
+ 5.  is                  | Impact: 0.008748
+ 6.  mr                  | Impact: 0.008748
+ 7.  country             | Impact: 0.008675
+ 8.  for                 | Impact: 0.008675
+ 9.  investment          | Impact: 0.008675
+10.  the                 | Impact: 0.008058
+11.  fund                | Impact: 0.008058
+12.  my                  | Impact: 0.008045
+13.  father              | Impact: 0.008045
+14.  deposited           | Impact: 0.008045
+15.  the                 | Impact: 0.008045
+16.  my                  | Impact: 0.007953
+17.  name                | Impact: 0.007953
+18.                      | Impact: 0.007144
+19.  my                  | Impact: 0.007144
+20.  dear                | Impact: 0.007144
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.000760
+ 2.  .                   | Impact: -0.000760
+ 3.  .                   | Impact: -0.000760
+ 4.  .                   | Impact: -0.000760
+ 5.  .                   | Impact: -0.000760
+ 6.  .                   | Impact: -0.000760
+ 7.  .                   | Impact: -0.000760
+ 8.  .                   | Impact: -0.000760
+ 9.  .                   | Impact: -0.000462
+10.  .                   | Impact: -0.000462
+11.  .                   | Impact: -0.000462
+12.  .                   | Impact: -0.000462
+13.  .                   | Impact: -0.000462
+14.  .                   | Impact: -0.000462
+15.  .                   | Impact: -0.000462
+16.  .                   | Impact: -0.000462
+17.  .                   | Impact: -0.000356
+18.  .                   | Impact: -0.000356
+19.  .                   | Impact: -0.000356
+20.  .                   | Impact: -0.000356

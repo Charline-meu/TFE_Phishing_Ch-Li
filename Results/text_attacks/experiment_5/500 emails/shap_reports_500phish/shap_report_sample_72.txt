@@ -1,0 +1,72 @@
+Sample 72
+=========
+
+Sample text preview: Attn: Good Morning, I am Professor Frank Morris a British Citizen working with the Stanbic Bank of Ghana as the General Auditor, I what to inform you ...
+
+Model prediction: [1.7867802e-04 9.9982136e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ltd                 | Impact: 0.019227 → PHISHING
+ 2.  uk                  | Impact: 0.019227 → PHISHING
+ 3.  am                  | Impact: 0.018981 → PHISHING
+ 4.  in                  | Impact: 0.017912 → PHISHING
+ 5.  ghana               | Impact: 0.017912 → PHISHING
+ 6.  your                | Impact: 0.017712 → PHISHING
+ 7.  number              | Impact: 0.017600 → PHISHING
+ 8.  this                | Impact: 0.017147 → PHISHING
+ 9.  bank                | Impact: 0.017147 → PHISHING
+10.  ,                   | Impact: 0.016804 → PHISHING
+11.  in                  | Impact: 0.015429 → PHISHING
+12.  funds               | Impact: 0.015141 → PHISHING
+13.  here                | Impact: 0.015141 → PHISHING
+14.  account             | Impact: 0.015093 → PHISHING
+15.  is                  | Impact: 0.015093 → PHISHING
+16.  i                   | Impact: 0.014974 → PHISHING
+17.  mr                  | Impact: 0.013122 → PHISHING
+18.  this                | Impact: 0.013110 → PHISHING
+19.  transaction         | Impact: 0.013110 → PHISHING
+20.  give                | Impact: 0.011630 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ltd                 | Impact: 0.019227
+ 2.  uk                  | Impact: 0.019227
+ 3.  am                  | Impact: 0.018981
+ 4.  in                  | Impact: 0.017912
+ 5.  ghana               | Impact: 0.017912
+ 6.  your                | Impact: 0.017712
+ 7.  number              | Impact: 0.017600
+ 8.  this                | Impact: 0.017147
+ 9.  bank                | Impact: 0.017147
+10.  ,                   | Impact: 0.016804
+11.  in                  | Impact: 0.015429
+12.  funds               | Impact: 0.015141
+13.  here                | Impact: 0.015141
+14.  account             | Impact: 0.015093
+15.  is                  | Impact: 0.015093
+16.  i                   | Impact: 0.014974
+17.  mr                  | Impact: 0.013122
+18.  this                | Impact: 0.013110
+19.  transaction         | Impact: 0.013110
+20.  give                | Impact: 0.011630
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  if                  | Impact: -0.004634
+ 2.  you                 | Impact: -0.004634
+ 3.  .                   | Impact: -0.002971
+ 4.  .                   | Impact: -0.002679
+ 5.  are                 | Impact: -0.002106
+ 6.  interested          | Impact: -0.002106
+ 7.  and                 | Impact: -0.001393
+ 8.  ,                   | Impact: -0.001110
+ 9.                      | Impact: -0.000470
+10.  the                 | Impact: -0.000424
+11.  general             | Impact: -0.000424
+12.  manager             | Impact: -0.000424
+13.  of                  | Impact: -0.000424
+14.  office              | Impact: -0.000276
+15.  in                  | Impact: -0.000276
+16.  ,                   | Impact: -0.000276
+17.  and                 | Impact: -0.000246

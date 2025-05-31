@@ -1,0 +1,65 @@
+Sample 254
+==========
+
+Sample text preview: The FINAL Violation Memos for // have been published and are available for viewing on the ERV: - Violation/Notification Memo Section.
+
+Model prediction: [9.995260e-01 4.740398e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  er                  | Impact: -0.118736 → LEGITIMATE
+ 2.  available           | Impact: 0.090255 → PHISHING
+ 3.  published           | Impact: 0.055254 → PHISHING
+ 4.  viewing             | Impact: 0.035175 → PHISHING
+ 5.  violation           | Impact: -0.034259 → LEGITIMATE
+ 6.  /                   | Impact: -0.032763 → LEGITIMATE
+ 7.  notification        | Impact: 0.029900 → PHISHING
+ 8. v                    | Impact: -0.029525 → LEGITIMATE
+ 9.  memo                | Impact: -0.028483 → LEGITIMATE
+10.  have                | Impact: -0.027238 → LEGITIMATE
+11.  the                 | Impact: 0.022984 → PHISHING
+12.  section             | Impact: -0.020816 → LEGITIMATE
+13.  violation           | Impact: 0.020286 → PHISHING
+14.  :                   | Impact: -0.019660 → LEGITIMATE
+15.  are                 | Impact: 0.019463 → PHISHING
+16.  on                  | Impact: 0.016098 → PHISHING
+17.  memo                | Impact: -0.014571 → LEGITIMATE
+18.  the                 | Impact: -0.013992 → LEGITIMATE
+19.  for                 | Impact: -0.010102 → LEGITIMATE
+20. s                    | Impact: 0.009562 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  available           | Impact: 0.090255
+ 2.  published           | Impact: 0.055254
+ 3.  viewing             | Impact: 0.035175
+ 4.  notification        | Impact: 0.029900
+ 5.  the                 | Impact: 0.022984
+ 6.  violation           | Impact: 0.020286
+ 7.  are                 | Impact: 0.019463
+ 8.  on                  | Impact: 0.016098
+ 9. s                    | Impact: 0.009562
+10.  and                 | Impact: 0.009246
+11.  for                 | Impact: 0.005895
+12.  /                   | Impact: 0.000815
+13.                      | Impact: 0.000009
+14.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  er                  | Impact: -0.118736
+ 2.  violation           | Impact: -0.034259
+ 3.  /                   | Impact: -0.032763
+ 4. v                    | Impact: -0.029525
+ 5.  memo                | Impact: -0.028483
+ 6.  have                | Impact: -0.027238
+ 7.  section             | Impact: -0.020816
+ 8.  :                   | Impact: -0.019660
+ 9.  memo                | Impact: -0.014571
+10.  the                 | Impact: -0.013992
+11.  for                 | Impact: -0.010102
+12.  -                   | Impact: -0.005246
+13.  /                   | Impact: -0.003389
+14.  final               | Impact: -0.003241
+15.  been                | Impact: -0.003241
+16.  .                   | Impact: -0.000767

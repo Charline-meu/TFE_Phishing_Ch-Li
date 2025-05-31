@@ -1,0 +1,68 @@
+Sample 437
+==========
+
+Sample text preview: The Internet's Online Pharmacy Viagra - Xenical - Propecia - Claritin - Celbrex - Renova - Zyban Now get your prescriptions approved by a panel of lic...
+
+Model prediction: [6.776352e-04 9.993224e-01]
+Predicted class: PHISHING with 0.9993 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.079536 → PHISHING
+ 2.  your                | Impact: 0.067433 → PHISHING
+ 3.  future              | Impact: 0.039307 → PHISHING
+ 4.  medication          | Impact: 0.033638 → PHISHING
+ 5.  online              | Impact: 0.031876 → PHISHING
+ 6.  shipped             | Impact: 0.028706 → PHISHING
+ 7.  now                 | Impact: 0.025566 → PHISHING
+ 8.  approval            | Impact: 0.025222 → PHISHING
+ 9.  get                 | Impact: 0.024182 → PHISHING
+10.  doctor              | Impact: 0.023867 → PHISHING
+11.  pharmacy            | Impact: 0.021945 → PHISHING
+12.  link                | Impact: 0.021127 → PHISHING
+13.  via                 | Impact: 0.021034 → PHISHING
+14.  removed             | Impact: 0.020097 → PHISHING
+15.  medical             | Impact: 0.019080 → PHISHING
+16.  approved            | Impact: 0.017260 → PHISHING
+17.  from                | Impact: 0.017104 → PHISHING
+18. va                   | Impact: 0.016722 → PHISHING
+19.  internet            | Impact: 0.016721 → PHISHING
+20.  below               | Impact: 0.015951 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.079536
+ 2.  your                | Impact: 0.067433
+ 3.  future              | Impact: 0.039307
+ 4.  medication          | Impact: 0.033638
+ 5.  online              | Impact: 0.031876
+ 6.  shipped             | Impact: 0.028706
+ 7.  now                 | Impact: 0.025566
+ 8.  approval            | Impact: 0.025222
+ 9.  get                 | Impact: 0.024182
+10.  doctor              | Impact: 0.023867
+11.  pharmacy            | Impact: 0.021945
+12.  link                | Impact: 0.021127
+13.  via                 | Impact: 0.021034
+14.  removed             | Impact: 0.020097
+15.  medical             | Impact: 0.019080
+16.  approved            | Impact: 0.017260
+17.  from                | Impact: 0.017104
+18. va                   | Impact: 0.016722
+19.  internet            | Impact: 0.016721
+20.  below               | Impact: 0.015951
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.006934
+ 2.  right               | Impact: -0.006331
+ 3.  panel               | Impact: -0.006224
+ 4.  s                   | Impact: -0.003491
+ 5.  .                   | Impact: -0.001517
+ 6.                      | Impact: -0.001507
+ 7.  prescription        | Impact: -0.001414
+ 8.  a                   | Impact: -0.001092
+ 9.  the                 | Impact: -0.000808
+10.  of                  | Impact: -0.000465
+11.  the                 | Impact: -0.000465
+12.  of                  | Impact: -0.000322
+13.                      | Impact: -0.000268

@@ -1,0 +1,75 @@
+Sample 155
+==========
+
+Sample text preview: FOLLOW ME TO FINANCIAL FREEDOM!! I Am looking for people with good work ethic and extrordinary desire to earn at least $, per month working from home!...
+
+Model prediction: [1.6476355e-04 9.9983525e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.021146 → PHISHING
+ 2.  this                | Impact: 0.015712 → PHISHING
+ 3.  legitimate          | Impact: 0.015712 → PHISHING
+ 4.  your                | Impact: 0.015545 → PHISHING
+ 5.  financial           | Impact: 0.015545 → PHISHING
+ 6.  future              | Impact: 0.015545 → PHISHING
+ 7.  !                   | Impact: 0.015545 → PHISHING
+ 8.  will                | Impact: 0.014349 → PHISHING
+ 9.  you                 | Impact: 0.014229 → PHISHING
+10.  ensure              | Impact: 0.012363 → PHISHING
+11.  your                | Impact: 0.012363 → PHISHING
+12.  we                  | Impact: 0.011611 → PHISHING
+13.  will                | Impact: 0.011611 → PHISHING
+14.  !                   | Impact: 0.010957 → PHISHING
+15.  your                | Impact: 0.010896 → PHISHING
+16.  life                | Impact: 0.010896 → PHISHING
+17.  success             | Impact: 0.010696 → PHISHING
+18.  finances            | Impact: 0.010448 → PHISHING
+19.  personal            | Impact: 0.010420 → PHISHING
+20.  support             | Impact: 0.010420 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.021146
+ 2.  this                | Impact: 0.015712
+ 3.  legitimate          | Impact: 0.015712
+ 4.  your                | Impact: 0.015545
+ 5.  financial           | Impact: 0.015545
+ 6.  future              | Impact: 0.015545
+ 7.  !                   | Impact: 0.015545
+ 8.  will                | Impact: 0.014349
+ 9.  you                 | Impact: 0.014229
+10.  ensure              | Impact: 0.012363
+11.  your                | Impact: 0.012363
+12.  we                  | Impact: 0.011611
+13.  will                | Impact: 0.011611
+14.  !                   | Impact: 0.010957
+15.  your                | Impact: 0.010896
+16.  life                | Impact: 0.010896
+17.  success             | Impact: 0.010696
+18.  finances            | Impact: 0.010448
+19.  personal            | Impact: 0.010420
+20.  support             | Impact: 0.010420
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.001721
+ 2.  -                   | Impact: -0.001721
+ 3.  -                   | Impact: -0.001721
+ 4.  least               | Impact: -0.000784
+ 5.  $                   | Impact: -0.000784
+ 6.  ,                   | Impact: -0.000784
+ 7.  them                | Impact: -0.000604
+ 8.  "                   | Impact: -0.000604
+ 9.  -                   | Impact: -0.000604
+10.  walt                | Impact: -0.000604
+11.  disney              | Impact: -0.000604
+12.  please              | Impact: -0.000604
+13.  leave               | Impact: -0.000604
+14.  your                | Impact: -0.000604
+15.  name                | Impact: -0.000604
+16.  ex                  | Impact: -0.000495
+17. tro                  | Impact: -0.000495
+18. rdi                  | Impact: -0.000495
+19. nary                 | Impact: -0.000495
+20.  don                 | Impact: -0.000279

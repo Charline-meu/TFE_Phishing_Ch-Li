@@ -1,0 +1,75 @@
+Sample 89
+=========
+
+Sample text preview: The following items were presented in this week's corporate change control.... Jan Beginning at : p.m., the Telephony team will remove the telephone s...
+
+Model prediction: [9.997818e-01 2.182071e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  beginning           | Impact: -0.006548 → LEGITIMATE
+ 2.  change              | Impact: -0.005845 → LEGITIMATE
+ 3.  jan                 | Impact: -0.005371 → LEGITIMATE
+ 4.  mail                | Impact: 0.004281 → PHISHING
+ 5.  presented           | Impact: -0.003694 → LEGITIMATE
+ 6.  voice               | Impact: 0.003277 → PHISHING
+ 7.  voice               | Impact: 0.003089 → PHISHING
+ 8.  were                | Impact: -0.003042 → LEGITIMATE
+ 9.  migrate             | Impact: 0.002883 → PHISHING
+10.  phone               | Impact: 0.002883 → PHISHING
+11.  numbers             | Impact: 0.002883 → PHISHING
+12.  following           | Impact: -0.002817 → LEGITIMATE
+13.  at                  | Impact: -0.002583 → LEGITIMATE
+14.  :                   | Impact: -0.002583 → LEGITIMATE
+15.  p                   | Impact: -0.002583 → LEGITIMATE
+16.  -                   | Impact: -0.002575 → LEGITIMATE
+17.  -                   | Impact: -0.002575 → LEGITIMATE
+18.  .                   | Impact: 0.002556 → PHISHING
+19.  mail                | Impact: 0.002380 → PHISHING
+20.  control             | Impact: -0.002340 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mail                | Impact: 0.004281
+ 2.  voice               | Impact: 0.003277
+ 3.  voice               | Impact: 0.003089
+ 4.  migrate             | Impact: 0.002883
+ 5.  phone               | Impact: 0.002883
+ 6.  numbers             | Impact: 0.002883
+ 7.  .                   | Impact: 0.002556
+ 8.  mail                | Impact: 0.002380
+ 9.  team                | Impact: 0.002243
+10.  will                | Impact: 0.002243
+11.  remove              | Impact: 0.002243
+12.  the                 | Impact: 0.002243
+13.  the                 | Impact: 0.001506
+14.  tel                 | Impact: 0.001506
+15. ep                   | Impact: 0.001506
+16. hony                 | Impact: 0.001506
+17.  telephone           | Impact: 0.001390
+18.  switch              | Impact: 0.001390
+19.  from                | Impact: 0.001390
+20.  ac                  | Impact: 0.001390
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  beginning           | Impact: -0.006548
+ 2.  change              | Impact: -0.005845
+ 3.  jan                 | Impact: -0.005371
+ 4.  presented           | Impact: -0.003694
+ 5.  were                | Impact: -0.003042
+ 6.  following           | Impact: -0.002817
+ 7.  at                  | Impact: -0.002583
+ 8.  :                   | Impact: -0.002583
+ 9.  p                   | Impact: -0.002583
+10.  -                   | Impact: -0.002575
+11.  -                   | Impact: -0.002575
+12.  control             | Impact: -0.002340
+13.  corporate           | Impact: -0.002197
+14.  week                | Impact: -0.002130
+15.  '                   | Impact: -0.002130
+16.  each                | Impact: -0.001882
+17. age                  | Impact: -0.001809
+18.  block               | Impact: -0.001772
+19.  items               | Impact: -0.001686
+20.  users               | Impact: -0.001642

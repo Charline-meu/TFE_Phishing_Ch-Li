@@ -1,0 +1,75 @@
+Sample 276
+==========
+
+Sample text preview: As seen on NBC, CBS, CNN, and even Oprah! The health discovery that actuallyreverses aging while burning fat, without dieting or exercise! This proven...
+
+Model prediction: [3.0191953e-04 9.9969816e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.046951 → PHISHING
+ 2.  web                 | Impact: 0.042344 → PHISHING
+ 3.  below               | Impact: 0.041034 → PHISHING
+ 4.  click               | Impact: 0.036802 → PHISHING
+ 5.  below               | Impact: 0.036802 → PHISHING
+ 6.  our                 | Impact: 0.031329 → PHISHING
+ 7.  our                 | Impact: 0.029149 → PHISHING
+ 8.  web                 | Impact: 0.029149 → PHISHING
+ 9.  site                | Impact: 0.027236 → PHISHING
+10.  :                   | Impact: 0.027236 → PHISHING
+11.  site                | Impact: 0.026787 → PHISHING
+12.  to                  | Impact: 0.025185 → PHISHING
+13.  enter               | Impact: 0.025185 → PHISHING
+14.  :                   | Impact: 0.022945 → PHISHING
+15.  to                  | Impact: 0.022761 → PHISHING
+16.  enter               | Impact: 0.022761 → PHISHING
+17.  from                | Impact: 0.013946 → PHISHING
+18.  our                 | Impact: 0.013946 → PHISHING
+19.  list                | Impact: 0.013946 → PHISHING
+20.  please              | Impact: 0.013946 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.046951
+ 2.  web                 | Impact: 0.042344
+ 3.  below               | Impact: 0.041034
+ 4.  click               | Impact: 0.036802
+ 5.  below               | Impact: 0.036802
+ 6.  our                 | Impact: 0.031329
+ 7.  our                 | Impact: 0.029149
+ 8.  web                 | Impact: 0.029149
+ 9.  site                | Impact: 0.027236
+10.  :                   | Impact: 0.027236
+11.  site                | Impact: 0.026787
+12.  to                  | Impact: 0.025185
+13.  enter               | Impact: 0.025185
+14.  :                   | Impact: 0.022945
+15.  to                  | Impact: 0.022761
+16.  enter               | Impact: 0.022761
+17.  from                | Impact: 0.013946
+18.  our                 | Impact: 0.013946
+19.  list                | Impact: 0.013946
+20.  please              | Impact: 0.013946
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  or                  | Impact: -0.004880
+ 2.  exercise            | Impact: -0.004548
+ 3.  !                   | Impact: -0.004548
+ 4.  england             | Impact: -0.004323
+ 5.  journal             | Impact: -0.004323
+ 6.  of                  | Impact: -0.004323
+ 7.  medicine            | Impact: -0.004323
+ 8.  without             | Impact: -0.003611
+ 9.  diet                | Impact: -0.003611
+10. ing                  | Impact: -0.003611
+11.  .                   | Impact: -0.003317
+12.  (                   | Impact: -0.002473
+13.  reduction           | Impact: -0.002110
+14.  %                   | Impact: -0.002110
+15.  improvement         | Impact: -0.002110
+16.  .                   | Impact: -0.002110
+17.  .                   | Impact: -0.001895
+18.  actually            | Impact: -0.001663
+19. re                   | Impact: -0.001663
+20. verse                | Impact: -0.001663

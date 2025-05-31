@@ -1,0 +1,75 @@
+Sample 91
+=========
+
+Sample text preview: TryHackMe ( )Byte ( ) Unlock cutting-edge training & insights for all skill levels! Empowering security professionals at all skill levels with the lat...
+
+Model prediction: [9.9965155e-01 3.4843065e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  updates             | Impact: -0.002247 → LEGITIMATE
+ 2.  prizes              | Impact: -0.001655 → LEGITIMATE
+ 3.  (                   | Impact: -0.001318 → LEGITIMATE
+ 4.  )                   | Impact: -0.001318 → LEGITIMATE
+ 5.  (                   | Impact: -0.001227 → LEGITIMATE
+ 6.  )                   | Impact: -0.001227 → LEGITIMATE
+ 7.  the                 | Impact: -0.000905 → LEGITIMATE
+ 8.  platform            | Impact: -0.000905 → LEGITIMATE
+ 9.  analysis            | Impact: -0.000886 → LEGITIMATE
+10.  launch              | Impact: -0.000886 → LEGITIMATE
+11.  updates             | Impact: -0.000840 → LEGITIMATE
+12.  to                  | Impact: -0.000840 → LEGITIMATE
+13.  in                  | Impact: -0.000699 → LEGITIMATE
+14.  this                | Impact: -0.000699 → LEGITIMATE
+15.  challenge           | Impact: -0.000699 → LEGITIMATE
+16.  simulator           | Impact: -0.000693 → LEGITIMATE
+17.  of                  | Impact: -0.000686 → LEGITIMATE
+18.  education           | Impact: -0.000686 → LEGITIMATE
+19.                      | Impact: -0.000637 → LEGITIMATE
+20.  in                  | Impact: -0.000635 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  us                  | Impact: 0.000455
+ 2.  —                   | Impact: 0.000455
+ 3.  all                 | Impact: 0.000420
+ 4.  from                | Impact: 0.000420
+ 5.  marketing           | Impact: 0.000369
+ 6.  team                | Impact: 0.000369
+ 7.  join                | Impact: 0.000278
+ 8.  the                 | Impact: 0.000278
+ 9.  competition         | Impact: 0.000278
+10.  that                | Impact: 0.000238
+11.  '                   | Impact: 0.000238
+12.  s                   | Impact: 0.000238
+13.  .                   | Impact: 0.000228
+14.  competition         | Impact: 0.000170
+15.  ends                | Impact: 0.000170
+16.  st                  | Impact: 0.000170
+17.  jan                 | Impact: 0.000170
+18.  ,                   | Impact: 0.000170
+19.  in                  | Impact: 0.000162
+20.  this                | Impact: 0.000162
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  updates             | Impact: -0.002247
+ 2.  prizes              | Impact: -0.001655
+ 3.  (                   | Impact: -0.001318
+ 4.  )                   | Impact: -0.001318
+ 5.  (                   | Impact: -0.001227
+ 6.  )                   | Impact: -0.001227
+ 7.  the                 | Impact: -0.000905
+ 8.  platform            | Impact: -0.000905
+ 9.  analysis            | Impact: -0.000886
+10.  launch              | Impact: -0.000886
+11.  updates             | Impact: -0.000840
+12.  to                  | Impact: -0.000840
+13.  in                  | Impact: -0.000699
+14.  this                | Impact: -0.000699
+15.  challenge           | Impact: -0.000699
+16.  simulator           | Impact: -0.000693
+17.  of                  | Impact: -0.000686
+18.  education           | Impact: -0.000686
+19.                      | Impact: -0.000637
+20.  in                  | Impact: -0.000635

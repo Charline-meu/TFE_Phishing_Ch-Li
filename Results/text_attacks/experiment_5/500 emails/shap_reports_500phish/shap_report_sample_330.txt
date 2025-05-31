@@ -1,0 +1,75 @@
+Sample 330
+==========
+
+Sample text preview: Harrison Bello Reply To: Please do not be apprehensive by this mail as I humbly seek YOUR PATIENCE, UNDERSTANDING and COOPERATION in regard to my belo...
+
+Model prediction: [1.6541521e-04 9.9983454e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.023598 → PHISHING
+ 2.  .                   | Impact: 0.013219 → PHISHING
+ 3.  mr                  | Impact: 0.011640 → PHISHING
+ 4.  assistance          | Impact: 0.011452 → PHISHING
+ 5.  you                 | Impact: 0.011452 → PHISHING
+ 6.  for                 | Impact: 0.011060 → PHISHING
+ 7.  your                | Impact: 0.011060 → PHISHING
+ 8.  manager             | Impact: 0.010051 → PHISHING
+ 9.  of                  | Impact: 0.010051 → PHISHING
+10.  a                   | Impact: 0.006613 → PHISHING
+11.  civil               | Impact: 0.006613 → PHISHING
+12.  contractor          | Impact: 0.006613 → PHISHING
+13.  in                  | Impact: 0.006613 → PHISHING
+14.  nigeria             | Impact: 0.006613 → PHISHING
+15.  .                   | Impact: 0.006613 → PHISHING
+16.  .                   | Impact: 0.005638 → PHISHING
+17.  i                   | Impact: 0.005614 → PHISHING
+18.  am                  | Impact: 0.005614 → PHISHING
+19.  mr                  | Impact: 0.005614 → PHISHING
+20.  request             | Impact: 0.005525 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.023598
+ 2.  .                   | Impact: 0.013219
+ 3.  mr                  | Impact: 0.011640
+ 4.  assistance          | Impact: 0.011452
+ 5.  you                 | Impact: 0.011452
+ 6.  for                 | Impact: 0.011060
+ 7.  your                | Impact: 0.011060
+ 8.  manager             | Impact: 0.010051
+ 9.  of                  | Impact: 0.010051
+10.  a                   | Impact: 0.006613
+11.  civil               | Impact: 0.006613
+12.  contractor          | Impact: 0.006613
+13.  in                  | Impact: 0.006613
+14.  nigeria             | Impact: 0.006613
+15.  .                   | Impact: 0.006613
+16.  .                   | Impact: 0.005638
+17.  i                   | Impact: 0.005614
+18.  am                  | Impact: 0.005614
+19.  mr                  | Impact: 0.005614
+20.  request             | Impact: 0.005525
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.001992
+ 2. qui                  | Impact: -0.001992
+ 3. ries                 | Impact: -0.001992
+ 4.  reply               | Impact: -0.001708
+ 5.  to                  | Impact: -0.001708
+ 6.  app                 | Impact: -0.001677
+ 7. re                   | Impact: -0.001677
+ 8. hen                  | Impact: -0.001677
+ 9. sive                 | Impact: -0.001677
+10.  made                | Impact: -0.001548
+11.  several             | Impact: -0.001548
+12.  hence               | Impact: -0.001157
+13.  ,                   | Impact: -0.001157
+14.                      | Impact: -0.000909
+15.  harrison            | Impact: -0.000909
+16.  bell                | Impact: -0.000909
+17. o                    | Impact: -0.000909
+18.  :                   | Impact: -0.000888
+19.  please              | Impact: -0.000888
+20.  do                  | Impact: -0.000690

@@ -1,0 +1,68 @@
+Phishing Sample 65
+==================
+
+Sample text preview: URL: Date: --T::+: US invasion could push Saddam Hussein into retaliating with chemical or biological weapons, warns CIA.
+
+Model prediction: [9.9971455e-01 2.8544772e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  saddam              | Impact: -0.084301 → LEGITIMATE
+ 2. iating               | Impact: -0.073022 → LEGITIMATE
+ 3.  into                | Impact: 0.058395 → PHISHING
+ 4.  push                | Impact: 0.035218 → PHISHING
+ 5.  hussein             | Impact: -0.033797 → LEGITIMATE
+ 6.  could               | Impact: -0.033595 → LEGITIMATE
+ 7.  warns               | Impact: 0.030887 → PHISHING
+ 8.  biological          | Impact: 0.030639 → PHISHING
+ 9.  ,                   | Impact: -0.026218 → LEGITIMATE
+10. tal                  | Impact: 0.025612 → PHISHING
+11.  :                   | Impact: -0.024271 → LEGITIMATE
+12.  chemical            | Impact: 0.022133 → PHISHING
+13.  weapons             | Impact: 0.021507 → PHISHING
+14.  with                | Impact: 0.020187 → PHISHING
+15.  +                   | Impact: 0.017036 → PHISHING
+16.  re                  | Impact: 0.011331 → PHISHING
+17.  :                   | Impact: -0.008310 → LEGITIMATE
+18.  :                   | Impact: -0.007164 → LEGITIMATE
+19.  cia                 | Impact: -0.006736 → LEGITIMATE
+20.  :                   | Impact: -0.006701 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  into                | Impact: 0.058395
+ 2.  push                | Impact: 0.035218
+ 3.  warns               | Impact: 0.030887
+ 4.  biological          | Impact: 0.030639
+ 5. tal                  | Impact: 0.025612
+ 6.  chemical            | Impact: 0.022133
+ 7.  weapons             | Impact: 0.021507
+ 8.  with                | Impact: 0.020187
+ 9.  +                   | Impact: 0.017036
+10.  re                  | Impact: 0.011331
+11.  us                  | Impact: 0.006226
+12.  t                   | Impact: 0.004861
+13.  -                   | Impact: 0.002882
+14.  -                   | Impact: 0.001746
+15.  date                | Impact: 0.001620
+16.  or                  | Impact: 0.001594
+17.                      | Impact: 0.000001
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  saddam              | Impact: -0.084301
+ 2. iating               | Impact: -0.073022
+ 3.  hussein             | Impact: -0.033797
+ 4.  could               | Impact: -0.033595
+ 5.  ,                   | Impact: -0.026218
+ 6.  :                   | Impact: -0.024271
+ 7.  :                   | Impact: -0.008310
+ 8.  :                   | Impact: -0.007164
+ 9.  cia                 | Impact: -0.006736
+10.  :                   | Impact: -0.006701
+11.  ur                  | Impact: -0.005022
+12.  :                   | Impact: -0.004914
+13.  invasion            | Impact: -0.004875
+14. l                    | Impact: -0.003279
+15.  .                   | Impact: -0.000416
+16.                      | Impact: -0.000009

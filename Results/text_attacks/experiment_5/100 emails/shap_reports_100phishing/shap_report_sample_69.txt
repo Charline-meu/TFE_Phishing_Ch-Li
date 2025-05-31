@@ -1,0 +1,75 @@
+Phishing Sample 69
+==================
+
+Sample text preview: Certain chances only come around every few decades or so. This is one. Why you ask? Because home loan rates are headed up. Have you locked in the lowe...
+
+Model prediction: [3.9964530e-04 9.9960035e-01]
+Predicted class: PHISHING with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.017013 → PHISHING
+ 2.  current             | Impact: 0.017013 → PHISHING
+ 3.  loan                | Impact: 0.017013 → PHISHING
+ 4.  is                  | Impact: 0.017013 → PHISHING
+ 5.  this                | Impact: 0.009998 → PHISHING
+ 6.  we                  | Impact: 0.009998 → PHISHING
+ 7.  promise             | Impact: 0.009998 → PHISHING
+ 8.  to                  | Impact: 0.009956 → PHISHING
+ 9.  show                | Impact: 0.009956 → PHISHING
+10.  you                 | Impact: 0.009956 → PHISHING
+11.  why                 | Impact: 0.009956 → PHISHING
+12.  the                 | Impact: 0.009894 → PHISHING
+13.  best                | Impact: 0.009894 → PHISHING
+14.  for                 | Impact: 0.009894 → PHISHING
+15.  you                 | Impact: 0.009894 → PHISHING
+16.  .                   | Impact: 0.009894 → PHISHING
+17.  we                  | Impact: 0.009599 → PHISHING
+18.  will                | Impact: 0.009599 → PHISHING
+19.  be                  | Impact: 0.009599 → PHISHING
+20.  happy               | Impact: 0.009599 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.017013
+ 2.  current             | Impact: 0.017013
+ 3.  loan                | Impact: 0.017013
+ 4.  is                  | Impact: 0.017013
+ 5.  this                | Impact: 0.009998
+ 6.  we                  | Impact: 0.009998
+ 7.  promise             | Impact: 0.009998
+ 8.  to                  | Impact: 0.009956
+ 9.  show                | Impact: 0.009956
+10.  you                 | Impact: 0.009956
+11.  why                 | Impact: 0.009956
+12.  the                 | Impact: 0.009894
+13.  best                | Impact: 0.009894
+14.  for                 | Impact: 0.009894
+15.  you                 | Impact: 0.009894
+16.  .                   | Impact: 0.009894
+17.  we                  | Impact: 0.009599
+18.  will                | Impact: 0.009599
+19.  be                  | Impact: 0.009599
+20.  happy               | Impact: 0.009599
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  personal            | Impact: -0.001418
+ 2.  nets                | Impact: -0.001418
+ 3. cape                 | Impact: -0.001418
+ 4.  mail                | Impact: -0.001418
+ 5.  account             | Impact: -0.001418
+ 6.  today               | Impact: -0.001418
+ 7.  at                  | Impact: -0.001418
+ 8.                      | Impact: -0.001418
+ 9.  or                  | Impact: -0.000935
+10.  so                  | Impact: -0.000935
+11.  .                   | Impact: -0.000935
+12.  helpful             | Impact: -0.000766
+13.  shopping            | Impact: -0.000766
+14.  tools               | Impact: -0.000766
+15.  great               | Impact: -0.000766
+16.  gift                | Impact: -0.000766
+17.  ideas               | Impact: -0.000766
+18.  and                 | Impact: -0.000766
+19.  .                   | Impact: -0.000766
+20.                      | Impact: -0.000723

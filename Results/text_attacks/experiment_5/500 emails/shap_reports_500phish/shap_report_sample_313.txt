@@ -1,0 +1,73 @@
+Sample 313
+==========
+
+Sample text preview: I have a new email address!You can now email me at: ATTN PLEASE: I want to transfer to overseas ($,..USD) fifteen million United States Dollars) from ...
+
+Model prediction: [1.7450722e-04 9.9982554e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  regards             | Impact: 0.033064 → PHISHING
+ 2.  hon                 | Impact: 0.026359 → PHISHING
+ 3.  your                | Impact: 0.022865 → PHISHING
+ 4.  full                | Impact: 0.020567 → PHISHING
+ 5.  hon                 | Impact: 0.018321 → PHISHING
+ 6.  foreign             | Impact: 0.014026 → PHISHING
+ 7.  account             | Impact: 0.014026 → PHISHING
+ 8.  you                 | Impact: 0.009916 → PHISHING
+ 9.  will                | Impact: 0.009916 → PHISHING
+10.  so                  | Impact: 0.008996 → PHISHING
+11.  reply               | Impact: 0.008996 → PHISHING
+12.  -                   | Impact: 0.008503 → PHISHING
+13.  edward              | Impact: 0.008177 → PHISHING
+14.  taylor              | Impact: 0.008177 → PHISHING
+15.  into                | Impact: 0.007160 → PHISHING
+16.  a                   | Impact: 0.007160 → PHISHING
+17.  me                  | Impact: 0.006309 → PHISHING
+18.  back                | Impact: 0.006309 → PHISHING
+19.  be                  | Impact: 0.006047 → PHISHING
+20.  given               | Impact: 0.006047 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.033064
+ 2.  hon                 | Impact: 0.026359
+ 3.  your                | Impact: 0.022865
+ 4.  full                | Impact: 0.020567
+ 5.  hon                 | Impact: 0.018321
+ 6.  foreign             | Impact: 0.014026
+ 7.  account             | Impact: 0.014026
+ 8.  you                 | Impact: 0.009916
+ 9.  will                | Impact: 0.009916
+10.  so                  | Impact: 0.008996
+11.  reply               | Impact: 0.008996
+12.  -                   | Impact: 0.008503
+13.  edward              | Impact: 0.008177
+14.  taylor              | Impact: 0.008177
+15.  into                | Impact: 0.007160
+16.  a                   | Impact: 0.007160
+17.  me                  | Impact: 0.006309
+18.  back                | Impact: 0.006309
+19.  be                  | Impact: 0.006047
+20.  given               | Impact: 0.006047
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.005344
+ 2.  edward              | Impact: -0.000776
+ 3.  taylor              | Impact: -0.000776
+ 4.  +                   | Impact: -0.000776
+ 5.  -                   | Impact: -0.000776
+ 6.  %                   | Impact: -0.000569
+ 7.  of                  | Impact: -0.000569
+ 8.  the                 | Impact: -0.000569
+ 9.  total               | Impact: -0.000569
+10.  amount              | Impact: -0.000569
+11.  ,                   | Impact: -0.000569
+12.  (                   | Impact: -0.000072
+13.  $                   | Impact: -0.000072
+14.  ,                   | Impact: -0.000072
+15.  .                   | Impact: -0.000072
+16.  .                   | Impact: -0.000072
+17.  usd                 | Impact: -0.000072
+18.  )                   | Impact: -0.000072

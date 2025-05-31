@@ -1,0 +1,75 @@
+Sample 443
+==========
+
+Sample text preview: I'm talking specifically about the last ~ hours where it seems like things have not been working. People who've been using the Outlook plugin have bee...
+
+Model prediction: [9.9979717e-01 2.0281265e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bad                 | Impact: -0.006610 → LEGITIMATE
+ 2.  performance         | Impact: -0.006610 → LEGITIMATE
+ 3.  sponsored           | Impact: -0.005233 → LEGITIMATE
+ 4.  [                   | Impact: -0.004874 → LEGITIMATE
+ 5.  is                  | Impact: -0.003911 → LEGITIMATE
+ 6.  net                 | Impact: -0.003334 → LEGITIMATE
+ 7.  email               | Impact: -0.003334 → LEGITIMATE
+ 8.  ,                   | Impact: -0.003240 → LEGITIMATE
+ 9.  welcome             | Impact: -0.003014 → LEGITIMATE
+10.  :                   | Impact: -0.002760 → LEGITIMATE
+11.  >                   | Impact: -0.002760 → LEGITIMATE
+12.  hughes              | Impact: -0.002638 → LEGITIMATE
+13.  wrote               | Impact: -0.002638 → LEGITIMATE
+14.  active              | Impact: -0.002307 → LEGITIMATE
+15.  users               | Impact: -0.002307 → LEGITIMATE
+16.  razor               | Impact: -0.002211 → LEGITIMATE
+17.  seems               | Impact: -0.002211 → LEGITIMATE
+18.  >                   | Impact: -0.002173 → LEGITIMATE
+19.  >                   | Impact: -0.002173 → LEGITIMATE
+20.  quite               | Impact: -0.002173 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  last                | Impact: 0.001191
+ 2.  couple              | Impact: 0.001191
+ 3.  months              | Impact: 0.001191
+ 4.  .                   | Impact: 0.000767
+ 5.                      | Impact: 0.000652
+ 6.  i                   | Impact: 0.000652
+ 7.  '                   | Impact: 0.000652
+ 8.  people              | Impact: 0.000574
+ 9.  who                 | Impact: 0.000574
+10.  '                   | Impact: 0.000574
+11.  ve                  | Impact: 0.000574
+12.  been                | Impact: 0.000574
+13.  m                   | Impact: 0.000572
+14.  talking             | Impact: 0.000572
+15.  specifically        | Impact: 0.000572
+16.  about               | Impact: 0.000572
+17.  long                | Impact: 0.000331
+18.  time                | Impact: 0.000331
+19.  in                  | Impact: 0.000331
+20.  coming              | Impact: 0.000331
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  bad                 | Impact: -0.006610
+ 2.  performance         | Impact: -0.006610
+ 3.  sponsored           | Impact: -0.005233
+ 4.  [                   | Impact: -0.004874
+ 5.  is                  | Impact: -0.003911
+ 6.  net                 | Impact: -0.003334
+ 7.  email               | Impact: -0.003334
+ 8.  ,                   | Impact: -0.003240
+ 9.  welcome             | Impact: -0.003014
+10.  :                   | Impact: -0.002760
+11.  >                   | Impact: -0.002760
+12.  hughes              | Impact: -0.002638
+13.  wrote               | Impact: -0.002638
+14.  active              | Impact: -0.002307
+15.  users               | Impact: -0.002307
+16.  razor               | Impact: -0.002211
+17.  seems               | Impact: -0.002211
+18.  >                   | Impact: -0.002173
+19.  >                   | Impact: -0.002173
+20.  quite               | Impact: -0.002173

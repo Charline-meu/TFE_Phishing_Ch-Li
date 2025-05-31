@@ -1,0 +1,75 @@
+Sample 478
+==========
+
+Sample text preview: In case you haven't heard, New Orleans Saints RB Ricky Williams suffered a broken ankle today and is expected to miss - weeks which for most Fantasy G...
+
+Model prediction: [9.992162e-01 7.837453e-04]
+Predicted class: LEGITIMATE with 0.9992 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  free                | Impact: 0.023469 → PHISHING
+ 2.  you                 | Impact: 0.015729 → PHISHING
+ 3.  .                   | Impact: -0.013947 → LEGITIMATE
+ 4.  i                   | Impact: -0.013930 → LEGITIMATE
+ 5.  come                | Impact: 0.012998 → PHISHING
+ 6.  agents              | Impact: 0.010870 → PHISHING
+ 7.  joe                 | Impact: -0.010749 → LEGITIMATE
+ 8.  ?                   | Impact: 0.007510 → PHISHING
+ 9.  leagues             | Impact: -0.007407 → LEGITIMATE
+10.  monday              | Impact: -0.006553 → LEGITIMATE
+11. su                   | Impact: -0.006347 → LEGITIMATE
+12.  a                   | Impact: -0.006115 → LEGITIMATE
+13.  give                | Impact: 0.005849 → PHISHING
+14.  heads               | Impact: -0.005708 → LEGITIMATE
+15.  a                   | Impact: 0.005487 → PHISHING
+16.  ?                   | Impact: -0.004954 → LEGITIMATE
+17.  policy              | Impact: -0.004889 → LEGITIMATE
+18.  ?                   | Impact: 0.004638 → PHISHING
+19.  have                | Impact: -0.004392 → LEGITIMATE
+20.  as                  | Impact: -0.004217 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  free                | Impact: 0.023469
+ 2.  you                 | Impact: 0.015729
+ 3.  come                | Impact: 0.012998
+ 4.  agents              | Impact: 0.010870
+ 5.  ?                   | Impact: 0.007510
+ 6.  give                | Impact: 0.005849
+ 7.  a                   | Impact: 0.005487
+ 8.  ?                   | Impact: 0.004638
+ 9.  :                   | Impact: 0.004113
+10.  first               | Impact: 0.003149
+11.  just                | Impact: 0.002598
+12.  to                  | Impact: 0.002596
+13.  wanted              | Impact: 0.002509
+14.  many                | Impact: 0.001415
+15.  to                  | Impact: 0.000761
+16.  in                  | Impact: 0.000743
+17.                      | Impact: 0.000588
+18.  ricky               | Impact: 0.000572
+19.  williams            | Impact: 0.000572
+20.  suffered            | Impact: 0.000399
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.013947
+ 2.  i                   | Impact: -0.013930
+ 3.  joe                 | Impact: -0.010749
+ 4.  leagues             | Impact: -0.007407
+ 5.  monday              | Impact: -0.006553
+ 6. su                   | Impact: -0.006347
+ 7.  a                   | Impact: -0.006115
+ 8.  heads               | Impact: -0.005708
+ 9.  ?                   | Impact: -0.004954
+10.  policy              | Impact: -0.004889
+11.  have                | Impact: -0.004392
+12.  as                  | Impact: -0.004217
+13. up                   | Impact: -0.003819
+14.  first               | Impact: -0.003662
+15.  .                   | Impact: -0.003246
+16.  ?                   | Impact: -0.002898
+17.  ?                   | Impact: -0.002561
+18.  more                | Impact: -0.002506
+19.  ?                   | Impact: -0.001860
+20.  you                 | Impact: -0.001238

@@ -1,0 +1,75 @@
+Phishing Sample 1
+=================
+
+Sample text preview: ⚠ System Delivery Notice ⚠ Hello Our system couldn’t successfully process some message deliveries associated with your mailbox this year. There are cu...
+
+Model prediction: [0.00346221 0.9965378 ]
+Predicted class: PHISHING with 0.9965 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.139162 → PHISHING
+ 2.  hello               | Impact: 0.065195 → PHISHING
+ 3.  our                 | Impact: 0.065195 → PHISHING
+ 4.  associated          | Impact: 0.051157 → PHISHING
+ 5.  to                  | Impact: 0.041986 → PHISHING
+ 6.  your                | Impact: 0.041986 → PHISHING
+ 7.  notice              | Impact: 0.033381 → PHISHING
+ 8.                      | Impact: 0.033381 → PHISHING
+ 9.  deliveries          | Impact: 0.030043 → PHISHING
+10.  with                | Impact: 0.028941 → PHISHING
+11.  system              | Impact: 0.028513 → PHISHING
+12.  delivery            | Impact: 0.028513 → PHISHING
+13.  main                | Impact: 0.028161 → PHISHING
+14.  folder              | Impact: 0.028161 → PHISHING
+15.  mail                | Impact: 0.026554 → PHISHING
+16. box                  | Impact: 0.026554 → PHISHING
+17.                      | Impact: 0.019539 → PHISHING
+18.                      | Impact: 0.019539 → PHISHING
+19.  in                  | Impact: 0.019228 → PHISHING
+20.  a                   | Impact: 0.019228 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.139162
+ 2.  hello               | Impact: 0.065195
+ 3.  our                 | Impact: 0.065195
+ 4.  associated          | Impact: 0.051157
+ 5.  to                  | Impact: 0.041986
+ 6.  your                | Impact: 0.041986
+ 7.  notice              | Impact: 0.033381
+ 8.                      | Impact: 0.033381
+ 9.  deliveries          | Impact: 0.030043
+10.  with                | Impact: 0.028941
+11.  system              | Impact: 0.028513
+12.  delivery            | Impact: 0.028513
+13.  main                | Impact: 0.028161
+14.  folder              | Impact: 0.028161
+15.  mail                | Impact: 0.026554
+16. box                  | Impact: 0.026554
+17.                      | Impact: 0.019539
+18.                      | Impact: 0.019539
+19.  in                  | Impact: 0.019228
+20.  a                   | Impact: 0.019228
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.010841
+ 2.  [                   | Impact: -0.010841
+ 3.  system              | Impact: -0.010508
+ 4.  couldn              | Impact: -0.010508
+ 5.  .                   | Impact: -0.005661
+ 6.  /                   | Impact: -0.004388
+ 7.  consultation        | Impact: -0.004388
+ 8.  en                  | Impact: -0.004109
+ 9. qui                  | Impact: -0.004109
+10. ry                   | Impact: -0.004109
+11.  /                   | Impact: -0.003957
+12.  :                   | Impact: -0.003957
+13.  :                   | Impact: -0.003957
+14.  a                   | Impact: -0.003957
+15.  .                   | Impact: -0.003957
+16.  :                   | Impact: -0.002128
+17.  a                   | Impact: -0.002128
+18.  —                   | Impact: -0.002115
+19.  date                | Impact: -0.002115
+20.  :                   | Impact: -0.002115

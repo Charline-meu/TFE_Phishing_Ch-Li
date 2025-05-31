@@ -1,0 +1,62 @@
+Sample 96
+=========
+
+Sample text preview: hi, i know you are busy. i just wanted to email you and say hello and also to wish you a good day
+
+Model prediction: [0.13987267 0.8601273 ]
+Predicted class: PHISHING with 0.8601 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.172575 → PHISHING
+ 2.  hello               | Impact: 0.144092 → PHISHING
+ 3.  hi                  | Impact: 0.102122 → PHISHING
+ 4.  are                 | Impact: 0.082309 → PHISHING
+ 5.  to                  | Impact: 0.073832 → PHISHING
+ 6.  you                 | Impact: 0.072965 → PHISHING
+ 7.  to                  | Impact: 0.058615 → PHISHING
+ 8.  you                 | Impact: 0.053149 → PHISHING
+ 9.  wish                | Impact: 0.044290 → PHISHING
+10.  .                   | Impact: -0.042773 → LEGITIMATE
+11.  also                | Impact: -0.038919 → LEGITIMATE
+12.  day                 | Impact: 0.036558 → PHISHING
+13.  just                | Impact: 0.034333 → PHISHING
+14.  and                 | Impact: 0.033814 → PHISHING
+15.  know                | Impact: -0.032028 → LEGITIMATE
+16.  and                 | Impact: 0.030546 → PHISHING
+17.  wanted              | Impact: -0.022258 → LEGITIMATE
+18.  good                | Impact: -0.019531 → LEGITIMATE
+19.  i                   | Impact: -0.019298 → LEGITIMATE
+20.  say                 | Impact: -0.018524 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.172575
+ 2.  hello               | Impact: 0.144092
+ 3.  hi                  | Impact: 0.102122
+ 4.  are                 | Impact: 0.082309
+ 5.  to                  | Impact: 0.073832
+ 6.  you                 | Impact: 0.072965
+ 7.  to                  | Impact: 0.058615
+ 8.  you                 | Impact: 0.053149
+ 9.  wish                | Impact: 0.044290
+10.  day                 | Impact: 0.036558
+11.  just                | Impact: 0.034333
+12.  and                 | Impact: 0.033814
+13.  and                 | Impact: 0.030546
+14.  email               | Impact: 0.018031
+15.  busy                | Impact: 0.016691
+16.  i                   | Impact: 0.009087
+17.  ,                   | Impact: 0.008035
+18.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.042773
+ 2.  also                | Impact: -0.038919
+ 3.  know                | Impact: -0.032028
+ 4.  wanted              | Impact: -0.022258
+ 5.  good                | Impact: -0.019531
+ 6.  i                   | Impact: -0.019298
+ 7.  say                 | Impact: -0.018524
+ 8.  a                   | Impact: -0.001034
+ 9.                      | Impact: -0.000174

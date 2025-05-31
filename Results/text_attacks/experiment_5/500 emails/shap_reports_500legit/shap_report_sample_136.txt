@@ -1,0 +1,75 @@
+Sample 136
+==========
+
+Sample text preview: Robin Lynn Frank writes: > I may be dense, but why would anyone want to utilize Habeus? To me, > it looks like a potential backdoor to anyone's defens...
+
+Model prediction: [9.9969351e-01 3.0655743e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  '                   | Impact: 0.003747 → PHISHING
+ 2.  the                 | Impact: -0.003580 → LEGITIMATE
+ 3.  server              | Impact: -0.003580 → LEGITIMATE
+ 4.  ip                  | Impact: -0.003467 → LEGITIMATE
+ 5.  and                 | Impact: -0.002889 → LEGITIMATE
+ 6.  >                   | Impact: -0.001765 → LEGITIMATE
+ 7.  different           | Impact: -0.001765 → LEGITIMATE
+ 8.  as                  | Impact: 0.001636 → PHISHING
+ 9.  long                | Impact: 0.001636 → PHISHING
+10.  m                   | Impact: 0.001629 → PHISHING
+11.  home                | Impact: 0.001629 → PHISHING
+12.  i                   | Impact: 0.001603 → PHISHING
+13.  web                 | Impact: -0.001460 → LEGITIMATE
+14.  sites               | Impact: -0.001460 → LEGITIMATE
+15.  issue               | Impact: -0.001452 → LEGITIMATE
+16.  is                  | Impact: -0.001452 → LEGITIMATE
+17.  as                  | Impact: 0.001421 → PHISHING
+18.  no                  | Impact: 0.001421 → PHISHING
+19.  writes              | Impact: -0.001337 → LEGITIMATE
+20.  :                   | Impact: -0.001337 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  '                   | Impact: 0.003747
+ 2.  as                  | Impact: 0.001636
+ 3.  long                | Impact: 0.001636
+ 4.  m                   | Impact: 0.001629
+ 5.  home                | Impact: 0.001629
+ 6.  i                   | Impact: 0.001603
+ 7.  as                  | Impact: 0.001421
+ 8.  no                  | Impact: 0.001421
+ 9.  don                 | Impact: 0.000845
+10.  '                   | Impact: 0.000845
+11.  to                  | Impact: 0.000812
+12.  a                   | Impact: 0.000812
+13.  '                   | Impact: 0.000798
+14.  t                   | Impact: 0.000741
+15.  ?                   | Impact: 0.000632
+16.  one                 | Impact: 0.000622
+17.  can                 | Impact: 0.000622
+18.  establish           | Impact: 0.000622
+19.  my                  | Impact: 0.000622
+20.  i                   | Impact: 0.000482
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.003580
+ 2.  server              | Impact: -0.003580
+ 3.  ip                  | Impact: -0.003467
+ 4.  and                 | Impact: -0.002889
+ 5.  >                   | Impact: -0.001765
+ 6.  different           | Impact: -0.001765
+ 7.  web                 | Impact: -0.001460
+ 8.  sites               | Impact: -0.001460
+ 9.  issue               | Impact: -0.001452
+10.  is                  | Impact: -0.001452
+11.  writes              | Impact: -0.001337
+12.  :                   | Impact: -0.001337
+13.  >                   | Impact: -0.001337
+14.  i                   | Impact: -0.001337
+15.  time                | Impact: -0.001170
+16.  communications      | Impact: -0.001170
+17.  platform            | Impact: -0.001170
+18.  my                  | Impact: -0.001142
+19.  header              | Impact: -0.001099
+20. s                    | Impact: -0.001099

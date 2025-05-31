@@ -1,0 +1,75 @@
+Sample 180
+==========
+
+Sample text preview: Hello I was just emailed today from the owners of a BRAND NEW program just released TWO WEEKS ago. Check it out the income people are raking in while ...
+
+Model prediction: [0.8708238  0.12917624]
+Predicted class: LEGITIMATE with 0.8708 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  craig               | Impact: -0.034281 → LEGITIMATE
+ 2.  whitley             | Impact: -0.034281 → LEGITIMATE
+ 3.  -                   | Impact: -0.034281 → LEGITIMATE
+ 4.  sign                | Impact: -0.020479 → LEGITIMATE
+ 5. ups                  | Impact: -0.020479 → LEGITIMATE
+ 6.  diane               | Impact: -0.018152 → LEGITIMATE
+ 7.  huge                | Impact: -0.018152 → LEGITIMATE
+ 8. s                    | Impact: -0.018152 → LEGITIMATE
+ 9.  -                   | Impact: -0.011398 → LEGITIMATE
+10.  paid                | Impact: -0.011398 → LEGITIMATE
+11.  membership          | Impact: -0.011398 → LEGITIMATE
+12. s                    | Impact: -0.011398 → LEGITIMATE
+13.  brand               | Impact: 0.009956 → PHISHING
+14.  new                 | Impact: 0.009956 → PHISHING
+15.  program             | Impact: 0.009956 → PHISHING
+16.  just                | Impact: 0.009956 → PHISHING
+17.  ian                 | Impact: -0.008069 → LEGITIMATE
+18.  her                 | Impact: -0.008069 → LEGITIMATE
+19. cu                   | Impact: -0.008069 → LEGITIMATE
+20. lson                 | Impact: -0.008069 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  brand               | Impact: 0.009956
+ 2.  new                 | Impact: 0.009956
+ 3.  program             | Impact: 0.009956
+ 4.  just                | Impact: 0.009956
+ 5.                      | Impact: 0.007596
+ 6.  hello               | Impact: 0.007596
+ 7.  i                   | Impact: 0.007596
+ 8.  was                 | Impact: 0.007596
+ 9.  just                | Impact: 0.007596
+10.  released            | Impact: 0.006726
+11.  two                 | Impact: 0.006726
+12.  weeks               | Impact: 0.006726
+13.  ago                 | Impact: 0.006726
+14.  .                   | Impact: 0.006726
+15.  .                   | Impact: 0.005418
+16.  .                   | Impact: 0.005418
+17.  =                   | Impact: 0.005019
+18.  note                | Impact: 0.005019
+19.  :                   | Impact: 0.005019
+20.  you                 | Impact: 0.005019
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  craig               | Impact: -0.034281
+ 2.  whitley             | Impact: -0.034281
+ 3.  -                   | Impact: -0.034281
+ 4.  sign                | Impact: -0.020479
+ 5. ups                  | Impact: -0.020479
+ 6.  diane               | Impact: -0.018152
+ 7.  huge                | Impact: -0.018152
+ 8. s                    | Impact: -0.018152
+ 9.  -                   | Impact: -0.011398
+10.  paid                | Impact: -0.011398
+11.  membership          | Impact: -0.011398
+12. s                    | Impact: -0.011398
+13.  ian                 | Impact: -0.008069
+14.  her                 | Impact: -0.008069
+15. cu                   | Impact: -0.008069
+16. lson                 | Impact: -0.008069
+17.  -                   | Impact: -0.005004
+18.  sign                | Impact: -0.005004
+19. ups                  | Impact: -0.005004
+20.  and                 | Impact: -0.005004

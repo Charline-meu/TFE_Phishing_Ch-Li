@@ -1,0 +1,75 @@
+Sample 17
+=========
+
+Sample text preview: Dear Friend, I discovered a dormant account in my office,as the auditor of my bank. It will be in my interest to transfer this fund worth Twenty Milli...
+
+Model prediction: [1.7237915e-04 9.9982762e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.127029 → PHISHING
+ 2.  fund                | Impact: 0.050358 → PHISHING
+ 3.  million             | Impact: 0.037121 → PHISHING
+ 4.  your                | Impact: 0.035510 → PHISHING
+ 5.  dollars             | Impact: 0.034306 → PHISHING
+ 6.  friend              | Impact: 0.033601 → PHISHING
+ 7.  this                | Impact: 0.028851 → PHISHING
+ 8.  offshore            | Impact: 0.023827 → PHISHING
+ 9.  account             | Impact: 0.023663 → PHISHING
+10.  worth               | Impact: 0.022193 → PHISHING
+11.  account             | Impact: 0.022138 → PHISHING
+12.  in                  | Impact: 0.022138 → PHISHING
+13. ef                   | Impact: 0.021352 → PHISHING
+14.  twenty              | Impact: 0.020391 → PHISHING
+15.  my                  | Impact: 0.015405 → PHISHING
+16.  office              | Impact: 0.015405 → PHISHING
+17.  regards             | Impact: 0.014556 → PHISHING
+18.  ben                 | Impact: 0.014027 → PHISHING
+19.  your                | Impact: 0.013199 → PHISHING
+20.  contact             | Impact: 0.013199 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.127029
+ 2.  fund                | Impact: 0.050358
+ 3.  million             | Impact: 0.037121
+ 4.  your                | Impact: 0.035510
+ 5.  dollars             | Impact: 0.034306
+ 6.  friend              | Impact: 0.033601
+ 7.  this                | Impact: 0.028851
+ 8.  offshore            | Impact: 0.023827
+ 9.  account             | Impact: 0.023663
+10.  worth               | Impact: 0.022193
+11.  account             | Impact: 0.022138
+12.  in                  | Impact: 0.022138
+13. ef                   | Impact: 0.021352
+14.  twenty              | Impact: 0.020391
+15.  my                  | Impact: 0.015405
+16.  office              | Impact: 0.015405
+17.  regards             | Impact: 0.014556
+18.  ben                 | Impact: 0.014027
+19.  your                | Impact: 0.013199
+20.  contact             | Impact: 0.013199
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ,                   | Impact: -0.006980
+ 2.  as                  | Impact: -0.002456
+ 3.  the                 | Impact: -0.002456
+ 4.  .                   | Impact: -0.002192
+ 5.  auditor             | Impact: -0.002157
+ 6.  of                  | Impact: -0.002157
+ 7.  raymond             | Impact: -0.002034
+ 8.  west                | Impact: -0.002034
+ 9.  auditor             | Impact: -0.002034
+10.  .                   | Impact: -0.002034
+11.  a                   | Impact: -0.001452
+12.  dormant             | Impact: -0.001452
+13.  i                   | Impact: -0.001044
+14.  look                | Impact: -0.001044
+15.  forward             | Impact: -0.001044
+16.  to                  | Impact: -0.001044
+17.  di                  | Impact: -0.000655
+18. sa                   | Impact: -0.000655
+19. pp                   | Impact: -0.000655
+20. oint                 | Impact: -0.000655

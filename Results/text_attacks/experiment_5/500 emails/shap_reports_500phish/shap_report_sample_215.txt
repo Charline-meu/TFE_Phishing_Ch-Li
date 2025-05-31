@@ -1,0 +1,75 @@
+Sample 215
+==========
+
+Sample text preview: My dear friend, I got to know of you in my search for a reputable person to assist in An urgent deal requiring utmost trust and confidentiality. I am ...
+
+Model prediction: [1.828271e-04 9.998172e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.017912 → PHISHING
+ 2.  friend              | Impact: 0.017912 → PHISHING
+ 3.  her                 | Impact: 0.007767 → PHISHING
+ 4.  family              | Impact: 0.007767 → PHISHING
+ 5.  her                 | Impact: 0.006499 → PHISHING
+ 6.  family              | Impact: 0.006499 → PHISHING
+ 7.  have                | Impact: 0.006499 → PHISHING
+ 8.  ,                   | Impact: 0.006499 → PHISHING
+ 9.  of                  | Impact: 0.006288 → PHISHING
+10.  mrs                 | Impact: 0.006288 → PHISHING
+11.  .                   | Impact: 0.006288 → PHISHING
+12.  (                   | Impact: 0.005731 → PHISHING
+13.  mrs                 | Impact: 0.005731 → PHISHING
+14.  .                   | Impact: 0.005731 → PHISHING
+15.  of                  | Impact: 0.005268 → PHISHING
+16.  nigeria             | Impact: 0.005268 → PHISHING
+17.  and                 | Impact: 0.005268 → PHISHING
+18.  of                  | Impact: 0.004870 → PHISHING
+19.  you                 | Impact: 0.004870 → PHISHING
+20.  in                  | Impact: 0.004870 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.017912
+ 2.  friend              | Impact: 0.017912
+ 3.  her                 | Impact: 0.007767
+ 4.  family              | Impact: 0.007767
+ 5.  her                 | Impact: 0.006499
+ 6.  family              | Impact: 0.006499
+ 7.  have                | Impact: 0.006499
+ 8.  ,                   | Impact: 0.006499
+ 9.  of                  | Impact: 0.006288
+10.  mrs                 | Impact: 0.006288
+11.  .                   | Impact: 0.006288
+12.  (                   | Impact: 0.005731
+13.  mrs                 | Impact: 0.005731
+14.  .                   | Impact: 0.005731
+15.  of                  | Impact: 0.005268
+16.  nigeria             | Impact: 0.005268
+17.  and                 | Impact: 0.005268
+18.  of                  | Impact: 0.004870
+19.  you                 | Impact: 0.004870
+20.  in                  | Impact: 0.004870
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  deal                | Impact: -0.000819
+ 2.  requiring           | Impact: -0.000819
+ 3.  utmost              | Impact: -0.000819
+ 4.  trust               | Impact: -0.000819
+ 5.  back                | Impact: -0.000598
+ 6.  page                | Impact: -0.000598
+ 7.  /                   | Impact: -0.000598
+ 8.  /                   | Impact: -0.000598
+ 9.  th                  | Impact: -0.000598
+10.  oct                 | Impact: -0.000598
+11.  .                   | Impact: -0.000598
+12.  chris               | Impact: -0.000186
+13.  ed                  | Impact: -0.000186
+14. u                    | Impact: -0.000186
+15.                      | Impact: -0.000186
+16.  it                  | Impact: -0.000145
+17.  may                 | Impact: -0.000145
+18.  also                | Impact: -0.000145
+19.  interest            | Impact: -0.000145
+20.  you                 | Impact: -0.000145

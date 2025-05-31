@@ -1,0 +1,75 @@
+Phishing Sample 94
+==================
+
+Sample text preview: When America's top companies compete for your business, you win. Take a moment to let us show you that we are here to save you money and address your ...
+
+Model prediction: [1.9363903e-04 9.9980634e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  susan               | Impact: -0.045377 → LEGITIMATE
+ 2.  your                | Impact: 0.044388 → PHISHING
+ 3.  address             | Impact: 0.044388 → PHISHING
+ 4.  click               | Impact: 0.044255 → PHISHING
+ 5.  here                | Impact: 0.044255 → PHISHING
+ 6.  a                   | Impact: -0.042485 → LEGITIMATE
+ 7.  to                  | Impact: 0.031951 → PHISHING
+ 8.  del                 | Impact: 0.027716 → PHISHING
+ 9. ete                  | Impact: 0.027716 → PHISHING
+10.  .                   | Impact: 0.021954 → PHISHING
+11.  jennifer            | Impact: -0.021315 → LEGITIMATE
+12.  !                   | Impact: 0.020651 → PHISHING
+13.  we                  | Impact: 0.016733 → PHISHING
+14.  will                | Impact: 0.016733 → PHISHING
+15.  soon                | Impact: 0.016093 → PHISHING
+16.  be                  | Impact: 0.016093 → PHISHING
+17.  for                 | Impact: 0.014717 → PHISHING
+18.  loans               | Impact: 0.014717 → PHISHING
+19.  in                  | Impact: 0.014717 → PHISHING
+20.  a                   | Impact: 0.014717 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.044388
+ 2.  address             | Impact: 0.044388
+ 3.  click               | Impact: 0.044255
+ 4.  here                | Impact: 0.044255
+ 5.  to                  | Impact: 0.031951
+ 6.  del                 | Impact: 0.027716
+ 7. ete                  | Impact: 0.027716
+ 8.  .                   | Impact: 0.021954
+ 9.  !                   | Impact: 0.020651
+10.  we                  | Impact: 0.016733
+11.  will                | Impact: 0.016733
+12.  soon                | Impact: 0.016093
+13.  be                  | Impact: 0.016093
+14.  for                 | Impact: 0.014717
+15.  loans               | Impact: 0.014717
+16.  in                  | Impact: 0.014717
+17.  a                   | Impact: 0.014717
+18.  to                  | Impact: 0.014326
+19.  save                | Impact: 0.014326
+20.  you                 | Impact: 0.014326
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  susan               | Impact: -0.045377
+ 2.  a                   | Impact: -0.042485
+ 3.  jennifer            | Impact: -0.021315
+ 4.  c                   | Impact: -0.007878
+ 5.  "                   | Impact: -0.007335
+ 6.  -                   | Impact: -0.007335
+ 7.  robert              | Impact: -0.007335
+ 8.  t                   | Impact: -0.007335
+ 9.  it                  | Impact: -0.006796
+10.  was                 | Impact: -0.006796
+11.  easy                | Impact: -0.006796
+12.  "                   | Impact: -0.006369
+13.  -                   | Impact: -0.006369
+14.  .                   | Impact: -0.005679
+15.  way                 | Impact: -0.003595
+16.  that                | Impact: -0.003595
+17.  puts                | Impact: -0.003595
+18.  me                  | Impact: -0.003595
+19.  in                  | Impact: -0.003595
+20.  control             | Impact: -0.003595

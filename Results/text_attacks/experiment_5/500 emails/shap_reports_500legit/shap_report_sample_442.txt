@@ -1,0 +1,75 @@
+Sample 442
+==========
+
+Sample text preview: Thanks. We shall give her a call and talk to her. It seems, however, that she has no relevant quantitative background and no experience in finance. Vi...
+
+Model prediction: [9.9979657e-01 2.0343511e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. gm                   | Impact: -0.004448 → LEGITIMATE
+ 2.  stephen             | Impact: -0.003746 → LEGITIMATE
+ 3.  sh                  | Impact: -0.003313 → LEGITIMATE
+ 4.  e                   | Impact: -0.003061 → LEGITIMATE
+ 5.  thanks              | Impact: -0.002237 → LEGITIMATE
+ 6.  j                   | Impact: -0.001819 → LEGITIMATE
+ 7.  staff               | Impact: -0.001791 → LEGITIMATE
+ 8.  meeting             | Impact: -0.001791 → LEGITIMATE
+ 9.  :                   | Impact: -0.001643 → LEGITIMATE
+10.  tony                | Impact: -0.001639 → LEGITIMATE
+11.  :                   | Impact: -0.001612 → LEGITIMATE
+12.  :                   | Impact: -0.001577 → LEGITIMATE
+13.  .                   | Impact: -0.001450 → LEGITIMATE
+14.  pm                  | Impact: -0.001402 → LEGITIMATE
+15.  kam                 | Impact: -0.001345 → LEGITIMATE
+16.  vince               | Impact: -0.001341 → LEGITIMATE
+17. ron                  | Impact: -0.001266 → LEGITIMATE
+18.  :                   | Impact: -0.001265 → LEGITIMATE
+19.  .                   | Impact: -0.001257 → LEGITIMATE
+20.  :                   | Impact: -0.001233 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mentioned           | Impact: 0.000727
+ 2.  yesterday           | Impact: 0.000615
+ 3.  you                 | Impact: 0.000496
+ 4.  to                  | Impact: 0.000438
+ 5.  at                  | Impact: 0.000426
+ 6. tched                | Impact: 0.000426
+ 7.  please              | Impact: 0.000357
+ 8.  find                | Impact: 0.000357
+ 9.  h                   | Impact: 0.000304
+10.  that                | Impact: 0.000191
+11.  i                   | Impact: 0.000191
+12.  that                | Impact: 0.000166
+13.  she                 | Impact: 0.000166
+14.  during              | Impact: 0.000151
+15.  the                 | Impact: 0.000151
+16.  give                | Impact: 0.000114
+17.  me                  | Impact: 0.000114
+18.  a                   | Impact: 0.000114
+19.  call                | Impact: 0.000114
+20.  should              | Impact: 0.000114
+
+Top features pushing towards LEGITIMATE classification:
+ 1. gm                   | Impact: -0.004448
+ 2.  stephen             | Impact: -0.003746
+ 3.  sh                  | Impact: -0.003313
+ 4.  e                   | Impact: -0.003061
+ 5.  thanks              | Impact: -0.002237
+ 6.  j                   | Impact: -0.001819
+ 7.  staff               | Impact: -0.001791
+ 8.  meeting             | Impact: -0.001791
+ 9.  :                   | Impact: -0.001643
+10.  tony                | Impact: -0.001639
+11.  :                   | Impact: -0.001612
+12.  :                   | Impact: -0.001577
+13.  .                   | Impact: -0.001450
+14.  pm                  | Impact: -0.001402
+15.  kam                 | Impact: -0.001345
+16.  vince               | Impact: -0.001341
+17. ron                  | Impact: -0.001266
+18.  :                   | Impact: -0.001265
+19.  .                   | Impact: -0.001257
+20.  :                   | Impact: -0.001233

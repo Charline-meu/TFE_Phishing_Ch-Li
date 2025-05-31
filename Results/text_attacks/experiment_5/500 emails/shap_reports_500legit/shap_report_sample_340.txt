@@ -1,0 +1,75 @@
+Sample 340
+==========
+
+Sample text preview: As our signature lines do not have a date, from correspondence it appears to have been signed around Sept. th. Debra Perlingiere Enron North America C...
+
+Model prediction: [9.9978262e-01 2.1734992e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.056988 → LEGITIMATE
+ 2.  america             | Impact: 0.033150 → PHISHING
+ 3.  signature           | Impact: 0.025300 → PHISHING
+ 4.  our                 | Impact: 0.022538 → PHISHING
+ 5.  from                | Impact: 0.022451 → PHISHING
+ 6.  it                  | Impact: -0.018090 → LEGITIMATE
+ 7.  signed              | Impact: 0.017945 → PHISHING
+ 8.  around              | Impact: -0.016760 → LEGITIMATE
+ 9.  debra               | Impact: -0.014208 → LEGITIMATE
+10.  lines               | Impact: -0.013314 → LEGITIMATE
+11.  north               | Impact: -0.012862 → LEGITIMATE
+12.  th                  | Impact: 0.012095 → PHISHING
+13.  do                  | Impact: -0.008830 → LEGITIMATE
+14.  not                 | Impact: -0.007920 → LEGITIMATE
+15.  corp                | Impact: 0.007559 → PHISHING
+16.  .                   | Impact: -0.007208 → LEGITIMATE
+17.  ,                   | Impact: -0.006710 → LEGITIMATE
+18.  correspondence      | Impact: 0.006550 → PHISHING
+19.  houston             | Impact: -0.005699 → LEGITIMATE
+20.  date                | Impact: -0.005230 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  america             | Impact: 0.033150
+ 2.  signature           | Impact: 0.025300
+ 3.  our                 | Impact: 0.022538
+ 4.  from                | Impact: 0.022451
+ 5.  signed              | Impact: 0.017945
+ 6.  th                  | Impact: 0.012095
+ 7.  corp                | Impact: 0.007559
+ 8.  correspondence      | Impact: 0.006550
+ 9.  sept                | Impact: 0.005195
+10.  texas               | Impact: 0.003471
+11.  a                   | Impact: 0.002820
+12.  ,                   | Impact: 0.002707
+13.  to                  | Impact: 0.002062
+14.  ,                   | Impact: 0.001999
+15.  appears             | Impact: 0.001744
+16.  street              | Impact: 0.000922
+17.  legal               | Impact: 0.000763
+18.  department          | Impact: 0.000763
+19.  fa                  | Impact: 0.000668
+20.  phone               | Impact: 0.000535
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.056988
+ 2.  it                  | Impact: -0.018090
+ 3.  around              | Impact: -0.016760
+ 4.  debra               | Impact: -0.014208
+ 5.  lines               | Impact: -0.013314
+ 6.  north               | Impact: -0.012862
+ 7.  do                  | Impact: -0.008830
+ 8.  not                 | Impact: -0.007920
+ 9.  .                   | Impact: -0.007208
+10.  ,                   | Impact: -0.006710
+11.  houston             | Impact: -0.005699
+12.  date                | Impact: -0.005230
+13.  -                   | Impact: -0.004302
+14.  e                   | Impact: -0.003913
+15.  been                | Impact: -0.003838
+16. b                    | Impact: -0.003199
+17.  .                   | Impact: -0.002476
+18.  have                | Impact: -0.002460
+19. ling                 | Impact: -0.002458
+20.  -                   | Impact: -0.002226

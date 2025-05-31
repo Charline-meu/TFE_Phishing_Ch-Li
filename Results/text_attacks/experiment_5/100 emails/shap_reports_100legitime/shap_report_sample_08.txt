@@ -1,0 +1,75 @@
+Phishing Sample 8
+=================
+
+Sample text preview: I'm getting these messages and I'm not sure what they mean. Can anyone clear this up for me? Thanks. Sep :: linux mailscanner[]: RBL Check ORDB-RBL ti...
+
+Model prediction: [9.9978358e-01 2.1641856e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  message             | Impact: 0.010303 → PHISHING
+ 2.  :                   | Impact: -0.007870 → LEGITIMATE
+ 3.  linux               | Impact: -0.007068 → LEGITIMATE
+ 4.  this                | Impact: 0.005491 → PHISHING
+ 5.  thanks              | Impact: -0.004457 → LEGITIMATE
+ 6.  by                  | Impact: -0.003430 → LEGITIMATE
+ 7.  [                   | Impact: -0.002848 → LEGITIMATE
+ 8.  ]                   | Impact: -0.002848 → LEGITIMATE
+ 9.  believed            | Impact: -0.002340 → LEGITIMATE
+10.  getting             | Impact: -0.002281 → LEGITIMATE
+11.  .                   | Impact: -0.002021 → LEGITIMATE
+12.  :                   | Impact: -0.001995 → LEGITIMATE
+13.  :                   | Impact: -0.001995 → LEGITIMATE
+14.  '                   | Impact: 0.001965 → PHISHING
+15.  :                   | Impact: -0.001744 → LEGITIMATE
+16.  has                 | Impact: 0.001590 → PHISHING
+17.  been                | Impact: 0.001590 → PHISHING
+18.  viruses             | Impact: -0.001500 → LEGITIMATE
+19.  at                  | Impact: -0.001297 → LEGITIMATE
+20.  ,                   | Impact: 0.001241 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  message             | Impact: 0.010303
+ 2.  this                | Impact: 0.005491
+ 3.  '                   | Impact: 0.001965
+ 4.  has                 | Impact: 0.001590
+ 5.  been                | Impact: 0.001590
+ 6.  ,                   | Impact: 0.001241
+ 7.  net                 | Impact: 0.001231
+ 8.  killed              | Impact: 0.001186
+ 9.  was                 | Impact: 0.001067
+10.  killed              | Impact: 0.001067
+11.  is                  | Impact: 0.000910
+12.  dangerous           | Impact: 0.000861
+13.  content             | Impact: 0.000861
+14.  by                  | Impact: 0.000861
+15.  mail                | Impact: 0.000818
+16. scan                 | Impact: 0.000818
+17. ner                  | Impact: 0.000818
+18.  i                   | Impact: 0.000647
+19.  _                   | Impact: 0.000492
+20.  _                   | Impact: 0.000492
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.007870
+ 2.  linux               | Impact: -0.007068
+ 3.  thanks              | Impact: -0.004457
+ 4.  by                  | Impact: -0.003430
+ 5.  [                   | Impact: -0.002848
+ 6.  ]                   | Impact: -0.002848
+ 7.  believed            | Impact: -0.002340
+ 8.  getting             | Impact: -0.002281
+ 9.  .                   | Impact: -0.002021
+10.  :                   | Impact: -0.001995
+11.  :                   | Impact: -0.001995
+12.  :                   | Impact: -0.001744
+13.  viruses             | Impact: -0.001500
+14.  at                  | Impact: -0.001297
+15. sas                  | Impact: -0.001218
+16. sin                  | Impact: -0.001218
+17.  spa                 | Impact: -0.000992
+18. mas                  | Impact: -0.000992
+19.  and                 | Impact: -0.000978
+20.  com                 | Impact: -0.000846

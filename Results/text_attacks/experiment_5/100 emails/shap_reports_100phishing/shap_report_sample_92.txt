@@ -1,0 +1,75 @@
+Phishing Sample 92
+==================
+
+Sample text preview: Dear Sir/Madam Our company is designer and manufacturer of digital voice recorders (DVR) Edic-mini with extraordinary characteristics: Edic-mini model...
+
+Model prediction: [2.5636499e-04 9.9974364e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.041422 → PHISHING
+ 2.  madam               | Impact: 0.029160 → PHISHING
+ 3.  our                 | Impact: 0.029160 → PHISHING
+ 4.  your                | Impact: 0.020900 → PHISHING
+ 5.  address             | Impact: 0.020900 → PHISHING
+ 6.  sir                 | Impact: 0.018521 → PHISHING
+ 7.  /                   | Impact: 0.018521 → PHISHING
+ 8.                      | Impact: 0.017522 → PHISHING
+ 9.  company             | Impact: 0.012450 → PHISHING
+10.  is                  | Impact: 0.012450 → PHISHING
+11.  designer            | Impact: 0.012450 → PHISHING
+12.  russian             | Impact: 0.008477 → PHISHING
+13.  :                   | Impact: 0.008477 → PHISHING
+14.  www                 | Impact: 0.008477 → PHISHING
+15.  site                | Impact: 0.008477 → PHISHING
+16.  to                  | Impact: 0.007938 → PHISHING
+17.  remove              | Impact: 0.007938 → PHISHING
+18.  with                | Impact: 0.007491 → PHISHING
+19.  best                | Impact: 0.007491 → PHISHING
+20.  regards             | Impact: 0.007491 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.041422
+ 2.  madam               | Impact: 0.029160
+ 3.  our                 | Impact: 0.029160
+ 4.  your                | Impact: 0.020900
+ 5.  address             | Impact: 0.020900
+ 6.  sir                 | Impact: 0.018521
+ 7.  /                   | Impact: 0.018521
+ 8.                      | Impact: 0.017522
+ 9.  company             | Impact: 0.012450
+10.  is                  | Impact: 0.012450
+11.  designer            | Impact: 0.012450
+12.  russian             | Impact: 0.008477
+13.  :                   | Impact: 0.008477
+14.  www                 | Impact: 0.008477
+15.  site                | Impact: 0.008477
+16.  to                  | Impact: 0.007938
+17.  remove              | Impact: 0.007938
+18.  with                | Impact: 0.007491
+19.  best                | Impact: 0.007491
+20.  regards             | Impact: 0.007491
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.006144
+ 2.  )                   | Impact: -0.006144
+ 3.  ed                  | Impact: -0.002706
+ 4. ic                   | Impact: -0.002706
+ 5.  -                   | Impact: -0.002706
+ 6.  mini                | Impact: -0.002706
+ 7.  in                  | Impact: -0.002112
+ 8.  the                 | Impact: -0.002112
+ 9.  world               | Impact: -0.002112
+10.  :                   | Impact: -0.002112
+11.                      | Impact: -0.001837
+12.  ed                  | Impact: -0.000748
+13. ic                   | Impact: -0.000748
+14.  -                   | Impact: -0.000748
+15.  mini                | Impact: -0.000748
+16.  compatible          | Impact: -0.000748
+17.  em                  | Impact: -0.000748
+18. m                    | Impact: -0.000748
+19.  which               | Impact: -0.000748
+20.  are                 | Impact: -0.000748

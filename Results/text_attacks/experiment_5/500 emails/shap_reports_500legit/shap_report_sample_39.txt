@@ -1,0 +1,75 @@
+Sample 39
+=========
+
+Sample text preview: Don, The pictures are so small, that I am unable to identify who the driver and passenger are in theses pictures. Please advise. Joe -----Original Mes...
+
+Model prediction: [9.9908876e-01 9.1123005e-04]
+Predicted class: LEGITIMATE with 0.9991 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ;                   | Impact: -0.001261 → LEGITIMATE
+ 2.  kenneth             | Impact: -0.001261 → LEGITIMATE
+ 3.  sc                  | Impact: -0.000763 → LEGITIMATE
+ 4. hall                 | Impact: -0.000763 → LEGITIMATE
+ 5.  joe                 | Impact: -0.000745 → LEGITIMATE
+ 6.  -                   | Impact: -0.000745 → LEGITIMATE
+ 7.  -                   | Impact: -0.000745 → LEGITIMATE
+ 8.  -                   | Impact: -0.000745 → LEGITIMATE
+ 9.  (                   | Impact: 0.000666 → PHISHING
+10.  ;                   | Impact: -0.000637 → LEGITIMATE
+11.  matt                | Impact: -0.000637 → LEGITIMATE
+12.  dogg                | Impact: -0.000637 → LEGITIMATE
+13. ett                  | Impact: -0.000637 → LEGITIMATE
+14.  ;                   | Impact: -0.000634 → LEGITIMATE
+15.  mike                | Impact: -0.000634 → LEGITIMATE
+16.  newman              | Impact: -0.000634 → LEGITIMATE
+17.  miguel              | Impact: 0.000623 → PHISHING
+18.  l                   | Impact: 0.000623 → PHISHING
+19.  .                   | Impact: 0.000596 → PHISHING
+20.  -                   | Impact: -0.000583 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  (                   | Impact: 0.000666
+ 2.  miguel              | Impact: 0.000623
+ 3.  l                   | Impact: 0.000623
+ 4.  .                   | Impact: 0.000596
+ 5.  (                   | Impact: 0.000548
+ 6.  (                   | Impact: 0.000412
+ 7.  the                 | Impact: 0.000300
+ 8.  pictures            | Impact: 0.000300
+ 9.  ,                   | Impact: 0.000300
+10.  are                 | Impact: 0.000300
+11.  so                  | Impact: 0.000300
+12.  small               | Impact: 0.000300
+13.  e                   | Impact: 0.000281
+14.  -                   | Impact: 0.000281
+15.  mail                | Impact: 0.000281
+16.  )                   | Impact: 0.000281
+17.  e                   | Impact: 0.000273
+18.  -                   | Impact: 0.000273
+19.  mail                | Impact: 0.000273
+20.  )                   | Impact: 0.000273
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ;                   | Impact: -0.001261
+ 2.  kenneth             | Impact: -0.001261
+ 3.  sc                  | Impact: -0.000763
+ 4. hall                 | Impact: -0.000763
+ 5.  joe                 | Impact: -0.000745
+ 6.  -                   | Impact: -0.000745
+ 7.  -                   | Impact: -0.000745
+ 8.  -                   | Impact: -0.000745
+ 9.  ;                   | Impact: -0.000637
+10.  matt                | Impact: -0.000637
+11.  dogg                | Impact: -0.000637
+12. ett                  | Impact: -0.000637
+13.  ;                   | Impact: -0.000634
+14.  mike                | Impact: -0.000634
+15.  newman              | Impact: -0.000634
+16.  -                   | Impact: -0.000583
+17.  -                   | Impact: -0.000583
+18.  original            | Impact: -0.000583
+19.  message             | Impact: -0.000583
+20.  -                   | Impact: -0.000555

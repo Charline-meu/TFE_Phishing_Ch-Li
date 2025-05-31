@@ -1,0 +1,75 @@
+Sample 96
+=========
+
+Sample text preview: FOR YOUR KIND ATTENTION I discovered an account of a late customer in my office here in London. It will be in my interest to transfer this fund worth ...
+
+Model prediction: [1.7124122e-04 9.9982870e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  fund                | Impact: 0.056779 → PHISHING
+ 2.  mr                  | Impact: 0.042473 → PHISHING
+ 3.  london              | Impact: 0.041397 → PHISHING
+ 4.  +                   | Impact: 0.041312 → PHISHING
+ 5.  regards             | Impact: 0.041312 → PHISHING
+ 6.  your                | Impact: 0.037542 → PHISHING
+ 7.  name                | Impact: 0.032812 → PHISHING
+ 8.  million             | Impact: 0.030313 → PHISHING
+ 9.  your                | Impact: 0.026551 → PHISHING
+10.  country             | Impact: 0.026012 → PHISHING
+11.  account             | Impact: 0.024680 → PHISHING
+12.  account             | Impact: 0.024542 → PHISHING
+13.  customer            | Impact: 0.023883 → PHISHING
+14.  worth               | Impact: 0.023370 → PHISHING
+15.  my                  | Impact: 0.021580 → PHISHING
+16.  private             | Impact: 0.021580 → PHISHING
+17.  here                | Impact: 0.021346 → PHISHING
+18.  your                | Impact: 0.020118 → PHISHING
+19.  details             | Impact: 0.019049 → PHISHING
+20.  phone               | Impact: 0.017709 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  fund                | Impact: 0.056779
+ 2.  mr                  | Impact: 0.042473
+ 3.  london              | Impact: 0.041397
+ 4.  +                   | Impact: 0.041312
+ 5.  regards             | Impact: 0.041312
+ 6.  your                | Impact: 0.037542
+ 7.  name                | Impact: 0.032812
+ 8.  million             | Impact: 0.030313
+ 9.  your                | Impact: 0.026551
+10.  country             | Impact: 0.026012
+11.  account             | Impact: 0.024680
+12.  account             | Impact: 0.024542
+13.  customer            | Impact: 0.023883
+14.  worth               | Impact: 0.023370
+15.  my                  | Impact: 0.021580
+16.  private             | Impact: 0.021580
+17.  here                | Impact: 0.021346
+18.  your                | Impact: 0.020118
+19.  details             | Impact: 0.019049
+20.  phone               | Impact: 0.017709
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  mark                | Impact: -0.009493
+ 2.  respect             | Impact: -0.009305
+ 3.  ,                   | Impact: -0.006856
+ 4.  i                   | Impact: -0.005502
+ 5.  for                 | Impact: -0.004784
+ 6.  cl                  | Impact: -0.003036
+ 7. ari                  | Impact: -0.003036
+ 8. fication             | Impact: -0.003036
+ 9.  and                 | Impact: -0.003036
+10.  and                 | Impact: -0.002363
+11.  contact             | Impact: -0.002111
+12.  me                  | Impact: -0.002111
+13.  for                 | Impact: -0.002111
+14.  more                | Impact: -0.002111
+15.  ,                   | Impact: -0.001067
+16.  a                   | Impact: -0.000921
+17.  collaborator        | Impact: -0.000921
+18.  .                   | Impact: -0.000837
+19.  kind                | Impact: -0.000728
+20.  by                  | Impact: -0.000477

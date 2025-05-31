@@ -1,0 +1,75 @@
+Sample 452
+==========
+
+Sample text preview: In order to support Enron,s development of new business and desire to maximize its return on invested capital; the following organizational changes a...
+
+Model prediction: [9.9976438e-01 2.3559654e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.072462 → LEGITIMATE
+ 2. ron                  | Impact: -0.030554 → LEGITIMATE
+ 3.  en                  | Impact: -0.021511 → LEGITIMATE
+ 4.  en                  | Impact: -0.017509 → LEGITIMATE
+ 5.  development         | Impact: 0.013211 → PHISHING
+ 6.  new                 | Impact: 0.009744 → PHISHING
+ 7.  organizational      | Impact: -0.008376 → LEGITIMATE
+ 8.  invested            | Impact: 0.008368 → PHISHING
+ 9.  president           | Impact: 0.008205 → PHISHING
+10.  place               | Impact: 0.007760 → PHISHING
+11.  south               | Impact: 0.007420 → PHISHING
+12.  capital             | Impact: 0.006964 → PHISHING
+13.  business            | Impact: 0.006810 → PHISHING
+14.  order               | Impact: 0.006074 → PHISHING
+15.  ,                   | Impact: 0.006038 → PHISHING
+16.  president           | Impact: 0.005940 → PHISHING
+17.  return              | Impact: 0.005763 → PHISHING
+18.  desire              | Impact: 0.005668 → PHISHING
+19.  america             | Impact: 0.005499 → PHISHING
+20.  will                | Impact: 0.004304 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  development         | Impact: 0.013211
+ 2.  new                 | Impact: 0.009744
+ 3.  invested            | Impact: 0.008368
+ 4.  president           | Impact: 0.008205
+ 5.  place               | Impact: 0.007760
+ 6.  south               | Impact: 0.007420
+ 7.  capital             | Impact: 0.006964
+ 8.  business            | Impact: 0.006810
+ 9.  order               | Impact: 0.006074
+10.  ,                   | Impact: 0.006038
+11.  president           | Impact: 0.005940
+12.  return              | Impact: 0.005763
+13.  desire              | Impact: 0.005668
+14.  america             | Impact: 0.005499
+15.  will                | Impact: 0.004304
+16.  taking              | Impact: 0.004252
+17.  of                  | Impact: 0.003605
+18.  and                 | Impact: 0.003547
+19.  south               | Impact: 0.003246
+20.  vice                | Impact: 0.003072
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.072462
+ 2. ron                  | Impact: -0.030554
+ 3.  en                  | Impact: -0.021511
+ 4.  en                  | Impact: -0.017509
+ 5.  organizational      | Impact: -0.008376
+ 6. ron                  | Impact: -0.004100
+ 7.  markets             | Impact: -0.003811
+ 8.  accounting          | Impact: -0.003328
+ 9.  accounting          | Impact: -0.002708
+10.  en                  | Impact: -0.002030
+11. ron                  | Impact: -0.002030
+12.  .                   | Impact: -0.001825
+13.  following           | Impact: -0.001815
+14.  group               | Impact: -0.001426
+15.  .                   | Impact: -0.001372
+16.  en                  | Impact: -0.001164
+17.  related             | Impact: -0.001044
+18.  corp                | Impact: -0.000990
+19.  support             | Impact: -0.000750
+20.  at                  | Impact: -0.000656

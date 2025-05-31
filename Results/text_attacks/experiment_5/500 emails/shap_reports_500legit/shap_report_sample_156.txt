@@ -1,0 +1,75 @@
+Sample 156
+==========
+
+Sample text preview: ----- Original Message ----- From: "Luis Villa" > > They were the ruling class of a feudal, farming society for quite some > time; I believe there wer...
+
+Model prediction: [9.9973863e-01 2.6141456e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ]                   | Impact: -0.023232 → LEGITIMATE
+ 2.  tibetan             | Impact: -0.015755 → LEGITIMATE
+ 3.  chinese             | Impact: 0.015636 → PHISHING
+ 4.  /                   | Impact: 0.010869 → PHISHING
+ 5.  because             | Impact: -0.007997 → LEGITIMATE
+ 6.  owned               | Impact: 0.007917 → PHISHING
+ 7.  not                 | Impact: 0.007612 → PHISHING
+ 8.  exist               | Impact: -0.007253 → LEGITIMATE
+ 9.  nationals           | Impact: 0.007084 → PHISHING
+10.  /                   | Impact: 0.006054 → PHISHING
+11.  ,                   | Impact: -0.005863 → LEGITIMATE
+12. s                    | Impact: -0.005119 → LEGITIMATE
+13.  and                 | Impact: 0.004370 → PHISHING
+14.  >                   | Impact: -0.003848 → LEGITIMATE
+15.  >                   | Impact: -0.003370 → LEGITIMATE
+16.  .                   | Impact: 0.003274 → PHISHING
+17.  operated            | Impact: 0.003066 → PHISHING
+18.  by                  | Impact: 0.003066 → PHISHING
+19.  be                  | Impact: 0.002775 → PHISHING
+20.  >                   | Impact: -0.002762 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  chinese             | Impact: 0.015636
+ 2.  /                   | Impact: 0.010869
+ 3.  owned               | Impact: 0.007917
+ 4.  not                 | Impact: 0.007612
+ 5.  nationals           | Impact: 0.007084
+ 6.  /                   | Impact: 0.006054
+ 7.  and                 | Impact: 0.004370
+ 8.  .                   | Impact: 0.003274
+ 9.  operated            | Impact: 0.003066
+10.  by                  | Impact: 0.003066
+11.  be                  | Impact: 0.002775
+12.  ll                  | Impact: 0.002522
+13.  under               | Impact: 0.002351
+14.  led                 | Impact: 0.001565
+15.  feudal              | Impact: 0.001088
+16.  creation            | Impact: 0.000949
+17.  of                  | Impact: 0.000949
+18.  is                  | Impact: 0.000841
+19.  tibet               | Impact: 0.000837
+20.  going               | Impact: 0.000585
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ]                   | Impact: -0.023232
+ 2.  tibetan             | Impact: -0.015755
+ 3.  because             | Impact: -0.007997
+ 4.  exist               | Impact: -0.007253
+ 5.  ,                   | Impact: -0.005863
+ 6. s                    | Impact: -0.005119
+ 7.  >                   | Impact: -0.003848
+ 8.  >                   | Impact: -0.003370
+ 9.  >                   | Impact: -0.002762
+10.  to                  | Impact: -0.002648
+11.  [                   | Impact: -0.002632
+12.  not                 | Impact: -0.002632
+13.  '                   | Impact: -0.002453
+14.  and                 | Impact: -0.002195
+15.  it                  | Impact: -0.001890
+16.  "                   | Impact: -0.001856
+17.  s                   | Impact: -0.001686
+18.  >                   | Impact: -0.001428
+19.  they                | Impact: -0.001428
+20.  '                   | Impact: -0.001428

@@ -1,0 +1,75 @@
+Phishing Sample 86
+==================
+
+Sample text preview: FYI. Janette Elbertson Enron North America Corp. Legal Department - EB Telephone: () - Fax: () - ----- Forwarded by Janette Elbertson/HOU/ECT on // : ...
+
+Model prediction: [9.9979597e-01 2.0409124e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  will                | Impact: 0.008369 → PHISHING
+ 2.  equipment           | Impact: -0.008248 → LEGITIMATE
+ 3.  you                 | Impact: 0.007653 → PHISHING
+ 4.  be                  | Impact: 0.006305 → PHISHING
+ 5.  t                   | Impact: -0.005345 → LEGITIMATE
+ 6.  notification        | Impact: 0.004919 → PHISHING
+ 7.  sara                | Impact: -0.004520 → LEGITIMATE
+ 8.  allow               | Impact: 0.004331 → PHISHING
+ 9.  procurement         | Impact: -0.003929 → LEGITIMATE
+10. ft                   | Impact: 0.003898 → PHISHING
+11.  -                   | Impact: -0.003639 → LEGITIMATE
+12.  -                   | Impact: -0.003025 → LEGITIMATE
+13.  the                 | Impact: -0.002913 → LEGITIMATE
+14.  -                   | Impact: -0.002587 → LEGITIMATE
+15.  -                   | Impact: -0.002416 → LEGITIMATE
+16.  .                   | Impact: -0.002360 → LEGITIMATE
+17.  to                  | Impact: 0.002176 → PHISHING
+18.  days                | Impact: 0.002029 → PHISHING
+19.  -                   | Impact: -0.001744 → LEGITIMATE
+20. ron                  | Impact: -0.001650 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  will                | Impact: 0.008369
+ 2.  you                 | Impact: 0.007653
+ 3.  be                  | Impact: 0.006305
+ 4.  notification        | Impact: 0.004919
+ 5.  allow               | Impact: 0.004331
+ 6. ft                   | Impact: 0.003898
+ 7.  to                  | Impact: 0.002176
+ 8.  days                | Impact: 0.002029
+ 9.  please              | Impact: 0.001623
+10.  @                   | Impact: 0.001338
+11.  notified            | Impact: 0.001018
+12.  request             | Impact: 0.000963
+13.  see                 | Impact: 0.000870
+14.  below               | Impact: 0.000870
+15.  arrives             | Impact: 0.000801
+16.  was                 | Impact: 0.000688
+17.  is                  | Impact: 0.000652
+18.  #                   | Impact: 0.000623
+19.  in                  | Impact: 0.000550
+20.  on                  | Impact: 0.000528
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  equipment           | Impact: -0.008248
+ 2.  t                   | Impact: -0.005345
+ 3.  sara                | Impact: -0.004520
+ 4.  procurement         | Impact: -0.003929
+ 5.  -                   | Impact: -0.003639
+ 6.  -                   | Impact: -0.003025
+ 7.  the                 | Impact: -0.002913
+ 8.  -                   | Impact: -0.002587
+ 9.  -                   | Impact: -0.002416
+10.  .                   | Impact: -0.002360
+11.  -                   | Impact: -0.001744
+12. ron                  | Impact: -0.001650
+13.  ec                  | Impact: -0.001240
+14. th                   | Impact: -0.001240
+15.  (                   | Impact: -0.001232
+16.  when                | Impact: -0.001082
+17.  automatic           | Impact: -0.001069
+18.  -                   | Impact: -0.001059
+19.  :                   | Impact: -0.000861
+20.  system              | Impact: -0.000860

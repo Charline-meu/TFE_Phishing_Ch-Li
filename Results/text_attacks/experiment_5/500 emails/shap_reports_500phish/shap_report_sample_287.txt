@@ -1,0 +1,75 @@
+Sample 287
+==========
+
+Sample text preview: Hello This letter may come to you as a surprise due to the fact that we have not yet met. I have to say that I have no intentions of causing you any p...
+
+Model prediction: [1.7354761e-04 9.9982649e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  i                   | Impact: 0.010728 → PHISHING
+ 2.  want                | Impact: 0.010728 → PHISHING
+ 3.  you                 | Impact: 0.010728 → PHISHING
+ 4.  to                  | Impact: 0.010728 → PHISHING
+ 5.  help                | Impact: 0.009631 → PHISHING
+ 6.  me                  | Impact: 0.009631 → PHISHING
+ 7.  collect             | Impact: 0.009631 → PHISHING
+ 8.  this                | Impact: 0.009631 → PHISHING
+ 9.  deposit             | Impact: 0.009631 → PHISHING
+10.  in                  | Impact: 0.008337 → PHISHING
+11.  england             | Impact: 0.008337 → PHISHING
+12.  uk                  | Impact: 0.008337 → PHISHING
+13.  .                   | Impact: 0.008337 → PHISHING
+14.  making              | Impact: 0.006914 → PHISHING
+15.  this                | Impact: 0.006914 → PHISHING
+16.  generous            | Impact: 0.006914 → PHISHING
+17.  donation            | Impact: 0.006914 → PHISHING
+18.  .                   | Impact: 0.006914 → PHISHING
+19.  sami                | Impact: 0.006914 → PHISHING
+20. u                    | Impact: 0.006914 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  i                   | Impact: 0.010728
+ 2.  want                | Impact: 0.010728
+ 3.  you                 | Impact: 0.010728
+ 4.  to                  | Impact: 0.010728
+ 5.  help                | Impact: 0.009631
+ 6.  me                  | Impact: 0.009631
+ 7.  collect             | Impact: 0.009631
+ 8.  this                | Impact: 0.009631
+ 9.  deposit             | Impact: 0.009631
+10.  in                  | Impact: 0.008337
+11.  england             | Impact: 0.008337
+12.  uk                  | Impact: 0.008337
+13.  .                   | Impact: 0.008337
+14.  making              | Impact: 0.006914
+15.  this                | Impact: 0.006914
+16.  generous            | Impact: 0.006914
+17.  donation            | Impact: 0.006914
+18.  .                   | Impact: 0.006914
+19.  sami                | Impact: 0.006914
+20. u                    | Impact: 0.006914
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.002422
+ 2.  have                | Impact: -0.002422
+ 3.  distributed         | Impact: -0.002422
+ 4.  money               | Impact: -0.002422
+ 5.  to                  | Impact: -0.002422
+ 6.  some                | Impact: -0.002422
+ 7.  charity             | Impact: -0.002422
+ 8.  organizations       | Impact: -0.002422
+ 9.  in                  | Impact: -0.002422
+10.  the                 | Impact: -0.002422
+11.  u                   | Impact: -0.002422
+12.  .                   | Impact: -0.002422
+13.  so                  | Impact: -0.001637
+14.  far                 | Impact: -0.001637
+15.  ,                   | Impact: -0.001637
+16.  al                  | Impact: -0.001365
+17. ms                   | Impact: -0.001365
+18.  to                  | Impact: -0.001365
+19.  charity             | Impact: -0.001365
+20.  organizations       | Impact: -0.001365

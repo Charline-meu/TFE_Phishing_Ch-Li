@@ -1,0 +1,73 @@
+Sample 400
+==========
+
+Sample text preview: URL: Date: Not supplied Just a reminder: I'm speaking at the University of Texas at Austin at PM this Friday -- giving a talk on Hollywood's legislati...
+
+Model prediction: [9.9977249e-01 2.2753596e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  love                | Impact: 0.061153 → PHISHING
+ 2.  hollywood           | Impact: 0.021404 → PHISHING
+ 3.  agenda              | Impact: -0.015235 → LEGITIMATE
+ 4.  sponsored           | Impact: -0.014999 → LEGITIMATE
+ 5.  link                | Impact: -0.011367 → LEGITIMATE
+ 6.  legislative         | Impact: -0.010356 → LEGITIMATE
+ 7.  ]                   | Impact: -0.009651 → LEGITIMATE
+ 8.  !                   | Impact: 0.009227 → PHISHING
+ 9.  see                 | Impact: -0.008395 → LEGITIMATE
+10.  discuss             | Impact: -0.007917 → LEGITIMATE
+11.  act                 | Impact: 0.006864 → PHISHING
+12.  you                 | Impact: -0.005795 → LEGITIMATE
+13.  ]                   | Impact: -0.005137 → LEGITIMATE
+14.  .                   | Impact: -0.004663 → LEGITIMATE
+15.  there               | Impact: -0.004587 → LEGITIMATE
+16.  ]                   | Impact: -0.004082 → LEGITIMATE
+17.  [                   | Impact: -0.003519 → LEGITIMATE
+18.  to                  | Impact: -0.003492 → LEGITIMATE
+19.  ur                  | Impact: -0.003447 → LEGITIMATE
+20.  [                   | Impact: -0.003328 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  love                | Impact: 0.061153
+ 2.  hollywood           | Impact: 0.021404
+ 3.  !                   | Impact: 0.009227
+ 4.  act                 | Impact: 0.006864
+ 5.  ,                   | Impact: 0.002813
+ 6.  s                   | Impact: 0.002788
+ 7.  e                   | Impact: 0.002692
+ 8.  and                 | Impact: 0.001894
+ 9.  '                   | Impact: 0.001500
+10.  university          | Impact: 0.001474
+11.  texas               | Impact: 0.000667
+12.  by                  | Impact: 0.000479
+13.  -                   | Impact: 0.000396
+14.  on                  | Impact: 0.000370
+15.  a                   | Impact: 0.000232
+16.  texas               | Impact: 0.000204
+17.  at                  | Impact: 0.000042
+18.  ,                   | Impact: 0.000024
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  agenda              | Impact: -0.015235
+ 2.  sponsored           | Impact: -0.014999
+ 3.  link                | Impact: -0.011367
+ 4.  legislative         | Impact: -0.010356
+ 5.  ]                   | Impact: -0.009651
+ 6.  see                 | Impact: -0.008395
+ 7.  discuss             | Impact: -0.007917
+ 8.  you                 | Impact: -0.005795
+ 9.  ]                   | Impact: -0.005137
+10.  .                   | Impact: -0.004663
+11.  there               | Impact: -0.004587
+12.  ]                   | Impact: -0.004082
+13.  [                   | Impact: -0.003519
+14.  to                  | Impact: -0.003492
+15.  ur                  | Impact: -0.003447
+16.  [                   | Impact: -0.003328
+17.  [                   | Impact: -0.003289
+18.  ]                   | Impact: -0.003116
+19.  ac                  | Impact: -0.002252
+20.  [                   | Impact: -0.002246

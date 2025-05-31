@@ -1,0 +1,75 @@
+Sample 210
+==========
+
+Sample text preview: [FREE US SHIPPING ON ORDERS $+]( [COLOURPOP - NEW! Secret Valentine Mystery Box - or more full-size items $ - $+ value) SHOP NOW]( [NOW OPEN - THE LOV...
+
+Model prediction: [9.9963403e-01 3.6591425e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  (                   | Impact: -0.044320 → LEGITIMATE
+ 2.  free                | Impact: 0.037002 → PHISHING
+ 3.  pay                 | Impact: 0.033896 → PHISHING
+ 4.  [                   | Impact: -0.032217 → LEGITIMATE
+ 5.  shipping            | Impact: 0.031159 → PHISHING
+ 6.  [                   | Impact: -0.027507 → LEGITIMATE
+ 7.  ]                   | Impact: -0.017170 → LEGITIMATE
+ 8.  $                   | Impact: 0.016924 → PHISHING
+ 9.  [                   | Impact: -0.016884 → LEGITIMATE
+10.  (                   | Impact: -0.015397 → LEGITIMATE
+11.  orders              | Impact: 0.013823 → PHISHING
+12.  valentine           | Impact: -0.011343 → LEGITIMATE
+13.  '                   | Impact: -0.011343 → LEGITIMATE
+14.  ]                   | Impact: -0.010626 → LEGITIMATE
+15.  the                 | Impact: -0.010576 → LEGITIMATE
+16.  ]                   | Impact: -0.010322 → LEGITIMATE
+17.  us                  | Impact: 0.010214 → PHISHING
+18.  $                   | Impact: 0.010176 → PHISHING
+19.  perfect             | Impact: -0.009988 → LEGITIMATE
+20.  items               | Impact: 0.009660 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  free                | Impact: 0.037002
+ 2.  pay                 | Impact: 0.033896
+ 3.  shipping            | Impact: 0.031159
+ 4.  $                   | Impact: 0.016924
+ 5.  orders              | Impact: 0.013823
+ 6.  us                  | Impact: 0.010214
+ 7.  $                   | Impact: 0.010176
+ 8.  items               | Impact: 0.009660
+ 9.  mystery             | Impact: 0.008454
+10.  box                 | Impact: 0.008454
+11.  on                  | Impact: 0.007311
+12.  +                   | Impact: 0.006579
+13.  value               | Impact: 0.006579
+14.  )                   | Impact: 0.006186
+15.  -                   | Impact: 0.005735
+16.  secret              | Impact: 0.005200
+17.  valentine           | Impact: 0.005200
+18.  gift                | Impact: 0.005025
+19.  your                | Impact: 0.005025
+20.  open                | Impact: 0.004857
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.044320
+ 2.  [                   | Impact: -0.032217
+ 3.  [                   | Impact: -0.027507
+ 4.  ]                   | Impact: -0.017170
+ 5.  [                   | Impact: -0.016884
+ 6.  (                   | Impact: -0.015397
+ 7.  valentine           | Impact: -0.011343
+ 8.  '                   | Impact: -0.011343
+ 9.  ]                   | Impact: -0.010626
+10.  the                 | Impact: -0.010576
+11.  ]                   | Impact: -0.010322
+12.  perfect             | Impact: -0.009988
+13.  now                 | Impact: -0.009602
+14.  ]                   | Impact: -0.009602
+15.  s                   | Impact: -0.009033
+16.  now                 | Impact: -0.005591
+17.  shop                | Impact: -0.005538
+18.  now                 | Impact: -0.004995
+19.  later               | Impact: -0.004896
+20.  (                   | Impact: -0.003629

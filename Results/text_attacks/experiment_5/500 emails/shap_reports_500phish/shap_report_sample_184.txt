@@ -1,0 +1,57 @@
+Sample 184
+==========
+
+Sample text preview: DEAR FRIEND, IT IS WITH A HEART FULL OF HOPE THAT I WRITE, SOLICITING FOR YOUR STRICT CONFIDENCE IN THIS TRANSACTION. THIS IS BY VIRTUE OF ITS NATURE ...
+
+Model prediction: [1.8558586e-04 9.9981445e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bank                | Impact: 0.012811 → PHISHING
+ 2.  account             | Impact: 0.012811 → PHISHING
+ 3.  .                   | Impact: 0.012811 → PHISHING
+ 4.  your                | Impact: 0.009393 → PHISHING
+ 5.  account             | Impact: 0.009393 → PHISHING
+ 6.  you                 | Impact: 0.008309 → PHISHING
+ 7.  that                | Impact: 0.008309 → PHISHING
+ 8.  will                | Impact: 0.008309 → PHISHING
+ 9.  assist              | Impact: 0.008309 → PHISHING
+10.  pay                 | Impact: 0.007923 → PHISHING
+11.  it                  | Impact: 0.007923 → PHISHING
+12.  into                | Impact: 0.007923 → PHISHING
+13.  your                | Impact: 0.007923 → PHISHING
+14.  .                   | Impact: 0.007642 → PHISHING
+15.  the                 | Impact: 0.006980 → PHISHING
+16.  money               | Impact: 0.006980 → PHISHING
+17.  and                 | Impact: 0.006980 → PHISHING
+18.  and                 | Impact: 0.006828 → PHISHING
+19.  compensate          | Impact: 0.006828 → PHISHING
+20.  your                | Impact: 0.006828 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.012811
+ 2.  account             | Impact: 0.012811
+ 3.  .                   | Impact: 0.012811
+ 4.  your                | Impact: 0.009393
+ 5.  account             | Impact: 0.009393
+ 6.  you                 | Impact: 0.008309
+ 7.  that                | Impact: 0.008309
+ 8.  will                | Impact: 0.008309
+ 9.  assist              | Impact: 0.008309
+10.  pay                 | Impact: 0.007923
+11.  it                  | Impact: 0.007923
+12.  into                | Impact: 0.007923
+13.  your                | Impact: 0.007923
+14.  .                   | Impact: 0.007642
+15.  the                 | Impact: 0.006980
+16.  money               | Impact: 0.006980
+17.  and                 | Impact: 0.006980
+18.  and                 | Impact: 0.006828
+19.  compensate          | Impact: 0.006828
+20.  your                | Impact: 0.006828
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  remember            | Impact: -0.000802
+ 2.  ,                   | Impact: -0.000802

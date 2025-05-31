@@ -1,0 +1,75 @@
+Sample 125
+==========
+
+Sample text preview: ------- Additional Comments From -- : ------- I'd prefer to wait and see if spammers do anything about it. my guess is they will not, as it'd mean mod...
+
+Model prediction: [9.997595e-01 2.404674e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  or                  | Impact: -0.004815 → LEGITIMATE
+ 2. el                   | Impact: -0.003530 → LEGITIMATE
+ 3.  are                 | Impact: 0.003478 → PHISHING
+ 4.  .                   | Impact: -0.003451 → LEGITIMATE
+ 5.  dev                 | Impact: -0.003272 → LEGITIMATE
+ 6.  mail                | Impact: 0.003144 → PHISHING
+ 7.  watching            | Impact: 0.003016 → PHISHING
+ 8.  ,                   | Impact: -0.002466 → LEGITIMATE
+ 9.  this                | Impact: 0.002315 → PHISHING
+10.  bug                 | Impact: -0.002054 → LEGITIMATE
+11.  for                 | Impact: -0.001965 → LEGITIMATE
+12.  the                 | Impact: -0.001965 → LEGITIMATE
+13.  assign              | Impact: -0.001899 → LEGITIMATE
+14.  the                 | Impact: -0.001838 → LEGITIMATE
+15.  assign              | Impact: -0.001763 → LEGITIMATE
+16. ee                   | Impact: -0.001763 → LEGITIMATE
+17.  list                | Impact: 0.001747 → PHISHING
+18.  guess               | Impact: -0.001683 → LEGITIMATE
+19. sas                  | Impact: -0.001649 → LEGITIMATE
+20.  result              | Impact: -0.001397 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  are                 | Impact: 0.003478
+ 2.  mail                | Impact: 0.003144
+ 3.  watching            | Impact: 0.003016
+ 4.  this                | Impact: 0.002315
+ 5.  list                | Impact: 0.001747
+ 6.  -                   | Impact: 0.001346
+ 7.  you                 | Impact: 0.001346
+ 8.  are                 | Impact: 0.001166
+ 9.  receiving           | Impact: 0.001166
+10.                      | Impact: 0.001023
+11.  _                   | Impact: 0.000849
+12.  -                   | Impact: 0.000835
+13.  you                 | Impact: 0.000835
+14.  _                   | Impact: 0.000746
+15.  _                   | Impact: 0.000746
+16.  -                   | Impact: 0.000593
+17.  -                   | Impact: 0.000593
+18.  are                 | Impact: 0.000511
+19.  the                 | Impact: 0.000511
+20.  _                   | Impact: 0.000477
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  or                  | Impact: -0.004815
+ 2. el                   | Impact: -0.003530
+ 3.  .                   | Impact: -0.003451
+ 4.  dev                 | Impact: -0.003272
+ 5.  ,                   | Impact: -0.002466
+ 6.  bug                 | Impact: -0.002054
+ 7.  for                 | Impact: -0.001965
+ 8.  the                 | Impact: -0.001965
+ 9.  assign              | Impact: -0.001899
+10.  the                 | Impact: -0.001838
+11.  assign              | Impact: -0.001763
+12. ee                   | Impact: -0.001763
+13.  guess               | Impact: -0.001683
+14. sas                  | Impact: -0.001649
+15.  result              | Impact: -0.001397
+16. ee                   | Impact: -0.001380
+17.  ;                   | Impact: -0.001314
+18. sin                  | Impact: -0.001068
+19.  spa                 | Impact: -0.000992
+20. mas                  | Impact: -0.000992

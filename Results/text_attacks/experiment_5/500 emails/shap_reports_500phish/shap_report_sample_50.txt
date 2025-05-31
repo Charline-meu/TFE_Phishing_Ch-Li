@@ -1,0 +1,75 @@
+Sample 50
+=========
+
+Sample text preview: ================================= Guaranteed to increase, lift and firm your breasts in days or your money back!! % herbal and natural. Proven formula...
+
+Model prediction: [2.3618422e-04 9.9976379e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  money               | Impact: 0.103783 → PHISHING
+ 2.  your                | Impact: 0.055118 → PHISHING
+ 3.  your                | Impact: 0.051070 → PHISHING
+ 4.  click               | Impact: 0.044668 → PHISHING
+ 5.  firm                | Impact: 0.028798 → PHISHING
+ 6.  lift                | Impact: 0.028121 → PHISHING
+ 7.  standard            | Impact: -0.027979 → LEGITIMATE
+ 8.  affiliates          | Impact: -0.027979 → LEGITIMATE
+ 9.  !                   | Impact: 0.026489 → PHISHING
+10.  yourself            | Impact: 0.025520 → PHISHING
+11.  breasts             | Impact: 0.024692 → PHISHING
+12.  back                | Impact: 0.022407 → PHISHING
+13.  remove              | Impact: 0.020871 → PHISHING
+14.  increase            | Impact: 0.020643 → PHISHING
+15.  your                | Impact: 0.020643 → PHISHING
+16.  trust               | Impact: 0.020436 → PHISHING
+17.  !                   | Impact: 0.020436 → PHISHING
+18.  %                   | Impact: 0.019374 → PHISHING
+19.  guaranteed          | Impact: 0.019374 → PHISHING
+20.  and                 | Impact: 0.019374 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.103783
+ 2.  your                | Impact: 0.055118
+ 3.  your                | Impact: 0.051070
+ 4.  click               | Impact: 0.044668
+ 5.  firm                | Impact: 0.028798
+ 6.  lift                | Impact: 0.028121
+ 7.  !                   | Impact: 0.026489
+ 8.  yourself            | Impact: 0.025520
+ 9.  breasts             | Impact: 0.024692
+10.  back                | Impact: 0.022407
+11.  remove              | Impact: 0.020871
+12.  increase            | Impact: 0.020643
+13.  your                | Impact: 0.020643
+14.  trust               | Impact: 0.020436
+15.  !                   | Impact: 0.020436
+16.  %                   | Impact: 0.019374
+17.  guaranteed          | Impact: 0.019374
+18.  and                 | Impact: 0.019374
+19.  and                 | Impact: 0.018926
+20.  proven              | Impact: 0.015620
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  standard            | Impact: -0.027979
+ 2.  affiliates          | Impact: -0.027979
+ 3.  to                  | Impact: -0.011419
+ 4.  the                 | Impact: -0.011419
+ 5.  or                  | Impact: -0.005831
+ 6.  .                   | Impact: -0.005699
+ 7.  all                 | Impact: -0.003558
+ 8.  related             | Impact: -0.003558
+ 9.  sub                 | Impact: -0.003406
+10. scribe               | Impact: -0.003406
+11. r                    | Impact: -0.003406
+12.  email               | Impact: -0.001890
+13.  lists               | Impact: -0.001890
+14.  mail                | Impact: -0.001285
+15. ing                  | Impact: -0.001285
+16.  list                | Impact: -0.001285
+17.  .                   | Impact: -0.001285
+18.  *                   | Impact: -0.000310
+19.  *                   | Impact: -0.000310
+20.  *                   | Impact: -0.000310

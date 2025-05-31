@@ -1,0 +1,75 @@
+Sample 377
+==========
+
+Sample text preview: Daren: On May ,, the above meter flowed Mmbtus from HPL's pipeline. This is the only day that this meter flowed during the period of // thru //. Curre...
+
+Model prediction: [9.9978775e-01 2.1225963e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  volume              | Impact: -0.004066 → LEGITIMATE
+ 2.  approval            | Impact: -0.004012 → LEGITIMATE
+ 3.  for                 | Impact: -0.001462 → LEGITIMATE
+ 4.  gas                 | Impact: -0.001390 → LEGITIMATE
+ 5. em                   | Impact: 0.001344 → PHISHING
+ 6.  thanks              | Impact: -0.001335 → LEGITIMATE
+ 7.  gas                 | Impact: -0.001288 → LEGITIMATE
+ 8.  )                   | Impact: 0.001191 → PHISHING
+ 9.  loss                | Impact: -0.001157 → LEGITIMATE
+10.  hp                  | Impact: -0.001150 → LEGITIMATE
+11. l                    | Impact: -0.001150 → LEGITIMATE
+12.  .                   | Impact: -0.001123 → LEGITIMATE
+13.  _                   | Impact: 0.001112 → PHISHING
+14.  _                   | Impact: 0.001067 → PHISHING
+15.  for                 | Impact: -0.001046 → LEGITIMATE
+16.  write               | Impact: -0.001040 → LEGITIMATE
+17.  sign                | Impact: 0.001007 → PHISHING
+18.  _                   | Impact: 0.000960 → PHISHING
+19.  _                   | Impact: 0.000865 → PHISHING
+20.  cl                  | Impact: -0.000823 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1. em                   | Impact: 0.001344
+ 2.  )                   | Impact: 0.001191
+ 3.  _                   | Impact: 0.001112
+ 4.  _                   | Impact: 0.001067
+ 5.  sign                | Impact: 0.001007
+ 6.  _                   | Impact: 0.000960
+ 7.  _                   | Impact: 0.000865
+ 8.  _                   | Impact: 0.000675
+ 9.  _                   | Impact: 0.000623
+10.  currently           | Impact: 0.000580
+11.  booked              | Impact: 0.000556
+12.  from                | Impact: 0.000552
+13.  _                   | Impact: 0.000546
+14.  _                   | Impact: 0.000546
+15.  _                   | Impact: 0.000519
+16.  _                   | Impact: 0.000490
+17.  _                   | Impact: 0.000473
+18.  _                   | Impact: 0.000473
+19.  _                   | Impact: 0.000431
+20.  ,                   | Impact: 0.000414
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  volume              | Impact: -0.004066
+ 2.  approval            | Impact: -0.004012
+ 3.  for                 | Impact: -0.001462
+ 4.  gas                 | Impact: -0.001390
+ 5.  thanks              | Impact: -0.001335
+ 6.  gas                 | Impact: -0.001288
+ 7.  loss                | Impact: -0.001157
+ 8.  hp                  | Impact: -0.001150
+ 9. l                    | Impact: -0.001150
+10.  .                   | Impact: -0.001123
+11.  for                 | Impact: -0.001046
+12.  write               | Impact: -0.001040
+13.  cl                  | Impact: -0.000823
+14.  ,                   | Impact: -0.000774
+15.  the                 | Impact: -0.000774
+16. off                  | Impact: -0.000680
+17.  strangers           | Impact: -0.000670
+18.  gas                 | Impact: -0.000670
+19.  contract            | Impact: -0.000670
+20.  hp                  | Impact: -0.000661

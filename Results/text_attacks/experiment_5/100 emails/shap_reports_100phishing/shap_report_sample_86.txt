@@ -1,0 +1,75 @@
+Phishing Sample 86
+==================
+
+Sample text preview: GOODDAY, WE ARE VERY SORRY IF THIS MIGHT OFFEND YOU, THOUGH WE DONT KNOW YOU BUT I AND MY YOUNG BROTHER BELIEVE THAT THE SPIRIT OF OUR FATHER STILL LE...
+
+Model prediction: [1.7562429e-04 9.9982435e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  contact             | Impact: 0.006453 → PHISHING
+ 2. ing                  | Impact: 0.006453 → PHISHING
+ 3.  you                 | Impact: 0.006453 → PHISHING
+ 4.  for                 | Impact: 0.006453 → PHISHING
+ 5.  your                | Impact: 0.006121 → PHISHING
+ 6.  full                | Impact: 0.006121 → PHISHING
+ 7.  name                | Impact: 0.006121 → PHISHING
+ 8.  my                  | Impact: 0.005380 → PHISHING
+ 9.  young               | Impact: 0.005380 → PHISHING
+10.  brother             | Impact: 0.005380 → PHISHING
+11.  are                 | Impact: 0.005380 → PHISHING
+12.  and                 | Impact: 0.005138 → PHISHING
+13.  son                 | Impact: 0.005138 → PHISHING
+14.  of                  | Impact: 0.005138 → PHISHING
+15.  late                | Impact: 0.005138 → PHISHING
+16.  mr                  | Impact: 0.005138 → PHISHING
+17.  .                   | Impact: 0.004654 → PHISHING
+18.  your                | Impact: 0.004654 → PHISHING
+19.  full                | Impact: 0.004654 → PHISHING
+20.  name                | Impact: 0.004654 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.006453
+ 2. ing                  | Impact: 0.006453
+ 3.  you                 | Impact: 0.006453
+ 4.  for                 | Impact: 0.006453
+ 5.  your                | Impact: 0.006121
+ 6.  full                | Impact: 0.006121
+ 7.  name                | Impact: 0.006121
+ 8.  my                  | Impact: 0.005380
+ 9.  young               | Impact: 0.005380
+10.  brother             | Impact: 0.005380
+11.  are                 | Impact: 0.005380
+12.  and                 | Impact: 0.005138
+13.  son                 | Impact: 0.005138
+14.  of                  | Impact: 0.005138
+15.  late                | Impact: 0.005138
+16.  mr                  | Impact: 0.005138
+17.  .                   | Impact: 0.004654
+18.  your                | Impact: 0.004654
+19.  full                | Impact: 0.004654
+20.  name                | Impact: 0.004654
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.000437
+ 2.  .                   | Impact: -0.000437
+ 3.  .                   | Impact: -0.000437
+ 4.  .                   | Impact: -0.000437
+ 5.  .                   | Impact: -0.000437
+ 6.  .                   | Impact: -0.000437
+ 7.  .                   | Impact: -0.000437
+ 8.  .                   | Impact: -0.000437
+ 9.  .                   | Impact: -0.000437
+10.  .                   | Impact: -0.000437
+11.  .                   | Impact: -0.000437
+12.  .                   | Impact: -0.000437
+13.  .                   | Impact: -0.000437
+14.  .                   | Impact: -0.000437
+15.  .                   | Impact: -0.000437
+16.  nationality         | Impact: -0.000437
+17.  .                   | Impact: -0.000437
+18.  .                   | Impact: -0.000105
+19.  .                   | Impact: -0.000105
+20.  .                   | Impact: -0.000105

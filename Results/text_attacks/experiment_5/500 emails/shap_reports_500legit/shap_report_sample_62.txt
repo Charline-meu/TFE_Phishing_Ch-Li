@@ -1,0 +1,75 @@
+Sample 62
+=========
+
+Sample text preview: You might be better asking this on the spamassassin-talk list. The folks there will almost definitely have an answer for this. On Thu, Sep , David Ree...
+
+Model prediction: [9.9976510e-01 2.3486068e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.002455 → LEGITIMATE
+ 2.  users               | Impact: -0.002455 → LEGITIMATE
+ 3.  os                  | Impact: -0.001506 → LEGITIMATE
+ 4. d                    | Impact: -0.001506 → LEGITIMATE
+ 5. n                    | Impact: -0.001506 → LEGITIMATE
+ 6. sas                  | Impact: 0.001172 → PHISHING
+ 7.  razor               | Impact: -0.001110 → LEGITIMATE
+ 8.  ,                   | Impact: -0.001110 → LEGITIMATE
+ 9. sin                  | Impact: 0.001080 → PHISHING
+10.  first               | Impact: -0.000927 → LEGITIMATE
+11.  time                | Impact: -0.000927 → LEGITIMATE
+12.  running             | Impact: -0.000927 → LEGITIMATE
+13.  razor               | Impact: -0.000927 → LEGITIMATE
+14.  by                  | Impact: -0.000913 → LEGITIMATE
+15.  :                   | Impact: -0.000913 → LEGITIMATE
+16.  david               | Impact: -0.000873 → LEGITIMATE
+17.  rees                | Impact: -0.000873 → LEGITIMATE
+18.  wrote               | Impact: -0.000873 → LEGITIMATE
+19.  :                   | Impact: -0.000873 → LEGITIMATE
+20.  list                | Impact: -0.000869 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1. sas                  | Impact: 0.001172
+ 2. sin                  | Impact: 0.001080
+ 3.  spa                 | Impact: 0.000744
+ 4. mas                  | Impact: 0.000744
+ 5.  i                   | Impact: 0.000485
+ 6.  '                   | Impact: 0.000485
+ 7. sas                  | Impact: 0.000464
+ 8. sin                  | Impact: 0.000464
+ 9.  new                 | Impact: 0.000441
+10.  here                | Impact: 0.000441
+11.  spa                 | Impact: 0.000376
+12. mas                  | Impact: 0.000376
+13.  _                   | Impact: 0.000249
+14.  _                   | Impact: 0.000249
+15.  _                   | Impact: 0.000249
+16.  _                   | Impact: 0.000249
+17.  _                   | Impact: 0.000207
+18.  _                   | Impact: 0.000207
+19.  _                   | Impact: 0.000207
+20.  _                   | Impact: 0.000207
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.002455
+ 2.  users               | Impact: -0.002455
+ 3.  os                  | Impact: -0.001506
+ 4. d                    | Impact: -0.001506
+ 5. n                    | Impact: -0.001506
+ 6.  razor               | Impact: -0.001110
+ 7.  ,                   | Impact: -0.001110
+ 8.  first               | Impact: -0.000927
+ 9.  time                | Impact: -0.000927
+10.  running             | Impact: -0.000927
+11.  razor               | Impact: -0.000927
+12.  by                  | Impact: -0.000913
+13.  :                   | Impact: -0.000913
+14.  david               | Impact: -0.000873
+15.  rees                | Impact: -0.000873
+16.  wrote               | Impact: -0.000873
+17.  :                   | Impact: -0.000873
+18.  list                | Impact: -0.000869
+19.                      | Impact: -0.000869
+20.  os                  | Impact: -0.000846

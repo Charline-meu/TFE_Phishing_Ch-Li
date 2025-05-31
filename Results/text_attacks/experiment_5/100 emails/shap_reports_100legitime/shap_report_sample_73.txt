@@ -1,0 +1,71 @@
+Phishing Sample 73
+==================
+
+Sample text preview: Mark, The following list is to be used when compiling the windsystem full power test. We will use the SCADA -average data. Turbines need to be grouped...
+
+Model prediction: [9.9982101e-01 1.7907459e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  analysis            | Impact: -0.007253 → LEGITIMATE
+ 2. ron                  | Impact: -0.005892 → LEGITIMATE
+ 3.  -                   | Impact: -0.004709 → LEGITIMATE
+ 4.  our                 | Impact: -0.003880 → LEGITIMATE
+ 5.  method              | Impact: -0.003880 → LEGITIMATE
+ 6.  :                   | Impact: -0.003591 → LEGITIMATE
+ 7.  en                  | Impact: -0.003122 → LEGITIMATE
+ 8.  -                   | Impact: -0.002877 → LEGITIMATE
+ 9.  -                   | Impact: -0.002814 → LEGITIMATE
+10.  en                  | Impact: -0.002229 → LEGITIMATE
+11. ron                  | Impact: -0.002229 → LEGITIMATE
+12.  -                   | Impact: -0.002151 → LEGITIMATE
+13. ron                  | Impact: -0.002033 → LEGITIMATE
+14.  -                   | Impact: -0.001960 → LEGITIMATE
+15.  com                 | Impact: -0.001949 → LEGITIMATE
+16. pile                 | Impact: -0.001949 → LEGITIMATE
+17. ron                  | Impact: -0.001938 → LEGITIMATE
+18.  en                  | Impact: -0.001883 → LEGITIMATE
+19. ron                  | Impact: -0.001883 → LEGITIMATE
+20.  run                 | Impact: -0.001780 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  s                   | Impact: 0.001763
+ 2.  @                   | Impact: 0.000863
+ 3.  i                   | Impact: 0.000510
+ 4.  or                  | Impact: 0.000510
+ 5.  at                  | Impact: 0.000473
+ 6.  desert              | Impact: 0.000473
+ 7.  and                 | Impact: 0.000358
+ 8.  sky                 | Impact: 0.000314
+ 9.                      | Impact: 0.000314
+10.  @                   | Impact: 0.000276
+11.  @                   | Impact: 0.000270
+12.  ,                   | Impact: 0.000219
+13.  .                   | Impact: 0.000163
+14.                      | Impact: 0.000163
+15.  mark                | Impact: 0.000163
+16.  ,                   | Impact: 0.000163
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  analysis            | Impact: -0.007253
+ 2. ron                  | Impact: -0.005892
+ 3.  -                   | Impact: -0.004709
+ 4.  our                 | Impact: -0.003880
+ 5.  method              | Impact: -0.003880
+ 6.  :                   | Impact: -0.003591
+ 7.  en                  | Impact: -0.003122
+ 8.  -                   | Impact: -0.002877
+ 9.  -                   | Impact: -0.002814
+10.  en                  | Impact: -0.002229
+11. ron                  | Impact: -0.002229
+12.  -                   | Impact: -0.002151
+13. ron                  | Impact: -0.002033
+14.  -                   | Impact: -0.001960
+15.  com                 | Impact: -0.001949
+16. pile                 | Impact: -0.001949
+17. ron                  | Impact: -0.001938
+18.  en                  | Impact: -0.001883
+19. ron                  | Impact: -0.001883
+20.  run                 | Impact: -0.001780

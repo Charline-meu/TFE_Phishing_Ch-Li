@@ -1,0 +1,75 @@
+Phishing Sample 51
+==================
+
+Sample text preview: Takers galore possibly (me inclusive). Especially when the subject is more on-topic :-) Gary. On Wed, Aug , at ::AM +, Wynne, Conor wrote: > All right...
+
+Model prediction: [9.9978608e-01 2.1390263e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  conor               | Impact: -0.008803 → LEGITIMATE
+ 2.  ?                   | Impact: 0.005700 → PHISHING
+ 3.  wynn                | Impact: -0.005010 → LEGITIMATE
+ 4.  aug                 | Impact: -0.004445 → LEGITIMATE
+ 5.  .                   | Impact: -0.003865 → LEGITIMATE
+ 6.  :                   | Impact: -0.003779 → LEGITIMATE
+ 7.  ?                   | Impact: 0.003376 → PHISHING
+ 8.  possibly            | Impact: 0.003006 → PHISHING
+ 9.  mentioned           | Impact: -0.002615 → LEGITIMATE
+10. rs                   | Impact: 0.002609 → PHISHING
+11.  )                   | Impact: -0.002413 → LEGITIMATE
+12.  when                | Impact: -0.002001 → LEGITIMATE
+13.  topic               | Impact: -0.001856 → LEGITIMATE
+14.  :                   | Impact: -0.001831 → LEGITIMATE
+15.  to                  | Impact: 0.001804 → PHISHING
+16.  >                   | Impact: -0.001733 → LEGITIMATE
+17.  we                  | Impact: 0.001710 → PHISHING
+18.  >                   | Impact: -0.001581 → LEGITIMATE
+19.  wed                 | Impact: 0.001509 → PHISHING
+20.  >                   | Impact: -0.001368 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ?                   | Impact: 0.005700
+ 2.  ?                   | Impact: 0.003376
+ 3.  possibly            | Impact: 0.003006
+ 4. rs                   | Impact: 0.002609
+ 5.  to                  | Impact: 0.001804
+ 6.  we                  | Impact: 0.001710
+ 7.  wed                 | Impact: 0.001509
+ 8.  take                | Impact: 0.001206
+ 9. e                    | Impact: 0.001154
+10.  (                   | Impact: 0.000994
+11.  -                   | Impact: 0.000979
+12. t                    | Impact: 0.000819
+13.  were                | Impact: 0.000785
+14.  >                   | Impact: 0.000736
+15. rs                   | Impact: 0.000640
+16.  have                | Impact: 0.000580
+17.  going               | Impact: 0.000576
+18.  st                  | Impact: 0.000566
+19.  do                  | Impact: 0.000538
+20.  take                | Impact: 0.000521
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  conor               | Impact: -0.008803
+ 2.  wynn                | Impact: -0.005010
+ 3.  aug                 | Impact: -0.004445
+ 4.  .                   | Impact: -0.003865
+ 5.  :                   | Impact: -0.003779
+ 6.  mentioned           | Impact: -0.002615
+ 7.  )                   | Impact: -0.002413
+ 8.  when                | Impact: -0.002001
+ 9.  topic               | Impact: -0.001856
+10.  :                   | Impact: -0.001831
+11.  >                   | Impact: -0.001733
+12.  >                   | Impact: -0.001581
+13.  >                   | Impact: -0.001368
+14.  >                   | Impact: -0.001194
+15.  ,                   | Impact: -0.001159
+16.  conor               | Impact: -0.001045
+17.  wrote               | Impact: -0.000993
+18.  >                   | Impact: -0.000956
+19.  >                   | Impact: -0.000945
+20.  )                   | Impact: -0.000921

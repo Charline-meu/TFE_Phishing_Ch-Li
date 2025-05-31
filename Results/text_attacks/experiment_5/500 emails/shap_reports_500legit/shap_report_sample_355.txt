@@ -1,0 +1,73 @@
+Sample 355
+==========
+
+Sample text preview: > Curiously, when I go into the boot prom, an use > > "set_params" I can tell it to mount /dev/hda as root. But > then it uses the PROM copy of the ke...
+
+Model prediction: [9.997943e-01 2.056867e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  old                 | Impact: 0.009721 → PHISHING
+ 2.  cobalt              | Impact: -0.008774 → LEGITIMATE
+ 3.  you                 | Impact: -0.006653 → LEGITIMATE
+ 4.  maintain            | Impact: -0.005856 → LEGITIMATE
+ 5.  it                  | Impact: -0.004964 → LEGITIMATE
+ 6. er                   | Impact: -0.004702 → LEGITIMATE
+ 7.  :                   | Impact: -0.004167 → LEGITIMATE
+ 8.  get                 | Impact: -0.004071 → LEGITIMATE
+ 9.  did                 | Impact: -0.003727 → LEGITIMATE
+10. ps                   | Impact: -0.003573 → LEGITIMATE
+11.  boot                | Impact: -0.003226 → LEGITIMATE
+12.  boot                | Impact: -0.003040 → LEGITIMATE
+13.  ?                   | Impact: 0.003013 → PHISHING
+14.  >                   | Impact: -0.002912 → LEGITIMATE
+15.  ?                   | Impact: 0.002860 → PHISHING
+16.  dev                 | Impact: -0.002822 → LEGITIMATE
+17.  curiously           | Impact: -0.002784 → LEGITIMATE
+18.  -                   | Impact: -0.002745 → LEGITIMATE
+19.  kernel              | Impact: -0.002583 → LEGITIMATE
+20.  list                | Impact: -0.002581 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  old                 | Impact: 0.009721
+ 2.  ?                   | Impact: 0.003013
+ 3.  ?                   | Impact: 0.002860
+ 4.  (                   | Impact: 0.001737
+ 5.  prom                | Impact: 0.001191
+ 6.  an                  | Impact: 0.001036
+ 7.  based               | Impact: 0.000769
+ 8.  /                   | Impact: 0.000581
+ 9.  subscription        | Impact: 0.000421
+10. k                    | Impact: 0.000372
+11.  this                | Impact: 0.000360
+12.  mount               | Impact: 0.000336
+13.  of                  | Impact: 0.000316
+14.  )                   | Impact: 0.000261
+15.  one                 | Impact: 0.000181
+16.  the                 | Impact: 0.000020
+17.  prom                | Impact: 0.000020
+18.  set                 | Impact: 0.000004
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  cobalt              | Impact: -0.008774
+ 2.  you                 | Impact: -0.006653
+ 3.  maintain            | Impact: -0.005856
+ 4.  it                  | Impact: -0.004964
+ 5. er                   | Impact: -0.004702
+ 6.  :                   | Impact: -0.004167
+ 7.  get                 | Impact: -0.004071
+ 8.  did                 | Impact: -0.003727
+ 9. ps                   | Impact: -0.003573
+10.  boot                | Impact: -0.003226
+11.  boot                | Impact: -0.003040
+12.  >                   | Impact: -0.002912
+13.  dev                 | Impact: -0.002822
+14.  curiously           | Impact: -0.002784
+15.  -                   | Impact: -0.002745
+16.  kernel              | Impact: -0.002583
+17.  list                | Impact: -0.002581
+18.  un                  | Impact: -0.002527
+19.  >                   | Impact: -0.002401
+20.  -                   | Impact: -0.002341

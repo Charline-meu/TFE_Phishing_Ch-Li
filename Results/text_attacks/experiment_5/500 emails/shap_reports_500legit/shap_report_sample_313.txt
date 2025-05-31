@@ -1,0 +1,75 @@
+Sample 313
+==========
+
+Sample text preview: I have a situation with a small network as follows: A number of client workstations which are running VMware, each of which will run a local copy of S...
+
+Model prediction: [9.9973637e-01 2.6366935e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  follows             | Impact: -0.003926 → LEGITIMATE
+ 2.  :                   | Impact: -0.003874 → LEGITIMATE
+ 3.  etc                 | Impact: -0.003736 → LEGITIMATE
+ 4. tation               | Impact: -0.003494 → LEGITIMATE
+ 5.  :                   | Impact: -0.003476 → LEGITIMATE
+ 6.  list                | Impact: -0.003189 → LEGITIMATE
+ 7.  controllers         | Impact: -0.003047 → LEGITIMATE
+ 8.  domain              | Impact: -0.002849 → LEGITIMATE
+ 9.  niall               | Impact: -0.002544 → LEGITIMATE
+10.  linux               | Impact: -0.002334 → LEGITIMATE
+11.  linux               | Impact: -0.002221 → LEGITIMATE
+12. er                   | Impact: -0.002133 → LEGITIMATE
+13.  .                   | Impact: -0.002080 → LEGITIMATE
+14.  .                   | Impact: -0.002066 → LEGITIMATE
+15.  ideas               | Impact: -0.001334 → LEGITIMATE
+16.  running             | Impact: -0.001334 → LEGITIMATE
+17.  works               | Impact: -0.001304 → LEGITIMATE
+18.  .                   | Impact: -0.001262 → LEGITIMATE
+19.  allow               | Impact: -0.001220 → LEGITIMATE
+20.  ,                   | Impact: -0.001213 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  number              | Impact: 0.001078
+ 2.  client              | Impact: 0.001044
+ 3.  a                   | Impact: 0.000985
+ 4.  samba               | Impact: 0.000764
+ 5.  about               | Impact: 0.000688
+ 6.  of                  | Impact: 0.000645
+ 7.  i                   | Impact: 0.000464
+ 8.  never               | Impact: 0.000464
+ 9.  ve                  | Impact: 0.000372
+10.  never               | Impact: 0.000372
+11.  wanted              | Impact: 0.000372
+12.  to                  | Impact: 0.000372
+13.  ,                   | Impact: 0.000234
+14.  a                   | Impact: 0.000204
+15.  stuff               | Impact: 0.000192
+16.  run                 | Impact: 0.000191
+17.  clients             | Impact: 0.000184
+18.  small               | Impact: 0.000180
+19. s                    | Impact: 0.000151
+20.  network             | Impact: 0.000138
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  follows             | Impact: -0.003926
+ 2.  :                   | Impact: -0.003874
+ 3.  etc                 | Impact: -0.003736
+ 4. tation               | Impact: -0.003494
+ 5.  :                   | Impact: -0.003476
+ 6.  list                | Impact: -0.003189
+ 7.  controllers         | Impact: -0.003047
+ 8.  domain              | Impact: -0.002849
+ 9.  niall               | Impact: -0.002544
+10.  linux               | Impact: -0.002334
+11.  linux               | Impact: -0.002221
+12. er                   | Impact: -0.002133
+13.  .                   | Impact: -0.002080
+14.  .                   | Impact: -0.002066
+15.  ideas               | Impact: -0.001334
+16.  running             | Impact: -0.001334
+17.  works               | Impact: -0.001304
+18.  .                   | Impact: -0.001262
+19.  allow               | Impact: -0.001220
+20.  ,                   | Impact: -0.001213

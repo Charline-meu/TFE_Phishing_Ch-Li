@@ -1,0 +1,61 @@
+Sample 460
+==========
+
+Sample text preview: Dear Sir/ Madam, I am Mr Daniel Abdul-Latif Dusba years old from Republic of Rwanda In East Africa, legal first son of late Dr Mohammed Abdul-Latif Du...
+
+Model prediction: [1.8742641e-04 9.9981254e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bank                | Impact: 0.008695 → PHISHING
+ 2.  account             | Impact: 0.008695 → PHISHING
+ 3.  ,                   | Impact: 0.008695 → PHISHING
+ 4.  money               | Impact: 0.008101 → PHISHING
+ 5.  to                  | Impact: 0.008101 → PHISHING
+ 6.  me                  | Impact: 0.008101 → PHISHING
+ 7.  and                 | Impact: 0.008101 → PHISHING
+ 8.  to                  | Impact: 0.006629 → PHISHING
+ 9.  your                | Impact: 0.006629 → PHISHING
+10.  been                | Impact: 0.006019 → PHISHING
+11.  made                | Impact: 0.006019 → PHISHING
+12.  continue            | Impact: 0.005874 → PHISHING
+13.  with                | Impact: 0.005874 → PHISHING
+14.  our                 | Impact: 0.005874 → PHISHING
+15.  life                | Impact: 0.005874 → PHISHING
+16.  my                  | Impact: 0.005594 → PHISHING
+17.  late                | Impact: 0.005594 → PHISHING
+18.  father              | Impact: 0.005594 → PHISHING
+19.  loves               | Impact: 0.005594 → PHISHING
+20.  my                  | Impact: 0.005583 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.008695
+ 2.  account             | Impact: 0.008695
+ 3.  ,                   | Impact: 0.008695
+ 4.  money               | Impact: 0.008101
+ 5.  to                  | Impact: 0.008101
+ 6.  me                  | Impact: 0.008101
+ 7.  and                 | Impact: 0.008101
+ 8.  to                  | Impact: 0.006629
+ 9.  your                | Impact: 0.006629
+10.  been                | Impact: 0.006019
+11.  made                | Impact: 0.006019
+12.  continue            | Impact: 0.005874
+13.  with                | Impact: 0.005874
+14.  our                 | Impact: 0.005874
+15.  life                | Impact: 0.005874
+16.  my                  | Impact: 0.005594
+17.  late                | Impact: 0.005594
+18.  father              | Impact: 0.005594
+19.  loves               | Impact: 0.005594
+20.  my                  | Impact: 0.005583
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  secure              | Impact: -0.000013
+ 2.  a                   | Impact: -0.000013
+ 3.  better              | Impact: -0.000013
+ 4.  medical             | Impact: -0.000013
+ 5.  treatment           | Impact: -0.000013
+ 6.  ,                   | Impact: -0.000013

@@ -1,0 +1,49 @@
+Phishing Sample 22
+==================
+
+Sample text preview: Unfortunately I cannot play on Sunday. We will try the following weekend. Thanks
+
+Model prediction: [9.9970502e-01 2.9495487e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sunday              | Impact: -0.156650 → LEGITIMATE
+ 2.  weekend             | Impact: -0.096984 → LEGITIMATE
+ 3.  cannot              | Impact: 0.056044 → PHISHING
+ 4.  will                | Impact: -0.036890 → LEGITIMATE
+ 5.  i                   | Impact: 0.030407 → PHISHING
+ 6.  play                | Impact: -0.027764 → LEGITIMATE
+ 7.  we                  | Impact: 0.023499 → PHISHING
+ 8.  the                 | Impact: 0.018488 → PHISHING
+ 9.  thanks              | Impact: -0.017138 → LEGITIMATE
+10.  .                   | Impact: 0.016913 → PHISHING
+11.  .                   | Impact: -0.016433 → LEGITIMATE
+12.  unfortunately       | Impact: 0.016004 → PHISHING
+13.  on                  | Impact: 0.012453 → PHISHING
+14.  try                 | Impact: 0.005341 → PHISHING
+15.  following           | Impact: 0.002268 → PHISHING
+16.                      | Impact: 0.000000 → PHISHING
+17.                      | Impact: -0.000000 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  cannot              | Impact: 0.056044
+ 2.  i                   | Impact: 0.030407
+ 3.  we                  | Impact: 0.023499
+ 4.  the                 | Impact: 0.018488
+ 5.  .                   | Impact: 0.016913
+ 6.  unfortunately       | Impact: 0.016004
+ 7.  on                  | Impact: 0.012453
+ 8.  try                 | Impact: 0.005341
+ 9.  following           | Impact: 0.002268
+10.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  sunday              | Impact: -0.156650
+ 2.  weekend             | Impact: -0.096984
+ 3.  will                | Impact: -0.036890
+ 4.  play                | Impact: -0.027764
+ 5.  thanks              | Impact: -0.017138
+ 6.  .                   | Impact: -0.016433
+ 7.                      | Impact: -0.000000

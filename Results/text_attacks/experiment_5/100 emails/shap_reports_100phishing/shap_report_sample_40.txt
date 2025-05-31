@@ -1,0 +1,75 @@
+Phishing Sample 40
+==================
+
+Sample text preview: FROM ELINA BOLETI INTERNATIONAL PROMOTIONS/PRIZE AWARD DEPARTMENT RESULTS FOR CATEGORY "A" DRAWS Congratulations to you as we bring to your notice, th...
+
+Model prediction: [6.8547239e-04 9.9931455e-01]
+Predicted class: PHISHING with 0.9993 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: 0.022326 → PHISHING
+ 2.  mail                | Impact: 0.022326 → PHISHING
+ 3.  address             | Impact: 0.022326 → PHISHING
+ 4.  your                | Impact: 0.022241 → PHISHING
+ 5.  e                   | Impact: 0.022241 → PHISHING
+ 6.  your                | Impact: 0.010092 → PHISHING
+ 7.  fund                | Impact: 0.010092 → PHISHING
+ 8.  is                  | Impact: 0.010092 → PHISHING
+ 9.  now                 | Impact: 0.010092 → PHISHING
+10.  our                 | Impact: 0.008889 → PHISHING
+11.  international       | Impact: 0.008889 → PHISHING
+12.  promotions          | Impact: 0.008889 → PHISHING
+13.  program             | Impact: 0.008889 → PHISHING
+14.  you                 | Impact: 0.008303 → PHISHING
+15.  have                | Impact: 0.008303 → PHISHING
+16.  therefore           | Impact: 0.008303 → PHISHING
+17.  been                | Impact: 0.008303 → PHISHING
+18.  awarded             | Impact: 0.008164 → PHISHING
+19.  a                   | Impact: 0.008164 → PHISHING
+20.  lump                | Impact: 0.008164 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  -                   | Impact: 0.022326
+ 2.  mail                | Impact: 0.022326
+ 3.  address             | Impact: 0.022326
+ 4.  your                | Impact: 0.022241
+ 5.  e                   | Impact: 0.022241
+ 6.  your                | Impact: 0.010092
+ 7.  fund                | Impact: 0.010092
+ 8.  is                  | Impact: 0.010092
+ 9.  now                 | Impact: 0.010092
+10.  our                 | Impact: 0.008889
+11.  international       | Impact: 0.008889
+12.  promotions          | Impact: 0.008889
+13.  program             | Impact: 0.008889
+14.  you                 | Impact: 0.008303
+15.  have                | Impact: 0.008303
+16.  therefore           | Impact: 0.008303
+17.  been                | Impact: 0.008303
+18.  awarded             | Impact: 0.008164
+19.  a                   | Impact: 0.008164
+20.  lump                | Impact: 0.008164
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.003020
+ 2.  +                   | Impact: -0.003020
+ 3.  -                   | Impact: -0.003020
+ 4.  -                   | Impact: -0.003020
+ 5.  -                   | Impact: -0.003020
+ 6.  .                   | Impact: -0.003020
+ 7.  telephone           | Impact: -0.002747
+ 8.  :                   | Impact: -0.002747
+ 9.  +                   | Impact: -0.002747
+10.  -                   | Impact: -0.002747
+11.  -                   | Impact: -0.002747
+12.  -                   | Impact: -0.002747
+13.  fa                  | Impact: -0.002747
+14. x                    | Impact: -0.002747
+15.  george              | Impact: -0.002545
+16.  alan                | Impact: -0.002545
+17.  .                   | Impact: -0.002545
+18.  amsterdam           | Impact: -0.002545
+19.  ,                   | Impact: -0.002545
+20.  the                 | Impact: -0.002545

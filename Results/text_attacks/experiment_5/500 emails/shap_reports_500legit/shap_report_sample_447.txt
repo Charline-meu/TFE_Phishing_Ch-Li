@@ -1,0 +1,75 @@
+Sample 447
+==========
+
+Sample text preview: On the st, Tauzin and Barton are holding separate meetings with executives from the respective stakeholder groups in Southern California to have "fran...
+
+Model prediction: [9.9979633e-01 2.0365830e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  jeff                | Impact: -0.006198 → LEGITIMATE
+ 2.  best                | Impact: 0.005316 → PHISHING
+ 3.  ,                   | Impact: -0.004028 → LEGITIMATE
+ 4.  stake               | Impact: -0.003596 → LEGITIMATE
+ 5.  are                 | Impact: 0.003388 → PHISHING
+ 6.  meetings            | Impact: -0.003205 → LEGITIMATE
+ 7.  .                   | Impact: -0.003074 → LEGITIMATE
+ 8.  her                 | Impact: 0.002633 → PHISHING
+ 9.  will                | Impact: 0.002575 → PHISHING
+10.  .                   | Impact: -0.002489 → LEGITIMATE
+11.  soon                | Impact: 0.002434 → PHISHING
+12.  pm                  | Impact: -0.002430 → LEGITIMATE
+13.  "                   | Impact: -0.002225 → LEGITIMATE
+14.  separate            | Impact: -0.002174 → LEGITIMATE
+15. ron                  | Impact: -0.002143 → LEGITIMATE
+16.  holding             | Impact: -0.002129 → LEGITIMATE
+17.  barton              | Impact: -0.002064 → LEGITIMATE
+18.  details             | Impact: 0.002051 → PHISHING
+19.  ,                   | Impact: -0.001824 → LEGITIMATE
+20.  steve               | Impact: -0.001634 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  best                | Impact: 0.005316
+ 2.  are                 | Impact: 0.003388
+ 3.  her                 | Impact: 0.002633
+ 4.  will                | Impact: 0.002575
+ 5.  soon                | Impact: 0.002434
+ 6.  details             | Impact: 0.002051
+ 7.  st                  | Impact: 0.001515
+ 8.  very                | Impact: 0.001471
+ 9.  be                  | Impact: 0.001413
+10.  call                | Impact: 0.001222
+11.  california          | Impact: 0.001006
+12.  on                  | Impact: 0.000982
+13.  she                 | Impact: 0.000748
+14.  in                  | Impact: 0.000667
+15.  executives          | Impact: 0.000592
+16.  robertson           | Impact: 0.000545
+17.  the                 | Impact: 0.000521
+18.  with                | Impact: 0.000380
+19.  d                   | Impact: 0.000206
+20.  like                | Impact: 0.000206
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  jeff                | Impact: -0.006198
+ 2.  ,                   | Impact: -0.004028
+ 3.  stake               | Impact: -0.003596
+ 4.  meetings            | Impact: -0.003205
+ 5.  .                   | Impact: -0.003074
+ 6.  .                   | Impact: -0.002489
+ 7.  pm                  | Impact: -0.002430
+ 8.  "                   | Impact: -0.002225
+ 9.  separate            | Impact: -0.002174
+10. ron                  | Impact: -0.002143
+11.  holding             | Impact: -0.002129
+12.  barton              | Impact: -0.002064
+13.  ,                   | Impact: -0.001824
+14.  steve               | Impact: -0.001634
+15. holder               | Impact: -0.001533
+16.  the                 | Impact: -0.001521
+17.  meeting             | Impact: -0.001521
+18.  en                  | Impact: -0.001471
+19.  .                   | Impact: -0.001245
+20.  at                  | Impact: -0.001162

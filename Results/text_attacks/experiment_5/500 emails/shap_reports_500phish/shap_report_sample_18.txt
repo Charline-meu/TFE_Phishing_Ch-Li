@@ -1,0 +1,75 @@
+Sample 18
+=========
+
+Sample text preview: Atten. [HIGHLY CONFIDENTIAL] [TRANSFER OF [THIRTY SIX MILLION SEVEN HUNDRED AND FIFTY NINE THOUSAND POUNDS STERLINGS] TRANSFER OF ,,. MILLION POUNDS T...
+
+Model prediction: [1.6590870e-04 9.9983406e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  therefore           | Impact: 0.009424 → PHISHING
+ 2.  i                   | Impact: 0.009424 → PHISHING
+ 3.  need                | Impact: 0.009424 → PHISHING
+ 4.  your                | Impact: 0.009424 → PHISHING
+ 5.  million             | Impact: 0.007458 → PHISHING
+ 6.  pounds              | Impact: 0.007458 → PHISHING
+ 7.  to                  | Impact: 0.007458 → PHISHING
+ 8.  your                | Impact: 0.007458 → PHISHING
+ 9.  account             | Impact: 0.007458 → PHISHING
+10.  claim               | Impact: 0.007110 → PHISHING
+11.  this                | Impact: 0.007110 → PHISHING
+12.  money               | Impact: 0.007110 → PHISHING
+13.  with                | Impact: 0.007110 → PHISHING
+14.  o                   | Impact: 0.007013 → PHISHING
+15.  .                   | Impact: 0.007013 → PHISHING
+16.  k                   | Impact: 0.007013 → PHISHING
+17.  !                   | Impact: 0.007013 → PHISHING
+18.  claim               | Impact: 0.006973 → PHISHING
+19.  this                | Impact: 0.006973 → PHISHING
+20.  money               | Impact: 0.006973 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  therefore           | Impact: 0.009424
+ 2.  i                   | Impact: 0.009424
+ 3.  need                | Impact: 0.009424
+ 4.  your                | Impact: 0.009424
+ 5.  million             | Impact: 0.007458
+ 6.  pounds              | Impact: 0.007458
+ 7.  to                  | Impact: 0.007458
+ 8.  your                | Impact: 0.007458
+ 9.  account             | Impact: 0.007458
+10.  claim               | Impact: 0.007110
+11.  this                | Impact: 0.007110
+12.  money               | Impact: 0.007110
+13.  with                | Impact: 0.007110
+14.  o                   | Impact: 0.007013
+15.  .                   | Impact: 0.007013
+16.  k                   | Impact: 0.007013
+17.  !                   | Impact: 0.007013
+18.  claim               | Impact: 0.006973
+19.  this                | Impact: 0.006973
+20.  money               | Impact: 0.006973
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.000119
+ 2.  at                  | Impact: -0.000119
+ 3. ten                  | Impact: -0.000119
+ 4.  .                   | Impact: -0.000119
+ 5.  foreigner           | Impact: -0.000038
+ 6.  because             | Impact: -0.000038
+ 7.  the                 | Impact: -0.000038
+ 8.  former              | Impact: -0.000038
+ 9.  operator            | Impact: -0.000038
+10.  of                  | Impact: -0.000038
+11.  the                 | Impact: -0.000038
+12.  a                   | Impact: -0.000038
+13.  /                   | Impact: -0.000038
+14.  c                   | Impact: -0.000038
+15.  is                  | Impact: -0.000038
+16.  a                   | Impact: -0.000038
+17.  foreigner           | Impact: -0.000038
+18.  .                   | Impact: -0.000038
+19.  [                   | Impact: -0.000018
+20.  highly              | Impact: -0.000018

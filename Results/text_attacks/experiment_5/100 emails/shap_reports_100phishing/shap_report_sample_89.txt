@@ -1,0 +1,75 @@
+Phishing Sample 89
+==================
+
+Sample text preview: Hello, I write to solicit your assistance in a funds transfer deal involving US$ .M.This fund has been stashed out of the excess profit made last year...
+
+Model prediction: [1.835205e-04 9.998165e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  kindly              | Impact: 0.051899 → PHISHING
+ 2.  account             | Impact: 0.040356 → PHISHING
+ 3.  bank                | Impact: 0.036076 → PHISHING
+ 4.  your                | Impact: 0.031886 → PHISHING
+ 5.  designated          | Impact: 0.026867 → PHISHING
+ 6.  your                | Impact: 0.022252 → PHISHING
+ 7.  profit              | Impact: 0.018682 → PHISHING
+ 8.  funds               | Impact: 0.018294 → PHISHING
+ 9.  your                | Impact: 0.017597 → PHISHING
+10.  name                | Impact: 0.017597 → PHISHING
+11.  on                  | Impact: 0.017597 → PHISHING
+12.  our                 | Impact: 0.017597 → PHISHING
+13.  upon                | Impact: 0.016413 → PHISHING
+14.  funds               | Impact: 0.015847 → PHISHING
+15.  transfer            | Impact: 0.015847 → PHISHING
+16.  for                 | Impact: 0.015696 → PHISHING
+17.  you                 | Impact: 0.015696 → PHISHING
+18.  made                | Impact: 0.015041 → PHISHING
+19.  bank                | Impact: 0.014985 → PHISHING
+20.  bank                | Impact: 0.014707 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  kindly              | Impact: 0.051899
+ 2.  account             | Impact: 0.040356
+ 3.  bank                | Impact: 0.036076
+ 4.  your                | Impact: 0.031886
+ 5.  designated          | Impact: 0.026867
+ 6.  your                | Impact: 0.022252
+ 7.  profit              | Impact: 0.018682
+ 8.  funds               | Impact: 0.018294
+ 9.  your                | Impact: 0.017597
+10.  name                | Impact: 0.017597
+11.  on                  | Impact: 0.017597
+12.  our                 | Impact: 0.017597
+13.  upon                | Impact: 0.016413
+14.  funds               | Impact: 0.015847
+15.  transfer            | Impact: 0.015847
+16.  for                 | Impact: 0.015696
+17.  you                 | Impact: 0.015696
+18.  made                | Impact: 0.015041
+19.  bank                | Impact: 0.014985
+20.  bank                | Impact: 0.014707
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  con                 | Impact: -0.007177
+ 2. cu                   | Impact: -0.007177
+ 3. r                    | Impact: -0.007177
+ 4.  report              | Impact: -0.004623
+ 5.  for                 | Impact: -0.004623
+ 6.  if                  | Impact: -0.003789
+ 7.  you                 | Impact: -0.003789
+ 8.  i                   | Impact: -0.002922
+ 9.  have                | Impact: -0.002922
+10.  the                 | Impact: -0.002868
+11.  year                | Impact: -0.002868
+12.  already             | Impact: -0.002384
+13.  submitted           | Impact: -0.002384
+14.  out                 | Impact: -0.001986
+15.  of                  | Impact: -0.001986
+16.  the                 | Impact: -0.001986
+17.  excess              | Impact: -0.001986
+18.  st                  | Impact: -0.001876
+19. ash                  | Impact: -0.001876
+20. ed                   | Impact: -0.001876

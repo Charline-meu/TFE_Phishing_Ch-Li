@@ -1,0 +1,64 @@
+Sample 391
+==========
+
+Sample text preview: FROM THE DESK OF: MR.JEFF VILAGAZI MANAGER BILLS/EXCHANGE. ABSA BANK, JOHANNESBURG SOUTH AFRICA. Dear Sir/ Madam, Firstly, I would like to introduce m...
+
+Model prediction: [1.5988846e-04 9.9984014e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  yourself            | Impact: 0.005996 → PHISHING
+ 2.  as                  | Impact: 0.005996 → PHISHING
+ 3.  the                 | Impact: 0.005996 → PHISHING
+ 4.  rightful            | Impact: 0.005996 → PHISHING
+ 5.  next                | Impact: 0.005996 → PHISHING
+ 6.  of                  | Impact: 0.005996 → PHISHING
+ 7.  kin                 | Impact: 0.005996 → PHISHING
+ 8.  ,                   | Impact: 0.005996 → PHISHING
+ 9.  johannesburg        | Impact: 0.005464 → PHISHING
+10.  south               | Impact: 0.005464 → PHISHING
+11.  africa              | Impact: 0.005464 → PHISHING
+12.  .                   | Impact: 0.005464 → PHISHING
+13.  dear                | Impact: 0.005126 → PHISHING
+14.  sir                 | Impact: 0.005126 → PHISHING
+15.  /                   | Impact: 0.005126 → PHISHING
+16.  madam               | Impact: 0.005126 → PHISHING
+17.  ,                   | Impact: 0.005126 → PHISHING
+18.  we                  | Impact: 0.004886 → PHISHING
+19.  will                | Impact: 0.004886 → PHISHING
+20.  contact             | Impact: 0.004886 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  yourself            | Impact: 0.005996
+ 2.  as                  | Impact: 0.005996
+ 3.  the                 | Impact: 0.005996
+ 4.  rightful            | Impact: 0.005996
+ 5.  next                | Impact: 0.005996
+ 6.  of                  | Impact: 0.005996
+ 7.  kin                 | Impact: 0.005996
+ 8.  ,                   | Impact: 0.005996
+ 9.  johannesburg        | Impact: 0.005464
+10.  south               | Impact: 0.005464
+11.  africa              | Impact: 0.005464
+12.  .                   | Impact: 0.005464
+13.  dear                | Impact: 0.005126
+14.  sir                 | Impact: 0.005126
+15.  /                   | Impact: 0.005126
+16.  madam               | Impact: 0.005126
+17.  ,                   | Impact: 0.005126
+18.  we                  | Impact: 0.004886
+19.  will                | Impact: 0.004886
+20.  contact             | Impact: 0.004886
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  which               | Impact: -0.000180
+ 2.  give                | Impact: -0.000180
+ 3.  you                 | Impact: -0.000180
+ 4.  a                   | Impact: -0.000180
+ 5.  claim               | Impact: -0.000180
+ 6.  to                  | Impact: -0.000180
+ 7.  the                 | Impact: -0.000180
+ 8.  funds               | Impact: -0.000180
+ 9.  .                   | Impact: -0.000180

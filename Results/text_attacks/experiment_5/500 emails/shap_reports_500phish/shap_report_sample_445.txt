@@ -1,0 +1,75 @@
+Sample 445
+==========
+
+Sample text preview: Hello nrt, GeekSquad® Support-Team +--- has sent you a new DocuSign document to view and sign. Please click on the link below to begin signing. Dear C...
+
+Model prediction: [2.2125748e-04 9.9977881e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.017589 → PHISHING
+ 2.  customer            | Impact: 0.017589 → PHISHING
+ 3.  email               | Impact: 0.013143 → PHISHING
+ 4.  this                | Impact: 0.013143 → PHISHING
+ 5.  email               | Impact: 0.011903 → PHISHING
+ 6.  contains            | Impact: 0.011903 → PHISHING
+ 7.  click               | Impact: 0.011483 → PHISHING
+ 8.  send                | Impact: 0.010062 → PHISHING
+ 9. er                   | Impact: 0.010062 → PHISHING
+10.  by                  | Impact: 0.010062 → PHISHING
+11.  this                | Impact: 0.009587 → PHISHING
+12.  email               | Impact: 0.009587 → PHISHING
+13.  stop                | Impact: 0.009066 → PHISHING
+14.  receiving           | Impact: 0.009066 → PHISHING
+15.  payment             | Impact: 0.008076 → PHISHING
+16.  at                  | Impact: 0.008076 → PHISHING
+17.  please              | Impact: 0.007723 → PHISHING
+18.  reach               | Impact: 0.007723 → PHISHING
+19.  link                | Impact: 0.007356 → PHISHING
+20.  ,                   | Impact: 0.007356 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.017589
+ 2.  customer            | Impact: 0.017589
+ 3.  email               | Impact: 0.013143
+ 4.  this                | Impact: 0.013143
+ 5.  email               | Impact: 0.011903
+ 6.  contains            | Impact: 0.011903
+ 7.  click               | Impact: 0.011483
+ 8.  send                | Impact: 0.010062
+ 9. er                   | Impact: 0.010062
+10.  by                  | Impact: 0.010062
+11.  this                | Impact: 0.009587
+12.  email               | Impact: 0.009587
+13.  stop                | Impact: 0.009066
+14.  receiving           | Impact: 0.009066
+15.  payment             | Impact: 0.008076
+16.  at                  | Impact: 0.008076
+17.  please              | Impact: 0.007723
+18.  reach               | Impact: 0.007723
+19.  link                | Impact: 0.007356
+20.  ,                   | Impact: 0.007356
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.005403
+ 2.  document            | Impact: -0.005403
+ 3.  or                  | Impact: -0.005074
+ 4.  brows               | Impact: -0.005074
+ 5. e                    | Impact: -0.005074
+ 6.  our                 | Impact: -0.005074
+ 7.  modify              | Impact: -0.004434
+ 8.  the                 | Impact: -0.004434
+ 9.  document            | Impact: -0.004434
+10.  if                  | Impact: -0.004123
+11.  you                 | Impact: -0.004123
+12.  need                | Impact: -0.004123
+13.  to                  | Impact: -0.004123
+14.  questions           | Impact: -0.004033
+15.  about               | Impact: -0.004033
+16.  +                   | Impact: -0.003646
+17.  -                   | Impact: -0.003646
+18.  -                   | Impact: -0.003646
+19.  -                   | Impact: -0.003646
+20.  doc                 | Impact: -0.003630

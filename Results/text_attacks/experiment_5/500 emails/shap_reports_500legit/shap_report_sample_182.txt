@@ -1,0 +1,75 @@
+Sample 182
+==========
+
+Sample text preview: Hi, I've got an normal ." CD-RW IDE drive that I'd like to be able to use with a Dell Latitude CPx laptop that I've got. Does anyone know any way to e...
+
+Model prediction: [9.997522e-01 2.477898e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  got                 | Impact: -0.005768 → LEGITIMATE
+ 2.  ve                  | Impact: 0.002941 → PHISHING
+ 3.  compatible          | Impact: -0.002663 → LEGITIMATE
+ 4.  hi                  | Impact: 0.002655 → PHISHING
+ 5.  unless              | Impact: 0.002641 → PHISHING
+ 6. si                   | Impact: -0.002411 → LEGITIMATE
+ 7.  station             | Impact: 0.002312 → PHISHING
+ 8.  docking             | Impact: 0.002235 → PHISHING
+ 9.  darren              | Impact: -0.001981 → LEGITIMATE
+10.  someone             | Impact: 0.001703 → PHISHING
+11.  i                   | Impact: 0.001694 → PHISHING
+12.  thanks              | Impact: -0.001465 → LEGITIMATE
+13.  possibility         | Impact: 0.001355 → PHISHING
+14.  example             | Impact: -0.001334 → LEGITIMATE
+15.  ,                   | Impact: 0.001327 → PHISHING
+16.  linux               | Impact: -0.001290 → LEGITIMATE
+17.  sc                  | Impact: -0.001274 → LEGITIMATE
+18.  .                   | Impact: -0.001169 → LEGITIMATE
+19.  .                   | Impact: -0.001007 → LEGITIMATE
+20.  anyone              | Impact: -0.000948 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ve                  | Impact: 0.002941
+ 2.  hi                  | Impact: 0.002655
+ 3.  unless              | Impact: 0.002641
+ 4.  station             | Impact: 0.002312
+ 5.  docking             | Impact: 0.002235
+ 6.  someone             | Impact: 0.001703
+ 7.  i                   | Impact: 0.001694
+ 8.  possibility         | Impact: 0.001355
+ 9.  ,                   | Impact: 0.001327
+10.  irish               | Impact: 0.000737
+11.  '                   | Impact: 0.000672
+12.  cable               | Impact: 0.000566
+13.  '                   | Impact: 0.000561
+14.  s                   | Impact: 0.000479
+15.  that                | Impact: 0.000459
+16.  )                   | Impact: 0.000340
+17.  of                  | Impact: 0.000334
+18.  latitude            | Impact: 0.000319
+19.  also                | Impact: 0.000310
+20.  this                | Impact: 0.000307
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  got                 | Impact: -0.005768
+ 2.  compatible          | Impact: -0.002663
+ 3. si                   | Impact: -0.002411
+ 4.  darren              | Impact: -0.001981
+ 5.  thanks              | Impact: -0.001465
+ 6.  example             | Impact: -0.001334
+ 7.  linux               | Impact: -0.001290
+ 8.  sc                  | Impact: -0.001274
+ 9.  .                   | Impact: -0.001169
+10.  .                   | Impact: -0.001007
+11.  anyone              | Impact: -0.000948
+12. er                   | Impact: -0.000912
+13.  .                   | Impact: -0.000819
+14.  drive               | Impact: -0.000763
+15.  that                | Impact: -0.000763
+16.  use                 | Impact: -0.000706
+17.  ,                   | Impact: -0.000639
+18.  ,                   | Impact: -0.000633
+19.  ideas               | Impact: -0.000631
+20.  only                | Impact: -0.000609

@@ -1,0 +1,75 @@
+Sample 466
+==========
+
+Sample text preview: FREE SHIPPING ORDERS OVER € The best things in life are free, and the second best are discounted! Our biggest sale ever with up to % off Fable favouri...
+
+Model prediction: [9.9965703e-01 3.4298727e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  fable               | Impact: -0.018022 → LEGITIMATE
+ 2.  fable               | Impact: -0.009871 → LEGITIMATE
+ 3.  england             | Impact: -0.009871 → LEGITIMATE
+ 4.  eu                  | Impact: -0.008012 → LEGITIMATE
+ 5.  bishops             | Impact: -0.008012 → LEGITIMATE
+ 6.  (                   | Impact: -0.007434 → LEGITIMATE
+ 7.  court               | Impact: -0.005194 → LEGITIMATE
+ 8.  (                   | Impact: -0.004988 → LEGITIMATE
+ 9.  [                   | Impact: -0.004563 → LEGITIMATE
+10.  shop                | Impact: -0.004563 → LEGITIMATE
+11.  [                   | Impact: -0.004513 → LEGITIMATE
+12.  shop                | Impact: -0.004513 → LEGITIMATE
+13.  no                  | Impact: -0.004316 → LEGITIMATE
+14.  [                   | Impact: -0.004115 → LEGITIMATE
+15.  je                  | Impact: 0.003909 → PHISHING
+16.  sui                 | Impact: 0.003909 → PHISHING
+17. s                    | Impact: 0.003909 → PHISHING
+18.  ravi                | Impact: 0.003909 → PHISHING
+19. e                    | Impact: 0.003909 → PHISHING
+20.  de                  | Impact: 0.003909 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  je                  | Impact: 0.003909
+ 2.  sui                 | Impact: 0.003909
+ 3. s                    | Impact: 0.003909
+ 4.  ravi                | Impact: 0.003909
+ 5. e                    | Impact: 0.003909
+ 6.  de                  | Impact: 0.003909
+ 7.  mon                 | Impact: 0.003909
+ 8.  wu                  | Impact: 0.003410
+ 9. rde                  | Impact: 0.003410
+10.  ich                 | Impact: 0.003410
+11.  est                 | Impact: 0.003053
+12.  tres                | Impact: 0.003053
+13.  jo                  | Impact: 0.003053
+14. lie                  | Impact: 0.003053
+15.  !                   | Impact: 0.003053
+16.  la                  | Impact: 0.002978
+17.  bro                 | Impact: 0.002978
+18. che                  | Impact: 0.002978
+19.  ©                   | Impact: 0.002733
+20.  !                   | Impact: 0.002370
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  fable               | Impact: -0.018022
+ 2.  fable               | Impact: -0.009871
+ 3.  england             | Impact: -0.009871
+ 4.  eu                  | Impact: -0.008012
+ 5.  bishops             | Impact: -0.008012
+ 6.  (                   | Impact: -0.007434
+ 7.  court               | Impact: -0.005194
+ 8.  (                   | Impact: -0.004988
+ 9.  [                   | Impact: -0.004563
+10.  shop                | Impact: -0.004563
+11.  [                   | Impact: -0.004513
+12.  shop                | Impact: -0.004513
+13.  no                  | Impact: -0.004316
+14.  [                   | Impact: -0.004115
+15.  [                   | Impact: -0.003885
+16.  shop                | Impact: -0.003885
+17.  (                   | Impact: -0.003771
+18.  jewellery           | Impact: -0.003618
+19.  ]                   | Impact: -0.003618
+20.  (                   | Impact: -0.003397

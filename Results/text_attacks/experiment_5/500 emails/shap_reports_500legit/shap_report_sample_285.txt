@@ -1,0 +1,75 @@
+Sample 285
+==========
+
+Sample text preview: ----- Forwarded by Steven J Kean/NA/Enron on // : PM ----- Miyung Buster@ENRON_DEVELOPMENT // : AM To: Ann M Schmidt/Corp/Enron@ENRON, Bryan Seyfried/...
+
+Model prediction: [9.9977952e-01 2.2045286e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  andrew              | Impact: -0.000236 → LEGITIMATE
+ 2.  morrison            | Impact: -0.000236 → LEGITIMATE
+ 3.  /                   | Impact: -0.000236 → LEGITIMATE
+ 4.  lo                  | Impact: -0.000236 → LEGITIMATE
+ 5. n                    | Impact: -0.000236 → LEGITIMATE
+ 6.  /                   | Impact: -0.000236 → LEGITIMATE
+ 7.  ec                  | Impact: -0.000236 → LEGITIMATE
+ 8. t                    | Impact: -0.000236 → LEGITIMATE
+ 9.  @                   | Impact: -0.000236 → LEGITIMATE
+10.  ec                  | Impact: -0.000236 → LEGITIMATE
+11. t                    | Impact: -0.000236 → LEGITIMATE
+12.  ,                   | Impact: -0.000236 → LEGITIMATE
+13.  mike                | Impact: -0.000236 → LEGITIMATE
+14.  ro                  | Impact: -0.000236 → LEGITIMATE
+15. an                   | Impact: -0.000236 → LEGITIMATE
+16.  /                   | Impact: -0.000236 → LEGITIMATE
+17.  en                  | Impact: -0.000236 → LEGITIMATE
+18. ron                  | Impact: -0.000236 → LEGITIMATE
+19.  en                  | Impact: -0.000236 → LEGITIMATE
+20. ron                  | Impact: -0.000236 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.000000
+ 2.  .                   | Impact: 0.000000
+ 3.  "                   | Impact: 0.000000
+ 4.  s                   | Impact: 0.000000
+ 5. j                    | Impact: 0.000000
+ 6.  mercury             | Impact: 0.000000
+ 7.  /                   | Impact: 0.000000
+ 8.  :                   | Impact: 0.000000
+ 9.  "                   | Impact: 0.000000
+10.  state               | Impact: 0.000000
+11.  '                   | Impact: 0.000000
+12.  s                   | Impact: 0.000000
+13.  energy              | Impact: 0.000000
+14.  price               | Impact: 0.000000
+15.  tag                 | Impact: 0.000000
+16.  increases           | Impact: 0.000000
+17.  "                   | Impact: 0.000000
+18.  la                  | Impact: 0.000000
+19.  times               | Impact: 0.000000
+20.  /                   | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  andrew              | Impact: -0.000236
+ 2.  morrison            | Impact: -0.000236
+ 3.  /                   | Impact: -0.000236
+ 4.  lo                  | Impact: -0.000236
+ 5. n                    | Impact: -0.000236
+ 6.  /                   | Impact: -0.000236
+ 7.  ec                  | Impact: -0.000236
+ 8. t                    | Impact: -0.000236
+ 9.  @                   | Impact: -0.000236
+10.  ec                  | Impact: -0.000236
+11. t                    | Impact: -0.000236
+12.  ,                   | Impact: -0.000236
+13.  mike                | Impact: -0.000236
+14.  ro                  | Impact: -0.000236
+15. an                   | Impact: -0.000236
+16.  /                   | Impact: -0.000236
+17.  en                  | Impact: -0.000236
+18. ron                  | Impact: -0.000236
+19.  en                  | Impact: -0.000236
+20. ron                  | Impact: -0.000236

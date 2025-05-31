@@ -1,0 +1,75 @@
+Sample 356
+==========
+
+Sample text preview: Are there any mailing lists (non-newsgroups) for C++ and C Beginners and Advanced programmers? Links are welcomed! -- Note: When you reply to this mes...
+
+Model prediction: [0.9969208  0.00307922]
+Predicted class: LEGITIMATE with 0.9969 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  programmers         | Impact: -0.091416 → LEGITIMATE
+ 2.  linux               | Impact: -0.088684 → LEGITIMATE
+ 3.  irish               | Impact: -0.050737 → LEGITIMATE
+ 4.  links               | Impact: 0.044675 → PHISHING
+ 5.  address             | Impact: 0.040947 → PHISHING
+ 6.  !                   | Impact: 0.038762 → PHISHING
+ 7.  -                   | Impact: -0.037038 → LEGITIMATE
+ 8.  are                 | Impact: 0.036133 → PHISHING
+ 9.  -                   | Impact: -0.032648 → LEGITIMATE
+10.  email               | Impact: 0.031042 → PHISHING
+11.  -                   | Impact: -0.028750 → LEGITIMATE
+12.  -                   | Impact: -0.026186 → LEGITIMATE
+13.  welcomed            | Impact: 0.025198 → PHISHING
+14.  note                | Impact: -0.022918 → LEGITIMATE
+15.  and                 | Impact: 0.022066 → PHISHING
+16.  list                | Impact: -0.021468 → LEGITIMATE
+17.  un                  | Impact: -0.021209 → LEGITIMATE
+18.  )                   | Impact: -0.021209 → LEGITIMATE
+19.  in                  | Impact: 0.020856 → PHISHING
+20.  (                   | Impact: -0.020612 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  links               | Impact: 0.044675
+ 2.  address             | Impact: 0.040947
+ 3.  !                   | Impact: 0.038762
+ 4.  are                 | Impact: 0.036133
+ 5.  email               | Impact: 0.031042
+ 6.  welcomed            | Impact: 0.025198
+ 7.  and                 | Impact: 0.022066
+ 8.  in                  | Impact: 0.020856
+ 9.  this                | Impact: 0.019866
+10.  message             | Impact: 0.019866
+11.  mail                | Impact: 0.019497
+12. ing                  | Impact: 0.019497
+13.  ,                   | Impact: 0.015935
+14.  address             | Impact: 0.015456
+15.  reply               | Impact: 0.012745
+16.  to                  | Impact: 0.012745
+17.  news                | Impact: 0.009930
+18. group                | Impact: 0.009930
+19.  please              | Impact: 0.009795
+20.  include             | Impact: 0.009795
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  programmers         | Impact: -0.091416
+ 2.  linux               | Impact: -0.088684
+ 3.  irish               | Impact: -0.050737
+ 4.  -                   | Impact: -0.037038
+ 5.  -                   | Impact: -0.032648
+ 6.  -                   | Impact: -0.028750
+ 7.  -                   | Impact: -0.026186
+ 8.  note                | Impact: -0.022918
+ 9.  list                | Impact: -0.021468
+10.  un                  | Impact: -0.021209
+11.  )                   | Impact: -0.021209
+12.  (                   | Impact: -0.020612
+13.  :                   | Impact: -0.020204
+14.  :                   | Impact: -0.018564
+15.  group               | Impact: -0.013251
+16.  :                   | Impact: -0.013251
+17.  for                 | Impact: -0.013251
+18.  ?                   | Impact: -0.012354
+19.  maintain            | Impact: -0.011966
+20. er                   | Impact: -0.011966

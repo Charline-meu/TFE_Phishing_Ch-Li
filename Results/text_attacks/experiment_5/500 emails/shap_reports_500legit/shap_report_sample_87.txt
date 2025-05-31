@@ -1,0 +1,75 @@
+Sample 87
+=========
+
+Sample text preview: I talked to John Fielder (SVP Edison) about setting up a meeting for Barry Tycholiz with Edison's CFO about hedging Edison's QF price risk. Fielder wa...
+
+Model prediction: [9.9976331e-01 2.3668964e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ago                 | Impact: 0.002088 → PHISHING
+ 2.  ct                  | Impact: -0.001744 → LEGITIMATE
+ 3. c                    | Impact: -0.001744 → LEGITIMATE
+ 4.  issue               | Impact: -0.001744 → LEGITIMATE
+ 5.  costs               | Impact: -0.001610 → LEGITIMATE
+ 6.  tied                | Impact: -0.001610 → LEGITIMATE
+ 7.  settlement          | Impact: 0.001507 → PHISHING
+ 8.  it                  | Impact: 0.001507 → PHISHING
+ 9.  q                   | Impact: -0.001489 → LEGITIMATE
+10. fs                   | Impact: -0.001489 → LEGITIMATE
+11.  the                 | Impact: -0.001342 → LEGITIMATE
+12.  negative            | Impact: -0.001342 → LEGITIMATE
+13.  weeks               | Impact: 0.001241 → PHISHING
+14.  is                  | Impact: -0.001126 → LEGITIMATE
+15.  evidence            | Impact: -0.001126 → LEGITIMATE
+16.  contracts           | Impact: -0.001028 → LEGITIMATE
+17.  edison              | Impact: -0.000752 → LEGITIMATE
+18.  '                   | Impact: -0.000752 → LEGITIMATE
+19.  s                   | Impact: -0.000752 → LEGITIMATE
+20.  q                   | Impact: -0.000694 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ago                 | Impact: 0.002088
+ 2.  settlement          | Impact: 0.001507
+ 3.  it                  | Impact: 0.001507
+ 4.  weeks               | Impact: 0.001241
+ 5.  under               | Impact: 0.000574
+ 6.  the                 | Impact: 0.000574
+ 7.  that                | Impact: 0.000551
+ 8.  they                | Impact: 0.000551
+ 9.  (                   | Impact: 0.000538
+10.  will                | Impact: 0.000515
+11.  propose             | Impact: 0.000515
+12.  and                 | Impact: 0.000446
+13.  let                 | Impact: 0.000379
+14.  us                  | Impact: 0.000379
+15.  know                | Impact: 0.000379
+16.  he                  | Impact: 0.000365
+17.  said                | Impact: 0.000365
+18.  )                   | Impact: 0.000362
+19.  q                   | Impact: 0.000286
+20.  '                   | Impact: 0.000286
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ct                  | Impact: -0.001744
+ 2. c                    | Impact: -0.001744
+ 3.  issue               | Impact: -0.001744
+ 4.  costs               | Impact: -0.001610
+ 5.  tied                | Impact: -0.001610
+ 6.  q                   | Impact: -0.001489
+ 7. fs                   | Impact: -0.001489
+ 8.  the                 | Impact: -0.001342
+ 9.  negative            | Impact: -0.001342
+10.  is                  | Impact: -0.001126
+11.  evidence            | Impact: -0.001126
+12.  contracts           | Impact: -0.001028
+13.  edison              | Impact: -0.000752
+14.  '                   | Impact: -0.000752
+15.  s                   | Impact: -0.000752
+16.  q                   | Impact: -0.000694
+17. f                    | Impact: -0.000694
+18.  utility             | Impact: -0.000691
+19.  '                   | Impact: -0.000691
+20.  s                   | Impact: -0.000691

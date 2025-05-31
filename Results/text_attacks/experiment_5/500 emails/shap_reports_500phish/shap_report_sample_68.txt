@@ -1,0 +1,74 @@
+Sample 68
+=========
+
+Sample text preview: FROM THE DESK OF DR YUSUF SAMI. BILL AND EXCHANGE MANAGER FOREIGN REMITTANCE DEPT. BANK OF AFRICA(BOA) OUAGADOUGOU, BURKINA FASO. Dear friend , I am t...
+
+Model prediction: [1.8263476e-04 9.9981743e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.020541 → PHISHING
+ 2.  friend              | Impact: 0.020541 → PHISHING
+ 3.  my                  | Impact: 0.004874 → PHISHING
+ 4.  colleagues          | Impact: 0.004874 → PHISHING
+ 5.  will                | Impact: 0.004874 → PHISHING
+ 6.  visit               | Impact: 0.004874 → PHISHING
+ 7.  your                | Impact: 0.004874 → PHISHING
+ 8.  country             | Impact: 0.004874 → PHISHING
+ 9.  for                 | Impact: 0.004874 → PHISHING
+10.  to                  | Impact: 0.004845 → PHISHING
+11.  you                 | Impact: 0.004845 → PHISHING
+12.  as                  | Impact: 0.004845 → PHISHING
+13.  arranged            | Impact: 0.004845 → PHISHING
+14.  ,                   | Impact: 0.004845 → PHISHING
+15.  to                  | Impact: 0.004770 → PHISHING
+16.  enable              | Impact: 0.004770 → PHISHING
+17.  the                 | Impact: 0.004770 → PHISHING
+18.  immediate           | Impact: 0.004770 → PHISHING
+19.  transfer            | Impact: 0.004770 → PHISHING
+20.  of                  | Impact: 0.004770 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.020541
+ 2.  friend              | Impact: 0.020541
+ 3.  my                  | Impact: 0.004874
+ 4.  colleagues          | Impact: 0.004874
+ 5.  will                | Impact: 0.004874
+ 6.  visit               | Impact: 0.004874
+ 7.  your                | Impact: 0.004874
+ 8.  country             | Impact: 0.004874
+ 9.  for                 | Impact: 0.004874
+10.  to                  | Impact: 0.004845
+11.  you                 | Impact: 0.004845
+12.  as                  | Impact: 0.004845
+13.  arranged            | Impact: 0.004845
+14.  ,                   | Impact: 0.004845
+15.  to                  | Impact: 0.004770
+16.  enable              | Impact: 0.004770
+17.  the                 | Impact: 0.004770
+18.  immediate           | Impact: 0.004770
+19.  transfer            | Impact: 0.004770
+20.  of                  | Impact: 0.004770
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  dept                | Impact: -0.000769
+ 2.  .                   | Impact: -0.000769
+ 3.  exchange            | Impact: -0.000769
+ 4.  at                  | Impact: -0.000769
+ 5.  foreign             | Impact: -0.000769
+ 6.  re                  | Impact: -0.000769
+ 7. mit                  | Impact: -0.000769
+ 8. tance                | Impact: -0.000769
+ 9.                      | Impact: -0.000451
+10.  from                | Impact: -0.000451
+11.  the                 | Impact: -0.000451
+12.  desk                | Impact: -0.000451
+13.  i                   | Impact: -0.000368
+14.  am                  | Impact: -0.000368
+15.  the                 | Impact: -0.000368
+16.  manager             | Impact: -0.000368
+17.  of                  | Impact: -0.000368
+18.  bill                | Impact: -0.000368
+19.  and                 | Impact: -0.000368

@@ -1,0 +1,75 @@
+Phishing Sample 100
+===================
+
+Sample text preview: HUBBLE SPOTS AN ICY WORLD FAR BEYOND PLUTO ------------------------------------------ Astronomers have discovered a distant body that appears to be th...
+
+Model prediction: [0.99896514 0.00103482]
+Predicted class: LEGITIMATE with 0.9990 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  definition          | Impact: -0.008742 → LEGITIMATE
+ 2.  questions           | Impact: -0.007450 → LEGITIMATE
+ 3. su                   | Impact: -0.005741 → LEGITIMATE
+ 4.  "                   | Impact: -0.004122 → LEGITIMATE
+ 5.  groups              | Impact: -0.003848 → LEGITIMATE
+ 6.  dubbed              | Impact: -0.003811 → LEGITIMATE
+ 7.  new                 | Impact: -0.003660 → LEGITIMATE
+ 8.  raises              | Impact: -0.003630 → LEGITIMATE
+ 9.  been                | Impact: -0.003478 → LEGITIMATE
+10.  about               | Impact: -0.003251 → LEGITIMATE
+11.  use                 | Impact: -0.003210 → LEGITIMATE
+12.  of                  | Impact: -0.003210 → LEGITIMATE
+13.  yahoo               | Impact: -0.003210 → LEGITIMATE
+14.  icy                 | Impact: -0.003200 → LEGITIMATE
+15.  .                   | Impact: -0.003162 → LEGITIMATE
+16.  instrument          | Impact: -0.003070 → LEGITIMATE
+17.  "                   | Impact: -0.002884 → LEGITIMATE
+18.  pluto               | Impact: -0.002863 → LEGITIMATE
+19.  is                  | Impact: -0.002814 → LEGITIMATE
+20.  has                 | Impact: -0.002620 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.001397
+ 2.  world               | Impact: 0.000840
+ 3.  in                  | Impact: 0.000439
+ 4.  the                 | Impact: 0.000439
+ 5.  appears             | Impact: 0.000268
+ 6.  to                  | Impact: 0.000268
+ 7.  be                  | Impact: 0.000268
+ 8.  the                 | Impact: 0.000268
+ 9.  a                   | Impact: 0.000177
+10.  distant             | Impact: 0.000177
+11.  body                | Impact: 0.000177
+12.  that                | Impact: 0.000177
+13.  on                  | Impact: 0.000140
+14.  its                 | Impact: 0.000140
+15.  first               | Impact: 0.000140
+16.  night               | Impact: 0.000140
+17.  .                   | Impact: 0.000140
+18.  have                | Impact: 0.000126
+19.  discovered          | Impact: 0.000126
+20.  !                   | Impact: 0.000094
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  definition          | Impact: -0.008742
+ 2.  questions           | Impact: -0.007450
+ 3. su                   | Impact: -0.005741
+ 4.  "                   | Impact: -0.004122
+ 5.  groups              | Impact: -0.003848
+ 6.  dubbed              | Impact: -0.003811
+ 7.  new                 | Impact: -0.003660
+ 8.  raises              | Impact: -0.003630
+ 9.  been                | Impact: -0.003478
+10.  about               | Impact: -0.003251
+11.  use                 | Impact: -0.003210
+12.  of                  | Impact: -0.003210
+13.  yahoo               | Impact: -0.003210
+14.  icy                 | Impact: -0.003200
+15.  .                   | Impact: -0.003162
+16.  instrument          | Impact: -0.003070
+17.  "                   | Impact: -0.002884
+18.  pluto               | Impact: -0.002863
+19.  is                  | Impact: -0.002814
+20.  has                 | Impact: -0.002620

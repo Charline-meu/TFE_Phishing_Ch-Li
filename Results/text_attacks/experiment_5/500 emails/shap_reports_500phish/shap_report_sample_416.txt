@@ -1,0 +1,75 @@
+Sample 416
+==========
+
+Sample text preview: To All Employees\Staff, Take note of this important update that our new web mail has been improved with a new messaging system from Owa/outlook which ...
+
+Model prediction: [2.1868282e-04 9.9978131e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.058393 → PHISHING
+ 2.  your                | Impact: 0.051899 → PHISHING
+ 3.  \                   | Impact: 0.037794 → PHISHING
+ 4.  link                | Impact: 0.031048 → PHISHING
+ 5.  kindly              | Impact: 0.029359 → PHISHING
+ 6.  ,                   | Impact: 0.021930 → PHISHING
+ 7.  web                 | Impact: 0.021413 → PHISHING
+ 8. mail                 | Impact: 0.020572 → PHISHING
+ 9.  employees           | Impact: 0.018949 → PHISHING
+10.  below               | Impact: 0.017205 → PHISHING
+11.  on                  | Impact: 0.016945 → PHISHING
+12.  new                 | Impact: 0.016185 → PHISHING
+13.  ©                   | Impact: 0.015990 → PHISHING
+14.  web                 | Impact: 0.015491 → PHISHING
+15.  mail                | Impact: 0.014429 → PHISHING
+16.  has                 | Impact: 0.014429 → PHISHING
+17.  update              | Impact: 0.013774 → PHISHING
+18.  complete            | Impact: 0.013712 → PHISHING
+19.  to                  | Impact: 0.013378 → PHISHING
+20.  return              | Impact: 0.013271 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.058393
+ 2.  your                | Impact: 0.051899
+ 3.  \                   | Impact: 0.037794
+ 4.  link                | Impact: 0.031048
+ 5.  kindly              | Impact: 0.029359
+ 6.  ,                   | Impact: 0.021930
+ 7.  web                 | Impact: 0.021413
+ 8. mail                 | Impact: 0.020572
+ 9.  employees           | Impact: 0.018949
+10.  below               | Impact: 0.017205
+11.  on                  | Impact: 0.016945
+12.  new                 | Impact: 0.016185
+13.  ©                   | Impact: 0.015990
+14.  web                 | Impact: 0.015491
+15.  mail                | Impact: 0.014429
+16.  has                 | Impact: 0.014429
+17.  update              | Impact: 0.013774
+18.  complete            | Impact: 0.013712
+19.  to                  | Impact: 0.013378
+20.  return              | Impact: 0.013271
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  outlook             | Impact: -0.007860
+ 2.  .                   | Impact: -0.002597
+ 3.  .                   | Impact: -0.002034
+ 4.  outlook             | Impact: -0.001968
+ 5.  shared              | Impact: -0.000503
+ 6.  calendar            | Impact: -0.000503
+ 7.  ,                   | Impact: -0.000503
+ 8.  new                 | Impact: -0.000065
+ 9.  messaging           | Impact: -0.000065
+10.  system              | Impact: -0.000065
+11.  from                | Impact: -0.000065
+12.  ow                  | Impact: -0.000065
+13. a                    | Impact: -0.000065
+14.  /                   | Impact: -0.000065
+15.  outlook             | Impact: -0.000065
+16.  which               | Impact: -0.000065
+17.  also                | Impact: -0.000065
+18.  include             | Impact: -0.000065
+19.  faster              | Impact: -0.000065
+20.  usage               | Impact: -0.000065

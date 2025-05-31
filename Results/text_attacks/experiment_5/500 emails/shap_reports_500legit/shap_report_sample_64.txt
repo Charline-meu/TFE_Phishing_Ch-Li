@@ -1,0 +1,75 @@
+Sample 64
+=========
+
+Sample text preview: The Mineral Leasing Act may be the statute that governs--at least I'm familiar with it as the statute governing the MMS onshore oil and gas royalty pr...
+
+Model prediction: [9.9980205e-01 1.9799458e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  theories            | Impact: -0.006447 → LEGITIMATE
+ 2.  en                  | Impact: -0.006004 → LEGITIMATE
+ 3.  %                   | Impact: -0.004239 → LEGITIMATE
+ 4.  e                   | Impact: -0.003995 → LEGITIMATE
+ 5. og                   | Impact: -0.003995 → LEGITIMATE
+ 6.  surface             | Impact: -0.003880 → LEGITIMATE
+ 7.  .                   | Impact: -0.003776 → LEGITIMATE
+ 8.  et                  | Impact: -0.003757 → LEGITIMATE
+ 9. s                    | Impact: -0.003757 → LEGITIMATE
+10.  familiar            | Impact: 0.003540 → PHISHING
+11.  understand          | Impact: -0.003519 → LEGITIMATE
+12.  guys                | Impact: -0.003467 → LEGITIMATE
+13.  need                | Impact: -0.003467 → LEGITIMATE
+14.  it                  | Impact: -0.003310 → LEGITIMATE
+15.  statute             | Impact: -0.003307 → LEGITIMATE
+16.  that                | Impact: -0.003170 → LEGITIMATE
+17.  statutory           | Impact: -0.003138 → LEGITIMATE
+18.  authority           | Impact: -0.003138 → LEGITIMATE
+19. ron                  | Impact: -0.003119 → LEGITIMATE
+20.  answer              | Impact: -0.003118 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  familiar            | Impact: 0.003540
+ 2.  aren                | Impact: 0.001843
+ 3.  '                   | Impact: 0.001843
+ 4.  t                   | Impact: 0.001563
+ 5.  any                 | Impact: 0.000725
+ 6.  ex                  | Impact: 0.000725
+ 7.  @                   | Impact: 0.000668
+ 8.  from                | Impact: 0.000654
+ 9.  -                   | Impact: 0.000620
+10.  i                   | Impact: 0.000604
+11.  '                   | Impact: 0.000604
+12.  there               | Impact: 0.000448
+13.  afternoon           | Impact: 0.000438
+14.  feb                 | Impact: 0.000438
+15.  th                  | Impact: 0.000438
+16.  is                  | Impact: 0.000437
+17.  a                   | Impact: 0.000437
+18.  real                | Impact: 0.000437
+19.  dirt                | Impact: 0.000437
+20.  lawyer              | Impact: 0.000437
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  theories            | Impact: -0.006447
+ 2.  en                  | Impact: -0.006004
+ 3.  %                   | Impact: -0.004239
+ 4.  e                   | Impact: -0.003995
+ 5. og                   | Impact: -0.003995
+ 6.  surface             | Impact: -0.003880
+ 7.  .                   | Impact: -0.003776
+ 8.  et                  | Impact: -0.003757
+ 9. s                    | Impact: -0.003757
+10.  understand          | Impact: -0.003519
+11.  guys                | Impact: -0.003467
+12.  need                | Impact: -0.003467
+13.  it                  | Impact: -0.003310
+14.  statute             | Impact: -0.003307
+15.  that                | Impact: -0.003170
+16.  statutory           | Impact: -0.003138
+17.  authority           | Impact: -0.003138
+18. ron                  | Impact: -0.003119
+19.  answer              | Impact: -0.003118
+20.  is                  | Impact: -0.003118

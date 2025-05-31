@@ -1,0 +1,75 @@
+Sample 149
+==========
+
+Sample text preview: Here's your daily account summary. Account Update As part of our commitment to help keep your account secure, we have detected an irregular activity o...
+
+Model prediction: [1.9437062e-04 9.9980563e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sincerely           | Impact: 0.049881 → PHISHING
+ 2.  please              | Impact: 0.024580 → PHISHING
+ 3.  click               | Impact: 0.024580 → PHISHING
+ 4.  secure              | Impact: 0.016374 → PHISHING
+ 5.  protection          | Impact: 0.014623 → PHISHING
+ 6.  for                 | Impact: 0.012503 → PHISHING
+ 7.  your                | Impact: 0.012503 → PHISHING
+ 8.  your                | Impact: 0.011733 → PHISHING
+ 9.  account             | Impact: 0.011733 → PHISHING
+10.  your                | Impact: 0.011635 → PHISHING
+11.  account             | Impact: 0.011635 → PHISHING
+12.  your                | Impact: 0.011301 → PHISHING
+13.  ©                   | Impact: 0.011001 → PHISHING
+14.  chase               | Impact: 0.011001 → PHISHING
+15.  bank                | Impact: 0.011001 → PHISHING
+16.  usa                 | Impact: 0.011001 → PHISHING
+17.  pending             | Impact: 0.009850 → PHISHING
+18.  transactions        | Impact: 0.009850 → PHISHING
+19.  account             | Impact: 0.009714 → PHISHING
+20.  at                  | Impact: 0.009714 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sincerely           | Impact: 0.049881
+ 2.  please              | Impact: 0.024580
+ 3.  click               | Impact: 0.024580
+ 4.  secure              | Impact: 0.016374
+ 5.  protection          | Impact: 0.014623
+ 6.  for                 | Impact: 0.012503
+ 7.  your                | Impact: 0.012503
+ 8.  your                | Impact: 0.011733
+ 9.  account             | Impact: 0.011733
+10.  your                | Impact: 0.011635
+11.  account             | Impact: 0.011635
+12.  your                | Impact: 0.011301
+13.  ©                   | Impact: 0.011001
+14.  chase               | Impact: 0.011001
+15.  bank                | Impact: 0.011001
+16.  usa                 | Impact: 0.011001
+17.  pending             | Impact: 0.009850
+18.  transactions        | Impact: 0.009850
+19.  account             | Impact: 0.009714
+20.  at                  | Impact: 0.009714
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thank               | Impact: -0.002818
+ 2.  you                 | Impact: -0.002818
+ 3.  for                 | Impact: -0.002818
+ 4.  choosing            | Impact: -0.002818
+ 5.  chase               | Impact: -0.002818
+ 6.  if                  | Impact: -0.002620
+ 7.  you                 | Impact: -0.002620
+ 8.  have                | Impact: -0.002620
+ 9.  any                 | Impact: -0.002620
+10.  questions           | Impact: -0.002620
+11.  ,                   | Impact: -0.002612
+12.  wireless            | Impact: -0.001831
+13.  or                  | Impact: -0.001831
+14.  internet            | Impact: -0.001511
+15.  provider            | Impact: -0.001511
+16.  ;                   | Impact: -0.001511
+17.  technology          | Impact: -0.001511
+18.  failures            | Impact: -0.001511
+19.  ;                   | Impact: -0.001511
+20.  and                 | Impact: -0.001511

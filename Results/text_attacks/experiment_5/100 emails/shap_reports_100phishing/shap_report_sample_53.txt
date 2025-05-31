@@ -1,0 +1,75 @@
+Phishing Sample 53
+==================
+
+Sample text preview: Dear sir, URGENT AND CONFIDENTIAL -------------------------- I write to introduce this important business opportunity to you irespective of the fact t...
+
+Model prediction: [1.6632417e-04 9.9983370e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  i                   | Impact: 0.013712 → PHISHING
+ 2.  am                  | Impact: 0.013712 → PHISHING
+ 3.  mr                  | Impact: 0.013712 → PHISHING
+ 4.  abdullah            | Impact: 0.011189 → PHISHING
+ 5.  nasser              | Impact: 0.011189 → PHISHING
+ 6.  ,                   | Impact: 0.011189 → PHISHING
+ 7.                      | Impact: 0.010418 → PHISHING
+ 8.  dear                | Impact: 0.010418 → PHISHING
+ 9.  sir                 | Impact: 0.010418 → PHISHING
+10.  opportunity         | Impact: 0.010224 → PHISHING
+11.  to                  | Impact: 0.010224 → PHISHING
+12.  you                 | Impact: 0.010224 → PHISHING
+13.  important           | Impact: 0.008019 → PHISHING
+14.  business            | Impact: 0.008019 → PHISHING
+15.  belonging           | Impact: 0.008013 → PHISHING
+16.  to                  | Impact: 0.008013 → PHISHING
+17.  late                | Impact: 0.008013 → PHISHING
+18.  mr                  | Impact: 0.008013 → PHISHING
+19.  compensate          | Impact: 0.007324 → PHISHING
+20.  you                 | Impact: 0.007324 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  i                   | Impact: 0.013712
+ 2.  am                  | Impact: 0.013712
+ 3.  mr                  | Impact: 0.013712
+ 4.  abdullah            | Impact: 0.011189
+ 5.  nasser              | Impact: 0.011189
+ 6.  ,                   | Impact: 0.011189
+ 7.                      | Impact: 0.010418
+ 8.  dear                | Impact: 0.010418
+ 9.  sir                 | Impact: 0.010418
+10.  opportunity         | Impact: 0.010224
+11.  to                  | Impact: 0.010224
+12.  you                 | Impact: 0.010224
+13.  important           | Impact: 0.008019
+14.  business            | Impact: 0.008019
+15.  belonging           | Impact: 0.008013
+16.  to                  | Impact: 0.008013
+17.  late                | Impact: 0.008013
+18.  mr                  | Impact: 0.008013
+19.  compensate          | Impact: 0.007324
+20.  you                 | Impact: 0.007324
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.001844
+ 2.  -                   | Impact: -0.001844
+ 3.  -                   | Impact: -0.001844
+ 4.  -                   | Impact: -0.001844
+ 5.  -                   | Impact: -0.001659
+ 6.  -                   | Impact: -0.001659
+ 7.  -                   | Impact: -0.001659
+ 8.  i                   | Impact: -0.001659
+ 9.  -                   | Impact: -0.001584
+10.  -                   | Impact: -0.001584
+11.  -                   | Impact: -0.001584
+12.  -                   | Impact: -0.001584
+13.  -                   | Impact: -0.001584
+14.  -                   | Impact: -0.001584
+15.  -                   | Impact: -0.001584
+16.  -                   | Impact: -0.001584
+17.  -                   | Impact: -0.001452
+18.  -                   | Impact: -0.001452
+19.  -                   | Impact: -0.001452
+20.  -                   | Impact: -0.001452

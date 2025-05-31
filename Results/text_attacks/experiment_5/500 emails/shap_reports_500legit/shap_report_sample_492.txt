@@ -1,0 +1,75 @@
+Sample 492
+==========
+
+Sample text preview: Deb and I were thinking that if we can't finalize our Europe trip by the end of this week-we probably need to postpone it because the clock is ticking...
+
+Model prediction: [9.9924695e-01 7.5309048e-04]
+Predicted class: LEGITIMATE with 0.9992 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  thinking            | Impact: -0.012475 → LEGITIMATE
+ 2.  were                | Impact: 0.010092 → PHISHING
+ 3.  ticking             | Impact: 0.007946 → PHISHING
+ 4.  feedback            | Impact: -0.007798 → LEGITIMATE
+ 5.  discussions         | Impact: -0.007387 → LEGITIMATE
+ 6.  week                | Impact: -0.007019 → LEGITIMATE
+ 7.  we                  | Impact: -0.006201 → LEGITIMATE
+ 8.  .                   | Impact: -0.005592 → LEGITIMATE
+ 9.  if                  | Impact: -0.005094 → LEGITIMATE
+10.  i                   | Impact: 0.004685 → PHISHING
+11.  .                   | Impact: -0.004564 → LEGITIMATE
+12.  american            | Impact: 0.004410 → PHISHING
+13.  de                  | Impact: -0.004333 → LEGITIMATE
+14.  probably            | Impact: -0.003915 → LEGITIMATE
+15.  any                 | Impact: -0.003678 → LEGITIMATE
+16.  or                  | Impact: -0.003399 → LEGITIMATE
+17.  final               | Impact: 0.003392 → PHISHING
+18. ize                  | Impact: -0.003365 → LEGITIMATE
+19.  is                  | Impact: -0.003132 → LEGITIMATE
+20.  your                | Impact: 0.003123 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  were                | Impact: 0.010092
+ 2.  ticking             | Impact: 0.007946
+ 3.  i                   | Impact: 0.004685
+ 4.  american            | Impact: 0.004410
+ 5.  final               | Impact: 0.003392
+ 6.  your                | Impact: 0.003123
+ 7.  by                  | Impact: 0.002768
+ 8.  our                 | Impact: 0.002489
+ 9.  us                  | Impact: 0.002437
+10.  this                | Impact: 0.001800
+11.  post                | Impact: 0.001168
+12.  need                | Impact: 0.001127
+13.  because             | Impact: 0.001099
+14.  t                   | Impact: 0.001037
+15.  and                 | Impact: 0.000944
+16.  with                | Impact: 0.000903
+17.  to                  | Impact: 0.000775
+18.  clock               | Impact: 0.000740
+19.  express             | Impact: 0.000725
+20.  -                   | Impact: 0.000575
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thinking            | Impact: -0.012475
+ 2.  feedback            | Impact: -0.007798
+ 3.  discussions         | Impact: -0.007387
+ 4.  week                | Impact: -0.007019
+ 5.  we                  | Impact: -0.006201
+ 6.  .                   | Impact: -0.005592
+ 7.  if                  | Impact: -0.005094
+ 8.  .                   | Impact: -0.004564
+ 9.  de                  | Impact: -0.004333
+10.  probably            | Impact: -0.003915
+11.  any                 | Impact: -0.003678
+12.  or                  | Impact: -0.003399
+13. ize                  | Impact: -0.003365
+14.  is                  | Impact: -0.003132
+15.  europe              | Impact: -0.003112
+16.  can                 | Impact: -0.002884
+17.  that                | Impact: -0.002657
+18.  mark                | Impact: -0.002543
+19. b                    | Impact: -0.002355
+20.  end                 | Impact: -0.002282

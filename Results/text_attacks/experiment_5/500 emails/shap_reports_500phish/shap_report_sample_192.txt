@@ -1,0 +1,75 @@
+Sample 192
+==========
+
+Sample text preview: ATTENTION: Sir/ I am Dr. (Mrs) Mariam Abacha wife to the late Nigerian Head of State, General Sani Abacha who died on the th of June while on active d...
+
+Model prediction: [1.6904432e-04 9.9983096e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mrs                 | Impact: 0.015639 → PHISHING
+ 2.  dr                  | Impact: 0.014296 → PHISHING
+ 3.  best                | Impact: 0.013762 → PHISHING
+ 4.  regards             | Impact: 0.013762 → PHISHING
+ 5.  mrs                 | Impact: 0.010583 → PHISHING
+ 6.  )                   | Impact: 0.010583 → PHISHING
+ 7.  (                   | Impact: 0.009950 → PHISHING
+ 8.  aba                 | Impact: 0.007929 → PHISHING
+ 9. cha                  | Impact: 0.007929 → PHISHING
+10.  you                 | Impact: 0.007031 → PHISHING
+11.  to                  | Impact: 0.007031 → PHISHING
+12.  exercise            | Impact: 0.007031 → PHISHING
+13.  the                 | Impact: 0.007031 → PHISHING
+14.  utmost              | Impact: 0.007031 → PHISHING
+15.  specifically        | Impact: 0.006998 → PHISHING
+16.  in                  | Impact: 0.006998 → PHISHING
+17.  your                | Impact: 0.006998 → PHISHING
+18.  country             | Impact: 0.006998 → PHISHING
+19.                      | Impact: 0.006152 → PHISHING
+20.  money               | Impact: 0.005656 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mrs                 | Impact: 0.015639
+ 2.  dr                  | Impact: 0.014296
+ 3.  best                | Impact: 0.013762
+ 4.  regards             | Impact: 0.013762
+ 5.  mrs                 | Impact: 0.010583
+ 6.  )                   | Impact: 0.010583
+ 7.  (                   | Impact: 0.009950
+ 8.  aba                 | Impact: 0.007929
+ 9. cha                  | Impact: 0.007929
+10.  you                 | Impact: 0.007031
+11.  to                  | Impact: 0.007031
+12.  exercise            | Impact: 0.007031
+13.  the                 | Impact: 0.007031
+14.  utmost              | Impact: 0.007031
+15.  specifically        | Impact: 0.006998
+16.  in                  | Impact: 0.006998
+17.  your                | Impact: 0.006998
+18.  country             | Impact: 0.006998
+19.                      | Impact: 0.006152
+20.  money               | Impact: 0.005656
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  whatever            | Impact: -0.002816
+ 2.  your                | Impact: -0.002816
+ 3.  decision            | Impact: -0.002816
+ 4.  (                   | Impact: -0.001939
+ 5.                      | Impact: -0.001587
+ 6.  attention           | Impact: -0.001587
+ 7.  :                   | Impact: -0.001587
+ 8.  sir                 | Impact: -0.001587
+ 9.  /                   | Impact: -0.001304
+10.  i                   | Impact: -0.001304
+11.  am                  | Impact: -0.001304
+12.  dr                  | Impact: -0.001304
+13.  .                   | Impact: -0.001304
+14.  june                | Impact: -0.001013
+15.  while               | Impact: -0.001013
+16.  on                  | Impact: -0.001013
+17.  active              | Impact: -0.001013
+18.  duty                | Impact: -0.001013
+19.  .                   | Impact: -0.001013
+20.  prompt              | Impact: -0.000867

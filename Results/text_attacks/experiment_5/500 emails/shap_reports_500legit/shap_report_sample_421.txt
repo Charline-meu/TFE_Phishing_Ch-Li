@@ -1,0 +1,72 @@
+Sample 421
+==========
+
+Sample text preview: I have solutions FIRST and FOREMOST, pull Tony out from under Tani and put in Slava's group (we got bad advice from Donna Villareal originally) SECOND...
+
+Model prediction: [9.9979705e-01 2.0296547e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  solutions           | Impact: -0.012859 → LEGITIMATE
+ 2.  foremost            | Impact: -0.004135 → LEGITIMATE
+ 3.  have                | Impact: 0.002367 → PHISHING
+ 4.  second              | Impact: -0.002358 → LEGITIMATE
+ 5.  mike                | Impact: -0.002239 → LEGITIMATE
+ 6.  bad                 | Impact: -0.001802 → LEGITIMATE
+ 7.  advice              | Impact: -0.001802 → LEGITIMATE
+ 8.  ,                   | Impact: -0.001790 → LEGITIMATE
+ 9.  put                 | Impact: -0.001782 → LEGITIMATE
+10.  operational         | Impact: -0.001614 → LEGITIMATE
+11.  busy                | Impact: -0.001539 → LEGITIMATE
+12.  difficult           | Impact: -0.001525 → LEGITIMATE
+13.  regarding           | Impact: -0.001477 → LEGITIMATE
+14.  ,                   | Impact: -0.001445 → LEGITIMATE
+15.  is                  | Impact: -0.001407 → LEGITIMATE
+16.  very                | Impact: -0.001407 → LEGITIMATE
+17.  pull                | Impact: -0.001362 → LEGITIMATE
+18.  tony                | Impact: -0.001362 → LEGITIMATE
+19.  data                | Impact: -0.001345 → LEGITIMATE
+20.  /                   | Impact: -0.001345 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  have                | Impact: 0.002367
+ 2.  and                 | Impact: 0.001333
+ 3.  first               | Impact: 0.001098
+ 4.  (                   | Impact: 0.000603
+ 5.                      | Impact: 0.000290
+ 6.  i                   | Impact: 0.000290
+ 7.  sl                  | Impact: 0.000216
+ 8. ava                  | Impact: 0.000216
+ 9.                      | Impact: 0.000017
+10.  sl                  | Impact: 0.000001
+11. ava                  | Impact: 0.000001
+12.  has                 | Impact: 0.000001
+13.  organised           | Impact: 0.000001
+14.  a                   | Impact: 0.000001
+15.  meeting             | Impact: 0.000001
+16.  with                | Impact: 0.000001
+17.  spanish             | Impact: 0.000001
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  solutions           | Impact: -0.012859
+ 2.  foremost            | Impact: -0.004135
+ 3.  second              | Impact: -0.002358
+ 4.  mike                | Impact: -0.002239
+ 5.  bad                 | Impact: -0.001802
+ 6.  advice              | Impact: -0.001802
+ 7.  ,                   | Impact: -0.001790
+ 8.  put                 | Impact: -0.001782
+ 9.  operational         | Impact: -0.001614
+10.  busy                | Impact: -0.001539
+11.  difficult           | Impact: -0.001525
+12.  regarding           | Impact: -0.001477
+13.  ,                   | Impact: -0.001445
+14.  is                  | Impact: -0.001407
+15.  very                | Impact: -0.001407
+16.  pull                | Impact: -0.001362
+17.  tony                | Impact: -0.001362
+18.  data                | Impact: -0.001345
+19.  /                   | Impact: -0.001345
+20.  service             | Impact: -0.001340

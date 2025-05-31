@@ -1,0 +1,75 @@
+Phishing Sample 61
+==================
+
+Sample text preview: On Mon, Oct wrote: --]I'm truly stuck on this though. I don't know whether to frame the --]check, burn it, or cash it in. I framed my $ check from mp....
+
+Model prediction: [9.996997e-01 3.002709e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.028716 → PHISHING
+ 2.  real                | Impact: 0.028500 → PHISHING
+ 3.  cd                  | Impact: -0.015713 → LEGITIMATE
+ 4.  i                   | Impact: -0.015684 → LEGITIMATE
+ 5.  saying              | Impact: -0.014404 → LEGITIMATE
+ 6.  but                 | Impact: -0.013113 → LEGITIMATE
+ 7.  the                 | Impact: -0.011193 → LEGITIMATE
+ 8.  and                 | Impact: 0.011113 → PHISHING
+ 9.  that                | Impact: -0.010917 → LEGITIMATE
+10. s                    | Impact: -0.010917 → LEGITIMATE
+11.  it                  | Impact: 0.010536 → PHISHING
+12.  is                  | Impact: 0.010536 → PHISHING
+13.  some                | Impact: 0.010190 → PHISHING
+14.  years               | Impact: 0.010190 → PHISHING
+15.  back                | Impact: 0.009519 → PHISHING
+16.  and                 | Impact: 0.007753 → PHISHING
+17.  course              | Impact: -0.006940 → LEGITIMATE
+18.  .                   | Impact: 0.006472 → PHISHING
+19.  proof               | Impact: -0.005958 → LEGITIMATE
+20.  have                | Impact: -0.005882 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.028716
+ 2.  real                | Impact: 0.028500
+ 3.  and                 | Impact: 0.011113
+ 4.  it                  | Impact: 0.010536
+ 5.  is                  | Impact: 0.010536
+ 6.  some                | Impact: 0.010190
+ 7.  years               | Impact: 0.010190
+ 8.  back                | Impact: 0.009519
+ 9.  and                 | Impact: 0.007753
+10.  .                   | Impact: 0.006472
+11.  i                   | Impact: 0.004640
+12.  am                  | Impact: 0.004640
+13.  a                   | Impact: 0.003179
+14.  paid                | Impact: 0.003179
+15.  musician            | Impact: 0.003179
+16.  i                   | Impact: 0.001946
+17.  never               | Impact: 0.001946
+18.  .                   | Impact: 0.001389
+19.  cash                | Impact: 0.001376
+20.  it                  | Impact: 0.001376
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  cd                  | Impact: -0.015713
+ 2.  i                   | Impact: -0.015684
+ 3.  saying              | Impact: -0.014404
+ 4.  but                 | Impact: -0.013113
+ 5.  the                 | Impact: -0.011193
+ 6.  that                | Impact: -0.010917
+ 7. s                    | Impact: -0.010917
+ 8.  course              | Impact: -0.006940
+ 9.  proof               | Impact: -0.005958
+10.  have                | Impact: -0.005882
+11.  up                  | Impact: -0.005843
+12.  there               | Impact: -0.005843
+13.  in                  | Impact: -0.005127
+14.  of                  | Impact: -0.004604
+15.  another             | Impact: -0.004575
+16.  matter              | Impact: -0.004575
+17.  .                   | Impact: -0.004372
+18.  actual              | Impact: -0.003889
+19.  .                   | Impact: -0.003655
+20.  or                  | Impact: -0.003654

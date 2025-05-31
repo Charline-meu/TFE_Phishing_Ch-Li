@@ -1,0 +1,75 @@
+Sample 246
+==========
+
+Sample text preview: On Tue, Oct , at ::AM -, Elias wrote: > So, given the apparent commonality of these occurances, companies appear > to be losing a large amount of mone...
+
+Model prediction: [9.997460e-01 2.539895e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  money               | Impact: 0.069311 → PHISHING
+ 2.  bob                 | Impact: -0.041338 → LEGITIMATE
+ 3.  >                   | Impact: -0.038743 → LEGITIMATE
+ 4.  >                   | Impact: -0.022940 → LEGITIMATE
+ 5.  ,                   | Impact: 0.020102 → PHISHING
+ 6.  these               | Impact: 0.019825 → PHISHING
+ 7.  tiny                | Impact: 0.016004 → PHISHING
+ 8.  account             | Impact: 0.014680 → PHISHING
+ 9.  nj                  | Impact: -0.011569 → LEGITIMATE
+10.  tu                  | Impact: -0.011018 → LEGITIMATE
+11. e                    | Impact: -0.011018 → LEGITIMATE
+12.  >                   | Impact: -0.010565 → LEGITIMATE
+13.  you                 | Impact: 0.010221 → PHISHING
+14.  appear              | Impact: -0.009966 → LEGITIMATE
+15.  elias               | Impact: -0.009565 → LEGITIMATE
+16.  wrote               | Impact: -0.009565 → LEGITIMATE
+17. ances                | Impact: -0.009462 → LEGITIMATE
+18.  ,                   | Impact: -0.008879 → LEGITIMATE
+19.  -                   | Impact: -0.008363 → LEGITIMATE
+20.                      | Impact: -0.006865 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.069311
+ 2.  ,                   | Impact: 0.020102
+ 3.  these               | Impact: 0.019825
+ 4.  tiny                | Impact: 0.016004
+ 5.  account             | Impact: 0.014680
+ 6.  you                 | Impact: 0.010221
+ 7.  mail                | Impact: 0.003794
+ 8. ing                  | Impact: 0.003794
+ 9.  amount              | Impact: 0.003690
+10.  been                | Impact: 0.003527
+11.  closed              | Impact: 0.003527
+12.  has                 | Impact: 0.003457
+13.  checks              | Impact: 0.003177
+14.  there               | Impact: 0.002712
+15.  is                  | Impact: 0.002712
+16.  are                 | Impact: 0.002467
+17.  if                  | Impact: 0.001203
+18.  an                  | Impact: 0.001203
+19.  a                   | Impact: 0.000932
+20.  large               | Impact: 0.000932
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  bob                 | Impact: -0.041338
+ 2.  >                   | Impact: -0.038743
+ 3.  >                   | Impact: -0.022940
+ 4.  nj                  | Impact: -0.011569
+ 5.  tu                  | Impact: -0.011018
+ 6. e                    | Impact: -0.011018
+ 7.  >                   | Impact: -0.010565
+ 8.  appear              | Impact: -0.009966
+ 9.  elias               | Impact: -0.009565
+10.  wrote               | Impact: -0.009565
+11. ances                | Impact: -0.009462
+12.  ,                   | Impact: -0.008879
+13.  -                   | Impact: -0.008363
+14.                      | Impact: -0.006865
+15.  on                  | Impact: -0.006865
+16.  ,                   | Impact: -0.006708
+17.  ,                   | Impact: -0.006410
+18.  :                   | Impact: -0.006399
+19.  >                   | Impact: -0.006399
+20.  so                  | Impact: -0.006399

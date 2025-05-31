@@ -1,0 +1,73 @@
+Sample 4
+========
+
+Sample text preview: Dear Sir, Your TDS payment was debited. , rs has been debited Account. Your GST Payment Challan is attached in the link below. gov.in/PaymentChallan P...
+
+Model prediction: [1.5099384e-04 9.9984896e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.106212 → PHISHING
+ 2.  rs                  | Impact: 0.105815 → PHISHING
+ 3.  account             | Impact: 0.091646 → PHISHING
+ 4.  sincerely           | Impact: 0.081986 → PHISHING
+ 5.  download            | Impact: 0.079635 → PHISHING
+ 6.  sir                 | Impact: 0.075125 → PHISHING
+ 7.  department          | Impact: 0.069707 → PHISHING
+ 8.  your                | Impact: 0.052192 → PHISHING
+ 9.  payment             | Impact: 0.043570 → PHISHING
+10.  income              | Impact: 0.038290 → PHISHING
+11.  gs                  | Impact: -0.032906 → LEGITIMATE
+12.  payment             | Impact: 0.031577 → PHISHING
+13. t                    | Impact: -0.026058 → LEGITIMATE
+14.  please              | Impact: 0.025160 → PHISHING
+15.  tax                 | Impact: -0.024766 → LEGITIMATE
+16.  your                | Impact: 0.021053 → PHISHING
+17.  your                | Impact: 0.020166 → PHISHING
+18.  ,                   | Impact: 0.019762 → PHISHING
+19.  link                | Impact: 0.019226 → PHISHING
+20.  below               | Impact: 0.017282 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.106212
+ 2.  rs                  | Impact: 0.105815
+ 3.  account             | Impact: 0.091646
+ 4.  sincerely           | Impact: 0.081986
+ 5.  download            | Impact: 0.079635
+ 6.  sir                 | Impact: 0.075125
+ 7.  department          | Impact: 0.069707
+ 8.  your                | Impact: 0.052192
+ 9.  payment             | Impact: 0.043570
+10.  income              | Impact: 0.038290
+11.  payment             | Impact: 0.031577
+12.  please              | Impact: 0.025160
+13.  your                | Impact: 0.021053
+14.  your                | Impact: 0.020166
+15.  ,                   | Impact: 0.019762
+16.  link                | Impact: 0.019226
+17.  below               | Impact: 0.017282
+18.  payment             | Impact: 0.016278
+19.  payment             | Impact: 0.015439
+20.  been                | Impact: 0.014632
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  gs                  | Impact: -0.032906
+ 2. t                    | Impact: -0.026058
+ 3.  tax                 | Impact: -0.024766
+ 4.  is                  | Impact: -0.015794
+ 5. llan                 | Impact: -0.014871
+ 6. ed                   | Impact: -0.014200
+ 7.  td                  | Impact: -0.010960
+ 8. llan                 | Impact: -0.006842
+ 9.  the                 | Impact: -0.006664
+10. lan                  | Impact: -0.006034
+11. s                    | Impact: -0.003326
+12.  .                   | Impact: -0.002781
+13.  in                  | Impact: -0.001785
+14.  save                | Impact: -0.000925
+15.  ,                   | Impact: -0.000913
+16.  was                 | Impact: -0.000692
+17.  has                 | Impact: -0.000399
+18.                      | Impact: -0.000158

@@ -1,0 +1,75 @@
+Sample 186
+==========
+
+Sample text preview: I got this message for a contractor that might be interested in working with us on the lateral. Steve Thome had good luck with them on a water line an...
+
+Model prediction: [9.9979490e-01 2.0515826e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.013232 → LEGITIMATE
+ 2.  en                  | Impact: -0.006752 → LEGITIMATE
+ 3.  family              | Impact: 0.005776 → PHISHING
+ 4. ron                  | Impact: -0.005336 → LEGITIMATE
+ 5.  lateral             | Impact: -0.005044 → LEGITIMATE
+ 6.  phone               | Impact: 0.004509 → PHISHING
+ 7.  .                   | Impact: -0.004402 → LEGITIMATE
+ 8.  en                  | Impact: -0.004056 → LEGITIMATE
+ 9.  pass                | Impact: -0.002460 → LEGITIMATE
+10.  message             | Impact: -0.002371 → LEGITIMATE
+11.  helpful             | Impact: -0.002267 → LEGITIMATE
+12.  -                   | Impact: -0.002247 → LEGITIMATE
+13.  steve               | Impact: -0.002231 → LEGITIMATE
+14.  number              | Impact: 0.002177 → PHISHING
+15.  .                   | Impact: -0.001944 → LEGITIMATE
+16.  -                   | Impact: -0.001887 → LEGITIMATE
+17.  .                   | Impact: -0.001631 → LEGITIMATE
+18.  the                 | Impact: -0.001630 → LEGITIMATE
+19.  a                   | Impact: -0.001612 → LEGITIMATE
+20.  water               | Impact: -0.001612 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  family              | Impact: 0.005776
+ 2.  phone               | Impact: 0.004509
+ 3.  number              | Impact: 0.002177
+ 4.  his                 | Impact: 0.001240
+ 5.  is                  | Impact: 0.000812
+ 6.  mentioned           | Impact: 0.000593
+ 7.  a                   | Impact: 0.000593
+ 8.  guy                 | Impact: 0.000593
+ 9.  who                 | Impact: 0.000593
+10.  with                | Impact: 0.000576
+11.  us                  | Impact: 0.000576
+12.  and                 | Impact: 0.000525
+13.  contractor          | Impact: 0.000456
+14.  and                 | Impact: 0.000443
+15.  in                  | Impact: 0.000290
+16.  the                 | Impact: 0.000290
+17.  is                  | Impact: 0.000197
+18.  with                | Impact: 0.000197
+19.  an                  | Impact: 0.000197
+20.  in                  | Impact: 0.000188
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.013232
+ 2.  en                  | Impact: -0.006752
+ 3. ron                  | Impact: -0.005336
+ 4.  lateral             | Impact: -0.005044
+ 5.  .                   | Impact: -0.004402
+ 6.  en                  | Impact: -0.004056
+ 7.  pass                | Impact: -0.002460
+ 8.  message             | Impact: -0.002371
+ 9.  helpful             | Impact: -0.002267
+10.  -                   | Impact: -0.002247
+11.  steve               | Impact: -0.002231
+12.  .                   | Impact: -0.001944
+13.  -                   | Impact: -0.001887
+14.  .                   | Impact: -0.001631
+15.  the                 | Impact: -0.001630
+16.  a                   | Impact: -0.001612
+17.  water               | Impact: -0.001612
+18. ron                  | Impact: -0.001561
+19.  suggest             | Impact: -0.001326
+20.  on                  | Impact: -0.001242

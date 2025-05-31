@@ -1,0 +1,66 @@
+Phishing Sample 50
+==================
+
+Sample text preview: Dear: Good Day I know that this mail might be a surpriseing to you but do consider it as an emergency. In a nut shell, My name is Miss Funke komana ye...
+
+Model prediction: [1.5588391e-04 9.9984407e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.017237 → PHISHING
+ 2.  money               | Impact: 0.017237 → PHISHING
+ 3.  is                  | Impact: 0.017237 → PHISHING
+ 4.  released            | Impact: 0.017237 → PHISHING
+ 5.  to                  | Impact: 0.014987 → PHISHING
+ 6.  you                 | Impact: 0.014987 → PHISHING
+ 7.  .                   | Impact: 0.014987 → PHISHING
+ 8.  you                 | Impact: 0.011001 → PHISHING
+ 9.  as                  | Impact: 0.011001 → PHISHING
+10.  soon                | Impact: 0.011001 → PHISHING
+11.  as                  | Impact: 0.011001 → PHISHING
+12.  travelling          | Impact: 0.010764 → PHISHING
+13.  documents           | Impact: 0.010764 → PHISHING
+14.  to                  | Impact: 0.010764 → PHISHING
+15.  meet                | Impact: 0.010764 → PHISHING
+16.  manage              | Impact: 0.009409 → PHISHING
+17.  the                 | Impact: 0.009409 → PHISHING
+18.  money               | Impact: 0.009409 → PHISHING
+19.  for                 | Impact: 0.009409 → PHISHING
+20.  me                  | Impact: 0.009409 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.017237
+ 2.  money               | Impact: 0.017237
+ 3.  is                  | Impact: 0.017237
+ 4.  released            | Impact: 0.017237
+ 5.  to                  | Impact: 0.014987
+ 6.  you                 | Impact: 0.014987
+ 7.  .                   | Impact: 0.014987
+ 8.  you                 | Impact: 0.011001
+ 9.  as                  | Impact: 0.011001
+10.  soon                | Impact: 0.011001
+11.  as                  | Impact: 0.011001
+12.  travelling          | Impact: 0.010764
+13.  documents           | Impact: 0.010764
+14.  to                  | Impact: 0.010764
+15.  meet                | Impact: 0.010764
+16.  manage              | Impact: 0.009409
+17.  the                 | Impact: 0.009409
+18.  money               | Impact: 0.009409
+19.  for                 | Impact: 0.009409
+20.  me                  | Impact: 0.009409
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.001835
+ 2.  )                   | Impact: -0.001835
+ 3.  invest              | Impact: -0.001835
+ 4.  and                 | Impact: -0.001835
+ 5.  an                  | Impact: -0.000341
+ 6.  emergency           | Impact: -0.000341
+ 7.  .                   | Impact: -0.000341
+ 8.  do                  | Impact: -0.000341
+ 9.  consider            | Impact: -0.000341
+10.  it                  | Impact: -0.000341
+11.  as                  | Impact: -0.000341

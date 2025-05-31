@@ -1,0 +1,75 @@
+Sample 220
+==========
+
+Sample text preview: <SPAN style="LINE-HEIGHT: .em; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; WHITE-SPACE: normal; COLOR: rgb(,,); FONT-SIZE: px; FON...
+
+Model prediction: [0.08326415 0.9167359 ]
+Predicted class: PHISHING with 0.9167 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  we                  | Impact: 0.026692 → PHISHING
+ 2.  have                | Impact: 0.026692 → PHISHING
+ 3.  effect              | Impact: 0.026692 → PHISHING
+ 4. ed                   | Impact: 0.026692 → PHISHING
+ 5.  a                   | Impact: 0.026692 → PHISHING
+ 6.  payment             | Impact: 0.026692 → PHISHING
+ 7.  via                 | Impact: 0.026692 → PHISHING
+ 8.  wire                | Impact: 0.026692 → PHISHING
+ 9.  transfer            | Impact: 0.026692 → PHISHING
+10.  ref                 | Impact: 0.026692 → PHISHING
+11.  :                   | Impact: 0.026692 → PHISHING
+12.  xx                  | Impact: 0.026692 → PHISHING
+13. x                    | Impact: 0.026692 → PHISHING
+14.  /                   | Impact: 0.026692 → PHISHING
+15.  xx                  | Impact: 0.026692 → PHISHING
+16. x                    | Impact: 0.026692 → PHISHING
+17.  .                   | Impact: 0.026692 → PHISHING
+18.  height              | Impact: 0.009577 → PHISHING
+19.  :                   | Impact: 0.009577 → PHISHING
+20.  .                   | Impact: 0.009577 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  we                  | Impact: 0.026692
+ 2.  have                | Impact: 0.026692
+ 3.  effect              | Impact: 0.026692
+ 4. ed                   | Impact: 0.026692
+ 5.  a                   | Impact: 0.026692
+ 6.  payment             | Impact: 0.026692
+ 7.  via                 | Impact: 0.026692
+ 8.  wire                | Impact: 0.026692
+ 9.  transfer            | Impact: 0.026692
+10.  ref                 | Impact: 0.026692
+11.  :                   | Impact: 0.026692
+12.  xx                  | Impact: 0.026692
+13. x                    | Impact: 0.026692
+14.  /                   | Impact: 0.026692
+15.  xx                  | Impact: 0.026692
+16. x                    | Impact: 0.026692
+17.  .                   | Impact: 0.026692
+18.  height              | Impact: 0.009577
+19.  :                   | Impact: 0.009577
+20.  .                   | Impact: 0.009577
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  =                   | Impact: -0.007612
+ 2.  image               | Impact: -0.007612
+ 3.  -                   | Impact: -0.007612
+ 4.  p                   | Impact: -0.007612
+ 5. x                    | Impact: -0.007612
+ 6.  "                   | Impact: -0.007612
+ 7.  class               | Impact: -0.007612
+ 8.  file                | Impact: -0.006900
+ 9. name                 | Impact: -0.006900
+10.  p                   | Impact: -0.006900
+11. x                    | Impact: -0.006900
+12.  ?                   | Impact: -0.006900
+13.  "                   | Impact: -0.002319
+14.  line                | Impact: -0.002319
+15.  "                   | Impact: -0.002319
+16.  >                   | Impact: -0.002319
+17.  greeting            | Impact: -0.002319
+18. s                    | Impact: -0.002319
+19.  <                   | Impact: -0.002319
+20.  span                | Impact: -0.002319

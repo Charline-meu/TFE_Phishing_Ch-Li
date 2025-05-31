@@ -1,0 +1,67 @@
+Sample 48
+=========
+
+Sample text preview: Dear Friend REPLY ME ON: Good day and Compliments, I am writing this letter in confidence believing that if it is the wish of God for you to help me a...
+
+Model prediction: [1.6439523e-04 9.9983561e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  us                  | Impact: 0.015737 → PHISHING
+ 2.  in                  | Impact: 0.015737 → PHISHING
+ 3.  securing            | Impact: 0.015737 → PHISHING
+ 4.  this                | Impact: 0.015737 → PHISHING
+ 5.  money               | Impact: 0.015737 → PHISHING
+ 6.  annual              | Impact: 0.008500 → PHISHING
+ 7.  income              | Impact: 0.008500 → PHISHING
+ 8.  to                  | Impact: 0.008500 → PHISHING
+ 9.  you                 | Impact: 0.008500 → PHISHING
+10.  and                 | Impact: 0.006630 → PHISHING
+11.  my                  | Impact: 0.006630 → PHISHING
+12.  family              | Impact: 0.006630 → PHISHING
+13.  ,                   | Impact: 0.006630 → PHISHING
+14.  benin               | Impact: 0.005593 → PHISHING
+15.  republic            | Impact: 0.005593 → PHISHING
+16.  .                   | Impact: 0.005593 → PHISHING
+17.  ,                   | Impact: 0.005567 → PHISHING
+18.  the                 | Impact: 0.005226 → PHISHING
+19.  total               | Impact: 0.005226 → PHISHING
+20.  amount              | Impact: 0.005226 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  us                  | Impact: 0.015737
+ 2.  in                  | Impact: 0.015737
+ 3.  securing            | Impact: 0.015737
+ 4.  this                | Impact: 0.015737
+ 5.  money               | Impact: 0.015737
+ 6.  annual              | Impact: 0.008500
+ 7.  income              | Impact: 0.008500
+ 8.  to                  | Impact: 0.008500
+ 9.  you                 | Impact: 0.008500
+10.  and                 | Impact: 0.006630
+11.  my                  | Impact: 0.006630
+12.  family              | Impact: 0.006630
+13.  ,                   | Impact: 0.006630
+14.  benin               | Impact: 0.005593
+15.  republic            | Impact: 0.005593
+16.  .                   | Impact: 0.005593
+17.  ,                   | Impact: 0.005567
+18.  the                 | Impact: 0.005226
+19.  total               | Impact: 0.005226
+20.  amount              | Impact: 0.005226
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  and                 | Impact: -0.000357
+ 2.  compliment          | Impact: -0.000357
+ 3. s                    | Impact: -0.000357
+ 4.  ,                   | Impact: -0.000357
+ 5.  he                  | Impact: -0.000057
+ 6.  left                | Impact: -0.000057
+ 7.  up                  | Impact: -0.000057
+ 8.  to                  | Impact: -0.000057
+ 9.  usd                 | Impact: -0.000057
+10.  .                   | Impact: -0.000057
+11.  ,                   | Impact: -0.000057
+12.  .                   | Impact: -0.000057

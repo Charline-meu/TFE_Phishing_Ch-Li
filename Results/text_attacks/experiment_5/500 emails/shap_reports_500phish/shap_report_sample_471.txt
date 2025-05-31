@@ -1,0 +1,37 @@
+Sample 471
+==========
+
+Sample text preview: Click here to proceed with your Email update.
+
+Model prediction: [0.00100698 0.998993  ]
+Predicted class: PHISHING with 0.9990 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.329637 → PHISHING
+ 2.  email               | Impact: 0.107792 → PHISHING
+ 3.  here                | Impact: -0.091430 → LEGITIMATE
+ 4.  your                | Impact: 0.087155 → PHISHING
+ 5.  update              | Impact: 0.048538 → PHISHING
+ 6.  proceed             | Impact: 0.032371 → PHISHING
+ 7.  to                  | Impact: 0.025156 → PHISHING
+ 8.  .                   | Impact: -0.015228 → LEGITIMATE
+ 9.  with                | Impact: 0.012645 → PHISHING
+10.                      | Impact: 0.000000 → PHISHING
+11.                      | Impact: -0.000000 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.329637
+ 2.  email               | Impact: 0.107792
+ 3.  your                | Impact: 0.087155
+ 4.  update              | Impact: 0.048538
+ 5.  proceed             | Impact: 0.032371
+ 6.  to                  | Impact: 0.025156
+ 7.  with                | Impact: 0.012645
+ 8.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  here                | Impact: -0.091430
+ 2.  .                   | Impact: -0.015228
+ 3.                      | Impact: -0.000000

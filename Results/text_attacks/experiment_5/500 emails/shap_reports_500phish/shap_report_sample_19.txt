@@ -1,0 +1,75 @@
+Sample 19
+=========
+
+Sample text preview: BARRISTER MICHEL HOUSSOU, BP COTONOU BENIN RP TEL:+- Dear Friend, I am Michel Houssou,Attorney to Mr.Adnan Mohammad a Lebanese Investor/Gold merchant ...
+
+Model prediction: [1.6476636e-04 9.9983525e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.020735 → PHISHING
+ 2.  mrs                 | Impact: 0.014684 → PHISHING
+ 3.  mr                  | Impact: 0.014025 → PHISHING
+ 4.  attorney            | Impact: 0.008852 → PHISHING
+ 5.  to                  | Impact: 0.008852 → PHISHING
+ 6.  his                 | Impact: 0.008246 → PHISHING
+ 7.  wife                | Impact: 0.008246 → PHISHING
+ 8.  dear                | Impact: 0.007409 → PHISHING
+ 9.  friend              | Impact: 0.007409 → PHISHING
+10.  merchant            | Impact: 0.007351 → PHISHING
+11.  who                 | Impact: 0.007351 → PHISHING
+12.  .                   | Impact: 0.006770 → PHISHING
+13.  mohammad            | Impact: 0.006732 → PHISHING
+14.  a                   | Impact: 0.006732 → PHISHING
+15.  lebanese            | Impact: 0.006724 → PHISHING
+16.  investor            | Impact: 0.006724 → PHISHING
+17.  mr                  | Impact: 0.006207 → PHISHING
+18.  ,                   | Impact: 0.005857 → PHISHING
+19.  on                  | Impact: 0.005650 → PHISHING
+20.  december            | Impact: 0.005650 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.020735
+ 2.  mrs                 | Impact: 0.014684
+ 3.  mr                  | Impact: 0.014025
+ 4.  attorney            | Impact: 0.008852
+ 5.  to                  | Impact: 0.008852
+ 6.  his                 | Impact: 0.008246
+ 7.  wife                | Impact: 0.008246
+ 8.  dear                | Impact: 0.007409
+ 9.  friend              | Impact: 0.007409
+10.  merchant            | Impact: 0.007351
+11.  who                 | Impact: 0.007351
+12.  .                   | Impact: 0.006770
+13.  mohammad            | Impact: 0.006732
+14.  a                   | Impact: 0.006732
+15.  lebanese            | Impact: 0.006724
+16.  investor            | Impact: 0.006724
+17.  mr                  | Impact: 0.006207
+18.  ,                   | Impact: 0.005857
+19.  on                  | Impact: 0.005650
+20.  december            | Impact: 0.005650
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  michel              | Impact: -0.004674
+ 2.  honesty             | Impact: -0.002851
+ 3.  ,                   | Impact: -0.002851
+ 4.                      | Impact: -0.002324
+ 5.  barrister           | Impact: -0.002324
+ 6.  :                   | Impact: -0.001363
+ 7.  -                   | Impact: -0.001363
+ 8.  you                 | Impact: -0.001363
+ 9.  can                 | Impact: -0.001363
+10.  from                | Impact: -0.000680
+11.  any                 | Impact: -0.000680
+12.  breach              | Impact: -0.000680
+13.  of                  | Impact: -0.000680
+14.  the                 | Impact: -0.000680
+15.  law                 | Impact: -0.000680
+16.  all                 | Impact: -0.000680
+17.  i                   | Impact: -0.000680
+18.  ho                  | Impact: -0.000513
+19. uss                  | Impact: -0.000513
+20. ou                   | Impact: -0.000513

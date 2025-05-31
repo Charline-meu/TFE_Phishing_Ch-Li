@@ -1,0 +1,75 @@
+Sample 54
+=========
+
+Sample text preview: Dear Customer, Pennsylvania State Employees Credit Union is carrying out a fraud prevention exercise on all accounts to reduce and prevent fraud on ou...
+
+Model prediction: [2.0479455e-04 9.9979526e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.197221 → PHISHING
+ 2.  yours               | Impact: 0.060872 → PHISHING
+ 3.  account             | Impact: 0.058757 → PHISHING
+ 4.  pennsylvania        | Impact: -0.053202 → LEGITIMATE
+ 5.  account             | Impact: 0.049853 → PHISHING
+ 6.  carrying            | Impact: 0.041011 → PHISHING
+ 7.  sincerely           | Impact: 0.039037 → PHISHING
+ 8.  online              | Impact: 0.037146 → PHISHING
+ 9.  your                | Impact: 0.036398 → PHISHING
+10.  accounts            | Impact: 0.035061 → PHISHING
+11.  employees           | Impact: 0.033934 → PHISHING
+12.  click               | Impact: 0.032269 → PHISHING
+13.  fraud               | Impact: 0.027905 → PHISHING
+14.  account             | Impact: 0.026312 → PHISHING
+15.  verified            | Impact: 0.025863 → PHISHING
+16.  prevent             | Impact: 0.024285 → PHISHING
+17.  customer            | Impact: 0.024205 → PHISHING
+18.  all                 | Impact: 0.024070 → PHISHING
+19.  will                | Impact: 0.023393 → PHISHING
+20.  .                   | Impact: -0.023297 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.197221
+ 2.  yours               | Impact: 0.060872
+ 3.  account             | Impact: 0.058757
+ 4.  account             | Impact: 0.049853
+ 5.  carrying            | Impact: 0.041011
+ 6.  sincerely           | Impact: 0.039037
+ 7.  online              | Impact: 0.037146
+ 8.  your                | Impact: 0.036398
+ 9.  accounts            | Impact: 0.035061
+10.  employees           | Impact: 0.033934
+11.  click               | Impact: 0.032269
+12.  fraud               | Impact: 0.027905
+13.  account             | Impact: 0.026312
+14.  verified            | Impact: 0.025863
+15.  prevent             | Impact: 0.024285
+16.  customer            | Impact: 0.024205
+17.  all                 | Impact: 0.024070
+18.  will                | Impact: 0.023393
+19.  please              | Impact: 0.020307
+20.  is                  | Impact: 0.016636
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  pennsylvania        | Impact: -0.053202
+ 2.  .                   | Impact: -0.023297
+ 3.  system              | Impact: -0.017062
+ 4.  union               | Impact: -0.002355
+ 5.  a                   | Impact: -0.000151
+ 6.  special             | Impact: -0.000151
+ 7.  anti                | Impact: -0.000151
+ 8.  -                   | Impact: -0.000151
+ 9.  which               | Impact: -0.000009
+10.  will                | Impact: -0.000009
+11.  reduce              | Impact: -0.000009
+12.  all                 | Impact: -0.000009
+13.  risk                | Impact: -0.000009
+14.  of                  | Impact: -0.000009
+15.  online              | Impact: -0.000009
+16.  fraud               | Impact: -0.000009
+17.  this                | Impact: -0.000008
+18.  latter              | Impact: -0.000008
+19.  after               | Impact: -0.000008
+20.  you                 | Impact: -0.000008

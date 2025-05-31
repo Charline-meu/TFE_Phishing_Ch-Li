@@ -1,0 +1,74 @@
+Sample 484
+==========
+
+Sample text preview: When: Tuesday, October , : PM-: PM (GMT-:) Central Time (US & Canada). Where: b *~*~*~*~*~*~*~*~*~*
+
+Model prediction: [9.9976033e-01 2.3970516e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.033245 → LEGITIMATE
+ 2.  &                   | Impact: 0.023289 → PHISHING
+ 3.  *                   | Impact: 0.014050 → PHISHING
+ 4.  central             | Impact: -0.011364 → LEGITIMATE
+ 5.  ~                   | Impact: 0.010086 → PHISHING
+ 6.  b                   | Impact: 0.009149 → PHISHING
+ 7.  where               | Impact: 0.008357 → PHISHING
+ 8.  *                   | Impact: -0.006774 → LEGITIMATE
+ 9.  time                | Impact: 0.006423 → PHISHING
+10.  ~                   | Impact: 0.006368 → PHISHING
+11.  ~                   | Impact: 0.006148 → PHISHING
+12.  :                   | Impact: -0.004555 → LEGITIMATE
+13.  us                  | Impact: 0.004401 → PHISHING
+14.  *                   | Impact: -0.004195 → LEGITIMATE
+15.  *                   | Impact: -0.003966 → LEGITIMATE
+16.  ,                   | Impact: -0.003874 → LEGITIMATE
+17.  *                   | Impact: -0.003856 → LEGITIMATE
+18.  )                   | Impact: -0.003796 → LEGITIMATE
+19.  *                   | Impact: -0.003640 → LEGITIMATE
+20.  canada              | Impact: -0.003640 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  &                   | Impact: 0.023289
+ 2.  *                   | Impact: 0.014050
+ 3.  ~                   | Impact: 0.010086
+ 4.  b                   | Impact: 0.009149
+ 5.  where               | Impact: 0.008357
+ 6.  time                | Impact: 0.006423
+ 7.  ~                   | Impact: 0.006368
+ 8.  ~                   | Impact: 0.006148
+ 9.  us                  | Impact: 0.004401
+10.  october             | Impact: 0.003467
+11.  .                   | Impact: 0.002639
+12.  (                   | Impact: 0.002232
+13.  ~                   | Impact: 0.002176
+14.  ~                   | Impact: 0.001272
+15.  when                | Impact: 0.001089
+16.  ~                   | Impact: 0.000976
+17.  ~                   | Impact: 0.000940
+18.                      | Impact: 0.000057
+19.                      | Impact: 0.000055
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.033245
+ 2.  central             | Impact: -0.011364
+ 3.  *                   | Impact: -0.006774
+ 4.  :                   | Impact: -0.004555
+ 5.  *                   | Impact: -0.004195
+ 6.  *                   | Impact: -0.003966
+ 7.  ,                   | Impact: -0.003874
+ 8.  *                   | Impact: -0.003856
+ 9.  )                   | Impact: -0.003796
+10.  *                   | Impact: -0.003640
+11.  canada              | Impact: -0.003640
+12.  pm                  | Impact: -0.003284
+13.  pm                  | Impact: -0.003217
+14.  *                   | Impact: -0.003146
+15.  :                   | Impact: -0.003065
+16.  gm                  | Impact: -0.003060
+17.  *                   | Impact: -0.003039
+18.  :                   | Impact: -0.002839
+19.  tuesday             | Impact: -0.002682
+20.  :                   | Impact: -0.002622

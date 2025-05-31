@@ -1,0 +1,74 @@
+Sample 291
+==========
+
+Sample text preview: - This mail is in HTML. Some elements may be ommited in plain text. - DEAR VALUED CUSTOMER During a recent security check on USAA online banking, your...
+
+Model prediction: [1.7130133e-04 9.9982870e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  message             | Impact: 0.089655 → PHISHING
+ 2.  will                | Impact: 0.060741 → PHISHING
+ 3.  text                | Impact: 0.059569 → PHISHING
+ 4.  session             | Impact: -0.048902 → LEGITIMATE
+ 5.  sorry               | Impact: 0.047283 → PHISHING
+ 6.  www                 | Impact: 0.046499 → PHISHING
+ 7.  :                   | Impact: -0.044680 → LEGITIMATE
+ 8.  hr                  | Impact: 0.042193 → PHISHING
+ 9.  this                | Impact: 0.040706 → PHISHING
+10.  html                | Impact: 0.038500 → PHISHING
+11.  banking             | Impact: 0.035734 → PHISHING
+12.  online              | Impact: 0.034756 → PHISHING
+13.  banking             | Impact: 0.033386 → PHISHING
+14.  failure             | Impact: -0.033116 → LEGITIMATE
+15.  plain               | Impact: 0.030803 → PHISHING
+16.  dear                | Impact: 0.030191 → PHISHING
+17.  mail                | Impact: 0.030001 → PHISHING
+18.  regards             | Impact: 0.027560 → PHISHING
+19.  access              | Impact: 0.024823 → PHISHING
+20.  within              | Impact: 0.023797 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  message             | Impact: 0.089655
+ 2.  will                | Impact: 0.060741
+ 3.  text                | Impact: 0.059569
+ 4.  sorry               | Impact: 0.047283
+ 5.  www                 | Impact: 0.046499
+ 6.  hr                  | Impact: 0.042193
+ 7.  this                | Impact: 0.040706
+ 8.  html                | Impact: 0.038500
+ 9.  banking             | Impact: 0.035734
+10.  online              | Impact: 0.034756
+11.  banking             | Impact: 0.033386
+12.  plain               | Impact: 0.030803
+13.  dear                | Impact: 0.030191
+14.  mail                | Impact: 0.030001
+15.  regards             | Impact: 0.027560
+16.  access              | Impact: 0.024823
+17.  within              | Impact: 0.023797
+18.  this                | Impact: 0.023479
+19.  to                  | Impact: 0.021690
+20.  lead                | Impact: 0.021407
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  session             | Impact: -0.048902
+ 2.  :                   | Impact: -0.044680
+ 3.  failure             | Impact: -0.033116
+ 4.  .                   | Impact: -0.009923
+ 5.  ,                   | Impact: -0.009430
+ 6.  the                 | Impact: -0.006453
+ 7.  .                   | Impact: -0.006030
+ 8.  .                   | Impact: -0.004309
+ 9.  .                   | Impact: -0.004305
+10.                      | Impact: -0.002866
+11. mite                 | Impact: -0.002815
+12.  .                   | Impact: -0.002551
+13.  for                 | Impact: -0.002147
+14.  some                | Impact: -0.001220
+15.  elements            | Impact: -0.001220
+16.  may                 | Impact: -0.001220
+17.  be                  | Impact: -0.001220
+18.  ,                   | Impact: -0.001154
+19.  ,                   | Impact: -0.000949

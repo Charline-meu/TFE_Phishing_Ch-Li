@@ -1,0 +1,61 @@
+Sample 390
+==========
+
+Sample text preview: Recovery Notification Hello Some messages were rejected due to system glitch You can recover delayed messages below. Restore Messages Thank You. monke...
+
+Model prediction: [2.1243295e-04 9.9978763e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ©                   | Impact: 0.148640 → PHISHING
+ 2.  notification        | Impact: 0.125050 → PHISHING
+ 3.  messages            | Impact: 0.089122 → PHISHING
+ 4.  hello               | Impact: 0.074990 → PHISHING
+ 5.  org                 | Impact: 0.070501 → PHISHING
+ 6.  messages            | Impact: 0.061896 → PHISHING
+ 7.  restore             | Impact: 0.052676 → PHISHING
+ 8.  recover             | Impact: 0.047948 → PHISHING
+ 9.  below               | Impact: 0.046349 → PHISHING
+10.  monkey              | Impact: 0.040594 → PHISHING
+11.  delayed             | Impact: 0.036162 → PHISHING
+12.  messages            | Impact: 0.032033 → PHISHING
+13.  recovery            | Impact: 0.030169 → PHISHING
+14.  you                 | Impact: 0.029904 → PHISHING
+15.  you                 | Impact: 0.029491 → PHISHING
+16.  .                   | Impact: 0.029299 → PHISHING
+17.  inc                 | Impact: 0.024669 → PHISHING
+18.  .                   | Impact: -0.019563 → LEGITIMATE
+19.  some                | Impact: -0.016527 → LEGITIMATE
+20.  thank               | Impact: 0.014304 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.148640
+ 2.  notification        | Impact: 0.125050
+ 3.  messages            | Impact: 0.089122
+ 4.  hello               | Impact: 0.074990
+ 5.  org                 | Impact: 0.070501
+ 6.  messages            | Impact: 0.061896
+ 7.  restore             | Impact: 0.052676
+ 8.  recover             | Impact: 0.047948
+ 9.  below               | Impact: 0.046349
+10.  monkey              | Impact: 0.040594
+11.  delayed             | Impact: 0.036162
+12.  messages            | Impact: 0.032033
+13.  recovery            | Impact: 0.030169
+14.  you                 | Impact: 0.029904
+15.  you                 | Impact: 0.029491
+16.  .                   | Impact: 0.029299
+17.  inc                 | Impact: 0.024669
+18.  thank               | Impact: 0.014304
+19.  can                 | Impact: 0.014232
+20.  rights              | Impact: 0.007884
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.019563
+ 2.  some                | Impact: -0.016527
+ 3.  rejected            | Impact: -0.010847
+ 4. lit                  | Impact: -0.005991
+ 5.  reserved            | Impact: -0.002974
+ 6.                      | Impact: -0.000010

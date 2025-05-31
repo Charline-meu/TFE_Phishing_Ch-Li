@@ -1,0 +1,75 @@
+Sample 42
+=========
+
+Sample text preview: NRI Number One Expats help Hindi films make dollars and sense even at their own expense By JEANNE E. FREDRIKSEN The expatriate in films is nothing new...
+
+Model prediction: [0.8620211  0.13797897]
+Predicted class: LEGITIMATE with 0.8620 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ka                  | Impact: 0.006090 → PHISHING
+ 2. bh                   | Impact: 0.006090 → PHISHING
+ 3. i                    | Impact: 0.006090 → PHISHING
+ 4.  k                   | Impact: 0.006090 → PHISHING
+ 5. hus                  | Impact: 0.006090 → PHISHING
+ 6. hi                   | Impact: 0.006090 → PHISHING
+ 7.  ka                  | Impact: 0.006090 → PHISHING
+ 8. bh                   | Impact: 0.006090 → PHISHING
+ 9. ie                   | Impact: 0.006090 → PHISHING
+10.  (                   | Impact: 0.006090 → PHISHING
+11.  kg                  | Impact: 0.006090 → PHISHING
+12.  ,                   | Impact: 0.006090 → PHISHING
+13.  )                   | Impact: 0.006090 → PHISHING
+14.  grabbed             | Impact: 0.006090 → PHISHING
+15.  the                 | Impact: 0.006090 → PHISHING
+16.  no                  | Impact: 0.006090 → PHISHING
+17.  .                   | Impact: 0.006090 → PHISHING
+18.  g                   | Impact: 0.006090 → PHISHING
+19. ham                  | Impact: 0.006090 → PHISHING
+20.  k                   | Impact: 0.005465 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ka                  | Impact: 0.006090
+ 2. bh                   | Impact: 0.006090
+ 3. i                    | Impact: 0.006090
+ 4.  k                   | Impact: 0.006090
+ 5. hus                  | Impact: 0.006090
+ 6. hi                   | Impact: 0.006090
+ 7.  ka                  | Impact: 0.006090
+ 8. bh                   | Impact: 0.006090
+ 9. ie                   | Impact: 0.006090
+10.  (                   | Impact: 0.006090
+11.  kg                  | Impact: 0.006090
+12.  ,                   | Impact: 0.006090
+13.  )                   | Impact: 0.006090
+14.  grabbed             | Impact: 0.006090
+15.  the                 | Impact: 0.006090
+16.  no                  | Impact: 0.006090
+17.  .                   | Impact: 0.006090
+18.  g                   | Impact: 0.006090
+19. ham                  | Impact: 0.006090
+20.  k                   | Impact: 0.005465
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  casablanca          | Impact: -0.002557
+ 2.  starring            | Impact: -0.002557
+ 3.  humphrey            | Impact: -0.002557
+ 4.  bog                 | Impact: -0.002557
+ 5. art                  | Impact: -0.002557
+ 6.  as                  | Impact: -0.002557
+ 7.  the                 | Impact: -0.002557
+ 8.  su                  | Impact: -0.002557
+ 9. ave                  | Impact: -0.002557
+10.  ,                   | Impact: -0.002557
+11.  mysterious          | Impact: -0.002557
+12.  rick                | Impact: -0.002557
+13.  in                  | Impact: -0.002557
+14.  morocco             | Impact: -0.002557
+15.  remains             | Impact: -0.002557
+16.  the                 | Impact: -0.002557
+17.  top                 | Impact: -0.002557
+18.  favorite            | Impact: -0.002557
+19.  years               | Impact: -0.002557
+20.  after               | Impact: -0.002557

@@ -1,0 +1,61 @@
+Sample 182
+==========
+
+Sample text preview: Your Outlook Exceeded its storage limit Click here< fill and SUBMIT for more space or you wont be able to send Mail.
+
+Model prediction: [0.00743162 0.9925684 ]
+Predicted class: PHISHING with 0.9926 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.185674 → PHISHING
+ 2.  your                | Impact: 0.148688 → PHISHING
+ 3.  submit              | Impact: 0.100755 → PHISHING
+ 4.  storage             | Impact: 0.093116 → PHISHING
+ 5.  <                   | Impact: 0.074685 → PHISHING
+ 6.  fill                | Impact: 0.060672 → PHISHING
+ 7. t                    | Impact: -0.058230 → LEGITIMATE
+ 8.  you                 | Impact: 0.057960 → PHISHING
+ 9.  outlook             | Impact: -0.052589 → LEGITIMATE
+10.  and                 | Impact: 0.050753 → PHISHING
+11.  to                  | Impact: 0.046647 → PHISHING
+12.  exceeded            | Impact: 0.039655 → PHISHING
+13.  more                | Impact: 0.036877 → PHISHING
+14.  .                   | Impact: 0.036012 → PHISHING
+15.  able                | Impact: 0.032103 → PHISHING
+16.  its                 | Impact: 0.031620 → PHISHING
+17.  here                | Impact: 0.024048 → PHISHING
+18.  limit               | Impact: 0.023985 → PHISHING
+19.  mail                | Impact: 0.020203 → PHISHING
+20.  or                  | Impact: -0.018682 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.185674
+ 2.  your                | Impact: 0.148688
+ 3.  submit              | Impact: 0.100755
+ 4.  storage             | Impact: 0.093116
+ 5.  <                   | Impact: 0.074685
+ 6.  fill                | Impact: 0.060672
+ 7.  you                 | Impact: 0.057960
+ 8.  and                 | Impact: 0.050753
+ 9.  to                  | Impact: 0.046647
+10.  exceeded            | Impact: 0.039655
+11.  more                | Impact: 0.036877
+12.  .                   | Impact: 0.036012
+13.  able                | Impact: 0.032103
+14.  its                 | Impact: 0.031620
+15.  here                | Impact: 0.024048
+16.  limit               | Impact: 0.023985
+17.  mail                | Impact: 0.020203
+18.  for                 | Impact: 0.017359
+19.  space               | Impact: 0.002362
+20.                      | Impact: 0.002358
+
+Top features pushing towards LEGITIMATE classification:
+ 1. t                    | Impact: -0.058230
+ 2.  outlook             | Impact: -0.052589
+ 3.  or                  | Impact: -0.018682
+ 4.  be                  | Impact: -0.018246
+ 5.  won                 | Impact: -0.008339
+ 6.  send                | Impact: -0.000500

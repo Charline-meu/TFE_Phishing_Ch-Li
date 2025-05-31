@@ -1,0 +1,75 @@
+Sample 7
+========
+
+Sample text preview: Jeff knows he has several deals off right now. He's fixing them as we e-mail. Kerri Thompson@ENRON // : PM To: Kate Symes/PDX/ECT@ECT cc: Subject: apb...
+
+Model prediction: [9.9980348e-01 1.9656405e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  jeff                | Impact: -0.060056 → LEGITIMATE
+ 2.  .                   | Impact: -0.030587 → LEGITIMATE
+ 3.  .                   | Impact: -0.020575 → LEGITIMATE
+ 4.  has                 | Impact: 0.019392 → PHISHING
+ 5. ron                  | Impact: -0.019106 → LEGITIMATE
+ 6.  right               | Impact: -0.017481 → LEGITIMATE
+ 7.  thompson            | Impact: 0.016616 → PHISHING
+ 8.  @                   | Impact: 0.016280 → PHISHING
+ 9.  fixing              | Impact: -0.015957 → LEGITIMATE
+10.  we                  | Impact: 0.015259 → PHISHING
+11.  broker              | Impact: 0.014203 → PHISHING
+12.  has                 | Impact: 0.013366 → PHISHING
+13.  jeff                | Impact: -0.012648 → LEGITIMATE
+14.  sy                  | Impact: -0.011743 → LEGITIMATE
+15.  mail                | Impact: 0.011008 → PHISHING
+16.  deals               | Impact: 0.010641 → PHISHING
+17.  now                 | Impact: 0.010176 → PHISHING
+18.  ap                  | Impact: -0.009669 → LEGITIMATE
+19.  ec                  | Impact: -0.009309 → LEGITIMATE
+20.  he                  | Impact: 0.009166 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  has                 | Impact: 0.019392
+ 2.  thompson            | Impact: 0.016616
+ 3.  @                   | Impact: 0.016280
+ 4.  we                  | Impact: 0.015259
+ 5.  broker              | Impact: 0.014203
+ 6.  has                 | Impact: 0.013366
+ 7.  mail                | Impact: 0.011008
+ 8.  deals               | Impact: 0.010641
+ 9.  now                 | Impact: 0.010176
+10.  he                  | Impact: 0.009166
+11.  them                | Impact: 0.007696
+12.  /                   | Impact: 0.006845
+13.  several             | Impact: 0.006634
+14.  off                 | Impact: 0.006486
+15.  /                   | Impact: 0.006114
+16.  -                   | Impact: 0.004895
+17.  knows               | Impact: 0.003999
+18. x                    | Impact: 0.003345
+19.  as                  | Impact: 0.003149
+20.  @                   | Impact: 0.003088
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  jeff                | Impact: -0.060056
+ 2.  .                   | Impact: -0.030587
+ 3.  .                   | Impact: -0.020575
+ 4. ron                  | Impact: -0.019106
+ 5.  right               | Impact: -0.017481
+ 6.  fixing              | Impact: -0.015957
+ 7.  jeff                | Impact: -0.012648
+ 8.  sy                  | Impact: -0.011743
+ 9.  ap                  | Impact: -0.009669
+10.  ec                  | Impact: -0.009309
+11.  /                   | Impact: -0.008475
+12. out                  | Impact: -0.008181
+13.  pd                  | Impact: -0.007829
+14.  en                  | Impact: -0.007370
+15.  :                   | Impact: -0.006655
+16.  /                   | Impact: -0.005763
+17.  jan                 | Impact: -0.004115
+18.  :                   | Impact: -0.003913
+19.  ec                  | Impact: -0.003825
+20.  subject             | Impact: -0.003294

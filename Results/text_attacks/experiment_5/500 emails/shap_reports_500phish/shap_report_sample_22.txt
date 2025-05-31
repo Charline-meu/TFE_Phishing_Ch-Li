@@ -1,0 +1,75 @@
+Sample 22
+=========
+
+Sample text preview: CONTACT ME THROUGH MY ATTORNEYS FAX; -- OR EMAIL Compliments of the day to you! I am Mrs. Mariam Abacha widow of the late General Sanni Abacha former ...
+
+Model prediction: [2.2242867e-04 9.9977762e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  that                | Impact: 0.024724 → PHISHING
+ 2.  my                  | Impact: 0.024724 → PHISHING
+ 3.  surviving           | Impact: 0.024724 → PHISHING
+ 4.  eldest              | Impact: 0.024724 → PHISHING
+ 5.  son                 | Impact: 0.024724 → PHISHING
+ 6.  former              | Impact: 0.009312 → PHISHING
+ 7.  nigerian            | Impact: 0.009312 → PHISHING
+ 8.  military            | Impact: 0.009312 → PHISHING
+ 9.  president           | Impact: 0.009312 → PHISHING
+10.  i                   | Impact: 0.006101 → PHISHING
+11.  am                  | Impact: 0.006101 → PHISHING
+12.  mrs                 | Impact: 0.006101 → PHISHING
+13.  (                   | Impact: 0.005452 → PHISHING
+14.  mohammed            | Impact: 0.005452 → PHISHING
+15.  )                   | Impact: 0.005452 → PHISHING
+16.  ,                   | Impact: 0.005452 → PHISHING
+17.  was                 | Impact: 0.005104 → PHISHING
+18.  und                 | Impact: 0.005104 → PHISHING
+19. ull                  | Impact: 0.005104 → PHISHING
+20. y                    | Impact: 0.005104 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  that                | Impact: 0.024724
+ 2.  my                  | Impact: 0.024724
+ 3.  surviving           | Impact: 0.024724
+ 4.  eldest              | Impact: 0.024724
+ 5.  son                 | Impact: 0.024724
+ 6.  former              | Impact: 0.009312
+ 7.  nigerian            | Impact: 0.009312
+ 8.  military            | Impact: 0.009312
+ 9.  president           | Impact: 0.009312
+10.  i                   | Impact: 0.006101
+11.  am                  | Impact: 0.006101
+12.  mrs                 | Impact: 0.006101
+13.  (                   | Impact: 0.005452
+14.  mohammed            | Impact: 0.005452
+15.  )                   | Impact: 0.005452
+16.  ,                   | Impact: 0.005452
+17.  was                 | Impact: 0.005104
+18.  und                 | Impact: 0.005104
+19. ull                  | Impact: 0.005104
+20. y                    | Impact: 0.005104
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  attitude            | Impact: -0.000685
+ 2.  of                  | Impact: -0.000685
+ 3.  leaders             | Impact: -0.000685
+ 4.  especially          | Impact: -0.000685
+ 5.  in                  | Impact: -0.000685
+ 6.  africa              | Impact: -0.000685
+ 7.  when                | Impact: -0.000685
+ 8.  there               | Impact: -0.000685
+ 9.  is                  | Impact: -0.000053
+10.  a                   | Impact: -0.000053
+11.  change              | Impact: -0.000053
+12.  of                  | Impact: -0.000053
+13.  government          | Impact: -0.000053
+14.  .                   | Impact: -0.000053
+15.  und                 | Impact: -0.000052
+16. em                   | Impact: -0.000052
+17. oc                   | Impact: -0.000052
+18. ratic                | Impact: -0.000052
+19.  manner              | Impact: -0.000052
+20.  the                 | Impact: -0.000052

@@ -1,0 +1,75 @@
+Sample 48
+=========
+
+Sample text preview: Last week, Enron Corp. announced a -for- stock split of its common shares for shareholders of record on July , . This means that each shareholder will...
+
+Model prediction: [9.9969232e-01 3.0766122e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.087977 → LEGITIMATE
+ 2. ron                  | Impact: -0.087977 → LEGITIMATE
+ 3.  corp                | Impact: -0.011857 → LEGITIMATE
+ 4.  our                 | Impact: 0.007980 → PHISHING
+ 5.  transfer            | Impact: 0.007980 → PHISHING
+ 6.  agent               | Impact: 0.007980 → PHISHING
+ 7.  ,                   | Impact: 0.007980 → PHISHING
+ 8.  our                 | Impact: 0.007002 → PHISHING
+ 9.  transfer            | Impact: 0.007002 → PHISHING
+10.  agent               | Impact: 0.007002 → PHISHING
+11.  address             | Impact: 0.007002 → PHISHING
+12.  on                  | Impact: 0.007002 → PHISHING
+13.  file                | Impact: 0.007002 → PHISHING
+14.  with                | Impact: 0.007002 → PHISHING
+15.  ,                   | Impact: 0.007002 → PHISHING
+16.  en                  | Impact: -0.005923 → LEGITIMATE
+17. ron                  | Impact: -0.005923 → LEGITIMATE
+18.  corp                | Impact: -0.005923 → LEGITIMATE
+19.  first               | Impact: 0.004155 → PHISHING
+20.  chicago             | Impact: 0.004155 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  our                 | Impact: 0.007980
+ 2.  transfer            | Impact: 0.007980
+ 3.  agent               | Impact: 0.007980
+ 4.  ,                   | Impact: 0.007980
+ 5.  our                 | Impact: 0.007002
+ 6.  transfer            | Impact: 0.007002
+ 7.  agent               | Impact: 0.007002
+ 8.  address             | Impact: 0.007002
+ 9.  on                  | Impact: 0.007002
+10.  file                | Impact: 0.007002
+11.  with                | Impact: 0.007002
+12.  ,                   | Impact: 0.007002
+13.  first               | Impact: 0.004155
+14.  chicago             | Impact: 0.004155
+15.  trust               | Impact: 0.004155
+16.  company             | Impact: 0.004155
+17.  ,                   | Impact: 0.004155
+18.  your                | Impact: 0.003511
+19.  certificate         | Impact: 0.003511
+20.  will                | Impact: 0.003511
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.087977
+ 2. ron                  | Impact: -0.087977
+ 3.  corp                | Impact: -0.011857
+ 4.  en                  | Impact: -0.005923
+ 5. ron                  | Impact: -0.005923
+ 6.  corp                | Impact: -0.005923
+ 7.  savings             | Impact: -0.002243
+ 8.  plan                | Impact: -0.002243
+ 9.  /                   | Impact: -0.002243
+10.  es                  | Impact: -0.002243
+11. op                   | Impact: -0.002243
+12.  /                   | Impact: -0.002243
+13.  phantom             | Impact: -0.002243
+14.  if                  | Impact: -0.001983
+15.  you                 | Impact: -0.001983
+16.  hold                | Impact: -0.001983
+17.  shares              | Impact: -0.001983
+18.  in                  | Impact: -0.001983
+19.  your                | Impact: -0.001983
+20.  es                  | Impact: -0.001983

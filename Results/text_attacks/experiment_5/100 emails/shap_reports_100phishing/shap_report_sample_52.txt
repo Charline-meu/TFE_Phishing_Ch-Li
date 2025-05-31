@@ -1,0 +1,75 @@
+Phishing Sample 52
+==================
+
+Sample text preview: We are sorry, We have noticed an error activity on your wellsfargo online banking services. We advice you to verify your Wellsfargo account(s) now usi...
+
+Model prediction: [2.1034427e-04 9.9978966e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ©                   | Impact: 0.092164 → PHISHING
+ 2.  your                | Impact: 0.075873 → PHISHING
+ 3.  account             | Impact: 0.058213 → PHISHING
+ 4.  you                 | Impact: 0.057486 → PHISHING
+ 5.  your                | Impact: 0.054523 → PHISHING
+ 6.  you                 | Impact: 0.053740 → PHISHING
+ 7.  download            | Impact: 0.049506 → PHISHING
+ 8.  verify              | Impact: 0.045350 → PHISHING
+ 9.  account             | Impact: 0.032618 → PHISHING
+10.  banking             | Impact: 0.032574 → PHISHING
+11.  your                | Impact: 0.024502 → PHISHING
+12.  please              | Impact: 0.023362 → PHISHING
+13.  attachment          | Impact: 0.022786 → PHISHING
+14.  have                | Impact: 0.019900 → PHISHING
+15.  subject             | Impact: 0.018574 → PHISHING
+16.  error               | Impact: 0.018387 → PHISHING
+17.  to                  | Impact: 0.017730 → PHISHING
+18.  services            | Impact: 0.017174 → PHISHING
+19.  to                  | Impact: 0.015377 → PHISHING
+20.  we                  | Impact: 0.015075 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.092164
+ 2.  your                | Impact: 0.075873
+ 3.  account             | Impact: 0.058213
+ 4.  you                 | Impact: 0.057486
+ 5.  your                | Impact: 0.054523
+ 6.  you                 | Impact: 0.053740
+ 7.  download            | Impact: 0.049506
+ 8.  verify              | Impact: 0.045350
+ 9.  account             | Impact: 0.032618
+10.  banking             | Impact: 0.032574
+11.  your                | Impact: 0.024502
+12.  please              | Impact: 0.023362
+13.  attachment          | Impact: 0.022786
+14.  have                | Impact: 0.019900
+15.  subject             | Impact: 0.018574
+16.  error               | Impact: 0.018387
+17.  to                  | Impact: 0.017730
+18.  services            | Impact: 0.017174
+19.  to                  | Impact: 0.015377
+20.  we                  | Impact: 0.015075
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  wells               | Impact: -0.012235
+ 2.  .                   | Impact: -0.011793
+ 3. ivity                | Impact: -0.007085
+ 4.  or                  | Impact: -0.004868
+ 5.  ina                 | Impact: -0.003925
+ 6. ct                   | Impact: -0.003925
+ 7. far                  | Impact: -0.001535
+ 8.  wells               | Impact: -0.001149
+ 9. far                  | Impact: -0.001149
+10. go                   | Impact: -0.001149
+11.  to                  | Impact: -0.000448
+12.  we                  | Impact: -0.000218
+13.  value               | Impact: -0.000218
+14.  your                | Impact: -0.000218
+15.  privacy             | Impact: -0.000218
+16.  and                 | Impact: -0.000218
+17.  your                | Impact: -0.000218
+18.  preferences         | Impact: -0.000218
+19.  .                   | Impact: -0.000218
+20.                      | Impact: -0.000052

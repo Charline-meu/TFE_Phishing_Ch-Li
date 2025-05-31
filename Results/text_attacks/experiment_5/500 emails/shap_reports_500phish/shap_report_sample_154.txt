@@ -1,0 +1,72 @@
+Sample 154
+==========
+
+Sample text preview: Hi As part of our effort to improve your experience across our consumer services, we re updating the Microsoft Services Agreement and the Microsoft Pr...
+
+Model prediction: [3.0506376e-04 9.9969494e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.111976 → PHISHING
+ 2.  address             | Impact: 0.089433 → PHISHING
+ 3.  email               | Impact: 0.065510 → PHISHING
+ 4.  of                  | Impact: -0.052583 → LEGITIMATE
+ 5.  hi                  | Impact: 0.050685 → PHISHING
+ 6.  log                 | Impact: 0.045477 → PHISHING
+ 7.  account             | Impact: 0.044735 → PHISHING
+ 8.  click               | Impact: 0.040992 → PHISHING
+ 9.  experience          | Impact: -0.034733 → LEGITIMATE
+10.  your                | Impact: 0.033011 → PHISHING
+11.  your                | Impact: 0.026716 → PHISHING
+12.  account             | Impact: 0.026716 → PHISHING
+13.  replies             | Impact: 0.026681 → PHISHING
+14.  com                 | Impact: -0.024906 → LEGITIMATE
+15.  please              | Impact: 0.024290 → PHISHING
+16.  !                   | Impact: 0.023980 → PHISHING
+17.  sent                | Impact: 0.022283 → PHISHING
+18.  improve             | Impact: 0.021383 → PHISHING
+19.  ,                   | Impact: 0.021098 → PHISHING
+20.  .                   | Impact: -0.019712 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.111976
+ 2.  address             | Impact: 0.089433
+ 3.  email               | Impact: 0.065510
+ 4.  hi                  | Impact: 0.050685
+ 5.  log                 | Impact: 0.045477
+ 6.  account             | Impact: 0.044735
+ 7.  click               | Impact: 0.040992
+ 8.  your                | Impact: 0.033011
+ 9.  your                | Impact: 0.026716
+10.  account             | Impact: 0.026716
+11.  replies             | Impact: 0.026681
+12.  please              | Impact: 0.024290
+13.  !                   | Impact: 0.023980
+14.  sent                | Impact: 0.022283
+15.  improve             | Impact: 0.021383
+16.  ,                   | Impact: 0.021098
+17.  update              | Impact: 0.018662
+18.  your                | Impact: 0.017819
+19.  cannot              | Impact: 0.017553
+20.  be                  | Impact: 0.017553
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  of                  | Impact: -0.052583
+ 2.  experience          | Impact: -0.034733
+ 3.  com                 | Impact: -0.024906
+ 4.  .                   | Impact: -0.019712
+ 5.  part                | Impact: -0.013874
+ 6.  across              | Impact: -0.009895
+ 7.  outlook             | Impact: -0.005782
+ 8.  team                | Impact: -0.004146
+ 9.  the                 | Impact: -0.003451
+10.  microsoft           | Impact: -0.003451
+11.  in                  | Impact: -0.001088
+12.  ,                   | Impact: -0.001088
+13.  this                | Impact: -0.000713
+14.  is                  | Impact: -0.000713
+15.  just                | Impact: -0.000713
+16.  a                   | Impact: -0.000713
+17.  .                   | Impact: -0.000601

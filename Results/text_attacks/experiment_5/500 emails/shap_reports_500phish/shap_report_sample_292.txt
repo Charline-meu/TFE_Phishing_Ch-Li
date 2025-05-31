@@ -1,0 +1,67 @@
+Sample 292
+==========
+
+Sample text preview: Dear MB MB We noticed your e-mail account has almost exceed it's limit. And you may not be able to send or receive messages any moment from now, Click...
+
+Model prediction: [1.8786389e-04 9.9981219e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.027512 → PHISHING
+ 2.  your                | Impact: 0.021777 → PHISHING
+ 3.  renew               | Impact: 0.021651 → PHISHING
+ 4.  account             | Impact: 0.020986 → PHISHING
+ 5.  mail                | Impact: 0.020037 → PHISHING
+ 6.  mn                  | Impact: -0.019597 → LEGITIMATE
+ 7.  unlawful            | Impact: 0.019232 → PHISHING
+ 8.  account             | Impact: 0.017052 → PHISHING
+ 9.  service             | Impact: 0.017052 → PHISHING
+10.  dear                | Impact: 0.017038 → PHISHING
+11.  account             | Impact: 0.016871 → PHISHING
+12.  click               | Impact: 0.015884 → PHISHING
+13.  your                | Impact: 0.015020 → PHISHING
+14.  pt                  | Impact: 0.014266 → PHISHING
+15. c                    | Impact: -0.013937 → LEGITIMATE
+16.  here                | Impact: 0.012880 → PHISHING
+17.  to                  | Impact: 0.012880 → PHISHING
+18.  may                 | Impact: 0.012543 → PHISHING
+19.  be                  | Impact: 0.012543 → PHISHING
+20.                      | Impact: 0.012172 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.027512
+ 2.  your                | Impact: 0.021777
+ 3.  renew               | Impact: 0.021651
+ 4.  account             | Impact: 0.020986
+ 5.  mail                | Impact: 0.020037
+ 6.  unlawful            | Impact: 0.019232
+ 7.  account             | Impact: 0.017052
+ 8.  service             | Impact: 0.017052
+ 9.  dear                | Impact: 0.017038
+10.  account             | Impact: 0.016871
+11.  click               | Impact: 0.015884
+12.  your                | Impact: 0.015020
+13.  pt                  | Impact: 0.014266
+14.  here                | Impact: 0.012880
+15.  to                  | Impact: 0.012880
+16.  may                 | Impact: 0.012543
+17.  be                  | Impact: 0.012543
+18.                      | Impact: 0.012172
+19.  delivery            | Impact: 0.011519
+20.  by                  | Impact: 0.011519
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  mn                  | Impact: -0.019597
+ 2. c                    | Impact: -0.013937
+ 3.  ,                   | Impact: -0.002788
+ 4.  sky                 | Impact: -0.001643
+ 5.  vision              | Impact: -0.001643
+ 6.  if                  | Impact: -0.000802
+ 7.  any                 | Impact: -0.000802
+ 8.  disc                | Impact: -0.000384
+ 9. lai                  | Impact: -0.000384
+10. mer                  | Impact: -0.000384
+11.  distribution        | Impact: -0.000181
+12.  or                  | Impact: -0.000181

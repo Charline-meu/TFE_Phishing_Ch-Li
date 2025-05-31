@@ -1,0 +1,75 @@
+Sample 292
+==========
+
+Sample text preview: Reminder, Enron's Year-End Performance Management Process has begun! During the feedback phase you will need to access PEP at to suggest reviewers who...
+
+Model prediction: [9.9980885e-01 1.9114731e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  &                   | Impact: 0.050513 → PHISHING
+ 2.  pep                 | Impact: -0.050062 → LEGITIMATE
+ 3.  houston             | Impact: -0.030855 → LEGITIMATE
+ 4.  at                  | Impact: -0.019060 → LEGITIMATE
+ 5.  password            | Impact: 0.014426 → PHISHING
+ 6.  for                 | Impact: -0.013449 → LEGITIMATE
+ 7.  help                | Impact: 0.011253 → PHISHING
+ 8. k                    | Impact: 0.011047 → PHISHING
+ 9.  welcome             | Impact: 0.010252 → PHISHING
+10.  id                  | Impact: 0.009574 → PHISHING
+11.  -                   | Impact: -0.009313 → LEGITIMATE
+12.  id                  | Impact: 0.009223 → PHISHING
+13.  user                | Impact: -0.008837 → LEGITIMATE
+14.  contact             | Impact: 0.007646 → PHISHING
+15.  :                   | Impact: -0.007137 → LEGITIMATE
+16.  option              | Impact: -0.006447 → LEGITIMATE
+17.  :                   | Impact: -0.006166 → LEGITIMATE
+18. des                  | Impact: 0.005981 → PHISHING
+19.  :                   | Impact: -0.005853 → LEGITIMATE
+20.  :                   | Impact: -0.005619 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  &                   | Impact: 0.050513
+ 2.  password            | Impact: 0.014426
+ 3.  help                | Impact: 0.011253
+ 4. k                    | Impact: 0.011047
+ 5.  welcome             | Impact: 0.010252
+ 6.  id                  | Impact: 0.009574
+ 7.  id                  | Impact: 0.009223
+ 8.  contact             | Impact: 0.007646
+ 9. des                  | Impact: 0.005981
+10.  :                   | Impact: 0.005252
+11.  you                 | Impact: 0.004904
+12.  the                 | Impact: 0.002228
+13.  password            | Impact: 0.001805
+14.  london              | Impact: 0.001709
+15.  !                   | Impact: 0.001685
+16.  :                   | Impact: 0.001407
+17.  !                   | Impact: 0.001272
+18.  -                   | Impact: 0.000923
+19.  mail                | Impact: 0.000923
+20.  will                | Impact: 0.000273
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  pep                 | Impact: -0.050062
+ 2.  houston             | Impact: -0.030855
+ 3.  at                  | Impact: -0.019060
+ 4.  for                 | Impact: -0.013449
+ 5.  -                   | Impact: -0.009313
+ 6.  user                | Impact: -0.008837
+ 7.  :                   | Impact: -0.007137
+ 8.  option              | Impact: -0.006447
+ 9.  :                   | Impact: -0.006166
+10.  :                   | Impact: -0.005853
+11.  :                   | Impact: -0.005619
+12.  are                 | Impact: -0.005438
+13.  :                   | Impact: -0.004953
+14.  -                   | Impact: -0.004809
+15.  -                   | Impact: -0.004788
+16.  questions           | Impact: -0.003814
+17.  option              | Impact: -0.003574
+18.  process             | Impact: -0.003396
+19.  at                  | Impact: -0.003222
+20.  reminder            | Impact: -0.003009

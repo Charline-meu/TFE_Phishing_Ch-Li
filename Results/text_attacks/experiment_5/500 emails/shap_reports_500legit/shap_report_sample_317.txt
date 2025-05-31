@@ -1,0 +1,63 @@
+Sample 317
+==========
+
+Sample text preview: URL: Date: Not supplied Rings around distant stars betray small rocky planets, say astronomers, suggesting a census will soon be possible
+
+Model prediction: [9.9970573e-01 2.9425437e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ur                  | Impact: -0.068919 → LEGITIMATE
+ 2.  soon                | Impact: 0.042716 → PHISHING
+ 3.  :                   | Impact: -0.040921 → LEGITIMATE
+ 4.  rocky               | Impact: 0.039523 → PHISHING
+ 5.  distant             | Impact: 0.031901 → PHISHING
+ 6.  suggesting          | Impact: -0.031744 → LEGITIMATE
+ 7.  rings               | Impact: 0.031013 → PHISHING
+ 8.  stars               | Impact: 0.030549 → PHISHING
+ 9.  census              | Impact: -0.030186 → LEGITIMATE
+10.  astronomers         | Impact: -0.026195 → LEGITIMATE
+11.  :                   | Impact: -0.023104 → LEGITIMATE
+12.  small               | Impact: 0.020066 → PHISHING
+13.  a                   | Impact: 0.015376 → PHISHING
+14.  planets             | Impact: -0.014247 → LEGITIMATE
+15.  possible            | Impact: -0.012842 → LEGITIMATE
+16.  ,                   | Impact: -0.012323 → LEGITIMATE
+17.  betray              | Impact: -0.010392 → LEGITIMATE
+18.  will                | Impact: 0.009985 → PHISHING
+19.  date                | Impact: -0.008603 → LEGITIMATE
+20. l                    | Impact: -0.008303 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  soon                | Impact: 0.042716
+ 2.  rocky               | Impact: 0.039523
+ 3.  distant             | Impact: 0.031901
+ 4.  rings               | Impact: 0.031013
+ 5.  stars               | Impact: 0.030549
+ 6.  small               | Impact: 0.020066
+ 7.  a                   | Impact: 0.015376
+ 8.  will                | Impact: 0.009985
+ 9.  around              | Impact: 0.006838
+10.  say                 | Impact: 0.005698
+11.  ,                   | Impact: 0.004604
+12.  supplied            | Impact: 0.000948
+13.                      | Impact: 0.000001
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ur                  | Impact: -0.068919
+ 2.  :                   | Impact: -0.040921
+ 3.  suggesting          | Impact: -0.031744
+ 4.  census              | Impact: -0.030186
+ 5.  astronomers         | Impact: -0.026195
+ 6.  :                   | Impact: -0.023104
+ 7.  planets             | Impact: -0.014247
+ 8.  possible            | Impact: -0.012842
+ 9.  ,                   | Impact: -0.012323
+10.  betray              | Impact: -0.010392
+11.  date                | Impact: -0.008603
+12. l                    | Impact: -0.008303
+13.  be                  | Impact: -0.006366
+14.  not                 | Impact: -0.003472
+15.                      | Impact: -0.000000

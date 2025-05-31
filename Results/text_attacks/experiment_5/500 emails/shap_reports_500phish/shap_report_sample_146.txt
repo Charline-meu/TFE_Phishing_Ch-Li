@@ -1,0 +1,60 @@
+Sample 146
+==========
+
+Sample text preview: Dear Friend, First, I must apologise to you for using this medium to communicate about this transaction, though it is my great pleasure in writing you...
+
+Model prediction: [1.7481198e-04 9.9982518e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  transfer            | Impact: 0.016928 → PHISHING
+ 2.  this                | Impact: 0.016928 → PHISHING
+ 3.  money               | Impact: 0.016928 → PHISHING
+ 4.  to                  | Impact: 0.016928 → PHISHING
+ 5.  next                | Impact: 0.013499 → PHISHING
+ 6.  of                  | Impact: 0.013499 → PHISHING
+ 7.  kin                 | Impact: 0.013499 → PHISHING
+ 8.  to                  | Impact: 0.013499 → PHISHING
+ 9.  the                 | Impact: 0.013499 → PHISHING
+10.  deceased            | Impact: 0.013499 → PHISHING
+11.  and                 | Impact: 0.013499 → PHISHING
+12.  these               | Impact: 0.013273 → PHISHING
+13.  fund                | Impact: 0.013273 → PHISHING
+14.  as                  | Impact: 0.013273 → PHISHING
+15.  the                 | Impact: 0.013273 → PHISHING
+16.  bon                 | Impact: 0.013273 → PHISHING
+17. af                   | Impact: 0.013273 → PHISHING
+18. ide                  | Impact: 0.013273 → PHISHING
+19.  a                   | Impact: 0.011787 → PHISHING
+20.  foreign             | Impact: 0.011787 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  transfer            | Impact: 0.016928
+ 2.  this                | Impact: 0.016928
+ 3.  money               | Impact: 0.016928
+ 4.  to                  | Impact: 0.016928
+ 5.  next                | Impact: 0.013499
+ 6.  of                  | Impact: 0.013499
+ 7.  kin                 | Impact: 0.013499
+ 8.  to                  | Impact: 0.013499
+ 9.  the                 | Impact: 0.013499
+10.  deceased            | Impact: 0.013499
+11.  and                 | Impact: 0.013499
+12.  these               | Impact: 0.013273
+13.  fund                | Impact: 0.013273
+14.  as                  | Impact: 0.013273
+15.  the                 | Impact: 0.013273
+16.  bon                 | Impact: 0.013273
+17. af                   | Impact: 0.013273
+18. ide                  | Impact: 0.013273
+19.  a                   | Impact: 0.011787
+20.  foreign             | Impact: 0.011787
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.000005
+ 2.  would               | Impact: -0.000005
+ 3.  be                  | Impact: -0.000005
+ 4.  brief               | Impact: -0.000005
+ 5.  and                 | Impact: -0.000005

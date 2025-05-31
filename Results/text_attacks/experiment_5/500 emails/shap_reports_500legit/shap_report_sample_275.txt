@@ -1,0 +1,71 @@
+Sample 275
+==========
+
+Sample text preview: Quoting Nick Murtagh > On Mon, -- at :, Rick Moen wrote: > >> NON-freely redistributable apps (in boxed sets): >> ------------------------------------...
+
+Model prediction: [9.9977762e-01 2.2239344e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  company             | Impact: 0.005299 → PHISHING
+ 2.  code                | Impact: -0.004580 → LEGITIMATE
+ 3.  >                   | Impact: -0.002657 → LEGITIMATE
+ 4.  list                | Impact: -0.002132 → LEGITIMATE
+ 5.  note                | Impact: -0.002128 → LEGITIMATE
+ 6.  .                   | Impact: -0.001794 → LEGITIMATE
+ 7.  maintain            | Impact: -0.001690 → LEGITIMATE
+ 8.  retro               | Impact: -0.001668 → LEGITIMATE
+ 9.  quoting             | Impact: -0.001650 → LEGITIMATE
+10.  as                  | Impact: -0.001624 → LEGITIMATE
+11.  linux               | Impact: -0.001623 → LEGITIMATE
+12.  please              | Impact: -0.001472 → LEGITIMATE
+13.  >                   | Impact: -0.001458 → LEGITIMATE
+14.  non                 | Impact: -0.001458 → LEGITIMATE
+15.  of                  | Impact: -0.001415 → LEGITIMATE
+16.  copy                | Impact: -0.001404 → LEGITIMATE
+17.  source              | Impact: -0.001314 → LEGITIMATE
+18.  source              | Impact: -0.001255 → LEGITIMATE
+19.  with                | Impact: -0.001255 → LEGITIMATE
+20.  .                   | Impact: -0.001200 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  company             | Impact: 0.005299
+ 2.  a                   | Impact: 0.001149
+ 3.  just                | Impact: 0.000233
+ 4.  irish               | Impact: 0.000185
+ 5.  because             | Impact: 0.000181
+ 6.  in                  | Impact: 0.000145
+ 7.  boxed               | Impact: 0.000145
+ 8.  sets                | Impact: 0.000145
+ 9.  )                   | Impact: 0.000145
+10.  ,                   | Impact: 0.000115
+11.  some                | Impact: 0.000115
+12.  time                | Impact: 0.000115
+13.  in                  | Impact: 0.000115
+14.  some                | Impact: 0.000096
+15.  new                 | Impact: 0.000096
+16.  ,                   | Impact: 0.000001
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  code                | Impact: -0.004580
+ 2.  >                   | Impact: -0.002657
+ 3.  list                | Impact: -0.002132
+ 4.  note                | Impact: -0.002128
+ 5.  .                   | Impact: -0.001794
+ 6.  maintain            | Impact: -0.001690
+ 7.  retro               | Impact: -0.001668
+ 8.  quoting             | Impact: -0.001650
+ 9.  as                  | Impact: -0.001624
+10.  linux               | Impact: -0.001623
+11.  please              | Impact: -0.001472
+12.  >                   | Impact: -0.001458
+13.  non                 | Impact: -0.001458
+14.  of                  | Impact: -0.001415
+15.  copy                | Impact: -0.001404
+16.  source              | Impact: -0.001314
+17.  source              | Impact: -0.001255
+18.  with                | Impact: -0.001255
+19.  .                   | Impact: -0.001200
+20.  nick                | Impact: -0.001193

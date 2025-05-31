@@ -1,0 +1,75 @@
+Sample 247
+==========
+
+Sample text preview: In addition, one bit of anecdotal evidence from a conversation in ! in San Fransisco is hardly enough to extrapolate to k. This is the only quote I co...
+
+Model prediction: [9.9948043e-01 5.1954674e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  don                 | Impact: 0.007054 → PHISHING
+ 2.  '                   | Impact: 0.007054 → PHISHING
+ 3.  t                   | Impact: 0.007054 → PHISHING
+ 4.  i                   | Impact: 0.006105 → PHISHING
+ 5.  know                | Impact: 0.004534 → PHISHING
+ 6.  about               | Impact: 0.004534 → PHISHING
+ 7.  you                 | Impact: 0.004534 → PHISHING
+ 8.  ,                   | Impact: 0.004534 → PHISHING
+ 9.  quote               | Impact: -0.003142 → LEGITIMATE
+10.  i                   | Impact: -0.003142 → LEGITIMATE
+11.  could               | Impact: -0.003142 → LEGITIMATE
+12.  find                | Impact: -0.003142 → LEGITIMATE
+13.  relating            | Impact: -0.001749 → LEGITIMATE
+14.  to                  | Impact: -0.001749 → LEGITIMATE
+15.  especially          | Impact: 0.001635 → PHISHING
+16.  young               | Impact: 0.001635 → PHISHING
+17.  people              | Impact: 0.001635 → PHISHING
+18.  ,                   | Impact: 0.001635 → PHISHING
+19.  i                   | Impact: 0.001441 → PHISHING
+20.  '                   | Impact: 0.001441 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  don                 | Impact: 0.007054
+ 2.  '                   | Impact: 0.007054
+ 3.  t                   | Impact: 0.007054
+ 4.  i                   | Impact: 0.006105
+ 5.  know                | Impact: 0.004534
+ 6.  about               | Impact: 0.004534
+ 7.  you                 | Impact: 0.004534
+ 8.  ,                   | Impact: 0.004534
+ 9.  especially          | Impact: 0.001635
+10.  young               | Impact: 0.001635
+11.  people              | Impact: 0.001635
+12.  ,                   | Impact: 0.001635
+13.  i                   | Impact: 0.001441
+14.  '                   | Impact: 0.001441
+15.  the                 | Impact: 0.001322
+16.  publicity           | Impact: 0.001322
+17.  about               | Impact: 0.001322
+18.  the                 | Impact: 0.001322
+19.  disease             | Impact: 0.001322
+20.  was                 | Impact: 0.001322
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  quote               | Impact: -0.003142
+ 2.  i                   | Impact: -0.003142
+ 3.  could               | Impact: -0.003142
+ 4.  find                | Impact: -0.003142
+ 5.  relating            | Impact: -0.001749
+ 6.  to                  | Impact: -0.001749
+ 7.  extra               | Impact: -0.001350
+ 8. pol                  | Impact: -0.001350
+ 9. ate                  | Impact: -0.001350
+10.  to                  | Impact: -0.001350
+11.  k                   | Impact: -0.001350
+12.  .                   | Impact: -0.001350
+13.  bf                  | Impact: -0.000983
+14. d                    | Impact: -0.000983
+15.  .                   | Impact: -0.000983
+16.  "                   | Impact: -0.000980
+17.  well                | Impact: -0.000980
+18.  ,                   | Impact: -0.000980
+19.  i                   | Impact: -0.000980
+20.  '                   | Impact: -0.000980

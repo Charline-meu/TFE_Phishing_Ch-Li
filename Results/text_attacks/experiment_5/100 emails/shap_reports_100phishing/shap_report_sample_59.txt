@@ -1,0 +1,75 @@
+Phishing Sample 59
+==================
+
+Sample text preview: Get a free edition of Full Disclosure < Do you run into competition? Do you need life insurance policy information? Do you search for the best policy ...
+
+Model prediction: [2.8595165e-04 9.9971408e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  notice              | Impact: 0.031608 → PHISHING
+ 2.  legal               | Impact: 0.026257 → PHISHING
+ 3.  instead             | Impact: -0.016947 → LEGITIMATE
+ 4.  name                | Impact: 0.014428 → PHISHING
+ 5.  information         | Impact: 0.011950 → PHISHING
+ 6.  to                  | Impact: 0.010784 → PHISHING
+ 7.  receive             | Impact: 0.010784 → PHISHING
+ 8.  our                 | Impact: 0.010784 → PHISHING
+ 9.  this                | Impact: 0.010667 → PHISHING
+10.  message             | Impact: 0.010667 → PHISHING
+11.  .                   | Impact: 0.010667 → PHISHING
+12.  removed             | Impact: 0.010117 → PHISHING
+13.  from                | Impact: 0.010117 → PHISHING
+14.  this                | Impact: 0.010117 → PHISHING
+15.  reply               | Impact: 0.008845 → PHISHING
+16.  to                  | Impact: 0.008845 → PHISHING
+17.  <                   | Impact: 0.008785 → PHISHING
+18.                      | Impact: 0.008785 → PHISHING
+19.  to                  | Impact: 0.008439 → PHISHING
+20.  our                 | Impact: 0.008439 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  notice              | Impact: 0.031608
+ 2.  legal               | Impact: 0.026257
+ 3.  name                | Impact: 0.014428
+ 4.  information         | Impact: 0.011950
+ 5.  to                  | Impact: 0.010784
+ 6.  receive             | Impact: 0.010784
+ 7.  our                 | Impact: 0.010784
+ 8.  this                | Impact: 0.010667
+ 9.  message             | Impact: 0.010667
+10.  .                   | Impact: 0.010667
+11.  removed             | Impact: 0.010117
+12.  from                | Impact: 0.010117
+13.  this                | Impact: 0.010117
+14.  reply               | Impact: 0.008845
+15.  to                  | Impact: 0.008845
+16.  <                   | Impact: 0.008785
+17.                      | Impact: 0.008785
+18.  to                  | Impact: 0.008439
+19.  our                 | Impact: 0.008439
+20.  website             | Impact: 0.008439
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  instead             | Impact: -0.016947
+ 2.  ,                   | Impact: -0.004126
+ 3.  .                   | Impact: -0.003046
+ 4.  -                   | Impact: -0.002428
+ 5.  -                   | Impact: -0.002428
+ 6.  :                   | Impact: -0.002389
+ 7.  we                  | Impact: -0.002389
+ 8.  an                  | Impact: -0.001461
+ 9.  illustration        | Impact: -0.001461
+10.  system              | Impact: -0.001461
+11.  :                   | Impact: -0.001417
+12.  city                | Impact: -0.001417
+13.  :                   | Impact: -0.001417
+14.  state               | Impact: -0.001417
+15.  who                 | Impact: -0.000993
+16.  does                | Impact: -0.000993
+17.  don                 | Impact: -0.000881
+18.  '                   | Impact: -0.000881
+19.  t                   | Impact: -0.000881
+20.  -                   | Impact: -0.000818

@@ -1,0 +1,75 @@
+Phishing Sample 72
+==================
+
+Sample text preview: - Mid-Year Digital Planners are here! Get % off for h only with code SAVE at the checkout. Introducing APPLIKE - the best digital planner with innovat...
+
+Model prediction: [9.9977070e-01 2.2934396e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  planners            | Impact: -0.055283 → LEGITIMATE
+ 2.  planners            | Impact: -0.051151 → LEGITIMATE
+ 3.  click               | Impact: 0.037255 → PHISHING
+ 4.  planners            | Impact: -0.030011 → LEGITIMATE
+ 5.  please              | Impact: 0.021055 → PHISHING
+ 6.  planners            | Impact: -0.019309 → LEGITIMATE
+ 7.  if                  | Impact: -0.019131 → LEGITIMATE
+ 8.  here                | Impact: 0.018321 → PHISHING
+ 9.  planner             | Impact: -0.014663 → LEGITIMATE
+10.  feel                | Impact: -0.014071 → LEGITIMATE
+11. su                   | Impact: -0.013786 → LEGITIMATE
+12.  you                 | Impact: -0.011930 → LEGITIMATE
+13.  link                | Impact: 0.011492 → PHISHING
+14.  digital             | Impact: 0.011411 → PHISHING
+15.  planners            | Impact: -0.010960 → LEGITIMATE
+16.  planners            | Impact: -0.010568 → LEGITIMATE
+17.  are                 | Impact: -0.008767 → LEGITIMATE
+18.  the                 | Impact: 0.008734 → PHISHING
+19.  digital             | Impact: -0.008199 → LEGITIMATE
+20.  introducing         | Impact: 0.007359 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.037255
+ 2.  please              | Impact: 0.021055
+ 3.  here                | Impact: 0.018321
+ 4.  link                | Impact: 0.011492
+ 5.  digital             | Impact: 0.011411
+ 6.  the                 | Impact: 0.008734
+ 7.  introducing         | Impact: 0.007359
+ 8.  message             | Impact: 0.007151
+ 9.  in                  | Impact: 0.007151
+10.  below               | Impact: 0.007105
+11.  to                  | Impact: 0.007105
+12.  open                | Impact: 0.006837
+13.  the                 | Impact: 0.006837
+14.  !                   | Impact: 0.006487
+15.  this                | Impact: 0.005475
+16.  email               | Impact: 0.005475
+17.  !                   | Impact: 0.004950
+18.  year                | Impact: 0.004427
+19.  !                   | Impact: 0.003966
+20.  click               | Impact: 0.003566
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  planners            | Impact: -0.055283
+ 2.  planners            | Impact: -0.051151
+ 3.  planners            | Impact: -0.030011
+ 4.  planners            | Impact: -0.019309
+ 5.  if                  | Impact: -0.019131
+ 6.  planner             | Impact: -0.014663
+ 7.  feel                | Impact: -0.014071
+ 8. su                   | Impact: -0.013786
+ 9.  you                 | Impact: -0.011930
+10.  planners            | Impact: -0.010960
+11.  planners            | Impact: -0.010568
+12.  are                 | Impact: -0.008767
+13.  digital             | Impact: -0.008199
+14.  with                | Impact: -0.006175
+15.  design              | Impact: -0.005915
+16.  innovative          | Impact: -0.005018
+17.  or                  | Impact: -0.004862
+18.  ,                   | Impact: -0.004692
+19.  here                | Impact: -0.004169
+20.  you                 | Impact: -0.003945

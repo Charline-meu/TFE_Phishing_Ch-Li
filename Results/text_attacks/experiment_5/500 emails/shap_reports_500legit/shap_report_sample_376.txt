@@ -1,0 +1,75 @@
+Sample 376
+==========
+
+Sample text preview: oh, and the pause for "Friends" was a nice touch. I think that reveals the true, inner warlike nature of MillerKnight. You go, girlfriend! -----Origin...
+
+Model prediction: [9.9973685e-01 2.6314496e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  girlfriend          | Impact: 0.028018 → PHISHING
+ 2.  go                  | Impact: -0.009751 → LEGITIMATE
+ 3.  true                | Impact: 0.007536 → PHISHING
+ 4.  i                   | Impact: -0.005316 → LEGITIMATE
+ 5.  you                 | Impact: 0.003276 → PHISHING
+ 6.  oh                  | Impact: 0.003220 → PHISHING
+ 7.  war                 | Impact: -0.002893 → LEGITIMATE
+ 8.  miller              | Impact: -0.002859 → LEGITIMATE
+ 9. like                 | Impact: -0.002769 → LEGITIMATE
+10.  think               | Impact: -0.002645 → LEGITIMATE
+11.  pause               | Impact: -0.002161 → LEGITIMATE
+12. night                | Impact: -0.002001 → LEGITIMATE
+13.  message             | Impact: 0.002000 → PHISHING
+14.  inner               | Impact: -0.001889 → LEGITIMATE
+15. k                    | Impact: -0.001871 → LEGITIMATE
+16.  ,                   | Impact: -0.001692 → LEGITIMATE
+17.  the                 | Impact: -0.001449 → LEGITIMATE
+18.  .                   | Impact: -0.001443 → LEGITIMATE
+19.  for                 | Impact: -0.001439 → LEGITIMATE
+20.  "                   | Impact: -0.001439 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  girlfriend          | Impact: 0.028018
+ 2.  true                | Impact: 0.007536
+ 3.  you                 | Impact: 0.003276
+ 4.  oh                  | Impact: 0.003220
+ 5.  message             | Impact: 0.002000
+ 6.  !                   | Impact: 0.000994
+ 7.  inches              | Impact: 0.000776
+ 8.  -                   | Impact: 0.000624
+ 9.  the                 | Impact: 0.000423
+10.  anyway              | Impact: 0.000422
+11.  you                 | Impact: 0.000396
+12.  are                 | Impact: 0.000378
+13.  !                   | Impact: 0.000318
+14.  .                   | Impact: 0.000291
+15.                      | Impact: 0.000291
+16.  .                   | Impact: 0.000133
+17.  !                   | Impact: 0.000118
+18.  nice                | Impact: 0.000102
+19.  touch               | Impact: 0.000102
+20.  .                   | Impact: 0.000102
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  go                  | Impact: -0.009751
+ 2.  i                   | Impact: -0.005316
+ 3.  war                 | Impact: -0.002893
+ 4.  miller              | Impact: -0.002859
+ 5. like                 | Impact: -0.002769
+ 6.  think               | Impact: -0.002645
+ 7.  pause               | Impact: -0.002161
+ 8. night                | Impact: -0.002001
+ 9.  inner               | Impact: -0.001889
+10. k                    | Impact: -0.001871
+11.  ,                   | Impact: -0.001692
+12.  the                 | Impact: -0.001449
+13.  .                   | Impact: -0.001443
+14.  for                 | Impact: -0.001439
+15.  "                   | Impact: -0.001439
+16.  .                   | Impact: -0.001346
+17.  ,                   | Impact: -0.001168
+18.  original            | Impact: -0.001019
+19.  ,                   | Impact: -0.000935
+20.  and                 | Impact: -0.000857

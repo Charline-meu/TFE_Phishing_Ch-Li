@@ -1,0 +1,75 @@
+Sample 460
+==========
+
+Sample text preview: Bus passes for January are now available at the Parking and Transportation office on the third floor of the Enron Building, ECN . These passes are off...
+
+Model prediction: [9.9977750e-01 2.2255933e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  january             | Impact: -0.048710 → LEGITIMATE
+ 2. ron                  | Impact: -0.045061 → LEGITIMATE
+ 3.  ec                  | Impact: -0.041417 → LEGITIMATE
+ 4.  en                  | Impact: -0.028509 → LEGITIMATE
+ 5.  however             | Impact: -0.027630 → LEGITIMATE
+ 6.  bus                 | Impact: 0.013950 → PHISHING
+ 7.  employee            | Impact: -0.012858 → LEGITIMATE
+ 8.  available           | Impact: 0.012179 → PHISHING
+ 9. ron                  | Impact: -0.011645 → LEGITIMATE
+10.  for                 | Impact: 0.011151 → PHISHING
+11.  subsidy             | Impact: 0.011088 → PHISHING
+12.  .                   | Impact: -0.010942 → LEGITIMATE
+13.  referred            | Impact: -0.010133 → LEGITIMATE
+14.  bus                 | Impact: 0.009159 → PHISHING
+15.  pass                | Impact: 0.009159 → PHISHING
+16.  en                  | Impact: -0.008978 → LEGITIMATE
+17.  .                   | Impact: 0.008215 → PHISHING
+18.  $                   | Impact: 0.007614 → PHISHING
+19.  income              | Impact: 0.007534 → PHISHING
+20.  amount              | Impact: 0.007534 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bus                 | Impact: 0.013950
+ 2.  available           | Impact: 0.012179
+ 3.  for                 | Impact: 0.011151
+ 4.  subsidy             | Impact: 0.011088
+ 5.  bus                 | Impact: 0.009159
+ 6.  pass                | Impact: 0.009159
+ 7.  .                   | Impact: 0.008215
+ 8.  $                   | Impact: 0.007614
+ 9.  income              | Impact: 0.007534
+10.  amount              | Impact: 0.007534
+11.  $                   | Impact: 0.007534
+12.  "                   | Impact: 0.007046
+13.  income              | Impact: 0.007046
+14.  value               | Impact: 0.006369
+15.  is                  | Impact: 0.006369
+16.  taxa                | Impact: 0.005401
+17. ble                  | Impact: 0.005401
+18.  subject             | Impact: 0.005121
+19.  to                  | Impact: 0.005121
+20.  taxation            | Impact: 0.005121
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  january             | Impact: -0.048710
+ 2. ron                  | Impact: -0.045061
+ 3.  ec                  | Impact: -0.041417
+ 4.  en                  | Impact: -0.028509
+ 5.  however             | Impact: -0.027630
+ 6.  employee            | Impact: -0.012858
+ 7. ron                  | Impact: -0.011645
+ 8.  .                   | Impact: -0.010942
+ 9.  referred            | Impact: -0.010133
+10.  en                  | Impact: -0.008978
+11.  is                  | Impact: -0.007052
+12.  chosen              | Impact: -0.007052
+13.  are                 | Impact: -0.006392
+14.  building            | Impact: -0.004636
+15.  collectively        | Impact: -0.004421
+16.  as                  | Impact: -0.004084
+17.  by                  | Impact: -0.003813
+18.  an                  | Impact: -0.003813
+19.  employee            | Impact: -0.003813
+20.  at                  | Impact: -0.003380

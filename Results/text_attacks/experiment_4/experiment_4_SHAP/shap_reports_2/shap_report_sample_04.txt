@@ -1,0 +1,75 @@
+Phishing Sample 4
+=================
+
+Sample text preview: New Document Available – Shared on LinkedIn Hi, A contact has made a resource available through LinkedIn’s secure channel. 🗎 Title: professional_summa...
+
+Model prediction: [0.01875138 0.9812486 ]
+Predicted class: PHISHING with 0.9812 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  registered          | Impact: 0.130073 → PHISHING
+ 2.  document            | Impact: 0.109343 → PHISHING
+ 3.  available           | Impact: 0.104769 → PHISHING
+ 4.  business            | Impact: 0.099509 → PHISHING
+ 5.  address             | Impact: 0.065859 → PHISHING
+ 6.  :                   | Impact: 0.065859 → PHISHING
+ 7.  file                | Impact: 0.052942 → PHISHING
+ 8.  securely            | Impact: 0.052942 → PHISHING
+ 9.  [                   | Impact: 0.035736 → PHISHING
+10.  view                | Impact: 0.035736 → PHISHING
+11. pp                   | Impact: -0.034333 → LEGITIMATE
+12.  secure              | Impact: 0.033292 → PHISHING
+13.  channel             | Impact: 0.033292 → PHISHING
+14.  company             | Impact: 0.030497 → PHISHING
+15.  access              | Impact: 0.027295 → PHISHING
+16.  document            | Impact: 0.027295 → PHISHING
+17.  you                 | Impact: 0.027014 → PHISHING
+18.  are                 | Impact: 0.027014 → PHISHING
+19.  r                   | Impact: -0.026440 → LEGITIMATE
+20.  hi                  | Impact: 0.026379 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  registered          | Impact: 0.130073
+ 2.  document            | Impact: 0.109343
+ 3.  available           | Impact: 0.104769
+ 4.  business            | Impact: 0.099509
+ 5.  address             | Impact: 0.065859
+ 6.  :                   | Impact: 0.065859
+ 7.  file                | Impact: 0.052942
+ 8.  securely            | Impact: 0.052942
+ 9.  [                   | Impact: 0.035736
+10.  view                | Impact: 0.035736
+11.  secure              | Impact: 0.033292
+12.  channel             | Impact: 0.033292
+13.  company             | Impact: 0.030497
+14.  access              | Impact: 0.027295
+15.  document            | Impact: 0.027295
+16.  you                 | Impact: 0.027014
+17.  are                 | Impact: 0.027014
+18.  hi                  | Impact: 0.026379
+19.                      | Impact: 0.026151
+20.  new                 | Impact: 0.026151
+
+Top features pushing towards LEGITIMATE classification:
+ 1. pp                   | Impact: -0.034333
+ 2.  r                   | Impact: -0.026440
+ 3.  with                | Impact: -0.024049
+ 4.  lia                 | Impact: -0.024049
+ 5.  the                 | Impact: -0.023486
+ 6.  linked              | Impact: -0.023486
+ 7. in                   | Impact: -0.023486
+ 8.  was                 | Impact: -0.023310
+ 9.  shared              | Impact: -0.023310
+10.  sl                  | Impact: -0.015778
+11. oof                  | Impact: -0.015778
+12.  name                | Impact: -0.015691
+13.  –                   | Impact: -0.015353
+14.  shared              | Impact: -0.015353
+15.  on                  | Impact: -0.015353
+16.  [                   | Impact: -0.014041
+17.  adjust              | Impact: -0.014041
+18.  ’                   | Impact: -0.013217
+19.  s                   | Impact: -0.013217
+20.  linked              | Impact: -0.012467

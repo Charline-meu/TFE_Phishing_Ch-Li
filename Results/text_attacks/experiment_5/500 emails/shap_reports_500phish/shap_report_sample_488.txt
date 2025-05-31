@@ -1,0 +1,75 @@
+Sample 488
+==========
+
+Sample text preview: The Palace of King of Ogoni Kingdom, Ogoni Oil producing community, Rivers State Nigeria. Dear Sir, I am Princess IFEOMA , daughter of HRH King Solomo...
+
+Model prediction: [2.0556082e-04 9.9979442e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  invest              | Impact: 0.006839 → PHISHING
+ 2.  this                | Impact: 0.006839 → PHISHING
+ 3.  money               | Impact: 0.006839 → PHISHING
+ 4.  this                | Impact: 0.006788 → PHISHING
+ 5.  money               | Impact: 0.006788 → PHISHING
+ 6.  based               | Impact: 0.006788 → PHISHING
+ 7.  on                  | Impact: 0.006788 → PHISHING
+ 8.  og                  | Impact: 0.006104 → PHISHING
+ 9. oni                  | Impact: 0.006104 → PHISHING
+10.  kingdom             | Impact: 0.006104 → PHISHING
+11.  my                  | Impact: 0.005957 → PHISHING
+12.  father              | Impact: 0.005957 → PHISHING
+13.  suffered            | Impact: 0.005957 → PHISHING
+14.  stroke              | Impact: 0.005957 → PHISHING
+15.  dear                | Impact: 0.005843 → PHISHING
+16.  sir                 | Impact: 0.005843 → PHISHING
+17.  king                | Impact: 0.005777 → PHISHING
+18.  of                  | Impact: 0.005777 → PHISHING
+19.  daughter            | Impact: 0.005632 → PHISHING
+20.  of                  | Impact: 0.005632 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  invest              | Impact: 0.006839
+ 2.  this                | Impact: 0.006839
+ 3.  money               | Impact: 0.006839
+ 4.  this                | Impact: 0.006788
+ 5.  money               | Impact: 0.006788
+ 6.  based               | Impact: 0.006788
+ 7.  on                  | Impact: 0.006788
+ 8.  og                  | Impact: 0.006104
+ 9. oni                  | Impact: 0.006104
+10.  kingdom             | Impact: 0.006104
+11.  my                  | Impact: 0.005957
+12.  father              | Impact: 0.005957
+13.  suffered            | Impact: 0.005957
+14.  stroke              | Impact: 0.005957
+15.  dear                | Impact: 0.005843
+16.  sir                 | Impact: 0.005843
+17.  king                | Impact: 0.005777
+18.  of                  | Impact: 0.005777
+19.  daughter            | Impact: 0.005632
+20.  of                  | Impact: 0.005632
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  he                  | Impact: -0.000678
+ 2.  advised             | Impact: -0.000678
+ 3.  me                  | Impact: -0.000678
+ 4.  not                 | Impact: -0.000678
+ 5.  god                 | Impact: -0.000593
+ 6.  ,                   | Impact: -0.000593
+ 7.  studying            | Impact: -0.000505
+ 8.  mass                | Impact: -0.000505
+ 9.  communication       | Impact: -0.000505
+10.  .                   | Impact: -0.000505
+11.  i                   | Impact: -0.000505
+12.  am                  | Impact: -0.000505
+13.  years               | Impact: -0.000505
+14.  old                 | Impact: -0.000505
+15.  and                 | Impact: -0.000505
+16.  in                  | Impact: -0.000215
+17.  charge              | Impact: -0.000215
+18.  of                  | Impact: -0.000215
+19.  he                  | Impact: -0.000215
+20.  was                 | Impact: -0.000215

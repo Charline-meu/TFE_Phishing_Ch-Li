@@ -1,0 +1,73 @@
+Sample 316
+==========
+
+Sample text preview: WILLIAM USMAN UNITED NATIONS REFUGEE CAMP ABIDJAN(COTE D'IVOIRE) CALL FOR HELP DEAR CHILD OF GOD PERMIT ME TO INFORM YOU ABOUT MY DESIRE TO GO INTO BU...
+
+Model prediction: [1.878911e-04 9.998122e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  money               | Impact: 0.015099 → PHISHING
+ 2.  this                | Impact: 0.012745 → PHISHING
+ 3.  sir                 | Impact: 0.010244 → PHISHING
+ 4.  country             | Impact: 0.009835 → PHISHING
+ 5.  in                  | Impact: 0.006941 → PHISHING
+ 6.  your                | Impact: 0.006941 → PHISHING
+ 7.  your                | Impact: 0.006903 → PHISHING
+ 8.  country             | Impact: 0.006903 → PHISHING
+ 9.  boy                 | Impact: 0.006771 → PHISHING
+10.  of                  | Impact: 0.006771 → PHISHING
+11.  years               | Impact: 0.006771 → PHISHING
+12.  old                 | Impact: 0.006771 → PHISHING
+13.  me                  | Impact: 0.006753 → PHISHING
+14.  in                  | Impact: 0.006753 → PHISHING
+15.  account             | Impact: 0.005959 → PHISHING
+16.  where               | Impact: 0.005959 → PHISHING
+17.  fund                | Impact: 0.005744 → PHISHING
+18.  to                  | Impact: 0.005744 → PHISHING
+19.  your                | Impact: 0.005744 → PHISHING
+20.  account             | Impact: 0.005744 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.015099
+ 2.  this                | Impact: 0.012745
+ 3.  sir                 | Impact: 0.010244
+ 4.  country             | Impact: 0.009835
+ 5.  in                  | Impact: 0.006941
+ 6.  your                | Impact: 0.006941
+ 7.  your                | Impact: 0.006903
+ 8.  country             | Impact: 0.006903
+ 9.  boy                 | Impact: 0.006771
+10.  of                  | Impact: 0.006771
+11.  years               | Impact: 0.006771
+12.  old                 | Impact: 0.006771
+13.  me                  | Impact: 0.006753
+14.  in                  | Impact: 0.006753
+15.  account             | Impact: 0.005959
+16.  where               | Impact: 0.005959
+17.  fund                | Impact: 0.005744
+18.  to                  | Impact: 0.005744
+19.  your                | Impact: 0.005744
+20.  account             | Impact: 0.005744
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  stock               | Impact: -0.004541
+ 2.  market              | Impact: -0.004541
+ 3.  investment          | Impact: -0.004541
+ 4.  estate              | Impact: -0.004493
+ 5.  investment          | Impact: -0.004493
+ 6.  or                  | Impact: -0.004493
+ 7.  such                | Impact: -0.001948
+ 8.  as                  | Impact: -0.001948
+ 9.  :                   | Impact: -0.001948
+10.  real                | Impact: -0.001948
+11.  .                   | Impact: -0.000276
+12.  .                   | Impact: -0.000052
+13.  (                   | Impact: -0.000039
+14.  )                   | Impact: -0.000039
+15.  to                  | Impact: -0.000039
+16.  make                | Impact: -0.000039
+17.  arrangement         | Impact: -0.000039
+18.  for                 | Impact: -0.000039

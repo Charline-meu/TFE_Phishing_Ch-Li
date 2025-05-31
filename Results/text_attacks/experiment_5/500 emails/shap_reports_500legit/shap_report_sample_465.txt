@@ -1,0 +1,58 @@
+Sample 465
+==========
+
+Sample text preview: Natsource showed one additional trade: Jeff Richter Enron Buys El Paso . May NP mws
+
+Model prediction: [9.9975282e-01 2.4714213e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  trade               | Impact: -0.067325 → LEGITIMATE
+ 2.  showed              | Impact: 0.040431 → PHISHING
+ 3.  mw                  | Impact: -0.023922 → LEGITIMATE
+ 4.  additional          | Impact: -0.017937 → LEGITIMATE
+ 5. so                   | Impact: 0.017437 → PHISHING
+ 6. ron                  | Impact: -0.015907 → LEGITIMATE
+ 7.  one                 | Impact: 0.012530 → PHISHING
+ 8.  nat                 | Impact: -0.011305 → LEGITIMATE
+ 9.  np                  | Impact: -0.010849 → LEGITIMATE
+10.  may                 | Impact: -0.010550 → LEGITIMATE
+11.  en                  | Impact: 0.009828 → PHISHING
+12. ur                   | Impact: 0.008982 → PHISHING
+13.  buys                | Impact: -0.004363 → LEGITIMATE
+14.  paso                | Impact: -0.004169 → LEGITIMATE
+15.  .                   | Impact: -0.003807 → LEGITIMATE
+16. ce                   | Impact: -0.003617 → LEGITIMATE
+17.  richter             | Impact: -0.002671 → LEGITIMATE
+18.  :                   | Impact: -0.001992 → LEGITIMATE
+19. s                    | Impact: 0.001934 → PHISHING
+20.  el                  | Impact: 0.001552 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  showed              | Impact: 0.040431
+ 2. so                   | Impact: 0.017437
+ 3.  one                 | Impact: 0.012530
+ 4.  en                  | Impact: 0.009828
+ 5. ur                   | Impact: 0.008982
+ 6. s                    | Impact: 0.001934
+ 7.  el                  | Impact: 0.001552
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  trade               | Impact: -0.067325
+ 2.  mw                  | Impact: -0.023922
+ 3.  additional          | Impact: -0.017937
+ 4. ron                  | Impact: -0.015907
+ 5.  nat                 | Impact: -0.011305
+ 6.  np                  | Impact: -0.010849
+ 7.  may                 | Impact: -0.010550
+ 8.  buys                | Impact: -0.004363
+ 9.  paso                | Impact: -0.004169
+10.  .                   | Impact: -0.003807
+11. ce                   | Impact: -0.003617
+12.  richter             | Impact: -0.002671
+13.  :                   | Impact: -0.001992
+14.  jeff                | Impact: -0.001258
+15.                      | Impact: -0.000000
+16.                      | Impact: -0.000000

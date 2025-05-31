@@ -1,0 +1,57 @@
+Phishing Sample 34
+==================
+
+Sample text preview: Dear Sir, I know this email will reach you as a surprise, but need not to worry as we are using the only secured and confidential medium available to ...
+
+Model prediction: [1.7578193e-04 9.9982423e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  are                 | Impact: 0.008106 → PHISHING
+ 2.  presently           | Impact: 0.008106 → PHISHING
+ 3.  embark              | Impact: 0.008106 → PHISHING
+ 4. ing                  | Impact: 0.008106 → PHISHING
+ 5.  on                  | Impact: 0.008106 → PHISHING
+ 6.  to                  | Impact: 0.008106 → PHISHING
+ 7.  seize               | Impact: 0.008106 → PHISHING
+ 8.  the                 | Impact: 0.008106 → PHISHING
+ 9.  court               | Impact: 0.007959 → PHISHING
+10.  for                 | Impact: 0.007959 → PHISHING
+11.  offences            | Impact: 0.007959 → PHISHING
+12.  allegedly           | Impact: 0.007959 → PHISHING
+13.  committed           | Impact: 0.007959 → PHISHING
+14.  by                  | Impact: 0.007959 → PHISHING
+15.  my                  | Impact: 0.007959 → PHISHING
+16.  late                | Impact: 0.007959 → PHISHING
+17.  husband             | Impact: 0.007959 → PHISHING
+18.  .                   | Impact: 0.007959 → PHISHING
+19.                      | Impact: 0.006439 → PHISHING
+20.  dear                | Impact: 0.006439 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  are                 | Impact: 0.008106
+ 2.  presently           | Impact: 0.008106
+ 3.  embark              | Impact: 0.008106
+ 4. ing                  | Impact: 0.008106
+ 5.  on                  | Impact: 0.008106
+ 6.  to                  | Impact: 0.008106
+ 7.  seize               | Impact: 0.008106
+ 8.  the                 | Impact: 0.008106
+ 9.  court               | Impact: 0.007959
+10.  for                 | Impact: 0.007959
+11.  offences            | Impact: 0.007959
+12.  allegedly           | Impact: 0.007959
+13.  committed           | Impact: 0.007959
+14.  by                  | Impact: 0.007959
+15.  my                  | Impact: 0.007959
+16.  late                | Impact: 0.007959
+17.  husband             | Impact: 0.007959
+18.  .                   | Impact: 0.007959
+19.                      | Impact: 0.006439
+20.  dear                | Impact: 0.006439
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  however             | Impact: -0.001342
+ 2.  ,                   | Impact: -0.001342

@@ -1,0 +1,64 @@
+Phishing Sample 72
+==================
+
+Sample text preview: SWEETIE AMINAT USMAN TEL:- Dear Sir,/Madam I am LADY SWEETIE AMINA USMAN, Bank Manager of Zenith International Bank of Nigeria,Adeola Odeku Branch,Lag...
+
+Model prediction: [1.6999895e-04 9.9983001e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  inheritance         | Impact: 0.023656 → PHISHING
+ 2.  of                  | Impact: 0.023656 → PHISHING
+ 3.  mr                  | Impact: 0.023656 → PHISHING
+ 4.  .                   | Impact: 0.023656 → PHISHING
+ 5.  and                 | Impact: 0.010760 → PHISHING
+ 6.  sole                | Impact: 0.010760 → PHISHING
+ 7.  benefactor          | Impact: 0.010760 → PHISHING
+ 8.  to                  | Impact: 0.010760 → PHISHING
+ 9.  the                 | Impact: 0.010760 → PHISHING
+10.  we                  | Impact: 0.008617 → PHISHING
+11.  would               | Impact: 0.008617 → PHISHING
+12.  need                | Impact: 0.008617 → PHISHING
+13.  you                 | Impact: 0.008617 → PHISHING
+14.  as                  | Impact: 0.008617 → PHISHING
+15.  a                   | Impact: 0.008617 → PHISHING
+16.  foreigner           | Impact: 0.008617 → PHISHING
+17.  acting              | Impact: 0.008617 → PHISHING
+18.  barry               | Impact: 0.006822 → PHISHING
+19.  kelly               | Impact: 0.006822 → PHISHING
+20.  to                  | Impact: 0.006822 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  inheritance         | Impact: 0.023656
+ 2.  of                  | Impact: 0.023656
+ 3.  mr                  | Impact: 0.023656
+ 4.  .                   | Impact: 0.023656
+ 5.  and                 | Impact: 0.010760
+ 6.  sole                | Impact: 0.010760
+ 7.  benefactor          | Impact: 0.010760
+ 8.  to                  | Impact: 0.010760
+ 9.  the                 | Impact: 0.010760
+10.  we                  | Impact: 0.008617
+11.  would               | Impact: 0.008617
+12.  need                | Impact: 0.008617
+13.  you                 | Impact: 0.008617
+14.  as                  | Impact: 0.008617
+15.  a                   | Impact: 0.008617
+16.  foreigner           | Impact: 0.008617
+17.  acting              | Impact: 0.008617
+18.  barry               | Impact: 0.006822
+19.  kelly               | Impact: 0.006822
+20.  to                  | Impact: 0.006822
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  principal           | Impact: -0.000021
+ 2.  sum                 | Impact: -0.000021
+ 3.  at                  | Impact: -0.000021
+ 4.  the                 | Impact: -0.000021
+ 5.  end                 | Impact: -0.000021
+ 6.  of                  | Impact: -0.000021
+ 7.  each                | Impact: -0.000021
+ 8.  year                | Impact: -0.000021
+ 9.  .                   | Impact: -0.000021

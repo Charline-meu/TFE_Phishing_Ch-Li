@@ -1,0 +1,75 @@
+Phishing Sample 26
+==================
+
+Sample text preview: MADAM JOY ANU PLOT ,WILSON CLIFFORD CLOSE VICTORIA ISLAND LAGOS,NIGERIA. PRIVATE Dear Beloved, I am the above named person . I am married to Dr. Kazee...
+
+Model prediction: [2.4164001e-04 9.9975830e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  madam               | Impact: 0.020290 → PHISHING
+ 2.  joy                 | Impact: 0.020290 → PHISHING
+ 3.  will                | Impact: 0.011661 → PHISHING
+ 4.  contact             | Impact: 0.011661 → PHISHING
+ 5.  you                 | Impact: 0.011661 → PHISHING
+ 6.  .                   | Impact: 0.011661 → PHISHING
+ 7.  relatives           | Impact: 0.009112 → PHISHING
+ 8.  around              | Impact: 0.009112 → PHISHING
+ 9.  me                  | Impact: 0.009112 → PHISHING
+10.  always              | Impact: 0.009112 → PHISHING
+11.  for                 | Impact: 0.008859 → PHISHING
+12. war                  | Impact: 0.008859 → PHISHING
+13.  d                   | Impact: 0.008859 → PHISHING
+14.  your                | Impact: 0.008859 → PHISHING
+15.  an                  | Impact: 0.008798 → PHISHING
+16. u                    | Impact: 0.008798 → PHISHING
+17.                      | Impact: 0.008798 → PHISHING
+18.  exodus              | Impact: -0.008622 → LEGITIMATE
+19.  vs                  | Impact: -0.008622 → LEGITIMATE
+20.  lawyer              | Impact: 0.006739 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  madam               | Impact: 0.020290
+ 2.  joy                 | Impact: 0.020290
+ 3.  will                | Impact: 0.011661
+ 4.  contact             | Impact: 0.011661
+ 5.  you                 | Impact: 0.011661
+ 6.  .                   | Impact: 0.011661
+ 7.  relatives           | Impact: 0.009112
+ 8.  around              | Impact: 0.009112
+ 9.  me                  | Impact: 0.009112
+10.  always              | Impact: 0.009112
+11.  for                 | Impact: 0.008859
+12. war                  | Impact: 0.008859
+13.  d                   | Impact: 0.008859
+14.  your                | Impact: 0.008859
+15.  an                  | Impact: 0.008798
+16. u                    | Impact: 0.008798
+17.                      | Impact: 0.008798
+18.  lawyer              | Impact: 0.006739
+19.  so                  | Impact: 0.006739
+20.  that                | Impact: 0.006739
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  exodus              | Impact: -0.008622
+ 2.  vs                  | Impact: -0.008622
+ 3.  says                | Impact: -0.005609
+ 4.  that                | Impact: -0.005609
+ 5.  which               | Impact: -0.000504
+ 6.  the                 | Impact: -0.000504
+ 7.  bible               | Impact: -0.000504
+ 8.  is                  | Impact: -0.000504
+ 9.  against             | Impact: -0.000504
+10.  .                   | Impact: -0.000504
+11.  hence               | Impact: -0.000453
+12.  the                 | Impact: -0.000453
+13.  reasons             | Impact: -0.000453
+14.  for                 | Impact: -0.000453
+15.  bold                | Impact: -0.000453
+16. de                   | Impact: -0.000453
+17. cision               | Impact: -0.000453
+18.  .                   | Impact: -0.000453
+19.  taking              | Impact: -0.000453
+20.  this                | Impact: -0.000453

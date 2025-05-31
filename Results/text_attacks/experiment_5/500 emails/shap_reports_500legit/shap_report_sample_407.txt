@@ -1,0 +1,75 @@
+Sample 407
+==========
+
+Sample text preview: Attached for your approval is the form of Enron Corp. Guaranty in favor of the referenced Counterparty, which guarantees the obligations of ENA under ...
+
+Model prediction: [9.9974710e-01 2.5294887e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  execution           | Impact: 0.074695 → PHISHING
+ 2.  approval            | Impact: -0.057549 → LEGITIMATE
+ 3. ency                 | Impact: -0.046332 → LEGITIMATE
+ 4.  your                | Impact: 0.026917 → PHISHING
+ 5.  upon                | Impact: 0.026630 → PHISHING
+ 6. ron                  | Impact: -0.025106 → LEGITIMATE
+ 7.  addition            | Impact: -0.022282 → LEGITIMATE
+ 8.  your                | Impact: 0.021813 → PHISHING
+ 9.  please              | Impact: 0.021199 → PHISHING
+10.  need                | Impact: -0.018977 → LEGITIMATE
+11.  call                | Impact: 0.018557 → PHISHING
+12.  standard            | Impact: -0.017803 → LEGITIMATE
+13.  .                   | Impact: 0.014354 → PHISHING
+14.  :                   | Impact: -0.013484 → LEGITIMATE
+15.  and                 | Impact: 0.011663 → PHISHING
+16.  approval            | Impact: 0.011482 → PHISHING
+17.  the                 | Impact: -0.011370 → LEGITIMATE
+18.  attached            | Impact: 0.011239 → PHISHING
+19. a                    | Impact: -0.011048 → LEGITIMATE
+20.  documents           | Impact: 0.010644 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  execution           | Impact: 0.074695
+ 2.  your                | Impact: 0.026917
+ 3.  upon                | Impact: 0.026630
+ 4.  your                | Impact: 0.021813
+ 5.  please              | Impact: 0.021199
+ 6.  call                | Impact: 0.018557
+ 7.  .                   | Impact: 0.014354
+ 8.  and                 | Impact: 0.011663
+ 9.  approval            | Impact: 0.011482
+10.  attached            | Impact: 0.011239
+11.  documents           | Impact: 0.010644
+12.  for                 | Impact: 0.010437
+13.  assistance          | Impact: 0.008128
+14.  in                  | Impact: 0.008128
+15.  me                  | Impact: 0.007466
+16.  this                | Impact: 0.007446
+17.  matter              | Impact: 0.007446
+18.  the                 | Impact: 0.007265
+19.  of                  | Impact: 0.004700
+20.  will                | Impact: 0.003833
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  approval            | Impact: -0.057549
+ 2. ency                 | Impact: -0.046332
+ 3. ron                  | Impact: -0.025106
+ 4.  addition            | Impact: -0.022282
+ 5.  need                | Impact: -0.018977
+ 6.  standard            | Impact: -0.017803
+ 7.  :                   | Impact: -0.013484
+ 8.  the                 | Impact: -0.011370
+ 9. a                    | Impact: -0.011048
+10.  need                | Impact: -0.010574
+11.  the                 | Impact: -0.010574
+12.  following           | Impact: -0.009386
+13.  at                  | Impact: -0.008604
+14.  corp                | Impact: -0.008494
+15.  closing             | Impact: -0.007723
+16.  .                   | Impact: -0.007419
+17.  en                  | Impact: -0.007083
+18.  inc                 | Impact: -0.006567
+19. umb                  | Impact: -0.006567
+20.  referenced          | Impact: -0.006002

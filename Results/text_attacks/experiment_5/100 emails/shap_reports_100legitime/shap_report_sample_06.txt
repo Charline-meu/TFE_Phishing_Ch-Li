@@ -1,0 +1,75 @@
+Phishing Sample 6
+=================
+
+Sample text preview: Planning and System Optimization have agreed that the effected throughput during the Station # overhaul outage should be MMcf/d. This should be posted...
+
+Model prediction: [9.9976200e-01 2.3796517e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  matthews            | Impact: 0.023056 → PHISHING
+ 2.  show                | Impact: 0.022037 → PHISHING
+ 3.  past                | Impact: 0.016270 → PHISHING
+ 4.  out                 | Impact: -0.013180 → LEGITIMATE
+ 5.  effect              | Impact: -0.011200 → LEGITIMATE
+ 6.  ron                 | Impact: -0.010681 → LEGITIMATE
+ 7.  transports          | Impact: 0.010526 → PHISHING
+ 8.  questions           | Impact: -0.006518 → LEGITIMATE
+ 9.  ranging             | Impact: 0.006209 → PHISHING
+10.  adjusted            | Impact: -0.005551 → LEGITIMATE
+11. put                  | Impact: -0.005485 → LEGITIMATE
+12. ages                 | Impact: -0.005317 → LEGITIMATE
+13.  .                   | Impact: -0.004236 → LEGITIMATE
+14.  free                | Impact: 0.003886 → PHISHING
+15.  d                   | Impact: -0.003861 → LEGITIMATE
+16.  if                  | Impact: -0.003646 → LEGITIMATE
+17.  can                 | Impact: -0.003566 → LEGITIMATE
+18.  feel                | Impact: -0.003374 → LEGITIMATE
+19.  depending           | Impact: -0.003366 → LEGITIMATE
+20. ed                   | Impact: -0.002903 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  matthews            | Impact: 0.023056
+ 2.  show                | Impact: 0.022037
+ 3.  past                | Impact: 0.016270
+ 4.  transports          | Impact: 0.010526
+ 5.  ranging             | Impact: 0.006209
+ 6.  free                | Impact: 0.003886
+ 7.  day                 | Impact: 0.002726
+ 8.  #                   | Impact: 0.002258
+ 9.  first               | Impact: 0.001749
+10.  up                  | Impact: 0.001589
+11.  the                 | Impact: 0.001434
+12.  posted              | Impact: 0.001010
+13.  after               | Impact: 0.000986
+14.  -                   | Impact: 0.000594
+15.  and                 | Impact: 0.000567
+16.  please              | Impact: 0.000448
+17.  and                 | Impact: 0.000394
+18.  that                | Impact: 0.000329
+19.  on                  | Impact: 0.000265
+20.  related             | Impact: 0.000225
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  out                 | Impact: -0.013180
+ 2.  effect              | Impact: -0.011200
+ 3.  ron                 | Impact: -0.010681
+ 4.  questions           | Impact: -0.006518
+ 5.  adjusted            | Impact: -0.005551
+ 6. put                  | Impact: -0.005485
+ 7. ages                 | Impact: -0.005317
+ 8.  .                   | Impact: -0.004236
+ 9.  d                   | Impact: -0.003861
+10.  if                  | Impact: -0.003646
+11.  can                 | Impact: -0.003566
+12.  feel                | Impact: -0.003374
+13.  depending           | Impact: -0.003366
+14. ed                   | Impact: -0.002903
+15.  .                   | Impact: -0.002864
+16.  to                  | Impact: -0.002252
+17.  call                | Impact: -0.002100
+18.  .                   | Impact: -0.002029
+19.  you                 | Impact: -0.002019
+20. c                    | Impact: -0.002012

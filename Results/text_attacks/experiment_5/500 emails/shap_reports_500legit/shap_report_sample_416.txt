@@ -1,0 +1,75 @@
+Sample 416
+==========
+
+Sample text preview: Hello, You have received a newsletter from La Cuisine de Géraldine. However, your email software can't display HTML emails. You can view the newslette...
+
+Model prediction: [9.9935704e-01 6.4290361e-04]
+Predicted class: LEGITIMATE with 0.9994 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  cuisine             | Impact: -0.148771 → LEGITIMATE
+ 2.  click               | Impact: 0.102461 → PHISHING
+ 3.  your                | Impact: 0.089426 → PHISHING
+ 4.  newsletter          | Impact: -0.073628 → LEGITIMATE
+ 5.  geraldine           | Impact: -0.072073 → LEGITIMATE
+ 6.  hello               | Impact: 0.068460 → PHISHING
+ 7.  display             | Impact: 0.049536 → PHISHING
+ 8.  emails              | Impact: 0.033749 → PHISHING
+ 9.  email               | Impact: 0.033187 → PHISHING
+10.  la                  | Impact: -0.032287 → LEGITIMATE
+11.  here                | Impact: 0.028673 → PHISHING
+12. ibe                  | Impact: -0.026815 → LEGITIMATE
+13.  geraldine           | Impact: -0.026166 → LEGITIMATE
+14.  de                  | Impact: 0.025299 → PHISHING
+15.  cuisine             | Impact: -0.024648 → LEGITIMATE
+16.  :                   | Impact: -0.023564 → LEGITIMATE
+17.  newsletter          | Impact: -0.020377 → LEGITIMATE
+18.  ,                   | Impact: -0.019785 → LEGITIMATE
+19.  view                | Impact: 0.018656 → PHISHING
+20. su                   | Impact: -0.016525 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.102461
+ 2.  your                | Impact: 0.089426
+ 3.  hello               | Impact: 0.068460
+ 4.  display             | Impact: 0.049536
+ 5.  emails              | Impact: 0.033749
+ 6.  email               | Impact: 0.033187
+ 7.  here                | Impact: 0.028673
+ 8.  de                  | Impact: 0.025299
+ 9.  view                | Impact: 0.018656
+10.  html                | Impact: 0.016099
+11.  .                   | Impact: 0.015805
+12.  ?                   | Impact: 0.015684
+13.  shown               | Impact: 0.012549
+14.  receiving           | Impact: 0.011150
+15.  anymore             | Impact: 0.010861
+16.  software            | Impact: 0.010463
+17.  in                  | Impact: 0.008194
+18.  can                 | Impact: 0.004193
+19. cr                   | Impact: 0.003435
+20.  received            | Impact: 0.003231
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  cuisine             | Impact: -0.148771
+ 2.  newsletter          | Impact: -0.073628
+ 3.  geraldine           | Impact: -0.072073
+ 4.  la                  | Impact: -0.032287
+ 5. ibe                  | Impact: -0.026815
+ 6.  geraldine           | Impact: -0.026166
+ 7.  cuisine             | Impact: -0.024648
+ 8.  :                   | Impact: -0.023564
+ 9.  newsletter          | Impact: -0.020377
+10.  ,                   | Impact: -0.019785
+11. su                   | Impact: -0.016525
+12.  newsletter          | Impact: -0.016458
+13.  la                  | Impact: -0.016025
+14.  clicking            | Impact: -0.011259
+15.  here                | Impact: -0.010139
+16.  from                | Impact: -0.009819
+17.  .                   | Impact: -0.009690
+18.  .                   | Impact: -0.007617
+19.  un                  | Impact: -0.007462
+20.  de                  | Impact: -0.005895

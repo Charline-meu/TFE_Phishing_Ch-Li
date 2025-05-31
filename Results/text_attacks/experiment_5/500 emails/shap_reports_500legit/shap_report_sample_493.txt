@@ -1,0 +1,75 @@
+Sample 493
+==========
+
+Sample text preview: On Sun, Jul :: - che wrote: > On Jul :: + > Mark Derricutt wrote: > > > On Mon, -- at :, che wrote: > > > > > The server mentioned above works again n...
+
+Model prediction: [9.9976271e-01 2.3726057e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.005256 → LEGITIMATE
+ 2.  :                   | Impact: -0.004849 → LEGITIMATE
+ 3.  em                  | Impact: -0.003598 → LEGITIMATE
+ 4.  :                   | Impact: -0.003598 → LEGITIMATE
+ 5.  che                 | Impact: -0.003296 → LEGITIMATE
+ 6.  >                   | Impact: -0.003296 → LEGITIMATE
+ 7.  >                   | Impact: -0.002936 → LEGITIMATE
+ 8.  after               | Impact: -0.002936 → LEGITIMATE
+ 9.  _                   | Impact: -0.002881 → LEGITIMATE
+10.  _                   | Impact: -0.002881 → LEGITIMATE
+11.  >                   | Impact: -0.002777 → LEGITIMATE
+12.  >                   | Impact: -0.002583 → LEGITIMATE
+13.  >                   | Impact: -0.002583 → LEGITIMATE
+14.  just                | Impact: 0.002544 → PHISHING
+15.  _                   | Impact: -0.002510 → LEGITIMATE
+16.  _                   | Impact: -0.002510 → LEGITIMATE
+17.  _                   | Impact: -0.002510 → LEGITIMATE
+18.  _                   | Impact: -0.002510 → LEGITIMATE
+19.  :                   | Impact: -0.002393 → LEGITIMATE
+20.  :                   | Impact: -0.002392 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  just                | Impact: 0.002544
+ 2.  wo                  | Impact: 0.000687
+ 3. ho                   | Impact: 0.000687
+ 4.  bt                  | Impact: 0.000653
+ 5. w                    | Impact: 0.000653
+ 6.  !                   | Impact: 0.000517
+ 7.  ,                   | Impact: 0.000332
+ 8. oo                   | Impact: 0.000332
+ 9. oo                   | Impact: 0.000332
+10.  _                   | Impact: 0.000318
+11.  _                   | Impact: 0.000318
+12.  _                   | Impact: 0.000309
+13.  _                   | Impact: 0.000309
+14.  _                   | Impact: 0.000304
+15.  _                   | Impact: 0.000304
+16.  _                   | Impact: 0.000298
+17.  _                   | Impact: 0.000298
+18.  i                   | Impact: 0.000277
+19.  just                | Impact: 0.000277
+20.  _                   | Impact: 0.000254
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.005256
+ 2.  :                   | Impact: -0.004849
+ 3.  em                  | Impact: -0.003598
+ 4.  :                   | Impact: -0.003598
+ 5.  che                 | Impact: -0.003296
+ 6.  >                   | Impact: -0.003296
+ 7.  >                   | Impact: -0.002936
+ 8.  after               | Impact: -0.002936
+ 9.  _                   | Impact: -0.002881
+10.  _                   | Impact: -0.002881
+11.  >                   | Impact: -0.002777
+12.  >                   | Impact: -0.002583
+13.  >                   | Impact: -0.002583
+14.  _                   | Impact: -0.002510
+15.  _                   | Impact: -0.002510
+16.  _                   | Impact: -0.002510
+17.  _                   | Impact: -0.002510
+18.  :                   | Impact: -0.002393
+19.  :                   | Impact: -0.002392
+20.  >                   | Impact: -0.002392

@@ -1,0 +1,75 @@
+Sample 99
+=========
+
+Sample text preview: Hello You may have seen this business before and ignored it. I know I did - many times! However, please take a few moments to read this letter. I was ...
+
+Model prediction: [1.7980995e-04 9.9982017e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  a                   | Impact: 0.004621 → PHISHING
+ 2.  national            | Impact: 0.004621 → PHISHING
+ 3.  weekly              | Impact: 0.004621 → PHISHING
+ 4.  news                | Impact: 0.004621 → PHISHING
+ 5.  program             | Impact: 0.004621 → PHISHING
+ 6.  recently            | Impact: 0.004621 → PHISHING
+ 7.  devoted             | Impact: 0.004621 → PHISHING
+ 8.  an                  | Impact: 0.004621 → PHISHING
+ 9.  entire              | Impact: 0.004621 → PHISHING
+10.  show                | Impact: 0.004621 → PHISHING
+11.  to                  | Impact: 0.004621 → PHISHING
+12.  the                 | Impact: 0.004621 → PHISHING
+13.  to                  | Impact: 0.004621 → PHISHING
+14.  see                 | Impact: 0.004621 → PHISHING
+15.  if                  | Impact: 0.004621 → PHISHING
+16.  it                  | Impact: 0.004621 → PHISHING
+17.  really              | Impact: 0.004621 → PHISHING
+18.  can                 | Impact: 0.004621 → PHISHING
+19.  make                | Impact: 0.004621 → PHISHING
+20.  people              | Impact: 0.004621 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  a                   | Impact: 0.004621
+ 2.  national            | Impact: 0.004621
+ 3.  weekly              | Impact: 0.004621
+ 4.  news                | Impact: 0.004621
+ 5.  program             | Impact: 0.004621
+ 6.  recently            | Impact: 0.004621
+ 7.  devoted             | Impact: 0.004621
+ 8.  an                  | Impact: 0.004621
+ 9.  entire              | Impact: 0.004621
+10.  show                | Impact: 0.004621
+11.  to                  | Impact: 0.004621
+12.  the                 | Impact: 0.004621
+13.  to                  | Impact: 0.004621
+14.  see                 | Impact: 0.004621
+15.  if                  | Impact: 0.004621
+16.  it                  | Impact: 0.004621
+17.  really              | Impact: 0.004621
+18.  can                 | Impact: 0.004621
+19.  make                | Impact: 0.004621
+20.  people              | Impact: 0.004621
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.000000
+ 2.  .                   | Impact: -0.000000
+ 3.  #                   | Impact: -0.000000
+ 4.  as                  | Impact: -0.000000
+ 5.  instructed          | Impact: -0.000000
+ 6.  above               | Impact: -0.000000
+ 7.  .                   | Impact: -0.000000
+ 8.  one                 | Impact: -0.000000
+ 9.  of                  | Impact: -0.000000
+10.  the                 | Impact: -0.000000
+11.  people              | Impact: -0.000000
+12.  you                 | Impact: -0.000000
+13.  send                | Impact: -0.000000
+14.  this                | Impact: -0.000000
+15.  to                  | Impact: -0.000000
+16.  may                 | Impact: -0.000000
+17.  send                | Impact: -0.000000
+18.  out                 | Impact: -0.000000
+19.  ,                   | Impact: -0.000000
+20.  or                  | Impact: -0.000000

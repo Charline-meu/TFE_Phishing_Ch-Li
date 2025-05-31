@@ -1,0 +1,75 @@
+Sample 43
+=========
+
+Sample text preview: > How easy would it be to code a menu item that marks as read all messages > before the current message? I often have problems reading heavy-traffic >...
+
+Model prediction: [9.9913424e-01 8.6581934e-04]
+Predicted class: LEGITIMATE with 0.9991 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ]                   | Impact: -0.004141 → LEGITIMATE
+ 2.  section             | Impact: -0.004141 → LEGITIMATE
+ 3.  =                   | Impact: 0.001087 → PHISHING
+ 4.  my                  | Impact: 0.001087 → PHISHING
+ 5.  head                | Impact: 0.001087 → PHISHING
+ 6.  _                   | Impact: 0.001087 → PHISHING
+ 7.  you                 | Impact: 0.001011 → PHISHING
+ 8.  '                   | Impact: 0.001011 → PHISHING
+ 9.  sequences           | Impact: -0.001001 → LEGITIMATE
+10.  code                | Impact: -0.001001 → LEGITIMATE
+11.  ll                  | Impact: 0.000785 → PHISHING
+12.  have                | Impact: 0.000785 → PHISHING
+13.  menu                | Impact: -0.000774 → LEGITIMATE
+14.  item                | Impact: -0.000774 → LEGITIMATE
+15.  .                   | Impact: -0.000744 → LEGITIMATE
+16.  .                   | Impact: -0.000744 → LEGITIMATE
+17.  >                   | Impact: -0.000734 → LEGITIMATE
+18.  >                   | Impact: -0.000734 → LEGITIMATE
+19.  as                  | Impact: -0.000700 → LEGITIMATE
+20.  a                   | Impact: -0.000700 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  =                   | Impact: 0.001087
+ 2.  my                  | Impact: 0.001087
+ 3.  head                | Impact: 0.001087
+ 4.  _                   | Impact: 0.001087
+ 5.  you                 | Impact: 0.001011
+ 6.  '                   | Impact: 0.001011
+ 7.  ll                  | Impact: 0.000785
+ 8.  have                | Impact: 0.000785
+ 9.  "                   | Impact: 0.000509
+10.  it                  | Impact: 0.000509
+11.  "                   | Impact: 0.000509
+12.  =                   | Impact: 0.000509
+13.  first               | Impact: 0.000419
+14.  ,                   | Impact: 0.000419
+15.  m                   | Impact: 0.000343
+16.  .                   | Impact: 0.000343
+17.  i                   | Impact: 0.000312
+18.  '                   | Impact: 0.000312
+19.  m                   | Impact: 0.000312
+20.  still               | Impact: 0.000312
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ]                   | Impact: -0.004141
+ 2.  section             | Impact: -0.004141
+ 3.  sequences           | Impact: -0.001001
+ 4.  code                | Impact: -0.001001
+ 5.  menu                | Impact: -0.000774
+ 6.  item                | Impact: -0.000774
+ 7.  .                   | Impact: -0.000744
+ 8.  .                   | Impact: -0.000744
+ 9.  >                   | Impact: -0.000734
+10.  >                   | Impact: -0.000734
+11.  as                  | Impact: -0.000700
+12.  a                   | Impact: -0.000700
+13.  not                 | Impact: -0.000639
+14.  play                | Impact: -0.000639
+15.  >                   | Impact: -0.000623
+16.  before              | Impact: -0.000623
+17.  particular          | Impact: -0.000604
+18.  sequence            | Impact: -0.000604
+19.  this                | Impact: -0.000596
+20.  could               | Impact: -0.000596

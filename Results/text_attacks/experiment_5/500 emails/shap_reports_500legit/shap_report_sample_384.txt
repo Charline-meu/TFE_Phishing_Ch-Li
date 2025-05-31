@@ -1,0 +1,75 @@
+Sample 384
+==========
+
+Sample text preview: John: Here is the spreadsheet for valuing and hedging the quanto swap. It prices the swap for one day. Please note the delta position on gas that need...
+
+Model prediction: [9.9975818e-01 2.4178035e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  questions           | Impact: -0.008230 → LEGITIMATE
+ 2.  opinion             | Impact: -0.007520 → LEGITIMATE
+ 3.  scenarios           | Impact: -0.005485 → LEGITIMATE
+ 4.  simplicity          | Impact: -0.005361 → LEGITIMATE
+ 5.  size                | Impact: 0.005291 → PHISHING
+ 6.  i                   | Impact: -0.005147 → LEGITIMATE
+ 7.  spreads             | Impact: -0.005048 → LEGITIMATE
+ 8.  .                   | Impact: -0.005037 → LEGITIMATE
+ 9. uing                 | Impact: -0.003989 → LEGITIMATE
+10.  is                  | Impact: 0.003854 → PHISHING
+11.  he                  | Impact: -0.003686 → LEGITIMATE
+12.  :                   | Impact: -0.003574 → LEGITIMATE
+13.  .                   | Impact: -0.003566 → LEGITIMATE
+14.  rate                | Impact: -0.003506 → LEGITIMATE
+15.  .                   | Impact: -0.003439 → LEGITIMATE
+16.  )                   | Impact: 0.003350 → PHISHING
+17.  unit                | Impact: -0.003335 → LEGITIMATE
+18.  (                   | Impact: 0.003310 → PHISHING
+19.  made                | Impact: -0.003144 → LEGITIMATE
+20.  swap                | Impact: -0.003052 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  size                | Impact: 0.005291
+ 2.  is                  | Impact: 0.003854
+ 3.  )                   | Impact: 0.003350
+ 4.  (                   | Impact: 0.003310
+ 5.  (                   | Impact: 0.002282
+ 6.  hd                  | Impact: 0.001631
+ 7. ds                   | Impact: 0.001631
+ 8.  the                 | Impact: 0.001266
+ 9.  mm                  | Impact: 0.001263
+10. bt                   | Impact: 0.001263
+11.  and                 | Impact: 0.000943
+12.  tick                | Impact: 0.000852
+13.  /                   | Impact: 0.000821
+14.  the                 | Impact: 0.000720
+15.  your                | Impact: 0.000663
+16.  is                  | Impact: 0.000604
+17.  "                   | Impact: 0.000543
+18. us                   | Impact: 0.000261
+19. t                    | Impact: 0.000232
+20.  hit                 | Impact: 0.000170
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  questions           | Impact: -0.008230
+ 2.  opinion             | Impact: -0.007520
+ 3.  scenarios           | Impact: -0.005485
+ 4.  simplicity          | Impact: -0.005361
+ 5.  i                   | Impact: -0.005147
+ 6.  spreads             | Impact: -0.005048
+ 7.  .                   | Impact: -0.005037
+ 8. uing                 | Impact: -0.003989
+ 9.  he                  | Impact: -0.003686
+10.  :                   | Impact: -0.003574
+11.  .                   | Impact: -0.003566
+12.  rate                | Impact: -0.003506
+13.  .                   | Impact: -0.003439
+14.  unit                | Impact: -0.003335
+15.  made                | Impact: -0.003144
+16.  swap                | Impact: -0.003052
+17.  .                   | Impact: -0.003049
+18.  .                   | Impact: -0.002945
+19.  let                 | Impact: -0.002830
+20.  also                | Impact: -0.002720

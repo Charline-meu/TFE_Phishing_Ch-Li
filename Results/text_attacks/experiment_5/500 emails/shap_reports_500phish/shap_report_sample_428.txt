@@ -1,0 +1,75 @@
+Sample 428
+==========
+
+Sample text preview: FREDY & ASSOCIATES SUITE ., LEVEL , MENARA TJB NO , JALAN SYED MOHD MUFTI JOHOR BAHRU MALAYSIA Good Day, I am Fredy Nave, an attorney at law. A deceas...
+
+Model prediction: [1.8034258e-04 9.9981970e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  jalan               | Impact: 0.009188 → PHISHING
+ 2.  syed                | Impact: 0.009188 → PHISHING
+ 3.  mo                  | Impact: 0.009188 → PHISHING
+ 4. hd                   | Impact: 0.009188 → PHISHING
+ 5.  mu                  | Impact: 0.009188 → PHISHING
+ 6. ft                   | Impact: 0.009188 → PHISHING
+ 7. i                    | Impact: 0.009188 → PHISHING
+ 8.  johor               | Impact: 0.009188 → PHISHING
+ 9.  ba                  | Impact: 0.009188 → PHISHING
+10. hr                   | Impact: 0.009188 → PHISHING
+11. u                    | Impact: 0.009188 → PHISHING
+12.  malaysia            | Impact: 0.008355 → PHISHING
+13.  good                | Impact: 0.008355 → PHISHING
+14.  day                 | Impact: 0.008355 → PHISHING
+15.  ,                   | Impact: 0.008355 → PHISHING
+16.  this                | Impact: 0.007644 → PHISHING
+17.  will                | Impact: 0.007644 → PHISHING
+18.  be                  | Impact: 0.007644 → PHISHING
+19.  executed            | Impact: 0.007644 → PHISHING
+20.  under               | Impact: 0.007644 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  jalan               | Impact: 0.009188
+ 2.  syed                | Impact: 0.009188
+ 3.  mo                  | Impact: 0.009188
+ 4. hd                   | Impact: 0.009188
+ 5.  mu                  | Impact: 0.009188
+ 6. ft                   | Impact: 0.009188
+ 7. i                    | Impact: 0.009188
+ 8.  johor               | Impact: 0.009188
+ 9.  ba                  | Impact: 0.009188
+10. hr                   | Impact: 0.009188
+11. u                    | Impact: 0.009188
+12.  malaysia            | Impact: 0.008355
+13.  good                | Impact: 0.008355
+14.  day                 | Impact: 0.008355
+15.  ,                   | Impact: 0.008355
+16.  this                | Impact: 0.007644
+17.  will                | Impact: 0.007644
+18.  be                  | Impact: 0.007644
+19.  executed            | Impact: 0.007644
+20.  under               | Impact: 0.007644
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  fred                | Impact: -0.002928
+ 2. y                    | Impact: -0.002928
+ 3.  nave                | Impact: -0.002928
+ 4.  (                   | Impact: -0.002928
+ 5.  attorney            | Impact: -0.002928
+ 6.  at                  | Impact: -0.002928
+ 7.  law                 | Impact: -0.002928
+ 8.  )                   | Impact: -0.002928
+ 9.  visit               | Impact: -0.002407
+10.  the                 | Impact: -0.002407
+11.  yahoo               | Impact: -0.002407
+12.  !                   | Impact: -0.002407
+13.  auto                | Impact: -0.002407
+14.  green               | Impact: -0.002407
+15.  center              | Impact: -0.002407
+16.  .                   | Impact: -0.002407
+17.  ones                | Impact: -0.002258
+18. ear                  | Impact: -0.002258
+19. ch                   | Impact: -0.002258
+20.  :                   | Impact: -0.002258

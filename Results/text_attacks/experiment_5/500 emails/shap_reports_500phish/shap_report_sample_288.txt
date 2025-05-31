@@ -1,0 +1,75 @@
+Sample 288
+==========
+
+Sample text preview: I am Mr.J C of InvestmentBankingUnionBankOfChina.On July , ,our client Mr. Irvin poot,a businessman,made a numbered fixed deposit for (six)calendar mo...
+
+Model prediction: [1.4880869e-04 9.9985123e-01]
+Predicted class: PHISHING with 0.9999 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.083861 → PHISHING
+ 2.  malaysia            | Impact: 0.069536 → PHISHING
+ 3.  am                  | Impact: 0.053833 → PHISHING
+ 4.  foreigner           | Impact: 0.035028 → PHISHING
+ 5.  mr                  | Impact: 0.033678 → PHISHING
+ 6.  will                | Impact: 0.031053 → PHISHING
+ 7.  i                   | Impact: 0.023043 → PHISHING
+ 8.  you                 | Impact: 0.022684 → PHISHING
+ 9.  receive             | Impact: 0.022684 → PHISHING
+10.  our                 | Impact: 0.021042 → PHISHING
+11.  client              | Impact: 0.021042 → PHISHING
+12.  to                  | Impact: 0.019230 → PHISHING
+13.  mr                  | Impact: 0.019230 → PHISHING
+14.  was                 | Impact: 0.019212 → PHISHING
+15.  sent                | Impact: 0.019212 → PHISHING
+16.  you                 | Impact: 0.017994 → PHISHING
+17.  of                  | Impact: 0.017894 → PHISHING
+18.  kin                 | Impact: 0.017894 → PHISHING
+19.  in                  | Impact: 0.017797 → PHISHING
+20.  c                   | Impact: 0.017706 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.083861
+ 2.  malaysia            | Impact: 0.069536
+ 3.  am                  | Impact: 0.053833
+ 4.  foreigner           | Impact: 0.035028
+ 5.  mr                  | Impact: 0.033678
+ 6.  will                | Impact: 0.031053
+ 7.  i                   | Impact: 0.023043
+ 8.  you                 | Impact: 0.022684
+ 9.  receive             | Impact: 0.022684
+10.  our                 | Impact: 0.021042
+11.  client              | Impact: 0.021042
+12.  to                  | Impact: 0.019230
+13.  mr                  | Impact: 0.019230
+14.  was                 | Impact: 0.019212
+15.  sent                | Impact: 0.019212
+16.  you                 | Impact: 0.017994
+17.  of                  | Impact: 0.017894
+18.  kin                 | Impact: 0.017894
+19.  in                  | Impact: 0.017797
+20.  c                   | Impact: 0.017706
+
+Top features pushing towards LEGITIMATE classification:
+ 1. vin                  | Impact: -0.010309
+ 2.  i                   | Impact: -0.008968
+ 3.  made                | Impact: -0.006874
+ 4.  a                   | Impact: -0.006874
+ 5.  ir                  | Impact: -0.006819
+ 6.  .                   | Impact: -0.005886
+ 7.  in                  | Impact: -0.005704
+ 8.  my                  | Impact: -0.005704
+ 9.  branch              | Impact: -0.005704
+10.  .                   | Impact: -0.005148
+11.  the                 | Impact: -0.004131
+12.  tsunami             | Impact: -0.004131
+13.  disaster            | Impact: -0.004131
+14.  ir                  | Impact: -0.003923
+15. vin                  | Impact: -0.003923
+16.  po                  | Impact: -0.003923
+17. ot                   | Impact: -0.003923
+18.  m                   | Impact: -0.003638
+19.  only                | Impact: -0.003638
+20.  numbered            | Impact: -0.003533

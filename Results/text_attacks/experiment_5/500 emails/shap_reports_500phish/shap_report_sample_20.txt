@@ -1,0 +1,75 @@
+Sample 20
+=========
+
+Sample text preview: FROM:CHIEF.(DR.)BODE GEORGE ADEMOLA ADETOKUNBO STREET VICTORIA ISLAND LAGOS-NIGERIA Dear Sir, RE: BUSINESS PROPOSAL - STRICTLY CONFIDENTIAL. I am CHIE...
+
+Model prediction: [1.6873656e-04 9.9983120e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.009542 → PHISHING
+ 2.  firm                | Impact: 0.009542 → PHISHING
+ 3.  will                | Impact: 0.009542 → PHISHING
+ 4.  be                  | Impact: 0.009542 → PHISHING
+ 5.  regarded            | Impact: 0.009542 → PHISHING
+ 6.  as                  | Impact: 0.009542 → PHISHING
+ 7.  one                 | Impact: 0.009542 → PHISHING
+ 8.  of                  | Impact: 0.009542 → PHISHING
+ 9.  the                 | Impact: 0.008464 → PHISHING
+10.  nature              | Impact: 0.008464 → PHISHING
+11.  of                  | Impact: 0.008464 → PHISHING
+12.  your                | Impact: 0.008464 → PHISHING
+13.  business            | Impact: 0.008464 → PHISHING
+14.  at                  | Impact: 0.008464 → PHISHING
+15.  present             | Impact: 0.008464 → PHISHING
+16.  does                | Impact: 0.008464 → PHISHING
+17.  that                | Impact: 0.007009 → PHISHING
+18.  is                  | Impact: 0.007009 → PHISHING
+19.  you                 | Impact: 0.007009 → PHISHING
+20.  or                  | Impact: 0.007009 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.009542
+ 2.  firm                | Impact: 0.009542
+ 3.  will                | Impact: 0.009542
+ 4.  be                  | Impact: 0.009542
+ 5.  regarded            | Impact: 0.009542
+ 6.  as                  | Impact: 0.009542
+ 7.  one                 | Impact: 0.009542
+ 8.  of                  | Impact: 0.009542
+ 9.  the                 | Impact: 0.008464
+10.  nature              | Impact: 0.008464
+11.  of                  | Impact: 0.008464
+12.  your                | Impact: 0.008464
+13.  business            | Impact: 0.008464
+14.  at                  | Impact: 0.008464
+15.  present             | Impact: 0.008464
+16.  does                | Impact: 0.008464
+17.  that                | Impact: 0.007009
+18.  is                  | Impact: 0.007009
+19.  you                 | Impact: 0.007009
+20.  or                  | Impact: 0.007009
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.000204
+ 2.  from                | Impact: -0.000204
+ 3.  :                   | Impact: -0.000204
+ 4.  chief               | Impact: -0.000204
+ 5.  .                   | Impact: -0.000204
+ 6.  we                  | Impact: -0.000152
+ 7.  have                | Impact: -0.000152
+ 8.  mapped              | Impact: -0.000152
+ 9.  out                 | Impact: -0.000152
+10.  strategies          | Impact: -0.000152
+11.  and                 | Impact: -0.000152
+12.  all                 | Impact: -0.000152
+13.  paperwork           | Impact: -0.000152
+14.  is                  | Impact: -0.000152
+15.  in                  | Impact: -0.000152
+16.  place               | Impact: -0.000152
+17.  to                  | Impact: -0.000152
+18.  ensure              | Impact: -0.000152
+19.  a                   | Impact: -0.000152
+20.  %                   | Impact: -0.000152

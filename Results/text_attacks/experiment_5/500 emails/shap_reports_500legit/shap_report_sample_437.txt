@@ -1,0 +1,74 @@
+Sample 437
+==========
+
+Sample text preview: Dear Vince, I would like to thank you for your help and support during this particularly difficult time for me. I truly appreciate it. Thank you. Sinc...
+
+Model prediction: [0.9952003  0.00479965]
+Predicted class: LEGITIMATE with 0.9952 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  vince               | Impact: -0.568879 → LEGITIMATE
+ 2.  dear                | Impact: 0.327061 → PHISHING
+ 3.  your                | Impact: 0.131780 → PHISHING
+ 4.  thank               | Impact: -0.126759 → LEGITIMATE
+ 5.  sincerely           | Impact: 0.122879 → PHISHING
+ 6.  appreciate          | Impact: -0.094033 → LEGITIMATE
+ 7.  shale               | Impact: -0.080816 → LEGITIMATE
+ 8.  help                | Impact: 0.075624 → PHISHING
+ 9. sh                   | Impact: 0.065928 → PHISHING
+10. o                    | Impact: 0.064996 → PHISHING
+11.  you                 | Impact: 0.064128 → PHISHING
+12.  support             | Impact: 0.047788 → PHISHING
+13.  it                  | Impact: -0.045074 → LEGITIMATE
+14.  gan                 | Impact: 0.035612 → PHISHING
+15.  i                   | Impact: -0.031263 → LEGITIMATE
+16.  thank               | Impact: -0.031081 → LEGITIMATE
+17. jo                   | Impact: 0.030511 → PHISHING
+18.  for                 | Impact: 0.029131 → PHISHING
+19.  like                | Impact: -0.025730 → LEGITIMATE
+20.  .                   | Impact: 0.018442 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.327061
+ 2.  your                | Impact: 0.131780
+ 3.  sincerely           | Impact: 0.122879
+ 4.  help                | Impact: 0.075624
+ 5. sh                   | Impact: 0.065928
+ 6. o                    | Impact: 0.064996
+ 7.  you                 | Impact: 0.064128
+ 8.  support             | Impact: 0.047788
+ 9.  gan                 | Impact: 0.035612
+10. jo                   | Impact: 0.030511
+11.  for                 | Impact: 0.029131
+12.  .                   | Impact: 0.018442
+13.  you                 | Impact: 0.012279
+14.  this                | Impact: 0.006694
+15.  during              | Impact: 0.006209
+16.  ,                   | Impact: 0.005683
+17.  difficult           | Impact: 0.003211
+18.  time                | Impact: 0.003171
+19.                      | Impact: 0.002878
+20.                      | Impact: 0.000619
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  vince               | Impact: -0.568879
+ 2.  thank               | Impact: -0.126759
+ 3.  appreciate          | Impact: -0.094033
+ 4.  shale               | Impact: -0.080816
+ 5.  it                  | Impact: -0.045074
+ 6.  i                   | Impact: -0.031263
+ 7.  thank               | Impact: -0.031081
+ 8.  like                | Impact: -0.025730
+ 9.  me                  | Impact: -0.011907
+10.  truly               | Impact: -0.010542
+11.  particularly        | Impact: -0.010247
+12.  .                   | Impact: -0.009473
+13.  i                   | Impact: -0.008479
+14.  and                 | Impact: -0.005070
+15.  would               | Impact: -0.003308
+16.  .                   | Impact: -0.001307
+17.  ,                   | Impact: -0.001028
+18.  to                  | Impact: -0.000921
+19.  for                 | Impact: -0.000114

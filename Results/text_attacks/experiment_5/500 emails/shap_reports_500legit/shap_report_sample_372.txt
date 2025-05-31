@@ -1,0 +1,75 @@
+Sample 372
+==========
+
+Sample text preview: Thanks for your reply, you do mean New Waskom right, as you have Gaskom in your e-mail. Also should I have them get in touch with you re financial sta...
+
+Model prediction: [9.9979836e-01 2.0164877e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.078994 → LEGITIMATE
+ 2.  you                 | Impact: 0.044129 → PHISHING
+ 3.  thanks              | Impact: -0.034152 → LEGITIMATE
+ 4.  financial           | Impact: 0.031738 → PHISHING
+ 5.  re                  | Impact: 0.025824 → PHISHING
+ 6.  street              | Impact: 0.025411 → PHISHING
+ 7.  touch               | Impact: -0.022924 → LEGITIMATE
+ 8.  with                | Impact: 0.021665 → PHISHING
+ 9.  .                   | Impact: -0.020177 → LEGITIMATE
+10.  your                | Impact: 0.018325 → PHISHING
+11.  also                | Impact: -0.018189 → LEGITIMATE
+12.  corp                | Impact: 0.016577 → PHISHING
+13.  debra               | Impact: -0.016324 → LEGITIMATE
+14.  en                  | Impact: 0.013386 → PHISHING
+15.  houston             | Impact: -0.011712 → LEGITIMATE
+16.  ,                   | Impact: 0.011370 → PHISHING
+17.  should              | Impact: -0.011006 → LEGITIMATE
+18.  reply               | Impact: 0.009950 → PHISHING
+19.  you                 | Impact: 0.009831 → PHISHING
+20.  mail                | Impact: 0.009745 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.044129
+ 2.  financial           | Impact: 0.031738
+ 3.  re                  | Impact: 0.025824
+ 4.  street              | Impact: 0.025411
+ 5.  with                | Impact: 0.021665
+ 6.  your                | Impact: 0.018325
+ 7.  corp                | Impact: 0.016577
+ 8.  en                  | Impact: 0.013386
+ 9.  ,                   | Impact: 0.011370
+10.  reply               | Impact: 0.009950
+11.  you                 | Impact: 0.009831
+12.  mail                | Impact: 0.009745
+13.  as                  | Impact: 0.009558
+14.  your                | Impact: 0.007378
+15.  have                | Impact: 0.005471
+16.  get                 | Impact: 0.003355
+17.  in                  | Impact: 0.003172
+18.  them                | Impact: 0.003145
+19.  .                   | Impact: 0.003071
+20.  for                 | Impact: 0.002923
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.078994
+ 2.  thanks              | Impact: -0.034152
+ 3.  touch               | Impact: -0.022924
+ 4.  .                   | Impact: -0.020177
+ 5.  also                | Impact: -0.018189
+ 6.  debra               | Impact: -0.016324
+ 7.  houston             | Impact: -0.011712
+ 8.  should              | Impact: -0.011006
+ 9.  mean                | Impact: -0.008043
+10.  gas                 | Impact: -0.007488
+11.  was                 | Impact: -0.007311
+12.  e                   | Impact: -0.007216
+13.  i                   | Impact: -0.007163
+14.  right               | Impact: -0.006933
+15.  statements          | Impact: -0.005533
+16.  ,                   | Impact: -0.005311
+17. b                    | Impact: -0.005189
+18.  department          | Impact: -0.004249
+19.  thanks              | Impact: -0.003244
+20. ko                   | Impact: -0.003139

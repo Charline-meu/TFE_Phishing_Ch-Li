@@ -1,0 +1,71 @@
+Sample 228
+==========
+
+Sample text preview: URL: Date: --T::+: *Julian Glover*, who worked on John Major's autobiography for two years, on why Edwina Currie wasn't in it.
+
+Model prediction: [9.997695e-01 2.304698e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  why                 | Impact: -0.048477 → LEGITIMATE
+ 2.  autobiography       | Impact: 0.042616 → PHISHING
+ 3.  years               | Impact: 0.034917 → PHISHING
+ 4.  it                  | Impact: -0.023870 → LEGITIMATE
+ 5.  currie              | Impact: -0.023632 → LEGITIMATE
+ 6.  edwin               | Impact: -0.019098 → LEGITIMATE
+ 7.  two                 | Impact: 0.018545 → PHISHING
+ 8. a                    | Impact: 0.013216 → PHISHING
+ 9.  :                   | Impact: -0.012846 → LEGITIMATE
+10.  on                  | Impact: 0.012350 → PHISHING
+11.  worked              | Impact: 0.010374 → PHISHING
+12.  s                   | Impact: -0.010189 → LEGITIMATE
+13.  ,                   | Impact: -0.010059 → LEGITIMATE
+14.  +                   | Impact: 0.009525 → PHISHING
+15.  wasn                | Impact: -0.008492 → LEGITIMATE
+16.  in                  | Impact: 0.008293 → PHISHING
+17.  t                   | Impact: -0.007975 → LEGITIMATE
+18.  major               | Impact: -0.005551 → LEGITIMATE
+19.  glover              | Impact: 0.005010 → PHISHING
+20.  .                   | Impact: 0.004585 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  autobiography       | Impact: 0.042616
+ 2.  years               | Impact: 0.034917
+ 3.  two                 | Impact: 0.018545
+ 4. a                    | Impact: 0.013216
+ 5.  on                  | Impact: 0.012350
+ 6.  worked              | Impact: 0.010374
+ 7.  +                   | Impact: 0.009525
+ 8.  in                  | Impact: 0.008293
+ 9.  glover              | Impact: 0.005010
+10.  .                   | Impact: 0.004585
+11.  *                   | Impact: 0.004321
+12.  '                   | Impact: 0.002782
+13.  t                   | Impact: 0.001012
+14.  on                  | Impact: 0.000852
+15.  -                   | Impact: 0.000353
+16.  *                   | Impact: 0.000125
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  why                 | Impact: -0.048477
+ 2.  it                  | Impact: -0.023870
+ 3.  currie              | Impact: -0.023632
+ 4.  edwin               | Impact: -0.019098
+ 5.  :                   | Impact: -0.012846
+ 6.  s                   | Impact: -0.010189
+ 7.  ,                   | Impact: -0.010059
+ 8.  wasn                | Impact: -0.008492
+ 9.  t                   | Impact: -0.007975
+10.  major               | Impact: -0.005551
+11.  '                   | Impact: -0.002317
+12.  who                 | Impact: -0.001964
+13.  :                   | Impact: -0.001512
+14.  :                   | Impact: -0.001494
+15.  :                   | Impact: -0.001376
+16.  john                | Impact: -0.001252
+17.  ur                  | Impact: -0.001168
+18.  for                 | Impact: -0.001040
+19.  julian              | Impact: -0.000628
+20.  ,                   | Impact: -0.000617

@@ -1,0 +1,75 @@
+Sample 101
+==========
+
+Sample text preview: Notice No. - February , TO: All NYMEX Members/Member Firms All NYMEX Clearing Members All NYMEX Floor Traders All NYMEX Operations Managers FROM: Geor...
+
+Model prediction: [9.9973673e-01 2.6329732e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  review              | Impact: -0.001823 → LEGITIMATE
+ 2.  accept              | Impact: -0.001823 → LEGITIMATE
+ 3.  reject              | Impact: -0.001211 → LEGITIMATE
+ 4.  transfers           | Impact: -0.001211 → LEGITIMATE
+ 5.  review              | Impact: -0.001128 → LEGITIMATE
+ 6.  submitted           | Impact: -0.001128 → LEGITIMATE
+ 7.  @                   | Impact: 0.000951 → PHISHING
+ 8.  your                | Impact: 0.000951 → PHISHING
+ 9.  firm                | Impact: 0.000951 → PHISHING
+10.  contains            | Impact: -0.000772 → LEGITIMATE
+11.  all                 | Impact: -0.000772 → LEGITIMATE
+12.  trade               | Impact: -0.000772 → LEGITIMATE
+13.  and                 | Impact: -0.000772 → LEGITIMATE
+14.  transfers           | Impact: -0.000764 → LEGITIMATE
+15.  contains            | Impact: -0.000764 → LEGITIMATE
+16.  option              | Impact: -0.000726 → LEGITIMATE
+17.  series              | Impact: -0.000726 → LEGITIMATE
+18.  from                | Impact: -0.000726 → LEGITIMATE
+19.  the                 | Impact: -0.000726 → LEGITIMATE
+20.  single              | Impact: -0.000635 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  @                   | Impact: 0.000951
+ 2.  your                | Impact: 0.000951
+ 3.  firm                | Impact: 0.000951
+ 4.  position            | Impact: 0.000407
+ 5.  transfers           | Impact: 0.000407
+ 6.  at                  | Impact: 0.000407
+ 7. o                    | Impact: 0.000407
+ 8.  @                   | Impact: 0.000147
+ 9.  your                | Impact: 0.000147
+10.  firm                | Impact: 0.000147
+11.  duly                | Impact: 0.000074
+12.  authorized          | Impact: 0.000074
+13.  representative      | Impact: 0.000074
+14.  present             | Impact: 0.000074
+15.  at                  | Impact: 0.000074
+16.  their               | Impact: 0.000074
+17.  normal              | Impact: 0.000074
+18.  work                | Impact: 0.000074
+19.  station             | Impact: 0.000074
+20.  promptly            | Impact: 0.000074
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  review              | Impact: -0.001823
+ 2.  accept              | Impact: -0.001823
+ 3.  reject              | Impact: -0.001211
+ 4.  transfers           | Impact: -0.001211
+ 5.  review              | Impact: -0.001128
+ 6.  submitted           | Impact: -0.001128
+ 7.  contains            | Impact: -0.000772
+ 8.  all                 | Impact: -0.000772
+ 9.  trade               | Impact: -0.000772
+10.  and                 | Impact: -0.000772
+11.  transfers           | Impact: -0.000764
+12.  contains            | Impact: -0.000764
+13.  option              | Impact: -0.000726
+14.  series              | Impact: -0.000726
+15.  from                | Impact: -0.000726
+16.  the                 | Impact: -0.000726
+17.  single              | Impact: -0.000635
+18.  position            | Impact: -0.000635
+19.  maintenance         | Impact: -0.000635
+20.  contains            | Impact: -0.000635

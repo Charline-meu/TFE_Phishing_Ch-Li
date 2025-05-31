@@ -1,0 +1,75 @@
+Sample 487
+==========
+
+Sample text preview: FROM: MR. GULLY GRACI ATTN: DEAR I AM THE MANAGER OF BILLS AND EXCHANGE AT THE FOREIGN REMITTANCE DEPARTMENT OF THE ECOBANK SPAIN PLC. I AM WRITING TH...
+
+Model prediction: [1.7882325e-04 9.9982125e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  i                   | Impact: 0.008944 → PHISHING
+ 2.  will                | Impact: 0.008944 → PHISHING
+ 3.  visit               | Impact: 0.008944 → PHISHING
+ 4.  your                | Impact: 0.008944 → PHISHING
+ 5.  country             | Impact: 0.008944 → PHISHING
+ 6.  for                 | Impact: 0.008944 → PHISHING
+ 7.  bank                | Impact: 0.008115 → PHISHING
+ 8.  account             | Impact: 0.008115 → PHISHING
+ 9.  number              | Impact: 0.008115 → PHISHING
+10.  claim               | Impact: 0.006840 → PHISHING
+11.  his                 | Impact: 0.006840 → PHISHING
+12.  money               | Impact: 0.006840 → PHISHING
+13.  because             | Impact: 0.006840 → PHISHING
+14.  entire              | Impact: 0.006684 → PHISHING
+15.  family              | Impact: 0.006684 → PHISHING
+16.  in                  | Impact: 0.006684 → PHISHING
+17.  november            | Impact: 0.006684 → PHISHING
+18.  for                 | Impact: 0.006653 → PHISHING
+19.  you                 | Impact: 0.006653 → PHISHING
+20.  as                  | Impact: 0.006653 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  i                   | Impact: 0.008944
+ 2.  will                | Impact: 0.008944
+ 3.  visit               | Impact: 0.008944
+ 4.  your                | Impact: 0.008944
+ 5.  country             | Impact: 0.008944
+ 6.  for                 | Impact: 0.008944
+ 7.  bank                | Impact: 0.008115
+ 8.  account             | Impact: 0.008115
+ 9.  number              | Impact: 0.008115
+10.  claim               | Impact: 0.006840
+11.  his                 | Impact: 0.006840
+12.  money               | Impact: 0.006840
+13.  because             | Impact: 0.006840
+14.  entire              | Impact: 0.006684
+15.  family              | Impact: 0.006684
+16.  in                  | Impact: 0.006684
+17.  november            | Impact: 0.006684
+18.  for                 | Impact: 0.006653
+19.  you                 | Impact: 0.006653
+20.  as                  | Impact: 0.006653
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  guidelines          | Impact: -0.001987
+ 2.  of                  | Impact: -0.001987
+ 3.  eco                 | Impact: -0.001987
+ 4. bank                 | Impact: -0.001987
+ 5.  spain               | Impact: -0.001580
+ 6.  plc                 | Impact: -0.001580
+ 7.  st                  | Impact: -0.001580
+ 8. ip                   | Impact: -0.001580
+ 9. ulates               | Impact: -0.001580
+10.  eco                 | Impact: -0.001472
+11. bank                 | Impact: -0.001472
+12.  spain               | Impact: -0.001472
+13.  plc                 | Impact: -0.001472
+14.  .                   | Impact: -0.001472
+15.  the                 | Impact: -0.001331
+16.  banking             | Impact: -0.001331
+17.  law                 | Impact: -0.001331
+18.  and                 | Impact: -0.001331
+19.  exchange            | Impact: -0.000673
+20.  at                  | Impact: -0.000673

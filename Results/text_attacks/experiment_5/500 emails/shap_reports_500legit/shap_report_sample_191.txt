@@ -1,0 +1,65 @@
+Sample 191
+==========
+
+Sample text preview: Laura, I know you are busy but I need your plan submission asap so that we can discuss and finalize. Regards Delainey
+
+Model prediction: [9.9934131e-01 6.5864186e-04]
+Predicted class: LEGITIMATE with 0.9993 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.047248 → PHISHING
+ 2.  discuss             | Impact: -0.037873 → LEGITIMATE
+ 3.  final               | Impact: 0.030534 → PHISHING
+ 4.  plan                | Impact: -0.029164 → LEGITIMATE
+ 5.  .                   | Impact: -0.025224 → LEGITIMATE
+ 6.  regards             | Impact: 0.023574 → PHISHING
+ 7.  del                 | Impact: -0.021431 → LEGITIMATE
+ 8.  and                 | Impact: 0.018036 → PHISHING
+ 9.  your                | Impact: 0.017045 → PHISHING
+10.  are                 | Impact: 0.016491 → PHISHING
+11.  submission          | Impact: -0.014949 → LEGITIMATE
+12.  laura               | Impact: -0.014944 → LEGITIMATE
+13. aine                 | Impact: -0.013171 → LEGITIMATE
+14.  so                  | Impact: 0.011726 → PHISHING
+15. ize                  | Impact: -0.011372 → LEGITIMATE
+16.  i                   | Impact: -0.011079 → LEGITIMATE
+17.  we                  | Impact: -0.009481 → LEGITIMATE
+18.  need                | Impact: 0.009064 → PHISHING
+19.  know                | Impact: -0.009061 → LEGITIMATE
+20. p                    | Impact: -0.008563 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.047248
+ 2.  final               | Impact: 0.030534
+ 3.  regards             | Impact: 0.023574
+ 4.  and                 | Impact: 0.018036
+ 5.  your                | Impact: 0.017045
+ 6.  are                 | Impact: 0.016491
+ 7.  so                  | Impact: 0.011726
+ 8.  need                | Impact: 0.009064
+ 9.  that                | Impact: 0.007421
+10.  ,                   | Impact: 0.004202
+11.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  discuss             | Impact: -0.037873
+ 2.  plan                | Impact: -0.029164
+ 3.  .                   | Impact: -0.025224
+ 4.  del                 | Impact: -0.021431
+ 5.  submission          | Impact: -0.014949
+ 6.  laura               | Impact: -0.014944
+ 7. aine                 | Impact: -0.013171
+ 8. ize                  | Impact: -0.011372
+ 9.  i                   | Impact: -0.011079
+10.  we                  | Impact: -0.009481
+11.  know                | Impact: -0.009061
+12. p                    | Impact: -0.008563
+13.  can                 | Impact: -0.007200
+14.  but                 | Impact: -0.007151
+15.  busy                | Impact: -0.006173
+16.  asa                 | Impact: -0.004009
+17.  i                   | Impact: -0.003081
+18. y                    | Impact: -0.002026
+19.                      | Impact: -0.000291

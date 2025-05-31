@@ -1,0 +1,75 @@
+Sample 265
+==========
+
+Sample text preview: [I'm sure somebody will tell me about the original source; it's in a number of places on the web. -gkm] Forwarded-by: Colin Burgess The Beer Scooter H...
+
+Model prediction: [9.9975771e-01 2.4224368e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  colin               | Impact: -0.006164 → LEGITIMATE
+ 2.  to                  | Impact: 0.004124 → PHISHING
+ 3.  your                | Impact: 0.004124 → PHISHING
+ 4.  house               | Impact: 0.004120 → PHISHING
+ 5.  :                   | Impact: -0.003037 → LEGITIMATE
+ 6.  m                   | Impact: -0.002104 → LEGITIMATE
+ 7.  sure                | Impact: -0.002104 → LEGITIMATE
+ 8.  owned               | Impact: 0.001597 → PHISHING
+ 9.  and                 | Impact: 0.001597 → PHISHING
+10.  i                   | Impact: -0.001438 → LEGITIMATE
+11.  '                   | Impact: -0.001438 → LEGITIMATE
+12.  the                 | Impact: 0.001392 → PHISHING
+13.  drunk               | Impact: 0.001392 → PHISHING
+14.  by                  | Impact: 0.001392 → PHISHING
+15.  leased              | Impact: 0.001392 → PHISHING
+16.  to                  | Impact: 0.001392 → PHISHING
+17.  independent         | Impact: -0.001265 → LEGITIMATE
+18.  studies             | Impact: -0.001265 → LEGITIMATE
+19.  -                   | Impact: -0.001243 → LEGITIMATE
+20.  by                  | Impact: -0.001243 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.004124
+ 2.  your                | Impact: 0.004124
+ 3.  house               | Impact: 0.004120
+ 4.  owned               | Impact: 0.001597
+ 5.  and                 | Impact: 0.001597
+ 6.  the                 | Impact: 0.001392
+ 7.  drunk               | Impact: 0.001392
+ 8.  by                  | Impact: 0.001392
+ 9.  leased              | Impact: 0.001392
+10.  to                  | Impact: 0.001392
+11.  the                 | Impact: 0.000885
+12.  pub                 | Impact: 0.000885
+13.  your                | Impact: 0.000874
+14.  return              | Impact: 0.000874
+15.  journey             | Impact: 0.000874
+16.  from                | Impact: 0.000874
+17.  ba                  | Impact: 0.000749
+18. cc                   | Impact: 0.000749
+19. hus                  | Impact: 0.000749
+20.  the                 | Impact: 0.000749
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  colin               | Impact: -0.006164
+ 2.  :                   | Impact: -0.003037
+ 3.  m                   | Impact: -0.002104
+ 4.  sure                | Impact: -0.002104
+ 5.  i                   | Impact: -0.001438
+ 6.  '                   | Impact: -0.001438
+ 7.  independent         | Impact: -0.001265
+ 8.  studies             | Impact: -0.001265
+ 9.  -                   | Impact: -0.001243
+10.  by                  | Impact: -0.001243
+11.  -                   | Impact: -0.001184
+12.  g                   | Impact: -0.001184
+13. km                   | Impact: -0.001184
+14.  ]                   | Impact: -0.001184
+15.  forward             | Impact: -0.001184
+16. ed                   | Impact: -0.001184
+17.                      | Impact: -0.001172
+18.  [                   | Impact: -0.001172
+19.  the                 | Impact: -0.001157
+20.  beer                | Impact: -0.001157

@@ -1,0 +1,75 @@
+Sample 58
+=========
+
+Sample text preview: I just heard back from Holli Krebs, who verified that Puget is right on this deal - the term should be December through February. I've changed it in t...
+
+Model prediction: [9.9968362e-01 3.1645564e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  december            | Impact: -0.010411 → LEGITIMATE
+ 2.  thanks              | Impact: -0.010364 → LEGITIMATE
+ 3.  system              | Impact: -0.008234 → LEGITIMATE
+ 4.  .                   | Impact: -0.007229 → LEGITIMATE
+ 5.  thanks              | Impact: -0.006966 → LEGITIMATE
+ 6.  back                | Impact: -0.005970 → LEGITIMATE
+ 7.  ec                  | Impact: -0.005593 → LEGITIMATE
+ 8.  .                   | Impact: -0.005142 → LEGITIMATE
+ 9.  deal                | Impact: 0.004657 → PHISHING
+10.  it                  | Impact: -0.004513 → LEGITIMATE
+11.  months              | Impact: 0.003468 → PHISHING
+12.  heard               | Impact: -0.003349 → LEGITIMATE
+13.  just                | Impact: -0.003247 → LEGITIMATE
+14.  should              | Impact: -0.002953 → LEGITIMATE
+15.  '                   | Impact: -0.002871 → LEGITIMATE
+16.  i                   | Impact: -0.002791 → LEGITIMATE
+17.  the                 | Impact: -0.002742 → LEGITIMATE
+18.  term                | Impact: -0.002680 → LEGITIMATE
+19.  february            | Impact: -0.002464 → LEGITIMATE
+20.  @                   | Impact: 0.002340 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  deal                | Impact: 0.004657
+ 2.  months              | Impact: 0.003468
+ 3.  @                   | Impact: 0.002340
+ 4.  this                | Impact: 0.002104
+ 5.  !                   | Impact: 0.002018
+ 6.  running             | Impact: 0.001999
+ 7.  ve                  | Impact: 0.001687
+ 8.  has                 | Impact: 0.001481
+ 9.  puget               | Impact: 0.001249
+10.  three               | Impact: 0.001188
+11.  who                 | Impact: 0.000808
+12.  changed             | Impact: 0.000647
+13.  for                 | Impact: 0.000584
+14.  /                   | Impact: 0.000301
+15.  /                   | Impact: 0.000295
+16.  .                   | Impact: 0.000281
+17.  in                  | Impact: 0.000276
+18.  know                | Impact: 0.000210
+19. x                    | Impact: 0.000088
+20.  the                 | Impact: 0.000063
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  december            | Impact: -0.010411
+ 2.  thanks              | Impact: -0.010364
+ 3.  system              | Impact: -0.008234
+ 4.  .                   | Impact: -0.007229
+ 5.  thanks              | Impact: -0.006966
+ 6.  back                | Impact: -0.005970
+ 7.  ec                  | Impact: -0.005593
+ 8.  .                   | Impact: -0.005142
+ 9.  it                  | Impact: -0.004513
+10.  heard               | Impact: -0.003349
+11.  just                | Impact: -0.003247
+12.  should              | Impact: -0.002953
+13.  '                   | Impact: -0.002871
+14.  i                   | Impact: -0.002791
+15.  the                 | Impact: -0.002742
+16.  term                | Impact: -0.002680
+17.  february            | Impact: -0.002464
+18.  let                 | Impact: -0.002290
+19.  december            | Impact: -0.002137
+20.  through             | Impact: -0.002137

@@ -1,0 +1,75 @@
+Sample 312
+==========
+
+Sample text preview: Could one of you please take a look at the red-lined language in the attachment and let me know if it is ok to approve it. Thanks! -----Original Messa...
+
+Model prediction: [9.9978977e-01 2.1023158e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  (                   | Impact: -0.002068 → LEGITIMATE
+ 2.  you                 | Impact: 0.001957 → PHISHING
+ 3.  i                   | Impact: 0.001673 → PHISHING
+ 4. pp                   | Impact: -0.001600 → LEGITIMATE
+ 5.  ny                  | Impact: -0.001464 → LEGITIMATE
+ 6. ging                 | Impact: -0.001459 → LEGITIMATE
+ 7.  a                   | Impact: -0.001418 → LEGITIMATE
+ 8.  )                   | Impact: -0.001288 → LEGITIMATE
+ 9.  description         | Impact: -0.001262 → LEGITIMATE
+10.  for                 | Impact: -0.001262 → LEGITIMATE
+11.  the                 | Impact: -0.001262 → LEGITIMATE
+12.  please              | Impact: 0.001258 → PHISHING
+13.  fin                 | Impact: -0.001227 → LEGITIMATE
+14.  swap                | Impact: -0.001227 → LEGITIMATE
+15.  weather             | Impact: -0.001216 → LEGITIMATE
+16.  desk                | Impact: -0.001216 → LEGITIMATE
+17.  meet                | Impact: 0.001175 → PHISHING
+18.  to                  | Impact: 0.001175 → PHISHING
+19.  ;                   | Impact: -0.001129 → LEGITIMATE
+20.  .                   | Impact: 0.001070 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.001957
+ 2.  i                   | Impact: 0.001673
+ 3.  please              | Impact: 0.001258
+ 4.  meet                | Impact: 0.001175
+ 5.  to                  | Impact: 0.001175
+ 6.  .                   | Impact: 0.001070
+ 7.  be                  | Impact: 0.000892
+ 8.  building            | Impact: 0.000892
+ 9.  you                 | Impact: 0.000852
+10.  me                  | Impact: 0.000822
+11.  will                | Impact: 0.000805
+12.  a                   | Impact: 0.000716
+13.  location            | Impact: 0.000716
+14.  appointment         | Impact: 0.000672
+15.  with                | Impact: 0.000672
+16.  and                 | Impact: 0.000620
+17.  one                 | Impact: 0.000570
+18.  i                   | Impact: 0.000547
+19.  will                | Impact: 0.000547
+20.  thanks              | Impact: 0.000493
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.002068
+ 2. pp                   | Impact: -0.001600
+ 3.  ny                  | Impact: -0.001464
+ 4. ging                 | Impact: -0.001459
+ 5.  a                   | Impact: -0.001418
+ 6.  )                   | Impact: -0.001288
+ 7.  description         | Impact: -0.001262
+ 8.  for                 | Impact: -0.001262
+ 9.  the                 | Impact: -0.001262
+10.  fin                 | Impact: -0.001227
+11.  swap                | Impact: -0.001227
+12.  weather             | Impact: -0.001216
+13.  desk                | Impact: -0.001216
+14.  ;                   | Impact: -0.001129
+15.  walker              | Impact: -0.001029
+16.  ;                   | Impact: -0.000894
+17.  cass                | Impact: -0.000894
+18.  feel                | Impact: -0.000873
+19.  we                  | Impact: -0.000873
+20.  red                 | Impact: -0.000866

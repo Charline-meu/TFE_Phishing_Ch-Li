@@ -1,0 +1,75 @@
+Sample 168
+==========
+
+Sample text preview: Legal TV Descarmbler Want to watch Sporting Events?--Movies?--Pay-Per-View?? You can assemble from electronic store parts for about $.. We Send You: E...
+
+Model prediction: [5.3788401e-04 9.9946207e-01]
+Predicted class: PHISHING with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  thirty              | Impact: 0.021858 → PHISHING
+ 2.  day                 | Impact: 0.021858 → PHISHING
+ 3.  money               | Impact: 0.021858 → PHISHING
+ 4.  back                | Impact: 0.021858 → PHISHING
+ 5.  guarantee           | Impact: 0.021858 → PHISHING
+ 6.  !                   | Impact: 0.019377 → PHISHING
+ 7.  brazil              | Impact: 0.011855 → PHISHING
+ 8.  ,                   | Impact: 0.011855 → PHISHING
+ 9.  other               | Impact: 0.010049 → PHISHING
+10.  countries           | Impact: 0.010049 → PHISHING
+11.  !                   | Impact: 0.010049 → PHISHING
+12.  canada              | Impact: 0.010049 → PHISHING
+13.  and                 | Impact: 0.010049 → PHISHING
+14.  ref                 | Impact: 0.008899 → PHISHING
+15. und                  | Impact: 0.008899 → PHISHING
+16.  your                | Impact: 0.008899 → PHISHING
+17.  money               | Impact: 0.008899 → PHISHING
+18.  .                   | Impact: 0.008899 → PHISHING
+19.  you                 | Impact: 0.008648 → PHISHING
+20.  have                | Impact: 0.008648 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  thirty              | Impact: 0.021858
+ 2.  day                 | Impact: 0.021858
+ 3.  money               | Impact: 0.021858
+ 4.  back                | Impact: 0.021858
+ 5.  guarantee           | Impact: 0.021858
+ 6.  !                   | Impact: 0.019377
+ 7.  brazil              | Impact: 0.011855
+ 8.  ,                   | Impact: 0.011855
+ 9.  other               | Impact: 0.010049
+10.  countries           | Impact: 0.010049
+11.  !                   | Impact: 0.010049
+12.  canada              | Impact: 0.010049
+13.  and                 | Impact: 0.010049
+14.  ref                 | Impact: 0.008899
+15. und                  | Impact: 0.008899
+16.  your                | Impact: 0.008899
+17.  money               | Impact: 0.008899
+18.  .                   | Impact: 0.008899
+19.  you                 | Impact: 0.008648
+20.  have                | Impact: 0.008648
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  a                   | Impact: -0.001162
+ 2.  :                   | Impact: -0.001162
+ 3.  no                  | Impact: -0.001162
+ 4.  the                 | Impact: -0.001162
+ 5.  program             | Impact: -0.001162
+ 6.  comes               | Impact: -0.001162
+ 7.  with                | Impact: -0.001162
+ 8.  an                  | Impact: -0.001162
+ 9.  .                   | Impact: -0.001162
+10.  easy                | Impact: -0.001162
+11.  to                  | Impact: -0.001162
+12.  follow              | Impact: -0.001162
+13.  picture             | Impact: -0.001162
+14.  guide               | Impact: -0.001162
+15.  a                   | Impact: -0.001130
+16.  :                   | Impact: -0.001130
+17.  the                 | Impact: -0.001130
+18.  answer              | Impact: -0.001130
+19.  is                  | Impact: -0.001130
+20.  yes                 | Impact: -0.001130

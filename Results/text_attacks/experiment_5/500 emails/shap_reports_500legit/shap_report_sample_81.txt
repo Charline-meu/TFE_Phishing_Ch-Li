@@ -1,0 +1,75 @@
+Sample 81
+=========
+
+Sample text preview: I'll call you as soon as I finish talking to Dick ---------------------- Forwarded by Christi L Nicolay/HOU/ECT on // : AM ---------------------------...
+
+Model prediction: [9.9977714e-01 2.2288022e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  jr                  | Impact: 0.003077 → PHISHING
+ 2.  en                  | Impact: -0.002930 → LEGITIMATE
+ 3. ron                  | Impact: -0.002930 → LEGITIMATE
+ 4.  luke                | Impact: 0.001601 → PHISHING
+ 5.  control             | Impact: -0.001273 → LEGITIMATE
+ 6.  area                | Impact: -0.001273 → LEGITIMATE
+ 7.  w                   | Impact: 0.001226 → PHISHING
+ 8.  :                   | Impact: -0.001144 → LEGITIMATE
+ 9.  :                   | Impact: -0.001144 → LEGITIMATE
+10.  pm                  | Impact: -0.001144 → LEGITIMATE
+11.  to                  | Impact: -0.001144 → LEGITIMATE
+12.  .                   | Impact: 0.001123 → PHISHING
+13.  scheduling          | Impact: -0.001106 → LEGITIMATE
+14.  agreement           | Impact: -0.001106 → LEGITIMATE
+15.  dick                | Impact: -0.001106 → LEGITIMATE
+16.  /                   | Impact: -0.001106 → LEGITIMATE
+17.  "                   | Impact: -0.001046 → LEGITIMATE
+18.  on                  | Impact: -0.001046 → LEGITIMATE
+19.  /                   | Impact: -0.001046 → LEGITIMATE
+20.  /                   | Impact: -0.001046 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  jr                  | Impact: 0.003077
+ 2.  luke                | Impact: 0.001601
+ 3.  w                   | Impact: 0.001226
+ 4.  .                   | Impact: 0.001123
+ 5.  .                   | Impact: 0.001024
+ 6.  sanford             | Impact: 0.000976
+ 7.  d                   | Impact: 0.000976
+ 8.  .                   | Impact: 0.000910
+ 9.  gail                | Impact: 0.000829
+10.  b                   | Impact: 0.000829
+11.  .                   | Impact: 0.000372
+12.                      | Impact: 0.000257
+13.  i                   | Impact: 0.000257
+14.  '                   | Impact: 0.000257
+15.  ll                  | Impact: 0.000256
+16.  call                | Impact: 0.000256
+17.  you                 | Impact: 0.000256
+18.  as                  | Impact: 0.000256
+19.  they                | Impact: 0.000238
+20.  also                | Impact: 0.000238
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.002930
+ 2. ron                  | Impact: -0.002930
+ 3.  control             | Impact: -0.001273
+ 4.  area                | Impact: -0.001273
+ 5.  :                   | Impact: -0.001144
+ 6.  :                   | Impact: -0.001144
+ 7.  pm                  | Impact: -0.001144
+ 8.  to                  | Impact: -0.001144
+ 9.  scheduling          | Impact: -0.001106
+10.  agreement           | Impact: -0.001106
+11.  dick                | Impact: -0.001106
+12.  /                   | Impact: -0.001106
+13.  "                   | Impact: -0.001046
+14.  on                  | Impact: -0.001046
+15.  /                   | Impact: -0.001046
+16.  /                   | Impact: -0.001046
+17.  @                   | Impact: -0.000940
+18.  ec                  | Impact: -0.000940
+19. t                    | Impact: -0.000940
+20.  tv                  | Impact: -0.000906

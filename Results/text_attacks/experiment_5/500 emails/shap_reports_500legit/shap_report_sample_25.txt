@@ -1,0 +1,75 @@
+Sample 25
+=========
+
+Sample text preview: FYI ---------------------- Forwarded by Chris Germany/HOU/ECT on // : AM --------------------------- From: Colleen Sullivan // : AM To: Steve Jackson/...
+
+Model prediction: [9.9977809e-01 2.2196533e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  '                   | Impact: 0.002900 → PHISHING
+ 2.  en                  | Impact: -0.002447 → LEGITIMATE
+ 3.  volume              | Impact: -0.001838 → LEGITIMATE
+ 4.  =                   | Impact: -0.001838 → LEGITIMATE
+ 5.  /                   | Impact: -0.001571 → LEGITIMATE
+ 6.  /                   | Impact: -0.001571 → LEGITIMATE
+ 7.  don                 | Impact: 0.001411 → PHISHING
+ 8.  volumes             | Impact: -0.001176 → LEGITIMATE
+ 9.  were                | Impact: -0.001176 → LEGITIMATE
+10.  t                   | Impact: 0.001046 → PHISHING
+11.  the                 | Impact: -0.001016 → LEGITIMATE
+12.  pricing             | Impact: -0.001016 → LEGITIMATE
+13.  correct             | Impact: -0.000939 → LEGITIMATE
+14.  pricing             | Impact: -0.000884 → LEGITIMATE
+15.  on                  | Impact: -0.000805 → LEGITIMATE
+16.  the                 | Impact: -0.000805 → LEGITIMATE
+17.  deals               | Impact: -0.000805 → LEGITIMATE
+18. ron                  | Impact: -0.000801 → LEGITIMATE
+19.  light               | Impact: -0.000731 → LEGITIMATE
+20.  on                  | Impact: -0.000731 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  '                   | Impact: 0.002900
+ 2.  don                 | Impact: 0.001411
+ 3.  t                   | Impact: 0.001046
+ 4.  i                   | Impact: 0.000693
+ 5.  us                  | Impact: 0.000286
+ 6.  every               | Impact: 0.000286
+ 7.  month               | Impact: 0.000286
+ 8.  .                   | Impact: 0.000247
+ 9.  d                   | Impact: 0.000238
+10. pl                   | Impact: 0.000238
+11.  -                   | Impact: 0.000238
+12.  term                | Impact: 0.000238
+13.  dayton              | Impact: 0.000227
+14.  power               | Impact: 0.000227
+15.  sell                | Impact: 0.000173
+16.  for                 | Impact: 0.000173
+17.  haunt               | Impact: 0.000127
+18. s                    | Impact: 0.000127
+19.  need                | Impact: 0.000092
+20.  someone             | Impact: 0.000092
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.002447
+ 2.  volume              | Impact: -0.001838
+ 3.  =                   | Impact: -0.001838
+ 4.  /                   | Impact: -0.001571
+ 5.  /                   | Impact: -0.001571
+ 6.  volumes             | Impact: -0.001176
+ 7.  were                | Impact: -0.001176
+ 8.  the                 | Impact: -0.001016
+ 9.  pricing             | Impact: -0.001016
+10.  correct             | Impact: -0.000939
+11.  pricing             | Impact: -0.000884
+12.  on                  | Impact: -0.000805
+13.  the                 | Impact: -0.000805
+14.  deals               | Impact: -0.000805
+15. ron                  | Impact: -0.000801
+16.  light               | Impact: -0.000731
+17.  on                  | Impact: -0.000731
+18.  equals              | Impact: -0.000728
+19.  gm                  | Impact: -0.000707
+20. s                    | Impact: -0.000707

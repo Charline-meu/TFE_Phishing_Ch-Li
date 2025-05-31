@@ -1,0 +1,72 @@
+Sample 40
+=========
+
+Sample text preview: My Dear Good Day, PLEASE URGENT ATTN. Do accept my sincere apologies if my mail does not meet your personal ethics.I am Mr Adams Kabora, The manager o...
+
+Model prediction: [1.7546512e-04 9.9982458e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  asking              | Impact: 0.017489 → PHISHING
+ 2.  for                 | Impact: 0.017489 → PHISHING
+ 3.  this                | Impact: 0.017489 → PHISHING
+ 4.  money               | Impact: 0.017489 → PHISHING
+ 5.  forward             | Impact: 0.013255 → PHISHING
+ 6.  to                  | Impact: 0.013255 → PHISHING
+ 7.  our                 | Impact: 0.013255 → PHISHING
+ 8.  bank                | Impact: 0.013255 → PHISHING
+ 9.  to                  | Impact: 0.008490 → PHISHING
+10.  mr                  | Impact: 0.008490 → PHISHING
+11.  you                 | Impact: 0.008124 → PHISHING
+12.  as                  | Impact: 0.008124 → PHISHING
+13.  the                 | Impact: 0.008124 → PHISHING
+14.  next                | Impact: 0.008124 → PHISHING
+15.  to                  | Impact: 0.006886 → PHISHING
+16.  be                  | Impact: 0.006886 → PHISHING
+17.  paid                | Impact: 0.006886 → PHISHING
+18.  to                  | Impact: 0.006886 → PHISHING
+19.  to                  | Impact: 0.006083 → PHISHING
+20.  bring               | Impact: 0.006083 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  asking              | Impact: 0.017489
+ 2.  for                 | Impact: 0.017489
+ 3.  this                | Impact: 0.017489
+ 4.  money               | Impact: 0.017489
+ 5.  forward             | Impact: 0.013255
+ 6.  to                  | Impact: 0.013255
+ 7.  our                 | Impact: 0.013255
+ 8.  bank                | Impact: 0.013255
+ 9.  to                  | Impact: 0.008490
+10.  mr                  | Impact: 0.008490
+11.  you                 | Impact: 0.008124
+12.  as                  | Impact: 0.008124
+13.  the                 | Impact: 0.008124
+14.  next                | Impact: 0.008124
+15.  to                  | Impact: 0.006886
+16.  be                  | Impact: 0.006886
+17.  paid                | Impact: 0.006886
+18.  to                  | Impact: 0.006886
+19.  to                  | Impact: 0.006083
+20.  bring               | Impact: 0.006083
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.000497
+ 2.  bill                | Impact: -0.000420
+ 3.  .                   | Impact: -0.000420
+ 4.  treasury            | Impact: -0.000420
+ 5.  as                  | Impact: -0.000420
+ 6.  un                  | Impact: -0.000420
+ 7. claim                | Impact: -0.000420
+ 8. ed                   | Impact: -0.000420
+ 9.  .                   | Impact: -0.000210
+10.  while               | Impact: -0.000095
+11.  the                 | Impact: -0.000095
+12.  remaining           | Impact: -0.000095
+13.  %                   | Impact: -0.000095
+14.  is                  | Impact: -0.000095
+15.  for                 | Impact: -0.000095
+16.  me                  | Impact: -0.000095
+17.  .                   | Impact: -0.000095

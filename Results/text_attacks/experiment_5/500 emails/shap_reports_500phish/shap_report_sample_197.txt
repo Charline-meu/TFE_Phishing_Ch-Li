@@ -1,0 +1,75 @@
+Sample 197
+==========
+
+Sample text preview: MRS Williams Helen ABIDJAN COTE D' IVOIRE Dearest One, I am Mrs williams Helen and the only wife of late Mr James williams who happens to be my husban...
+
+Model prediction: [2.0310411e-04 9.9979693e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.021373 → PHISHING
+ 2.  only                | Impact: 0.021373 → PHISHING
+ 3.  son                 | Impact: 0.021373 → PHISHING
+ 4.  this                | Impact: 0.007802 → PHISHING
+ 5.  country             | Impact: 0.007802 → PHISHING
+ 6.  so                  | Impact: 0.006835 → PHISHING
+ 7.  that                | Impact: 0.006835 → PHISHING
+ 8.  or                  | Impact: 0.006407 → PHISHING
+ 9.  my                  | Impact: 0.006407 → PHISHING
+10.  son                 | Impact: 0.006407 → PHISHING
+11.  or                  | Impact: 0.006407 → PHISHING
+12.  and                 | Impact: 0.006211 → PHISHING
+13.  from                | Impact: 0.006040 → PHISHING
+14.  my                  | Impact: 0.006040 → PHISHING
+15.  country             | Impact: 0.006040 → PHISHING
+16.  here                | Impact: 0.006040 → PHISHING
+17.  you                 | Impact: 0.005522 → PHISHING
+18.  after               | Impact: 0.005522 → PHISHING
+19.  the                 | Impact: 0.005522 → PHISHING
+20.  money               | Impact: 0.005522 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.021373
+ 2.  only                | Impact: 0.021373
+ 3.  son                 | Impact: 0.021373
+ 4.  this                | Impact: 0.007802
+ 5.  country             | Impact: 0.007802
+ 6.  so                  | Impact: 0.006835
+ 7.  that                | Impact: 0.006835
+ 8.  or                  | Impact: 0.006407
+ 9.  my                  | Impact: 0.006407
+10.  son                 | Impact: 0.006407
+11.  or                  | Impact: 0.006407
+12.  and                 | Impact: 0.006211
+13.  from                | Impact: 0.006040
+14.  my                  | Impact: 0.006040
+15.  country             | Impact: 0.006040
+16.  here                | Impact: 0.006040
+17.  you                 | Impact: 0.005522
+18.  after               | Impact: 0.005522
+19.  the                 | Impact: 0.005522
+20.  money               | Impact: 0.005522
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  he                  | Impact: -0.000336
+ 2.  also                | Impact: -0.000336
+ 3.  explained           | Impact: -0.000336
+ 4.  that                | Impact: -0.000336
+ 5.  it                  | Impact: -0.000336
+ 6.  was                 | Impact: -0.000336
+ 7.  because             | Impact: -0.000336
+ 8.  of                  | Impact: -0.000336
+ 9.  ideas               | Impact: -0.000263
+10.  will                | Impact: -0.000263
+11.  be                  | Impact: -0.000263
+12.  highly              | Impact: -0.000263
+13.  regarded            | Impact: -0.000263
+14.  ,                   | Impact: -0.000263
+15.  now                 | Impact: -0.000242
+16.  permit              | Impact: -0.000242
+17.  me                  | Impact: -0.000242
+18.  to                  | Impact: -0.000242
+19.  ask                 | Impact: -0.000242
+20.  these               | Impact: -0.000242

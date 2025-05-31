@@ -1,0 +1,75 @@
+Sample 133
+==========
+
+Sample text preview: Harrison called this am at home. He said that you'all had discussed plans for Sat. Because it's his B-day he wants to go out - He seemed to suggest th...
+
+Model prediction: [9.993759e-01 6.241231e-04]
+Predicted class: LEGITIMATE with 0.9994 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  soon                | Impact: 0.010174 → PHISHING
+ 2.  talk                | Impact: -0.009989 → LEGITIMATE
+ 3.  .                   | Impact: -0.008398 → LEGITIMATE
+ 4.  to                  | Impact: 0.004922 → PHISHING
+ 5.  basketball          | Impact: 0.004644 → PHISHING
+ 6.  may                 | Impact: -0.003594 → LEGITIMATE
+ 7.  off                 | Impact: -0.003563 → LEGITIMATE
+ 8.  .                   | Impact: -0.003517 → LEGITIMATE
+ 9.  harrison            | Impact: 0.003511 → PHISHING
+10.  you                 | Impact: 0.003496 → PHISHING
+11.  .                   | Impact: -0.003307 → LEGITIMATE
+12.  suggest             | Impact: -0.003037 → LEGITIMATE
+13.  called              | Impact: -0.002948 → LEGITIMATE
+14.  said                | Impact: -0.002735 → LEGITIMATE
+15.  home                | Impact: 0.002617 → PHISHING
+16.  .                   | Impact: -0.002158 → LEGITIMATE
+17.  the                 | Impact: -0.002046 → LEGITIMATE
+18.  .                   | Impact: -0.002040 → LEGITIMATE
+19.  you                 | Impact: -0.001828 → LEGITIMATE
+20.  and                 | Impact: 0.001800 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  soon                | Impact: 0.010174
+ 2.  to                  | Impact: 0.004922
+ 3.  basketball          | Impact: 0.004644
+ 4.  harrison            | Impact: 0.003511
+ 5.  you                 | Impact: 0.003496
+ 6.  home                | Impact: 0.002617
+ 7.  and                 | Impact: 0.001800
+ 8.  this                | Impact: 0.001782
+ 9.  on                  | Impact: 0.001673
+10.  were                | Impact: 0.001283
+11.  in                  | Impact: 0.001254
+12.  .                   | Impact: 0.001237
+13.  had                 | Impact: 0.000942
+14.  plans               | Impact: 0.000844
+15.  that                | Impact: 0.000712
+16.  be                  | Impact: 0.000604
+17.  hope                | Impact: 0.000432
+18.  all                 | Impact: 0.000358
+19.  discussed           | Impact: 0.000342
+20.  day                 | Impact: 0.000336
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  talk                | Impact: -0.009989
+ 2.  .                   | Impact: -0.008398
+ 3.  may                 | Impact: -0.003594
+ 4.  off                 | Impact: -0.003563
+ 5.  .                   | Impact: -0.003517
+ 6.  .                   | Impact: -0.003307
+ 7.  suggest             | Impact: -0.003037
+ 8.  called              | Impact: -0.002948
+ 9.  said                | Impact: -0.002735
+10.  .                   | Impact: -0.002158
+11.  the                 | Impact: -0.002046
+12.  .                   | Impact: -0.002040
+13.  you                 | Impact: -0.001828
+14.  you                 | Impact: -0.001576
+15.  '                   | Impact: -0.001455
+16. ing                  | Impact: -0.001344
+17.  a                   | Impact: -0.001217
+18.  he                  | Impact: -0.001100
+19.  that                | Impact: -0.001094
+20.  there               | Impact: -0.001028

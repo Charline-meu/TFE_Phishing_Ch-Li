@@ -1,0 +1,75 @@
+Phishing Sample 88
+==================
+
+Sample text preview: ATTN:PRESIDENT I am BARRISTER JOSEPH BENSON,the Personal Attorney to Mr Larry Glenn , A foreigner who used to work with shell development company in N...
+
+Model prediction: [1.6038791e-04 9.9983954e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  urgent              | Impact: 0.017401 → PHISHING
+ 2.  response            | Impact: 0.017401 → PHISHING
+ 3.  i                   | Impact: 0.016524 → PHISHING
+ 4.  await               | Impact: 0.016524 → PHISHING
+ 5.  for                 | Impact: 0.016458 → PHISHING
+ 6.  your                | Impact: 0.016458 → PHISHING
+ 7.  your                | Impact: 0.010365 → PHISHING
+ 8.  honest              | Impact: 0.010365 → PHISHING
+ 9.  cooperation         | Impact: 0.010365 → PHISHING
+10.  to                  | Impact: 0.010365 → PHISHING
+11.  .                   | Impact: 0.010286 → PHISHING
+12.  will                | Impact: 0.008634 → PHISHING
+13.  protect             | Impact: 0.008634 → PHISHING
+14.  you                 | Impact: 0.008634 → PHISHING
+15.  from                | Impact: 0.008634 → PHISHING
+16.  executed            | Impact: 0.007947 → PHISHING
+17.  under               | Impact: 0.007947 → PHISHING
+18.  will                | Impact: 0.007716 → PHISHING
+19.  be                  | Impact: 0.007716 → PHISHING
+20.  confidential        | Impact: 0.005856 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  urgent              | Impact: 0.017401
+ 2.  response            | Impact: 0.017401
+ 3.  i                   | Impact: 0.016524
+ 4.  await               | Impact: 0.016524
+ 5.  for                 | Impact: 0.016458
+ 6.  your                | Impact: 0.016458
+ 7.  your                | Impact: 0.010365
+ 8.  honest              | Impact: 0.010365
+ 9.  cooperation         | Impact: 0.010365
+10.  to                  | Impact: 0.010365
+11.  .                   | Impact: 0.010286
+12.  will                | Impact: 0.008634
+13.  protect             | Impact: 0.008634
+14.  you                 | Impact: 0.008634
+15.  from                | Impact: 0.008634
+16.  executed            | Impact: 0.007947
+17.  under               | Impact: 0.007947
+18.  will                | Impact: 0.007716
+19.  be                  | Impact: 0.007716
+20.  confidential        | Impact: 0.005856
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  particularly        | Impact: -0.001571
+ 2.  ,                   | Impact: -0.001571
+ 3.  barrister           | Impact: -0.000753
+ 4.  joseph              | Impact: -0.000753
+ 5.  benson              | Impact: -0.000753
+ 6.  -                   | Impact: -0.000753
+ 7.  -                   | Impact: -0.000753
+ 8.  -                   | Impact: -0.000753
+ 9.  -                   | Impact: -0.000753
+10.  -                   | Impact: -0.000753
+11.  -                   | Impact: -0.000535
+12.  -                   | Impact: -0.000535
+13.  -                   | Impact: -0.000535
+14.  -                   | Impact: -0.000535
+15.  -                   | Impact: -0.000535
+16.  -                   | Impact: -0.000535
+17.  -                   | Impact: -0.000535
+18.  -                   | Impact: -0.000535
+19.  click               | Impact: -0.000192
+20.  -                   | Impact: -0.000192

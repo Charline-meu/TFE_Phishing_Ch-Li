@@ -1,0 +1,75 @@
+Sample 366
+==========
+
+Sample text preview: Torrey, the deals with Sempra should not be terminated. Only terminate the deals w/NJR Energy. Thanks. DJ Torrey Moorer // : PM To: Tana Jones/HOU/ECT...
+
+Model prediction: [9.9978536e-01 2.1465040e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  arise               | Impact: 0.016918 → PHISHING
+ 2.  mutual              | Impact: 0.008292 → PHISHING
+ 3.  thanks              | Impact: -0.007440 → LEGITIMATE
+ 4.  torre               | Impact: -0.006115 → LEGITIMATE
+ 5.  please              | Impact: 0.005675 → PHISHING
+ 6.  moore               | Impact: -0.005170 → LEGITIMATE
+ 7.  .                   | Impact: -0.004869 → LEGITIMATE
+ 8.  tan                 | Impact: 0.004576 → PHISHING
+ 9.  questions           | Impact: -0.004482 → LEGITIMATE
+10.  traded              | Impact: -0.004362 → LEGITIMATE
+11.  prices              | Impact: -0.004012 → LEGITIMATE
+12.  free                | Impact: 0.004011 → PHISHING
+13.  bad                 | Impact: 0.003840 → PHISHING
+14.  each                | Impact: -0.003521 → LEGITIMATE
+15.  ec                  | Impact: -0.003396 → LEGITIMATE
+16. y                    | Impact: -0.003360 → LEGITIMATE
+17.  dick                | Impact: -0.003341 → LEGITIMATE
+18.  jenkins             | Impact: -0.002956 → LEGITIMATE
+19.  terminate           | Impact: 0.002572 → PHISHING
+20. t                    | Impact: -0.002503 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  arise               | Impact: 0.016918
+ 2.  mutual              | Impact: 0.008292
+ 3.  please              | Impact: 0.005675
+ 4.  tan                 | Impact: 0.004576
+ 5.  free                | Impact: 0.004011
+ 6.  bad                 | Impact: 0.003840
+ 7.  terminate           | Impact: 0.002572
+ 8.  x                   | Impact: 0.002224
+ 9.  @                   | Impact: 0.002102
+10.  only                | Impact: 0.002050
+11.  terminate           | Impact: 0.002012
+12.  dj                  | Impact: 0.001457
+13.  information         | Impact: 0.001436
+14.  hi                  | Impact: 0.001428
+15.  subject             | Impact: 0.001349
+16.  after               | Impact: 0.001270
+17.  were                | Impact: 0.001175
+18.  way                 | Impact: 0.001159
+19.  have                | Impact: 0.001152
+20.  additional          | Impact: 0.001145
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.007440
+ 2.  torre               | Impact: -0.006115
+ 3.  moore               | Impact: -0.005170
+ 4.  .                   | Impact: -0.004869
+ 5.  questions           | Impact: -0.004482
+ 6.  traded              | Impact: -0.004362
+ 7.  prices              | Impact: -0.004012
+ 8.  each                | Impact: -0.003521
+ 9.  ec                  | Impact: -0.003396
+10. y                    | Impact: -0.003360
+11.  dick                | Impact: -0.003341
+12.  jenkins             | Impact: -0.002956
+13. t                    | Impact: -0.002503
+14.  !                   | Impact: -0.002447
+15.  deals               | Impact: -0.002255
+16. t                    | Impact: -0.002254
+17. s                    | Impact: -0.001825
+18.  ec                  | Impact: -0.001509
+19.  any                 | Impact: -0.001335
+20.  jenkins             | Impact: -0.001264

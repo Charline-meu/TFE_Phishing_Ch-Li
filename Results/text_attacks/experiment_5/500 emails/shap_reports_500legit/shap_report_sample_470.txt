@@ -1,0 +1,67 @@
+Sample 470
+==========
+
+Sample text preview: URL: Date: Not supplied World chess champion Vladimir Kramnik takes the lead over the computer Deep Fritz, after the machine makes a peculiar mistake
+
+Model prediction: [9.9971300e-01 2.8700673e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  after               | Impact: 0.094027 → PHISHING
+ 2.  fritz               | Impact: -0.070486 → LEGITIMATE
+ 3.  peculiar            | Impact: -0.053731 → LEGITIMATE
+ 4. nik                  | Impact: -0.052915 → LEGITIMATE
+ 5.  champion            | Impact: 0.052807 → PHISHING
+ 6.  deep                | Impact: 0.048307 → PHISHING
+ 7.  mistake             | Impact: 0.039381 → PHISHING
+ 8.  ur                  | Impact: -0.036469 → LEGITIMATE
+ 9.  chess               | Impact: -0.034713 → LEGITIMATE
+10.  the                 | Impact: 0.033422 → PHISHING
+11.  machine             | Impact: 0.028137 → PHISHING
+12.  vladimir            | Impact: -0.025656 → LEGITIMATE
+13.  :                   | Impact: -0.023223 → LEGITIMATE
+14.  the                 | Impact: 0.022851 → PHISHING
+15. ram                  | Impact: -0.021229 → LEGITIMATE
+16.  over                | Impact: 0.021124 → PHISHING
+17.  takes               | Impact: -0.016706 → LEGITIMATE
+18.  k                   | Impact: -0.016051 → LEGITIMATE
+19.  :                   | Impact: -0.015959 → LEGITIMATE
+20.  lead                | Impact: -0.014564 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  after               | Impact: 0.094027
+ 2.  champion            | Impact: 0.052807
+ 3.  deep                | Impact: 0.048307
+ 4.  mistake             | Impact: 0.039381
+ 5.  the                 | Impact: 0.033422
+ 6.  machine             | Impact: 0.028137
+ 7.  the                 | Impact: 0.022851
+ 8.  over                | Impact: 0.021124
+ 9.  a                   | Impact: 0.010922
+10.  makes               | Impact: 0.008451
+11.  world               | Impact: 0.007740
+12.  ,                   | Impact: 0.005888
+13.  the                 | Impact: 0.003207
+14.                      | Impact: 0.000002
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  fritz               | Impact: -0.070486
+ 2.  peculiar            | Impact: -0.053731
+ 3. nik                  | Impact: -0.052915
+ 4.  ur                  | Impact: -0.036469
+ 5.  chess               | Impact: -0.034713
+ 6.  vladimir            | Impact: -0.025656
+ 7.  :                   | Impact: -0.023223
+ 8. ram                  | Impact: -0.021229
+ 9.  takes               | Impact: -0.016706
+10.  k                   | Impact: -0.016051
+11.  :                   | Impact: -0.015959
+12.  lead                | Impact: -0.014564
+13.  supplied            | Impact: -0.010654
+14.  computer            | Impact: -0.010483
+15. l                    | Impact: -0.007198
+16.  not                 | Impact: -0.003591
+17.  date                | Impact: -0.000216
+18.                      | Impact: -0.000011

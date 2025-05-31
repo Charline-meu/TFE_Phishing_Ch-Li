@@ -1,0 +1,75 @@
+Sample 314
+==========
+
+Sample text preview: ---------------------- Forwarded by Vince J Kaminski/HOU/ECT on // : PM --------------------------- Alex Huang@ENRON // : PM To: Vince J Kaminski/HOU/...
+
+Model prediction: [9.9975890e-01 2.4110977e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  economics           | Impact: -0.030632 → LEGITIMATE
+ 2.  alex                | Impact: 0.016720 → PHISHING
+ 3.  ec                  | Impact: -0.012254 → LEGITIMATE
+ 4.  best                | Impact: 0.011457 → PHISHING
+ 5.  @                   | Impact: 0.010027 → PHISHING
+ 6.  ,                   | Impact: -0.008106 → LEGITIMATE
+ 7.  :                   | Impact: -0.008028 → LEGITIMATE
+ 8.  book                | Impact: 0.007456 → PHISHING
+ 9.  can                 | Impact: -0.005326 → LEGITIMATE
+10.  pm                  | Impact: -0.005298 → LEGITIMATE
+11.  the                 | Impact: -0.005006 → LEGITIMATE
+12.  ec                  | Impact: -0.004461 → LEGITIMATE
+13.  "                   | Impact: -0.003182 → LEGITIMATE
+14.  downloaded          | Impact: 0.002951 → PHISHING
+15.  :                   | Impact: -0.002675 → LEGITIMATE
+16.  ec                  | Impact: -0.002467 → LEGITIMATE
+17. t                    | Impact: -0.002365 → LEGITIMATE
+18.  :                   | Impact: -0.002254 → LEGITIMATE
+19.  be                  | Impact: -0.002233 → LEGITIMATE
+20.  subject             | Impact: -0.002140 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  alex                | Impact: 0.016720
+ 2.  best                | Impact: 0.011457
+ 3.  @                   | Impact: 0.010027
+ 4.  book                | Impact: 0.007456
+ 5.  downloaded          | Impact: 0.002951
+ 6.  power               | Impact: 0.001018
+ 7.  /                   | Impact: 0.000772
+ 8. t                    | Impact: 0.000758
+ 9.  ,                   | Impact: 0.000246
+10.  -                   | Impact: 0.000233
+11.  /                   | Impact: 0.000208
+12.  kam                 | Impact: 0.000144
+13. inski                | Impact: 0.000144
+14.                      | Impact: 0.000114
+15.  -                   | Impact: 0.000105
+16.  ho                  | Impact: 0.000063
+17. u                    | Impact: 0.000063
+18.                      | Impact: 0.000055
+19.  -                   | Impact: 0.000009
+20.  -                   | Impact: 0.000009
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  economics           | Impact: -0.030632
+ 2.  ec                  | Impact: -0.012254
+ 3.  ,                   | Impact: -0.008106
+ 4.  :                   | Impact: -0.008028
+ 5.  can                 | Impact: -0.005326
+ 6.  pm                  | Impact: -0.005298
+ 7.  the                 | Impact: -0.005006
+ 8.  ec                  | Impact: -0.004461
+ 9.  "                   | Impact: -0.003182
+10.  :                   | Impact: -0.002675
+11.  ec                  | Impact: -0.002467
+12. t                    | Impact: -0.002365
+13.  :                   | Impact: -0.002254
+14.  be                  | Impact: -0.002233
+15.  subject             | Impact: -0.002140
+16.  "                   | Impact: -0.001929
+17.  vince               | Impact: -0.001913
+18.  vince               | Impact: -0.001602
+19.  -                   | Impact: -0.001410
+20.  -                   | Impact: -0.001285

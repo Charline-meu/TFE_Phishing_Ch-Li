@@ -1,0 +1,75 @@
+Sample 418
+==========
+
+Sample text preview: ----- Forwarded by Sarah Novosel/Corp/Enron on // : PM ----- "Randall Rich" // : PM To: "Jeffrey Watkiss" cc: Subject: Final FIled Version The filed v...
+
+Model prediction: [9.9978524e-01 2.1473308e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  &                   | Impact: 0.016686 → PHISHING
+ 2. o                    | Impact: 0.011657 → PHISHING
+ 3. ieg                  | Impact: -0.011299 → LEGITIMATE
+ 4.  .                   | Impact: -0.011011 → LEGITIMATE
+ 5.  gas                 | Impact: -0.006197 → LEGITIMATE
+ 6.  -                   | Impact: 0.005875 → PHISHING
+ 7.  diego               | Impact: -0.005578 → LEGITIMATE
+ 8. rc                   | Impact: -0.004687 → LEGITIMATE
+ 9.  -                   | Impact: -0.004055 → LEGITIMATE
+10.  san                 | Impact: 0.003941 → PHISHING
+11.  "                   | Impact: -0.003893 → LEGITIMATE
+12.  rich                | Impact: 0.003805 → PHISHING
+13.  comments            | Impact: -0.003668 → LEGITIMATE
+14.  corp                | Impact: -0.003571 → LEGITIMATE
+15.  filed               | Impact: -0.003190 → LEGITIMATE
+16.  novo                | Impact: 0.002951 → PHISHING
+17.  .                   | Impact: -0.002721 → LEGITIMATE
+18.  matter              | Impact: -0.002664 → LEGITIMATE
+19.  is                  | Impact: -0.002589 → LEGITIMATE
+20.  attached            | Impact: -0.002139 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  &                   | Impact: 0.016686
+ 2. o                    | Impact: 0.011657
+ 3.  -                   | Impact: 0.005875
+ 4.  san                 | Impact: 0.003941
+ 5.  rich                | Impact: 0.003805
+ 6.  novo                | Impact: 0.002951
+ 7.  by                  | Impact: 0.002057
+ 8.  doc                 | Impact: 0.002042
+ 9.  sarah               | Impact: 0.001467
+10.  /                   | Impact: 0.001459
+11.  in                  | Impact: 0.001235
+12.  fe                  | Impact: 0.001227
+13.  of                  | Impact: 0.000870
+14.  version             | Impact: 0.000657
+15.  the                 | Impact: 0.000608
+16.  version             | Impact: 0.000595
+17.  sand                | Impact: 0.000569
+18.  the                 | Impact: 0.000484
+19. kis                  | Impact: 0.000457
+20. sel                  | Impact: 0.000399
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ieg                  | Impact: -0.011299
+ 2.  .                   | Impact: -0.011011
+ 3.  gas                 | Impact: -0.006197
+ 4.  diego               | Impact: -0.005578
+ 5. rc                   | Impact: -0.004687
+ 6.  -                   | Impact: -0.004055
+ 7.  "                   | Impact: -0.003893
+ 8.  comments            | Impact: -0.003668
+ 9.  corp                | Impact: -0.003571
+10.  filed               | Impact: -0.003190
+11.  .                   | Impact: -0.002721
+12.  matter              | Impact: -0.002664
+13.  is                  | Impact: -0.002589
+14.  attached            | Impact: -0.002139
+15.  /                   | Impact: -0.001810
+16.  filed               | Impact: -0.001682
+17.  -                   | Impact: -0.001565
+18.  forward             | Impact: -0.001439
+19.  -                   | Impact: -0.001274
+20.  -                   | Impact: -0.001173

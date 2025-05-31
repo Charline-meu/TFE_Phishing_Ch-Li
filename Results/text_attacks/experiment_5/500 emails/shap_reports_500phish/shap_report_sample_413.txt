@@ -1,0 +1,66 @@
+Sample 413
+==========
+
+Sample text preview: Good Morning Dear Sir I have decided to contact you once again through this means of communication since i did not hear from you to know if you receiv...
+
+Model prediction: [1.6659859e-04 9.9983335e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  son                 | Impact: 0.007825 → PHISHING
+ 2.  for                 | Impact: 0.007825 → PHISHING
+ 3.  our                 | Impact: 0.007825 → PHISHING
+ 4.  safety              | Impact: 0.007825 → PHISHING
+ 5.  to                  | Impact: 0.007825 → PHISHING
+ 6.  my                  | Impact: 0.005821 → PHISHING
+ 7.  husband             | Impact: 0.005821 → PHISHING
+ 8.  and                 | Impact: 0.005821 → PHISHING
+ 9.  million             | Impact: 0.005711 → PHISHING
+10.  us                  | Impact: 0.005711 → PHISHING
+11.  .                   | Impact: 0.005711 → PHISHING
+12.  my                  | Impact: 0.005440 → PHISHING
+13.  son                 | Impact: 0.005440 → PHISHING
+14.  is                  | Impact: 0.005440 → PHISHING
+15.  there               | Impact: 0.005440 → PHISHING
+16.  as                  | Impact: 0.005440 → PHISHING
+17.  group               | Impact: 0.005439 → PHISHING
+18.  of                  | Impact: 0.005439 → PHISHING
+19.  mr                  | Impact: 0.005439 → PHISHING
+20.  mrs                 | Impact: 0.005348 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  son                 | Impact: 0.007825
+ 2.  for                 | Impact: 0.007825
+ 3.  our                 | Impact: 0.007825
+ 4.  safety              | Impact: 0.007825
+ 5.  to                  | Impact: 0.007825
+ 6.  my                  | Impact: 0.005821
+ 7.  husband             | Impact: 0.005821
+ 8.  and                 | Impact: 0.005821
+ 9.  million             | Impact: 0.005711
+10.  us                  | Impact: 0.005711
+11.  .                   | Impact: 0.005711
+12.  my                  | Impact: 0.005440
+13.  son                 | Impact: 0.005440
+14.  is                  | Impact: 0.005440
+15.  there               | Impact: 0.005440
+16.  as                  | Impact: 0.005440
+17.  group               | Impact: 0.005439
+18.  of                  | Impact: 0.005439
+19.  mr                  | Impact: 0.005439
+20.  mrs                 | Impact: 0.005348
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  please              | Impact: -0.000461
+ 2.  ,                   | Impact: -0.000461
+ 3.  you                 | Impact: -0.000305
+ 4.  in                  | Impact: -0.000305
+ 5.  the                 | Impact: -0.000305
+ 6.  internet            | Impact: -0.000305
+ 7.  .                   | Impact: -0.000305
+ 8.  speaks              | Impact: -0.000305
+ 9.  very                | Impact: -0.000305
+10.  good                | Impact: -0.000305
+11.  of                  | Impact: -0.000305

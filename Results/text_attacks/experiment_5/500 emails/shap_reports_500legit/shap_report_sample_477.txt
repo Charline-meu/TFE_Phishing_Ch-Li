@@ -1,0 +1,75 @@
+Sample 477
+==========
+
+Sample text preview: On Mon, Sep , Russell Turpin wrote: --]Here's the better idea. Invite her for an afternoon --]cruise under the Golden Gate bridge in your Stonehorse -...
+
+Model prediction: [9.9978572e-01 2.1433321e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  marry               | Impact: 0.029195 → PHISHING
+ 2.  she                 | Impact: 0.008584 → PHISHING
+ 3.  has                 | Impact: 0.007585 → PHISHING
+ 4.  her                 | Impact: 0.007505 → PHISHING
+ 5.  .                   | Impact: -0.006682 → LEGITIMATE
+ 6.  cube                | Impact: -0.005606 → LEGITIMATE
+ 7.  return              | Impact: 0.004692 → PHISHING
+ 8.  .                   | Impact: -0.004124 → LEGITIMATE
+ 9.  about               | Impact: -0.003840 → LEGITIMATE
+10.  starts              | Impact: -0.003796 → LEGITIMATE
+11. hip                  | Impact: -0.003796 → LEGITIMATE
+12.  troopers            | Impact: -0.003796 → LEGITIMATE
+13.  gone                | Impact: 0.003611 → PHISHING
+14.  .                   | Impact: -0.003160 → LEGITIMATE
+15.  she                 | Impact: 0.002918 → PHISHING
+16.  back                | Impact: 0.002738 → PHISHING
+17.  db                  | Impact: -0.002654 → LEGITIMATE
+18.  '                   | Impact: -0.002654 → LEGITIMATE
+19.  s                   | Impact: -0.002654 → LEGITIMATE
+20.  you                 | Impact: 0.002643 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  marry               | Impact: 0.029195
+ 2.  she                 | Impact: 0.008584
+ 3.  has                 | Impact: 0.007585
+ 4.  her                 | Impact: 0.007505
+ 5.  return              | Impact: 0.004692
+ 6.  gone                | Impact: 0.003611
+ 7.  she                 | Impact: 0.002918
+ 8.  back                | Impact: 0.002738
+ 9.  you                 | Impact: 0.002643
+10.  is                  | Impact: 0.002032
+11.  talking             | Impact: 0.002032
+12.  you                 | Impact: 0.001978
+13.  were                | Impact: 0.001978
+14.  back                | Impact: 0.001727
+15.  she                 | Impact: 0.001727
+16.  if                  | Impact: 0.000995
+17.  when                | Impact: 0.000995
+18.  try                 | Impact: 0.000745
+19.  to                  | Impact: 0.000745
+20.  figure              | Impact: 0.000745
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.006682
+ 2.  cube                | Impact: -0.005606
+ 3.  .                   | Impact: -0.004124
+ 4.  about               | Impact: -0.003840
+ 5.  starts              | Impact: -0.003796
+ 6. hip                  | Impact: -0.003796
+ 7.  troopers            | Impact: -0.003796
+ 8.  .                   | Impact: -0.003160
+ 9.  db                  | Impact: -0.002654
+10.  '                   | Impact: -0.002654
+11.  s                   | Impact: -0.002654
+12.  .                   | Impact: -0.002571
+13.  new                 | Impact: -0.002092
+14.  dvd                 | Impact: -0.002092
+15.  infrastructure      | Impact: -0.002001
+16.  ,                   | Impact: -0.002001
+17.  survivor            | Impact: -0.001924
+18.  some                | Impact: -0.001857
+19.  work                | Impact: -0.001857
+20.  of                  | Impact: -0.001571

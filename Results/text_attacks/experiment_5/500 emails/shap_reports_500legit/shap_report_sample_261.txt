@@ -1,0 +1,75 @@
+Sample 261
+==========
+
+Sample text preview: Privileged & Confidential David, As far as I can tell, Mike McCall is not under a current employment agreement. I sent you a draft agreement for him o...
+
+Model prediction: [9.9971014e-01 2.8987302e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mccall              | Impact: -0.020336 → LEGITIMATE
+ 2.  mike                | Impact: -0.019878 → LEGITIMATE
+ 3.  employment          | Impact: 0.010461 → PHISHING
+ 4.  current             | Impact: 0.009927 → PHISHING
+ 5.  &                   | Impact: 0.008831 → PHISHING
+ 6.  you                 | Impact: 0.007779 → PHISHING
+ 7.  employment          | Impact: 0.007458 → PHISHING
+ 8.  draft               | Impact: -0.007400 → LEGITIMATE
+ 9.  under               | Impact: 0.007164 → PHISHING
+10.  confidential        | Impact: 0.006027 → PHISHING
+11.  privileged          | Impact: 0.005287 → PHISHING
+12.  december            | Impact: -0.004711 → LEGITIMATE
+13.  david               | Impact: -0.004541 → LEGITIMATE
+14.  .                   | Impact: 0.004313 → PHISHING
+15.  )                   | Impact: -0.003439 → LEGITIMATE
+16.  agreement           | Impact: -0.003392 → LEGITIMATE
+17.  can                 | Impact: -0.003390 → LEGITIMATE
+18.  agreement           | Impact: -0.003223 → LEGITIMATE
+19.  his                 | Impact: 0.002980 → PHISHING
+20.  you                 | Impact: 0.002954 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  employment          | Impact: 0.010461
+ 2.  current             | Impact: 0.009927
+ 3.  &                   | Impact: 0.008831
+ 4.  you                 | Impact: 0.007779
+ 5.  employment          | Impact: 0.007458
+ 6.  under               | Impact: 0.007164
+ 7.  confidential        | Impact: 0.006027
+ 8.  privileged          | Impact: 0.005287
+ 9.  .                   | Impact: 0.004313
+10.  his                 | Impact: 0.002980
+11.  you                 | Impact: 0.002954
+12.  a                   | Impact: 0.002441
+13.  sent                | Impact: 0.002424
+14.                      | Impact: 0.001660
+15.  me                  | Impact: 0.001614
+16.  would               | Impact: 0.001498
+17.  information         | Impact: 0.001416
+18.  not                 | Impact: 0.001345
+19.  of                  | Impact: 0.001276
+20.  david               | Impact: 0.001111
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  mccall              | Impact: -0.020336
+ 2.  mike                | Impact: -0.019878
+ 3.  draft               | Impact: -0.007400
+ 4.  december            | Impact: -0.004711
+ 5.  david               | Impact: -0.004541
+ 6.  )                   | Impact: -0.003439
+ 7.  agreement           | Impact: -0.003392
+ 8.  can                 | Impact: -0.003390
+ 9.  agreement           | Impact: -0.003223
+10.  .                   | Impact: -0.002876
+11.  on                  | Impact: -0.002617
+12.  i                   | Impact: -0.002454
+13.  i                   | Impact: -0.002446
+14.  as                  | Impact: -0.001984
+15.  terms               | Impact: -0.001714
+16.  as                  | Impact: -0.001622
+17.  (                   | Impact: -0.001561
+18.  options             | Impact: -0.001393
+19.  ,                   | Impact: -0.001393
+20.  for                 | Impact: -0.001390

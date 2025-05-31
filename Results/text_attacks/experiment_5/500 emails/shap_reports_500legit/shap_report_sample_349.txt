@@ -1,0 +1,75 @@
+Sample 349
+==========
+
+Sample text preview: Krishna, Please, confirm with Hill Huntington. Vince Pinnamaneni Krishnarao // : AM To: Vince J Kaminski/HOU/ECT@ECT cc: Subject: Re: RTP project Yes,...
+
+Model prediction: [9.9979061e-01 2.0939377e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  confirm             | Impact: -0.010493 → LEGITIMATE
+ 2.  @                   | Impact: 0.006719 → PHISHING
+ 3.  ec                  | Impact: -0.004895 → LEGITIMATE
+ 4.  ec                  | Impact: -0.004130 → LEGITIMATE
+ 5.  with                | Impact: -0.003810 → LEGITIMATE
+ 6.  shirley             | Impact: 0.003782 → PHISHING
+ 7. t                    | Impact: -0.002771 → LEGITIMATE
+ 8.  /                   | Impact: -0.002543 → LEGITIMATE
+ 9.  /                   | Impact: -0.002543 → LEGITIMATE
+10. t                    | Impact: -0.002541 → LEGITIMATE
+11.  retail              | Impact: -0.002447 → LEGITIMATE
+12.  notes               | Impact: -0.002447 → LEGITIMATE
+13.  :                   | Impact: -0.002298 → LEGITIMATE
+14.  am                  | Impact: -0.002298 → LEGITIMATE
+15.  .                   | Impact: -0.002223 → LEGITIMATE
+16.  :                   | Impact: -0.002195 → LEGITIMATE
+17.  subject             | Impact: -0.002194 → LEGITIMATE
+18.  :                   | Impact: -0.002194 → LEGITIMATE
+19.  :                   | Impact: -0.002138 → LEGITIMATE
+20.  revision            | Impact: -0.002114 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  @                   | Impact: 0.006719
+ 2.  shirley             | Impact: 0.003782
+ 3.  hill                | Impact: 0.001926
+ 4.  huntington          | Impact: 0.001926
+ 5.  who                 | Impact: 0.001559
+ 6.  else                | Impact: 0.001559
+ 7.  @                   | Impact: 0.001423
+ 8.  project             | Impact: 0.001410
+ 9.  john                | Impact: 0.001410
+10.  and                 | Impact: 0.001127
+11.  in                  | Impact: 0.000972
+12.  your                | Impact: 0.000972
+13.  ee                  | Impact: 0.000764
+14. s                    | Impact: 0.000764
+15.  krishna             | Impact: 0.000736
+16.  ,                   | Impact: 0.000736
+17.  please              | Impact: 0.000652
+18.  ,                   | Impact: 0.000652
+19.  *                   | Impact: 0.000530
+20.  *                   | Impact: 0.000530
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  confirm             | Impact: -0.010493
+ 2.  ec                  | Impact: -0.004895
+ 3.  ec                  | Impact: -0.004130
+ 4.  with                | Impact: -0.003810
+ 5. t                    | Impact: -0.002771
+ 6.  /                   | Impact: -0.002543
+ 7.  /                   | Impact: -0.002543
+ 8. t                    | Impact: -0.002541
+ 9.  retail              | Impact: -0.002447
+10.  notes               | Impact: -0.002447
+11.  :                   | Impact: -0.002298
+12.  am                  | Impact: -0.002298
+13.  .                   | Impact: -0.002223
+14.  :                   | Impact: -0.002195
+15.  subject             | Impact: -0.002194
+16.  :                   | Impact: -0.002194
+17.  :                   | Impact: -0.002138
+18.  revision            | Impact: -0.002114
+19.  to                  | Impact: -0.002114
+20.  what                | Impact: -0.002114

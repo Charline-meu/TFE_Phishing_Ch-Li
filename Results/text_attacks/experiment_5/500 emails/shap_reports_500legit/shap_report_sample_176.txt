@@ -1,0 +1,64 @@
+Sample 176
+==========
+
+Sample text preview: URL: Date: --T::+: [IMG: ([AintItCoolNews])]
+
+Model prediction: [9.9973458e-01 2.6539093e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  [                   | Impact: -0.013212 → LEGITIMATE
+ 2.  ]                   | Impact: -0.013210 → LEGITIMATE
+ 3.  ]                   | Impact: -0.012357 → LEGITIMATE
+ 4. ws                   | Impact: -0.010408 → LEGITIMATE
+ 5.  +                   | Impact: 0.010290 → PHISHING
+ 6. ool                  | Impact: 0.009627 → PHISHING
+ 7.  t                   | Impact: 0.008443 → PHISHING
+ 8.  :                   | Impact: -0.008439 → LEGITIMATE
+ 9. tc                   | Impact: -0.008152 → LEGITIMATE
+10. ne                   | Impact: 0.008122 → PHISHING
+11.  :                   | Impact: -0.006792 → LEGITIMATE
+12.  :                   | Impact: -0.006755 → LEGITIMATE
+13.  ur                  | Impact: -0.006103 → LEGITIMATE
+14.  ain                 | Impact: 0.006085 → PHISHING
+15.  :                   | Impact: -0.005684 → LEGITIMATE
+16.  :                   | Impact: -0.005304 → LEGITIMATE
+17.  (                   | Impact: 0.004692 → PHISHING
+18.  [                   | Impact: -0.003369 → LEGITIMATE
+19.  -                   | Impact: 0.003108 → PHISHING
+20. l                    | Impact: -0.002959 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  +                   | Impact: 0.010290
+ 2. ool                  | Impact: 0.009627
+ 3.  t                   | Impact: 0.008443
+ 4. ne                   | Impact: 0.008122
+ 5.  ain                 | Impact: 0.006085
+ 6.  (                   | Impact: 0.004692
+ 7.  -                   | Impact: 0.003108
+ 8. ti                   | Impact: 0.002737
+ 9.  date                | Impact: 0.001119
+10.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  [                   | Impact: -0.013212
+ 2.  ]                   | Impact: -0.013210
+ 3.  ]                   | Impact: -0.012357
+ 4. ws                   | Impact: -0.010408
+ 5.  :                   | Impact: -0.008439
+ 6. tc                   | Impact: -0.008152
+ 7.  :                   | Impact: -0.006792
+ 8.  :                   | Impact: -0.006755
+ 9.  ur                  | Impact: -0.006103
+10.  :                   | Impact: -0.005684
+11.  :                   | Impact: -0.005304
+12.  [                   | Impact: -0.003369
+13. l                    | Impact: -0.002959
+14.  :                   | Impact: -0.001805
+15. g                    | Impact: -0.001760
+16.  -                   | Impact: -0.000751
+17.  im                  | Impact: -0.000265
+18.  )                   | Impact: -0.000086
+19.                      | Impact: -0.000000

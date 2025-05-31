@@ -1,0 +1,75 @@
+Sample 432
+==========
+
+Sample text preview: Welcome To Reserve Bank of India Online Banking Portal table{ border: px solid #} td{ border: px solid #CCC} .a { font-family: Verdana, Geneva, sans-s...
+
+Model prediction: [1.6557114e-04 9.9983442e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.048941 → PHISHING
+ 2.  welcome             | Impact: 0.044434 → PHISHING
+ 3.  dear                | Impact: 0.040878 → PHISHING
+ 4.  bank                | Impact: 0.040856 → PHISHING
+ 5.  india               | Impact: 0.034000 → PHISHING
+ 6.  solid               | Impact: 0.032569 → PHISHING
+ 7.  online              | Impact: 0.024714 → PHISHING
+ 8.  you                 | Impact: 0.017759 → PHISHING
+ 9.  file                | Impact: 0.017083 → PHISHING
+10.  warm                | Impact: 0.017042 → PHISHING
+11.  regards             | Impact: 0.017042 → PHISHING
+12.  font                | Impact: 0.016290 → PHISHING
+13.  render              | Impact: 0.014433 → PHISHING
+14.  please              | Impact: 0.014177 → PHISHING
+15.                      | Impact: 0.013595 → PHISHING
+16.  find                | Impact: 0.013119 → PHISHING
+17.  banking             | Impact: 0.012262 → PHISHING
+18.  portal              | Impact: 0.012262 → PHISHING
+19.  to                  | Impact: 0.011720 → PHISHING
+20.  reserve             | Impact: 0.011720 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.048941
+ 2.  welcome             | Impact: 0.044434
+ 3.  dear                | Impact: 0.040878
+ 4.  bank                | Impact: 0.040856
+ 5.  india               | Impact: 0.034000
+ 6.  solid               | Impact: 0.032569
+ 7.  online              | Impact: 0.024714
+ 8.  you                 | Impact: 0.017759
+ 9.  file                | Impact: 0.017083
+10.  warm                | Impact: 0.017042
+11.  regards             | Impact: 0.017042
+12.  font                | Impact: 0.016290
+13.  render              | Impact: 0.014433
+14.  please              | Impact: 0.014177
+15.                      | Impact: 0.013595
+16.  find                | Impact: 0.013119
+17.  banking             | Impact: 0.012262
+18.  portal              | Impact: 0.012262
+19.  to                  | Impact: 0.011720
+20.  reserve             | Impact: 0.011720
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ve                  | Impact: -0.002326
+ 2. rdan                 | Impact: -0.002326
+ 3. a                    | Impact: -0.002326
+ 4.  kb                  | Impact: -0.001943
+ 5.  ]                   | Impact: -0.001943
+ 6.  geneva              | Impact: -0.001713
+ 7.  ,                   | Impact: -0.001713
+ 8.  a                   | Impact: -0.001297
+ 9.  {                   | Impact: -0.001297
+10.  font                | Impact: -0.001297
+11.  -                   | Impact: -0.001297
+12.  family              | Impact: -0.001009
+13.  :                   | Impact: -0.001009
+14.  ve                  | Impact: -0.000846
+15. rdan                 | Impact: -0.000846
+16. a                    | Impact: -0.000846
+17.  family              | Impact: -0.000846
+18.  :                   | Impact: -0.000846
+19.  ;                   | Impact: -0.000846
+20.  }                   | Impact: -0.000846

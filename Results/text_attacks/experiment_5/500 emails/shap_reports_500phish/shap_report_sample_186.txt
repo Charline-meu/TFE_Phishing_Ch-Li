@@ -1,0 +1,64 @@
+Sample 186
+==========
+
+Sample text preview: Dear Sir/Madam, I am Mr. Ibrahim Baaji (SAN) - an attorney of the Supreme Court of Nigeria. I am the personal attorney to Mr. Allen Zook, a national o...
+
+Model prediction: [1.6292877e-04 9.9983704e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  kin                 | Impact: 0.007973 → PHISHING
+ 2.  to                  | Impact: 0.007973 → PHISHING
+ 3.  receive             | Impact: 0.007973 → PHISHING
+ 4.  his                 | Impact: 0.007973 → PHISHING
+ 5.  fund                | Impact: 0.007973 → PHISHING
+ 6.  you                 | Impact: 0.006328 → PHISHING
+ 7.  to                  | Impact: 0.006328 → PHISHING
+ 8.  assist              | Impact: 0.006328 → PHISHING
+ 9.  in                  | Impact: 0.006328 → PHISHING
+10.  we                  | Impact: 0.005626 → PHISHING
+11.  shall               | Impact: 0.005626 → PHISHING
+12.  best                | Impact: 0.005626 → PHISHING
+13. ow                   | Impact: 0.005626 → PHISHING
+14.  on                  | Impact: 0.005626 → PHISHING
+15.  you                 | Impact: 0.005626 → PHISHING
+16.  ,                   | Impact: 0.005626 → PHISHING
+17.  claiming            | Impact: 0.005477 → PHISHING
+18.  the                 | Impact: 0.005477 → PHISHING
+19.  money               | Impact: 0.005477 → PHISHING
+20.  left                | Impact: 0.005477 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  kin                 | Impact: 0.007973
+ 2.  to                  | Impact: 0.007973
+ 3.  receive             | Impact: 0.007973
+ 4.  his                 | Impact: 0.007973
+ 5.  fund                | Impact: 0.007973
+ 6.  you                 | Impact: 0.006328
+ 7.  to                  | Impact: 0.006328
+ 8.  assist              | Impact: 0.006328
+ 9.  in                  | Impact: 0.006328
+10.  we                  | Impact: 0.005626
+11.  shall               | Impact: 0.005626
+12.  best                | Impact: 0.005626
+13. ow                   | Impact: 0.005626
+14.  on                  | Impact: 0.005626
+15.  you                 | Impact: 0.005626
+16.  ,                   | Impact: 0.005626
+17.  claiming            | Impact: 0.005477
+18.  the                 | Impact: 0.005477
+19.  money               | Impact: 0.005477
+20.  left                | Impact: 0.005477
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  since               | Impact: -0.000206
+ 2.  then                | Impact: -0.000206
+ 3.  i                   | Impact: -0.000206
+ 4.  have                | Impact: -0.000206
+ 5.  made                | Impact: -0.000206
+ 6.  several             | Impact: -0.000206
+ 7.  en                  | Impact: -0.000206
+ 8. qui                  | Impact: -0.000206
+ 9. ries                 | Impact: -0.000206

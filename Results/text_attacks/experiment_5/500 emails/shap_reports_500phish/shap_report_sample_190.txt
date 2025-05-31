@@ -1,0 +1,75 @@
+Sample 190
+==========
+
+Sample text preview: Please review and authenticate. AUTHENTICATE ( ) *Dear we noticed from our end some strange activity in your wallet that necessitates immediate user a...
+
+Model prediction: [2.1868301e-04 9.9978131e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ©                   | Impact: 0.034279 → PHISHING
+ 2.  your                | Impact: 0.030009 → PHISHING
+ 3.  your                | Impact: 0.019899 → PHISHING
+ 4.  funds               | Impact: 0.019899 → PHISHING
+ 5.  *                   | Impact: 0.014249 → PHISHING
+ 6.  secure              | Impact: 0.014249 → PHISHING
+ 7.  account             | Impact: 0.012055 → PHISHING
+ 8.  '                   | Impact: 0.012055 → PHISHING
+ 9.  s                   | Impact: 0.012055 → PHISHING
+10.  *                   | Impact: 0.011942 → PHISHING
+11.  email               | Impact: 0.011942 → PHISHING
+12.  safe                | Impact: 0.011478 → PHISHING
+13.  enter               | Impact: 0.011445 → PHISHING
+14.  your                | Impact: 0.011445 → PHISHING
+15.  this                | Impact: 0.011100 → PHISHING
+16.  notice              | Impact: 0.011100 → PHISHING
+17.  activity            | Impact: 0.010722 → PHISHING
+18.  will                | Impact: 0.010722 → PHISHING
+19.  be                  | Impact: 0.010722 → PHISHING
+20.  suspended           | Impact: 0.010722 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.034279
+ 2.  your                | Impact: 0.030009
+ 3.  your                | Impact: 0.019899
+ 4.  funds               | Impact: 0.019899
+ 5.  *                   | Impact: 0.014249
+ 6.  secure              | Impact: 0.014249
+ 7.  account             | Impact: 0.012055
+ 8.  '                   | Impact: 0.012055
+ 9.  s                   | Impact: 0.012055
+10.  *                   | Impact: 0.011942
+11.  email               | Impact: 0.011942
+12.  safe                | Impact: 0.011478
+13.  enter               | Impact: 0.011445
+14.  your                | Impact: 0.011445
+15.  this                | Impact: 0.011100
+16.  notice              | Impact: 0.011100
+17.  activity            | Impact: 0.010722
+18.  will                | Impact: 0.010722
+19.  be                  | Impact: 0.010722
+20.  suspended           | Impact: 0.010722
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  preferences         | Impact: -0.010192
+ 2.  (                   | Impact: -0.010192
+ 3.  )                   | Impact: -0.010192
+ 4.                      | Impact: -0.010192
+ 5.  |                   | Impact: -0.006157
+ 6.  n                   | Impact: -0.006157
+ 7. ft                   | Impact: -0.006157
+ 8.  accounts            | Impact: -0.003908
+ 9. bs                   | Impact: -0.003091
+10. cr                   | Impact: -0.003091
+11. ibe                  | Impact: -0.003091
+12.  un                  | Impact: -0.003091
+13. su                   | Impact: -0.003091
+14.  and                 | Impact: -0.002675
+15.  services            | Impact: -0.002675
+16.  .                   | Impact: -0.002675
+17. bs                   | Impact: -0.002614
+18. cr                   | Impact: -0.002614
+19. ibe                  | Impact: -0.002614
+20.  un                  | Impact: -0.002614

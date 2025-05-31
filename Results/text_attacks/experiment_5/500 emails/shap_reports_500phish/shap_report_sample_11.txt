@@ -1,0 +1,55 @@
+Sample 11
+=========
+
+Sample text preview: MR.IBRAHIM MUSTAPHA OUAGOUDOUGOU, BURKINA FASO Dear Sir/Madam RE: TRANSFER OF ($,.. USD THIRTY NINE MILLION FIVE HUNDRED THOUSAND DOLLARS) We want to ...
+
+Model prediction: [1.8355322e-04 9.9981648e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  payment             | Impact: 0.014197 → PHISHING
+ 2.  to                  | Impact: 0.014197 → PHISHING
+ 3.  any                 | Impact: 0.014197 → PHISHING
+ 4.  foreigner           | Impact: 0.014197 → PHISHING
+ 5.  to                  | Impact: 0.012248 → PHISHING
+ 6.  you                 | Impact: 0.012248 → PHISHING
+ 7.  ,                   | Impact: 0.012248 → PHISHING
+ 8.  ready               | Impact: 0.011074 → PHISHING
+ 9.  to                  | Impact: 0.011074 → PHISHING
+10.  approve             | Impact: 0.011074 → PHISHING
+11.  this                | Impact: 0.011074 → PHISHING
+12.  mr                  | Impact: 0.007715 → PHISHING
+13.  .                   | Impact: 0.007715 → PHISHING
+14.  upon                | Impact: 0.007308 → PHISHING
+15.  your                | Impact: 0.007308 → PHISHING
+16.  positive            | Impact: 0.007308 → PHISHING
+17.  response            | Impact: 0.007308 → PHISHING
+18.  and                 | Impact: 0.007308 → PHISHING
+19.  will                | Impact: 0.006815 → PHISHING
+20.  meet                | Impact: 0.006815 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  payment             | Impact: 0.014197
+ 2.  to                  | Impact: 0.014197
+ 3.  any                 | Impact: 0.014197
+ 4.  foreigner           | Impact: 0.014197
+ 5.  to                  | Impact: 0.012248
+ 6.  you                 | Impact: 0.012248
+ 7.  ,                   | Impact: 0.012248
+ 8.  ready               | Impact: 0.011074
+ 9.  to                  | Impact: 0.011074
+10.  approve             | Impact: 0.011074
+11.  this                | Impact: 0.011074
+12.  mr                  | Impact: 0.007715
+13.  .                   | Impact: 0.007715
+14.  upon                | Impact: 0.007308
+15.  your                | Impact: 0.007308
+16.  positive            | Impact: 0.007308
+17.  response            | Impact: 0.007308
+18.  and                 | Impact: 0.007308
+19.  will                | Impact: 0.006815
+20.  meet                | Impact: 0.006815
+
+Top features pushing towards LEGITIMATE classification:

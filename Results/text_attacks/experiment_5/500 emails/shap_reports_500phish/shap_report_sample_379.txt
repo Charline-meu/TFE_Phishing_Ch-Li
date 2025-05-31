@@ -1,0 +1,66 @@
+Sample 379
+==========
+
+Sample text preview: ﻿ Dear Customer, YourIacсountiwillibeBlockedbbecauseyyourppaymenti wasddeсIined. CLick Here ----------------------------------------------------------...
+
+Model prediction: [3.1788377e-04 9.9968219e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.264604 → PHISHING
+ 2.  dear                | Impact: 0.221649 → PHISHING
+ 3.  your                | Impact: 0.117971 → PHISHING
+ 4.  here                | Impact: 0.103553 → PHISHING
+ 5. с                    | Impact: 0.032742 → PHISHING
+ 6. wil                  | Impact: 0.028707 → PHISHING
+ 7. i                    | Impact: 0.028608 → PHISHING
+ 8. bbe                  | Impact: 0.023043 → PHISHING
+ 9. ned                  | Impact: -0.021798 → LEGITIMATE
+10. ii                   | Impact: 0.019480 → PHISHING
+11. you                  | Impact: 0.014713 → PHISHING
+12. ed                   | Impact: 0.012834 → PHISHING
+13. dd                   | Impact: -0.012140 → LEGITIMATE
+14.  was                 | Impact: -0.011744 → LEGITIMATE
+15. с                    | Impact: 0.011177 → PHISHING
+16. nti                  | Impact: 0.010902 → PHISHING
+17.  .                   | Impact: -0.010653 → LEGITIMATE
+18. ount                 | Impact: 0.008468 → PHISHING
+19.  customer            | Impact: 0.007220 → PHISHING
+20. iac                  | Impact: -0.006471 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.264604
+ 2.  dear                | Impact: 0.221649
+ 3.  your                | Impact: 0.117971
+ 4.  here                | Impact: 0.103553
+ 5. с                    | Impact: 0.032742
+ 6. wil                  | Impact: 0.028707
+ 7. i                    | Impact: 0.028608
+ 8. bbe                  | Impact: 0.023043
+ 9. ii                   | Impact: 0.019480
+10. you                  | Impact: 0.014713
+11. ed                   | Impact: 0.012834
+12. с                    | Impact: 0.011177
+13. nti                  | Impact: 0.010902
+14. ount                 | Impact: 0.008468
+15.  customer            | Impact: 0.007220
+16. ca                   | Impact: 0.006302
+17. pa                   | Impact: 0.004989
+18. yme                  | Impact: 0.004989
+19.                      | Impact: 0.004925
+20.  -                   | Impact: 0.004792
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ned                  | Impact: -0.021798
+ 2. dd                   | Impact: -0.012140
+ 3.  was                 | Impact: -0.011744
+ 4.  .                   | Impact: -0.010653
+ 5. iac                  | Impact: -0.006471
+ 6. lib                  | Impact: -0.005558
+ 7.  -                   | Impact: -0.005313
+ 8. eb                   | Impact: -0.005116
+ 9.  -                   | Impact: -0.004322
+10. e                    | Impact: -0.003888
+11. lock                 | Impact: -0.000908

@@ -1,0 +1,75 @@
+Sample 440
+==========
+
+Sample text preview: Dear Colleagues, We know you have many questions about your new benefits plan, payroll issues and other changes that will occur over the next few week...
+
+Model prediction: [9.9979538e-01 2.0458667e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  u                   | Impact: -0.030293 → LEGITIMATE
+ 2. bs                   | Impact: -0.030293 → LEGITIMATE
+ 3. bs                   | Impact: -0.006586 → LEGITIMATE
+ 4.  u                   | Impact: -0.006562 → LEGITIMATE
+ 5.                      | Impact: 0.005780 → PHISHING
+ 6.  dear                | Impact: 0.005780 → PHISHING
+ 7.  colleagues          | Impact: 0.005780 → PHISHING
+ 8.  to                  | Impact: 0.003610 → PHISHING
+ 9.  you                 | Impact: 0.003610 → PHISHING
+10.  tomorrow            | Impact: 0.003610 → PHISHING
+11.  about               | Impact: 0.003441 → PHISHING
+12.  our                 | Impact: 0.003441 → PHISHING
+13.  new                 | Impact: 0.003441 → PHISHING
+14.  opportunity         | Impact: 0.003441 → PHISHING
+15.  war                 | Impact: -0.002888 → LEGITIMATE
+16. burg                 | Impact: -0.002888 → LEGITIMATE
+17.  ,                   | Impact: 0.002640 → PHISHING
+18.  david               | Impact: -0.002500 → LEGITIMATE
+19.  and                 | Impact: 0.002246 → PHISHING
+20.  we                  | Impact: 0.002197 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.                      | Impact: 0.005780
+ 2.  dear                | Impact: 0.005780
+ 3.  colleagues          | Impact: 0.005780
+ 4.  to                  | Impact: 0.003610
+ 5.  you                 | Impact: 0.003610
+ 6.  tomorrow            | Impact: 0.003610
+ 7.  about               | Impact: 0.003441
+ 8.  our                 | Impact: 0.003441
+ 9.  new                 | Impact: 0.003441
+10.  opportunity         | Impact: 0.003441
+11.  ,                   | Impact: 0.002640
+12.  and                 | Impact: 0.002246
+13.  we                  | Impact: 0.002197
+14.  know                | Impact: 0.002197
+15.  you                 | Impact: 0.002197
+16.  have                | Impact: 0.002197
+17.  of                  | Impact: 0.002056
+18.  you                 | Impact: 0.002056
+19.  in                  | Impact: 0.002056
+20.  the                 | Impact: 0.002056
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  u                   | Impact: -0.030293
+ 2. bs                   | Impact: -0.030293
+ 3. bs                   | Impact: -0.006586
+ 4.  u                   | Impact: -0.006562
+ 5.  war                 | Impact: -0.002888
+ 6. burg                 | Impact: -0.002888
+ 7.  david               | Impact: -0.002500
+ 8.  ox                  | Impact: -0.002031
+ 9. ley                  | Impact: -0.002031
+10.  a                   | Impact: -0.001719
+11.  new                 | Impact: -0.001719
+12.  access              | Impact: -0.001240
+13.  cards               | Impact: -0.001240
+14.  .                   | Impact: -0.001240
+15.  _                   | Impact: -0.001049
+16.  _                   | Impact: -0.001049
+17.  we                  | Impact: -0.000929
+18.  look                | Impact: -0.000929
+19.  forward             | Impact: -0.000929
+20.  to                  | Impact: -0.000929

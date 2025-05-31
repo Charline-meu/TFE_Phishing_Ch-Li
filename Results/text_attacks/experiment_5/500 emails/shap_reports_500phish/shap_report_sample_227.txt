@@ -1,0 +1,75 @@
+Sample 227
+==========
+
+Sample text preview: Coll�gue, J'ai recu une bonne information de vous que vous �tes bien fond� et avec beaucoup de confiance.Je suis ravi d'avoir eu cette information par...
+
+Model prediction: [0.29791003 0.70208997]
+Predicted class: PHISHING with 0.7021 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  que                 | Impact: 0.005803 → PHISHING
+ 2.  vo                  | Impact: 0.005803 → PHISHING
+ 3. us                   | Impact: 0.005803 → PHISHING
+ 4.  me                  | Impact: 0.005803 → PHISHING
+ 5.  contact             | Impact: 0.005803 → PHISHING
+ 6. ie                   | Impact: 0.005803 → PHISHING
+ 7. z                    | Impact: 0.005803 → PHISHING
+ 8.  pour                | Impact: 0.004645 → PHISHING
+ 9.  que                 | Impact: 0.004645 → PHISHING
+10.  je                  | Impact: 0.004645 → PHISHING
+11.  pu                  | Impact: 0.004645 → PHISHING
+12. isse                 | Impact: 0.004645 → PHISHING
+13.  vo                  | Impact: 0.004645 → PHISHING
+14. us                   | Impact: 0.004645 → PHISHING
+15.  rec                 | Impact: 0.004521 → PHISHING
+16. eve                  | Impact: 0.004521 → PHISHING
+17. z                    | Impact: 0.004521 → PHISHING
+18.  mon                 | Impact: 0.004521 → PHISHING
+19.  mail                | Impact: 0.004521 → PHISHING
+20.  ce                  | Impact: 0.003856 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  que                 | Impact: 0.005803
+ 2.  vo                  | Impact: 0.005803
+ 3. us                   | Impact: 0.005803
+ 4.  me                  | Impact: 0.005803
+ 5.  contact             | Impact: 0.005803
+ 6. ie                   | Impact: 0.005803
+ 7. z                    | Impact: 0.005803
+ 8.  pour                | Impact: 0.004645
+ 9.  que                 | Impact: 0.004645
+10.  je                  | Impact: 0.004645
+11.  pu                  | Impact: 0.004645
+12. isse                 | Impact: 0.004645
+13.  vo                  | Impact: 0.004645
+14. us                   | Impact: 0.004645
+15.  rec                 | Impact: 0.004521
+16. eve                  | Impact: 0.004521
+17. z                    | Impact: 0.004521
+18.  mon                 | Impact: 0.004521
+19.  mail                | Impact: 0.004521
+20.  ce                  | Impact: 0.003856
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ag                  | Impact: -0.001656
+ 2.  in                  | Impact: -0.001656
+ 3.  frankfurt           | Impact: -0.001656
+ 4.  am                  | Impact: -0.001656
+ 5.  main                | Impact: -0.001656
+ 6.  )                   | Impact: -0.001656
+ 7.  .                   | Impact: -0.001656
+ 8.  ho                  | Impact: -0.001656
+ 9. lz                   | Impact: -0.001656
+10. mann                 | Impact: -0.001656
+11.  (                   | Impact: -0.001656
+12.  philipp             | Impact: -0.001656
+13.  go                  | Impact: -0.000606
+14. uve                  | Impact: -0.000606
+15. rne                  | Impact: -0.000606
+16. ment                 | Impact: -0.000606
+17.  de                  | Impact: -0.000606
+18.  millions            | Impact: -0.000606
+19.  de                  | Impact: -0.000606
+20.  dollars             | Impact: -0.000606

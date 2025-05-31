@@ -1,0 +1,75 @@
+Phishing Sample 47
+==================
+
+Sample text preview: Produce More in Less Time! ...with help from Roster Financial LLC and Zurich Life Z-app Your Term Life Business Z-app Your Term Life Business Z-app is...
+
+Model prediction: [3.765598e-04 9.996234e-01]
+Predicted class: PHISHING with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  to                  | Impact: 0.023617 → PHISHING
+ 2.  receive             | Impact: 0.023617 → PHISHING
+ 3.  our                 | Impact: 0.023617 → PHISHING
+ 4.  want                | Impact: 0.014808 → PHISHING
+ 5.  anyone              | Impact: 0.014808 → PHISHING
+ 6.  notice              | Impact: 0.011139 → PHISHING
+ 7.  <                   | Impact: 0.011139 → PHISHING
+ 8.  to                  | Impact: 0.010452 → PHISHING
+ 9.  be                  | Impact: 0.010452 → PHISHING
+10.  removed             | Impact: 0.010452 → PHISHING
+11.  from                | Impact: 0.010452 → PHISHING
+12.  this                | Impact: 0.010452 → PHISHING
+13.  this                | Impact: 0.009020 → PHISHING
+14.  message             | Impact: 0.009020 → PHISHING
+15.  .                   | Impact: 0.009020 → PHISHING
+16.                      | Impact: 0.008919 → PHISHING
+17.  go                  | Impact: 0.008558 → PHISHING
+18.  here                | Impact: 0.008558 → PHISHING
+19.  mail                | Impact: 0.007931 → PHISHING
+20. ing                  | Impact: 0.007931 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.023617
+ 2.  receive             | Impact: 0.023617
+ 3.  our                 | Impact: 0.023617
+ 4.  want                | Impact: 0.014808
+ 5.  anyone              | Impact: 0.014808
+ 6.  notice              | Impact: 0.011139
+ 7.  <                   | Impact: 0.011139
+ 8.  to                  | Impact: 0.010452
+ 9.  be                  | Impact: 0.010452
+10.  removed             | Impact: 0.010452
+11.  from                | Impact: 0.010452
+12.  this                | Impact: 0.010452
+13.  this                | Impact: 0.009020
+14.  message             | Impact: 0.009020
+15.  .                   | Impact: 0.009020
+16.                      | Impact: 0.008919
+17.  go                  | Impact: 0.008558
+18.  here                | Impact: 0.008558
+19.  mail                | Impact: 0.007931
+20. ing                  | Impact: 0.007931
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  companion           | Impact: -0.003678
+ 2.  policies            | Impact: -0.003678
+ 3.  not                 | Impact: -0.003678
+ 4.  available           | Impact: -0.003678
+ 5.  in                  | Impact: -0.003416
+ 6.  nj                  | Impact: -0.003416
+ 7.  .                   | Impact: -0.003416
+ 8.  policy              | Impact: -0.002425
+ 9.  provisions          | Impact: -0.002425
+10.  vary                | Impact: -0.002425
+11.  by                  | Impact: -0.002425
+12.  state               | Impact: -0.002425
+13.  .                   | Impact: -0.002425
+14.  forms               | Impact: -0.002320
+15.  and                 | Impact: -0.002320
+16.  instead             | Impact: -0.002159
+17.  ,                   | Impact: -0.002159
+18.  policy              | Impact: -0.001736
+19.  not                 | Impact: -0.001736
+20.  available           | Impact: -0.001736

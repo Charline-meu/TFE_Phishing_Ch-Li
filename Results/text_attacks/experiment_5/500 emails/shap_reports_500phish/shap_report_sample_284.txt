@@ -1,0 +1,75 @@
+Sample 284
+==========
+
+Sample text preview: >From the Desk of MR.MICHEAL EDET DUKE BRANCH MANAGER, UNITED BANK FOR AFRICA PLC ILUPEJU BRANCH LAGOS NIGERIA. ALTERNATIVE EMAIL: ATTN: PRESIDENT/C.E...
+
+Model prediction: [1.5239355e-04 9.9984753e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lagos               | Impact: 0.018160 → PHISHING
+ 2.  million             | Impact: 0.013702 → PHISHING
+ 3.  branch              | Impact: 0.013550 → PHISHING
+ 4.  lagos               | Impact: 0.013550 → PHISHING
+ 5.  nigeria             | Impact: 0.013550 → PHISHING
+ 6.  .                   | Impact: 0.013550 → PHISHING
+ 7.  nigeria             | Impact: 0.012368 → PHISHING
+ 8.  branch              | Impact: 0.011924 → PHISHING
+ 9.  lagos               | Impact: 0.011924 → PHISHING
+10.  nigeria             | Impact: 0.011924 → PHISHING
+11.  .                   | Impact: 0.011924 → PHISHING
+12.  money               | Impact: 0.006895 → PHISHING
+13.  is                  | Impact: 0.006895 → PHISHING
+14.  forward             | Impact: 0.006797 → PHISHING
+15.  your                | Impact: 0.006797 → PHISHING
+16.  account             | Impact: 0.006797 → PHISHING
+17.  and                 | Impact: 0.006797 → PHISHING
+18.  for                 | Impact: 0.006556 → PHISHING
+19.  your                | Impact: 0.006556 → PHISHING
+20.  assistance          | Impact: 0.006556 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  lagos               | Impact: 0.018160
+ 2.  million             | Impact: 0.013702
+ 3.  branch              | Impact: 0.013550
+ 4.  lagos               | Impact: 0.013550
+ 5.  nigeria             | Impact: 0.013550
+ 6.  .                   | Impact: 0.013550
+ 7.  nigeria             | Impact: 0.012368
+ 8.  branch              | Impact: 0.011924
+ 9.  lagos               | Impact: 0.011924
+10.  nigeria             | Impact: 0.011924
+11.  .                   | Impact: 0.011924
+12.  money               | Impact: 0.006895
+13.  is                  | Impact: 0.006895
+14.  forward             | Impact: 0.006797
+15.  your                | Impact: 0.006797
+16.  account             | Impact: 0.006797
+17.  and                 | Impact: 0.006797
+18.  for                 | Impact: 0.006556
+19.  your                | Impact: 0.006556
+20.  assistance          | Impact: 0.006556
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.001044
+ 2.  >                   | Impact: -0.001044
+ 3.  from                | Impact: -0.001044
+ 4.  the                 | Impact: -0.001044
+ 5.  para                | Impact: -0.000851
+ 6. sta                  | Impact: -0.000851
+ 7. tal                  | Impact: -0.000851
+ 8. s                    | Impact: -0.000851
+ 9.  .                   | Impact: -0.000851
+10.  thus                | Impact: -0.000472
+11.  ;                   | Impact: -0.000472
+12.  we                  | Impact: -0.000472
+13.  had                 | Impact: -0.000472
+14.  a                   | Impact: -0.000472
+15.  customer            | Impact: -0.000472
+16.  ,                   | Impact: -0.000472
+17.  the                 | Impact: -0.000472
+18.  intended            | Impact: -0.000472
+19.  business            | Impact: -0.000472
+20.  is                  | Impact: -0.000472

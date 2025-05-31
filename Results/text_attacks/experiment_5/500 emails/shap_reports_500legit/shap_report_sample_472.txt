@@ -1,0 +1,75 @@
+Sample 472
+==========
+
+Sample text preview: Lindsay, the attached content packet is hereby approved by me on behalf of the legal department, subject to the following: () This document -- the "Te...
+
+Model prediction: [9.9978310e-01 2.1686492e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lindsay             | Impact: -0.003077 → LEGITIMATE
+ 2.  packet              | Impact: -0.003046 → LEGITIMATE
+ 3.  are                 | Impact: 0.002764 → PHISHING
+ 4.  approved            | Impact: -0.002224 → LEGITIMATE
+ 5.  here                | Impact: 0.002167 → PHISHING
+ 6.  content             | Impact: -0.001971 → LEGITIMATE
+ 7.  me                  | Impact: 0.001921 → PHISHING
+ 8.  approved            | Impact: -0.001815 → LEGITIMATE
+ 9.  the                 | Impact: -0.001480 → LEGITIMATE
+10.  page                | Impact: -0.001433 → LEGITIMATE
+11.  ready               | Impact: 0.001400 → PHISHING
+12.  ,                   | Impact: -0.001337 → LEGITIMATE
+13.  ,                   | Impact: -0.001233 → LEGITIMATE
+14.  is                  | Impact: 0.001114 → PHISHING
+15.  department          | Impact: -0.001014 → LEGITIMATE
+16.  -                   | Impact: -0.000979 → LEGITIMATE
+17.  -                   | Impact: -0.000979 → LEGITIMATE
+18.  on                  | Impact: 0.000953 → PHISHING
+19.  e                   | Impact: -0.000873 → LEGITIMATE
+20. ol                   | Impact: -0.000873 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  are                 | Impact: 0.002764
+ 2.  here                | Impact: 0.002167
+ 3.  me                  | Impact: 0.001921
+ 4.  ready               | Impact: 0.001400
+ 5.  is                  | Impact: 0.001114
+ 6.  on                  | Impact: 0.000953
+ 7.  to                  | Impact: 0.000699
+ 8.  and                 | Impact: 0.000697
+ 9. by                   | Impact: 0.000574
+10.  behalf              | Impact: 0.000535
+11.  .                   | Impact: 0.000232
+12.  of                  | Impact: 0.000137
+13.  i                   | Impact: 0.000098
+14.  '                   | Impact: 0.000098
+15.  ve                  | Impact: 0.000098
+16.  received            | Impact: 0.000098
+17.  previous            | Impact: 0.000065
+18.  email               | Impact: 0.000065
+19.  .                   | Impact: 0.000065
+20.  by                  | Impact: 0.000056
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  lindsay             | Impact: -0.003077
+ 2.  packet              | Impact: -0.003046
+ 3.  approved            | Impact: -0.002224
+ 4.  content             | Impact: -0.001971
+ 5.  approved            | Impact: -0.001815
+ 6.  the                 | Impact: -0.001480
+ 7.  page                | Impact: -0.001433
+ 8.  ,                   | Impact: -0.001337
+ 9.  ,                   | Impact: -0.001233
+10.  department          | Impact: -0.001014
+11.  -                   | Impact: -0.000979
+12.  -                   | Impact: -0.000979
+13.  e                   | Impact: -0.000873
+14. ol                   | Impact: -0.000873
+15.  .                   | Impact: -0.000834
+16.  gt                  | Impact: -0.000816
+17. c                    | Impact: -0.000816
+18.  (                   | Impact: -0.000755
+19.  schedule            | Impact: -0.000739
+20.  "                   | Impact: -0.000739

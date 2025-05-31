@@ -1,0 +1,75 @@
+Sample 492
+==========
+
+Sample text preview: Mr.Vincent Nnaji, Standard Trust Bank Ltd, Lagos,Nigeria. Dear Sir, I am Mr.Vincent Nnaji, Bank Manager of Standard Trust Bank,Lagos,Nigeria. I have u...
+
+Model prediction: [1.7513082e-04 9.9982494e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  nigerian            | Impact: 0.009496 → PHISHING
+ 2.  national            | Impact: 0.009496 → PHISHING
+ 3.  petroleum           | Impact: 0.009496 → PHISHING
+ 4.  corporation         | Impact: 0.009496 → PHISHING
+ 5.  mr                  | Impact: 0.009496 → PHISHING
+ 6.  to                  | Impact: 0.007084 → PHISHING
+ 7.  provide             | Impact: 0.007084 → PHISHING
+ 8.  immediately         | Impact: 0.007084 → PHISHING
+ 9.  your                | Impact: 0.007084 → PHISHING
+10.  full                | Impact: 0.006630 → PHISHING
+11.  names               | Impact: 0.006630 → PHISHING
+12.  and                 | Impact: 0.006630 → PHISHING
+13.  lagos               | Impact: 0.005141 → PHISHING
+14.  ,                   | Impact: 0.005141 → PHISHING
+15.  nigeria             | Impact: 0.005141 → PHISHING
+16.  .                   | Impact: 0.005141 → PHISHING
+17.  nigerian            | Impact: 0.005060 → PHISHING
+18.  national            | Impact: 0.005060 → PHISHING
+19.  petroleum           | Impact: 0.005060 → PHISHING
+20.  corporation         | Impact: 0.005060 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  nigerian            | Impact: 0.009496
+ 2.  national            | Impact: 0.009496
+ 3.  petroleum           | Impact: 0.009496
+ 4.  corporation         | Impact: 0.009496
+ 5.  mr                  | Impact: 0.009496
+ 6.  to                  | Impact: 0.007084
+ 7.  provide             | Impact: 0.007084
+ 8.  immediately         | Impact: 0.007084
+ 9.  your                | Impact: 0.007084
+10.  full                | Impact: 0.006630
+11.  names               | Impact: 0.006630
+12.  and                 | Impact: 0.006630
+13.  lagos               | Impact: 0.005141
+14.  ,                   | Impact: 0.005141
+15.  nigeria             | Impact: 0.005141
+16.  .                   | Impact: 0.005141
+17.  nigerian            | Impact: 0.005060
+18.  national            | Impact: 0.005060
+19.  petroleum           | Impact: 0.005060
+20.  corporation         | Impact: 0.005060
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  contents            | Impact: -0.001121
+ 2.  of                  | Impact: -0.001121
+ 3.  the                 | Impact: -0.001121
+ 4.  boxes               | Impact: -0.001121
+ 5.  as                  | Impact: -0.001121
+ 6.  i                   | Impact: -0.001121
+ 7.  tagged              | Impact: -0.001121
+ 8.  them                | Impact: -0.001121
+ 9.  this                | Impact: -0.000528
+10.  is                  | Impact: -0.000528
+11.  simple              | Impact: -0.000528
+12.  .                   | Impact: -0.000528
+13.  i                   | Impact: -0.000124
+14.  therefore           | Impact: -0.000124
+15.  made                | Impact: -0.000124
+16.  further             | Impact: -0.000124
+17.  investigation       | Impact: -0.000124
+18.  on                  | Impact: -0.000019
+19.  january             | Impact: -0.000019
+20.  ,                   | Impact: -0.000019

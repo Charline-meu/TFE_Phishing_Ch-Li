@@ -1,0 +1,63 @@
+Sample 375
+==========
+
+Sample text preview: I have a new email address!You can now email me at: DEAR, MY NAME IS MR MR Ken Edward,A former government official of Liberia. Following the exit of p...
+
+Model prediction: [1.5911143e-04 9.9984086e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.022615 → PHISHING
+ 2.  for                 | Impact: 0.013786 → PHISHING
+ 3.  nigeria             | Impact: 0.013786 → PHISHING
+ 4.  ken                 | Impact: 0.011130 → PHISHING
+ 5.  my                  | Impact: 0.007770 → PHISHING
+ 6.  country             | Impact: 0.007770 → PHISHING
+ 7.  my                  | Impact: 0.007122 → PHISHING
+ 8.  name                | Impact: 0.007122 → PHISHING
+ 9.  is                  | Impact: 0.007122 → PHISHING
+10.  mr                  | Impact: 0.007122 → PHISHING
+11.  nigerian            | Impact: 0.006590 → PHISHING
+12.  president           | Impact: 0.006590 → PHISHING
+13.  mr                  | Impact: 0.005987 → PHISHING
+14.  ken                 | Impact: 0.005987 → PHISHING
+15.  edward              | Impact: 0.005987 → PHISHING
+16.  of                  | Impact: 0.005733 → PHISHING
+17.  liberia             | Impact: 0.005733 → PHISHING
+18.  .                   | Impact: 0.005733 → PHISHING
+19.  i                   | Impact: 0.005495 → PHISHING
+20.  left                | Impact: 0.005495 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.022615
+ 2.  for                 | Impact: 0.013786
+ 3.  nigeria             | Impact: 0.013786
+ 4.  ken                 | Impact: 0.011130
+ 5.  my                  | Impact: 0.007770
+ 6.  country             | Impact: 0.007770
+ 7.  my                  | Impact: 0.007122
+ 8.  name                | Impact: 0.007122
+ 9.  is                  | Impact: 0.007122
+10.  mr                  | Impact: 0.007122
+11.  nigerian            | Impact: 0.006590
+12.  president           | Impact: 0.006590
+13.  mr                  | Impact: 0.005987
+14.  ken                 | Impact: 0.005987
+15.  edward              | Impact: 0.005987
+16.  of                  | Impact: 0.005733
+17.  liberia             | Impact: 0.005733
+18.  .                   | Impact: 0.005733
+19.  i                   | Impact: 0.005495
+20.  left                | Impact: 0.005495
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  while               | Impact: -0.000196
+ 2.  %                   | Impact: -0.000196
+ 3.  will                | Impact: -0.000196
+ 4.  be                  | Impact: -0.000196
+ 5.  mapped              | Impact: -0.000196
+ 6.  out                 | Impact: -0.000196
+ 7.  for                 | Impact: -0.000196
+ 8.  local               | Impact: -0.000196

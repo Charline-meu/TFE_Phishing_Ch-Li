@@ -1,0 +1,75 @@
+Phishing Sample 99
+==================
+
+Sample text preview: America’s booming economy • Belgium’s protections for sex workers • Google’s AI challenges • AI’s giving work meetings a facelift - ( ) December , The...
+
+Model prediction: [9.9966145e-01 3.3860561e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  com                 | Impact: -0.011206 → LEGITIMATE
+ 2.  (                   | Impact: -0.011206 → LEGITIMATE
+ 3.  )                   | Impact: -0.011206 → LEGITIMATE
+ 4.  weekly              | Impact: -0.008055 → LEGITIMATE
+ 5.  on                  | Impact: -0.008055 → LEGITIMATE
+ 6.  linked              | Impact: -0.008055 → LEGITIMATE
+ 7. in                   | Impact: -0.008055 → LEGITIMATE
+ 8.  !                   | Impact: -0.008055 → LEGITIMATE
+ 9.  experts             | Impact: -0.005991 → LEGITIMATE
+10.  say                 | Impact: -0.005991 → LEGITIMATE
+11.  this                | Impact: -0.005991 → LEGITIMATE
+12.  highlights          | Impact: -0.005991 → LEGITIMATE
+13.  the                 | Impact: -0.005991 → LEGITIMATE
+14.  u                   | Impact: -0.005991 → LEGITIMATE
+15.  .                   | Impact: -0.005991 → LEGITIMATE
+16.  weekly              | Impact: -0.005609 → LEGITIMATE
+17.  monday              | Impact: -0.005609 → LEGITIMATE
+18.  .                   | Impact: -0.005609 → LEGITIMATE
+19.  s                   | Impact: -0.005310 → LEGITIMATE
+20.  .                   | Impact: -0.005310 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  including           | Impact: 0.003014
+ 2.  its                 | Impact: 0.003014
+ 3.  abundant            | Impact: 0.003014
+ 4.  domestic            | Impact: 0.003014
+ 5.  energy              | Impact: 0.003014
+ 6.  supply              | Impact: 0.003014
+ 7.  that                | Impact: 0.003014
+ 8.  led                 | Impact: 0.003014
+ 9.  many                | Impact: 0.002671
+10.  remain              | Impact: 0.002671
+11.  vulnerable          | Impact: 0.002671
+12.  and                 | Impact: 0.002671
+13.  ineligible          | Impact: 0.002625
+14.  for                 | Impact: 0.002625
+15.  these               | Impact: 0.002625
+16.  protections         | Impact: 0.002625
+17.  due                 | Impact: 0.002625
+18.  to                  | Impact: 0.002625
+19.  their               | Impact: 0.002625
+20.  lack                | Impact: 0.002625
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  com                 | Impact: -0.011206
+ 2.  (                   | Impact: -0.011206
+ 3.  )                   | Impact: -0.011206
+ 4.  weekly              | Impact: -0.008055
+ 5.  on                  | Impact: -0.008055
+ 6.  linked              | Impact: -0.008055
+ 7. in                   | Impact: -0.008055
+ 8.  !                   | Impact: -0.008055
+ 9.  experts             | Impact: -0.005991
+10.  say                 | Impact: -0.005991
+11.  this                | Impact: -0.005991
+12.  highlights          | Impact: -0.005991
+13.  the                 | Impact: -0.005991
+14.  u                   | Impact: -0.005991
+15.  .                   | Impact: -0.005991
+16.  weekly              | Impact: -0.005609
+17.  monday              | Impact: -0.005609
+18.  .                   | Impact: -0.005609
+19.  s                   | Impact: -0.005310
+20.  .                   | Impact: -0.005310

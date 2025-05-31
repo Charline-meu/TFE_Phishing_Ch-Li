@@ -1,0 +1,75 @@
+Phishing Sample 42
+==================
+
+Sample text preview: Vince, I received this inquiry about you. I am forwarding it to you so you can respond to it or politely tell them your not interested. --------------...
+
+Model prediction: [9.9976236e-01 2.3767653e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  vince               | Impact: -0.028931 → LEGITIMATE
+ 2.  writing             | Impact: -0.026588 → LEGITIMATE
+ 3.  energy              | Impact: -0.018773 → LEGITIMATE
+ 4.  sir                 | Impact: 0.016384 → PHISHING
+ 5.  please              | Impact: 0.014400 → PHISHING
+ 6.  you                 | Impact: 0.011949 → PHISHING
+ 7.  mr                  | Impact: 0.010930 → PHISHING
+ 8.  behalf              | Impact: 0.008507 → PHISHING
+ 9.  dear                | Impact: 0.008148 → PHISHING
+10.  madam               | Impact: 0.007286 → PHISHING
+11.  am                  | Impact: 0.007284 → PHISHING
+12.  on                  | Impact: -0.005759 → LEGITIMATE
+13.  am                  | Impact: 0.005486 → PHISHING
+14.  on                  | Impact: -0.005213 → LEGITIMATE
+15.  about               | Impact: 0.004039 → PHISHING
+16.  respond             | Impact: 0.004029 → PHISHING
+17.  to                  | Impact: 0.004029 → PHISHING
+18.  research            | Impact: -0.004021 → LEGITIMATE
+19.  them                | Impact: 0.003737 → PHISHING
+20.  your                | Impact: 0.003737 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sir                 | Impact: 0.016384
+ 2.  please              | Impact: 0.014400
+ 3.  you                 | Impact: 0.011949
+ 4.  mr                  | Impact: 0.010930
+ 5.  behalf              | Impact: 0.008507
+ 6.  dear                | Impact: 0.008148
+ 7.  madam               | Impact: 0.007286
+ 8.  am                  | Impact: 0.007284
+ 9.  am                  | Impact: 0.005486
+10.  about               | Impact: 0.004039
+11.  respond             | Impact: 0.004029
+12.  to                  | Impact: 0.004029
+13.  them                | Impact: 0.003737
+14.  your                | Impact: 0.003737
+15.  i                   | Impact: 0.003362
+16.  /                   | Impact: 0.002289
+17.  .                   | Impact: 0.001849
+18.  .                   | Impact: 0.001734
+19.  consultancy         | Impact: 0.001534
+20.  ,                   | Impact: 0.001291
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  vince               | Impact: -0.028931
+ 2.  writing             | Impact: -0.026588
+ 3.  energy              | Impact: -0.018773
+ 4.  on                  | Impact: -0.005759
+ 5.  on                  | Impact: -0.005213
+ 6.  research            | Impact: -0.004021
+ 7.  of                  | Impact: -0.003670
+ 8.  quantitative        | Impact: -0.003670
+ 9. ini                  | Impact: -0.003480
+10.  "                   | Impact: -0.003061
+11.  an                  | Impact: -0.002754
+12.  currently           | Impact: -0.002660
+13.  addresses           | Impact: -0.002580
+14.  band                | Impact: -0.002466
+15.  petroleum           | Impact: -0.001743
+16.  economics           | Impact: -0.001743
+17.  .                   | Impact: -0.001645
+18.  or                  | Impact: -0.001481
+19.  grateful            | Impact: -0.001477
+20.  if                  | Impact: -0.001477

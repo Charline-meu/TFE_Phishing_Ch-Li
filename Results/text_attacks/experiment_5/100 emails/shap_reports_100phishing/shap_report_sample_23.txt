@@ -1,0 +1,75 @@
+Phishing Sample 23
+==================
+
+Sample text preview: Mr. Mohammed Abacha. DEAR FRIEND, I am Mohammed Abacha, the eldest son of the late president of Nigeria, General Sani Abacha. I was falsely accused of...
+
+Model prediction: [1.6462171e-04 9.9983537e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mohammed            | Impact: 0.104988 → PHISHING
+ 2.  you                 | Impact: 0.032423 → PHISHING
+ 3.  aba                 | Impact: 0.030193 → PHISHING
+ 4. cha                  | Impact: 0.030193 → PHISHING
+ 5.  regard              | Impact: 0.027786 → PHISHING
+ 6.  best                | Impact: 0.024912 → PHISHING
+ 7.  contact             | Impact: 0.022286 → PHISHING
+ 8.  alternatively       | Impact: -0.012968 → LEGITIMATE
+ 9.  you                 | Impact: -0.012968 → LEGITIMATE
+10.  contact             | Impact: -0.011819 → LEGITIMATE
+11.  can                 | Impact: -0.011093 → LEGITIMATE
+12.  behalf              | Impact: 0.008652 → PHISHING
+13.  of                  | Impact: 0.008235 → PHISHING
+14.  the                 | Impact: 0.008235 → PHISHING
+15.  family              | Impact: 0.008235 → PHISHING
+16.  address             | Impact: 0.006685 → PHISHING
+17.  on                  | Impact: 0.006143 → PHISHING
+18.  barrister           | Impact: 0.005857 → PHISHING
+19.  mba                 | Impact: 0.005857 → PHISHING
+20.  .                   | Impact: 0.005737 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mohammed            | Impact: 0.104988
+ 2.  you                 | Impact: 0.032423
+ 3.  aba                 | Impact: 0.030193
+ 4. cha                  | Impact: 0.030193
+ 5.  regard              | Impact: 0.027786
+ 6.  best                | Impact: 0.024912
+ 7.  contact             | Impact: 0.022286
+ 8.  behalf              | Impact: 0.008652
+ 9.  of                  | Impact: 0.008235
+10.  the                 | Impact: 0.008235
+11.  family              | Impact: 0.008235
+12.  address             | Impact: 0.006685
+13.  on                  | Impact: 0.006143
+14.  barrister           | Impact: 0.005857
+15.  mba                 | Impact: 0.005857
+16.  .                   | Impact: 0.005737
+17.  money               | Impact: 0.005673
+18.  into                | Impact: 0.005673
+19.  your                | Impact: 0.005673
+20.  account             | Impact: 0.005673
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  alternatively       | Impact: -0.012968
+ 2.  you                 | Impact: -0.012968
+ 3.  contact             | Impact: -0.011819
+ 4.  can                 | Impact: -0.011093
+ 5.  telephone           | Impact: -0.005570
+ 6.  his                 | Impact: -0.004988
+ 7.  (                   | Impact: -0.004177
+ 8.  him                 | Impact: -0.002556
+ 9.  on                  | Impact: -0.002556
+10.  five                | Impact: -0.001787
+11.  percent             | Impact: -0.001787
+12.  at                  | Impact: -0.001686
+13.  :                   | Impact: -0.001686
+14.  thanks              | Impact: -0.001686
+15.  for                 | Impact: -0.001686
+16.  your                | Impact: -0.001281
+17.  cooperation         | Impact: -0.001281
+18.  .                   | Impact: -0.001281
+19.  transaction         | Impact: -0.001185
+20.  from                | Impact: -0.001185

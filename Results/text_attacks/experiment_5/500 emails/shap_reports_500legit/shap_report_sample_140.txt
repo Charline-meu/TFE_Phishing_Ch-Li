@@ -1,0 +1,75 @@
+Sample 140
+==========
+
+Sample text preview: ----- Original Message ----- From: "Scott Wood" To: Sent: Monday, October , : AM Subject: [zzzzteana] Re: Megalithomania UnPissup > --- In "Webmaster"...
+
+Model prediction: [9.9979252e-01 2.0752622e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.002679 → LEGITIMATE
+ 2.  sent                | Impact: -0.002679 → LEGITIMATE
+ 3.  of                  | Impact: -0.002050 → LEGITIMATE
+ 4.  yahoo               | Impact: -0.002050 → LEGITIMATE
+ 5.  scott               | Impact: -0.001939 → LEGITIMATE
+ 6.  >                   | Impact: -0.001939 → LEGITIMATE
+ 7.  :                   | Impact: -0.001929 → LEGITIMATE
+ 8.  monday              | Impact: -0.001929 → LEGITIMATE
+ 9.  know                | Impact: 0.001796 → PHISHING
+10.  !                   | Impact: -0.001772 → LEGITIMATE
+11.  >                   | Impact: -0.001507 → LEGITIMATE
+12.  >                   | Impact: -0.001507 → LEGITIMATE
+13.  "                   | Impact: -0.001446 → LEGITIMATE
+14.  wrote               | Impact: -0.001446 → LEGITIMATE
+15.  :                   | Impact: -0.001362 → LEGITIMATE
+16.  >                   | Impact: -0.001362 → LEGITIMATE
+17.  >                   | Impact: -0.001295 → LEGITIMATE
+18.  >                   | Impact: -0.001295 → LEGITIMATE
+19.  ci                  | Impact: -0.001237 → LEGITIMATE
+20. f                    | Impact: -0.001237 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  know                | Impact: 0.001796
+ 2.  y                   | Impact: 0.001125
+ 3.  '                   | Impact: 0.001125
+ 4.  z                   | Impact: 0.000736
+ 5. zz                   | Impact: 0.000736
+ 6.  scott               | Impact: 0.000730
+ 7.  wood                | Impact: 0.000730
+ 8.  .                   | Impact: 0.000586
+ 9.  .                   | Impact: 0.000586
+10.  bar                 | Impact: 0.000562
+11.  ?                   | Impact: 0.000492
+12.  the                 | Impact: 0.000468
+13.  great               | Impact: 0.000468
+14.  temple              | Impact: 0.000468
+15.  of                  | Impact: 0.000468
+16.  itself              | Impact: 0.000464
+17.  drunk               | Impact: 0.000464
+18.  and                 | Impact: 0.000437
+19.  ,                   | Impact: 0.000424
+20.  ,                   | Impact: 0.000417
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.002679
+ 2.  sent                | Impact: -0.002679
+ 3.  of                  | Impact: -0.002050
+ 4.  yahoo               | Impact: -0.002050
+ 5.  scott               | Impact: -0.001939
+ 6.  >                   | Impact: -0.001939
+ 7.  :                   | Impact: -0.001929
+ 8.  monday              | Impact: -0.001929
+ 9.  !                   | Impact: -0.001772
+10.  >                   | Impact: -0.001507
+11.  >                   | Impact: -0.001507
+12.  "                   | Impact: -0.001446
+13.  wrote               | Impact: -0.001446
+14.  :                   | Impact: -0.001362
+15.  >                   | Impact: -0.001362
+16.  >                   | Impact: -0.001295
+17.  >                   | Impact: -0.001295
+18.  ci                  | Impact: -0.001237
+19. f                    | Impact: -0.001237
+20.  >                   | Impact: -0.001237

@@ -1,0 +1,75 @@
+Sample 414
+==========
+
+Sample text preview: Happy New Year. We hope your holidays were enjoyable and restful. For a pleasant start to , please join your Enron colleagues for coffee and donuts th...
+
+Model prediction: [9.9979049e-01 2.0955734e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.046648 → LEGITIMATE
+ 2.  happy               | Impact: 0.031836 → PHISHING
+ 3.  .                   | Impact: -0.026908 → LEGITIMATE
+ 4.  in                  | Impact: 0.016211 → PHISHING
+ 5.  en                  | Impact: -0.014847 → LEGITIMATE
+ 6.  .                   | Impact: -0.014319 → LEGITIMATE
+ 7. ron                  | Impact: -0.013617 → LEGITIMATE
+ 8.  you                 | Impact: 0.011563 → PHISHING
+ 9.  forward             | Impact: -0.010543 → LEGITIMATE
+10.  the                 | Impact: 0.009402 → PHISHING
+11.  of                  | Impact: 0.008735 → PHISHING
+12.  building            | Impact: 0.008478 → PHISHING
+13.  new                 | Impact: -0.008434 → LEGITIMATE
+14.  we                  | Impact: 0.008273 → PHISHING
+15.  year                | Impact: 0.005693 → PHISHING
+16.  .                   | Impact: -0.004554 → LEGITIMATE
+17.  join                | Impact: 0.004369 → PHISHING
+18.  look                | Impact: -0.003917 → LEGITIMATE
+19.  to                  | Impact: -0.003908 → LEGITIMATE
+20.  ,                   | Impact: -0.003427 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  happy               | Impact: 0.031836
+ 2.  in                  | Impact: 0.016211
+ 3.  you                 | Impact: 0.011563
+ 4.  the                 | Impact: 0.009402
+ 5.  of                  | Impact: 0.008735
+ 6.  building            | Impact: 0.008478
+ 7.  we                  | Impact: 0.008273
+ 8.  year                | Impact: 0.005693
+ 9.  join                | Impact: 0.004369
+10.  .                   | Impact: 0.002704
+11.  please              | Impact: 0.002352
+12.  seeing              | Impact: 0.002312
+13.  m                   | Impact: 0.001924
+14.  your                | Impact: 0.001647
+15.  there               | Impact: 0.001530
+16.  .                   | Impact: 0.001487
+17.  for                 | Impact: 0.001305
+18.  were                | Impact: 0.001237
+19.  and                 | Impact: 0.000912
+20.  .                   | Impact: 0.000836
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.046648
+ 2.  .                   | Impact: -0.026908
+ 3.  en                  | Impact: -0.014847
+ 4.  .                   | Impact: -0.014319
+ 5. ron                  | Impact: -0.013617
+ 6.  forward             | Impact: -0.010543
+ 7.  new                 | Impact: -0.008434
+ 8.  .                   | Impact: -0.004554
+ 9.  look                | Impact: -0.003917
+10.  to                  | Impact: -0.003908
+11.  ,                   | Impact: -0.003427
+12.  :                   | Impact: -0.003226
+13.  lobby               | Impact: -0.003025
+14.  holidays            | Impact: -0.002971
+15. ful                  | Impact: -0.002879
+16.  january             | Impact: -0.002517
+17.  :                   | Impact: -0.002287
+18.  this                | Impact: -0.002223
+19.  we                  | Impact: -0.002208
+20.  friday              | Impact: -0.002039

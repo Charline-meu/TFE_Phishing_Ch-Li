@@ -1,0 +1,69 @@
+Sample 207
+==========
+
+Sample text preview: <!-- .style {color: #FF} --> Dear email user, Your account de-activation is being processed due to low storage quota of your mail box. Kindly CLICK HE...
+
+Model prediction: [2.108151e-04 9.997892e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.108505 → PHISHING
+ 2.  email               | Impact: 0.081124 → PHISHING
+ 3.  dear                | Impact: 0.078048 → PHISHING
+ 4.  account             | Impact: 0.055226 → PHISHING
+ 5.  kindly              | Impact: 0.054265 → PHISHING
+ 6.  your                | Impact: 0.053482 → PHISHING
+ 7.  account             | Impact: 0.034019 → PHISHING
+ 8.  files               | Impact: 0.031117 → PHISHING
+ 9.  your                | Impact: 0.030793 → PHISHING
+10.  update              | Impact: 0.028374 → PHISHING
+11.  here                | Impact: 0.024632 → PHISHING
+12.  storage             | Impact: 0.020651 → PHISHING
+13.  {                   | Impact: 0.020626 → PHISHING
+14.  box                 | Impact: 0.020048 → PHISHING
+15.  #                   | Impact: 0.019301 → PHISHING
+16.  mail                | Impact: 0.018704 → PHISHING
+17. mail                 | Impact: 0.018685 → PHISHING
+18.  email               | Impact: 0.017291 → PHISHING
+19.  upgrade             | Impact: 0.016829 → PHISHING
+20.  user                | Impact: 0.016563 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.108505
+ 2.  email               | Impact: 0.081124
+ 3.  dear                | Impact: 0.078048
+ 4.  account             | Impact: 0.055226
+ 5.  kindly              | Impact: 0.054265
+ 6.  your                | Impact: 0.053482
+ 7.  account             | Impact: 0.034019
+ 8.  files               | Impact: 0.031117
+ 9.  your                | Impact: 0.030793
+10.  update              | Impact: 0.028374
+11.  here                | Impact: 0.024632
+12.  storage             | Impact: 0.020651
+13.  {                   | Impact: 0.020626
+14.  box                 | Impact: 0.020048
+15.  #                   | Impact: 0.019301
+16.  mail                | Impact: 0.018704
+17. mail                 | Impact: 0.018685
+18.  email               | Impact: 0.017291
+19.  upgrade             | Impact: 0.016829
+20.  user                | Impact: 0.016563
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.011234
+ 2.  and                 | Impact: -0.007086
+ 3.  style               | Impact: -0.002779
+ 4.  final               | Impact: -0.001527
+ 5.  -                   | Impact: -0.000750
+ 6.  -                   | Impact: -0.000750
+ 7.  .                   | Impact: -0.000750
+ 8.  security            | Impact: -0.000519
+ 9.  team                | Impact: -0.000519
+10.  .                   | Impact: -0.000519
+11.  -                   | Impact: -0.000314
+12.                      | Impact: -0.000250
+13.  <                   | Impact: -0.000250
+14.  !                   | Impact: -0.000250

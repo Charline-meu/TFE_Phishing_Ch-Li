@@ -1,0 +1,75 @@
+Sample 160
+==========
+
+Sample text preview: FROM THE DESK OF: MR GEORGE KABORE AUDITING AND ACCOUNTING SECTION, AFRICAN DEVLOPMENT BANK ( A.D.B ) OUAGADOUGOU BURKINA-FASO,WEST AFRICA. ATTENTION ...
+
+Model prediction: [2.479966e-04 9.997520e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  designation         | Impact: 0.006804 → PHISHING
+ 2.  bank                | Impact: 0.006804 → PHISHING
+ 3.  account             | Impact: 0.006804 → PHISHING
+ 4.  .                   | Impact: 0.006804 → PHISHING
+ 5.  also                | Impact: 0.006560 → PHISHING
+ 6.  benefit             | Impact: 0.006560 → PHISHING
+ 7.  your                | Impact: 0.006560 → PHISHING
+ 8.  self                | Impact: 0.006560 → PHISHING
+ 9.  from                | Impact: 0.005671 → PHISHING
+10.  to                  | Impact: 0.005671 → PHISHING
+11.  your                | Impact: 0.005671 → PHISHING
+12.  own                 | Impact: 0.005671 → PHISHING
+13.  re                  | Impact: 0.005671 → PHISHING
+14. mit                  | Impact: 0.005671 → PHISHING
+15. ted                  | Impact: 0.005671 → PHISHING
+16.  to                  | Impact: 0.005234 → PHISHING
+17.  this                | Impact: 0.005234 → PHISHING
+18.  great               | Impact: 0.005234 → PHISHING
+19.  business            | Impact: 0.005234 → PHISHING
+20.  opportunity         | Impact: 0.005234 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  designation         | Impact: 0.006804
+ 2.  bank                | Impact: 0.006804
+ 3.  account             | Impact: 0.006804
+ 4.  .                   | Impact: 0.006804
+ 5.  also                | Impact: 0.006560
+ 6.  benefit             | Impact: 0.006560
+ 7.  your                | Impact: 0.006560
+ 8.  self                | Impact: 0.006560
+ 9.  from                | Impact: 0.005671
+10.  to                  | Impact: 0.005671
+11.  your                | Impact: 0.005671
+12.  own                 | Impact: 0.005671
+13.  re                  | Impact: 0.005671
+14. mit                  | Impact: 0.005671
+15. ted                  | Impact: 0.005671
+16.  to                  | Impact: 0.005234
+17.  this                | Impact: 0.005234
+18.  great               | Impact: 0.005234
+19.  business            | Impact: 0.005234
+20.  opportunity         | Impact: 0.005234
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  and                 | Impact: -0.000351
+ 2.  would               | Impact: -0.000351
+ 3.  eventually          | Impact: -0.000351
+ 4.  raise               | Impact: -0.000351
+ 5.  an                  | Impact: -0.000351
+ 6.  eye                 | Impact: -0.000351
+ 7.  brow                | Impact: -0.000351
+ 8.  on                  | Impact: -0.000351
+ 9.  my                  | Impact: -0.000351
+10.  side                | Impact: -0.000351
+11.  during              | Impact: -0.000351
+12.  the                 | Impact: -0.000351
+13.  time                | Impact: -0.000351
+14.  of                  | Impact: -0.000163
+15.  transfer            | Impact: -0.000163
+16.  because             | Impact: -0.000163
+17.  i                   | Impact: -0.000163
+18.  work                | Impact: -0.000163
+19.  in                  | Impact: -0.000163
+20.  this                | Impact: -0.000163

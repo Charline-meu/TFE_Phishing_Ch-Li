@@ -1,0 +1,75 @@
+Sample 314
+==========
+
+Sample text preview: Some Mails Are Not Reaching Your Mailbox, RESOLVE NOW. Dear Due to the recent mail account security breaches that affected most email account provider...
+
+Model prediction: [1.7641076e-04 9.9982363e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.082328 → PHISHING
+ 2.  your                | Impact: 0.042153 → PHISHING
+ 3.  affected            | Impact: 0.034966 → PHISHING
+ 4.  account             | Impact: 0.031853 → PHISHING
+ 5.  mail                | Impact: 0.030079 → PHISHING
+ 6.  account             | Impact: 0.028173 → PHISHING
+ 7.  recent              | Impact: 0.026092 → PHISHING
+ 8.  breach              | Impact: 0.025767 → PHISHING
+ 9.  ss                  | Impact: -0.024242 → LEGITIMATE
+10.  email               | Impact: 0.020688 → PHISHING
+11.  account             | Impact: 0.020688 → PHISHING
+12.  of                  | Impact: 0.020662 → PHISHING
+13.  your                | Impact: 0.020662 → PHISHING
+14.  notification        | Impact: 0.018989 → PHISHING
+15. l                    | Impact: -0.018032 → LEGITIMATE
+16.  resolve             | Impact: 0.017907 → PHISHING
+17.  your                | Impact: 0.017048 → PHISHING
+18.  account             | Impact: 0.017041 → PHISHING
+19.  this                | Impact: 0.016805 → PHISHING
+20.  due                 | Impact: 0.016498 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.082328
+ 2.  your                | Impact: 0.042153
+ 3.  affected            | Impact: 0.034966
+ 4.  account             | Impact: 0.031853
+ 5.  mail                | Impact: 0.030079
+ 6.  account             | Impact: 0.028173
+ 7.  recent              | Impact: 0.026092
+ 8.  breach              | Impact: 0.025767
+ 9.  email               | Impact: 0.020688
+10.  account             | Impact: 0.020688
+11.  of                  | Impact: 0.020662
+12.  your                | Impact: 0.020662
+13.  notification        | Impact: 0.018989
+14.  resolve             | Impact: 0.017907
+15.  your                | Impact: 0.017048
+16.  account             | Impact: 0.017041
+17.  this                | Impact: 0.016805
+18.  due                 | Impact: 0.016498
+19.  email               | Impact: 0.015107
+20.  your                | Impact: 0.014827
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ss                  | Impact: -0.024242
+ 2. l                    | Impact: -0.018032
+ 3.  we                  | Impact: -0.001862
+ 4.  updated             | Impact: -0.001862
+ 5.  our                 | Impact: -0.001862
+ 6.  experience          | Impact: -0.001507
+ 7.  with                | Impact: -0.001507
+ 8.  and                 | Impact: -0.000630
+ 9.  advised             | Impact: -0.000630
+10.  all                 | Impact: -0.000630
+11.  users               | Impact: -0.000630
+12.  /                   | Impact: -0.000630
+13.  mail                | Impact: -0.000104
+14. box                  | Impact: -0.000104
+15.  ,                   | Impact: -0.000104
+16.  .                   | Impact: -0.000101
+17.  and                 | Impact: -0.000078
+18.  off                 | Impact: -0.000078
+19.  our                 | Impact: -0.000078
+20.  mail                | Impact: -0.000078

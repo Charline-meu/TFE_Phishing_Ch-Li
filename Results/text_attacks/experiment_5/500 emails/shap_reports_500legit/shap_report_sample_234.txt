@@ -1,0 +1,75 @@
+Sample 234
+==========
+
+Sample text preview: How about rsync. It doesn't only work for remote files. MArk On Fri, -- at :, Niall O Broin wrote: > I have about G of data which I need to copy from ...
+
+Model prediction: [9.9978274e-01 2.1722853e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  it                  | Impact: 0.004438 → PHISHING
+ 2.  suggestions         | Impact: -0.003401 → LEGITIMATE
+ 3.  (                   | Impact: -0.002205 → LEGITIMATE
+ 4.  only                | Impact: 0.001701 → PHISHING
+ 5.  any                 | Impact: 0.001447 → PHISHING
+ 6.  -                   | Impact: -0.001128 → LEGITIMATE
+ 7.  >                   | Impact: -0.001113 → LEGITIMATE
+ 8.  -                   | Impact: -0.001064 → LEGITIMATE
+ 9.  .                   | Impact: -0.001056 → LEGITIMATE
+10.  '                   | Impact: 0.001037 → PHISHING
+11.  :                   | Impact: -0.000998 → LEGITIMATE
+12.  list                | Impact: -0.000961 → LEGITIMATE
+13.  :                   | Impact: -0.000914 → LEGITIMATE
+14. er                   | Impact: -0.000770 → LEGITIMATE
+15.  files               | Impact: -0.000764 → LEGITIMATE
+16.  .                   | Impact: -0.000653 → LEGITIMATE
+17.  wrote               | Impact: -0.000625 → LEGITIMATE
+18.  linux               | Impact: -0.000623 → LEGITIMATE
+19.  :                   | Impact: -0.000611 → LEGITIMATE
+20.  >                   | Impact: -0.000579 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  it                  | Impact: 0.004438
+ 2.  only                | Impact: 0.001701
+ 3.  any                 | Impact: 0.001447
+ 4.  '                   | Impact: 0.001037
+ 5.  link                | Impact: 0.000303
+ 6.  dir                 | Impact: 0.000263
+ 7.  other               | Impact: 0.000232
+ 8.  _                   | Impact: 0.000232
+ 9.  how                 | Impact: 0.000177
+10.  t                   | Impact: 0.000176
+11.  to                  | Impact: 0.000090
+12.  each                | Impact: 0.000090
+13.  file                | Impact: 0.000090
+14.  have                | Impact: 0.000089
+15.  two                 | Impact: 0.000089
+16.  directory           | Impact: 0.000089
+17.  entries             | Impact: 0.000089
+18.  i                   | Impact: 0.000089
+19.  it                  | Impact: 0.000089
+20.  '                   | Impact: 0.000089
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  suggestions         | Impact: -0.003401
+ 2.  (                   | Impact: -0.002205
+ 3.  -                   | Impact: -0.001128
+ 4.  >                   | Impact: -0.001113
+ 5.  -                   | Impact: -0.001064
+ 6.  .                   | Impact: -0.001056
+ 7.  :                   | Impact: -0.000998
+ 8.  list                | Impact: -0.000961
+ 9.  :                   | Impact: -0.000914
+10. er                   | Impact: -0.000770
+11.  files               | Impact: -0.000764
+12.  .                   | Impact: -0.000653
+13.  wrote               | Impact: -0.000625
+14.  linux               | Impact: -0.000623
+15.  :                   | Impact: -0.000611
+16.  >                   | Impact: -0.000579
+17.  maintain            | Impact: -0.000566
+18.  fr                  | Impact: -0.000563
+19.  :                   | Impact: -0.000538
+20.  data                | Impact: -0.000518

@@ -1,0 +1,75 @@
+Sample 286
+==========
+
+Sample text preview: As you know, Enron and Peoples jointly own enovate. Our group in Chicago is looking to manage some funds which belong to enovate. We had initially env...
+
+Model prediction: [9.9978667e-01 2.1336692e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  suggestions         | Impact: -0.012756 → LEGITIMATE
+ 2. ron                  | Impact: -0.011323 → LEGITIMATE
+ 3.  en                  | Impact: -0.009214 → LEGITIMATE
+ 4.  doc                 | Impact: -0.007336 → LEGITIMATE
+ 5.  .                   | Impact: -0.006266 → LEGITIMATE
+ 6.  .                   | Impact: -0.004724 → LEGITIMATE
+ 7.  input               | Impact: -0.004632 → LEGITIMATE
+ 8.  :                   | Impact: -0.003460 → LEGITIMATE
+ 9.  etc                 | Impact: -0.003409 → LEGITIMATE
+10.  direction           | Impact: -0.003367 → LEGITIMATE
+11.  :                   | Impact: -0.003205 → LEGITIMATE
+12. ron                  | Impact: -0.003153 → LEGITIMATE
+13.  subject             | Impact: -0.003121 → LEGITIMATE
+14.  expertise           | Impact: -0.002966 → LEGITIMATE
+15.  ?                   | Impact: -0.002836 → LEGITIMATE
+16.  ?                   | Impact: -0.002666 → LEGITIMATE
+17.  cc                  | Impact: -0.002592 → LEGITIMATE
+18.  correct             | Impact: -0.002519 → LEGITIMATE
+19.  en                  | Impact: -0.002417 → LEGITIMATE
+20. ron                  | Impact: -0.002417 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  some                | Impact: 0.001763
+ 2.  funds               | Impact: 0.001763
+ 3.  and                 | Impact: 0.001025
+ 4.  which               | Impact: 0.000682
+ 5.  belong              | Impact: 0.000682
+ 6.  to                  | Impact: 0.000682
+ 7.  me                  | Impact: 0.000355
+ 8.  when                | Impact: 0.000355
+ 9.  peoples             | Impact: 0.000295
+10.  jointly             | Impact: 0.000295
+11.  own                 | Impact: 0.000295
+12.  company             | Impact: 0.000044
+13.  agreement           | Impact: 0.000044
+14.  -                   | Impact: 0.000044
+15.  en                  | Impact: 0.000012
+16. ova                  | Impact: 0.000012
+17. te                   | Impact: 0.000012
+18.  the                 | Impact: 0.000012
+19.  other               | Impact: 0.000012
+20.  owner               | Impact: 0.000012
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  suggestions         | Impact: -0.012756
+ 2. ron                  | Impact: -0.011323
+ 3.  en                  | Impact: -0.009214
+ 4.  doc                 | Impact: -0.007336
+ 5.  .                   | Impact: -0.006266
+ 6.  .                   | Impact: -0.004724
+ 7.  input               | Impact: -0.004632
+ 8.  :                   | Impact: -0.003460
+ 9.  etc                 | Impact: -0.003409
+10.  direction           | Impact: -0.003367
+11.  :                   | Impact: -0.003205
+12. ron                  | Impact: -0.003153
+13.  subject             | Impact: -0.003121
+14.  expertise           | Impact: -0.002966
+15.  ?                   | Impact: -0.002836
+16.  ?                   | Impact: -0.002666
+17.  cc                  | Impact: -0.002592
+18.  correct             | Impact: -0.002519
+19.  en                  | Impact: -0.002417
+20. ron                  | Impact: -0.002417

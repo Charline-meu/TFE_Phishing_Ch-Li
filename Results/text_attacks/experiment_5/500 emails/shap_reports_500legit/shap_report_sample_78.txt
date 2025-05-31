@@ -1,0 +1,75 @@
+Sample 78
+=========
+
+Sample text preview: ---------------------- Forwarded by Vince J Kaminski/HOU/ECT on // : PM --------------------------- Pinnamaneni Krishnarao // : AM To: Vince J Kaminsk...
+
+Model prediction: [9.997038e-01 2.961804e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ec                  | Impact: -0.014110 → LEGITIMATE
+ 2.  @                   | Impact: 0.013022 → PHISHING
+ 3.  /                   | Impact: -0.010437 → LEGITIMATE
+ 4. rao                  | Impact: 0.010231 → PHISHING
+ 5.  /                   | Impact: -0.006677 → LEGITIMATE
+ 6. nam                  | Impact: 0.005677 → PHISHING
+ 7.  /                   | Impact: 0.004891 → PHISHING
+ 8.  krishna             | Impact: 0.004414 → PHISHING
+ 9.  ec                  | Impact: -0.003809 → LEGITIMATE
+10.  :                   | Impact: -0.003321 → LEGITIMATE
+11.  :                   | Impact: -0.003303 → LEGITIMATE
+12. t                    | Impact: -0.003259 → LEGITIMATE
+13.  :                   | Impact: -0.002382 → LEGITIMATE
+14. ed                   | Impact: -0.002301 → LEGITIMATE
+15.  vince               | Impact: -0.002275 → LEGITIMATE
+16.  /                   | Impact: 0.001960 → PHISHING
+17. ni                   | Impact: 0.001821 → PHISHING
+18.  forward             | Impact: -0.001716 → LEGITIMATE
+19.  pm                  | Impact: -0.001577 → LEGITIMATE
+20.  to                  | Impact: -0.001319 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  @                   | Impact: 0.013022
+ 2. rao                  | Impact: 0.010231
+ 3. nam                  | Impact: 0.005677
+ 4.  /                   | Impact: 0.004891
+ 5.  krishna             | Impact: 0.004414
+ 6.  /                   | Impact: 0.001960
+ 7. ni                   | Impact: 0.001821
+ 8.  pin                 | Impact: 0.001157
+ 9.  -                   | Impact: 0.000507
+10.  -                   | Impact: 0.000479
+11.  ho                  | Impact: 0.000361
+12.  -                   | Impact: 0.000301
+13. u                    | Impact: 0.000284
+14. t                    | Impact: 0.000284
+15.  -                   | Impact: 0.000129
+16.  -                   | Impact: 0.000075
+17.                      | Impact: 0.000068
+18.  -                   | Impact: 0.000064
+19.  -                   | Impact: 0.000054
+20.  -                   | Impact: 0.000048
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ec                  | Impact: -0.014110
+ 2.  /                   | Impact: -0.010437
+ 3.  /                   | Impact: -0.006677
+ 4.  ec                  | Impact: -0.003809
+ 5.  :                   | Impact: -0.003321
+ 6.  :                   | Impact: -0.003303
+ 7. t                    | Impact: -0.003259
+ 8.  :                   | Impact: -0.002382
+ 9. ed                   | Impact: -0.002301
+10.  vince               | Impact: -0.002275
+11.  forward             | Impact: -0.001716
+12.  pm                  | Impact: -0.001577
+13.  to                  | Impact: -0.001319
+14.  j                   | Impact: -0.001257
+15.  am                  | Impact: -0.001206
+16.  ec                  | Impact: -0.000984
+17.  -                   | Impact: -0.000909
+18.  vince               | Impact: -0.000904
+19.  -                   | Impact: -0.000885
+20.  kam                 | Impact: -0.000760

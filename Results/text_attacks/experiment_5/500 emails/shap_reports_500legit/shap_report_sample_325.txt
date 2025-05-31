@@ -1,0 +1,69 @@
+Sample 325
+==========
+
+Sample text preview: -----Original Message----- From: McLaughlin Jr., Errol Sent: Friday, December , : PM To: Subject: Week for Errol
+
+Model prediction: [9.9976259e-01 2.3745613e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  message             | Impact: 0.032705 → PHISHING
+ 2.  -                   | Impact: -0.019979 → LEGITIMATE
+ 3.  -                   | Impact: -0.013916 → LEGITIMATE
+ 4.  -                   | Impact: 0.012361 → PHISHING
+ 5.  -                   | Impact: -0.012209 → LEGITIMATE
+ 6.  :                   | Impact: -0.011426 → LEGITIMATE
+ 7.  jr                  | Impact: 0.009600 → PHISHING
+ 8.  original            | Impact: -0.008955 → LEGITIMATE
+ 9.  -                   | Impact: 0.006552 → PHISHING
+10.  week                | Impact: 0.005380 → PHISHING
+11.  :                   | Impact: -0.005259 → LEGITIMATE
+12.  sent                | Impact: 0.004731 → PHISHING
+13.  :                   | Impact: -0.004358 → LEGITIMATE
+14.  mclaughlin          | Impact: -0.004179 → LEGITIMATE
+15.  :                   | Impact: -0.003990 → LEGITIMATE
+16.  subject             | Impact: -0.002971 → LEGITIMATE
+17.  to                  | Impact: 0.002687 → PHISHING
+18.  er                  | Impact: -0.002569 → LEGITIMATE
+19.  ,                   | Impact: 0.002388 → PHISHING
+20.  friday              | Impact: -0.002292 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  message             | Impact: 0.032705
+ 2.  -                   | Impact: 0.012361
+ 3.  jr                  | Impact: 0.009600
+ 4.  -                   | Impact: 0.006552
+ 5.  week                | Impact: 0.005380
+ 6.  sent                | Impact: 0.004731
+ 7.  to                  | Impact: 0.002687
+ 8.  ,                   | Impact: 0.002388
+ 9.  -                   | Impact: 0.001777
+10.  for                 | Impact: 0.001437
+11.  from                | Impact: 0.001393
+12. rol                  | Impact: 0.000541
+13.  -                   | Impact: 0.000044
+14.                      | Impact: 0.000001
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.019979
+ 2.  -                   | Impact: -0.013916
+ 3.  -                   | Impact: -0.012209
+ 4.  :                   | Impact: -0.011426
+ 5.  original            | Impact: -0.008955
+ 6.  :                   | Impact: -0.005259
+ 7.  :                   | Impact: -0.004358
+ 8.  mclaughlin          | Impact: -0.004179
+ 9.  :                   | Impact: -0.003990
+10.  subject             | Impact: -0.002971
+11.  er                  | Impact: -0.002569
+12.  friday              | Impact: -0.002292
+13.  er                  | Impact: -0.001639
+14.  december            | Impact: -0.001283
+15.  -                   | Impact: -0.000826
+16.  .                   | Impact: -0.000743
+17. rol                  | Impact: -0.000729
+18.  :                   | Impact: -0.000544
+19.  -                   | Impact: -0.000530
+20.  -                   | Impact: -0.000357

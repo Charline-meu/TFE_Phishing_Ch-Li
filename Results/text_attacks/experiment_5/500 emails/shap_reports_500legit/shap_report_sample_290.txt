@@ -1,0 +1,73 @@
+Sample 290
+==========
+
+Sample text preview: URL: Date: --T::+: *Net news:* A devastating new computer virus is causing havoc around the world as it crashes computers, distributes confidential e-...
+
+Model prediction: [9.9953067e-01 4.6929668e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ur                  | Impact: -0.235121 → LEGITIMATE
+ 2.  date                | Impact: -0.124928 → LEGITIMATE
+ 3.  confidential        | Impact: 0.065913 → PHISHING
+ 4.  steals              | Impact: 0.057560 → PHISHING
+ 5.  :                   | Impact: -0.055875 → LEGITIMATE
+ 6.  details             | Impact: 0.054880 → PHISHING
+ 7. l                    | Impact: -0.054436 → LEGITIMATE
+ 8.  mail                | Impact: 0.053647 → PHISHING
+ 9.  card                | Impact: 0.053021 → PHISHING
+10.  credit              | Impact: 0.051062 → PHISHING
+11.  +                   | Impact: 0.046283 → PHISHING
+12.  :                   | Impact: -0.038252 → LEGITIMATE
+13.  e                   | Impact: 0.035924 → PHISHING
+14.  :                   | Impact: -0.034058 → LEGITIMATE
+15.  :                   | Impact: -0.028958 → LEGITIMATE
+16.  devastating         | Impact: 0.028893 → PHISHING
+17.  is                  | Impact: 0.026877 → PHISHING
+18.  virus               | Impact: 0.024794 → PHISHING
+19.  :                   | Impact: -0.023036 → LEGITIMATE
+20.  causing             | Impact: 0.022008 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  confidential        | Impact: 0.065913
+ 2.  steals              | Impact: 0.057560
+ 3.  details             | Impact: 0.054880
+ 4.  mail                | Impact: 0.053647
+ 5.  card                | Impact: 0.053021
+ 6.  credit              | Impact: 0.051062
+ 7.  +                   | Impact: 0.046283
+ 8.  e                   | Impact: 0.035924
+ 9.  devastating         | Impact: 0.028893
+10.  is                  | Impact: 0.026877
+11.  virus               | Impact: 0.024794
+12.  causing             | Impact: 0.022008
+13.  net                 | Impact: 0.018726
+14.  -                   | Impact: 0.016861
+15.  .                   | Impact: 0.013957
+16.  new                 | Impact: 0.013558
+17.  -                   | Impact: 0.012407
+18.  :                   | Impact: 0.012365
+19.  news                | Impact: 0.011271
+20.  distribute          | Impact: 0.011217
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ur                  | Impact: -0.235121
+ 2.  date                | Impact: -0.124928
+ 3.  :                   | Impact: -0.055875
+ 4. l                    | Impact: -0.054436
+ 5.  :                   | Impact: -0.038252
+ 6.  :                   | Impact: -0.034058
+ 7.  :                   | Impact: -0.028958
+ 8.  :                   | Impact: -0.023036
+ 9.  around              | Impact: -0.017659
+10.  -                   | Impact: -0.016110
+11.  ,                   | Impact: -0.016108
+12.  havoc               | Impact: -0.011358
+13.  a                   | Impact: -0.006762
+14.  crashes             | Impact: -0.006187
+15.  computers           | Impact: -0.006187
+16.  computer            | Impact: -0.003741
+17.                      | Impact: -0.001857
+18. s                    | Impact: -0.001260

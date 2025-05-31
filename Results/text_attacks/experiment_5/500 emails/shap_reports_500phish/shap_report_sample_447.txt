@@ -1,0 +1,75 @@
+Sample 447
+==========
+
+Sample text preview: GC GARDEN PARK IKOM ROAD. BAKASSI PENINSULA. (URGENT FUND TRANSFER) -------------------------------------------------- GREETINGS, IN ORDER TO TRANSFER...
+
+Model prediction: [2.410539e-04 9.997589e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  .                   | Impact: 0.007255 → PHISHING
+ 2.  account             | Impact: 0.007255 → PHISHING
+ 3.  is                  | Impact: 0.007255 → PHISHING
+ 4.  mr                  | Impact: 0.007255 → PHISHING
+ 5.  the                 | Impact: 0.006322 → PHISHING
+ 6.  owner               | Impact: 0.006322 → PHISHING
+ 7.  of                  | Impact: 0.006322 → PHISHING
+ 8.  this                | Impact: 0.006322 → PHISHING
+ 9.  .                   | Impact: 0.005927 → PHISHING
+10.  i                   | Impact: 0.005927 → PHISHING
+11.  am                  | Impact: 0.005927 → PHISHING
+12.  mr                  | Impact: 0.005927 → PHISHING
+13.  let                 | Impact: 0.005646 → PHISHING
+14.  me                  | Impact: 0.005646 → PHISHING
+15.  down                | Impact: 0.005646 → PHISHING
+16.  in                  | Impact: 0.005646 → PHISHING
+17.  this                | Impact: 0.005646 → PHISHING
+18.  business            | Impact: 0.005646 → PHISHING
+19.  you                 | Impact: 0.005646 → PHISHING
+20.  are                 | Impact: 0.005646 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.007255
+ 2.  account             | Impact: 0.007255
+ 3.  is                  | Impact: 0.007255
+ 4.  mr                  | Impact: 0.007255
+ 5.  the                 | Impact: 0.006322
+ 6.  owner               | Impact: 0.006322
+ 7.  of                  | Impact: 0.006322
+ 8.  this                | Impact: 0.006322
+ 9.  .                   | Impact: 0.005927
+10.  i                   | Impact: 0.005927
+11.  am                  | Impact: 0.005927
+12.  mr                  | Impact: 0.005927
+13.  let                 | Impact: 0.005646
+14.  me                  | Impact: 0.005646
+15.  down                | Impact: 0.005646
+16.  in                  | Impact: 0.005646
+17.  this                | Impact: 0.005646
+18.  business            | Impact: 0.005646
+19.  you                 | Impact: 0.005646
+20.  are                 | Impact: 0.005646
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  if                  | Impact: -0.000231
+ 2.  i                   | Impact: -0.000231
+ 3.  do                  | Impact: -0.000231
+ 4.  not                 | Impact: -0.000231
+ 5.  records             | Impact: -0.000231
+ 6.  i                   | Impact: -0.000231
+ 7.  discovered          | Impact: -0.000231
+ 8.  that                | Impact: -0.000231
+ 9.  re                  | Impact: -0.000231
+10. mit                  | Impact: -0.000231
+11. t                    | Impact: -0.000231
+12.  after               | Impact: -0.000231
+13.  going               | Impact: -0.000231
+14.  through             | Impact: -0.000231
+15.  some                | Impact: -0.000231
+16.  old                 | Impact: -0.000231
+17.  files               | Impact: -0.000231
+18.  in                  | Impact: -0.000231
+19.  the                 | Impact: -0.000231
+20.  i                   | Impact: -0.000000

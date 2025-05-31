@@ -1,0 +1,75 @@
+Phishing Sample 64
+==================
+
+Sample text preview: Goodday, I need your help, i am Sarah Mutete the wife of a Late minister during the reign of mobutu seseko, I came to know you in the course of my sea...
+
+Model prediction: [1.6701675e-04 9.9983299e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  money               | Impact: 0.019424 → PHISHING
+ 2.  congo               | Impact: 0.018532 → PHISHING
+ 3.  mrs                 | Impact: 0.016452 → PHISHING
+ 4.  this                | Impact: 0.013230 → PHISHING
+ 5.  republic            | Impact: 0.012988 → PHISHING
+ 6.  of                  | Impact: 0.012988 → PHISHING
+ 7.  country             | Impact: 0.011239 → PHISHING
+ 8.  in                  | Impact: 0.010995 → PHISHING
+ 9.  your                | Impact: 0.010995 → PHISHING
+10.  reign               | Impact: 0.008391 → PHISHING
+11.  of                  | Impact: 0.008391 → PHISHING
+12.  late                | Impact: 0.008149 → PHISHING
+13.  minister            | Impact: 0.008149 → PHISHING
+14.  the                 | Impact: 0.008090 → PHISHING
+15.  wife                | Impact: 0.008090 → PHISHING
+16.  late                | Impact: 0.007640 → PHISHING
+17.  president           | Impact: 0.007640 → PHISHING
+18.  with                | Impact: 0.007552 → PHISHING
+19.  my                  | Impact: 0.007552 → PHISHING
+20.  son                 | Impact: 0.007552 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.019424
+ 2.  congo               | Impact: 0.018532
+ 3.  mrs                 | Impact: 0.016452
+ 4.  this                | Impact: 0.013230
+ 5.  republic            | Impact: 0.012988
+ 6.  of                  | Impact: 0.012988
+ 7.  country             | Impact: 0.011239
+ 8.  in                  | Impact: 0.010995
+ 9.  your                | Impact: 0.010995
+10.  reign               | Impact: 0.008391
+11.  of                  | Impact: 0.008391
+12.  late                | Impact: 0.008149
+13.  minister            | Impact: 0.008149
+14.  the                 | Impact: 0.008090
+15.  wife                | Impact: 0.008090
+16.  late                | Impact: 0.007640
+17.  president           | Impact: 0.007640
+18.  with                | Impact: 0.007552
+19.  my                  | Impact: 0.007552
+20.  son                 | Impact: 0.007552
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.003445
+ 2.  count               | Impact: -0.003445
+ 3.  i                   | Impact: -0.003292
+ 4.  need                | Impact: -0.003292
+ 5.  honesty             | Impact: -0.002965
+ 6.  to                  | Impact: -0.002965
+ 7.  inter               | Impact: -0.002482
+ 8. gr                   | Impact: -0.002482
+ 9. ity                  | Impact: -0.002482
+10.  be                  | Impact: -0.002229
+11.  able                | Impact: -0.002229
+12.  .                   | Impact: -0.001895
+13.  on                  | Impact: -0.001802
+14.  your                | Impact: -0.001802
+15.  somebody            | Impact: -0.001175
+16.  to                  | Impact: -0.001175
+17.  that                | Impact: -0.001175
+18.  is                  | Impact: -0.001175
+19.  capable             | Impact: -0.001175
+20.  house               | Impact: -0.001093

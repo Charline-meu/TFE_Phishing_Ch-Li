@@ -1,0 +1,75 @@
+Phishing Sample 74
+==================
+
+Sample text preview: URL: Date: --T::+: Max Payne. Elite Force. Theif. Ico. Deux Ex. Oddworld. Medal of Honor. Baldur's Gate. The more recent Final Fantasy games. More and...
+
+Model prediction: [9.9978894e-01 2.1107396e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  medal               | Impact: 0.015467 → PHISHING
+ 2.  :                   | Impact: -0.010241 → LEGITIMATE
+ 3.  odd                 | Impact: -0.010142 → LEGITIMATE
+ 4.  game                | Impact: -0.009676 → LEGITIMATE
+ 5.  ur                  | Impact: -0.008689 → LEGITIMATE
+ 6.  explore             | Impact: 0.006922 → PHISHING
+ 7.  symbols             | Impact: -0.006567 → LEGITIMATE
+ 8.  :                   | Impact: -0.006518 → LEGITIMATE
+ 9.  designers           | Impact: -0.006072 → LEGITIMATE
+10.  +                   | Impact: 0.004830 → PHISHING
+11.  use                 | Impact: -0.004772 → LEGITIMATE
+12.  :                   | Impact: -0.003973 → LEGITIMATE
+13.  article             | Impact: -0.003877 → LEGITIMATE
+14.  .                   | Impact: -0.003845 → LEGITIMATE
+15.  games               | Impact: -0.003826 → LEGITIMATE
+16.  .                   | Impact: -0.003511 → LEGITIMATE
+17.  :                   | Impact: -0.003350 → LEGITIMATE
+18.  successive          | Impact: 0.003086 → PHISHING
+19.  gaming              | Impact: -0.002985 → LEGITIMATE
+20.  ic                  | Impact: -0.002941 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  medal               | Impact: 0.015467
+ 2.  explore             | Impact: 0.006922
+ 3.  +                   | Impact: 0.004830
+ 4.  successive          | Impact: 0.003086
+ 5.  audience            | Impact: 0.001724
+ 6.  each                | Impact: 0.001382
+ 7.  -                   | Impact: 0.001314
+ 8.  elite               | Impact: 0.001286
+ 9.  in                  | Impact: 0.001138
+10.  ,                   | Impact: 0.001028
+11.  advancement         | Impact: 0.000532
+12.  roots               | Impact: 0.000524
+13.  of                  | Impact: 0.000524
+14.  -                   | Impact: 0.000368
+15.  from                | Impact: 0.000362
+16.  an                  | Impact: 0.000362
+17.  these               | Impact: 0.000342
+18.  are                 | Impact: 0.000342
+19.  exciting            | Impact: 0.000342
+20.  times               | Impact: 0.000342
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.010241
+ 2.  odd                 | Impact: -0.010142
+ 3.  game                | Impact: -0.009676
+ 4.  ur                  | Impact: -0.008689
+ 5.  symbols             | Impact: -0.006567
+ 6.  :                   | Impact: -0.006518
+ 7.  designers           | Impact: -0.006072
+ 8.  use                 | Impact: -0.004772
+ 9.  :                   | Impact: -0.003973
+10.  article             | Impact: -0.003877
+11.  .                   | Impact: -0.003845
+12.  games               | Impact: -0.003826
+13.  .                   | Impact: -0.003511
+14.  :                   | Impact: -0.003350
+15.  gaming              | Impact: -0.002985
+16.  ic                  | Impact: -0.002941
+17.  of                  | Impact: -0.002861
+18. ur                   | Impact: -0.002757
+19. l                    | Impact: -0.002489
+20.  .                   | Impact: -0.002391

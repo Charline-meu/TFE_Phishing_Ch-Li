@@ -1,0 +1,75 @@
+Sample 67
+=========
+
+Sample text preview: Mr. Hall: Attached is a revised Gas Purchase Agreement and Confirm for your review. I have completed the confirm, and revised Sections . and .. If you...
+
+Model prediction: [9.9978620e-01 2.1384901e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.043482 → PHISHING
+ 2.  execution           | Impact: 0.034701 → PHISHING
+ 3.  gas                 | Impact: -0.027681 → LEGITIMATE
+ 4.  purchase            | Impact: -0.027681 → LEGITIMATE
+ 5.  agreement           | Impact: -0.027681 → LEGITIMATE
+ 6.  regards             | Impact: 0.023913 → PHISHING
+ 7.  debra               | Impact: -0.023451 → LEGITIMATE
+ 8.  upon                | Impact: 0.021766 → PHISHING
+ 9.  final               | Impact: 0.021766 → PHISHING
+10.  hall                | Impact: -0.021762 → LEGITIMATE
+11.  :                   | Impact: -0.021762 → LEGITIMATE
+12.  e                   | Impact: -0.021338 → LEGITIMATE
+13. ron                  | Impact: -0.019885 → LEGITIMATE
+14.  records             | Impact: 0.018107 → PHISHING
+15.  en                  | Impact: -0.016776 → LEGITIMATE
+16. b                    | Impact: -0.016552 → LEGITIMATE
+17.  best                | Impact: 0.014109 → PHISHING
+18.  a                   | Impact: -0.012501 → LEGITIMATE
+19.  revised             | Impact: -0.012501 → LEGITIMATE
+20.  texas               | Impact: 0.012404 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.043482
+ 2.  execution           | Impact: 0.034701
+ 3.  regards             | Impact: 0.023913
+ 4.  upon                | Impact: 0.021766
+ 5.  final               | Impact: 0.021766
+ 6.  records             | Impact: 0.018107
+ 7.  best                | Impact: 0.014109
+ 8.  texas               | Impact: 0.012404
+ 9.  send                | Impact: 0.010698
+10.  will                | Impact: 0.010470
+11.  i                   | Impact: 0.009739
+12.  street              | Impact: 0.008630
+13.  phone               | Impact: 0.007570
+14.  ,                   | Impact: 0.007494
+15.  an                  | Impact: 0.007370
+16.  sign                | Impact: 0.006922
+17.  the                 | Impact: 0.006922
+18.  contract            | Impact: 0.006922
+19.  ,                   | Impact: 0.006359
+20.  fa                  | Impact: 0.005738
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  gas                 | Impact: -0.027681
+ 2.  purchase            | Impact: -0.027681
+ 3.  agreement           | Impact: -0.027681
+ 4.  debra               | Impact: -0.023451
+ 5.  hall                | Impact: -0.021762
+ 6.  :                   | Impact: -0.021762
+ 7.  e                   | Impact: -0.021338
+ 8. ron                  | Impact: -0.019885
+ 9.  en                  | Impact: -0.016776
+10. b                    | Impact: -0.016552
+11.  a                   | Impact: -0.012501
+12.  revised             | Impact: -0.012501
+13.  houston             | Impact: -0.012027
+14.  -                   | Impact: -0.006981
+15.  .                   | Impact: -0.006948
+16.  revised             | Impact: -0.006811
+17.  sections            | Impact: -0.006811
+18.  north               | Impact: -0.006620
+19.  america             | Impact: -0.006620
+20.  corp                | Impact: -0.006620

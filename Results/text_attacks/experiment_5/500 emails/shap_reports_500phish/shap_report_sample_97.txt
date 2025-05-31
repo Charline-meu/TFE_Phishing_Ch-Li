@@ -1,0 +1,75 @@
+Sample 97
+=========
+
+Sample text preview: Al Bahar & Associates Advocates & Legal Consultants Subject: Debt Collection Services Dear Sir / Madam Al Bahar & Associates is a U.A.E based Law Firm...
+
+Model prediction: [2.7093577e-04 9.9972910e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dubai               | Impact: 0.043886 → PHISHING
+ 2.  madam               | Impact: 0.034885 → PHISHING
+ 3.  al                  | Impact: 0.024192 → PHISHING
+ 4.  money               | Impact: 0.023920 → PHISHING
+ 5.  sir                 | Impact: 0.022635 → PHISHING
+ 6.  /                   | Impact: 0.020351 → PHISHING
+ 7.  u                   | Impact: 0.020295 → PHISHING
+ 8.  u                   | Impact: 0.017347 → PHISHING
+ 9.  email               | Impact: 0.015518 → PHISHING
+10.  client              | Impact: 0.014912 → PHISHING
+11.  nationwide          | Impact: 0.014912 → PHISHING
+12.  &                   | Impact: 0.014912 → PHISHING
+13.  worldwide           | Impact: 0.014912 → PHISHING
+14.  money               | Impact: 0.012379 → PHISHING
+15.  our                 | Impact: 0.011419 → PHISHING
+16.  debt                | Impact: 0.011419 → PHISHING
+17.  baha                | Impact: 0.011390 → PHISHING
+18. r                    | Impact: 0.011390 → PHISHING
+19.  &                   | Impact: 0.011291 → PHISHING
+20.  associates          | Impact: 0.011291 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dubai               | Impact: 0.043886
+ 2.  madam               | Impact: 0.034885
+ 3.  al                  | Impact: 0.024192
+ 4.  money               | Impact: 0.023920
+ 5.  sir                 | Impact: 0.022635
+ 6.  /                   | Impact: 0.020351
+ 7.  u                   | Impact: 0.020295
+ 8.  u                   | Impact: 0.017347
+ 9.  email               | Impact: 0.015518
+10.  client              | Impact: 0.014912
+11.  nationwide          | Impact: 0.014912
+12.  &                   | Impact: 0.014912
+13.  worldwide           | Impact: 0.014912
+14.  money               | Impact: 0.012379
+15.  our                 | Impact: 0.011419
+16.  debt                | Impact: 0.011419
+17.  baha                | Impact: 0.011390
+18. r                    | Impact: 0.011390
+19.  &                   | Impact: 0.011291
+20.  associates          | Impact: 0.011291
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  p                   | Impact: -0.006651
+ 2.  .                   | Impact: -0.003723
+ 3.  -                   | Impact: -0.003336
+ 4.  -                   | Impact: -0.003336
+ 5.  (                   | Impact: -0.003142
+ 6.  advocates           | Impact: -0.003142
+ 7.  &                   | Impact: -0.003142
+ 8.  a                   | Impact: -0.002588
+ 9.  .                   | Impact: -0.002588
+10.  legal               | Impact: -0.002200
+11.  consultants         | Impact: -0.002200
+12.  )                   | Impact: -0.002200
+13.  referee             | Impact: -0.001217
+14. ing                  | Impact: -0.001217
+15.  to                  | Impact: -0.001217
+16.  the                 | Impact: -0.001217
+17.                      | Impact: -0.001171
+18.  court               | Impact: -0.000866
+19.  of                  | Impact: -0.000866
+20.  law                 | Impact: -0.000866

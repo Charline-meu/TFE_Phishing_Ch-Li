@@ -1,0 +1,75 @@
+Sample 269
+==========
+
+Sample text preview: From: Mrs.Ruthanne Ruby Martinez, Mutual Trust Blessings to you. I am the above named person but now undergoing medical treatment now. I am married to...
+
+Model prediction: [1.8592113e-04 9.9981409e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ben                 | Impact: 0.037304 → PHISHING
+ 2. ef                   | Impact: 0.037304 → PHISHING
+ 3. icia                 | Impact: 0.030166 → PHISHING
+ 4. ry                   | Impact: 0.030166 → PHISHING
+ 5.  of                  | Impact: 0.018154 → PHISHING
+ 6.  this                | Impact: 0.018154 → PHISHING
+ 7.  fund                | Impact: 0.018154 → PHISHING
+ 8.  .                   | Impact: 0.018154 → PHISHING
+ 9.  you                 | Impact: 0.013346 → PHISHING
+10.  a                   | Impact: 0.013346 → PHISHING
+11.  letter              | Impact: 0.013346 → PHISHING
+12.  of                  | Impact: 0.013346 → PHISHING
+13.  that                | Impact: 0.008260 → PHISHING
+14.  will                | Impact: 0.008260 → PHISHING
+15.  inherit             | Impact: 0.008260 → PHISHING
+16.  this                | Impact: 0.008260 → PHISHING
+17.  money               | Impact: 0.008260 → PHISHING
+18.  authority           | Impact: 0.006162 → PHISHING
+19.  that                | Impact: 0.006162 → PHISHING
+20.  will                | Impact: 0.006162 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ben                 | Impact: 0.037304
+ 2. ef                   | Impact: 0.037304
+ 3. icia                 | Impact: 0.030166
+ 4. ry                   | Impact: 0.030166
+ 5.  of                  | Impact: 0.018154
+ 6.  this                | Impact: 0.018154
+ 7.  fund                | Impact: 0.018154
+ 8.  .                   | Impact: 0.018154
+ 9.  you                 | Impact: 0.013346
+10.  a                   | Impact: 0.013346
+11.  letter              | Impact: 0.013346
+12.  of                  | Impact: 0.013346
+13.  that                | Impact: 0.008260
+14.  will                | Impact: 0.008260
+15.  inherit             | Impact: 0.008260
+16.  this                | Impact: 0.008260
+17.  money               | Impact: 0.008260
+18.  authority           | Impact: 0.006162
+19.  that                | Impact: 0.006162
+20.  will                | Impact: 0.006162
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.000099
+ 2.  took                | Impact: -0.000099
+ 3.  this                | Impact: -0.000099
+ 4.  decision            | Impact: -0.000099
+ 5.  because             | Impact: -0.000099
+ 6.  i                   | Impact: -0.000099
+ 7.  don                 | Impact: -0.000099
+ 8.  `                   | Impact: -0.000099
+ 9.  is                  | Impact: -0.000054
+10.  the                 | Impact: -0.000054
+11.  hand                | Impact: -0.000054
+12.  that                | Impact: -0.000054
+13.  give                | Impact: -0.000054
+14. th                   | Impact: -0.000054
+15.  .                   | Impact: -0.000054
+16.  any                 | Impact: -0.000001
+17.  delay               | Impact: -0.000001
+18.  in                  | Impact: -0.000001
+19.  your                | Impact: -0.000001
+20.  reply               | Impact: -0.000001

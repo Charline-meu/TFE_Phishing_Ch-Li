@@ -1,0 +1,75 @@
+Sample 409
+==========
+
+Sample text preview: Hello Dear, Greastest compliments and how are you? Please let me introduce myself to you. I am Lt. Gen Dan Broswer , a former Director of Logistic and...
+
+Model prediction: [1.5132045e-04 9.9984860e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.031601 → PHISHING
+ 2.  liberia             | Impact: 0.025143 → PHISHING
+ 3.  country             | Impact: 0.020152 → PHISHING
+ 4.  hello               | Impact: 0.016245 → PHISHING
+ 5.  lt                  | Impact: 0.014012 → PHISHING
+ 6.  you                 | Impact: 0.011226 → PHISHING
+ 7.  money               | Impact: 0.010851 → PHISHING
+ 8.  for                 | Impact: 0.010851 → PHISHING
+ 9.  your                | Impact: 0.010055 → PHISHING
+10.  humble              | Impact: 0.010055 → PHISHING
+11.  of                  | Impact: 0.008868 → PHISHING
+12.  liberia             | Impact: 0.008868 → PHISHING
+13.                      | Impact: 0.008843 → PHISHING
+14.  from                | Impact: 0.008625 → PHISHING
+15.  you                 | Impact: 0.008625 → PHISHING
+16.  soon                | Impact: 0.007824 → PHISHING
+17.  utilize             | Impact: 0.007757 → PHISHING
+18.  this                | Impact: 0.007757 → PHISHING
+19.  this                | Impact: 0.007628 → PHISHING
+20.  fund                | Impact: 0.007628 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.031601
+ 2.  liberia             | Impact: 0.025143
+ 3.  country             | Impact: 0.020152
+ 4.  hello               | Impact: 0.016245
+ 5.  lt                  | Impact: 0.014012
+ 6.  you                 | Impact: 0.011226
+ 7.  money               | Impact: 0.010851
+ 8.  for                 | Impact: 0.010851
+ 9.  your                | Impact: 0.010055
+10.  humble              | Impact: 0.010055
+11.  of                  | Impact: 0.008868
+12.  liberia             | Impact: 0.008868
+13.                      | Impact: 0.008843
+14.  from                | Impact: 0.008625
+15.  you                 | Impact: 0.008625
+16.  soon                | Impact: 0.007824
+17.  utilize             | Impact: 0.007757
+18.  this                | Impact: 0.007757
+19.  this                | Impact: 0.007628
+20.  fund                | Impact: 0.007628
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  heat                | Impact: -0.005051
+ 2.  of                  | Impact: -0.005051
+ 3.  dan                 | Impact: -0.004339
+ 4.  usd                 | Impact: -0.003879
+ 5.  paragraph           | Impact: -0.003259
+ 6.  above               | Impact: -0.003259
+ 7.  .                   | Impact: -0.003259
+ 8.  bros                | Impact: -0.002871
+ 9. wer                  | Impact: -0.002871
+10.  myself              | Impact: -0.002492
+11.  to                  | Impact: -0.002492
+12.  arms                | Impact: -0.001895
+13.  and                 | Impact: -0.001895
+14.  looking             | Impact: -0.001882
+15.  forward             | Impact: -0.001882
+16.  let                 | Impact: -0.001824
+17.  as                  | Impact: -0.001433
+18.  stated              | Impact: -0.001433
+19.  in                  | Impact: -0.001433
+20.  the                 | Impact: -0.001433

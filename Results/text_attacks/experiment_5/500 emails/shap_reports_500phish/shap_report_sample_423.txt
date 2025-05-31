@@ -1,0 +1,75 @@
+Sample 423
+==========
+
+Sample text preview: NOTE: THIS IS AN ADVERTISEMENT FOR LEGAL TV DE-SCRAMBLER IF YOU HAVE NO INTEREST IN THIS INFORMATION PLEASE CLICK DELETE NOW. THANK YOU-- LEGAL CABLE ...
+
+Model prediction: [0.01006248 0.98993754]
+Predicted class: PHISHING with 0.9899 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  we                  | Impact: 0.041783 → PHISHING
+ 2.  send                | Impact: 0.041783 → PHISHING
+ 3.  you                 | Impact: 0.041783 → PHISHING
+ 4.  :                   | Impact: 0.041783 → PHISHING
+ 5.  e                   | Impact: 0.032686 → PHISHING
+ 6.  -                   | Impact: 0.032686 → PHISHING
+ 7.  z                   | Impact: 0.032686 → PHISHING
+ 8.  to                  | Impact: 0.032686 → PHISHING
+ 9.  this                | Impact: 0.016869 → PHISHING
+10.  information         | Impact: 0.016869 → PHISHING
+11.  please              | Impact: 0.016869 → PHISHING
+12.  click               | Impact: 0.016869 → PHISHING
+13.  have                | Impact: 0.014358 → PHISHING
+14.  no                  | Impact: 0.014358 → PHISHING
+15.  interest            | Impact: 0.014358 → PHISHING
+16.  in                  | Impact: 0.014358 → PHISHING
+17.  del                 | Impact: 0.012061 → PHISHING
+18. ete                  | Impact: 0.012061 → PHISHING
+19.  now                 | Impact: 0.012061 → PHISHING
+20.  .                   | Impact: 0.012061 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  we                  | Impact: 0.041783
+ 2.  send                | Impact: 0.041783
+ 3.  you                 | Impact: 0.041783
+ 4.  :                   | Impact: 0.041783
+ 5.  e                   | Impact: 0.032686
+ 6.  -                   | Impact: 0.032686
+ 7.  z                   | Impact: 0.032686
+ 8.  to                  | Impact: 0.032686
+ 9.  this                | Impact: 0.016869
+10.  information         | Impact: 0.016869
+11.  please              | Impact: 0.016869
+12.  click               | Impact: 0.016869
+13.  have                | Impact: 0.014358
+14.  no                  | Impact: 0.014358
+15.  interest            | Impact: 0.014358
+16.  in                  | Impact: 0.014358
+17.  del                 | Impact: 0.012061
+18. ete                  | Impact: 0.012061
+19.  now                 | Impact: 0.012061
+20.  .                   | Impact: 0.012061
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  tc                  | Impact: -0.003473
+ 2. i                    | Impact: -0.003473
+ 3.  ,                   | Impact: -0.003473
+ 4.  jar                 | Impact: -0.003473
+ 5. rod                  | Impact: -0.003473
+ 6.  and                 | Impact: -0.003473
+ 7.  satellite           | Impact: -0.003473
+ 8.  systems             | Impact: -0.003473
+ 9.  ?                   | Impact: -0.003473
+10.  is                  | Impact: -0.003473
+11.  yes                 | Impact: -0.003473
+12.  .                   | Impact: -0.003473
+13.  a                   | Impact: -0.003473
+14.  :                   | Impact: -0.003473
+15.  the                 | Impact: -0.003473
+16.  answer              | Impact: -0.003473
+17.  frequently          | Impact: -0.002908
+18.  asked               | Impact: -0.002908
+19.  questions           | Impact: -0.002908
+20.  -                   | Impact: -0.002908

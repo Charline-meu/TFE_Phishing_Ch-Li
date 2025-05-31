@@ -1,0 +1,75 @@
+Sample 240
+==========
+
+Sample text preview: FROM THE DESK OF MR.PATRICK JOMBO.AUDITING AND ACCOUNTING MANAGER,INTERNATIONAL BANK OF AFRICA,OUAGADOUGOU-BURKINA FASO,WEST AFRICA. (READ CAREFULLY A...
+
+Model prediction: [1.947511e-04 9.998053e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  fund                | Impact: 0.012843 → PHISHING
+ 2.  in                  | Impact: 0.012843 → PHISHING
+ 3.  your                | Impact: 0.012843 → PHISHING
+ 4.  account             | Impact: 0.012843 → PHISHING
+ 5.  to                  | Impact: 0.009747 → PHISHING
+ 6.  your                | Impact: 0.009747 → PHISHING
+ 7.  country             | Impact: 0.009747 → PHISHING
+ 8.  for                 | Impact: 0.009747 → PHISHING
+ 9.  and                 | Impact: 0.009483 → PHISHING
+10.  dear                | Impact: 0.008577 → PHISHING
+11.  friend              | Impact: 0.008577 → PHISHING
+12.  ,                   | Impact: 0.008577 → PHISHING
+13.  please              | Impact: 0.007276 → PHISHING
+14.  contact             | Impact: 0.007276 → PHISHING
+15.  me                  | Impact: 0.007276 → PHISHING
+16.  immediately         | Impact: 0.007276 → PHISHING
+17.  patrick             | Impact: 0.006832 → PHISHING
+18.  jo                  | Impact: 0.006832 → PHISHING
+19. mbo                  | Impact: 0.006832 → PHISHING
+20.  in                  | Impact: 0.006525 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  fund                | Impact: 0.012843
+ 2.  in                  | Impact: 0.012843
+ 3.  your                | Impact: 0.012843
+ 4.  account             | Impact: 0.012843
+ 5.  to                  | Impact: 0.009747
+ 6.  your                | Impact: 0.009747
+ 7.  country             | Impact: 0.009747
+ 8.  for                 | Impact: 0.009747
+ 9.  and                 | Impact: 0.009483
+10.  dear                | Impact: 0.008577
+11.  friend              | Impact: 0.008577
+12.  ,                   | Impact: 0.008577
+13.  please              | Impact: 0.007276
+14.  contact             | Impact: 0.007276
+15.  me                  | Impact: 0.007276
+16.  immediately         | Impact: 0.007276
+17.  patrick             | Impact: 0.006832
+18.  jo                  | Impact: 0.006832
+19. mbo                  | Impact: 0.006832
+20.  in                  | Impact: 0.006525
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  while               | Impact: -0.001440
+ 2.  %                   | Impact: -0.001440
+ 3.  will                | Impact: -0.001440
+ 4.  be                  | Impact: -0.001440
+ 5.  moreover            | Impact: -0.000939
+ 6.  ,                   | Impact: -0.000939
+ 7.  cl                  | Impact: -0.000797
+ 8. ari                  | Impact: -0.000797
+ 9. fication             | Impact: -0.000797
+10. s                    | Impact: -0.000797
+11.  .                   | Impact: -0.000797
+12.  the                 | Impact: -0.000348
+13.  banking             | Impact: -0.000348
+14.  law                 | Impact: -0.000348
+15.  and                 | Impact: -0.000348
+16.  gui                 | Impact: -0.000348
+17. dling                | Impact: -0.000348
+18.  here                | Impact: -0.000348
+19.  st                  | Impact: -0.000348
+20. ip                   | Impact: -0.000348

@@ -1,0 +1,75 @@
+Phishing Sample 79
+==================
+
+Sample text preview: Email Address: Telephone number: Dear friend, I wish to begin by way of introduction. I am William Mabaye the first and only surviving son of late Tut...
+
+Model prediction: [1.5315397e-04 9.9984682e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  truly               | Impact: 0.025154 → PHISHING
+ 2.  yours               | Impact: 0.024673 → PHISHING
+ 3.  family              | Impact: 0.014321 → PHISHING
+ 4.  letter              | Impact: 0.013792 → PHISHING
+ 5.  to                  | Impact: 0.013792 → PHISHING
+ 6.  you                 | Impact: 0.013792 → PHISHING
+ 7.  you                 | Impact: 0.009927 → PHISHING
+ 8.  to                  | Impact: 0.009927 → PHISHING
+ 9.  my                  | Impact: 0.009644 → PHISHING
+10.  hence               | Impact: 0.008167 → PHISHING
+11.  this                | Impact: 0.008167 → PHISHING
+12.  in                  | Impact: 0.007763 → PHISHING
+13.  your                | Impact: 0.007763 → PHISHING
+14.  country             | Impact: 0.007763 → PHISHING
+15.  providing           | Impact: 0.007686 → PHISHING
+16.  me                  | Impact: 0.007686 → PHISHING
+17.  with                | Impact: 0.006921 → PHISHING
+18.  your                | Impact: 0.006921 → PHISHING
+19.  this                | Impact: 0.006802 → PHISHING
+20.  money               | Impact: 0.006802 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  truly               | Impact: 0.025154
+ 2.  yours               | Impact: 0.024673
+ 3.  family              | Impact: 0.014321
+ 4.  letter              | Impact: 0.013792
+ 5.  to                  | Impact: 0.013792
+ 6.  you                 | Impact: 0.013792
+ 7.  you                 | Impact: 0.009927
+ 8.  to                  | Impact: 0.009927
+ 9.  my                  | Impact: 0.009644
+10.  hence               | Impact: 0.008167
+11.  this                | Impact: 0.008167
+12.  in                  | Impact: 0.007763
+13.  your                | Impact: 0.007763
+14.  country             | Impact: 0.007763
+15.  providing           | Impact: 0.007686
+16.  me                  | Impact: 0.007686
+17.  with                | Impact: 0.006921
+18.  your                | Impact: 0.006921
+19.  this                | Impact: 0.006802
+20.  money               | Impact: 0.006802
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  mod                 | Impact: -0.003970
+ 2. ali                  | Impact: -0.003970
+ 3. ties                 | Impact: -0.003970
+ 4.  detail              | Impact: -0.003484
+ 5.  the                 | Impact: -0.003484
+ 6.  by                  | Impact: -0.002352
+ 7.  way                 | Impact: -0.002352
+ 8.  of                  | Impact: -0.002352
+ 9.  introduction        | Impact: -0.002352
+10.  .                   | Impact: -0.001720
+11.  through             | Impact: -0.001058
+12.  the                 | Impact: -0.001058
+13.  above               | Impact: -0.001058
+14.  email               | Impact: -0.001058
+15.  i                   | Impact: -0.001014
+16.  wish                | Impact: -0.001014
+17.  to                  | Impact: -0.001014
+18.  begin               | Impact: -0.001014
+19.  your                | Impact: -0.000903
+20.  reply               | Impact: -0.000903

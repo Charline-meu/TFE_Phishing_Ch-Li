@@ -1,0 +1,75 @@
+Phishing Sample 49
+==================
+
+Sample text preview: On Sep , RossO wrote: > John Waylan (who was interviewed in Wired a few years back) pulled out a > . second run in the quarter mile (mph), on a batter...
+
+Model prediction: [9.9974626e-01 2.5371549e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mph                 | Impact: -0.006364 → LEGITIMATE
+ 2.  >                   | Impact: -0.004730 → LEGITIMATE
+ 3.  ago                 | Impact: 0.002958 → PHISHING
+ 4.  sec                 | Impact: -0.002712 → LEGITIMATE
+ 5.  topping             | Impact: -0.002682 → LEGITIMATE
+ 6.  .                   | Impact: -0.002291 → LEGITIMATE
+ 7.  second              | Impact: 0.001748 → PHISHING
+ 8.  huh                 | Impact: -0.001641 → LEGITIMATE
+ 9.  >                   | Impact: -0.001597 → LEGITIMATE
+10.  of                  | Impact: 0.001302 → PHISHING
+11.  years               | Impact: 0.001302 → PHISHING
+12.  he                  | Impact: 0.001219 → PHISHING
+13.  mile                | Impact: 0.001017 → PHISHING
+14.  run                 | Impact: 0.000989 → PHISHING
+15.  you                 | Impact: -0.000943 → LEGITIMATE
+16.  shooting            | Impact: 0.000930 → PHISHING
+17.  ?                   | Impact: 0.000841 → PHISHING
+18.  he                  | Impact: 0.000838 → PHISHING
+19.  expects             | Impact: 0.000838 → PHISHING
+20.  for                 | Impact: 0.000824 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ago                 | Impact: 0.002958
+ 2.  second              | Impact: 0.001748
+ 3.  of                  | Impact: 0.001302
+ 4.  years               | Impact: 0.001302
+ 5.  he                  | Impact: 0.001219
+ 6.  mile                | Impact: 0.001017
+ 7.  run                 | Impact: 0.000989
+ 8.  shooting            | Impact: 0.000930
+ 9.  ?                   | Impact: 0.000841
+10.  he                  | Impact: 0.000838
+11.  expects             | Impact: 0.000838
+12.  for                 | Impact: 0.000824
+13.  .                   | Impact: 0.000725
+14.  out                 | Impact: 0.000696
+15.  ?                   | Impact: 0.000694
+16.  '                   | Impact: 0.000687
+17.  in                  | Impact: 0.000682
+18.  enough              | Impact: 0.000644
+19.  be                  | Impact: 0.000536
+20.  energy              | Impact: 0.000503
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  mph                 | Impact: -0.006364
+ 2.  >                   | Impact: -0.004730
+ 3.  sec                 | Impact: -0.002712
+ 4.  topping             | Impact: -0.002682
+ 5.  .                   | Impact: -0.002291
+ 6.  huh                 | Impact: -0.001641
+ 7.  >                   | Impact: -0.001597
+ 8.  you                 | Impact: -0.000943
+ 9. itors                | Impact: -0.000814
+10.  l                   | Impact: -0.000753
+11.  that                | Impact: -0.000735
+12.  -                   | Impact: -0.000722
+13.  adam                | Impact: -0.000722
+14.  can                 | Impact: -0.000711
+15.  /                   | Impact: -0.000689
+16.  cap                 | Impact: -0.000683
+17. ac                   | Impact: -0.000683
+18.  .                   | Impact: -0.000629
+19.  "                   | Impact: -0.000612
+20.  duncan              | Impact: -0.000612

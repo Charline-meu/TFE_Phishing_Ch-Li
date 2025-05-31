@@ -1,0 +1,75 @@
+Sample 357
+==========
+
+Sample text preview: Password will expire in days. Click Here< To Validate E-mail Thank you, Copyright © - CONFIDENTIALITY NOTICE: This e-mail is intended only for the per...
+
+Model prediction: [0.00139506 0.99860495]
+Predicted class: PHISHING with 0.9986 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  copyright           | Impact: 0.057071 → PHISHING
+ 2.  ©                   | Impact: 0.057071 → PHISHING
+ 3.  visit               | Impact: 0.046084 → PHISHING
+ 4.  -                   | Impact: 0.034892 → PHISHING
+ 5.  click               | Impact: 0.032226 → PHISHING
+ 6.  here                | Impact: 0.031057 → PHISHING
+ 7.  fallon              | Impact: -0.028683 → LEGITIMATE
+ 8.  was                 | Impact: -0.028683 → LEGITIMATE
+ 9.  one                 | Impact: -0.028683 → LEGITIMATE
+10.  of                  | Impact: -0.028683 → LEGITIMATE
+11.  <                   | Impact: 0.020192 → PHISHING
+12.  to                  | Impact: 0.020192 → PHISHING
+13.  ex                  | Impact: 0.019951 → PHISHING
+14. pire                 | Impact: 0.019951 → PHISHING
+15.  you                 | Impact: 0.018255 → PHISHING
+16.  mail                | Impact: 0.017195 → PHISHING
+17.  thank               | Impact: 0.017195 → PHISHING
+18.  information         | Impact: 0.014008 → PHISHING
+19.  -                   | Impact: 0.012602 → PHISHING
+20.  mail                | Impact: 0.012602 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  copyright           | Impact: 0.057071
+ 2.  ©                   | Impact: 0.057071
+ 3.  visit               | Impact: 0.046084
+ 4.  -                   | Impact: 0.034892
+ 5.  click               | Impact: 0.032226
+ 6.  here                | Impact: 0.031057
+ 7.  <                   | Impact: 0.020192
+ 8.  to                  | Impact: 0.020192
+ 9.  ex                  | Impact: 0.019951
+10. pire                 | Impact: 0.019951
+11.  you                 | Impact: 0.018255
+12.  mail                | Impact: 0.017195
+13.  thank               | Impact: 0.017195
+14.  information         | Impact: 0.014008
+15.  -                   | Impact: 0.012602
+16.  mail                | Impact: 0.012602
+17.  ,                   | Impact: 0.011897
+18.  we                  | Impact: 0.011498
+19.  excel               | Impact: 0.011498
+20.  for                 | Impact: 0.010691
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  fallon              | Impact: -0.028683
+ 2.  was                 | Impact: -0.028683
+ 3.  one                 | Impact: -0.028683
+ 4.  of                  | Impact: -0.028683
+ 5.  at                  | Impact: -0.008151
+ 6.  -                   | Impact: -0.008151
+ 7.  -                   | Impact: -0.008151
+ 8.  .                   | Impact: -0.008151
+ 9.  and                 | Impact: -0.004279
+10.  call                | Impact: -0.004279
+11.  fallon              | Impact: -0.004279
+12.  health              | Impact: -0.004279
+13.  '                   | Impact: -0.004279
+14.  s                   | Impact: -0.004279
+15.  privacy             | Impact: -0.004279
+16.  officer             | Impact: -0.004279
+17.  ,                   | Impact: -0.000813
+18.  consistently        | Impact: -0.000545
+19.  ranked              | Impact: -0.000545
+20.  as                  | Impact: -0.000545

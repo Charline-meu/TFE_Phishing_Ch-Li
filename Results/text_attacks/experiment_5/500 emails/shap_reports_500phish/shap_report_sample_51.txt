@@ -1,0 +1,75 @@
+Sample 51
+=========
+
+Sample text preview: FROM MISS FLORENCE ETEH IVORY COAST WEST AFRICA DEAREST ONE I AM MISS FLORENCE ETEH FROM IVORY COAST AND I AM CONTACTING YOU BECAUSE I NEED YOUR HELP ...
+
+Model prediction: [1.6973721e-04 9.9983025e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  country             | Impact: 0.033427 → PHISHING
+ 2.  your                | Impact: 0.029947 → PHISHING
+ 3.  urgent              | Impact: 0.029947 → PHISHING
+ 4.  your                | Impact: 0.026069 → PHISHING
+ 5.  reply               | Impact: 0.022079 → PHISHING
+ 6.  money               | Impact: 0.021646 → PHISHING
+ 7.  thanks              | Impact: -0.020666 → LEGITIMATE
+ 8.  of                  | Impact: 0.018151 → PHISHING
+ 9.  money               | Impact: 0.018151 → PHISHING
+10.  of                  | Impact: 0.015294 → PHISHING
+11.  coast               | Impact: 0.014406 → PHISHING
+12.  million             | Impact: 0.011743 → PHISHING
+13.  american            | Impact: 0.011743 → PHISHING
+14.  to                  | Impact: 0.011012 → PHISHING
+15.  you                 | Impact: 0.011012 → PHISHING
+16.  money               | Impact: 0.010921 → PHISHING
+17.  .                   | Impact: -0.010696 → LEGITIMATE
+18.  your                | Impact: 0.009434 → PHISHING
+19.  country             | Impact: 0.009434 → PHISHING
+20.  you                 | Impact: 0.009145 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  country             | Impact: 0.033427
+ 2.  your                | Impact: 0.029947
+ 3.  urgent              | Impact: 0.029947
+ 4.  your                | Impact: 0.026069
+ 5.  reply               | Impact: 0.022079
+ 6.  money               | Impact: 0.021646
+ 7.  of                  | Impact: 0.018151
+ 8.  money               | Impact: 0.018151
+ 9.  of                  | Impact: 0.015294
+10.  coast               | Impact: 0.014406
+11.  million             | Impact: 0.011743
+12.  american            | Impact: 0.011743
+13.  to                  | Impact: 0.011012
+14.  you                 | Impact: 0.011012
+15.  money               | Impact: 0.010921
+16.  your                | Impact: 0.009434
+17.  country             | Impact: 0.009434
+18.  you                 | Impact: 0.009145
+19.  to                  | Impact: 0.009145
+20.  and                 | Impact: 0.008941
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.020666
+ 2.  .                   | Impact: -0.010696
+ 3.  ship                | Impact: -0.002552
+ 4. ing                  | Impact: -0.002552
+ 5.  the                 | Impact: -0.002552
+ 6.  adds                | Impact: -0.002443
+ 7.  ;                   | Impact: -0.002443
+ 8.  miss                | Impact: -0.002443
+ 9.  florence            | Impact: -0.002443
+10.  all                 | Impact: -0.001457
+11.  the                 | Impact: -0.001457
+12.  information         | Impact: -0.001457
+13.  in                  | Impact: -0.001457
+14.  is                  | Impact: -0.000739
+15.  usd                 | Impact: -0.000739
+16.  con                 | Impact: -0.000407
+17. si                   | Impact: -0.000407
+18. gn                   | Impact: -0.000407
+19. ment                 | Impact: -0.000407
+20.  (                   | Impact: -0.000248

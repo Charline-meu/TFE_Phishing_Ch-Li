@@ -1,0 +1,75 @@
+Phishing Sample 1
+=================
+
+Sample text preview: Severity: Security Product: libpng Keywords: Red Carpet libpng buffer overflow URL: References: Release Notes for libpng ftp://swrinde.nde.swri.edu/pu...
+
+Model prediction: [9.9955302e-01 4.4699255e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  use                 | Impact: -0.001144 → LEGITIMATE
+ 2.  or                  | Impact: -0.001144 → LEGITIMATE
+ 3.  .                   | Impact: -0.001088 → LEGITIMATE
+ 4.  image               | Impact: -0.001077 → LEGITIMATE
+ 5.  files               | Impact: -0.001077 → LEGITIMATE
+ 6.  xi                  | Impact: 0.001045 → PHISHING
+ 7. mian                 | Impact: 0.001045 → PHISHING
+ 8.  key                 | Impact: -0.001035 → LEGITIMATE
+ 9. words                | Impact: -0.001035 → LEGITIMATE
+10.  xi                  | Impact: 0.000980 → PHISHING
+11. mian                 | Impact: 0.000980 → PHISHING
+12.  solar               | Impact: -0.000948 → LEGITIMATE
+13. is                   | Impact: -0.000948 → LEGITIMATE
+14.  packages            | Impact: -0.000948 → LEGITIMATE
+15.  available           | Impact: -0.000948 → LEGITIMATE
+16.  applications        | Impact: -0.000889 → LEGITIMATE
+17.  which               | Impact: -0.000889 → LEGITIMATE
+18.  instead             | Impact: -0.000820 → LEGITIMATE
+19.  .                   | Impact: -0.000820 → LEGITIMATE
+20.  minor               | Impact: -0.000747 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  xi                  | Impact: 0.001045
+ 2. mian                 | Impact: 0.001045
+ 3.  xi                  | Impact: 0.000980
+ 4. mian                 | Impact: 0.000980
+ 5.  to                  | Impact: 0.000744
+ 6.  .                   | Impact: 0.000744
+ 7.  xi                  | Impact: 0.000524
+ 8. mian                 | Impact: 0.000524
+ 9.  .                   | Impact: 0.000520
+10.  *                   | Impact: 0.000359
+11.  and                 | Impact: 0.000359
+12.  .                   | Impact: 0.000359
+13.  .                   | Impact: 0.000357
+14.  .                   | Impact: 0.000314
+15.  xi                  | Impact: 0.000246
+16. mian                 | Impact: 0.000246
+17.  .                   | Impact: 0.000246
+18.  _                   | Impact: 0.000191
+19.  _                   | Impact: 0.000191
+20.  _                   | Impact: 0.000191
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  use                 | Impact: -0.001144
+ 2.  or                  | Impact: -0.001144
+ 3.  .                   | Impact: -0.001088
+ 4.  image               | Impact: -0.001077
+ 5.  files               | Impact: -0.001077
+ 6.  key                 | Impact: -0.001035
+ 7. words                | Impact: -0.001035
+ 8.  solar               | Impact: -0.000948
+ 9. is                   | Impact: -0.000948
+10.  packages            | Impact: -0.000948
+11.  available           | Impact: -0.000948
+12.  applications        | Impact: -0.000889
+13.  which               | Impact: -0.000889
+14.  instead             | Impact: -0.000820
+15.  .                   | Impact: -0.000820
+16.  minor               | Impact: -0.000747
+17.  bugs                | Impact: -0.000747
+18.  -                   | Impact: -0.000701
+19.  .                   | Impact: -0.000701
+20.  over                | Impact: -0.000696

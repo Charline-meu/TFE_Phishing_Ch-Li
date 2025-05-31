@@ -1,0 +1,53 @@
+Phishing Sample 98
+==================
+
+Sample text preview: Key contact perso with ASE per Lisa Petruszka (Enron)
+
+Model prediction: [9.9979895e-01 2.0106917e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  contact             | Impact: 0.159474 → PHISHING
+ 2.  per                 | Impact: -0.156367 → LEGITIMATE
+ 3.  with                | Impact: 0.098850 → PHISHING
+ 4.  key                 | Impact: -0.098810 → LEGITIMATE
+ 5. ron                  | Impact: -0.086103 → LEGITIMATE
+ 6.  (                   | Impact: -0.068701 → LEGITIMATE
+ 7. so                   | Impact: -0.047050 → LEGITIMATE
+ 8.  per                 | Impact: 0.042312 → PHISHING
+ 9. rus                  | Impact: -0.028413 → LEGITIMATE
+10. ka                   | Impact: 0.024867 → PHISHING
+11.  lisa                | Impact: -0.023152 → LEGITIMATE
+12. z                    | Impact: 0.022377 → PHISHING
+13. e                    | Impact: 0.020680 → PHISHING
+14.  )                   | Impact: -0.007926 → LEGITIMATE
+15.  en                  | Impact: -0.006329 → LEGITIMATE
+16.  pet                 | Impact: 0.004846 → PHISHING
+17.  as                  | Impact: -0.001266 → LEGITIMATE
+18.                      | Impact: -0.000000 → LEGITIMATE
+19.                      | Impact: 0.000000 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.159474
+ 2.  with                | Impact: 0.098850
+ 3.  per                 | Impact: 0.042312
+ 4. ka                   | Impact: 0.024867
+ 5. z                    | Impact: 0.022377
+ 6. e                    | Impact: 0.020680
+ 7.  pet                 | Impact: 0.004846
+ 8.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  per                 | Impact: -0.156367
+ 2.  key                 | Impact: -0.098810
+ 3. ron                  | Impact: -0.086103
+ 4.  (                   | Impact: -0.068701
+ 5. so                   | Impact: -0.047050
+ 6. rus                  | Impact: -0.028413
+ 7.  lisa                | Impact: -0.023152
+ 8.  )                   | Impact: -0.007926
+ 9.  en                  | Impact: -0.006329
+10.  as                  | Impact: -0.001266
+11.                      | Impact: -0.000000

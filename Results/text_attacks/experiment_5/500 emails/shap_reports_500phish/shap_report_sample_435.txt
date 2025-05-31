@@ -1,0 +1,75 @@
+Sample 435
+==========
+
+Sample text preview: INVESTMENT ASSISTANCE Dear Friend, I am an Auditor who is willing to place funds in investment opportunities available. I have certain amount of money...
+
+Model prediction: [1.4859627e-04 9.9985135e-01]
+Predicted class: PHISHING with 0.9999 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.058186 → PHISHING
+ 2.  your                | Impact: 0.046859 → PHISHING
+ 3.  your                | Impact: 0.030906 → PHISHING
+ 4.  me                  | Impact: 0.027664 → PHISHING
+ 5.  friend              | Impact: 0.025549 → PHISHING
+ 6.  your                | Impact: 0.025391 → PHISHING
+ 7.  company             | Impact: 0.025391 → PHISHING
+ 8.  fund                | Impact: 0.022472 → PHISHING
+ 9.  in                  | Impact: 0.022472 → PHISHING
+10.  assistance          | Impact: 0.022390 → PHISHING
+11.  faithful            | Impact: 0.021708 → PHISHING
+12. ly                   | Impact: 0.021708 → PHISHING
+13.  full                | Impact: 0.017119 → PHISHING
+14.  name                | Impact: 0.017119 → PHISHING
+15.  foreign             | Impact: 0.015291 → PHISHING
+16.  investment          | Impact: 0.015291 → PHISHING
+17.  of                  | Impact: 0.014075 → PHISHING
+18.  money               | Impact: 0.014075 → PHISHING
+19.  company             | Impact: 0.013511 → PHISHING
+20.  profile             | Impact: 0.013511 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.058186
+ 2.  your                | Impact: 0.046859
+ 3.  your                | Impact: 0.030906
+ 4.  me                  | Impact: 0.027664
+ 5.  friend              | Impact: 0.025549
+ 6.  your                | Impact: 0.025391
+ 7.  company             | Impact: 0.025391
+ 8.  fund                | Impact: 0.022472
+ 9.  in                  | Impact: 0.022472
+10.  assistance          | Impact: 0.022390
+11.  faithful            | Impact: 0.021708
+12. ly                   | Impact: 0.021708
+13.  full                | Impact: 0.017119
+14.  name                | Impact: 0.017119
+15.  foreign             | Impact: 0.015291
+16.  investment          | Impact: 0.015291
+17.  of                  | Impact: 0.014075
+18.  money               | Impact: 0.014075
+19.  company             | Impact: 0.013511
+20.  profile             | Impact: 0.013511
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.004917
+ 2.  if                  | Impact: -0.004917
+ 3.  any                 | Impact: -0.004917
+ 4.  )                   | Impact: -0.004917
+ 5.  ,                   | Impact: -0.004865
+ 6.  thanks              | Impact: -0.003480
+ 7.  and                 | Impact: -0.003480
+ 8.  or                  | Impact: -0.002956
+ 9.  if                  | Impact: -0.001065
+10.  by                  | Impact: -0.001065
+11.  -                   | Impact: -0.001065
+12.  laws                | Impact: -0.001065
+13.  as                  | Impact: -0.001035
+14.  well                | Impact: -0.001035
+15.  as                  | Impact: -0.001035
+16.  sending             | Impact: -0.001035
+17.  (                   | Impact: -0.000729
+18.  if                  | Impact: -0.000729
+19.  any                 | Impact: -0.000729
+20.  )                   | Impact: -0.000729

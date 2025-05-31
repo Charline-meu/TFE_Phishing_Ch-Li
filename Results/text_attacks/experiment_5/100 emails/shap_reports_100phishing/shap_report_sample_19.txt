@@ -1,0 +1,75 @@
+Phishing Sample 19
+==================
+
+Sample text preview: Look this is so hot that not only do you want one... but you can get rich selling it to others... some will use it for good and many will use it for b...
+
+Model prediction: [2.9937481e-04 9.9970067e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  but                 | Impact: 0.009791 → PHISHING
+ 2.  you                 | Impact: 0.009791 → PHISHING
+ 3.  can                 | Impact: 0.009791 → PHISHING
+ 4.  get                 | Impact: 0.009791 → PHISHING
+ 5.  rich                | Impact: 0.009791 → PHISHING
+ 6.  selling             | Impact: 0.009297 → PHISHING
+ 7.  it                  | Impact: 0.009297 → PHISHING
+ 8.  to                  | Impact: 0.009297 → PHISHING
+ 9.  others              | Impact: 0.009297 → PHISHING
+10.  .                   | Impact: 0.009297 → PHISHING
+11.  thank               | Impact: 0.008504 → PHISHING
+12.  you                 | Impact: 0.008504 → PHISHING
+13.  for                 | Impact: 0.008504 → PHISHING
+14.  your                | Impact: 0.008504 → PHISHING
+15.  patronage           | Impact: 0.008504 → PHISHING
+16.  by                  | Impact: 0.006266 → PHISHING
+17.  cia                 | Impact: 0.006266 → PHISHING
+18.  ,                   | Impact: 0.006266 → PHISHING
+19.  wireless            | Impact: 0.006266 → PHISHING
+20.  camera              | Impact: 0.006266 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  but                 | Impact: 0.009791
+ 2.  you                 | Impact: 0.009791
+ 3.  can                 | Impact: 0.009791
+ 4.  get                 | Impact: 0.009791
+ 5.  rich                | Impact: 0.009791
+ 6.  selling             | Impact: 0.009297
+ 7.  it                  | Impact: 0.009297
+ 8.  to                  | Impact: 0.009297
+ 9.  others              | Impact: 0.009297
+10.  .                   | Impact: 0.009297
+11.  thank               | Impact: 0.008504
+12.  you                 | Impact: 0.008504
+13.  for                 | Impact: 0.008504
+14.  your                | Impact: 0.008504
+15.  patronage           | Impact: 0.008504
+16.  by                  | Impact: 0.006266
+17.  cia                 | Impact: 0.006266
+18.  ,                   | Impact: 0.006266
+19.  wireless            | Impact: 0.006266
+20.  camera              | Impact: 0.006266
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.003902
+ 2.  even                | Impact: -0.003902
+ 3.  over                | Impact: -0.003902
+ 4.  the                 | Impact: -0.003902
+ 5.  shower              | Impact: -0.003902
+ 6.  )                   | Impact: -0.003902
+ 7.  wall                | Impact: -0.003424
+ 8.  or                  | Impact: -0.003424
+ 9.  ceiling             | Impact: -0.003424
+10.  bulb                | Impact: -0.003424
+11.  soc                 | Impact: -0.003424
+12. et                   | Impact: -0.003424
+13.  it                  | Impact: -0.001659
+14.  could               | Impact: -0.001659
+15.  be                  | Impact: -0.001659
+16.  in                  | Impact: -0.001659
+17.  a                   | Impact: -0.001659
+18.  dark                | Impact: -0.001659
+19.  place               | Impact: -0.001659
+20.  it                  | Impact: -0.001659

@@ -1,0 +1,75 @@
+Sample 200
+==========
+
+Sample text preview: MY MESSAGE FOR PEACE AND HARMONY Dear brothers & sisters, We all need to pray for one another, and to love one another. We should always pray for the ...
+
+Model prediction: [4.2476895e-04 9.9957520e-01]
+Predicted class: PHISHING with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  brothers            | Impact: 0.018395 → PHISHING
+ 2.  &                   | Impact: 0.018395 → PHISHING
+ 3.  sisters             | Impact: 0.018395 → PHISHING
+ 4.  ,                   | Impact: 0.014714 → PHISHING
+ 5.  peace               | Impact: 0.011439 → PHISHING
+ 6.  activist            | Impact: 0.011439 → PHISHING
+ 7.  pakistan            | Impact: 0.011439 → PHISHING
+ 8.  and                 | Impact: 0.008422 → PHISHING
+ 9.  harmony             | Impact: 0.008422 → PHISHING
+10.  dear                | Impact: 0.008422 → PHISHING
+11.  d                   | Impact: 0.005743 → PHISHING
+12. pm                   | Impact: 0.005743 → PHISHING
+13. we                   | Impact: 0.005743 → PHISHING
+14. zi                   | Impact: 0.005743 → PHISHING
+15. py                   | Impact: 0.005743 → PHISHING
+16. d                    | Impact: 0.005743 → PHISHING
+17. km                   | Impact: 0.005743 → PHISHING
+18. nb                   | Impact: 0.005743 → PHISHING
+19.  re                  | Impact: 0.005696 → PHISHING
+20. hman                 | Impact: 0.005696 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  brothers            | Impact: 0.018395
+ 2.  &                   | Impact: 0.018395
+ 3.  sisters             | Impact: 0.018395
+ 4.  ,                   | Impact: 0.014714
+ 5.  peace               | Impact: 0.011439
+ 6.  activist            | Impact: 0.011439
+ 7.  pakistan            | Impact: 0.011439
+ 8.  and                 | Impact: 0.008422
+ 9.  harmony             | Impact: 0.008422
+10.  dear                | Impact: 0.008422
+11.  d                   | Impact: 0.005743
+12. pm                   | Impact: 0.005743
+13. we                   | Impact: 0.005743
+14. zi                   | Impact: 0.005743
+15. py                   | Impact: 0.005743
+16. d                    | Impact: 0.005743
+17. km                   | Impact: 0.005743
+18. nb                   | Impact: 0.005743
+19.  re                  | Impact: 0.005696
+20. hman                 | Impact: 0.005696
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  religions           | Impact: -0.000920
+ 2.  who                 | Impact: -0.000920
+ 3.  have                | Impact: -0.000920
+ 4.  been                | Impact: -0.000920
+ 5.  committing          | Impact: -0.000920
+ 6.  ho                  | Impact: -0.000920
+ 7. rri                  | Impact: -0.000920
+ 8. fying                | Impact: -0.000920
+ 9.  crimes              | Impact: -0.000920
+10.  against             | Impact: -0.000920
+11.  humanity            | Impact: -0.000920
+12.  we                  | Impact: -0.000604
+13.  should              | Impact: -0.000604
+14.  always              | Impact: -0.000604
+15.  pray                | Impact: -0.000604
+16.  for                 | Impact: -0.000604
+17.  the                 | Impact: -0.000604
+18.  safety              | Impact: -0.000604
+19.  ,                   | Impact: -0.000604
+20.  peace               | Impact: -0.000604

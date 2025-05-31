@@ -1,0 +1,75 @@
+Sample 272
+==========
+
+Sample text preview: I ask Dana the question about pricing. He said it was a low probability that we would not serve over the next week because of pricing concerns. -----O...
+
+Model prediction: [9.9979562e-01 2.0436909e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.009388 → LEGITIMATE
+ 2.  >                   | Impact: -0.009247 → LEGITIMATE
+ 3.  money               | Impact: 0.008965 → PHISHING
+ 4.  >                   | Impact: -0.008785 → LEGITIMATE
+ 5.  doc                 | Impact: -0.007324 → LEGITIMATE
+ 6.  make                | Impact: 0.006014 → PHISHING
+ 7.  dana                | Impact: -0.004839 → LEGITIMATE
+ 8.  '                   | Impact: -0.004839 → LEGITIMATE
+ 9.  ;                   | Impact: -0.004285 → LEGITIMATE
+10.  arnold              | Impact: -0.004027 → LEGITIMATE
+11.  :                   | Impact: -0.003890 → LEGITIMATE
+12.  davis               | Impact: -0.003180 → LEGITIMATE
+13.  ask                 | Impact: -0.003074 → LEGITIMATE
+14.  subject             | Impact: -0.002753 → LEGITIMATE
+15.  :                   | Impact: -0.002753 → LEGITIMATE
+16.  dana                | Impact: -0.002701 → LEGITIMATE
+17.  ;                   | Impact: -0.002696 → LEGITIMATE
+18.  pricing             | Impact: -0.002621 → LEGITIMATE
+19.  over                | Impact: -0.002621 → LEGITIMATE
+20.  ;                   | Impact: -0.002564 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.008965
+ 2.  make                | Impact: 0.006014
+ 3.  on                  | Impact: 0.001965
+ 4.  these               | Impact: 0.001965
+ 5.  to                  | Impact: 0.001474
+ 6.  ensure              | Impact: 0.001474
+ 7.  daily               | Impact: 0.001055
+ 8.  notice              | Impact: 0.001055
+ 9.  importance          | Impact: 0.000936
+10.  :                   | Impact: 0.000936
+11.  :                   | Impact: 0.000578
+12.  confidential        | Impact: 0.000578
+13.  high                | Impact: 0.000394
+14.  sensitivity         | Impact: 0.000394
+15.  subject             | Impact: 0.000316
+16.  to                  | Impact: 0.000316
+17.  and                 | Impact: 0.000224
+18.  to                  | Impact: 0.000224
+19.  continue            | Impact: 0.000224
+20.  to                  | Impact: 0.000224
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.009388
+ 2.  >                   | Impact: -0.009247
+ 3.  >                   | Impact: -0.008785
+ 4.  doc                 | Impact: -0.007324
+ 5.  dana                | Impact: -0.004839
+ 6.  '                   | Impact: -0.004839
+ 7.  ;                   | Impact: -0.004285
+ 8.  arnold              | Impact: -0.004027
+ 9.  :                   | Impact: -0.003890
+10.  davis               | Impact: -0.003180
+11.  ask                 | Impact: -0.003074
+12.  subject             | Impact: -0.002753
+13.  :                   | Impact: -0.002753
+14.  dana                | Impact: -0.002701
+15.  ;                   | Impact: -0.002696
+16.  pricing             | Impact: -0.002621
+17.  over                | Impact: -0.002621
+18.  ;                   | Impact: -0.002564
+19.  default             | Impact: -0.002477
+20.  question            | Impact: -0.002289

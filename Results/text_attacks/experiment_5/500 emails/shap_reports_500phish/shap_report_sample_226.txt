@@ -1,0 +1,75 @@
+Sample 226
+==========
+
+Sample text preview: Chase Secure This message is from a trusted sender View in browserNew Onl[w]ine AlertDear Cust[w]omer recently received a report of unauthorized Debit...
+
+Model prediction: [3.7967222e-04 9.9962032e-01]
+Predicted class: PHISHING with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  rightful            | Impact: 0.032821 → PHISHING
+ 2.  owner               | Impact: 0.032821 → PHISHING
+ 3.  contents            | Impact: 0.027984 → PHISHING
+ 4.  ©                   | Impact: 0.027984 → PHISHING
+ 5.  copyright           | Impact: 0.023312 → PHISHING
+ 6.  chase               | Impact: 0.023312 → PHISHING
+ 7.  bank                | Impact: 0.023312 → PHISHING
+ 8.  us                  | Impact: 0.016831 → PHISHING
+ 9.  confirm             | Impact: 0.016831 → PHISHING
+10.  your                | Impact: 0.016831 → PHISHING
+11.  your                | Impact: 0.016174 → PHISHING
+12.  financial           | Impact: 0.016174 → PHISHING
+13.  ]                   | Impact: 0.014192 → PHISHING
+14.  e                   | Impact: 0.014192 → PHISHING
+15.  your                | Impact: 0.014192 → PHISHING
+16.  access              | Impact: 0.012662 → PHISHING
+17.  to                  | Impact: 0.012662 → PHISHING
+18.  your                | Impact: 0.012662 → PHISHING
+19.  unauthorized        | Impact: 0.011655 → PHISHING
+20.  transactions        | Impact: 0.011655 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  rightful            | Impact: 0.032821
+ 2.  owner               | Impact: 0.032821
+ 3.  contents            | Impact: 0.027984
+ 4.  ©                   | Impact: 0.027984
+ 5.  copyright           | Impact: 0.023312
+ 6.  chase               | Impact: 0.023312
+ 7.  bank                | Impact: 0.023312
+ 8.  us                  | Impact: 0.016831
+ 9.  confirm             | Impact: 0.016831
+10.  your                | Impact: 0.016831
+11.  your                | Impact: 0.016174
+12.  financial           | Impact: 0.016174
+13.  ]                   | Impact: 0.014192
+14.  e                   | Impact: 0.014192
+15.  your                | Impact: 0.014192
+16.  access              | Impact: 0.012662
+17.  to                  | Impact: 0.012662
+18.  your                | Impact: 0.012662
+19.  unauthorized        | Impact: 0.011655
+20.  transactions        | Impact: 0.011655
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  un                  | Impact: -0.004796
+ 2. t                    | Impact: -0.004796
+ 3.  information         | Impact: -0.004796
+ 4.  om                  | Impact: -0.004507
+ 5. er                   | Impact: -0.004507
+ 6.  recently            | Impact: -0.004507
+ 7.  received            | Impact: -0.004507
+ 8.  [                   | Impact: -0.004179
+ 9.  w                   | Impact: -0.004179
+10.  ]                   | Impact: -0.004179
+11.  we                  | Impact: -0.004083
+12.  look                | Impact: -0.004083
+13.  forward             | Impact: -0.004083
+14.  to                  | Impact: -0.004083
+15.  ]                   | Impact: -0.003865
+16.  ted                 | Impact: -0.003865
+17.  un                  | Impact: -0.003228
+18. t                    | Impact: -0.003228
+19.  .                   | Impact: -0.003228
+20.  chase               | Impact: -0.003199

@@ -1,0 +1,75 @@
+Sample 246
+==========
+
+Sample text preview: Attn,Dear. I would like to apply through this medium for your co-operation and to secure an opportunity to invest and do joint business with you in yo...
+
+Model prediction: [1.5940086e-04 9.9984062e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.039520 → PHISHING
+ 2.  country             | Impact: 0.035749 → PHISHING
+ 3.  your                | Impact: 0.035175 → PHISHING
+ 4.  country             | Impact: 0.035175 → PHISHING
+ 5.  you                 | Impact: 0.023020 → PHISHING
+ 6.  in                  | Impact: 0.023020 → PHISHING
+ 7.  business            | Impact: 0.016761 → PHISHING
+ 8.  with                | Impact: 0.016761 → PHISHING
+ 9.  capital             | Impact: 0.016078 → PHISHING
+10.  i                   | Impact: 0.016078 → PHISHING
+11.  your                | Impact: 0.015630 → PHISHING
+12.  so                  | Impact: 0.012372 → PHISHING
+13.  desire              | Impact: 0.012372 → PHISHING
+14.  custody             | Impact: 0.012361 → PHISHING
+15.  opportunity         | Impact: 0.010722 → PHISHING
+16.  for                 | Impact: 0.010722 → PHISHING
+17.  you                 | Impact: 0.010722 → PHISHING
+18.  your                | Impact: 0.010046 → PHISHING
+19.  to                  | Impact: 0.009983 → PHISHING
+20.  secure              | Impact: 0.009983 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.039520
+ 2.  country             | Impact: 0.035749
+ 3.  your                | Impact: 0.035175
+ 4.  country             | Impact: 0.035175
+ 5.  you                 | Impact: 0.023020
+ 6.  in                  | Impact: 0.023020
+ 7.  business            | Impact: 0.016761
+ 8.  with                | Impact: 0.016761
+ 9.  capital             | Impact: 0.016078
+10.  i                   | Impact: 0.016078
+11.  your                | Impact: 0.015630
+12.  so                  | Impact: 0.012372
+13.  desire              | Impact: 0.012372
+14.  custody             | Impact: 0.012361
+15.  opportunity         | Impact: 0.010722
+16.  for                 | Impact: 0.010722
+17.  you                 | Impact: 0.010722
+18.  your                | Impact: 0.010046
+19.  to                  | Impact: 0.009983
+20.  secure              | Impact: 0.009983
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  patrick             | Impact: -0.006329
+ 2.  francis             | Impact: -0.006329
+ 3.  jr                  | Impact: -0.006329
+ 4.  .                   | Impact: -0.003092
+ 5.                      | Impact: -0.003070
+ 6.  apply               | Impact: -0.002875
+ 7.  through             | Impact: -0.002875
+ 8.  procedure           | Impact: -0.001045
+ 9.  ,                   | Impact: -0.001045
+10.  this                | Impact: -0.000864
+11.  medium              | Impact: -0.000864
+12.  detailed            | Impact: -0.000302
+13.  information         | Impact: -0.000302
+14.  ,                   | Impact: -0.000302
+15.  to                  | Impact: -0.000071
+16.  advise              | Impact: -0.000071
+17.  and                 | Impact: -0.000071
+18.  i                   | Impact: -0.000005
+19.  would               | Impact: -0.000005
+20.  like                | Impact: -0.000005

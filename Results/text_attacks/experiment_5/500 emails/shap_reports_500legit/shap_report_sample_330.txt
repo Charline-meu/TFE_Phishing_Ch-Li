@@ -1,0 +1,75 @@
+Sample 330
+==========
+
+Sample text preview: To unsubscribe send a blank Enerfax Daily NORTH AMERICA'S FREE POWER AND GAS INFORMATION SOURCE Wednesday, January No. Visit: or for Oil Prices & News...
+
+Model prediction: [9.997105e-01 2.894828e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  |                   | Impact: -0.000543 → LEGITIMATE
+ 2.  |                   | Impact: -0.000543 → LEGITIMATE
+ 3.  wah                 | Impact: -0.000543 → LEGITIMATE
+ 4. a                    | Impact: -0.000543 → LEGITIMATE
+ 5.  hub                 | Impact: -0.000543 → LEGITIMATE
+ 6.  |                   | Impact: -0.000543 → LEGITIMATE
+ 7.  .                   | Impact: -0.000543 → LEGITIMATE
+ 8.  |                   | Impact: -0.000534 → LEGITIMATE
+ 9.  flow                | Impact: -0.000534 → LEGITIMATE
+10.  date                | Impact: -0.000534 → LEGITIMATE
+11.  /                   | Impact: -0.000534 → LEGITIMATE
+12.  -                   | Impact: -0.000534 → LEGITIMATE
+13.  -                   | Impact: -0.000534 → LEGITIMATE
+14.  -                   | Impact: -0.000534 → LEGITIMATE
+15.  -                   | Impact: -0.000534 → LEGITIMATE
+16.  -                   | Impact: -0.000534 → LEGITIMATE
+17.  -                   | Impact: -0.000534 → LEGITIMATE
+18.  -                   | Impact: -0.000534 → LEGITIMATE
+19.  -                   | Impact: -0.000534 → LEGITIMATE
+20.  -                   | Impact: -0.000534 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  |                   | Impact: 0.000123
+ 2.  |                   | Impact: 0.000123
+ 3.  t                   | Impact: 0.000123
+ 4. gp                   | Impact: 0.000123
+ 5.  zone                | Impact: 0.000123
+ 6.  (                   | Impact: 0.000123
+ 7.  leg                 | Impact: 0.000123
+ 8.  )                   | Impact: 0.000123
+ 9.  |                   | Impact: 0.000123
+10.  .                   | Impact: 0.000123
+11.  |                   | Impact: 0.000123
+12.  |                   | Impact: 0.000123
+13.  t                   | Impact: 0.000123
+14. gt                   | Impact: 0.000123
+15.  zone                | Impact: 0.000123
+16.  sl                  | Impact: 0.000123
+17.  |                   | Impact: 0.000123
+18.  .                   | Impact: 0.000123
+19.  te                  | Impact: 0.000108
+20. tc                   | Impact: 0.000108
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  |                   | Impact: -0.000543
+ 2.  |                   | Impact: -0.000543
+ 3.  wah                 | Impact: -0.000543
+ 4. a                    | Impact: -0.000543
+ 5.  hub                 | Impact: -0.000543
+ 6.  |                   | Impact: -0.000543
+ 7.  .                   | Impact: -0.000543
+ 8.  |                   | Impact: -0.000534
+ 9.  flow                | Impact: -0.000534
+10.  date                | Impact: -0.000534
+11.  /                   | Impact: -0.000534
+12.  -                   | Impact: -0.000534
+13.  -                   | Impact: -0.000534
+14.  -                   | Impact: -0.000534
+15.  -                   | Impact: -0.000534
+16.  -                   | Impact: -0.000534
+17.  -                   | Impact: -0.000534
+18.  -                   | Impact: -0.000534
+19.  -                   | Impact: -0.000534
+20.  -                   | Impact: -0.000534

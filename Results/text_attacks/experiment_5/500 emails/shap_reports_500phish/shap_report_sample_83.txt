@@ -1,0 +1,75 @@
+Sample 83
+=========
+
+Sample text preview: Hello, An official document has been shared with you through OneDrive. Access the document below on OneDrive. OneDrive Free online storage for your fi...
+
+Model prediction: [2.3119344e-04 9.9976879e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.076200 → PHISHING
+ 2.  please              | Impact: 0.074420 → PHISHING
+ 3.  read                | Impact: 0.065773 → PHISHING
+ 4.  you                 | Impact: 0.064829 → PHISHING
+ 5.  hello               | Impact: 0.048713 → PHISHING
+ 6.  online              | Impact: 0.048568 → PHISHING
+ 7.  free                | Impact: 0.045658 → PHISHING
+ 8.  check               | Impact: 0.041498 → PHISHING
+ 9.  document            | Impact: 0.039287 → PHISHING
+10.  statement           | Impact: 0.037579 → PHISHING
+11.  mobile              | Impact: 0.035035 → PHISHING
+12.  app                 | Impact: 0.034887 → PHISHING
+13.  access              | Impact: 0.033936 → PHISHING
+14. drive                | Impact: 0.030721 → PHISHING
+15.  our                 | Impact: 0.028859 → PHISHING
+16.  privacy             | Impact: 0.028859 → PHISHING
+17.  your                | Impact: 0.027590 → PHISHING
+18.  official            | Impact: 0.022422 → PHISHING
+19.  one                 | Impact: 0.018360 → PHISHING
+20.  shared              | Impact: 0.018305 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.076200
+ 2.  please              | Impact: 0.074420
+ 3.  read                | Impact: 0.065773
+ 4.  you                 | Impact: 0.064829
+ 5.  hello               | Impact: 0.048713
+ 6.  online              | Impact: 0.048568
+ 7.  free                | Impact: 0.045658
+ 8.  check               | Impact: 0.041498
+ 9.  document            | Impact: 0.039287
+10.  statement           | Impact: 0.037579
+11.  mobile              | Impact: 0.035035
+12.  app                 | Impact: 0.034887
+13.  access              | Impact: 0.033936
+14. drive                | Impact: 0.030721
+15.  our                 | Impact: 0.028859
+16.  privacy             | Impact: 0.028859
+17.  your                | Impact: 0.027590
+18.  official            | Impact: 0.022422
+19.  one                 | Impact: 0.018360
+20.  shared              | Impact: 0.018305
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.013086
+ 2.  ,                   | Impact: -0.012179
+ 3.  .                   | Impact: -0.009645
+ 4.  the                 | Impact: -0.006420
+ 5.  .                   | Impact: -0.005928
+ 6.  .                   | Impact: -0.003549
+ 7.  one                 | Impact: -0.001783
+ 8.  microsoft           | Impact: -0.001783
+ 9.  way                 | Impact: -0.001783
+10.  more                | Impact: -0.001477
+11.  it                  | Impact: -0.001259
+12.  for                 | Impact: -0.000923
+13.  viruses             | Impact: -0.000923
+14.  by                  | Impact: -0.000923
+15.  ava                 | Impact: -0.000923
+16. st                   | Impact: -0.000923
+17.  anti                | Impact: -0.000923
+18. virus                | Impact: -0.000923
+19.  software            | Impact: -0.000923
+20.  .                   | Impact: -0.000923

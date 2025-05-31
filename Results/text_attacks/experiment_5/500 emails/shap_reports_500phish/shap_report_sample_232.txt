@@ -1,0 +1,75 @@
+Sample 232
+==========
+
+Sample text preview: My name is MR FRANK ABBAI am Financial Consultant of Greenline Real Estate & Forestry Consulting in Europe,seek to write your response on an expatriat...
+
+Model prediction: [1.6538431e-04 9.9983454e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ms                  | Impact: -0.093889 → LEGITIMATE
+ 2. n                    | Impact: -0.093889 → LEGITIMATE
+ 3.  name                | Impact: 0.034596 → PHISHING
+ 4.  messenger           | Impact: -0.024719 → LEGITIMATE
+ 5.  is                  | Impact: 0.022885 → PHISHING
+ 6.  you                 | Impact: 0.017714 → PHISHING
+ 7.  will                | Impact: 0.017714 → PHISHING
+ 8.  mr                  | Impact: 0.016109 → PHISHING
+ 9.  frank               | Impact: 0.016109 → PHISHING
+10.  us                  | Impact: 0.016094 → PHISHING
+11.  through             | Impact: 0.016094 → PHISHING
+12.  you                 | Impact: 0.016094 → PHISHING
+13.  if                  | Impact: 0.016094 → PHISHING
+14.                      | Impact: 0.015910 → PHISHING
+15.  my                  | Impact: 0.015910 → PHISHING
+16.  only                | Impact: 0.014901 → PHISHING
+17.  you                 | Impact: 0.014901 → PHISHING
+18.  have                | Impact: 0.014901 → PHISHING
+19.  a                   | Impact: 0.014901 → PHISHING
+20.  render              | Impact: 0.013783 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  name                | Impact: 0.034596
+ 2.  is                  | Impact: 0.022885
+ 3.  you                 | Impact: 0.017714
+ 4.  will                | Impact: 0.017714
+ 5.  mr                  | Impact: 0.016109
+ 6.  frank               | Impact: 0.016109
+ 7.  us                  | Impact: 0.016094
+ 8.  through             | Impact: 0.016094
+ 9.  you                 | Impact: 0.016094
+10.  if                  | Impact: 0.016094
+11.                      | Impact: 0.015910
+12.  my                  | Impact: 0.015910
+13.  only                | Impact: 0.014901
+14.  you                 | Impact: 0.014901
+15.  have                | Impact: 0.014901
+16.  a                   | Impact: 0.014901
+17.  render              | Impact: 0.013783
+18.  financial           | Impact: 0.013783
+19.  you                 | Impact: 0.013609
+20.  upon                | Impact: 0.013609
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ms                  | Impact: -0.093889
+ 2. n                    | Impact: -0.093889
+ 3.  messenger           | Impact: -0.024719
+ 4.  _                   | Impact: -0.005992
+ 5.  express             | Impact: -0.005992
+ 6.  yourself            | Impact: -0.005992
+ 7.  instantly           | Impact: -0.005992
+ 8.  with                | Impact: -0.005992
+ 9.  _                   | Impact: -0.003231
+10.  _                   | Impact: -0.003231
+11.  _                   | Impact: -0.003231
+12.  _                   | Impact: -0.003231
+13.  !                   | Impact: -0.002452
+14.  %                   | Impact: -0.001313
+15.  will                | Impact: -0.001313
+16.  be                  | Impact: -0.001313
+17.  for                 | Impact: -0.001313
+18.  the                 | Impact: -0.001313
+19.  expenses            | Impact: -0.001313
+20.  that                | Impact: -0.001313

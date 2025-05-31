@@ -1,0 +1,75 @@
+Phishing Sample 67
+==================
+
+Sample text preview: FROM: Sgt. Donald Greene To whom it may concern. I am an American soldier, I am serving in the military of the st Armored Division in Iraq, as you kno...
+
+Model prediction: [1.6527994e-04 9.9983466e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  money               | Impact: 0.038440 → PHISHING
+ 2.  from                | Impact: -0.036140 → LEGITIMATE
+ 3.  this                | Impact: 0.033882 → PHISHING
+ 4.  you                 | Impact: 0.029403 → PHISHING
+ 5.  to                  | Impact: 0.023275 → PHISHING
+ 6.  you                 | Impact: 0.020151 → PHISHING
+ 7.  may                 | Impact: 0.017578 → PHISHING
+ 8.  million             | Impact: 0.016711 → PHISHING
+ 9.  dollars             | Impact: 0.016711 → PHISHING
+10.  also                | Impact: 0.016480 → PHISHING
+11.  your                | Impact: 0.016480 → PHISHING
+12.  :                   | Impact: -0.014393 → LEGITIMATE
+13.  funds               | Impact: 0.014064 → PHISHING
+14.  in                  | Impact: 0.012761 → PHISHING
+15.  cash                | Impact: 0.012761 → PHISHING
+16.  belonging           | Impact: 0.010935 → PHISHING
+17.  contact             | Impact: 0.010565 → PHISHING
+18.  details             | Impact: 0.010565 → PHISHING
+19.  letter              | Impact: 0.010439 → PHISHING
+20.  invest              | Impact: 0.009782 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.038440
+ 2.  this                | Impact: 0.033882
+ 3.  you                 | Impact: 0.029403
+ 4.  to                  | Impact: 0.023275
+ 5.  you                 | Impact: 0.020151
+ 6.  may                 | Impact: 0.017578
+ 7.  million             | Impact: 0.016711
+ 8.  dollars             | Impact: 0.016711
+ 9.  also                | Impact: 0.016480
+10.  your                | Impact: 0.016480
+11.  funds               | Impact: 0.014064
+12.  in                  | Impact: 0.012761
+13.  cash                | Impact: 0.012761
+14.  belonging           | Impact: 0.010935
+15.  contact             | Impact: 0.010565
+16.  details             | Impact: 0.010565
+17.  letter              | Impact: 0.010439
+18.  invest              | Impact: 0.009782
+19.  it                  | Impact: 0.009782
+20.  receive             | Impact: 0.009660
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  from                | Impact: -0.036140
+ 2.  :                   | Impact: -0.014393
+ 3.  sgt                 | Impact: -0.008163
+ 4.                      | Impact: -0.005023
+ 5.  .                   | Impact: -0.004499
+ 6.  greene              | Impact: -0.004042
+ 7.  .                   | Impact: -0.002346
+ 8.  donald              | Impact: -0.001693
+ 9.  ,                   | Impact: -0.001280
+10.  this                | Impact: -0.000083
+11.  business            | Impact: -0.000083
+12.  sgt                 | Impact: -0.000083
+13.  .                   | Impact: -0.000083
+14.  is                  | Impact: -0.000083
+15.  risk                | Impact: -0.000083
+16.  free                | Impact: -0.000083
+17.  .                   | Impact: -0.000083
+18.  the                 | Impact: -0.000083
+19.  box                 | Impact: -0.000083
+20.  can                 | Impact: -0.000083

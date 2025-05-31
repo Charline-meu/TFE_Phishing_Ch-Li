@@ -1,0 +1,75 @@
+Phishing Sample 91
+==================
+
+Sample text preview: ---------------------- Forwarded by Vince J Kaminski/HOU/ECT on // : AM --------------------------- From: Iris Mack/ENRON@enronXgate on // : AM To: Be...
+
+Model prediction: [9.9977654e-01 2.2347984e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.003416 → LEGITIMATE
+ 2.  .                   | Impact: -0.002135 → LEGITIMATE
+ 3.  parsons             | Impact: -0.001976 → LEGITIMATE
+ 4. ron                  | Impact: -0.001842 → LEGITIMATE
+ 5.  subject             | Impact: -0.001585 → LEGITIMATE
+ 6.  en                  | Impact: -0.001539 → LEGITIMATE
+ 7. ron                  | Impact: -0.001406 → LEGITIMATE
+ 8.  dh                  | Impact: 0.001356 → PHISHING
+ 9.  .                   | Impact: -0.001239 → LEGITIMATE
+10.  papers              | Impact: -0.001177 → LEGITIMATE
+11.  @                   | Impact: 0.001141 → PHISHING
+12.  en                  | Impact: -0.001046 → LEGITIMATE
+13.  :                   | Impact: -0.001019 → LEGITIMATE
+14.  iris                | Impact: -0.000982 → LEGITIMATE
+15.  message             | Impact: 0.000939 → PHISHING
+16.  may                 | Impact: 0.000915 → PHISHING
+17.  .                   | Impact: -0.000883 → LEGITIMATE
+18.  ben                 | Impact: -0.000881 → LEGITIMATE
+19.  on                  | Impact: -0.000848 → LEGITIMATE
+20.  papers              | Impact: -0.000811 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  dh                  | Impact: 0.001356
+ 2.  @                   | Impact: 0.001141
+ 3.  message             | Impact: 0.000939
+ 4.  may                 | Impact: 0.000915
+ 5. sant                 | Impact: 0.000694
+ 6.  va                  | Impact: 0.000567
+ 7. ar                   | Impact: 0.000542
+ 8. va                   | Impact: 0.000512
+ 9.  ,                   | Impact: 0.000489
+10.  @                   | Impact: 0.000481
+11.  thanks              | Impact: 0.000314
+12.  ;                   | Impact: 0.000173
+13. ta                   | Impact: 0.000164
+14.  am                  | Impact: 0.000155
+15.  -                   | Impact: 0.000155
+16.  ami                 | Impact: 0.000124
+17.  -                   | Impact: 0.000118
+18.  @                   | Impact: 0.000106
+19.  credit              | Impact: 0.000098
+20.  papers              | Impact: 0.000098
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.003416
+ 2.  .                   | Impact: -0.002135
+ 3.  parsons             | Impact: -0.001976
+ 4. ron                  | Impact: -0.001842
+ 5.  subject             | Impact: -0.001585
+ 6.  en                  | Impact: -0.001539
+ 7. ron                  | Impact: -0.001406
+ 8.  .                   | Impact: -0.001239
+ 9.  papers              | Impact: -0.001177
+10.  en                  | Impact: -0.001046
+11.  :                   | Impact: -0.001019
+12.  iris                | Impact: -0.000982
+13.  .                   | Impact: -0.000883
+14.  ben                 | Impact: -0.000881
+15.  on                  | Impact: -0.000848
+16.  papers              | Impact: -0.000811
+17.  more                | Impact: -0.000768
+18.  :                   | Impact: -0.000706
+19.  ec                  | Impact: -0.000672
+20.  apparently          | Impact: -0.000598

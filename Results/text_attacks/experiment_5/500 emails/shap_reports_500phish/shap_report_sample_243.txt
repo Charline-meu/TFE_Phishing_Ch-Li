@@ -1,0 +1,75 @@
+Sample 243
+==========
+
+Sample text preview: Protect yourself with an extended warranty for your car, minivan, truck or SUV. Buy DIRECT and SAVE money % to %! Extend your existing Warranty. Get a...
+
+Model prediction: [2.1297179e-04 9.9978703e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.054616 → PHISHING
+ 2.  your                | Impact: 0.053059 → PHISHING
+ 3.  protect             | Impact: 0.044081 → PHISHING
+ 4.  removed             | Impact: 0.040988 → PHISHING
+ 5.  below               | Impact: 0.034296 → PHISHING
+ 6.  investment          | Impact: 0.027319 → PHISHING
+ 7.  to                  | Impact: 0.026680 → PHISHING
+ 8.  be                  | Impact: 0.026680 → PHISHING
+ 9.  your                | Impact: 0.020406 → PHISHING
+10.  visit               | Impact: 0.017755 → PHISHING
+11.  ,                   | Impact: 0.017033 → PHISHING
+12.  free                | Impact: 0.016021 → PHISHING
+13.  your                | Impact: 0.015561 → PHISHING
+14.  our                 | Impact: 0.015444 → PHISHING
+15.  service             | Impact: 0.014264 → PHISHING
+16.  removal             | Impact: 0.013908 → PHISHING
+17.  =                   | Impact: 0.013682 → PHISHING
+18.  and                 | Impact: 0.013005 → PHISHING
+19.  =                   | Impact: 0.012980 → PHISHING
+20.  =                   | Impact: 0.012494 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.054616
+ 2.  your                | Impact: 0.053059
+ 3.  protect             | Impact: 0.044081
+ 4.  removed             | Impact: 0.040988
+ 5.  below               | Impact: 0.034296
+ 6.  investment          | Impact: 0.027319
+ 7.  to                  | Impact: 0.026680
+ 8.  be                  | Impact: 0.026680
+ 9.  your                | Impact: 0.020406
+10.  visit               | Impact: 0.017755
+11.  ,                   | Impact: 0.017033
+12.  free                | Impact: 0.016021
+13.  your                | Impact: 0.015561
+14.  our                 | Impact: 0.015444
+15.  service             | Impact: 0.014264
+16.  removal             | Impact: 0.013908
+17.  =                   | Impact: 0.013682
+18.  and                 | Impact: 0.013005
+19.  =                   | Impact: 0.012980
+20.  =                   | Impact: 0.012494
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  it                  | Impact: -0.003624
+ 2.  '                   | Impact: -0.003624
+ 3.  =                   | Impact: -0.003540
+ 4.  =                   | Impact: -0.003540
+ 5.  .                   | Impact: -0.003239
+ 6.  get                 | Impact: -0.002620
+ 7.  a                   | Impact: -0.002620
+ 8.  s                   | Impact: -0.002394
+ 9.  =                   | Impact: -0.001751
+10.  =                   | Impact: -0.001751
+11.  quote               | Impact: -0.001275
+12.  now                 | Impact: -0.001275
+13.  .                   | Impact: -0.001275
+14.  =                   | Impact: -0.001122
+15.  =                   | Impact: -0.001122
+16.  that                | Impact: -0.000954
+17.  easy                | Impact: -0.000954
+18.  !                   | Impact: -0.000954
+19.  =                   | Impact: -0.000776
+20.  =                   | Impact: -0.000776

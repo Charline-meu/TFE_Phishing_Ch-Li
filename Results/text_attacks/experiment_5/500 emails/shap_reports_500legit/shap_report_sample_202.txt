@@ -1,0 +1,75 @@
+Sample 202
+==========
+
+Sample text preview: > -----Original Message----- > From: Ralf Ertzinger > Sent: Thursday, August , : PM > To: > Subject: Re: Documentation about built-in RPM macros? > > ...
+
+Model prediction: [9.997514e-01 2.485697e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.000774 → LEGITIMATE
+ 2.  sent                | Impact: -0.000774 → LEGITIMATE
+ 3.  the                 | Impact: -0.000636 → LEGITIMATE
+ 4.  user                | Impact: -0.000636 → LEGITIMATE
+ 5.  '                   | Impact: 0.000583 → PHISHING
+ 6.  documentation       | Impact: -0.000495 → LEGITIMATE
+ 7.  for                 | Impact: -0.000495 → LEGITIMATE
+ 8.  the                 | Impact: -0.000495 → LEGITIMATE
+ 9.  macro               | Impact: -0.000495 → LEGITIMATE
+10. s                    | Impact: -0.000495 → LEGITIMATE
+11.  '                   | Impact: -0.000495 → LEGITIMATE
+12.  hmm                 | Impact: -0.000477 → LEGITIMATE
+13.  .                   | Impact: -0.000477 → LEGITIMATE
+14.  :                   | Impact: -0.000464 → LEGITIMATE
+15.  thursday            | Impact: -0.000464 → LEGITIMATE
+16.  files               | Impact: -0.000447 → LEGITIMATE
+17.  '                   | Impact: -0.000447 → LEGITIMATE
+18.  ?                   | Impact: -0.000447 → LEGITIMATE
+19.  wrote               | Impact: -0.000401 → LEGITIMATE
+20.  :                   | Impact: -0.000401 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  '                   | Impact: 0.000583
+ 2.  ,                   | Impact: 0.000274
+ 3.  ,                   | Impact: 0.000184
+ 4.  ra                  | Impact: 0.000151
+ 5. lf                   | Impact: 0.000151
+ 6.  er                  | Impact: 0.000130
+ 7. tz                   | Impact: 0.000130
+ 8. inger                | Impact: 0.000130
+ 9.  august              | Impact: 0.000112
+10.  .                   | Impact: 0.000112
+11.  .                   | Impact: 0.000112
+12.  confused            | Impact: 0.000112
+13.  ?                   | Impact: 0.000112
+14.  anyway              | Impact: 0.000112
+15.  ,                   | Impact: 0.000112
+16.  con                 | Impact: 0.000105
+17. fi                   | Impact: 0.000105
+18. gur                  | Impact: 0.000105
+19. e                    | Impact: 0.000105
+20.  ,                   | Impact: 0.000102
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.000774
+ 2.  sent                | Impact: -0.000774
+ 3.  the                 | Impact: -0.000636
+ 4.  user                | Impact: -0.000636
+ 5.  documentation       | Impact: -0.000495
+ 6.  for                 | Impact: -0.000495
+ 7.  the                 | Impact: -0.000495
+ 8.  macro               | Impact: -0.000495
+ 9. s                    | Impact: -0.000495
+10.  '                   | Impact: -0.000495
+11.  hmm                 | Impact: -0.000477
+12.  .                   | Impact: -0.000477
+13.  :                   | Impact: -0.000464
+14.  thursday            | Impact: -0.000464
+15.  files               | Impact: -0.000447
+16.  '                   | Impact: -0.000447
+17.  ?                   | Impact: -0.000447
+18.  wrote               | Impact: -0.000401
+19.  :                   | Impact: -0.000401
+20.  >                   | Impact: -0.000361

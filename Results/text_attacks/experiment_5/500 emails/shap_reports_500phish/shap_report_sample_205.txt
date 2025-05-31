@@ -1,0 +1,75 @@
+Sample 205
+==========
+
+Sample text preview: Attention/ Ceo, From/ Faith Jeane, Dear Respectful, URGENT ASSISTANCE REQUIRED It is my humble pleasure to write you this letter. I got your company c...
+
+Model prediction: [1.5971153e-04 9.9984026e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  visit               | Impact: 0.020425 → PHISHING
+ 2.  your                | Impact: 0.020425 → PHISHING
+ 3.  country             | Impact: 0.020425 → PHISHING
+ 4.  to                  | Impact: 0.020425 → PHISHING
+ 5.  meet                | Impact: 0.016511 → PHISHING
+ 6.  you                 | Impact: 0.016511 → PHISHING
+ 7.  and                 | Impact: 0.016511 → PHISHING
+ 8.  please              | Impact: 0.008216 → PHISHING
+ 9.  contact             | Impact: 0.008216 → PHISHING
+10.  my                  | Impact: 0.007647 → PHISHING
+11.  lawyer              | Impact: 0.007647 → PHISHING
+12.  kindly              | Impact: 0.006092 → PHISHING
+13.  sent                | Impact: 0.006092 → PHISHING
+14.  to                  | Impact: 0.006092 → PHISHING
+15.  my                  | Impact: 0.006092 → PHISHING
+16.  lawyer              | Impact: 0.006092 → PHISHING
+17.  as                  | Impact: 0.005352 → PHISHING
+18.  soon                | Impact: 0.005352 → PHISHING
+19.  as                  | Impact: 0.005352 → PHISHING
+20.  you                 | Impact: 0.005352 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  visit               | Impact: 0.020425
+ 2.  your                | Impact: 0.020425
+ 3.  country             | Impact: 0.020425
+ 4.  to                  | Impact: 0.020425
+ 5.  meet                | Impact: 0.016511
+ 6.  you                 | Impact: 0.016511
+ 7.  and                 | Impact: 0.016511
+ 8.  please              | Impact: 0.008216
+ 9.  contact             | Impact: 0.008216
+10.  my                  | Impact: 0.007647
+11.  lawyer              | Impact: 0.007647
+12.  kindly              | Impact: 0.006092
+13.  sent                | Impact: 0.006092
+14.  to                  | Impact: 0.006092
+15.  my                  | Impact: 0.006092
+16.  lawyer              | Impact: 0.006092
+17.  as                  | Impact: 0.005352
+18.  soon                | Impact: 0.005352
+19.  as                  | Impact: 0.005352
+20.  you                 | Impact: 0.005352
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  for                 | Impact: -0.003307
+ 2.  a                   | Impact: -0.003307
+ 3.  general             | Impact: -0.003307
+ 4.  feasibility         | Impact: -0.003307
+ 5.  study               | Impact: -0.003307
+ 6.  ,                   | Impact: -0.002291
+ 7.  -                   | Impact: -0.000638
+ 8.  -                   | Impact: -0.000638
+ 9.  -                   | Impact: -0.000638
+10.  -                   | Impact: -0.000638
+11.  -                   | Impact: -0.000638
+12.  -                   | Impact: -0.000638
+13.  -                   | Impact: -0.000638
+14.  -                   | Impact: -0.000638
+15.  -                   | Impact: -0.000638
+16.  -                   | Impact: -0.000638
+17.  -                   | Impact: -0.000638
+18.  -                   | Impact: -0.000638
+19.  -                   | Impact: -0.000638
+20.  -                   | Impact: -0.000638

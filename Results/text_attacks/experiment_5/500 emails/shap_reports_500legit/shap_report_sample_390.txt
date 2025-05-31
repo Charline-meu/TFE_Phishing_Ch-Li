@@ -1,0 +1,75 @@
+Sample 390
+==========
+
+Sample text preview: Experience the future of joint Fires Training at I/ITSEC ST Engineering Antycip SAF-FIRES™ + MAK ONE: A game-changer in Joint Fires Training We’re thr...
+
+Model prediction: [0.9984597  0.00154032]
+Predicted class: LEGITIMATE with 0.9985 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  !                   | Impact: 0.003376 → PHISHING
+ 2.  joint               | Impact: -0.003311 → LEGITIMATE
+ 3.  fires               | Impact: -0.003311 → LEGITIMATE
+ 4.  training            | Impact: -0.003311 → LEGITIMATE
+ 5.  at                  | Impact: -0.002765 → LEGITIMATE
+ 6.  i                   | Impact: -0.002765 → LEGITIMATE
+ 7.  /                   | Impact: -0.002765 → LEGITIMATE
+ 8.  ,                   | Impact: 0.002620 → PHISHING
+ 9.  of                  | Impact: -0.002484 → LEGITIMATE
+10.  joint               | Impact: -0.002484 → LEGITIMATE
+11.  fires               | Impact: -0.002484 → LEGITIMATE
+12.  training            | Impact: -0.002484 → LEGITIMATE
+13.  out                 | Impact: 0.002317 → PHISHING
+14.  to                  | Impact: 0.002317 → PHISHING
+15.  us                  | Impact: 0.002317 → PHISHING
+16.  orlando             | Impact: -0.001902 → LEGITIMATE
+17.  ?                   | Impact: -0.001804 → LEGITIMATE
+18.  a                   | Impact: -0.001477 → LEGITIMATE
+19.  game                | Impact: -0.001477 → LEGITIMATE
+20.  sa                  | Impact: -0.001468 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.003376
+ 2.  ,                   | Impact: 0.002620
+ 3.  out                 | Impact: 0.002317
+ 4.  to                  | Impact: 0.002317
+ 5.  us                  | Impact: 0.002317
+ 6.  warm                | Impact: 0.001445
+ 7.  regards             | Impact: 0.001445
+ 8.  the                 | Impact: 0.001328
+ 9.  future              | Impact: 0.001328
+10. ™                    | Impact: 0.001293
+11.  +                   | Impact: 0.001293
+12.  ma                  | Impact: 0.001205
+13. k                    | Impact: 0.001205
+14.  one                 | Impact: 0.001205
+15.  deliver             | Impact: 0.001205
+16.  seam                | Impact: 0.001163
+17. less                 | Impact: 0.001163
+18.  ,                   | Impact: 0.001163
+19.  its                 | Impact: 0.000998
+20. ec                   | Impact: 0.000998
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  joint               | Impact: -0.003311
+ 2.  fires               | Impact: -0.003311
+ 3.  training            | Impact: -0.003311
+ 4.  at                  | Impact: -0.002765
+ 5.  i                   | Impact: -0.002765
+ 6.  /                   | Impact: -0.002765
+ 7.  of                  | Impact: -0.002484
+ 8.  joint               | Impact: -0.002484
+ 9.  fires               | Impact: -0.002484
+10.  training            | Impact: -0.002484
+11.  orlando             | Impact: -0.001902
+12.  ?                   | Impact: -0.001804
+13.  a                   | Impact: -0.001477
+14.  game                | Impact: -0.001477
+15.  sa                  | Impact: -0.001468
+16. f                    | Impact: -0.001468
+17.  -                   | Impact: -0.001468
+18.  fires               | Impact: -0.001468
+19. ™                    | Impact: -0.001468
+20.  and                 | Impact: -0.001468

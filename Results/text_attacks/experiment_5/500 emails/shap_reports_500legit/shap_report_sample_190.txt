@@ -1,0 +1,75 @@
+Sample 190
+==========
+
+Sample text preview: Dear JUAN R HERNANDEZ, Thank you for your order. We are currently reviewing for completeness and accuracy. A separate email with your Dell Order numbe...
+
+Model prediction: [0.28915235 0.7108477 ]
+Predicted class: PHISHING with 0.7108 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sincerely           | Impact: 0.067583 → PHISHING
+ 2.  ,                   | Impact: 0.057242 → PHISHING
+ 3.  .                   | Impact: -0.047746 → LEGITIMATE
+ 4.  pages               | Impact: -0.046130 → LEGITIMATE
+ 5.  service             | Impact: -0.046130 → LEGITIMATE
+ 6.  your                | Impact: -0.023835 → LEGITIMATE
+ 7.  dell                | Impact: -0.023835 → LEGITIMATE
+ 8.  sales               | Impact: -0.015860 → LEGITIMATE
+ 9.  representative      | Impact: -0.015860 → LEGITIMATE
+10.  using               | Impact: -0.014529 → LEGITIMATE
+11.  your                | Impact: -0.014529 → LEGITIMATE
+12.  dell                | Impact: -0.014529 → LEGITIMATE
+13.  premier             | Impact: -0.014529 → LEGITIMATE
+14.  you                 | Impact: 0.013942 → PHISHING
+15.  to                  | Impact: 0.013942 → PHISHING
+16.  verify              | Impact: 0.013942 → PHISHING
+17.  we                  | Impact: 0.013942 → PHISHING
+18.  encourage           | Impact: 0.013942 → PHISHING
+19.  ,                   | Impact: 0.011708 → PHISHING
+20.  will                | Impact: 0.010546 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sincerely           | Impact: 0.067583
+ 2.  ,                   | Impact: 0.057242
+ 3.  you                 | Impact: 0.013942
+ 4.  to                  | Impact: 0.013942
+ 5.  verify              | Impact: 0.013942
+ 6.  we                  | Impact: 0.013942
+ 7.  encourage           | Impact: 0.013942
+ 8.  ,                   | Impact: 0.011708
+ 9.  will                | Impact: 0.010546
+10.  be                  | Impact: 0.010546
+11.  sent                | Impact: 0.010546
+12.  to                  | Impact: 0.010546
+13.  this                | Impact: 0.008473
+14.  page                | Impact: 0.008473
+15.  for                 | Impact: 0.008473
+16.  your                | Impact: 0.008473
+17.  records             | Impact: 0.008473
+18.  .                   | Impact: 0.008473
+19.  mb                  | Impact: 0.007794
+20.  floppy              | Impact: 0.007794
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.047746
+ 2.  pages               | Impact: -0.046130
+ 3.  service             | Impact: -0.046130
+ 4.  your                | Impact: -0.023835
+ 5.  dell                | Impact: -0.023835
+ 6.  sales               | Impact: -0.015860
+ 7.  representative      | Impact: -0.015860
+ 8.  using               | Impact: -0.014529
+ 9.  your                | Impact: -0.014529
+10.  dell                | Impact: -0.014529
+11.  premier             | Impact: -0.014529
+12.  /                   | Impact: -0.010348
+13.  :                   | Impact: -0.010348
+14.  :                   | Impact: -0.010348
+15.  am                  | Impact: -0.010348
+16.  date                | Impact: -0.008448
+17.  submitted           | Impact: -0.008448
+18.  :                   | Impact: -0.008448
+19.  /                   | Impact: -0.008448
+20.  .                   | Impact: -0.006852

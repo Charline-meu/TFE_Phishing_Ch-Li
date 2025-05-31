@@ -1,0 +1,69 @@
+Phishing Sample 55
+==================
+
+Sample text preview: Dear Sir, I am Mr Steve Ibeto, the personal accounting officer to Mr Williams Hales, a national of your country, who used to work with shell developme...
+
+Model prediction: [1.5890553e-04 9.9984109e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  paid                | Impact: 0.013329 → PHISHING
+ 2.  to                  | Impact: 0.013329 → PHISHING
+ 3.  you                 | Impact: 0.013329 → PHISHING
+ 4.  million             | Impact: 0.012241 → PHISHING
+ 5.  dollars             | Impact: 0.012241 → PHISHING
+ 6.  can                 | Impact: 0.012241 → PHISHING
+ 7.  be                  | Impact: 0.012241 → PHISHING
+ 8.  thanks              | Impact: 0.008522 → PHISHING
+ 9.  and                 | Impact: 0.008522 → PHISHING
+10.  mr                  | Impact: 0.007112 → PHISHING
+11.  steve               | Impact: 0.007112 → PHISHING
+12.  ib                  | Impact: 0.007112 → PHISHING
+13. eto                  | Impact: 0.007112 → PHISHING
+14.  share               | Impact: 0.006252 → PHISHING
+15.  the                 | Impact: 0.006252 → PHISHING
+16.  money               | Impact: 0.006252 → PHISHING
+17.  will                | Impact: 0.005620 → PHISHING
+18.  protect             | Impact: 0.005620 → PHISHING
+19.  you                 | Impact: 0.005620 → PHISHING
+20.  from                | Impact: 0.005620 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  paid                | Impact: 0.013329
+ 2.  to                  | Impact: 0.013329
+ 3.  you                 | Impact: 0.013329
+ 4.  million             | Impact: 0.012241
+ 5.  dollars             | Impact: 0.012241
+ 6.  can                 | Impact: 0.012241
+ 7.  be                  | Impact: 0.012241
+ 8.  thanks              | Impact: 0.008522
+ 9.  and                 | Impact: 0.008522
+10.  mr                  | Impact: 0.007112
+11.  steve               | Impact: 0.007112
+12.  ib                  | Impact: 0.007112
+13. eto                  | Impact: 0.007112
+14.  share               | Impact: 0.006252
+15.  the                 | Impact: 0.006252
+16.  money               | Impact: 0.006252
+17.  will                | Impact: 0.005620
+18.  protect             | Impact: 0.005620
+19.  you                 | Impact: 0.005620
+20.  from                | Impact: 0.005620
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  to                  | Impact: -0.000511
+ 2.  all                 | Impact: -0.000511
+ 3.  avail               | Impact: -0.000511
+ 4.  .                   | Impact: -0.000511
+ 5.  com                 | Impact: -0.000390
+ 6.  -                   | Impact: -0.000390
+ 7.  free                | Impact: -0.000390
+ 8.  email               | Impact: -0.000390
+ 9.  for                 | Impact: -0.000390
+10.  the                 | Impact: -0.000390
+11.  world               | Impact: -0.000390
+12.  !                   | Impact: -0.000390
+13.  particularly        | Impact: -0.000311
+14.  ,                   | Impact: -0.000311

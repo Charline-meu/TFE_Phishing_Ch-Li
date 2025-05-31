@@ -1,0 +1,75 @@
+Sample 165
+==========
+
+Sample text preview: Private E-mail: Dear Sir/ Madam, Before I start, I must first apologize for this unsolicited mail to you. I am aware that this is certainly an unconve...
+
+Model prediction: [1.7326437e-04 9.9982673e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  this                | Impact: 0.014890 → PHISHING
+ 2.  money               | Impact: 0.014890 → PHISHING
+ 3.  will                | Impact: 0.014890 → PHISHING
+ 4.  be                  | Impact: 0.014890 → PHISHING
+ 5.  sir                 | Impact: 0.010429 → PHISHING
+ 6.  i                   | Impact: 0.010429 → PHISHING
+ 7.  am                  | Impact: 0.010429 → PHISHING
+ 8.  requesting          | Impact: 0.010429 → PHISHING
+ 9.  however             | Impact: 0.008126 → PHISHING
+10.  without             | Impact: 0.008126 → PHISHING
+11.  your                | Impact: 0.008126 → PHISHING
+12.  assistance          | Impact: 0.008126 → PHISHING
+13.  mr                  | Impact: 0.008041 → PHISHING
+14.  on                  | Impact: 0.007305 → PHISHING
+15.  these               | Impact: 0.007305 → PHISHING
+16.  funds               | Impact: 0.007305 → PHISHING
+17.  .                   | Impact: 0.007305 → PHISHING
+18.  i                   | Impact: 0.006987 → PHISHING
+19.  am                  | Impact: 0.006987 → PHISHING
+20.  the                 | Impact: 0.006977 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  this                | Impact: 0.014890
+ 2.  money               | Impact: 0.014890
+ 3.  will                | Impact: 0.014890
+ 4.  be                  | Impact: 0.014890
+ 5.  sir                 | Impact: 0.010429
+ 6.  i                   | Impact: 0.010429
+ 7.  am                  | Impact: 0.010429
+ 8.  requesting          | Impact: 0.010429
+ 9.  however             | Impact: 0.008126
+10.  without             | Impact: 0.008126
+11.  your                | Impact: 0.008126
+12.  assistance          | Impact: 0.008126
+13.  mr                  | Impact: 0.008041
+14.  on                  | Impact: 0.007305
+15.  these               | Impact: 0.007305
+16.  funds               | Impact: 0.007305
+17.  .                   | Impact: 0.007305
+18.  i                   | Impact: 0.006987
+19.  am                  | Impact: 0.006987
+20.  the                 | Impact: 0.006977
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  before              | Impact: -0.001554
+ 2.  i                   | Impact: -0.001554
+ 3.  start               | Impact: -0.001554
+ 4.  ,                   | Impact: -0.001554
+ 5.  we                  | Impact: -0.000915
+ 6.  have                | Impact: -0.000915
+ 7.  access              | Impact: -0.000915
+ 8.  to                  | Impact: -0.000915
+ 9.  all                 | Impact: -0.000915
+10.  reilly              | Impact: -0.000915
+11.  '                   | Impact: -0.000915
+12.  s                   | Impact: -0.000915
+13.  information         | Impact: -0.000915
+14.  ,                   | Impact: -0.000915
+15.  as                  | Impact: -0.000683
+16.  stated              | Impact: -0.000683
+17.  earlier             | Impact: -0.000683
+18.  ,                   | Impact: -0.000683
+19.  being               | Impact: -0.000447
+20.  that                | Impact: -0.000447

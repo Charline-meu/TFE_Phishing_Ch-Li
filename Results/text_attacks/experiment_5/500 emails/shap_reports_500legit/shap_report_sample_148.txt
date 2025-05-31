@@ -1,0 +1,75 @@
+Sample 148
+==========
+
+Sample text preview: On Sun, -- at :, Alvie wrote: > hdparm -d /dev/hdc says Operation not Permitted. > DVD playback is very jumpy. > Does someone have any ideas on what I...
+
+Model prediction: [9.9981803e-01 1.8199226e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mail                | Impact: 0.008103 → PHISHING
+ 2. ibe                  | Impact: -0.007154 → LEGITIMATE
+ 3.  options             | Impact: -0.007066 → LEGITIMATE
+ 4.  chris               | Impact: -0.006125 → LEGITIMATE
+ 5.  list                | Impact: 0.005754 → PHISHING
+ 6.  :                   | Impact: -0.005592 → LEGITIMATE
+ 7. lo                   | Impact: -0.005450 → LEGITIMATE
+ 8.  d                   | Impact: -0.005114 → LEGITIMATE
+ 9.  -                   | Impact: -0.004539 → LEGITIMATE
+10.  playback            | Impact: 0.004515 → PHISHING
+11.  rpm                 | Impact: -0.003860 → LEGITIMATE
+12.  >                   | Impact: -0.003720 → LEGITIMATE
+13.  =                   | Impact: -0.003607 → LEGITIMATE
+14.  cd                  | Impact: 0.003201 → PHISHING
+15. ing                  | Impact: 0.003200 → PHISHING
+16.  -                   | Impact: 0.002679 → PHISHING
+17.  -                   | Impact: -0.002346 → LEGITIMATE
+18.  con                 | Impact: -0.002128 → LEGITIMATE
+19.  >                   | Impact: -0.002094 → LEGITIMATE
+20. f                    | Impact: -0.001949 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mail                | Impact: 0.008103
+ 2.  list                | Impact: 0.005754
+ 3.  playback            | Impact: 0.004515
+ 4.  cd                  | Impact: 0.003201
+ 5. ing                  | Impact: 0.003200
+ 6.  -                   | Impact: 0.002679
+ 7. ma                   | Impact: 0.001322
+ 8.  _                   | Impact: 0.001293
+ 9.  _                   | Impact: 0.001269
+10.  _                   | Impact: 0.001229
+11.  _                   | Impact: 0.001189
+12.  _                   | Impact: 0.001103
+13.  _                   | Impact: 0.001095
+14.  _                   | Impact: 0.001014
+15.  _                   | Impact: 0.001009
+16.  _                   | Impact: 0.000870
+17.  _                   | Impact: 0.000849
+18.  _                   | Impact: 0.000666
+19.  dvd                 | Impact: 0.000598
+20.  _                   | Impact: 0.000559
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ibe                  | Impact: -0.007154
+ 2.  options             | Impact: -0.007066
+ 3.  chris               | Impact: -0.006125
+ 4.  :                   | Impact: -0.005592
+ 5. lo                   | Impact: -0.005450
+ 6.  d                   | Impact: -0.005114
+ 7.  -                   | Impact: -0.004539
+ 8.  rpm                 | Impact: -0.003860
+ 9.  >                   | Impact: -0.003720
+10.  =                   | Impact: -0.003607
+11.  -                   | Impact: -0.002346
+12.  con                 | Impact: -0.002128
+13.  >                   | Impact: -0.002094
+14. f                    | Impact: -0.001949
+15.  >                   | Impact: -0.001841
+16.  is                  | Impact: -0.001722
+17.  .                   | Impact: -0.001632
+18.  :                   | Impact: -0.001502
+19.  thanks              | Impact: -0.001457
+20.  at                  | Impact: -0.001381

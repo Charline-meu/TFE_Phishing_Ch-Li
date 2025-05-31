@@ -1,0 +1,75 @@
+Sample 92
+=========
+
+Sample text preview: Dear Subscriber, Please view the new Sunfinder.com Vacation October Newsletter at: This newsletter is sent only to subscribers and those who have book...
+
+Model prediction: [0.9907261  0.00927383]
+Predicted class: LEGITIMATE with 0.9907 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  address             | Impact: 0.138833 → PHISHING
+ 2.  dear                | Impact: 0.127074 → PHISHING
+ 3.  =                   | Impact: 0.111696 → PHISHING
+ 4.  sun                 | Impact: -0.059545 → LEGITIMATE
+ 5.  sun                 | Impact: -0.049666 → LEGITIMATE
+ 6. finder               | Impact: -0.049666 → LEGITIMATE
+ 7.  newsletter          | Impact: -0.043458 → LEGITIMATE
+ 8. finder               | Impact: -0.043387 → LEGITIMATE
+ 9.  mail                | Impact: 0.040135 → PHISHING
+10.  -                   | Impact: 0.031505 → PHISHING
+11.  vacation            | Impact: -0.031312 → LEGITIMATE
+12. s                    | Impact: -0.031312 → LEGITIMATE
+13.  newsletter          | Impact: -0.031005 → LEGITIMATE
+14.  view                | Impact: 0.029153 → PHISHING
+15.  vacation            | Impact: -0.027260 → LEGITIMATE
+16.  happy               | Impact: 0.024324 → PHISHING
+17.  october             | Impact: -0.024141 → LEGITIMATE
+18.  vacation            | Impact: -0.023921 → LEGITIMATE
+19.  the                 | Impact: -0.022688 → LEGITIMATE
+20.  sent                | Impact: 0.021729 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  address             | Impact: 0.138833
+ 2.  dear                | Impact: 0.127074
+ 3.  =                   | Impact: 0.111696
+ 4.  mail                | Impact: 0.040135
+ 5.  -                   | Impact: 0.031505
+ 6.  view                | Impact: 0.029153
+ 7.  happy               | Impact: 0.024324
+ 8.  sent                | Impact: 0.021729
+ 9.  created             | Impact: 0.020763
+10.  accounts            | Impact: 0.020763
+11.  travels             | Impact: 0.018058
+12.  ,                   | Impact: 0.017689
+13.  travel              | Impact: 0.017062
+14.  through             | Impact: 0.016334
+15.  !                   | Impact: 0.015908
+16.  is                  | Impact: 0.013892
+17.  you                 | Impact: 0.010734
+18.                      | Impact: 0.008365
+19.  or                  | Impact: 0.005331
+20.  =                   | Impact: 0.004248
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  sun                 | Impact: -0.059545
+ 2.  sun                 | Impact: -0.049666
+ 3. finder               | Impact: -0.049666
+ 4.  newsletter          | Impact: -0.043458
+ 5. finder               | Impact: -0.043387
+ 6.  vacation            | Impact: -0.031312
+ 7. s                    | Impact: -0.031312
+ 8.  newsletter          | Impact: -0.031005
+ 9.  vacation            | Impact: -0.027260
+10.  october             | Impact: -0.024141
+11.  vacation            | Impact: -0.023921
+12.  the                 | Impact: -0.022688
+13.  this                | Impact: -0.020709
+14. r                    | Impact: -0.019271
+15.  or                  | Impact: -0.019253
+16.  com                 | Impact: -0.018967
+17.  typing              | Impact: -0.018297
+18.  in                  | Impact: -0.018297
+19.  e                   | Impact: -0.018005
+20.  cs                  | Impact: -0.014895

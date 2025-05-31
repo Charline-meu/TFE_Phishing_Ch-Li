@@ -1,0 +1,75 @@
+Sample 227
+==========
+
+Sample text preview: Here are this month&#x;s new releases from authors on your shelves and your favorite genres. Enjoy! Goodreads [ [ Fiction Everyone in This Room Will S...
+
+Model prediction: [9.994741e-01 5.259617e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mixtape             | Impact: 0.018063 → PHISHING
+ 2.  the                 | Impact: 0.007484 → PHISHING
+ 3.  incense             | Impact: -0.003577 → LEGITIMATE
+ 4.  [                   | Impact: -0.003000 → LEGITIMATE
+ 5.  [                   | Impact: -0.003000 → LEGITIMATE
+ 6.  book                | Impact: 0.002769 → PHISHING
+ 7.  club                | Impact: 0.002769 → PHISHING
+ 8.  ,                   | Impact: 0.002769 → PHISHING
+ 9.  and                 | Impact: -0.002394 → LEGITIMATE
+10.  sen                 | Impact: -0.002394 → LEGITIMATE
+11. sibility             | Impact: -0.002394 → LEGITIMATE
+12.  [                   | Impact: -0.002299 → LEGITIMATE
+13.  [                   | Impact: -0.002299 → LEGITIMATE
+14.  (                   | Impact: 0.002213 → PHISHING
+15.  bro                 | Impact: 0.002213 → PHISHING
+16. man                  | Impact: 0.002213 → PHISHING
+17. ce                   | Impact: 0.002213 → PHISHING
+18.  >                   | Impact: -0.001304 → LEGITIMATE
+19.  science             | Impact: -0.001304 → LEGITIMATE
+20.  fiction             | Impact: -0.001225 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mixtape             | Impact: 0.018063
+ 2.  the                 | Impact: 0.007484
+ 3.  book                | Impact: 0.002769
+ 4.  club                | Impact: 0.002769
+ 5.  ,                   | Impact: 0.002769
+ 6.  (                   | Impact: 0.002213
+ 7.  bro                 | Impact: 0.002213
+ 8. man                  | Impact: 0.002213
+ 9. ce                   | Impact: 0.002213
+10.  group               | Impact: 0.000591
+11.  [                   | Impact: 0.000591
+12.  [                   | Impact: 0.000591
+13.  girl                | Impact: 0.000591
+14.  support             | Impact: 0.000591
+15.  ;                   | Impact: 0.000536
+16.  thriller            | Impact: 0.000536
+17.  the                 | Impact: 0.000536
+18.  final               | Impact: 0.000536
+19.  a                   | Impact: 0.000371
+20.  memoir              | Impact: 0.000371
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  incense             | Impact: -0.003577
+ 2.  [                   | Impact: -0.003000
+ 3.  [                   | Impact: -0.003000
+ 4.  and                 | Impact: -0.002394
+ 5.  sen                 | Impact: -0.002394
+ 6. sibility             | Impact: -0.002394
+ 7.  [                   | Impact: -0.002299
+ 8.  [                   | Impact: -0.002299
+ 9.  >                   | Impact: -0.001304
+10.  science             | Impact: -0.001304
+11.  fiction             | Impact: -0.001225
+12.  a                   | Impact: -0.001225
+13.  psalm               | Impact: -0.001225
+14.  for                 | Impact: -0.001225
+15.  :                   | Impact: -0.000824
+16.  essays              | Impact: -0.000824
+17.  the                 | Impact: -0.000803
+18.  wild                | Impact: -0.000803
+19.  -                   | Impact: -0.000803
+20.  built               | Impact: -0.000803

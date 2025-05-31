@@ -1,0 +1,75 @@
+Sample 422
+==========
+
+Sample text preview: Dear Friend, My name is SALIM IBRAHIM a merchant in Dubai, in the U.A.E.I have been diagnosed with Esophageal cancer It has defiled all forms of medic...
+
+Model prediction: [1.7775006e-04 9.9982232e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.                      | Impact: 0.013950 → PHISHING
+ 2.  dear                | Impact: 0.013950 → PHISHING
+ 3.  friend              | Impact: 0.013950 → PHISHING
+ 4.  ,                   | Impact: 0.013950 → PHISHING
+ 5.  my                  | Impact: 0.012750 → PHISHING
+ 6.  name                | Impact: 0.012750 → PHISHING
+ 7.  is                  | Impact: 0.012750 → PHISHING
+ 8.  salim               | Impact: 0.012750 → PHISHING
+ 9.  ibrahim             | Impact: 0.012097 → PHISHING
+10.  a                   | Impact: 0.012097 → PHISHING
+11.  merchant            | Impact: 0.012097 → PHISHING
+12.  in                  | Impact: 0.012097 → PHISHING
+13.  dubai               | Impact: 0.012097 → PHISHING
+14.  ,                   | Impact: 0.012097 → PHISHING
+15.  i                   | Impact: 0.008442 → PHISHING
+16.  will                | Impact: 0.008442 → PHISHING
+17.  want                | Impact: 0.008442 → PHISHING
+18.  you                 | Impact: 0.008442 → PHISHING
+19.  salim               | Impact: 0.006498 → PHISHING
+20.  ibrahim             | Impact: 0.006498 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.                      | Impact: 0.013950
+ 2.  dear                | Impact: 0.013950
+ 3.  friend              | Impact: 0.013950
+ 4.  ,                   | Impact: 0.013950
+ 5.  my                  | Impact: 0.012750
+ 6.  name                | Impact: 0.012750
+ 7.  is                  | Impact: 0.012750
+ 8.  salim               | Impact: 0.012750
+ 9.  ibrahim             | Impact: 0.012097
+10.  a                   | Impact: 0.012097
+11.  merchant            | Impact: 0.012097
+12.  in                  | Impact: 0.012097
+13.  dubai               | Impact: 0.012097
+14.  ,                   | Impact: 0.012097
+15.  i                   | Impact: 0.008442
+16.  will                | Impact: 0.008442
+17.  want                | Impact: 0.008442
+18.  you                 | Impact: 0.008442
+19.  salim               | Impact: 0.006498
+20.  ibrahim             | Impact: 0.006498
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  in                  | Impact: -0.001318
+ 2.  the                 | Impact: -0.001318
+ 3.  u                   | Impact: -0.001318
+ 4.  .                   | Impact: -0.001318
+ 5.  as                  | Impact: -0.001192
+ 6.  they                | Impact: -0.001192
+ 7.  seem                | Impact: -0.001192
+ 8.  not                 | Impact: -0.001192
+ 9.  to                  | Impact: -0.001192
+10.  be                  | Impact: -0.001192
+11.  contend             | Impact: -0.001192
+12. ed                   | Impact: -0.001192
+13.  es                  | Impact: -0.000944
+14. op                   | Impact: -0.000944
+15. ha                   | Impact: -0.000944
+16. ge                   | Impact: -0.000944
+17. al                   | Impact: -0.000944
+18.  i                   | Impact: -0.000881
+19.  have                | Impact: -0.000881
+20.  been                | Impact: -0.000881

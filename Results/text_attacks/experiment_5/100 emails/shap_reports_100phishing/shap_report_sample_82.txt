@@ -1,0 +1,75 @@
+Phishing Sample 82
+==================
+
+Sample text preview: Please always be in contact with me through this alternative email address at of security reasons. Dear Friend, I am Dr.Daniel Nando presently i am pr...
+
+Model prediction: [2.1530100e-04 9.9978477e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  son                 | Impact: 0.027961 → PHISHING
+ 2.  her                 | Impact: 0.025829 → PHISHING
+ 3.  towards             | Impact: 0.020637 → PHISHING
+ 4.  this                | Impact: 0.020637 → PHISHING
+ 5.  madam               | Impact: 0.020637 → PHISHING
+ 6.  and                 | Impact: 0.012009 → PHISHING
+ 7.  international       | Impact: 0.011997 → PHISHING
+ 8.  brotherhood         | Impact: 0.011997 → PHISHING
+ 9.  medical             | Impact: 0.010748 → PHISHING
+10.  &                   | Impact: 0.010748 → PHISHING
+11.  to                  | Impact: 0.008960 → PHISHING
+12.  contact             | Impact: 0.008960 → PHISHING
+13.  a                   | Impact: 0.008960 → PHISHING
+14.  genuine             | Impact: 0.008960 → PHISHING
+15.  is                  | Impact: 0.008814 → PHISHING
+16.  reality             | Impact: 0.008814 → PHISHING
+17.  her                 | Impact: 0.008596 → PHISHING
+18.  the                 | Impact: 0.008596 → PHISHING
+19.  dear                | Impact: 0.007168 → PHISHING
+20.  friend              | Impact: 0.007168 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  son                 | Impact: 0.027961
+ 2.  her                 | Impact: 0.025829
+ 3.  towards             | Impact: 0.020637
+ 4.  this                | Impact: 0.020637
+ 5.  madam               | Impact: 0.020637
+ 6.  and                 | Impact: 0.012009
+ 7.  international       | Impact: 0.011997
+ 8.  brotherhood         | Impact: 0.011997
+ 9.  medical             | Impact: 0.010748
+10.  &                   | Impact: 0.010748
+11.  to                  | Impact: 0.008960
+12.  contact             | Impact: 0.008960
+13.  a                   | Impact: 0.008960
+14.  genuine             | Impact: 0.008960
+15.  is                  | Impact: 0.008814
+16.  reality             | Impact: 0.008814
+17.  her                 | Impact: 0.008596
+18.  the                 | Impact: 0.008596
+19.  dear                | Impact: 0.007168
+20.  friend              | Impact: 0.007168
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  though              | Impact: -0.002195
+ 2.  i                   | Impact: -0.002195
+ 3.  have                | Impact: -0.002195
+ 4.  given               | Impact: -0.002195
+ 5.  that                | Impact: -0.000553
+ 6.  the                 | Impact: -0.000553
+ 7.  content             | Impact: -0.000553
+ 8.  of                  | Impact: -0.000553
+ 9.  the                 | Impact: -0.000553
+10.  con                 | Impact: -0.000553
+11. si                   | Impact: -0.000553
+12. gen                  | Impact: -0.000553
+13. ment                 | Impact: -0.000553
+14.  of                  | Impact: -0.000170
+15.  deposit             | Impact: -0.000170
+16.  and                 | Impact: -0.000170
+17.  the                 | Impact: -0.000170
+18.  matter              | Impact: -0.000170
+19.  of                  | Impact: -0.000170
+20.  certificate         | Impact: -0.000170

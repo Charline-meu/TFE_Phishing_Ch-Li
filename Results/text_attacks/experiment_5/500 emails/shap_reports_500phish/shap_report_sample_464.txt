@@ -1,0 +1,75 @@
+Sample 464
+==========
+
+Sample text preview: Dear Friend. I am Mrs Janet Bradford, am a widow and an International Oil merchant in Dubai, United Arab Emirate and a member of Project Management In...
+
+Model prediction: [1.7255131e-04 9.9982738e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  husband             | Impact: 0.011983 → PHISHING
+ 2.  years               | Impact: 0.011983 → PHISHING
+ 3.  ago                 | Impact: 0.011983 → PHISHING
+ 4.  !                   | Impact: 0.011983 → PHISHING
+ 5.                      | Impact: 0.010634 → PHISHING
+ 6.  dear                | Impact: 0.010634 → PHISHING
+ 7.  friend              | Impact: 0.010506 → PHISHING
+ 8.  of                  | Impact: 0.009642 → PHISHING
+ 9.  my                  | Impact: 0.009642 → PHISHING
+10.  family              | Impact: 0.009642 → PHISHING
+11.  to                  | Impact: 0.009642 → PHISHING
+12.  husband             | Impact: 0.009396 → PHISHING
+13.  years               | Impact: 0.009396 → PHISHING
+14.  ago                 | Impact: 0.009396 → PHISHING
+15.  my                  | Impact: 0.007853 → PHISHING
+16.  lovely              | Impact: 0.007853 → PHISHING
+17.  million             | Impact: 0.007108 → PHISHING
+18.  united              | Impact: 0.007108 → PHISHING
+19.  states              | Impact: 0.007108 → PHISHING
+20.  dollars             | Impact: 0.007108 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  husband             | Impact: 0.011983
+ 2.  years               | Impact: 0.011983
+ 3.  ago                 | Impact: 0.011983
+ 4.  !                   | Impact: 0.011983
+ 5.                      | Impact: 0.010634
+ 6.  dear                | Impact: 0.010634
+ 7.  friend              | Impact: 0.010506
+ 8.  of                  | Impact: 0.009642
+ 9.  my                  | Impact: 0.009642
+10.  family              | Impact: 0.009642
+11.  to                  | Impact: 0.009642
+12.  husband             | Impact: 0.009396
+13.  years               | Impact: 0.009396
+14.  ago                 | Impact: 0.009396
+15.  my                  | Impact: 0.007853
+16.  lovely              | Impact: 0.007853
+17.  million             | Impact: 0.007108
+18.  united              | Impact: 0.007108
+19.  states              | Impact: 0.007108
+20.  dollars             | Impact: 0.007108
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.001094
+ 2.  have                | Impact: -0.001094
+ 3.  been                | Impact: -0.001094
+ 4.  diagnosed           | Impact: -0.001094
+ 5.  .                   | Impact: -0.000568
+ 6.  with                | Impact: -0.000462
+ 7.  cancer              | Impact: -0.000462
+ 8.  ,                   | Impact: -0.000462
+ 9.  and                 | Impact: -0.000023
+10.  comfort             | Impact: -0.000023
+11.  to                  | Impact: -0.000023
+12.  the                 | Impact: -0.000023
+13.  less                | Impact: -0.000023
+14.  privileged          | Impact: -0.000023
+15.  of                  | Impact: -0.000023
+16.  the                 | Impact: -0.000023
+17.  tsunami             | Impact: -0.000023
+18.  and                 | Impact: -0.000023
+19.  i                   | Impact: -0.000023
+20.  want                | Impact: -0.000023

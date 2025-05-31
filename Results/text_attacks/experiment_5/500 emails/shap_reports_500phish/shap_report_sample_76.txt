@@ -1,0 +1,75 @@
+Sample 76
+=========
+
+Sample text preview: Attn: The President /ceo Dear, By way of introduction I am Mr.Idris Umar working in the credit and accounts department Union Bank of Nigeria Plc, Lago...
+
+Model prediction: [1.6736222e-04 9.9983263e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lagos               | Impact: 0.037356 → PHISHING
+ 2.  nigeria             | Impact: 0.018060 → PHISHING
+ 3.  ,                   | Impact: 0.010556 → PHISHING
+ 4.  .                   | Impact: 0.010076 → PHISHING
+ 5.  mr                  | Impact: 0.009765 → PHISHING
+ 6.  .                   | Impact: 0.009765 → PHISHING
+ 7.  i                   | Impact: 0.007744 → PHISHING
+ 8.  remain              | Impact: 0.007744 → PHISHING
+ 9.  respectful          | Impact: 0.007744 → PHISHING
+10. ly                   | Impact: 0.007744 → PHISHING
+11.  yours               | Impact: 0.007744 → PHISHING
+12.  ,                   | Impact: 0.007744 → PHISHING
+13.  of                  | Impact: 0.007323 → PHISHING
+14.  nigeria             | Impact: 0.007323 → PHISHING
+15.  plc                 | Impact: 0.007323 → PHISHING
+16.  ,                   | Impact: 0.007323 → PHISHING
+17.  accounts            | Impact: 0.007241 → PHISHING
+18.  department          | Impact: 0.007241 → PHISHING
+19.  union               | Impact: 0.007241 → PHISHING
+20.  bank                | Impact: 0.007241 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  lagos               | Impact: 0.037356
+ 2.  nigeria             | Impact: 0.018060
+ 3.  ,                   | Impact: 0.010556
+ 4.  .                   | Impact: 0.010076
+ 5.  mr                  | Impact: 0.009765
+ 6.  .                   | Impact: 0.009765
+ 7.  i                   | Impact: 0.007744
+ 8.  remain              | Impact: 0.007744
+ 9.  respectful          | Impact: 0.007744
+10. ly                   | Impact: 0.007744
+11.  yours               | Impact: 0.007744
+12.  ,                   | Impact: 0.007744
+13.  of                  | Impact: 0.007323
+14.  nigeria             | Impact: 0.007323
+15.  plc                 | Impact: 0.007323
+16.  ,                   | Impact: 0.007323
+17.  accounts            | Impact: 0.007241
+18.  department          | Impact: 0.007241
+19.  union               | Impact: 0.007241
+20.  bank                | Impact: 0.007241
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  n                   | Impact: -0.001890
+ 2. b                    | Impact: -0.001890
+ 3.  :                   | Impact: -0.001890
+ 4.  for                 | Impact: -0.001890
+ 5.  so                  | Impact: -0.001043
+ 6.  that                | Impact: -0.001043
+ 7.  i                   | Impact: -0.001043
+ 8.  can                 | Impact: -0.001043
+ 9.  computer            | Impact: -0.001043
+10. ize                  | Impact: -0.001043
+11.  them                | Impact: -0.001043
+12.  to                  | Impact: -0.001043
+13.  tally               | Impact: -0.000685
+14.  with                | Impact: -0.000685
+15.  next                | Impact: -0.000685
+16.  of                  | Impact: -0.000685
+17.  kin                 | Impact: -0.000685
+18.  column              | Impact: -0.000685
+19.  in                  | Impact: -0.000685
+20.  the                 | Impact: -0.000685

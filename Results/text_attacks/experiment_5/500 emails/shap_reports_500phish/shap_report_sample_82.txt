@@ -1,0 +1,75 @@
+Sample 82
+=========
+
+Sample text preview: My Dear Friend, My name is Mr.Musa A. Zulu, the manager, credit and foreign bills in African Development Bank Plc. I am writing in respect of a foreig...
+
+Model prediction: [1.7398817e-04 9.9982601e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bank                | Impact: 0.019688 → PHISHING
+ 2.  dear                | Impact: 0.017885 → PHISHING
+ 3.  friend              | Impact: 0.017885 → PHISHING
+ 4.  is                  | Impact: 0.014718 → PHISHING
+ 5.  mr                  | Impact: 0.014718 → PHISHING
+ 6.  my                  | Impact: 0.012985 → PHISHING
+ 7.  my                  | Impact: 0.012698 → PHISHING
+ 8.  name                | Impact: 0.012698 → PHISHING
+ 9.                      | Impact: 0.010199 → PHISHING
+10.  my                  | Impact: 0.010199 → PHISHING
+11.  customer            | Impact: 0.009662 → PHISHING
+12.  of                  | Impact: 0.009662 → PHISHING
+13.  to                  | Impact: 0.008449 → PHISHING
+14.  your                | Impact: 0.008449 → PHISHING
+15.  to                  | Impact: 0.007841 → PHISHING
+16.  bring               | Impact: 0.007841 → PHISHING
+17.  as                  | Impact: 0.006280 → PHISHING
+18.  no                  | Impact: 0.006280 → PHISHING
+19.  one                 | Impact: 0.006280 → PHISHING
+20.  has                 | Impact: 0.006280 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.019688
+ 2.  dear                | Impact: 0.017885
+ 3.  friend              | Impact: 0.017885
+ 4.  is                  | Impact: 0.014718
+ 5.  mr                  | Impact: 0.014718
+ 6.  my                  | Impact: 0.012985
+ 7.  my                  | Impact: 0.012698
+ 8.  name                | Impact: 0.012698
+ 9.                      | Impact: 0.010199
+10.  my                  | Impact: 0.010199
+11.  customer            | Impact: 0.009662
+12.  of                  | Impact: 0.009662
+13.  to                  | Impact: 0.008449
+14.  your                | Impact: 0.008449
+15.  to                  | Impact: 0.007841
+16.  bring               | Impact: 0.007841
+17.  as                  | Impact: 0.006280
+18.  no                  | Impact: 0.006280
+19.  one                 | Impact: 0.006280
+20.  has                 | Impact: 0.006280
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ,                   | Impact: -0.003392
+ 2.  on                  | Impact: -0.003229
+ 3.  this                | Impact: -0.003229
+ 4.  note                | Impact: -0.003229
+ 5.  ]                   | Impact: -0.002994
+ 6.  with                | Impact: -0.002994
+ 7.  the                 | Impact: -0.002994
+ 8.  whole               | Impact: -0.002994
+ 9.  united              | Impact: -0.002971
+10.  states              | Impact: -0.002971
+11.  dollars             | Impact: -0.002971
+12.  ]                   | Impact: -0.002971
+13.  [                   | Impact: -0.002949
+14.  korean              | Impact: -0.002949
+15.  air                 | Impact: -0.002949
+16.  flight              | Impact: -0.002949
+17.  [                   | Impact: -0.002260
+18.  fifty               | Impact: -0.002260
+19.  seven               | Impact: -0.002260
+20.  million             | Impact: -0.002260

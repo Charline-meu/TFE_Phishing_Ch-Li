@@ -1,0 +1,75 @@
+Sample 392
+==========
+
+Sample text preview: use Perl Daily Newsletter In this issue: * Perl CMS Systems * Perl Conference CD Online * Bricolage .. Escapes! +-------------------------------------...
+
+Model prediction: [9.9980539e-01 1.9465253e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  per                 | Impact: -0.003070 → LEGITIMATE
+ 2. l                    | Impact: -0.003070 → LEGITIMATE
+ 3.  conference          | Impact: -0.002176 → LEGITIMATE
+ 4.  cd                  | Impact: -0.002176 → LEGITIMATE
+ 5.  per                 | Impact: -0.001181 → LEGITIMATE
+ 6.  use                 | Impact: -0.000804 → LEGITIMATE
+ 7.  issue               | Impact: -0.000741 → LEGITIMATE
+ 8.  +                   | Impact: -0.000723 → LEGITIMATE
+ 9.  -                   | Impact: -0.000723 → LEGITIMATE
+10.  -                   | Impact: -0.000723 → LEGITIMATE
+11.  -                   | Impact: -0.000723 → LEGITIMATE
+12.  -                   | Impact: -0.000723 → LEGITIMATE
+13.  -                   | Impact: -0.000723 → LEGITIMATE
+14.  -                   | Impact: -0.000723 → LEGITIMATE
+15.  -                   | Impact: -0.000723 → LEGITIMATE
+16.  per                 | Impact: -0.000640 → LEGITIMATE
+17. l                    | Impact: -0.000640 → LEGITIMATE
+18.  per                 | Impact: -0.000600 → LEGITIMATE
+19. l                    | Impact: -0.000600 → LEGITIMATE
+20.  cm                  | Impact: -0.000582 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.000374
+ 2.  .                   | Impact: 0.000374
+ 3.  -                   | Impact: 0.000165
+ 4.  -                   | Impact: 0.000165
+ 5.  -                   | Impact: 0.000165
+ 6.  -                   | Impact: 0.000165
+ 7.  -                   | Impact: 0.000165
+ 8.  -                   | Impact: 0.000165
+ 9.  -                   | Impact: 0.000165
+10.  -                   | Impact: 0.000165
+11.  -                   | Impact: 0.000133
+12.  -                   | Impact: 0.000133
+13.  -                   | Impact: 0.000133
+14.  -                   | Impact: 0.000133
+15.  -                   | Impact: 0.000133
+16.  +                   | Impact: 0.000133
+17.  |                   | Impact: 0.000133
+18.  on                  | Impact: 0.000090
+19.  tuesday             | Impact: 0.000090
+20.  september           | Impact: 0.000090
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  per                 | Impact: -0.003070
+ 2. l                    | Impact: -0.003070
+ 3.  conference          | Impact: -0.002176
+ 4.  cd                  | Impact: -0.002176
+ 5.  per                 | Impact: -0.001181
+ 6.  use                 | Impact: -0.000804
+ 7.  issue               | Impact: -0.000741
+ 8.  +                   | Impact: -0.000723
+ 9.  -                   | Impact: -0.000723
+10.  -                   | Impact: -0.000723
+11.  -                   | Impact: -0.000723
+12.  -                   | Impact: -0.000723
+13.  -                   | Impact: -0.000723
+14.  -                   | Impact: -0.000723
+15.  -                   | Impact: -0.000723
+16.  per                 | Impact: -0.000640
+17. l                    | Impact: -0.000640
+18.  per                 | Impact: -0.000600
+19. l                    | Impact: -0.000600
+20.  cm                  | Impact: -0.000582

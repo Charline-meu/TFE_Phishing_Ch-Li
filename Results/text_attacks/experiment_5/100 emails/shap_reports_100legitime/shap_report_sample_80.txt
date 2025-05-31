@@ -1,0 +1,64 @@
+Phishing Sample 80
+==================
+
+Sample text preview: URL: Date: Not supplied The new network aims to thwart hackers and beat technical problems that make such networks slow or unreliable
+
+Model prediction: [9.9954611e-01 4.5383803e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  new                 | Impact: 0.079335 → PHISHING
+ 2.  ur                  | Impact: -0.074634 → LEGITIMATE
+ 3.  aims                | Impact: -0.054508 → LEGITIMATE
+ 4.  network             | Impact: 0.052893 → PHISHING
+ 5.  :                   | Impact: -0.051974 → LEGITIMATE
+ 6.  networks            | Impact: -0.050863 → LEGITIMATE
+ 7.  :                   | Impact: -0.044007 → LEGITIMATE
+ 8.  th                  | Impact: 0.041338 → PHISHING
+ 9.  to                  | Impact: 0.037922 → PHISHING
+10.  and                 | Impact: 0.030444 → PHISHING
+11.  beat                | Impact: 0.029788 → PHISHING
+12.  slow                | Impact: 0.027887 → PHISHING
+13.  hacker              | Impact: -0.021035 → LEGITIMATE
+14.  make                | Impact: 0.020949 → PHISHING
+15.  technical           | Impact: -0.020673 → LEGITIMATE
+16. wart                 | Impact: -0.014011 → LEGITIMATE
+17.  date                | Impact: 0.013635 → PHISHING
+18.  the                 | Impact: -0.013498 → LEGITIMATE
+19.  problems            | Impact: -0.013074 → LEGITIMATE
+20.  supplied            | Impact: -0.012863 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  new                 | Impact: 0.079335
+ 2.  network             | Impact: 0.052893
+ 3.  th                  | Impact: 0.041338
+ 4.  to                  | Impact: 0.037922
+ 5.  and                 | Impact: 0.030444
+ 6.  beat                | Impact: 0.029788
+ 7.  slow                | Impact: 0.027887
+ 8.  make                | Impact: 0.020949
+ 9.  date                | Impact: 0.013635
+10.  not                 | Impact: 0.005389
+11. s                    | Impact: 0.001284
+12.                      | Impact: 0.000000
+13.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ur                  | Impact: -0.074634
+ 2.  aims                | Impact: -0.054508
+ 3.  :                   | Impact: -0.051974
+ 4.  networks            | Impact: -0.050863
+ 5.  :                   | Impact: -0.044007
+ 6.  hacker              | Impact: -0.021035
+ 7.  technical           | Impact: -0.020673
+ 8. wart                 | Impact: -0.014011
+ 9.  the                 | Impact: -0.013498
+10.  problems            | Impact: -0.013074
+11.  supplied            | Impact: -0.012863
+12.  such                | Impact: -0.011318
+13.  or                  | Impact: -0.005305
+14. l                    | Impact: -0.004053
+15.  unreliable          | Impact: -0.001073
+16.  that                | Impact: -0.000978

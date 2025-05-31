@@ -1,0 +1,75 @@
+Sample 449
+==========
+
+Sample text preview: Dear Sir, *·\u\ue\ubVE\u(VEñ\u\u),\uaa\ua \uaeJB,\ufBT,\uacµ\u,\uae\ua..... * ·\u\uVE\u\ue, \uaa\u \ub\ue\ub,\ub\u\u\ub\uc\uf\u \u,\ub\u\ud\uc\uf,\u.\...
+
+Model prediction: [2.3468207e-04 9.9976534e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sir                 | Impact: 0.034137 → PHISHING
+ 2.  receive             | Impact: 0.027612 → PHISHING
+ 3.  your                | Impact: 0.027612 → PHISHING
+ 4.  payment             | Impact: 0.027612 → PHISHING
+ 5.                      | Impact: 0.024479 → PHISHING
+ 6.  dear                | Impact: 0.024479 → PHISHING
+ 7.  (                   | Impact: -0.023445 → LEGITIMATE
+ 8.  bosch               | Impact: -0.023445 → LEGITIMATE
+ 9.  )                   | Impact: -0.023445 → LEGITIMATE
+10.  after               | Impact: 0.016698 → PHISHING
+11.  we                  | Impact: 0.016698 → PHISHING
+12.  \                   | Impact: 0.007895 → PHISHING
+13.  u                   | Impact: 0.007895 → PHISHING
+14.  \                   | Impact: 0.007895 → PHISHING
+15.  \                   | Impact: 0.006879 → PHISHING
+16.  uc                  | Impact: 0.006879 → PHISHING
+17.  \                   | Impact: 0.006879 → PHISHING
+18.  -                   | Impact: -0.006560 → LEGITIMATE
+19.  -                   | Impact: -0.006560 → LEGITIMATE
+20.  \                   | Impact: 0.005967 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sir                 | Impact: 0.034137
+ 2.  receive             | Impact: 0.027612
+ 3.  your                | Impact: 0.027612
+ 4.  payment             | Impact: 0.027612
+ 5.                      | Impact: 0.024479
+ 6.  dear                | Impact: 0.024479
+ 7.  after               | Impact: 0.016698
+ 8.  we                  | Impact: 0.016698
+ 9.  \                   | Impact: 0.007895
+10.  u                   | Impact: 0.007895
+11.  \                   | Impact: 0.007895
+12.  \                   | Impact: 0.006879
+13.  uc                  | Impact: 0.006879
+14.  \                   | Impact: 0.006879
+15.  \                   | Impact: 0.005967
+16.  uc                  | Impact: 0.005967
+17.  \                   | Impact: 0.005967
+18.  u                   | Impact: 0.005967
+19. b                    | Impact: 0.005967
+20.  within              | Impact: 0.004995
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.023445
+ 2.  bosch               | Impact: -0.023445
+ 3.  )                   | Impact: -0.023445
+ 4.  -                   | Impact: -0.006560
+ 5.  -                   | Impact: -0.006560
+ 6.  we                  | Impact: -0.005013
+ 7.  quote               | Impact: -0.005013
+ 8.  them                | Impact: -0.005013
+ 9.  as                  | Impact: -0.005013
+10.  (                   | Impact: -0.003437
+11.  )                   | Impact: -0.003437
+12.  nippon              | Impact: -0.003437
+13.  den                 | Impact: -0.003437
+14. so                   | Impact: -0.003437
+15.  follows             | Impact: -0.003257
+16.  :                   | Impact: -0.003257
+17.  -                   | Impact: -0.003257
+18.  -                   | Impact: -0.003228
+19.  -                   | Impact: -0.003228
+20.  -                   | Impact: -0.003228

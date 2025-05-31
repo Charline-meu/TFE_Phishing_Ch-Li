@@ -1,0 +1,75 @@
+Sample 256
+==========
+
+Sample text preview: Hi Teresa, Believe it or not, I just got my directory...I guess they finally figured out where I am located! I also found out that I need to correct t...
+
+Model prediction: [9.9978691e-01 2.1309774e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  hi                  | Impact: 0.020930 → PHISHING
+ 2. ron                  | Impact: -0.020782 → LEGITIMATE
+ 3. ron                  | Impact: -0.020763 → LEGITIMATE
+ 4.  found               | Impact: 0.017753 → PHISHING
+ 5.  not                 | Impact: -0.012287 → LEGITIMATE
+ 6.  or                  | Impact: -0.012132 → LEGITIMATE
+ 7.  correct             | Impact: -0.011696 → LEGITIMATE
+ 8.  company             | Impact: 0.011009 → PHISHING
+ 9.  !                   | Impact: 0.009653 → PHISHING
+10.  guess               | Impact: -0.009623 → LEGITIMATE
+11.  corporation         | Impact: 0.009578 → PHISHING
+12.  ,                   | Impact: -0.007579 → LEGITIMATE
+13.  en                  | Impact: -0.007055 → LEGITIMATE
+14.  .                   | Impact: -0.006737 → LEGITIMATE
+15.  located             | Impact: 0.006602 → PHISHING
+16.  information         | Impact: 0.006383 → PHISHING
+17.  directory           | Impact: 0.006332 → PHISHING
+18.  !                   | Impact: 0.006178 → PHISHING
+19.  the                 | Impact: -0.006067 → LEGITIMATE
+20.  i                   | Impact: -0.006062 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  hi                  | Impact: 0.020930
+ 2.  found               | Impact: 0.017753
+ 3.  company             | Impact: 0.011009
+ 4.  !                   | Impact: 0.009653
+ 5.  corporation         | Impact: 0.009578
+ 6.  located             | Impact: 0.006602
+ 7.  information         | Impact: 0.006383
+ 8.  directory           | Impact: 0.006332
+ 9.  !                   | Impact: 0.006178
+10.  &                   | Impact: 0.005938
+11.  my                  | Impact: 0.005542
+12.  my                  | Impact: 0.005152
+13.  am                  | Impact: 0.004165
+14.  teresa              | Impact: 0.004118
+15.  soon                | Impact: 0.003258
+16.  transportation      | Impact: 0.003120
+17.  to                  | Impact: 0.002177
+18.  you                 | Impact: 0.001666
+19.  out                 | Impact: 0.001616
+20.  believe             | Impact: 0.001517
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.020782
+ 2. ron                  | Impact: -0.020763
+ 3.  not                 | Impact: -0.012287
+ 4.  or                  | Impact: -0.012132
+ 5.  correct             | Impact: -0.011696
+ 6.  guess               | Impact: -0.009623
+ 7.  ,                   | Impact: -0.007579
+ 8.  en                  | Impact: -0.007055
+ 9.  .                   | Impact: -0.006737
+10.  the                 | Impact: -0.006067
+11.  i                   | Impact: -0.006062
+12.  en                  | Impact: -0.005687
+13.  thanks              | Impact: -0.004965
+14.  got                 | Impact: -0.004579
+15.  ,                   | Impact: -0.004436
+16.  where               | Impact: -0.004065
+17.  i                   | Impact: -0.003699
+18.  figured             | Impact: -0.003693
+19.  talk                | Impact: -0.003410
+20.  .                   | Impact: -0.003088

@@ -1,0 +1,75 @@
+Sample 329
+==========
+
+Sample text preview: I am Dr.Mrs. Owens Mary from Madrid,Spain. I am married to Engr.Owens jim, who worked as the financial director under United Nation Development Progra...
+
+Model prediction: [2.044506e-04 9.997956e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ben                 | Impact: 0.011028 → PHISHING
+ 2. ef                   | Impact: 0.011028 → PHISHING
+ 3. icia                 | Impact: 0.011028 → PHISHING
+ 4. ry                   | Impact: 0.011028 → PHISHING
+ 5.  of                  | Impact: 0.009583 → PHISHING
+ 6.  this                | Impact: 0.009583 → PHISHING
+ 7.  fund                | Impact: 0.009583 → PHISHING
+ 8.  .                   | Impact: 0.009583 → PHISHING
+ 9.  will                | Impact: 0.007296 → PHISHING
+10.  inherit             | Impact: 0.007296 → PHISHING
+11.  this                | Impact: 0.007296 → PHISHING
+12.  money               | Impact: 0.007296 → PHISHING
+13.  and                 | Impact: 0.007296 → PHISHING
+14.  have                | Impact: 0.007255 → PHISHING
+15.  any                 | Impact: 0.007255 → PHISHING
+16.  child               | Impact: 0.007255 → PHISHING
+17.  that                | Impact: 0.007255 → PHISHING
+18.  of                  | Impact: 0.006127 → PHISHING
+19.  the                 | Impact: 0.006127 → PHISHING
+20.  said                | Impact: 0.006127 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ben                 | Impact: 0.011028
+ 2. ef                   | Impact: 0.011028
+ 3. icia                 | Impact: 0.011028
+ 4. ry                   | Impact: 0.011028
+ 5.  of                  | Impact: 0.009583
+ 6.  this                | Impact: 0.009583
+ 7.  fund                | Impact: 0.009583
+ 8.  .                   | Impact: 0.009583
+ 9.  will                | Impact: 0.007296
+10.  inherit             | Impact: 0.007296
+11.  this                | Impact: 0.007296
+12.  money               | Impact: 0.007296
+13.  and                 | Impact: 0.007296
+14.  have                | Impact: 0.007255
+15.  any                 | Impact: 0.007255
+16.  child               | Impact: 0.007255
+17.  that                | Impact: 0.007255
+18.  of                  | Impact: 0.006127
+19.  the                 | Impact: 0.006127
+20.  said                | Impact: 0.006127
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  exodus              | Impact: -0.001968
+ 2.  vs                  | Impact: -0.001968
+ 3.  .                   | Impact: -0.001259
+ 4.  i                   | Impact: -0.000494
+ 5.  don                 | Impact: -0.000494
+ 6.  ,                   | Impact: -0.000494
+ 7.  which               | Impact: -0.000450
+ 8.  the                 | Impact: -0.000450
+ 9.  bible               | Impact: -0.000450
+10.  is                  | Impact: -0.000450
+11.  against             | Impact: -0.000450
+12.  .                   | Impact: -0.000450
+13.  nation              | Impact: -0.000314
+14.  development         | Impact: -0.000314
+15.  programmed          | Impact: -0.000314
+16.  for                 | Impact: -0.000314
+17.  africa              | Impact: -0.000314
+18.  for                 | Impact: -0.000314
+19.  more                | Impact: -0.000314
+20.  than                | Impact: -0.000314

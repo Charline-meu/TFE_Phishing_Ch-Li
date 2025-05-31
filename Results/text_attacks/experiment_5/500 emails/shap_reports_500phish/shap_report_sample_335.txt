@@ -1,0 +1,55 @@
+Sample 335
+==========
+
+Sample text preview: COMPLIMENT OF THE DAY TO YOU AND YOUR FMAILY. HOW ARE YOU DOING? I DO HOPE YOU ARE FINE? IF SO GLORY BE TO ALMIGHTY.I GOT YOUR EMAIL ON MY SEARCH THRO...
+
+Model prediction: [1.7048139e-04 9.9982953e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  to                  | Impact: 0.008603 → PHISHING
+ 2.  do                  | Impact: 0.008603 → PHISHING
+ 3.  in                  | Impact: 0.008603 → PHISHING
+ 4.  your                | Impact: 0.008603 → PHISHING
+ 5.  country             | Impact: 0.008603 → PHISHING
+ 6.  profitable          | Impact: 0.006880 → PHISHING
+ 7.  investment          | Impact: 0.006880 → PHISHING
+ 8.  i                   | Impact: 0.006880 → PHISHING
+ 9.  want                | Impact: 0.006880 → PHISHING
+10.  contact             | Impact: 0.006540 → PHISHING
+11.  you                 | Impact: 0.006540 → PHISHING
+12.  million             | Impact: 0.006212 → PHISHING
+13.  ,                   | Impact: 0.006212 → PHISHING
+14.  your                | Impact: 0.005880 → PHISHING
+15.  foreign             | Impact: 0.005880 → PHISHING
+16.  hoping              | Impact: 0.005768 → PHISHING
+17.  that                | Impact: 0.005768 → PHISHING
+18.  you                 | Impact: 0.005596 → PHISHING
+19.  will                | Impact: 0.005596 → PHISHING
+20.  be                  | Impact: 0.005596 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.008603
+ 2.  do                  | Impact: 0.008603
+ 3.  in                  | Impact: 0.008603
+ 4.  your                | Impact: 0.008603
+ 5.  country             | Impact: 0.008603
+ 6.  profitable          | Impact: 0.006880
+ 7.  investment          | Impact: 0.006880
+ 8.  i                   | Impact: 0.006880
+ 9.  want                | Impact: 0.006880
+10.  contact             | Impact: 0.006540
+11.  you                 | Impact: 0.006540
+12.  million             | Impact: 0.006212
+13.  ,                   | Impact: 0.006212
+14.  your                | Impact: 0.005880
+15.  foreign             | Impact: 0.005880
+16.  hoping              | Impact: 0.005768
+17.  that                | Impact: 0.005768
+18.  you                 | Impact: 0.005596
+19.  will                | Impact: 0.005596
+20.  be                  | Impact: 0.005596
+
+Top features pushing towards LEGITIMATE classification:

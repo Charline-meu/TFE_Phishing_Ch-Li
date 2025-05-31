@@ -1,0 +1,75 @@
+Sample 301
+==========
+
+Sample text preview: Zelda, I sent you more boxes of TW files via UPS day ground on Friday, January . These files were in Mary Darveaux's office. If you have any questions...
+
+Model prediction: [9.9968743e-01 3.1256725e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. w                    | Impact: -0.027487 → LEGITIMATE
+ 2. lda                  | Impact: -0.018712 → LEGITIMATE
+ 3.  you                 | Impact: 0.017991 → PHISHING
+ 4.  sent                | Impact: 0.015949 → PHISHING
+ 5.  -                   | Impact: -0.014525 → LEGITIMATE
+ 6.  -                   | Impact: 0.013716 → PHISHING
+ 7.  .                   | Impact: -0.012903 → LEGITIMATE
+ 8.  boxes               | Impact: 0.010797 → PHISHING
+ 9.  :                   | Impact: -0.010105 → LEGITIMATE
+10.  friday              | Impact: -0.010094 → LEGITIMATE
+11. aux                  | Impact: -0.008784 → LEGITIMATE
+12.  t                   | Impact: -0.007372 → LEGITIMATE
+13.  rates               | Impact: -0.007114 → LEGITIMATE
+14.  office              | Impact: 0.006048 → PHISHING
+15.  ze                  | Impact: 0.005861 → PHISHING
+16.  ups                 | Impact: -0.005778 → LEGITIMATE
+17.  mary                | Impact: -0.005572 → LEGITIMATE
+18.  via                 | Impact: 0.005270 → PHISHING
+19.  ,                   | Impact: -0.005238 → LEGITIMATE
+20.  dar                 | Impact: -0.005083 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.017991
+ 2.  sent                | Impact: 0.015949
+ 3.  -                   | Impact: 0.013716
+ 4.  boxes               | Impact: 0.010797
+ 5.  office              | Impact: 0.006048
+ 6.  ze                  | Impact: 0.005861
+ 7.  via                 | Impact: 0.005270
+ 8.  files               | Impact: 0.004370
+ 9.  bo                  | Impact: 0.003442
+10.  january             | Impact: 0.002890
+11.  more                | Impact: 0.002853
+12.  let                 | Impact: 0.002420
+13.  were                | Impact: 0.002395
+14.  in                  | Impact: 0.002301
+15.  you                 | Impact: 0.001680
+16.  please              | Impact: 0.001464
+17.  these               | Impact: 0.001048
+18.  -                   | Impact: 0.001012
+19.  know                | Impact: 0.000975
+20.  files               | Impact: 0.000845
+
+Top features pushing towards LEGITIMATE classification:
+ 1. w                    | Impact: -0.027487
+ 2. lda                  | Impact: -0.018712
+ 3.  -                   | Impact: -0.014525
+ 4.  .                   | Impact: -0.012903
+ 5.  :                   | Impact: -0.010105
+ 6.  friday              | Impact: -0.010094
+ 7. aux                  | Impact: -0.008784
+ 8.  t                   | Impact: -0.007372
+ 9.  rates               | Impact: -0.007114
+10.  ups                 | Impact: -0.005778
+11.  mary                | Impact: -0.005572
+12.  ,                   | Impact: -0.005238
+13.  dar                 | Impact: -0.005083
+14.  :                   | Impact: -0.003758
+15.  questions           | Impact: -0.003647
+16.  tariffs             | Impact: -0.003266
+17. ve                   | Impact: -0.003058
+18.  if                  | Impact: -0.002714
+19.  i                   | Impact: -0.002628
+20.  naomi               | Impact: -0.002626

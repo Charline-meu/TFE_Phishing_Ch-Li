@@ -1,0 +1,58 @@
+Sample 251
+==========
+
+Sample text preview: Password will expire in days. Click Here( To Validate E-mail Thank you, © Microsoft
+
+Model prediction: [2.1315485e-04 9.9978691e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ©                   | Impact: 0.315939 → PHISHING
+ 2.  click               | Impact: 0.204755 → PHISHING
+ 3.  mail                | Impact: 0.170222 → PHISHING
+ 4.  ex                  | Impact: 0.121845 → PHISHING
+ 5.  password            | Impact: 0.097447 → PHISHING
+ 6.  microsoft           | Impact: 0.071959 → PHISHING
+ 7.  (                   | Impact: -0.069002 → LEGITIMATE
+ 8.  ,                   | Impact: -0.064089 → LEGITIMATE
+ 9.  valid               | Impact: 0.063843 → PHISHING
+10. ate                  | Impact: -0.051821 → LEGITIMATE
+11.  here                | Impact: 0.040494 → PHISHING
+12.  in                  | Impact: 0.037083 → PHISHING
+13.  will                | Impact: 0.021295 → PHISHING
+14.  e                   | Impact: -0.020305 → LEGITIMATE
+15.  -                   | Impact: 0.016883 → PHISHING
+16.  days                | Impact: -0.016429 → LEGITIMATE
+17.  to                  | Impact: -0.015838 → LEGITIMATE
+18. pire                 | Impact: -0.012184 → LEGITIMATE
+19.  thank               | Impact: -0.007149 → LEGITIMATE
+20.  you                 | Impact: 0.004985 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.315939
+ 2.  click               | Impact: 0.204755
+ 3.  mail                | Impact: 0.170222
+ 4.  ex                  | Impact: 0.121845
+ 5.  password            | Impact: 0.097447
+ 6.  microsoft           | Impact: 0.071959
+ 7.  valid               | Impact: 0.063843
+ 8.  here                | Impact: 0.040494
+ 9.  in                  | Impact: 0.037083
+10.  will                | Impact: 0.021295
+11.  -                   | Impact: 0.016883
+12.  you                 | Impact: 0.004985
+13.  .                   | Impact: 0.002626
+14.                      | Impact: 0.000001
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.069002
+ 2.  ,                   | Impact: -0.064089
+ 3. ate                  | Impact: -0.051821
+ 4.  e                   | Impact: -0.020305
+ 5.  days                | Impact: -0.016429
+ 6.  to                  | Impact: -0.015838
+ 7. pire                 | Impact: -0.012184
+ 8.  thank               | Impact: -0.007149
+ 9.                      | Impact: -0.000000

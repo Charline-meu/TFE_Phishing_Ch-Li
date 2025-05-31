@@ -1,0 +1,63 @@
+Sample 109
+==========
+
+Sample text preview: IT administrator today upgraded all mailboxes (size up to .GB). Please upgrade your account by clicking the following link: IT ADMINISTRATOR<
+
+Model prediction: [4.8468667e-04 9.9951530e-01]
+Predicted class: PHISHING with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  gb                  | Impact: 0.125807 → PHISHING
+ 2.  account             | Impact: 0.110900 → PHISHING
+ 3.  clicking            | Impact: 0.109277 → PHISHING
+ 4.  mail                | Impact: 0.087121 → PHISHING
+ 5. box                  | Impact: 0.082019 → PHISHING
+ 6.  your                | Impact: 0.077875 → PHISHING
+ 7.  size                | Impact: 0.077730 → PHISHING
+ 8.  upgraded            | Impact: 0.076162 → PHISHING
+ 9.  link                | Impact: 0.064921 → PHISHING
+10.  it                  | Impact: 0.059205 → PHISHING
+11.  administrator       | Impact: -0.054551 → LEGITIMATE
+12.  upgrade             | Impact: 0.048177 → PHISHING
+13.  please              | Impact: 0.039166 → PHISHING
+14.  :                   | Impact: -0.030262 → LEGITIMATE
+15.  administrator       | Impact: 0.028289 → PHISHING
+16.  to                  | Impact: 0.023247 → PHISHING
+17.  by                  | Impact: 0.021390 → PHISHING
+18.  up                  | Impact: -0.019847 → LEGITIMATE
+19.  all                 | Impact: 0.017415 → PHISHING
+20.  following           | Impact: 0.017247 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  gb                  | Impact: 0.125807
+ 2.  account             | Impact: 0.110900
+ 3.  clicking            | Impact: 0.109277
+ 4.  mail                | Impact: 0.087121
+ 5. box                  | Impact: 0.082019
+ 6.  your                | Impact: 0.077875
+ 7.  size                | Impact: 0.077730
+ 8.  upgraded            | Impact: 0.076162
+ 9.  link                | Impact: 0.064921
+10.  it                  | Impact: 0.059205
+11.  upgrade             | Impact: 0.048177
+12.  please              | Impact: 0.039166
+13.  administrator       | Impact: 0.028289
+14.  to                  | Impact: 0.023247
+15.  by                  | Impact: 0.021390
+16.  all                 | Impact: 0.017415
+17.  following           | Impact: 0.017247
+18.  (                   | Impact: 0.014512
+19.  .                   | Impact: 0.009829
+20.  it                  | Impact: 0.009336
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  administrator       | Impact: -0.054551
+ 2.  :                   | Impact: -0.030262
+ 3.  up                  | Impact: -0.019847
+ 4.  the                 | Impact: -0.014975
+ 5. es                   | Impact: -0.011777
+ 6.  today               | Impact: -0.009376
+ 7.  .                   | Impact: -0.008059
+ 8.                      | Impact: -0.000049

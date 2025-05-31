@@ -1,0 +1,66 @@
+Sample 497
+==========
+
+Sample text preview: Your account is on hold. Payment details update required. Hello, We're having some trouble with your current billing information. We'll try again, but...
+
+Model prediction: [1.6652109e-04 9.9983346e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  account             | Impact: 0.069609 → PHISHING
+ 2.  your                | Impact: 0.039448 → PHISHING
+ 3.  account             | Impact: 0.032085 → PHISHING
+ 4.  need                | Impact: 0.032085 → PHISHING
+ 5.  account             | Impact: 0.029024 → PHISHING
+ 6.  need                | Impact: 0.028969 → PHISHING
+ 7.  payment             | Impact: 0.028651 → PHISHING
+ 8.  your                | Impact: 0.027551 → PHISHING
+ 9.  payment             | Impact: 0.025909 → PHISHING
+10.  update              | Impact: 0.023959 → PHISHING
+11.  your                | Impact: 0.022581 → PHISHING
+12.  netflix             | Impact: 0.021850 → PHISHING
+13.  details             | Impact: 0.019910 → PHISHING
+14.  details             | Impact: 0.019445 → PHISHING
+15.  update              | Impact: 0.019325 → PHISHING
+16.  help                | Impact: 0.018492 → PHISHING
+17.  payment             | Impact: 0.017752 → PHISHING
+18.  your                | Impact: 0.017721 → PHISHING
+19.  your                | Impact: 0.017682 → PHISHING
+20.  .                   | Impact: 0.016193 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  account             | Impact: 0.069609
+ 2.  your                | Impact: 0.039448
+ 3.  account             | Impact: 0.032085
+ 4.  need                | Impact: 0.032085
+ 5.  account             | Impact: 0.029024
+ 6.  need                | Impact: 0.028969
+ 7.  payment             | Impact: 0.028651
+ 8.  your                | Impact: 0.027551
+ 9.  payment             | Impact: 0.025909
+10.  update              | Impact: 0.023959
+11.  your                | Impact: 0.022581
+12.  netflix             | Impact: 0.021850
+13.  details             | Impact: 0.019910
+14.  details             | Impact: 0.019445
+15.  update              | Impact: 0.019325
+16.  help                | Impact: 0.018492
+17.  payment             | Impact: 0.017752
+18.  your                | Impact: 0.017721
+19.  your                | Impact: 0.017682
+20.  .                   | Impact: 0.016193
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ?                   | Impact: -0.007851
+ 2.  ?                   | Impact: -0.001689
+ 3.  ,                   | Impact: -0.001108
+ 4.  .                   | Impact: -0.000961
+ 5.  we                  | Impact: -0.000643
+ 6.  '                   | Impact: -0.000643
+ 7.  ll                  | Impact: -0.000643
+ 8.  try                 | Impact: -0.000643
+ 9.  again               | Impact: -0.000643
+10.  friends             | Impact: -0.000400
+11.  at                  | Impact: -0.000400

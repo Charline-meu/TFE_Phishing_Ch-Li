@@ -1,0 +1,75 @@
+Sample 354
+==========
+
+Sample text preview: Are you in debt for $, or more? Are you tired of being overwhelmed by your bills? Feeling as if is there nothing you can do about it? Do you have too ...
+
+Model prediction: [1.6874283e-04 9.9983120e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  loan                | Impact: 0.035649 → PHISHING
+ 2.  you                 | Impact: 0.030049 → PHISHING
+ 3.  reply               | Impact: 0.028461 → PHISHING
+ 4.  message             | Impact: 0.023238 → PHISHING
+ 5.  help                | Impact: 0.022992 → PHISHING
+ 6.  please              | Impact: 0.020918 → PHISHING
+ 7.  provide             | Impact: 0.020918 → PHISHING
+ 8.  !                   | Impact: 0.019777 → PHISHING
+ 9.  your                | Impact: 0.019380 → PHISHING
+10.  finances            | Impact: 0.018931 → PHISHING
+11.  your                | Impact: 0.018830 → PHISHING
+12.  this                | Impact: 0.015660 → PHISHING
+13.  past                | Impact: 0.014971 → PHISHING
+14.  free                | Impact: 0.014859 → PHISHING
+15.  !                   | Impact: 0.014413 → PHISHING
+16.  put                 | Impact: 0.013824 → PHISHING
+17.  you                 | Impact: 0.013824 → PHISHING
+18.  with                | Impact: 0.013426 → PHISHING
+19.  full                | Impact: 0.013186 → PHISHING
+20.  name                | Impact: 0.013186 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  loan                | Impact: 0.035649
+ 2.  you                 | Impact: 0.030049
+ 3.  reply               | Impact: 0.028461
+ 4.  message             | Impact: 0.023238
+ 5.  help                | Impact: 0.022992
+ 6.  please              | Impact: 0.020918
+ 7.  provide             | Impact: 0.020918
+ 8.  !                   | Impact: 0.019777
+ 9.  your                | Impact: 0.019380
+10.  finances            | Impact: 0.018931
+11.  your                | Impact: 0.018830
+12.  this                | Impact: 0.015660
+13.  past                | Impact: 0.014971
+14.  free                | Impact: 0.014859
+15.  !                   | Impact: 0.014413
+16.  put                 | Impact: 0.013824
+17.  you                 | Impact: 0.013824
+18.  with                | Impact: 0.013426
+19.  full                | Impact: 0.013186
+20.  name                | Impact: 0.013186
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  or                  | Impact: -0.006730
+ 2.  .                   | Impact: -0.003786
+ 3.  :                   | Impact: -0.002652
+ 4.  work                | Impact: -0.002652
+ 5.  home                | Impact: -0.002111
+ 6.  phone               | Impact: -0.002111
+ 7.  more                | Impact: -0.001878
+ 8.  ?                   | Impact: -0.001878
+ 9.  (                   | Impact: -0.001514
+10.  all                 | Impact: -0.001514
+11.  information         | Impact: -0.001514
+12.  third               | Impact: -0.000772
+13.  party               | Impact: -0.000772
+14.  sources             | Impact: -0.000772
+15.  )                   | Impact: -0.000772
+16.  credit              | Impact: -0.000585
+17.  history             | Impact: -0.000585
+18.  never               | Impact: -0.000275
+19.  provided            | Impact: -0.000275
+20.  to                  | Impact: -0.000275

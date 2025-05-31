@@ -1,0 +1,75 @@
+Sample 121
+==========
+
+Sample text preview: This seems to be a good argument for the odd number prerelease, even number stables. So instead of a .pre pre, and a .final, you'd stick with . with d...
+
+Model prediction: [9.997807e-01 2.192904e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  i                   | Impact: 0.005847 → PHISHING
+ 2.  human               | Impact: 0.005177 → PHISHING
+ 3.  super               | Impact: -0.004022 → LEGITIMATE
+ 4.  rpm                 | Impact: -0.002807 → LEGITIMATE
+ 5.  -                   | Impact: -0.002807 → LEGITIMATE
+ 6.  :                   | Impact: -0.002784 → LEGITIMATE
+ 7.  list                | Impact: -0.002509 → LEGITIMATE
+ 8.  been                | Impact: 0.002377 → PHISHING
+ 9.  ic                  | Impact: -0.002365 → LEGITIMATE
+10.  have                | Impact: 0.002281 → PHISHING
+11.  .                   | Impact: -0.002027 → LEGITIMATE
+12.  "                   | Impact: -0.001904 → LEGITIMATE
+13.  :                   | Impact: -0.001901 → LEGITIMATE
+14.  and                 | Impact: -0.001532 → LEGITIMATE
+15.  .                   | Impact: -0.001463 → LEGITIMATE
+16.  .                   | Impact: 0.001449 → PHISHING
+17.  .                   | Impact: -0.001415 → LEGITIMATE
+18. q                    | Impact: -0.001408 → LEGITIMATE
+19.  releases            | Impact: 0.001273 → PHISHING
+20.  )                   | Impact: -0.001216 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  i                   | Impact: 0.005847
+ 2.  human               | Impact: 0.005177
+ 3.  been                | Impact: 0.002377
+ 4.  have                | Impact: 0.002281
+ 5.  .                   | Impact: 0.001449
+ 6.  releases            | Impact: 0.001273
+ 7.  mail                | Impact: 0.000995
+ 8.  different           | Impact: 0.000980
+ 9.  dream               | Impact: 0.000798
+10.  instead             | Impact: 0.000753
+11.  seem                | Impact: 0.000751
+12.  so                  | Impact: 0.000737
+13.  i                   | Impact: 0.000649
+14.  even                | Impact: 0.000648
+15.  misunderstood       | Impact: 0.000561
+16.  number              | Impact: 0.000443
+17.  if                  | Impact: 0.000402
+18.  -                   | Impact: 0.000381
+19. ing                  | Impact: 0.000332
+20.  .                   | Impact: 0.000259
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  super               | Impact: -0.004022
+ 2.  rpm                 | Impact: -0.002807
+ 3.  -                   | Impact: -0.002807
+ 4.  :                   | Impact: -0.002784
+ 5.  list                | Impact: -0.002509
+ 6.  ic                  | Impact: -0.002365
+ 7.  .                   | Impact: -0.002027
+ 8.  "                   | Impact: -0.001904
+ 9.  :                   | Impact: -0.001901
+10.  and                 | Impact: -0.001532
+11.  .                   | Impact: -0.001463
+12.  .                   | Impact: -0.001415
+13. q                    | Impact: -0.001408
+14.  )                   | Impact: -0.001216
+15.  c                   | Impact: -0.000878
+16.  with                | Impact: -0.000847
+17.  d                   | Impact: -0.000837
+18.  stick               | Impact: -0.000837
+19.  with                | Impact: -0.000837
+20.  you                 | Impact: -0.000834

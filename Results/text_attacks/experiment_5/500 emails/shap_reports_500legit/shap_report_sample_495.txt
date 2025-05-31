@@ -1,0 +1,49 @@
+Sample 495
+==========
+
+Sample text preview: Here is the updated deal sheet for the GTD group. Thanks! Ben
+
+Model prediction: [9.9976915e-01 2.3088220e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ben                 | Impact: -0.057747 → LEGITIMATE
+ 2.  thanks              | Impact: -0.049557 → LEGITIMATE
+ 3.  for                 | Impact: -0.029287 → LEGITIMATE
+ 4.  here                | Impact: -0.027779 → LEGITIMATE
+ 5.  !                   | Impact: 0.023754 → PHISHING
+ 6.  the                 | Impact: 0.018515 → PHISHING
+ 7.  is                  | Impact: 0.018366 → PHISHING
+ 8.  .                   | Impact: -0.017708 → LEGITIMATE
+ 9.  gt                  | Impact: -0.016848 → LEGITIMATE
+10.  deal                | Impact: -0.014760 → LEGITIMATE
+11.  sheet               | Impact: 0.010416 → PHISHING
+12.  the                 | Impact: -0.009785 → LEGITIMATE
+13.  group               | Impact: -0.008616 → LEGITIMATE
+14.  updated             | Impact: -0.008613 → LEGITIMATE
+15. d                    | Impact: -0.000855 → LEGITIMATE
+16.                      | Impact: -0.000000 → LEGITIMATE
+17.                      | Impact: -0.000000 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  !                   | Impact: 0.023754
+ 2.  the                 | Impact: 0.018515
+ 3.  is                  | Impact: 0.018366
+ 4.  sheet               | Impact: 0.010416
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ben                 | Impact: -0.057747
+ 2.  thanks              | Impact: -0.049557
+ 3.  for                 | Impact: -0.029287
+ 4.  here                | Impact: -0.027779
+ 5.  .                   | Impact: -0.017708
+ 6.  gt                  | Impact: -0.016848
+ 7.  deal                | Impact: -0.014760
+ 8.  the                 | Impact: -0.009785
+ 9.  group               | Impact: -0.008616
+10.  updated             | Impact: -0.008613
+11. d                    | Impact: -0.000855
+12.                      | Impact: -0.000000
+13.                      | Impact: -0.000000

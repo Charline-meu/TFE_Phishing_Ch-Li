@@ -1,0 +1,75 @@
+Sample 21
+=========
+
+Sample text preview: We have received an executed financial Master Agreement: Type of Contract: ISDA Master Agreement (Multicurrency-Cross Border) Effective Date: February...
+
+Model prediction: [9.9977463e-01 2.2538519e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.067786 → LEGITIMATE
+ 2. ron                  | Impact: -0.041299 → LEGITIMATE
+ 3.  en                  | Impact: -0.038205 → LEGITIMATE
+ 4.  (                   | Impact: 0.035760 → PHISHING
+ 5.  kg                  | Impact: 0.035099 → PHISHING
+ 6.  executed            | Impact: 0.032694 → PHISHING
+ 7.  products            | Impact: 0.030124 → PHISHING
+ 8.  en                  | Impact: -0.027461 → LEGITIMATE
+ 9.  february            | Impact: -0.023543 → LEGITIMATE
+10. da                   | Impact: -0.023133 → LEGITIMATE
+11.  is                  | Impact: -0.023085 → LEGITIMATE
+12.  financial           | Impact: 0.018054 → PHISHING
+13.  have                | Impact: 0.016147 → PHISHING
+14. ron                  | Impact: -0.015966 → LEGITIMATE
+15.  we                  | Impact: -0.011323 → LEGITIMATE
+16.  agreement           | Impact: -0.010314 → LEGITIMATE
+17.  all                 | Impact: 0.010032 → PHISHING
+18.  :                   | Impact: -0.010025 → LEGITIMATE
+19.  en                  | Impact: -0.009933 → LEGITIMATE
+20.  received            | Impact: 0.009480 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  (                   | Impact: 0.035760
+ 2.  kg                  | Impact: 0.035099
+ 3.  executed            | Impact: 0.032694
+ 4.  products            | Impact: 0.030124
+ 5.  financial           | Impact: 0.018054
+ 6.  have                | Impact: 0.016147
+ 7.  all                 | Impact: 0.010032
+ 8.  received            | Impact: 0.009480
+ 9.  master              | Impact: 0.008933
+10.  ,                   | Impact: 0.008017
+11.  corp                | Impact: 0.006879
+12.  &                   | Impact: 0.005861
+13.  contract            | Impact: 0.005140
+14.  :                   | Impact: 0.005140
+15.  trading             | Impact: 0.005135
+16.  corp                | Impact: 0.004937
+17.  cross               | Impact: 0.004839
+18.  management          | Impact: 0.004614
+19.  ,                   | Impact: 0.004558
+20.  .                   | Impact: 0.004448
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.067786
+ 2. ron                  | Impact: -0.041299
+ 3.  en                  | Impact: -0.038205
+ 4.  en                  | Impact: -0.027461
+ 5.  february            | Impact: -0.023543
+ 6. da                   | Impact: -0.023133
+ 7.  is                  | Impact: -0.023085
+ 8. ron                  | Impact: -0.015966
+ 9.  we                  | Impact: -0.011323
+10.  agreement           | Impact: -0.010314
+11.  :                   | Impact: -0.010025
+12.  en                  | Impact: -0.009933
+13.  agreement           | Impact: -0.007788
+14.  risk                | Impact: -0.006041
+15.  texas               | Impact: -0.005871
+16.  phone               | Impact: -0.005871
+17.  bailey              | Impact: -0.005370
+18.  :                   | Impact: -0.005165
+19.  .                   | Impact: -0.004619
+20.  :                   | Impact: -0.004373

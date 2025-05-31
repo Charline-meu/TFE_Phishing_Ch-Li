@@ -1,0 +1,75 @@
+Sample 488
+==========
+
+Sample text preview: ?iCAN INTERNET COLLEGE ATHLETICS NETWORK ? ? ? Gang, ? Apologies for the spam, but I need your help (again).??I am a second year MBA at Haas and my co...
+
+Model prediction: [0.9989177  0.00108228]
+Predicted class: LEGITIMATE with 0.9989 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ?                   | Impact: -0.010730 → LEGITIMATE
+ 2.  texas               | Impact: -0.004254 → LEGITIMATE
+ 3.  college             | Impact: 0.004016 → PHISHING
+ 4.  ?                   | Impact: 0.003360 → PHISHING
+ 5.  internet            | Impact: 0.003236 → PHISHING
+ 6.  apologies           | Impact: -0.003020 → LEGITIMATE
+ 7.  for                 | Impact: -0.003020 → LEGITIMATE
+ 8.  the                 | Impact: -0.002997 → LEGITIMATE
+ 9.  and                 | Impact: 0.002883 → PHISHING
+10.  but                 | Impact: -0.002807 → LEGITIMATE
+11.  -                   | Impact: -0.002798 → LEGITIMATE
+12.  texas               | Impact: -0.002798 → LEGITIMATE
+13.  but                 | Impact: -0.002748 → LEGITIMATE
+14.  a                   | Impact: -0.002707 → LEGITIMATE
+15.  &                   | Impact: -0.002707 → LEGITIMATE
+16.  m                   | Impact: -0.002707 → LEGITIMATE
+17.  the                 | Impact: -0.002702 → LEGITIMATE
+18.  i                   | Impact: -0.002644 → LEGITIMATE
+19.  need                | Impact: -0.002644 → LEGITIMATE
+20.  your                | Impact: -0.002644 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  college             | Impact: 0.004016
+ 2.  ?                   | Impact: 0.003360
+ 3.  internet            | Impact: 0.003236
+ 4.  and                 | Impact: 0.002883
+ 5.  my                  | Impact: 0.001833
+ 6.  company             | Impact: 0.001833
+ 7.  ?                   | Impact: 0.001833
+ 8.  ?                   | Impact: 0.001700
+ 9.  ?                   | Impact: 0.001183
+10.  ?                   | Impact: 0.001131
+11.  ?                   | Impact: 0.000883
+12.  ?                   | Impact: 0.000705
+13.  tennis              | Impact: 0.000414
+14.  match               | Impact: 0.000414
+15.  tomorrow            | Impact: 0.000414
+16.  .                   | Impact: 0.000414
+17.  (                   | Impact: 0.000384
+18.  again               | Impact: 0.000384
+19.  )                   | Impact: 0.000384
+20.  .                   | Impact: 0.000384
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ?                   | Impact: -0.010730
+ 2.  texas               | Impact: -0.004254
+ 3.  apologies           | Impact: -0.003020
+ 4.  for                 | Impact: -0.003020
+ 5.  the                 | Impact: -0.002997
+ 6.  but                 | Impact: -0.002807
+ 7.  -                   | Impact: -0.002798
+ 8.  texas               | Impact: -0.002798
+ 9.  but                 | Impact: -0.002748
+10.  a                   | Impact: -0.002707
+11.  &                   | Impact: -0.002707
+12.  m                   | Impact: -0.002707
+13.  the                 | Impact: -0.002702
+14.  i                   | Impact: -0.002644
+15.  need                | Impact: -0.002644
+16.  your                | Impact: -0.002644
+17.  help                | Impact: -0.002644
+18.  athletics           | Impact: -0.002417
+19.  network             | Impact: -0.002417
+20.  today               | Impact: -0.002375

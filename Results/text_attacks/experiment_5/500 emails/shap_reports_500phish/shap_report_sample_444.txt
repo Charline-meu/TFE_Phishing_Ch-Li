@@ -1,0 +1,65 @@
+Sample 444
+==========
+
+Sample text preview: Good Day, I would like to apply through this medium for your co-operation and to secure an opportunity to invest and do joint business with you and my...
+
+Model prediction: [1.5929906e-04 9.9984062e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.039145 → PHISHING
+ 2.  country             | Impact: 0.033283 → PHISHING
+ 3.  country             | Impact: 0.029016 → PHISHING
+ 4.  in                  | Impact: 0.021384 → PHISHING
+ 5.  your                | Impact: 0.021384 → PHISHING
+ 6.  opportunity         | Impact: 0.019990 → PHISHING
+ 7.  for                 | Impact: 0.019990 → PHISHING
+ 8.  you                 | Impact: 0.015918 → PHISHING
+ 9.  my                  | Impact: 0.015193 → PHISHING
+10.  family              | Impact: 0.015193 → PHISHING
+11.  invest              | Impact: 0.014034 → PHISHING
+12.  business            | Impact: 0.013928 → PHISHING
+13.  capital             | Impact: 0.013806 → PHISHING
+14.  i                   | Impact: 0.013806 → PHISHING
+15.  lucrative           | Impact: 0.012861 → PHISHING
+16.  to                  | Impact: 0.012122 → PHISHING
+17.  secure              | Impact: 0.012122 → PHISHING
+18.  with                | Impact: 0.011817 → PHISHING
+19.  business            | Impact: 0.011624 → PHISHING
+20.  venture             | Impact: 0.011485 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.039145
+ 2.  country             | Impact: 0.033283
+ 3.  country             | Impact: 0.029016
+ 4.  in                  | Impact: 0.021384
+ 5.  your                | Impact: 0.021384
+ 6.  opportunity         | Impact: 0.019990
+ 7.  for                 | Impact: 0.019990
+ 8.  you                 | Impact: 0.015918
+ 9.  my                  | Impact: 0.015193
+10.  family              | Impact: 0.015193
+11.  invest              | Impact: 0.014034
+12.  business            | Impact: 0.013928
+13.  capital             | Impact: 0.013806
+14.  i                   | Impact: 0.013806
+15.  lucrative           | Impact: 0.012861
+16.  to                  | Impact: 0.012122
+17.  secure              | Impact: 0.012122
+18.  with                | Impact: 0.011817
+19.  business            | Impact: 0.011624
+20.  venture             | Impact: 0.011485
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  create              | Impact: -0.000670
+ 2.  ideas               | Impact: -0.000670
+ 3.  on                  | Impact: -0.000670
+ 4.  how                 | Impact: -0.000670
+ 5.  detailed            | Impact: -0.000325
+ 6.  information         | Impact: -0.000325
+ 7.  ,                   | Impact: -0.000325
+ 8.  to                  | Impact: -0.000076
+ 9.  advise              | Impact: -0.000076
+10.  and                 | Impact: -0.000076

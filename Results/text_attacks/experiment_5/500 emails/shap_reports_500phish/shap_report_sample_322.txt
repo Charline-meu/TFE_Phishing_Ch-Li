@@ -1,0 +1,75 @@
+Sample 322
+==========
+
+Sample text preview: Mrs Lisa Williams has recommended the following page from the "Bands of America" website to you. Please click on the link below to view the page. "Dea...
+
+Model prediction: [1.6437954e-04 9.9983561e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mrs                 | Impact: 0.036028 → PHISHING
+ 2.  "                   | Impact: 0.015382 → PHISHING
+ 3.  dear                | Impact: 0.015382 → PHISHING
+ 4.  friend              | Impact: 0.015382 → PHISHING
+ 5.  awaiting            | Impact: 0.015175 → PHISHING
+ 6.  your                | Impact: 0.015175 → PHISHING
+ 7.  i                   | Impact: 0.014617 → PHISHING
+ 8.  am                  | Impact: 0.014617 → PHISHING
+ 9.  mrs                 | Impact: 0.014617 → PHISHING
+10.  .                   | Impact: 0.014617 → PHISHING
+11.  to                  | Impact: 0.012905 → PHISHING
+12.  your                | Impact: 0.012905 → PHISHING
+13.  account             | Impact: 0.012905 → PHISHING
+14.  ,                   | Impact: 0.012601 → PHISHING
+15.  your                | Impact: 0.010368 → PHISHING
+16.  partnership         | Impact: 0.010368 → PHISHING
+17.  urgent              | Impact: 0.009807 → PHISHING
+18.  reply               | Impact: 0.009807 → PHISHING
+19.  my                  | Impact: 0.008979 → PHISHING
+20.  husband             | Impact: 0.008979 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mrs                 | Impact: 0.036028
+ 2.  "                   | Impact: 0.015382
+ 3.  dear                | Impact: 0.015382
+ 4.  friend              | Impact: 0.015382
+ 5.  awaiting            | Impact: 0.015175
+ 6.  your                | Impact: 0.015175
+ 7.  i                   | Impact: 0.014617
+ 8.  am                  | Impact: 0.014617
+ 9.  mrs                 | Impact: 0.014617
+10.  .                   | Impact: 0.014617
+11.  to                  | Impact: 0.012905
+12.  your                | Impact: 0.012905
+13.  account             | Impact: 0.012905
+14.  ,                   | Impact: 0.012601
+15.  your                | Impact: 0.010368
+16.  partnership         | Impact: 0.010368
+17.  urgent              | Impact: 0.009807
+18.  reply               | Impact: 0.009807
+19.  my                  | Impact: 0.008979
+20.  husband             | Impact: 0.008979
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  williams            | Impact: -0.007902
+ 2.  suzuki              | Impact: -0.007902
+ 3.  lisa                | Impact: -0.003052
+ 4.  williams            | Impact: -0.003052
+ 5.  su                  | Impact: -0.003052
+ 6. zu                   | Impact: -0.003052
+ 7. k                    | Impact: -0.003052
+ 8.  "                   | Impact: -0.001373
+ 9.                      | Impact: -0.001373
+10.  and                 | Impact: -0.001368
+11.  i                   | Impact: -0.001368
+12.  have                | Impact: -0.001368
+13.  also                | Impact: -0.001368
+14.  set                 | Impact: -0.001368
+15.  who                 | Impact: -0.001237
+16.  worked              | Impact: -0.001237
+17.  with                | Impact: -0.001237
+18.  because             | Impact: -0.001027
+19.  i                   | Impact: -0.001027
+20.  don                 | Impact: -0.001027

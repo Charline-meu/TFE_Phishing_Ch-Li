@@ -1,0 +1,65 @@
+Sample 58
+=========
+
+Sample text preview: iEmailAlert# Your e-mail account was LOGIN today by Unknown IP address: ..., click on UPDATE< to validate and verify your e-mail account now to avoid ...
+
+Model prediction: [2.3138421e-04 9.9976867e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  click               | Impact: 0.176692 → PHISHING
+ 2.  address             | Impact: 0.100001 → PHISHING
+ 3.  account             | Impact: 0.091592 → PHISHING
+ 4.  unknown             | Impact: 0.076978 → PHISHING
+ 5.  your                | Impact: 0.072389 → PHISHING
+ 6.  mail                | Impact: 0.053376 → PHISHING
+ 7. k                    | Impact: 0.035180 → PHISHING
+ 8.  app                 | Impact: 0.034517 → PHISHING
+ 9. mail                 | Impact: 0.033851 → PHISHING
+10.  account             | Impact: 0.031763 → PHISHING
+11.  your                | Impact: 0.028357 → PHISHING
+12.  today               | Impact: 0.027457 → PHISHING
+13.  web                 | Impact: 0.027299 → PHISHING
+14.  mail                | Impact: 0.024847 → PHISHING
+15.  was                 | Impact: -0.022313 → LEGITIMATE
+16.  verify              | Impact: 0.022114 → PHISHING
+17.  valid               | Impact: -0.016887 → LEGITIMATE
+18.  avoid               | Impact: 0.015679 → PHISHING
+19.  #                   | Impact: 0.014736 → PHISHING
+20.  user                | Impact: 0.013386 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  click               | Impact: 0.176692
+ 2.  address             | Impact: 0.100001
+ 3.  account             | Impact: 0.091592
+ 4.  unknown             | Impact: 0.076978
+ 5.  your                | Impact: 0.072389
+ 6.  mail                | Impact: 0.053376
+ 7. k                    | Impact: 0.035180
+ 8.  app                 | Impact: 0.034517
+ 9. mail                 | Impact: 0.033851
+10.  account             | Impact: 0.031763
+11.  your                | Impact: 0.028357
+12.  today               | Impact: 0.027457
+13.  web                 | Impact: 0.027299
+14.  mail                | Impact: 0.024847
+15.  verify              | Impact: 0.022114
+16.  avoid               | Impact: 0.015679
+17.  #                   | Impact: 0.014736
+18.  user                | Impact: 0.013386
+19.  now                 | Impact: 0.012377
+20.  been                | Impact: 0.012124
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  was                 | Impact: -0.022313
+ 2.  valid               | Impact: -0.016887
+ 3. ate                  | Impact: -0.011580
+ 4.  :                   | Impact: -0.011510
+ 5. des                  | Impact: -0.004837
+ 6.  ,                   | Impact: -0.003009
+ 7.  e                   | Impact: -0.002670
+ 8.  .                   | Impact: -0.002550
+ 9.  .                   | Impact: -0.002381
+10. ale                  | Impact: -0.000340

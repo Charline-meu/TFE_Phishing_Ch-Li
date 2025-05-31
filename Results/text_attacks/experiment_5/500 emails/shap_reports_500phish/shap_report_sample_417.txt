@@ -1,0 +1,75 @@
+Sample 417
+==========
+
+Sample text preview: TREAT AS URGENT PROFITABLE TRANSACTION DR.AZEM USMAN {MANAGER} DEAR FRIEND, FIRST I MUST SOLICIT YOUR CONFIDENCE IN THIS TRANSACTION, THIS IS BY VIRTU...
+
+Model prediction: [1.9668760e-04 9.9980336e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  paid                | Impact: 0.018976 → PHISHING
+ 2.  into                | Impact: 0.018976 → PHISHING
+ 3.  your                | Impact: 0.018976 → PHISHING
+ 4.  account             | Impact: 0.018976 → PHISHING
+ 5.  ben                 | Impact: 0.014897 → PHISHING
+ 6. ef                   | Impact: 0.014897 → PHISHING
+ 7. icia                 | Impact: 0.014897 → PHISHING
+ 8. ry                   | Impact: 0.014897 → PHISHING
+ 9.  '                   | Impact: 0.014897 → PHISHING
+10.  s                   | Impact: 0.014897 → PHISHING
+11.  be                  | Impact: 0.011890 → PHISHING
+12.  released            | Impact: 0.011890 → PHISHING
+13.  and                 | Impact: 0.011890 → PHISHING
+14.  us                  | Impact: 0.011890 → PHISHING
+15.  $                   | Impact: 0.011890 → PHISHING
+16.  million             | Impact: 0.011890 → PHISHING
+17.  will                | Impact: 0.011890 → PHISHING
+18.  (                   | Impact: 0.008917 → PHISHING
+19.  s                   | Impact: 0.008917 → PHISHING
+20. nr                   | Impact: 0.008917 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  paid                | Impact: 0.018976
+ 2.  into                | Impact: 0.018976
+ 3.  your                | Impact: 0.018976
+ 4.  account             | Impact: 0.018976
+ 5.  ben                 | Impact: 0.014897
+ 6. ef                   | Impact: 0.014897
+ 7. icia                 | Impact: 0.014897
+ 8. ry                   | Impact: 0.014897
+ 9.  '                   | Impact: 0.014897
+10.  s                   | Impact: 0.014897
+11.  be                  | Impact: 0.011890
+12.  released            | Impact: 0.011890
+13.  and                 | Impact: 0.011890
+14.  us                  | Impact: 0.011890
+15.  $                   | Impact: 0.011890
+16.  million             | Impact: 0.011890
+17.  will                | Impact: 0.011890
+18.  (                   | Impact: 0.008917
+19.  s                   | Impact: 0.008917
+20. nr                   | Impact: 0.008917
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  be                  | Impact: -0.002080
+ 2.  carefully           | Impact: -0.002080
+ 3.  worked              | Impact: -0.002080
+ 4.  out                 | Impact: -0.002080
+ 5.  .                   | Impact: -0.002080
+ 6.  .                   | Impact: -0.000507
+ 7.  members             | Impact: -0.000401
+ 8.  of                  | Impact: -0.000401
+ 9.  the                 | Impact: -0.000401
+10.  board               | Impact: -0.000401
+11.  of                  | Impact: -0.000401
+12.  directors           | Impact: -0.000401
+13.  ,                   | Impact: -0.000401
+14.  the                 | Impact: -0.000291
+15.  management          | Impact: -0.000291
+16.  under               | Impact: -0.000291
+17.  the                 | Impact: -0.000291
+18.  influence           | Impact: -0.000291
+19.  of                  | Impact: -0.000291
+20.  our                 | Impact: -0.000291

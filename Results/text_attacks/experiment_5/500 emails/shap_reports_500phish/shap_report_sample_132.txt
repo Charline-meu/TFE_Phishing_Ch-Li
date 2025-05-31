@@ -1,0 +1,75 @@
+Sample 132
+==========
+
+Sample text preview: DR DANJUMA SULE NIGERIAN PETROLEUM CORPORATION, FALOMO, LAGOS. URGENT BUSINESS PROPOSAL. I AM DR. DANJUMA SULE AN ACCOUNTANT AT THE NIGERIAN PETROLEUM...
+
+Model prediction: [1.5504815e-04 9.9984491e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lagos               | Impact: 0.018032 → PHISHING
+ 2.  foreign             | Impact: 0.014699 → PHISHING
+ 3.  account             | Impact: 0.014699 → PHISHING
+ 4.  which               | Impact: 0.013554 → PHISHING
+ 5.  you                 | Impact: 0.013554 → PHISHING
+ 6.  nigerian            | Impact: 0.012917 → PHISHING
+ 7.  petroleum           | Impact: 0.012917 → PHISHING
+ 8.  you                 | Impact: 0.011779 → PHISHING
+ 9.  nigerian            | Impact: 0.011751 → PHISHING
+10.  petroleum           | Impact: 0.011751 → PHISHING
+11.  corporation         | Impact: 0.011751 → PHISHING
+12.  corporation         | Impact: 0.010636 → PHISHING
+13.  your                | Impact: 0.009904 → PHISHING
+14.  phone               | Impact: 0.009904 → PHISHING
+15.  of                  | Impact: 0.009417 → PHISHING
+16.  money               | Impact: 0.009417 → PHISHING
+17.  from                | Impact: 0.009314 → PHISHING
+18.  com                 | Impact: -0.008249 → LEGITIMATE
+19.  to                  | Impact: 0.008081 → PHISHING
+20.  me                  | Impact: 0.008081 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  lagos               | Impact: 0.018032
+ 2.  foreign             | Impact: 0.014699
+ 3.  account             | Impact: 0.014699
+ 4.  which               | Impact: 0.013554
+ 5.  you                 | Impact: 0.013554
+ 6.  nigerian            | Impact: 0.012917
+ 7.  petroleum           | Impact: 0.012917
+ 8.  you                 | Impact: 0.011779
+ 9.  nigerian            | Impact: 0.011751
+10.  petroleum           | Impact: 0.011751
+11.  corporation         | Impact: 0.011751
+12.  corporation         | Impact: 0.010636
+13.  your                | Impact: 0.009904
+14.  phone               | Impact: 0.009904
+15.  of                  | Impact: 0.009417
+16.  money               | Impact: 0.009417
+17.  from                | Impact: 0.009314
+18.  to                  | Impact: 0.008081
+19.  me                  | Impact: 0.008081
+20.  lagos               | Impact: 0.007410
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  com                 | Impact: -0.008249
+ 2.  powered             | Impact: -0.003048
+ 3.  by                  | Impact: -0.003048
+ 4.  tel                 | Impact: -0.003048
+ 5. stra                 | Impact: -0.003048
+ 6.  .                   | Impact: -0.003048
+ 7.  -                   | Impact: -0.002842
+ 8.  -                   | Impact: -0.002842
+ 9.  -                   | Impact: -0.002842
+10.  -                   | Impact: -0.002842
+11.                      | Impact: -0.001930
+12.  ,                   | Impact: -0.000912
+13.  .                   | Impact: -0.000912
+14.  .                   | Impact: -0.000898
+15.  to                  | Impact: -0.000776
+16.  hear                | Impact: -0.000776
+17.  .                   | Impact: -0.000655
+18.  when                | Impact: -0.000538
+19.  you                 | Impact: -0.000538
+20.  inca                | Impact: -0.000538

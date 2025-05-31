@@ -1,0 +1,64 @@
+Sample 248
+==========
+
+Sample text preview: Cactus Swift is now ERAC: # for Jan, # for Feb HPLR Liq: D From: Stella L Morris // : PM To: Daren J Farmer/HOU/ECT@ECT cc: Anita Luong/HOU/ECT@ECT, M...
+
+Model prediction: [9.9979502e-01 2.0502644e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ec                  | Impact: -0.002734 → LEGITIMATE
+ 2.  indicated           | Impact: -0.002718 → LEGITIMATE
+ 3.  :                   | Impact: -0.002614 → LEGITIMATE
+ 4. ron                  | Impact: -0.001975 → LEGITIMATE
+ 5.  ec                  | Impact: -0.001972 → LEGITIMATE
+ 6. ron                  | Impact: -0.001900 → LEGITIMATE
+ 7.  below               | Impact: -0.001638 → LEGITIMATE
+ 8.  ec                  | Impact: -0.001570 → LEGITIMATE
+ 9.  en                  | Impact: -0.001523 → LEGITIMATE
+10.  now                 | Impact: 0.001413 → PHISHING
+11.  thanks              | Impact: -0.001379 → LEGITIMATE
+12.  or                  | Impact: -0.001356 → LEGITIMATE
+13.  #                   | Impact: -0.001302 → LEGITIMATE
+14.  jan                 | Impact: -0.001283 → LEGITIMATE
+15.  replace             | Impact: -0.001260 → LEGITIMATE
+16.  hp                  | Impact: -0.001259 → LEGITIMATE
+17.  thanks              | Impact: -0.001248 → LEGITIMATE
+18.  en                  | Impact: -0.001197 → LEGITIMATE
+19.  resources           | Impact: -0.001100 → LEGITIMATE
+20.  liquids             | Impact: -0.001100 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  now                 | Impact: 0.001413
+ 2.  swift               | Impact: 0.000391
+ 3.  is                  | Impact: 0.000391
+ 4.  these               | Impact: 0.000318
+ 5.  @                   | Impact: 0.000208
+ 6.  era                 | Impact: 0.000202
+ 7. c                    | Impact: 0.000202
+ 8.  the                 | Impact: 0.000071
+ 9.                      | Impact: 0.000018
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ec                  | Impact: -0.002734
+ 2.  indicated           | Impact: -0.002718
+ 3.  :                   | Impact: -0.002614
+ 4. ron                  | Impact: -0.001975
+ 5.  ec                  | Impact: -0.001972
+ 6. ron                  | Impact: -0.001900
+ 7.  below               | Impact: -0.001638
+ 8.  ec                  | Impact: -0.001570
+ 9.  en                  | Impact: -0.001523
+10.  thanks              | Impact: -0.001379
+11.  or                  | Impact: -0.001356
+12.  #                   | Impact: -0.001302
+13.  jan                 | Impact: -0.001283
+14.  replace             | Impact: -0.001260
+15.  hp                  | Impact: -0.001259
+16.  thanks              | Impact: -0.001248
+17.  en                  | Impact: -0.001197
+18.  resources           | Impact: -0.001100
+19.  liquids             | Impact: -0.001100
+20. l                    | Impact: -0.001078

@@ -1,0 +1,75 @@
+Sample 391
+==========
+
+Sample text preview: ----- Forwarded by Sara Shackleton/HOU/ECT on // : AM ----- "Jeff Seely" // : PM To: cc: Subject: ShareBuilder News - Aug Dear Sara, EXCITING UPDATES ...
+
+Model prediction: [0.99860173 0.0013983 ]
+Predicted class: LEGITIMATE with 0.9986 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ec                  | Impact: -0.085359 → LEGITIMATE
+ 2. t                    | Impact: -0.085359 → LEGITIMATE
+ 3.  on                  | Impact: -0.028292 → LEGITIMATE
+ 4.  /                   | Impact: -0.028292 → LEGITIMATE
+ 5.  -                   | Impact: -0.010693 → LEGITIMATE
+ 6.  -                   | Impact: -0.010693 → LEGITIMATE
+ 7.  forward             | Impact: -0.010693 → LEGITIMATE
+ 8. ed                   | Impact: -0.010693 → LEGITIMATE
+ 9.  are                 | Impact: 0.008331 → PHISHING
+10.  among               | Impact: 0.008331 → PHISHING
+11.  the                 | Impact: 0.008331 → PHISHING
+12.  biggest             | Impact: 0.008331 → PHISHING
+13.  in                  | Impact: 0.008331 → PHISHING
+14.  the                 | Impact: 0.008331 → PHISHING
+15.  nation              | Impact: 0.008331 → PHISHING
+16.  :                   | Impact: 0.008331 → PHISHING
+17.  by                  | Impact: -0.008118 → LEGITIMATE
+18.  sara                | Impact: -0.008118 → LEGITIMATE
+19.  shack               | Impact: -0.008118 → LEGITIMATE
+20. leton                | Impact: -0.008118 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  are                 | Impact: 0.008331
+ 2.  among               | Impact: 0.008331
+ 3.  the                 | Impact: 0.008331
+ 4.  biggest             | Impact: 0.008331
+ 5.  in                  | Impact: 0.008331
+ 6.  the                 | Impact: 0.008331
+ 7.  nation              | Impact: 0.008331
+ 8.  :                   | Impact: 0.008331
+ 9.  to                  | Impact: 0.006860
+10.  become              | Impact: 0.006860
+11.  a                   | Impact: 0.006860
+12.  your                | Impact: 0.006860
+13.  organization        | Impact: 0.006860
+14.  can                 | Impact: 0.006860
+15.  apply               | Impact: 0.006860
+16.  would               | Impact: 0.004594
+17.  like                | Impact: 0.004594
+18.  to                  | Impact: 0.004594
+19.  provide             | Impact: 0.004594
+20.  a                   | Impact: 0.004594
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ec                  | Impact: -0.085359
+ 2. t                    | Impact: -0.085359
+ 3.  on                  | Impact: -0.028292
+ 4.  /                   | Impact: -0.028292
+ 5.  -                   | Impact: -0.010693
+ 6.  -                   | Impact: -0.010693
+ 7.  forward             | Impact: -0.010693
+ 8. ed                   | Impact: -0.010693
+ 9.  by                  | Impact: -0.008118
+10.  sara                | Impact: -0.008118
+11.  shack               | Impact: -0.008118
+12. leton                | Impact: -0.008118
+13.  /                   | Impact: -0.008118
+14.  "                   | Impact: -0.007373
+15.  jeff                | Impact: -0.007373
+16.  see                 | Impact: -0.007373
+17. ly                   | Impact: -0.007373
+18.  "                   | Impact: -0.007373
+19.  /                   | Impact: -0.007373
+20.  /                   | Impact: -0.007373

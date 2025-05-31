@@ -1,0 +1,75 @@
+Sample 370
+==========
+
+Sample text preview: **************************************BULKER CD********************** ************************MAY ****************************************************...
+
+Model prediction: [4.9232173e-04 9.9950767e-01]
+Predicted class: PHISHING with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  show                | Impact: 0.024348 → PHISHING
+ 2.  you                 | Impact: 0.024348 → PHISHING
+ 3.  we                  | Impact: 0.015010 → PHISHING
+ 4.  can                 | Impact: 0.015010 → PHISHING
+ 5.  send                | Impact: 0.009231 → PHISHING
+ 6.  your                | Impact: 0.009231 → PHISHING
+ 7.  emails              | Impact: 0.009231 → PHISHING
+ 8.  .                   | Impact: 0.009231 → PHISHING
+ 9.  we                  | Impact: 0.007637 → PHISHING
+10.  have                | Impact: 0.007637 → PHISHING
+11.  developed           | Impact: 0.007637 → PHISHING
+12.  simple              | Impact: 0.007637 → PHISHING
+13.  yet                 | Impact: 0.007637 → PHISHING
+14.  successful          | Impact: 0.007637 → PHISHING
+15.  strategies          | Impact: 0.007637 → PHISHING
+16.  to                  | Impact: 0.007637 → PHISHING
+17.  luckily             | Impact: 0.007243 → PHISHING
+18.  for                 | Impact: 0.007243 → PHISHING
+19.  you                 | Impact: 0.007243 → PHISHING
+20.  ,                   | Impact: 0.006365 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  show                | Impact: 0.024348
+ 2.  you                 | Impact: 0.024348
+ 3.  we                  | Impact: 0.015010
+ 4.  can                 | Impact: 0.015010
+ 5.  send                | Impact: 0.009231
+ 6.  your                | Impact: 0.009231
+ 7.  emails              | Impact: 0.009231
+ 8.  .                   | Impact: 0.009231
+ 9.  we                  | Impact: 0.007637
+10.  have                | Impact: 0.007637
+11.  developed           | Impact: 0.007637
+12.  simple              | Impact: 0.007637
+13.  yet                 | Impact: 0.007637
+14.  successful          | Impact: 0.007637
+15.  strategies          | Impact: 0.007637
+16.  to                  | Impact: 0.007637
+17.  luckily             | Impact: 0.007243
+18.  for                 | Impact: 0.007243
+19.  you                 | Impact: 0.007243
+20.  ,                   | Impact: 0.006365
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  we                  | Impact: -0.000086
+ 2.  are                 | Impact: -0.000086
+ 3.  the                 | Impact: -0.000086
+ 4.  email               | Impact: -0.000086
+ 5.  marketing           | Impact: -0.000086
+ 6.  software            | Impact: -0.000086
+ 7.  experts             | Impact: -0.000086
+ 8.  !                   | Impact: -0.000086
+ 9.  buying              | Impact: -0.000086
+10.  the                 | Impact: -0.000086
+11.  correct             | Impact: -0.000086
+12.  software            | Impact: -0.000086
+13.  for                 | Impact: -0.000086
+14.  your                | Impact: -0.000086
+15.  needs               | Impact: -0.000086
+16.  can                 | Impact: -0.000086
+17.  be                  | Impact: -0.000086
+18.  confusing           | Impact: -0.000086
+19.  .                   | Impact: -0.000086
+20.  the                 | Impact: -0.000086

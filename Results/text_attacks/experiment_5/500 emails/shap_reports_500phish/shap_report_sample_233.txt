@@ -1,0 +1,75 @@
+Sample 233
+==========
+
+Sample text preview: From: Frank Michelle Esq. London, U.K. Telephone: + Fax line: + I must apologise for berging into your mailbox without a formal introduction of myself...
+
+Model prediction: [1.7024665e-04 9.9982977e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  only                | Impact: 0.011732 → PHISHING
+ 2.  daughter            | Impact: 0.011732 → PHISHING
+ 3.  attorney            | Impact: 0.010992 → PHISHING
+ 4.  to                  | Impact: 0.010992 → PHISHING
+ 5.  late                | Impact: 0.010992 → PHISHING
+ 6.  mr                  | Impact: 0.010992 → PHISHING
+ 7.  to                  | Impact: 0.007877 → PHISHING
+ 8.  receive             | Impact: 0.007877 → PHISHING
+ 9.  these               | Impact: 0.007877 → PHISHING
+10.  funds               | Impact: 0.007877 → PHISHING
+11.  .                   | Impact: 0.006893 → PHISHING
+12.  his                 | Impact: 0.006776 → PHISHING
+13.  daughter            | Impact: 0.006776 → PHISHING
+14.  who                 | Impact: 0.006776 → PHISHING
+15.  died                | Impact: 0.006776 → PHISHING
+16.  five                | Impact: 0.006239 → PHISHING
+17.  hundred             | Impact: 0.006239 → PHISHING
+18.  thousand            | Impact: 0.006239 → PHISHING
+19.  united              | Impact: 0.006239 → PHISHING
+20.  state               | Impact: 0.006239 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  only                | Impact: 0.011732
+ 2.  daughter            | Impact: 0.011732
+ 3.  attorney            | Impact: 0.010992
+ 4.  to                  | Impact: 0.010992
+ 5.  late                | Impact: 0.010992
+ 6.  mr                  | Impact: 0.010992
+ 7.  to                  | Impact: 0.007877
+ 8.  receive             | Impact: 0.007877
+ 9.  these               | Impact: 0.007877
+10.  funds               | Impact: 0.007877
+11.  .                   | Impact: 0.006893
+12.  his                 | Impact: 0.006776
+13.  daughter            | Impact: 0.006776
+14.  who                 | Impact: 0.006776
+15.  died                | Impact: 0.006776
+16.  five                | Impact: 0.006239
+17.  hundred             | Impact: 0.006239
+18.  thousand            | Impact: 0.006239
+19.  united              | Impact: 0.006239
+20.  state               | Impact: 0.006239
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  [                   | Impact: -0.004299
+ 2.  ]                   | Impact: -0.004299
+ 3.  sex                 | Impact: -0.004299
+ 4.  :                   | Impact: -0.004299
+ 5.  [                   | Impact: -0.003762
+ 6.  ]                   | Impact: -0.003762
+ 7.  age                 | Impact: -0.003762
+ 8.  :                   | Impact: -0.003762
+ 9.  [                   | Impact: -0.002326
+10.  ]                   | Impact: -0.002326
+11.  name                | Impact: -0.002326
+12.  :                   | Impact: -0.002326
+13.  [                   | Impact: -0.002326
+14.  ]                   | Impact: -0.002326
+15.  address             | Impact: -0.002326
+16.  :                   | Impact: -0.002326
+17.  [                   | Impact: -0.001409
+18.  ]                   | Impact: -0.001409
+19.  telephone           | Impact: -0.001409
+20.  :                   | Impact: -0.001409

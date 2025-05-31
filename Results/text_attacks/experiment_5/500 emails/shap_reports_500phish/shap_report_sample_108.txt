@@ -1,0 +1,75 @@
+Sample 108
+==========
+
+Sample text preview: To ensure delivery to your inbox, please add to your address book. Payment Received View Accounts | Privacy Promise | Contact Us USAA SECURITY ZONE US...
+
+Model prediction: [1.5883191e-04 9.9984109e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.023837 → LEGITIMATE
+ 2.  your                | Impact: 0.023367 → PHISHING
+ 3.  please              | Impact: 0.019553 → PHISHING
+ 4.  contact             | Impact: 0.019553 → PHISHING
+ 5.  reply               | Impact: 0.018193 → PHISHING
+ 6.  usa                 | Impact: 0.016061 → PHISHING
+ 7. a                    | Impact: 0.016061 → PHISHING
+ 8.  us                  | Impact: 0.015151 → PHISHING
+ 9.  investment          | Impact: 0.013210 → PHISHING
+10.  management          | Impact: 0.013210 → PHISHING
+11.  company             | Impact: 0.013210 → PHISHING
+12.  message             | Impact: 0.012268 → PHISHING
+13.  to                  | Impact: 0.012268 → PHISHING
+14.  payment             | Impact: 0.012225 → PHISHING
+15.  received            | Impact: 0.012225 → PHISHING
+16.  your                | Impact: 0.011479 → PHISHING
+17.  account             | Impact: 0.011479 → PHISHING
+18.  a                   | Impact: 0.011245 → PHISHING
+19.  secure              | Impact: 0.011245 → PHISHING
+20.  address             | Impact: 0.011160 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.023367
+ 2.  please              | Impact: 0.019553
+ 3.  contact             | Impact: 0.019553
+ 4.  reply               | Impact: 0.018193
+ 5.  usa                 | Impact: 0.016061
+ 6. a                    | Impact: 0.016061
+ 7.  us                  | Impact: 0.015151
+ 8.  investment          | Impact: 0.013210
+ 9.  management          | Impact: 0.013210
+10.  company             | Impact: 0.013210
+11.  message             | Impact: 0.012268
+12.  to                  | Impact: 0.012268
+13.  payment             | Impact: 0.012225
+14.  received            | Impact: 0.012225
+15.  your                | Impact: 0.011479
+16.  account             | Impact: 0.011479
+17.  a                   | Impact: 0.011245
+18.  secure              | Impact: 0.011245
+19.  address             | Impact: 0.011160
+20.  please              | Impact: 0.011088
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.023837
+ 2.                      | Impact: -0.001906
+ 3.  .                   | Impact: -0.001826
+ 4.  .                   | Impact: -0.001826
+ 5.  ,                   | Impact: -0.001371
+ 6.  both                | Impact: -0.001322
+ 7.  registered          | Impact: -0.001322
+ 8.  broker              | Impact: -0.001322
+ 9.  dealers             | Impact: -0.001322
+10.  .                   | Impact: -0.001322
+11.  take                | Impact: -0.000234
+12.  the                 | Impact: -0.000234
+13.  pledge              | Impact: -0.000234
+14.  to                  | Impact: -0.000234
+15.  drive               | Impact: -0.000234
+16.  .                   | Impact: -0.000234
+17.  never               | Impact: -0.000234
+18.  text                | Impact: -0.000234
+19.  and                 | Impact: -0.000234
+20.  book                | Impact: -0.000128

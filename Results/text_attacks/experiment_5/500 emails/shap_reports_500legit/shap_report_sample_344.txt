@@ -1,0 +1,53 @@
+Sample 344
+==========
+
+Sample text preview: (See attached file: hpl.xls) - hpl.xls
+
+Model prediction: [9.9963164e-01 3.6831619e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  file                | Impact: 0.162016 → PHISHING
+ 2.  .                   | Impact: -0.150658 → LEGITIMATE
+ 3.  xl                  | Impact: 0.131319 → PHISHING
+ 4.  (                   | Impact: -0.081051 → LEGITIMATE
+ 5.  see                 | Impact: -0.077206 → LEGITIMATE
+ 6. s                    | Impact: 0.076586 → PHISHING
+ 7. l                    | Impact: -0.075812 → LEGITIMATE
+ 8.  attached            | Impact: 0.049668 → PHISHING
+ 9.  :                   | Impact: -0.046880 → LEGITIMATE
+10.  )                   | Impact: -0.044790 → LEGITIMATE
+11. l                    | Impact: -0.039860 → LEGITIMATE
+12.  .                   | Impact: -0.037499 → LEGITIMATE
+13.  xl                  | Impact: -0.036039 → LEGITIMATE
+14. s                    | Impact: 0.024931 → PHISHING
+15.  -                   | Impact: 0.013315 → PHISHING
+16.  hp                  | Impact: -0.009503 → LEGITIMATE
+17.  hp                  | Impact: -0.009082 → LEGITIMATE
+18.                      | Impact: 0.000001 → PHISHING
+19.                      | Impact: -0.000000 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  file                | Impact: 0.162016
+ 2.  xl                  | Impact: 0.131319
+ 3. s                    | Impact: 0.076586
+ 4.  attached            | Impact: 0.049668
+ 5. s                    | Impact: 0.024931
+ 6.  -                   | Impact: 0.013315
+ 7.                      | Impact: 0.000001
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.150658
+ 2.  (                   | Impact: -0.081051
+ 3.  see                 | Impact: -0.077206
+ 4. l                    | Impact: -0.075812
+ 5.  :                   | Impact: -0.046880
+ 6.  )                   | Impact: -0.044790
+ 7. l                    | Impact: -0.039860
+ 8.  .                   | Impact: -0.037499
+ 9.  xl                  | Impact: -0.036039
+10.  hp                  | Impact: -0.009503
+11.  hp                  | Impact: -0.009082
+12.                      | Impact: -0.000000

@@ -1,0 +1,75 @@
+Sample 459
+==========
+
+Sample text preview: This week or next week. -----Original Message----- From: Oxley, David Sent: Tuesday, May , : AM To: Lavorato, John Subject: RE: OK. So I take it we wi...
+
+Model prediction: [9.9980706e-01 1.9298139e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  i                   | Impact: -0.013318 → LEGITIMATE
+ 2.  expired             | Impact: 0.008410 → PHISHING
+ 3.  consider            | Impact: -0.004703 → LEGITIMATE
+ 4.  this                | Impact: 0.003636 → PHISHING
+ 5.  john                | Impact: 0.003008 → PHISHING
+ 6.  i                   | Impact: -0.002049 → LEGITIMATE
+ 7.  him                 | Impact: 0.001887 → PHISHING
+ 8.  this                | Impact: 0.001869 → PHISHING
+ 9.  .                   | Impact: -0.001680 → LEGITIMATE
+10.  think               | Impact: -0.001583 → LEGITIMATE
+11. sto                  | Impact: -0.001465 → LEGITIMATE
+12.  summary             | Impact: -0.001451 → LEGITIMATE
+13.  finished            | Impact: 0.001337 → PHISHING
+14.  honestly            | Impact: -0.001253 → LEGITIMATE
+15.  and                 | Impact: 0.001158 → PHISHING
+16.  all                 | Impact: 0.001081 → PHISHING
+17.  sit                 | Impact: -0.001077 → LEGITIMATE
+18.  down                | Impact: -0.001045 → LEGITIMATE
+19.  .                   | Impact: -0.000881 → LEGITIMATE
+20.  or                  | Impact: 0.000753 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  expired             | Impact: 0.008410
+ 2.  this                | Impact: 0.003636
+ 3.  john                | Impact: 0.003008
+ 4.  him                 | Impact: 0.001887
+ 5.  this                | Impact: 0.001869
+ 6.  finished            | Impact: 0.001337
+ 7.  and                 | Impact: 0.001158
+ 8.  all                 | Impact: 0.001081
+ 9.  or                  | Impact: 0.000753
+10.  his                 | Impact: 0.000678
+11.  have                | Impact: 0.000660
+12.  documents           | Impact: 0.000621
+13.  other               | Impact: 0.000572
+14.  time                | Impact: 0.000545
+15.  .                   | Impact: 0.000504
+16.  .                   | Impact: 0.000447
+17.  read                | Impact: 0.000404
+18.  process             | Impact: 0.000374
+19.  week                | Impact: 0.000309
+20.  t                   | Impact: 0.000282
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.013318
+ 2.  consider            | Impact: -0.004703
+ 3.  i                   | Impact: -0.002049
+ 4.  .                   | Impact: -0.001680
+ 5.  think               | Impact: -0.001583
+ 6. sto                  | Impact: -0.001465
+ 7.  summary             | Impact: -0.001451
+ 8.  honestly            | Impact: -0.001253
+ 9.  sit                 | Impact: -0.001077
+10.  down                | Impact: -0.001045
+11.  .                   | Impact: -0.000881
+12.  i                   | Impact: -0.000712
+13.  when                | Impact: -0.000591
+14.  it                  | Impact: -0.000527
+15.  -                   | Impact: -0.000505
+16.  pm                  | Impact: -0.000489
+17. work                 | Impact: -0.000488
+18.  just                | Impact: -0.000485
+19.  message             | Impact: -0.000483
+20.  :                   | Impact: -0.000464

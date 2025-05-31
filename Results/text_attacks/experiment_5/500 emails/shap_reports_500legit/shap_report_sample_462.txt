@@ -1,0 +1,75 @@
+Sample 462
+==========
+
+Sample text preview: Yes, but I would say that the $,/mo during the winter is related to an HPL discount on Transport given to the marketing desk in order to make the deal...
+
+Model prediction: [9.9978703e-01 2.1302827e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.006869 → LEGITIMATE
+ 2.  residential         | Impact: -0.006583 → LEGITIMATE
+ 3.  volume              | Impact: -0.006583 → LEGITIMATE
+ 4.  volumes             | Impact: -0.005237 → LEGITIMATE
+ 5.  industrial          | Impact: -0.003694 → LEGITIMATE
+ 6.  volumes             | Impact: -0.003694 → LEGITIMATE
+ 7.  for                 | Impact: -0.003206 → LEGITIMATE
+ 8.  eric                | Impact: -0.003052 → LEGITIMATE
+ 9.  says                | Impact: -0.003052 → LEGITIMATE
+10.  ,                   | Impact: -0.002800 → LEGITIMATE
+11.  accurate            | Impact: -0.002497 → LEGITIMATE
+12.  for                 | Impact: -0.002417 → LEGITIMATE
+13.  the                 | Impact: -0.002417 → LEGITIMATE
+14.  transaction         | Impact: -0.002302 → LEGITIMATE
+15.  that                | Impact: -0.002191 → LEGITIMATE
+16.  ed                  | Impact: -0.002191 → LEGITIMATE
+17.  shows               | Impact: -0.002191 → LEGITIMATE
+18.  revenue             | Impact: -0.002191 → LEGITIMATE
+19.  this                | Impact: -0.002089 → LEGITIMATE
+20.  portion             | Impact: -0.002089 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  (                   | Impact: 0.001882
+ 2.  ?                   | Impact: 0.001222
+ 3.  ed                  | Impact: 0.000456
+ 4.  asked               | Impact: 0.000456
+ 5.  en                  | Impact: 0.000415
+ 6. te                   | Impact: 0.000415
+ 7. x                    | Impact: 0.000415
+ 8.  deal                | Impact: 0.000415
+ 9.  .                   | Impact: 0.000415
+10.  and                 | Impact: 0.000399
+11.                      | Impact: 0.000306
+12.  yes                 | Impact: 0.000306
+13.  ,                   | Impact: 0.000306
+14.  me                  | Impact: 0.000305
+15.  to                  | Impact: 0.000305
+16.  residential         | Impact: 0.000264
+17.  )                   | Impact: 0.000264
+18.  to                  | Impact: 0.000059
+19.  get                 | Impact: 0.000059
+20.  rei                 | Impact: 0.000059
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.006869
+ 2.  residential         | Impact: -0.006583
+ 3.  volume              | Impact: -0.006583
+ 4.  volumes             | Impact: -0.005237
+ 5.  industrial          | Impact: -0.003694
+ 6.  volumes             | Impact: -0.003694
+ 7.  for                 | Impact: -0.003206
+ 8.  eric                | Impact: -0.003052
+ 9.  says                | Impact: -0.003052
+10.  ,                   | Impact: -0.002800
+11.  accurate            | Impact: -0.002497
+12.  for                 | Impact: -0.002417
+13.  the                 | Impact: -0.002417
+14.  transaction         | Impact: -0.002302
+15.  that                | Impact: -0.002191
+16.  ed                  | Impact: -0.002191
+17.  shows               | Impact: -0.002191
+18.  revenue             | Impact: -0.002191
+19.  this                | Impact: -0.002089
+20.  portion             | Impact: -0.002089

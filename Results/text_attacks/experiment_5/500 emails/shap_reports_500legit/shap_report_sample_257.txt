@@ -1,0 +1,75 @@
+Sample 257
+==========
+
+Sample text preview: EOL Deals From: // To: // EnPower From: // To: // Desk Total Deals Total MWH Desk Total Deals Total MWH EPMI Long Term California ,, EPMI Long Term Ca...
+
+Model prediction: [9.990847e-01 9.152606e-04]
+Predicted class: LEGITIMATE with 0.9991 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  deals               | Impact: -0.000963 → LEGITIMATE
+ 2.  total               | Impact: -0.000963 → LEGITIMATE
+ 3.  desk                | Impact: -0.000826 → LEGITIMATE
+ 4.  total               | Impact: -0.000826 → LEGITIMATE
+ 5.  ep                  | Impact: -0.000762 → LEGITIMATE
+ 6. mi                   | Impact: -0.000762 → LEGITIMATE
+ 7.  ,                   | Impact: 0.000628 → PHISHING
+ 8.  short               | Impact: -0.000585 → LEGITIMATE
+ 9.  term                | Impact: -0.000585 → LEGITIMATE
+10.  northwest           | Impact: -0.000585 → LEGITIMATE
+11.  .                   | Impact: 0.000574 → PHISHING
+12.  ep                  | Impact: 0.000533 → PHISHING
+13. mi                   | Impact: 0.000533 → PHISHING
+14.  lt                  | Impact: 0.000533 → PHISHING
+15.  w                   | Impact: 0.000533 → PHISHING
+16.  ep                  | Impact: -0.000505 → LEGITIMATE
+17. mi                   | Impact: -0.000505 → LEGITIMATE
+18.  np                  | Impact: -0.000496 → LEGITIMATE
+19.  -                   | Impact: -0.000496 → LEGITIMATE
+20.  $                   | Impact: -0.000496 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ,                   | Impact: 0.000628
+ 2.  .                   | Impact: 0.000574
+ 3.  ep                  | Impact: 0.000533
+ 4. mi                   | Impact: 0.000533
+ 5.  lt                  | Impact: 0.000533
+ 6.  w                   | Impact: 0.000533
+ 7.  long                | Impact: 0.000374
+ 8.  term                | Impact: 0.000374
+ 9.  ,                   | Impact: 0.000189
+10.  ,                   | Impact: 0.000165
+11.  ,                   | Impact: 0.000123
+12.  ,                   | Impact: 0.000108
+13.  ,                   | Impact: 0.000070
+14.  california          | Impact: 0.000057
+15.  real                | Impact: 0.000043
+16.  time                | Impact: 0.000043
+17.  ,                   | Impact: 0.000043
+18.  real                | Impact: 0.000043
+19.  time                | Impact: 0.000043
+20.  ,                   | Impact: 0.000043
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  deals               | Impact: -0.000963
+ 2.  total               | Impact: -0.000963
+ 3.  desk                | Impact: -0.000826
+ 4.  total               | Impact: -0.000826
+ 5.  ep                  | Impact: -0.000762
+ 6. mi                   | Impact: -0.000762
+ 7.  short               | Impact: -0.000585
+ 8.  term                | Impact: -0.000585
+ 9.  northwest           | Impact: -0.000585
+10.  ep                  | Impact: -0.000505
+11. mi                   | Impact: -0.000505
+12.  np                  | Impact: -0.000496
+13.  -                   | Impact: -0.000496
+14.  $                   | Impact: -0.000496
+15.  ep                  | Impact: -0.000464
+16. mi                   | Impact: -0.000464
+17.  deals               | Impact: -0.000371
+18.  total               | Impact: -0.000371
+19.  ,                   | Impact: -0.000370
+20.  $                   | Impact: -0.000370

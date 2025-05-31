@@ -1,0 +1,57 @@
+Sample 474
+==========
+
+Sample text preview: Dear, To improve service and convenience for users. More Information Open or download the file (PDF)
+
+Model prediction: [2.5364826e-04 9.9974638e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.406667 → PHISHING
+ 2.  download            | Impact: 0.224636 → PHISHING
+ 3.  open                | Impact: 0.108801 → PHISHING
+ 4.  pdf                 | Impact: 0.104257 → PHISHING
+ 5.  convenience         | Impact: 0.081534 → PHISHING
+ 6.  file                | Impact: 0.066050 → PHISHING
+ 7.  .                   | Impact: -0.062094 → LEGITIMATE
+ 8.  (                   | Impact: -0.053046 → LEGITIMATE
+ 9.  service             | Impact: 0.044720 → PHISHING
+10.  improve             | Impact: -0.041820 → LEGITIMATE
+11.  users               | Impact: 0.031600 → PHISHING
+12.  ,                   | Impact: -0.022095 → LEGITIMATE
+13.  for                 | Impact: 0.018834 → PHISHING
+14.  and                 | Impact: -0.013836 → LEGITIMATE
+15.  to                  | Impact: -0.012462 → LEGITIMATE
+16.  more                | Impact: 0.009792 → PHISHING
+17.  the                 | Impact: -0.008684 → LEGITIMATE
+18.  )                   | Impact: 0.003686 → PHISHING
+19.  information         | Impact: -0.001294 → LEGITIMATE
+20.  or                  | Impact: 0.000915 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.406667
+ 2.  download            | Impact: 0.224636
+ 3.  open                | Impact: 0.108801
+ 4.  pdf                 | Impact: 0.104257
+ 5.  convenience         | Impact: 0.081534
+ 6.  file                | Impact: 0.066050
+ 7.  service             | Impact: 0.044720
+ 8.  users               | Impact: 0.031600
+ 9.  for                 | Impact: 0.018834
+10.  more                | Impact: 0.009792
+11.  )                   | Impact: 0.003686
+12.  or                  | Impact: 0.000915
+13.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.062094
+ 2.  (                   | Impact: -0.053046
+ 3.  improve             | Impact: -0.041820
+ 4.  ,                   | Impact: -0.022095
+ 5.  and                 | Impact: -0.013836
+ 6.  to                  | Impact: -0.012462
+ 7.  the                 | Impact: -0.008684
+ 8.  information         | Impact: -0.001294
+ 9.                      | Impact: -0.000000

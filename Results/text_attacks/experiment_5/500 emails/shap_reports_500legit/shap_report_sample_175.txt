@@ -1,0 +1,69 @@
+Sample 175
+==========
+
+Sample text preview: Title page has a login screen and I can't seem to get the apt indexes anymore. Is it just me or is something going on there? -- Additive E - "not suit...
+
+Model prediction: [9.996269e-01 3.731606e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  screen              | Impact: 0.207398 → PHISHING
+ 2.  apt                 | Impact: -0.082436 → LEGITIMATE
+ 3.  seem                | Impact: -0.051666 → LEGITIMATE
+ 4.  log                 | Impact: 0.025446 → PHISHING
+ 5.  title               | Impact: 0.024839 → PHISHING
+ 6. in                   | Impact: 0.023728 → PHISHING
+ 7.  to                  | Impact: 0.020901 → PHISHING
+ 8.  anymore             | Impact: -0.020505 → LEGITIMATE
+ 9.  "                   | Impact: -0.020227 → LEGITIMATE
+10.  vegetarian          | Impact: -0.019793 → LEGITIMATE
+11.  i                   | Impact: -0.016832 → LEGITIMATE
+12.  can                 | Impact: 0.015941 → PHISHING
+13.  .                   | Impact: 0.015224 → PHISHING
+14.  is                  | Impact: -0.014656 → LEGITIMATE
+15.  t                   | Impact: 0.013343 → PHISHING
+16.  just                | Impact: -0.010683 → LEGITIMATE
+17. es                   | Impact: -0.010301 → LEGITIMATE
+18.  page                | Impact: 0.010154 → PHISHING
+19.  additive            | Impact: -0.010131 → LEGITIMATE
+20.  a                   | Impact: -0.009409 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  screen              | Impact: 0.207398
+ 2.  log                 | Impact: 0.025446
+ 3.  title               | Impact: 0.024839
+ 4. in                   | Impact: 0.023728
+ 5.  to                  | Impact: 0.020901
+ 6.  can                 | Impact: 0.015941
+ 7.  .                   | Impact: 0.015224
+ 8.  t                   | Impact: 0.013343
+ 9.  page                | Impact: 0.010154
+10.  .                   | Impact: 0.004517
+11.  and                 | Impact: 0.002807
+12.  index               | Impact: 0.002707
+13.                      | Impact: 0.000186
+14.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  apt                 | Impact: -0.082436
+ 2.  seem                | Impact: -0.051666
+ 3.  anymore             | Impact: -0.020505
+ 4.  "                   | Impact: -0.020227
+ 5.  vegetarian          | Impact: -0.019793
+ 6.  i                   | Impact: -0.016832
+ 7.  is                  | Impact: -0.014656
+ 8.  just                | Impact: -0.010683
+ 9. es                   | Impact: -0.010301
+10.  additive            | Impact: -0.010131
+11.  a                   | Impact: -0.009409
+12.  '                   | Impact: -0.008959
+13.  something           | Impact: -0.008829
+14.  has                 | Impact: -0.008571
+15.  -                   | Impact: -0.008376
+16.  or                  | Impact: -0.008365
+17.  -                   | Impact: -0.007983
+18.  it                  | Impact: -0.007957
+19.  get                 | Impact: -0.007760
+20.  there               | Impact: -0.006376

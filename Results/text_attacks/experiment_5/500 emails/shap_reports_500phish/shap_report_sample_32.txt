@@ -1,0 +1,72 @@
+Sample 32
+=========
+
+Sample text preview: >From The Desk Of BALA TOMSON (Esq). The Head Of File Department, African Development Bank A.D.B Ouagadougou Burkina-Faso West Africa. Phone (- ) PLAN...
+
+Model prediction: [2.2492213e-04 9.9977511e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  be                  | Impact: 0.009176 → PHISHING
+ 2.  for                 | Impact: 0.009176 → PHISHING
+ 3.  you                 | Impact: 0.009176 → PHISHING
+ 4.  as                  | Impact: 0.009176 → PHISHING
+ 5.  foreign             | Impact: 0.009176 → PHISHING
+ 6.  partner             | Impact: 0.009176 → PHISHING
+ 7.  ,                   | Impact: 0.009176 → PHISHING
+ 8.  our                 | Impact: 0.006935 → PHISHING
+ 9.  foreign             | Impact: 0.006935 → PHISHING
+10.  customer            | Impact: 0.006935 → PHISHING
+11.  who                 | Impact: 0.006935 → PHISHING
+12.  we                  | Impact: 0.006929 → PHISHING
+13.  agree               | Impact: 0.006929 → PHISHING
+14.  that                | Impact: 0.006929 → PHISHING
+15.  %                   | Impact: 0.006929 → PHISHING
+16.  of                  | Impact: 0.006929 → PHISHING
+17.  this                | Impact: 0.006929 → PHISHING
+18.  money               | Impact: 0.006929 → PHISHING
+19.  will                | Impact: 0.006929 → PHISHING
+20.  visit               | Impact: 0.006618 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  be                  | Impact: 0.009176
+ 2.  for                 | Impact: 0.009176
+ 3.  you                 | Impact: 0.009176
+ 4.  as                  | Impact: 0.009176
+ 5.  foreign             | Impact: 0.009176
+ 6.  partner             | Impact: 0.009176
+ 7.  ,                   | Impact: 0.009176
+ 8.  our                 | Impact: 0.006935
+ 9.  foreign             | Impact: 0.006935
+10.  customer            | Impact: 0.006935
+11.  who                 | Impact: 0.006935
+12.  we                  | Impact: 0.006929
+13.  agree               | Impact: 0.006929
+14.  that                | Impact: 0.006929
+15.  %                   | Impact: 0.006929
+16.  of                  | Impact: 0.006929
+17.  this                | Impact: 0.006929
+18.  money               | Impact: 0.006929
+19.  will                | Impact: 0.006929
+20.  visit               | Impact: 0.006618
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.000223
+ 2.  un                  | Impact: -0.000141
+ 3. claim                | Impact: -0.000141
+ 4. ed                   | Impact: -0.000141
+ 5.  treasury            | Impact: -0.000141
+ 6.  as                  | Impact: -0.000141
+ 7.  bill                | Impact: -0.000141
+ 8.  .                   | Impact: -0.000141
+ 9.  phone               | Impact: -0.000044
+10.  (                   | Impact: -0.000044
+11.  -                   | Impact: -0.000044
+12.  )                   | Impact: -0.000044
+13.  plane               | Impact: -0.000044
+14.  crash               | Impact: -0.000044
+15.  web                 | Impact: -0.000044
+16.  site                | Impact: -0.000044
+17.  .                   | Impact: -0.000044

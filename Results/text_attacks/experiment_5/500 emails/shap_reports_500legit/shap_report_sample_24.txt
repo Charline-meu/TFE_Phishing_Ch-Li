@@ -1,0 +1,75 @@
+Sample 24
+=========
+
+Sample text preview: Rodent of Unusual Size wrote: > I'm not up to forking the text, but for your entertainment: > > Fine, *I'll* fork it. This piece has been up on the wa...
+
+Model prediction: [9.9949956e-01 5.0038641e-04]
+Predicted class: LEGITIMATE with 0.9995 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  although            | Impact: -0.002201 → LEGITIMATE
+ 2.  enrico              | Impact: -0.002201 → LEGITIMATE
+ 3.  kept                | Impact: -0.002201 → LEGITIMATE
+ 4.  the                 | Impact: -0.002201 → LEGITIMATE
+ 5.  many                | Impact: 0.001551 → PHISHING
+ 6.  days                | Impact: 0.001551 → PHISHING
+ 7.  he                  | Impact: 0.001551 → PHISHING
+ 8.  stood               | Impact: 0.001551 → PHISHING
+ 9.  floor               | Impact: -0.001457 → LEGITIMATE
+10.  swept               | Impact: -0.001457 → LEGITIMATE
+11.  clean               | Impact: -0.001457 → LEGITIMATE
+12.  for                 | Impact: 0.000964 → PHISHING
+13.  a                   | Impact: 0.000964 → PHISHING
+14.  long                | Impact: 0.000964 → PHISHING
+15.  time                | Impact: 0.000964 → PHISHING
+16.  '                   | Impact: 0.000921 → PHISHING
+17.  her                 | Impact: -0.000676 → LEGITIMATE
+18. nan                  | Impact: -0.000676 → LEGITIMATE
+19. do                   | Impact: -0.000676 → LEGITIMATE
+20.  who                 | Impact: -0.000614 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  many                | Impact: 0.001551
+ 2.  days                | Impact: 0.001551
+ 3.  he                  | Impact: 0.001551
+ 4.  stood               | Impact: 0.001551
+ 5.  for                 | Impact: 0.000964
+ 6.  a                   | Impact: 0.000964
+ 7.  long                | Impact: 0.000964
+ 8.  time                | Impact: 0.000964
+ 9.  '                   | Impact: 0.000921
+10.  who                 | Impact: 0.000537
+11.  was                 | Impact: 0.000537
+12.  large               | Impact: 0.000531
+13.  with                | Impact: 0.000531
+14.  streets             | Impact: 0.000521
+15.  the                 | Impact: 0.000382
+16.  rainy               | Impact: 0.000382
+17.  i                   | Impact: 0.000322
+18.  and                 | Impact: 0.000227
+19.  the                 | Impact: 0.000227
+20.  shuttle             | Impact: 0.000227
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  although            | Impact: -0.002201
+ 2.  enrico              | Impact: -0.002201
+ 3.  kept                | Impact: -0.002201
+ 4.  the                 | Impact: -0.002201
+ 5.  floor               | Impact: -0.001457
+ 6.  swept               | Impact: -0.001457
+ 7.  clean               | Impact: -0.001457
+ 8.  her                 | Impact: -0.000676
+ 9. nan                  | Impact: -0.000676
+10. do                   | Impact: -0.000676
+11.  who                 | Impact: -0.000614
+12.  worked              | Impact: -0.000614
+13.  were                | Impact: -0.000541
+14.  great               | Impact: -0.000541
+15.  with                | Impact: -0.000541
+16.  the                 | Impact: -0.000541
+17.  bugs                | Impact: -0.000541
+18.  ,                   | Impact: -0.000541
+19.  michaels            | Impact: -0.000511
+20.  came                | Impact: -0.000511

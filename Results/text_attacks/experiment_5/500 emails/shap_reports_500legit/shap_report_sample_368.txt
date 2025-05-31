@@ -1,0 +1,71 @@
+Sample 368
+==========
+
+Sample text preview: >> I run exmh on my desktops at home and at work with the resulting exmh >> windows being displayed on both my work and home desktops (gratis SSH >> X...
+
+Model prediction: [9.9968743e-01 3.1260212e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.011336 → LEGITIMATE
+ 2.  >                   | Impact: -0.009713 → LEGITIMATE
+ 3.  desktop             | Impact: -0.009588 → LEGITIMATE
+ 4.  home                | Impact: 0.009442 → PHISHING
+ 5.  .                   | Impact: -0.006142 → LEGITIMATE
+ 6.  .                   | Impact: -0.005891 → LEGITIMATE
+ 7.  problem             | Impact: -0.005746 → LEGITIMATE
+ 8.  displayed           | Impact: -0.004978 → LEGITIMATE
+ 9.  >                   | Impact: -0.004628 → LEGITIMATE
+10.  home                | Impact: 0.004562 → PHISHING
+11.  approach            | Impact: -0.004116 → LEGITIMATE
+12.  .                   | Impact: -0.003844 → LEGITIMATE
+13.  i                   | Impact: -0.003663 → LEGITIMATE
+14.  >                   | Impact: -0.003374 → LEGITIMATE
+15.  >                   | Impact: -0.003331 → LEGITIMATE
+16.  >                   | Impact: -0.003331 → LEGITIMATE
+17.  ex                  | Impact: -0.003161 → LEGITIMATE
+18. m                    | Impact: -0.003161 → LEGITIMATE
+19.  .                   | Impact: -0.003096 → LEGITIMATE
+20.  copies              | Impact: -0.002564 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  home                | Impact: 0.009442
+ 2.  home                | Impact: 0.004562
+ 3.  to                  | Impact: 0.001169
+ 4.  both                | Impact: 0.001169
+ 5.  and                 | Impact: 0.000236
+ 6.  both                | Impact: 0.000212
+ 7.  my                  | Impact: 0.000212
+ 8.  work                | Impact: 0.000212
+ 9.  home                | Impact: 0.000170
+10.  while               | Impact: 0.000124
+11.  at                  | Impact: 0.000124
+12.  work                | Impact: 0.000124
+13.  ,                   | Impact: 0.000124
+14.  and                 | Impact: 0.000111
+15.  they                | Impact: 0.000058
+16.  both                | Impact: 0.000058
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.011336
+ 2.  >                   | Impact: -0.009713
+ 3.  desktop             | Impact: -0.009588
+ 4.  .                   | Impact: -0.006142
+ 5.  .                   | Impact: -0.005891
+ 6.  problem             | Impact: -0.005746
+ 7.  displayed           | Impact: -0.004978
+ 8.  >                   | Impact: -0.004628
+ 9.  approach            | Impact: -0.004116
+10.  .                   | Impact: -0.003844
+11.  i                   | Impact: -0.003663
+12.  >                   | Impact: -0.003374
+13.  >                   | Impact: -0.003331
+14.  >                   | Impact: -0.003331
+15.  ex                  | Impact: -0.003161
+16. m                    | Impact: -0.003161
+17.  .                   | Impact: -0.003096
+18.  copies              | Impact: -0.002564
+19.  of                  | Impact: -0.002564
+20.  a                   | Impact: -0.002352

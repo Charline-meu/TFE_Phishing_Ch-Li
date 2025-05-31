@@ -1,0 +1,75 @@
+Phishing Sample 30
+==================
+
+Sample text preview: Server Message Dear Our record indicates that you recently made a request to deactivate email And this request will be processed shortly. If this requ...
+
+Model prediction: [1.7473268e-04 9.9982530e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.078446 → PHISHING
+ 2.  message             | Impact: 0.076487 → PHISHING
+ 3.  email               | Impact: 0.049968 → PHISHING
+ 4.  message             | Impact: 0.048959 → PHISHING
+ 5.  this                | Impact: 0.036250 → PHISHING
+ 6.  email               | Impact: 0.029937 → PHISHING
+ 7.  email               | Impact: 0.027130 → PHISHING
+ 8.  administrator       | Impact: 0.026749 → PHISHING
+ 9.  email               | Impact: 0.023001 → PHISHING
+10.  this                | Impact: 0.022182 → PHISHING
+11.  you                 | Impact: 0.021049 → PHISHING
+12.  account             | Impact: 0.020603 → PHISHING
+13.  this                | Impact: 0.020100 → PHISHING
+14.  delivered           | Impact: 0.019199 → PHISHING
+15.  your                | Impact: 0.017382 → PHISHING
+16.  sent                | Impact: 0.016529 → PHISHING
+17.  :                   | Impact: -0.016214 → LEGITIMATE
+18.  .                   | Impact: -0.014931 → LEGITIMATE
+19.  auto                | Impact: 0.014713 → PHISHING
+20.  regards             | Impact: 0.014634 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.078446
+ 2.  message             | Impact: 0.076487
+ 3.  email               | Impact: 0.049968
+ 4.  message             | Impact: 0.048959
+ 5.  this                | Impact: 0.036250
+ 6.  email               | Impact: 0.029937
+ 7.  email               | Impact: 0.027130
+ 8.  administrator       | Impact: 0.026749
+ 9.  email               | Impact: 0.023001
+10.  this                | Impact: 0.022182
+11.  you                 | Impact: 0.021049
+12.  account             | Impact: 0.020603
+13.  this                | Impact: 0.020100
+14.  delivered           | Impact: 0.019199
+15.  your                | Impact: 0.017382
+16.  sent                | Impact: 0.016529
+17.  auto                | Impact: 0.014713
+18.  regards             | Impact: 0.014634
+19.  to                  | Impact: 0.014500
+20.  recently            | Impact: 0.012787
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.016214
+ 2.  .                   | Impact: -0.014931
+ 3.  indicates           | Impact: -0.008540
+ 4.  for                 | Impact: -0.008436
+ 5.  generated           | Impact: -0.003371
+ 6.  .                   | Impact: -0.002763
+ 7.  this                | Impact: -0.002482
+ 8.  request             | Impact: -0.002482
+ 9.  .                   | Impact: -0.002061
+10.  processed           | Impact: -0.001794
+11.  shortly             | Impact: -0.001794
+12.  ,                   | Impact: -0.001490
+13.  .                   | Impact: -0.000755
+14.  you                 | Impact: -0.000515
+15.  have                | Impact: -0.000515
+16.  no                  | Impact: -0.000515
+17.  knowledge           | Impact: -0.000515
+18.  of                  | Impact: -0.000515
+19.  it                  | Impact: -0.000515
+20.  ,                   | Impact: -0.000515

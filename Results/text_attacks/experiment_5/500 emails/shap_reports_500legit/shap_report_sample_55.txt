@@ -1,0 +1,68 @@
+Sample 55
+=========
+
+Sample text preview: On Wednesday July : CET Theo Van Dinter wrote: > On Tue, Jul , at ::PM -, Kevin Gagel wrote: > > I'm thinking of following this advise too. Is there a...
+
+Model prediction: [9.9978453e-01 2.1549937e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.014758 → LEGITIMATE
+ 2.  coding              | Impact: -0.008798 → LEGITIMATE
+ 3.  .                   | Impact: -0.006821 → LEGITIMATE
+ 4.  changes             | Impact: -0.006582 → LEGITIMATE
+ 5.  cv                  | Impact: -0.005811 → LEGITIMATE
+ 6.  .                   | Impact: -0.005512 → LEGITIMATE
+ 7.  [                   | Impact: -0.005284 → LEGITIMATE
+ 8.  ]                   | Impact: -0.005264 → LEGITIMATE
+ 9.  by                  | Impact: -0.004851 → LEGITIMATE
+10.  is                  | Impact: -0.004542 → LEGITIMATE
+11.  art                 | Impact: -0.004247 → LEGITIMATE
+12. s                    | Impact: -0.003588 → LEGITIMATE
+13.  -                   | Impact: -0.003543 → LEGITIMATE
+14.  or                  | Impact: -0.003238 → LEGITIMATE
+15.  is                  | Impact: -0.003213 → LEGITIMATE
+16.  "                   | Impact: -0.002947 → LEGITIMATE
+17.  .                   | Impact: -0.002926 → LEGITIMATE
+18.  -                   | Impact: -0.002870 → LEGITIMATE
+19.  sponsored           | Impact: -0.002868 → LEGITIMATE
+20.  :                   | Impact: -0.002819 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  list                | Impact: 0.000498
+ 2.                      | Impact: 0.000498
+ 3.  -                   | Impact: 0.000398
+ 4.  talk                | Impact: 0.000398
+ 5.  mail                | Impact: 0.000398
+ 6. ing                  | Impact: 0.000398
+ 7.  isn                 | Impact: 0.000203
+ 8.  '                   | Impact: 0.000203
+ 9.  t                   | Impact: 0.000203
+10.  and                 | Impact: 0.000088
+11.  think               | Impact: 0.000003
+12. gee                  | Impact: 0.000003
+13. k                    | Impact: 0.000003
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.014758
+ 2.  coding              | Impact: -0.008798
+ 3.  .                   | Impact: -0.006821
+ 4.  changes             | Impact: -0.006582
+ 5.  cv                  | Impact: -0.005811
+ 6.  .                   | Impact: -0.005512
+ 7.  [                   | Impact: -0.005284
+ 8.  ]                   | Impact: -0.005264
+ 9.  by                  | Impact: -0.004851
+10.  is                  | Impact: -0.004542
+11.  art                 | Impact: -0.004247
+12. s                    | Impact: -0.003588
+13.  -                   | Impact: -0.003543
+14.  or                  | Impact: -0.003238
+15.  is                  | Impact: -0.003213
+16.  "                   | Impact: -0.002947
+17.  .                   | Impact: -0.002926
+18.  -                   | Impact: -0.002870
+19.  sponsored           | Impact: -0.002868
+20.  :                   | Impact: -0.002819

@@ -1,0 +1,75 @@
+Sample 425
+==========
+
+Sample text preview: On Mon, Sep , at ::PM +, Justin Mason wrote: > - Razor v now supported fully Hmmm... I just upgraded from my modified . to a slightly modified . (I ad...
+
+Model prediction: [9.9978334e-01 2.1665660e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  come                | Impact: 0.007920 → PHISHING
+ 2.  razor               | Impact: -0.006476 → LEGITIMATE
+ 3.  yet                 | Impact: 0.005421 → PHISHING
+ 4.  per                 | Impact: -0.005335 → LEGITIMATE
+ 5. l                    | Impact: -0.004377 → LEGITIMATE
+ 6.  i                   | Impact: -0.004023 → LEGITIMATE
+ 7.  .                   | Impact: -0.003932 → LEGITIMATE
+ 8.  <                   | Impact: 0.003579 → PHISHING
+ 9.  check               | Impact: 0.003565 → PHISHING
+10.  per                 | Impact: -0.003361 → LEGITIMATE
+11.  more                | Impact: 0.003222 → PHISHING
+12.  /                   | Impact: -0.003192 → LEGITIMATE
+13.  agent               | Impact: -0.003030 → LEGITIMATE
+14.  file                | Impact: 0.002990 → PHISHING
+15.  out                 | Impact: 0.002917 → PHISHING
+16.  why                 | Impact: 0.002645 → PHISHING
+17.  client              | Impact: -0.002625 → LEGITIMATE
+18.  to                  | Impact: 0.002497 → PHISHING
+19.  ,                   | Impact: -0.002291 → LEGITIMATE
+20. l                    | Impact: -0.002265 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  come                | Impact: 0.007920
+ 2.  yet                 | Impact: 0.005421
+ 3.  <                   | Impact: 0.003579
+ 4.  check               | Impact: 0.003565
+ 5.  more                | Impact: 0.003222
+ 6.  file                | Impact: 0.002990
+ 7.  out                 | Impact: 0.002917
+ 8.  why                 | Impact: 0.002645
+ 9.  to                  | Impact: 0.002497
+10.  line                | Impact: 0.002258
+11.  log                 | Impact: 0.001762
+12.  such                | Impact: 0.001627
+13.  skipped             | Impact: 0.001540
+14.  pm                  | Impact: 0.001317
+15.  "                   | Impact: 0.001228
+16.  is                  | Impact: 0.001141
+17.  on                  | Impact: 0.001121
+18.  _                   | Impact: 0.001020
+19.  honey               | Impact: 0.000985
+20.  /                   | Impact: 0.000947
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  razor               | Impact: -0.006476
+ 2.  per                 | Impact: -0.005335
+ 3. l                    | Impact: -0.004377
+ 4.  i                   | Impact: -0.004023
+ 5.  .                   | Impact: -0.003932
+ 6.  per                 | Impact: -0.003361
+ 7.  /                   | Impact: -0.003192
+ 8.  agent               | Impact: -0.003030
+ 9.  client              | Impact: -0.002625
+10.  ,                   | Impact: -0.002291
+11. l                    | Impact: -0.002265
+12.  ,                   | Impact: -0.002166
+13.  >                   | Impact: -0.002058
+14.  method              | Impact: -0.001642
+15.  call                | Impact: -0.001466
+16.  /                   | Impact: -0.001432
+17.  ,                   | Impact: -0.001138
+18.  li                  | Impact: -0.001019
+19.  line                | Impact: -0.000991
+20.  -                   | Impact: -0.000943

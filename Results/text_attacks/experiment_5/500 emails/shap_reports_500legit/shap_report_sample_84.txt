@@ -1,0 +1,75 @@
+Sample 84
+=========
+
+Sample text preview: ---------------------- Forwarded by Mitch Robinson/Corp/Enron on // : AM --------------------------- Katherine Padilla@ENRON_DEVELOPMENT // : AM To: M...
+
+Model prediction: [9.9980301e-01 1.9700892e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  doyle               | Impact: -0.007502 → LEGITIMATE
+ 2.  wheat               | Impact: -0.003043 → LEGITIMATE
+ 3.  am                  | Impact: 0.002201 → PHISHING
+ 4. ron                  | Impact: -0.002099 → LEGITIMATE
+ 5.  mitch               | Impact: -0.001654 → LEGITIMATE
+ 6.  please              | Impact: 0.001637 → PHISHING
+ 7.  for                 | Impact: -0.001350 → LEGITIMATE
+ 8.  mitch               | Impact: -0.001058 → LEGITIMATE
+ 9.  katherine           | Impact: 0.001033 → PHISHING
+10.  the                 | Impact: -0.000929 → LEGITIMATE
+11.  attached            | Impact: -0.000716 → LEGITIMATE
+12.  ,                   | Impact: -0.000682 → LEGITIMATE
+13.  robinson            | Impact: -0.000664 → LEGITIMATE
+14.  i                   | Impact: 0.000643 → PHISHING
+15.  still               | Impact: 0.000611 → PHISHING
+16.  .                   | Impact: -0.000605 → LEGITIMATE
+17.  see                 | Impact: 0.000559 → PHISHING
+18.  from                | Impact: -0.000546 → LEGITIMATE
+19.  request             | Impact: 0.000492 → PHISHING
+20.  your                | Impact: 0.000473 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  am                  | Impact: 0.002201
+ 2.  please              | Impact: 0.001637
+ 3.  katherine           | Impact: 0.001033
+ 4.  i                   | Impact: 0.000643
+ 5.  still               | Impact: 0.000611
+ 6.  see                 | Impact: 0.000559
+ 7.  request             | Impact: 0.000492
+ 8.  your                | Impact: 0.000473
+ 9.  thanks              | Impact: 0.000333
+10.  on                  | Impact: 0.000311
+11.  a                   | Impact: 0.000290
+12.  per                 | Impact: 0.000268
+13.  waiting             | Impact: 0.000240
+14.  on                  | Impact: 0.000103
+15.  @                   | Impact: 0.000093
+16.  pad                 | Impact: 0.000092
+17. illa                 | Impact: 0.000092
+18.  @                   | Impact: 0.000092
+19.  -                   | Impact: 0.000076
+20.  /                   | Impact: 0.000034
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  doyle               | Impact: -0.007502
+ 2.  wheat               | Impact: -0.003043
+ 3. ron                  | Impact: -0.002099
+ 4.  mitch               | Impact: -0.001654
+ 5.  for                 | Impact: -0.001350
+ 6.  mitch               | Impact: -0.001058
+ 7.  the                 | Impact: -0.000929
+ 8.  attached            | Impact: -0.000716
+ 9.  ,                   | Impact: -0.000682
+10.  robinson            | Impact: -0.000664
+11.  .                   | Impact: -0.000605
+12.  from                | Impact: -0.000546
+13. land                 | Impact: -0.000434
+14.  en                  | Impact: -0.000418
+15.  :                   | Impact: -0.000389
+16.  ,                   | Impact: -0.000380
+17.  mitch               | Impact: -0.000344
+18.  robinson            | Impact: -0.000344
+19.  by                  | Impact: -0.000319
+20. ron                  | Impact: -0.000310

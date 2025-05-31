@@ -1,0 +1,75 @@
+Sample 176
+==========
+
+Sample text preview: FROM:BARR.ROTIMI BELLO (ESQ)NO. MILVERTON STREET, VICTORIA-ISLAND LAGOS. Dear Sir/Madam, I am Barrister Rotimi Bello, a solicitor at law. I am the per...
+
+Model prediction: [1.7752411e-04 9.9982256e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.006970 → PHISHING
+ 2.  sir                 | Impact: 0.006970 → PHISHING
+ 3.  /                   | Impact: 0.006970 → PHISHING
+ 4.  madam               | Impact: 0.006970 → PHISHING
+ 5.  ,                   | Impact: 0.006970 → PHISHING
+ 6.  will                | Impact: 0.006758 → PHISHING
+ 7.  protect             | Impact: 0.006758 → PHISHING
+ 8.  you                 | Impact: 0.006758 → PHISHING
+ 9.  and                 | Impact: 0.006758 → PHISHING
+10.  a                   | Impact: 0.006122 → PHISHING
+11.  legitimate          | Impact: 0.006122 → PHISHING
+12.  arrangement         | Impact: 0.006122 → PHISHING
+13.  that                | Impact: 0.006122 → PHISHING
+14.  your                | Impact: 0.005667 → PHISHING
+15.  honest              | Impact: 0.005667 → PHISHING
+16.  cooperation         | Impact: 0.005667 → PHISHING
+17.  to                  | Impact: 0.005667 → PHISHING
+18.  (                   | Impact: 0.005535 → PHISHING
+19.  central             | Impact: 0.005535 → PHISHING
+20.  bank                | Impact: 0.005535 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.006970
+ 2.  sir                 | Impact: 0.006970
+ 3.  /                   | Impact: 0.006970
+ 4.  madam               | Impact: 0.006970
+ 5.  ,                   | Impact: 0.006970
+ 6.  will                | Impact: 0.006758
+ 7.  protect             | Impact: 0.006758
+ 8.  you                 | Impact: 0.006758
+ 9.  and                 | Impact: 0.006758
+10.  a                   | Impact: 0.006122
+11.  legitimate          | Impact: 0.006122
+12.  arrangement         | Impact: 0.006122
+13.  that                | Impact: 0.006122
+14.  your                | Impact: 0.005667
+15.  honest              | Impact: 0.005667
+16.  cooperation         | Impact: 0.005667
+17.  to                  | Impact: 0.005667
+18.  (                   | Impact: 0.005535
+19.  central             | Impact: 0.005535
+20.  bank                | Impact: 0.005535
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  particularly        | Impact: -0.001582
+ 2.  ,                   | Impact: -0.001582
+ 3.  .                   | Impact: -0.000456
+ 4.  saga                | Impact: -0.000456
+ 5. mu                   | Impact: -0.000456
+ 6.  express             | Impact: -0.000456
+ 7.  way                 | Impact: -0.000456
+ 8.  in                  | Impact: -0.000456
+ 9.  which               | Impact: -0.000456
+10.  all                 | Impact: -0.000456
+11.  occupants           | Impact: -0.000456
+12.  of                  | Impact: -0.000456
+13.  the                 | Impact: -0.000456
+14.  motor               | Impact: -0.000456
+15.  died                | Impact: -0.000456
+16.  }                   | Impact: -0.000456
+17.                      | Impact: -0.000227
+18.  from                | Impact: -0.000227
+19.  :                   | Impact: -0.000227
+20.  barr                | Impact: -0.000227

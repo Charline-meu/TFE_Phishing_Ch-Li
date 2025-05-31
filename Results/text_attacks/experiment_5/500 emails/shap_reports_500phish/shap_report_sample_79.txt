@@ -1,0 +1,63 @@
+Sample 79
+=========
+
+Sample text preview: Dear Valued User, Please note that you are running low of Subscription data.Your mailbox might be closed, kindly VIEW TO UPDATE YOUR EMAIL NOW! to add...
+
+Model prediction: [1.5919490e-04 9.9984074e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.142732 → PHISHING
+ 2.  ©                   | Impact: 0.096413 → PHISHING
+ 3.  account             | Impact: 0.078600 → PHISHING
+ 4.  your                | Impact: 0.060740 → PHISHING
+ 5.  permanently         | Impact: 0.051347 → PHISHING
+ 6.  valued              | Impact: 0.048027 → PHISHING
+ 7.  copyright           | Impact: 0.044607 → PHISHING
+ 8.  view                | Impact: 0.024535 → PHISHING
+ 9.  email               | Impact: 0.021526 → PHISHING
+10.  kindly              | Impact: 0.020828 → PHISHING
+11.  user                | Impact: 0.019135 → PHISHING
+12.  mail                | Impact: 0.018920 → PHISHING
+13.  reserved            | Impact: 0.018869 → PHISHING
+14.  !                   | Impact: 0.018205 → PHISHING
+15.  your                | Impact: 0.018072 → PHISHING
+16.  warning             | Impact: 0.017972 → PHISHING
+17.  your                | Impact: 0.017503 → PHISHING
+18.  lose                | Impact: 0.016997 → PHISHING
+19.  !                   | Impact: 0.016680 → PHISHING
+20.  will                | Impact: 0.016252 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.142732
+ 2.  ©                   | Impact: 0.096413
+ 3.  account             | Impact: 0.078600
+ 4.  your                | Impact: 0.060740
+ 5.  permanently         | Impact: 0.051347
+ 6.  valued              | Impact: 0.048027
+ 7.  copyright           | Impact: 0.044607
+ 8.  view                | Impact: 0.024535
+ 9.  email               | Impact: 0.021526
+10.  kindly              | Impact: 0.020828
+11.  user                | Impact: 0.019135
+12.  mail                | Impact: 0.018920
+13.  reserved            | Impact: 0.018869
+14.  !                   | Impact: 0.018205
+15.  your                | Impact: 0.018072
+16.  warning             | Impact: 0.017972
+17.  your                | Impact: 0.017503
+18.  lose                | Impact: 0.016997
+19.  !                   | Impact: 0.016680
+20.  will                | Impact: 0.016252
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  low                 | Impact: -0.012540
+ 2.  viruses             | Impact: -0.008897
+ 3.  of                  | Impact: -0.002860
+ 4.  ,                   | Impact: -0.002165
+ 5.  ,                   | Impact: -0.001601
+ 6.  .                   | Impact: -0.001245
+ 7.  mal                 | Impact: -0.000970
+ 8.  inc                 | Impact: -0.000125

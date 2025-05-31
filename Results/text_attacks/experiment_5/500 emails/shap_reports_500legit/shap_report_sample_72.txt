@@ -1,0 +1,75 @@
+Sample 72
+=========
+
+Sample text preview: Britt Please see attached summary of inspection costs as at the end of August: Regards Matt Matthias Lee // : PM To: Britt Davis/Corp/Enron@ENRON cc: ...
+
+Model prediction: [9.9978262e-01 2.1740094e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  deborah             | Impact: 0.000822 → PHISHING
+ 2.  resources           | Impact: -0.000740 → LEGITIMATE
+ 3.  /                   | Impact: -0.000740 → LEGITIMATE
+ 4.  competence          | Impact: -0.000740 → LEGITIMATE
+ 5.  to                  | Impact: -0.000740 → LEGITIMATE
+ 6.  carry               | Impact: -0.000740 → LEGITIMATE
+ 7.  out                 | Impact: -0.000740 → LEGITIMATE
+ 8.  the                 | Impact: -0.000740 → LEGITIMATE
+ 9.  joint               | Impact: -0.000740 → LEGITIMATE
+10.  analysis            | Impact: -0.000740 → LEGITIMATE
+11.  .                   | Impact: -0.000740 → LEGITIMATE
+12.  en                  | Impact: -0.000700 → LEGITIMATE
+13. ron                  | Impact: -0.000700 → LEGITIMATE
+14.  rejection           | Impact: -0.000519 → LEGITIMATE
+15.  is                  | Impact: -0.000519 → LEGITIMATE
+16.  .                   | Impact: -0.000519 → LEGITIMATE
+17.  therefore           | Impact: -0.000519 → LEGITIMATE
+18.  highly              | Impact: -0.000519 → LEGITIMATE
+19.  unlikely            | Impact: -0.000519 → LEGITIMATE
+20.  to                  | Impact: -0.000476 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  deborah             | Impact: 0.000822
+ 2.  .                   | Impact: 0.000369
+ 3.  not                 | Impact: 0.000350
+ 4.  singapore           | Impact: 0.000350
+ 5.  vi                  | Impact: 0.000299
+ 6. rgo                  | Impact: 0.000299
+ 7.  was                 | Impact: 0.000299
+ 8.  sold                | Impact: 0.000299
+ 9.  and                 | Impact: 0.000299
+10.  discharged          | Impact: 0.000288
+11.  in                  | Impact: 0.000288
+12.  korea               | Impact: 0.000288
+13.  ,                   | Impact: 0.000288
+14.  brenda              | Impact: 0.000079
+15.  mca                 | Impact: 0.000079
+16. fe                   | Impact: 0.000079
+17. e                    | Impact: 0.000079
+18.  shah                | Impact: 0.000041
+19. mora                 | Impact: 0.000041
+20. di                   | Impact: 0.000041
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  resources           | Impact: -0.000740
+ 2.  /                   | Impact: -0.000740
+ 3.  competence          | Impact: -0.000740
+ 4.  to                  | Impact: -0.000740
+ 5.  carry               | Impact: -0.000740
+ 6.  out                 | Impact: -0.000740
+ 7.  the                 | Impact: -0.000740
+ 8.  joint               | Impact: -0.000740
+ 9.  analysis            | Impact: -0.000740
+10.  .                   | Impact: -0.000740
+11.  en                  | Impact: -0.000700
+12. ron                  | Impact: -0.000700
+13.  rejection           | Impact: -0.000519
+14.  is                  | Impact: -0.000519
+15.  .                   | Impact: -0.000519
+16.  therefore           | Impact: -0.000519
+17.  highly              | Impact: -0.000519
+18.  unlikely            | Impact: -0.000519
+19.  to                  | Impact: -0.000476
+20.  the                 | Impact: -0.000476

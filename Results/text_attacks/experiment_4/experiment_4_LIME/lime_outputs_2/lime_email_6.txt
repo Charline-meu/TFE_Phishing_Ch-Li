@@ -1,0 +1,31 @@
+=== LIME Explanation for Email #6 ===
+True Label: Phishing
+Model Prediction: Phishing
+Prediction Probability: 0.9975
+
+Top Features Influencing the Prediction:
+you: 0.1975 (pushes toward Phishing)
+your: 0.1773 (pushes toward Phishing)
+Venezuela: 0.1488 (pushes toward Phishing)
+family: 0.1216 (pushes toward Phishing)
+Name: 0.1161 (pushes toward Phishing)
+name: 0.1088 (pushes toward Phishing)
+my: 0.0993 (pushes toward Phishing)
+future: 0.0957 (pushes toward Phishing)
+Elton: -0.0935 (pushes toward Legitimate)
+Thank: -0.0925 (pushes toward Legitimate)
+from: 0.0914 (pushes toward Phishing)
+financial: 0.0912 (pushes toward Phishing)
+Barris: -0.0912 (pushes toward Legitimate)
+hope: -0.0752 (pushes toward Legitimate)
+out: 0.0730 (pushes toward Phishing)
+past: -0.0719 (pushes toward Legitimate)
+hoped: -0.0703 (pushes toward Legitimate)
+the: -0.0690 (pushes toward Legitimate)
+acknowledgement: -0.0668 (pushes toward Legitimate)
+Hello: 0.0661 (pushes toward Phishing)
+move: 0.0594 (pushes toward Phishing)
+Though: -0.0536 (pushes toward Legitimate)
+arrangements: 0.0514 (pushes toward Phishing)
+still: -0.0486 (pushes toward Legitimate)
+George: -0.0456 (pushes toward Legitimate)

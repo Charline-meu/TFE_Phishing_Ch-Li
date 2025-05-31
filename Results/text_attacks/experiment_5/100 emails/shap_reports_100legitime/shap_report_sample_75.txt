@@ -1,0 +1,75 @@
+Phishing Sample 75
+==================
+
+Sample text preview: I had posted previously about the . kernel using iptables I ran nmap against. The IPID sequence generation was all zeros. Someone said this was indica...
+
+Model prediction: [9.9979717e-01 2.0290377e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  irish               | Impact: 0.005971 → PHISHING
+ 2.  ip                  | Impact: -0.004591 → LEGITIMATE
+ 3.  .                   | Impact: -0.004087 → LEGITIMATE
+ 4.  previously          | Impact: 0.003702 → PHISHING
+ 5.  posted              | Impact: -0.003521 → LEGITIMATE
+ 6.  kernel              | Impact: -0.003485 → LEGITIMATE
+ 7.  subscription        | Impact: 0.003327 → PHISHING
+ 8.  had                 | Impact: 0.003195 → PHISHING
+ 9.  linux               | Impact: -0.003111 → LEGITIMATE
+10.  said                | Impact: -0.002850 → LEGITIMATE
+11.  someone             | Impact: 0.002789 → PHISHING
+12.  -                   | Impact: -0.002465 → LEGITIMATE
+13.  users               | Impact: -0.002401 → LEGITIMATE
+14.  about               | Impact: -0.002086 → LEGITIMATE
+15.  .                   | Impact: -0.001921 → LEGITIMATE
+16.  -                   | Impact: -0.001882 → LEGITIMATE
+17.  un                  | Impact: -0.001827 → LEGITIMATE
+18.  version             | Impact: -0.001649 → LEGITIMATE
+19.  all                 | Impact: 0.001536 → PHISHING
+20.  causing             | Impact: 0.001514 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  irish               | Impact: 0.005971
+ 2.  previously          | Impact: 0.003702
+ 3.  subscription        | Impact: 0.003327
+ 4.  had                 | Impact: 0.003195
+ 5.  someone             | Impact: 0.002789
+ 6.  all                 | Impact: 0.001536
+ 7.  causing             | Impact: 0.001514
+ 8.  generation          | Impact: 0.001414
+ 9.  (                   | Impact: 0.001244
+10.  was                 | Impact: 0.001177
+11.  this                | Impact: 0.001017
+12.  is                  | Impact: 0.000952
+13.  was                 | Impact: 0.000612
+14.  was                 | Impact: 0.000583
+15.  this                | Impact: 0.000563
+16.  fixed               | Impact: 0.000547
+17.  i                   | Impact: 0.000416
+18.  and                 | Impact: 0.000197
+19.  ran                 | Impact: 0.000141
+20.  ip                  | Impact: 0.000128
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ip                  | Impact: -0.004591
+ 2.  .                   | Impact: -0.004087
+ 3.  posted              | Impact: -0.003521
+ 4.  kernel              | Impact: -0.003485
+ 5.  linux               | Impact: -0.003111
+ 6.  said                | Impact: -0.002850
+ 7.  -                   | Impact: -0.002465
+ 8.  users               | Impact: -0.002401
+ 9.  about               | Impact: -0.002086
+10.  .                   | Impact: -0.001921
+11.  -                   | Impact: -0.001882
+12.  un                  | Impact: -0.001827
+13.  version             | Impact: -0.001649
+14.  but                 | Impact: -0.001248
+15.  kernel              | Impact: -0.001210
+16.  :                   | Impact: -0.001137
+17.  i                   | Impact: -0.001074
+18.  .                   | Impact: -0.000966
+19. ap                   | Impact: -0.000957
+20.  group               | Impact: -0.000903

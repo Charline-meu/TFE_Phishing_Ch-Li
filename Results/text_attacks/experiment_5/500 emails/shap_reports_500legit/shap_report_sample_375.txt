@@ -1,0 +1,75 @@
+Sample 375
+==========
+
+Sample text preview: EDITORIAL CONSUMERS GET DEREG HOMEWORK ? // Dayton Daily News CITY A (Copyright ) ? ? WITH ELECTRIC DEREGULATION coming Jan. , Ohioans are about to be...
+
+Model prediction: [0.9989814  0.00101857]
+Predicted class: LEGITIMATE with 0.9990 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  editorial           | Impact: -0.005276 → LEGITIMATE
+ 2.  consumers           | Impact: -0.004777 → LEGITIMATE
+ 3.  get                 | Impact: -0.004357 → LEGITIMATE
+ 4.  annoying            | Impact: -0.003628 → LEGITIMATE
+ 5.                      | Impact: -0.003046 → LEGITIMATE
+ 6.  page                | Impact: -0.002859 → LEGITIMATE
+ 7.  consumer            | Impact: -0.002859 → LEGITIMATE
+ 8.  guide               | Impact: -0.002859 → LEGITIMATE
+ 9.  be                  | Impact: -0.002786 → LEGITIMATE
+10.  guide               | Impact: -0.002573 → LEGITIMATE
+11.  consumers           | Impact: -0.002573 → LEGITIMATE
+12.  ?                   | Impact: 0.002508 → PHISHING
+13.  confusing           | Impact: -0.002389 → LEGITIMATE
+14.  ;                   | Impact: -0.002389 → LEGITIMATE
+15.  the                 | Impact: -0.002389 → LEGITIMATE
+16.  issues              | Impact: -0.002389 → LEGITIMATE
+17.  are                 | Impact: -0.002389 → LEGITIMATE
+18.  technical           | Impact: -0.002389 → LEGITIMATE
+19.  change              | Impact: -0.002377 → LEGITIMATE
+20.  often               | Impact: -0.002377 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  ?                   | Impact: 0.002508
+ 2.  now                 | Impact: 0.002235
+ 3.  they                | Impact: 0.002235
+ 4.  .                   | Impact: 0.001662
+ 5.  dayton              | Impact: 0.001634
+ 6.  ,                   | Impact: 0.001359
+ 7.  should              | Impact: 0.001013
+ 8.  remember            | Impact: 0.001013
+ 9.  ,                   | Impact: 0.000980
+10.  ohio                | Impact: 0.000856
+11. ans                  | Impact: 0.000856
+12.  are                 | Impact: 0.000856
+13.  about               | Impact: 0.000856
+14.  to                  | Impact: 0.000856
+15.  be                  | Impact: 0.000856
+16.  bomb                | Impact: 0.000856
+17. arded                | Impact: 0.000856
+18.  no                  | Impact: 0.000764
+19.  one                 | Impact: 0.000764
+20.  knows               | Impact: 0.000764
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  editorial           | Impact: -0.005276
+ 2.  consumers           | Impact: -0.004777
+ 3.  get                 | Impact: -0.004357
+ 4.  annoying            | Impact: -0.003628
+ 5.                      | Impact: -0.003046
+ 6.  page                | Impact: -0.002859
+ 7.  consumer            | Impact: -0.002859
+ 8.  guide               | Impact: -0.002859
+ 9.  be                  | Impact: -0.002786
+10.  guide               | Impact: -0.002573
+11.  consumers           | Impact: -0.002573
+12.  confusing           | Impact: -0.002389
+13.  ;                   | Impact: -0.002389
+14.  the                 | Impact: -0.002389
+15.  issues              | Impact: -0.002389
+16.  are                 | Impact: -0.002389
+17.  technical           | Impact: -0.002389
+18.  change              | Impact: -0.002377
+19.  often               | Impact: -0.002377
+20.  der                 | Impact: -0.002345

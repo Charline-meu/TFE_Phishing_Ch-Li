@@ -1,0 +1,75 @@
+Sample 362
+==========
+
+Sample text preview: June , Fidelity Authorize Log In Attempt An attempt to log in to your Fidelity online account was made from an unknown browser. Please confirm the fol...
+
+Model prediction: [0.01431698 0.985683  ]
+Predicted class: PHISHING with 0.9857 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  contact             | Impact: 0.038118 → PHISHING
+ 2.  us                  | Impact: 0.037990 → PHISHING
+ 3.  email               | Impact: 0.037595 → PHISHING
+ 4.  not                 | Impact: 0.036804 → PHISHING
+ 5.  reply               | Impact: 0.036804 → PHISHING
+ 6.  click               | Impact: 0.034042 → PHISHING
+ 7.  you                 | Impact: 0.033510 → PHISHING
+ 8.  to                  | Impact: 0.030451 → PHISHING
+ 9.  this                | Impact: 0.030451 → PHISHING
+10.  please              | Impact: 0.027597 → PHISHING
+11.  do                  | Impact: 0.027597 → PHISHING
+12.  account             | Impact: 0.025763 → PHISHING
+13.  to                  | Impact: 0.023525 → PHISHING
+14.  your                | Impact: 0.023525 → PHISHING
+15.  your                | Impact: 0.018528 → PHISHING
+16.  portal              | Impact: 0.018528 → PHISHING
+17.  .                   | Impact: 0.017498 → PHISHING
+18.  please              | Impact: 0.017353 → PHISHING
+19.  |                   | Impact: 0.016705 → PHISHING
+20.  log                 | Impact: 0.016705 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.038118
+ 2.  us                  | Impact: 0.037990
+ 3.  email               | Impact: 0.037595
+ 4.  not                 | Impact: 0.036804
+ 5.  reply               | Impact: 0.036804
+ 6.  click               | Impact: 0.034042
+ 7.  you                 | Impact: 0.033510
+ 8.  to                  | Impact: 0.030451
+ 9.  this                | Impact: 0.030451
+10.  please              | Impact: 0.027597
+11.  do                  | Impact: 0.027597
+12.  account             | Impact: 0.025763
+13.  to                  | Impact: 0.023525
+14.  your                | Impact: 0.023525
+15.  your                | Impact: 0.018528
+16.  portal              | Impact: 0.018528
+17.  .                   | Impact: 0.017498
+18.  please              | Impact: 0.017353
+19.  |                   | Impact: 0.016705
+20.  log                 | Impact: 0.016705
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thank               | Impact: -0.014687
+ 2.  fidelity            | Impact: -0.009562
+ 3.  june                | Impact: -0.007805
+ 4.  ,                   | Impact: -0.005613
+ 5.  perspective         | Impact: -0.004729
+ 6.  |                   | Impact: -0.004729
+ 7.  instead             | Impact: -0.004094
+ 8.  any                 | Impact: -0.003679
+ 9.  questions           | Impact: -0.003679
+10.  or                  | Impact: -0.003679
+11.  in                  | Impact: -0.003109
+12.  if                  | Impact: -0.003109
+13.  you                 | Impact: -0.003109
+14.  have                | Impact: -0.003109
+15.  privacy             | Impact: -0.002026
+16.  |                   | Impact: -0.002026
+17.                      | Impact: -0.001042
+18.  the                 | Impact: -0.000908
+19.  following           | Impact: -0.000908
+20.  .                   | Impact: -0.000525

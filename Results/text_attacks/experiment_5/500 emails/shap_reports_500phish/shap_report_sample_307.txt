@@ -1,0 +1,75 @@
+Sample 307
+==========
+
+Sample text preview: Email: Dear sir, I write to inform you of my desire to acquire estates or landed properties in your country on behalf of the Director of Contracts and...
+
+Model prediction: [1.5749004e-04 9.9984252e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  our                 | Impact: 0.042765 → PHISHING
+ 2.  agent               | Impact: 0.042765 → PHISHING
+ 3.  .                   | Impact: 0.021091 → PHISHING
+ 4.  you                 | Impact: 0.018719 → PHISHING
+ 5.  shall               | Impact: 0.018719 → PHISHING
+ 6.  serve               | Impact: 0.012750 → PHISHING
+ 7.  as                  | Impact: 0.012750 → PHISHING
+ 8.  overseas            | Impact: 0.011507 → PHISHING
+ 9.  agent               | Impact: 0.011507 → PHISHING
+10.  you                 | Impact: 0.010129 → PHISHING
+11.  before              | Impact: 0.010129 → PHISHING
+12.  the                 | Impact: 0.010129 → PHISHING
+13.  is                  | Impact: 0.008300 → PHISHING
+14.  made                | Impact: 0.008300 → PHISHING
+15.  into                | Impact: 0.008300 → PHISHING
+16.  your                | Impact: 0.008300 → PHISHING
+17.  i                   | Impact: 0.008157 → PHISHING
+18.  will                | Impact: 0.008157 → PHISHING
+19.  be                  | Impact: 0.008157 → PHISHING
+20.  with                | Impact: 0.008157 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  our                 | Impact: 0.042765
+ 2.  agent               | Impact: 0.042765
+ 3.  .                   | Impact: 0.021091
+ 4.  you                 | Impact: 0.018719
+ 5.  shall               | Impact: 0.018719
+ 6.  serve               | Impact: 0.012750
+ 7.  as                  | Impact: 0.012750
+ 8.  overseas            | Impact: 0.011507
+ 9.  agent               | Impact: 0.011507
+10.  you                 | Impact: 0.010129
+11.  before              | Impact: 0.010129
+12.  the                 | Impact: 0.010129
+13.  is                  | Impact: 0.008300
+14.  made                | Impact: 0.008300
+15.  into                | Impact: 0.008300
+16.  your                | Impact: 0.008300
+17.  i                   | Impact: 0.008157
+18.  will                | Impact: 0.008157
+19.  be                  | Impact: 0.008157
+20.  with                | Impact: 0.008157
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  finance             | Impact: -0.002793
+ 2.  allocation          | Impact: -0.002793
+ 3.  of                  | Impact: -0.002793
+ 4.  the                 | Impact: -0.002793
+ 5.  if                  | Impact: -0.002694
+ 6.  however             | Impact: -0.002694
+ 7.  of                  | Impact: -0.001835
+ 8.  the                 | Impact: -0.001835
+ 9.  proposed            | Impact: -0.001835
+10.  transaction         | Impact: -0.001835
+11.  and                 | Impact: -0.001835
+12.  for                 | Impact: -0.001766
+13.  this                | Impact: -0.001766
+14.  too                 | Impact: -0.001766
+15.  ,                   | Impact: -0.001766
+16.  discuss             | Impact: -0.001533
+17.  in                  | Impact: -0.001533
+18.  details             | Impact: -0.001533
+19.  the                 | Impact: -0.001533
+20.  ,                   | Impact: -0.001491

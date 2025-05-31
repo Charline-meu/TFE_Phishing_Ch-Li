@@ -1,0 +1,75 @@
+Sample 346
+==========
+
+Sample text preview: The ENA party at Jillian's just crashed our Transport / Logistics happy hour. The new date is Thursday October th. Please pass this new date on to you...
+
+Model prediction: [9.9981290e-01 1.8708734e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.003480 → LEGITIMATE
+ 2. a                    | Impact: -0.002785 → LEGITIMATE
+ 3.  en                  | Impact: -0.002603 → LEGITIMATE
+ 4.  logistics           | Impact: -0.002239 → LEGITIMATE
+ 5.  customer            | Impact: -0.002239 → LEGITIMATE
+ 6.  party               | Impact: 0.002147 → PHISHING
+ 7.  en                  | Impact: -0.002024 → LEGITIMATE
+ 8. ron                  | Impact: -0.001906 → LEGITIMATE
+ 9.  en                  | Impact: -0.001860 → LEGITIMATE
+10.  ec                  | Impact: -0.001859 → LEGITIMATE
+11. t                    | Impact: -0.001859 → LEGITIMATE
+12.  /                   | Impact: -0.001789 → LEGITIMATE
+13.  '                   | Impact: 0.001733 → PHISHING
+14.  ec                  | Impact: -0.001699 → LEGITIMATE
+15. t                    | Impact: -0.001699 → LEGITIMATE
+16.  pat                 | Impact: 0.001675 → PHISHING
+17.  ec                  | Impact: -0.001668 → LEGITIMATE
+18. t                    | Impact: -0.001668 → LEGITIMATE
+19.  happy               | Impact: -0.001638 → LEGITIMATE
+20.  hour                | Impact: -0.001638 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  party               | Impact: 0.002147
+ 2.  '                   | Impact: 0.001733
+ 3.  pat                 | Impact: 0.001675
+ 4.  @                   | Impact: 0.001483
+ 5.  jillian             | Impact: 0.001432
+ 6.  thanks              | Impact: 0.001330
+ 7.  jackie              | Impact: 0.001079
+ 8.  ,                   | Impact: 0.001050
+ 9.  at                  | Impact: 0.001007
+10.  young               | Impact: 0.000849
+11.  @                   | Impact: 0.000848
+12.  mary                | Impact: 0.000719
+13.  m                   | Impact: 0.000719
+14.  mark                | Impact: 0.000650
+15.  mccoy               | Impact: 0.000650
+16.                      | Impact: 0.000550
+17.  @                   | Impact: 0.000498
+18.  earl                | Impact: 0.000397
+19.  tis                 | Impact: 0.000397
+20. dale                 | Impact: 0.000397
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.003480
+ 2. a                    | Impact: -0.002785
+ 3.  en                  | Impact: -0.002603
+ 4.  logistics           | Impact: -0.002239
+ 5.  customer            | Impact: -0.002239
+ 6.  en                  | Impact: -0.002024
+ 7. ron                  | Impact: -0.001906
+ 8.  en                  | Impact: -0.001860
+ 9.  ec                  | Impact: -0.001859
+10. t                    | Impact: -0.001859
+11.  /                   | Impact: -0.001789
+12.  ec                  | Impact: -0.001699
+13. t                    | Impact: -0.001699
+14.  ec                  | Impact: -0.001668
+15. t                    | Impact: -0.001668
+16.  happy               | Impact: -0.001638
+17.  hour                | Impact: -0.001638
+18.  transport           | Impact: -0.001574
+19.  ec                  | Impact: -0.001435
+20. t                    | Impact: -0.001435

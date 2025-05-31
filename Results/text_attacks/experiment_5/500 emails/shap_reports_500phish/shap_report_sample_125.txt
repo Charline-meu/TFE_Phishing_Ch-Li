@@ -1,0 +1,75 @@
+Sample 125
+==========
+
+Sample text preview: - This mail is in HTML. Some elements may be ommited in plain text. - Server Message Dear Our record indicates that you recently made a request to dea...
+
+Model prediction: [1.6445025e-04 9.9983549e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.081392 → PHISHING
+ 2.  message             | Impact: 0.034969 → PHISHING
+ 3.  message             | Impact: 0.033620 → PHISHING
+ 4.  you                 | Impact: 0.032853 → PHISHING
+ 5.  processed           | Impact: 0.029819 → PHISHING
+ 6.  mail                | Impact: 0.029286 → PHISHING
+ 7.  email               | Impact: 0.029025 → PHISHING
+ 8.  recently            | Impact: 0.028394 → PHISHING
+ 9.  server              | Impact: 0.027145 → PHISHING
+10.  will                | Impact: 0.025656 → PHISHING
+11.  be                  | Impact: 0.024577 → PHISHING
+12.  email               | Impact: 0.023110 → PHISHING
+13.  this                | Impact: 0.020809 → PHISHING
+14.  this                | Impact: 0.020239 → PHISHING
+15.  account             | Impact: 0.019924 → PHISHING
+16.  request             | Impact: 0.017417 → PHISHING
+17.  your                | Impact: 0.017391 → PHISHING
+18.  dea                 | Impact: 0.016327 → PHISHING
+19. ct                   | Impact: 0.016327 → PHISHING
+20.  administrator       | Impact: 0.015493 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.081392
+ 2.  message             | Impact: 0.034969
+ 3.  message             | Impact: 0.033620
+ 4.  you                 | Impact: 0.032853
+ 5.  processed           | Impact: 0.029819
+ 6.  mail                | Impact: 0.029286
+ 7.  email               | Impact: 0.029025
+ 8.  recently            | Impact: 0.028394
+ 9.  server              | Impact: 0.027145
+10.  will                | Impact: 0.025656
+11.  be                  | Impact: 0.024577
+12.  email               | Impact: 0.023110
+13.  this                | Impact: 0.020809
+14.  this                | Impact: 0.020239
+15.  account             | Impact: 0.019924
+16.  request             | Impact: 0.017417
+17.  your                | Impact: 0.017391
+18.  dea                 | Impact: 0.016327
+19. ct                   | Impact: 0.016327
+20.  administrator       | Impact: 0.015493
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  html                | Impact: -0.011183
+ 2.  .                   | Impact: -0.006187
+ 3.  is                  | Impact: -0.005843
+ 4.  -                   | Impact: -0.005792
+ 5.  in                  | Impact: -0.005390
+ 6.  .                   | Impact: -0.004870
+ 7.  for                 | Impact: -0.002226
+ 8.  :                   | Impact: -0.002226
+ 9.                      | Impact: -0.001476
+10.  that                | Impact: -0.001176
+11.  some                | Impact: -0.000980
+12.  elements            | Impact: -0.000980
+13.  may                 | Impact: -0.000980
+14.  be                  | Impact: -0.000980
+15.  and                 | Impact: -0.000725
+16.  .                   | Impact: -0.000430
+17.                      | Impact: -0.000376
+18.  ,                   | Impact: -0.000110
+19.  of                  | Impact: -0.000099
+20.  it                  | Impact: -0.000099

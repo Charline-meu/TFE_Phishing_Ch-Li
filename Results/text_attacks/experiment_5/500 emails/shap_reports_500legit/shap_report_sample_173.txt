@@ -1,0 +1,56 @@
+Sample 173
+==========
+
+Sample text preview: Please stop sending emails to jennifer_arnold to the following email address: You have the wrong person
+
+Model prediction: [0.9986045  0.00139557]
+Predicted class: LEGITIMATE with 0.9986 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  jennifer            | Impact: -0.310014 → LEGITIMATE
+ 2.  arnold              | Impact: -0.291535 → LEGITIMATE
+ 3.  address             | Impact: 0.143894 → PHISHING
+ 4.  please              | Impact: 0.141367 → PHISHING
+ 5.  email               | Impact: 0.120747 → PHISHING
+ 6.  person              | Impact: 0.115212 → PHISHING
+ 7.  :                   | Impact: -0.096034 → LEGITIMATE
+ 8.  stop                | Impact: 0.089269 → PHISHING
+ 9.  the                 | Impact: -0.076947 → LEGITIMATE
+10.  wrong               | Impact: 0.069080 → PHISHING
+11.  sending             | Impact: 0.034474 → PHISHING
+12.  have                | Impact: -0.032221 → LEGITIMATE
+13.  _                   | Impact: -0.026006 → LEGITIMATE
+14.  emails              | Impact: -0.025028 → LEGITIMATE
+15.  the                 | Impact: 0.024121 → PHISHING
+16.  following           | Impact: -0.016892 → LEGITIMATE
+17.  to                  | Impact: 0.009318 → PHISHING
+18.  you                 | Impact: 0.008088 → PHISHING
+19.  to                  | Impact: -0.002541 → LEGITIMATE
+20.                      | Impact: 0.000000 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  address             | Impact: 0.143894
+ 2.  please              | Impact: 0.141367
+ 3.  email               | Impact: 0.120747
+ 4.  person              | Impact: 0.115212
+ 5.  stop                | Impact: 0.089269
+ 6.  wrong               | Impact: 0.069080
+ 7.  sending             | Impact: 0.034474
+ 8.  the                 | Impact: 0.024121
+ 9.  to                  | Impact: 0.009318
+10.  you                 | Impact: 0.008088
+11.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  jennifer            | Impact: -0.310014
+ 2.  arnold              | Impact: -0.291535
+ 3.  :                   | Impact: -0.096034
+ 4.  the                 | Impact: -0.076947
+ 5.  have                | Impact: -0.032221
+ 6.  _                   | Impact: -0.026006
+ 7.  emails              | Impact: -0.025028
+ 8.  following           | Impact: -0.016892
+ 9.  to                  | Impact: -0.002541
+10.                      | Impact: -0.000000

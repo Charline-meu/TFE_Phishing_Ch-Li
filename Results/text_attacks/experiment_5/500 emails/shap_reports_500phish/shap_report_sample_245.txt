@@ -1,0 +1,75 @@
+Sample 245
+==========
+
+Sample text preview: FROM THE DESK OF MR ALIABDULAHI (ESQ) TH HEAD OF FILE DEPARTMENT, IN BANK OF AFRICA(B.O.A) OUAGADOUGOU BURKINA-FASO WEST AFRICA. US$.M (TEN MILLION FI...
+
+Model prediction: [2.0846745e-04 9.9979156e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  money               | Impact: 0.007235 → PHISHING
+ 2.  will                | Impact: 0.007235 → PHISHING
+ 3.  visit               | Impact: 0.006181 → PHISHING
+ 4.  your                | Impact: 0.006181 → PHISHING
+ 5.  country             | Impact: 0.006181 → PHISHING
+ 6.  for                 | Impact: 0.006181 → PHISHING
+ 7.  relation            | Impact: 0.005843 → PHISHING
+ 8.  to                  | Impact: 0.005843 → PHISHING
+ 9.  the                 | Impact: 0.005843 → PHISHING
+10.  deceased            | Impact: 0.005843 → PHISHING
+11.  for                 | Impact: 0.005843 → PHISHING
+12.  safety              | Impact: 0.005843 → PHISHING
+13.  release             | Impact: 0.005477 → PHISHING
+14.  the                 | Impact: 0.005477 → PHISHING
+15.  money               | Impact: 0.005477 → PHISHING
+16.  to                  | Impact: 0.005477 → PHISHING
+17.  you                 | Impact: 0.005477 → PHISHING
+18.  as                  | Impact: 0.005477 → PHISHING
+19.  the                 | Impact: 0.005477 → PHISHING
+20.  next                | Impact: 0.005477 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.007235
+ 2.  will                | Impact: 0.007235
+ 3.  visit               | Impact: 0.006181
+ 4.  your                | Impact: 0.006181
+ 5.  country             | Impact: 0.006181
+ 6.  for                 | Impact: 0.006181
+ 7.  relation            | Impact: 0.005843
+ 8.  to                  | Impact: 0.005843
+ 9.  the                 | Impact: 0.005843
+10.  deceased            | Impact: 0.005843
+11.  for                 | Impact: 0.005843
+12.  safety              | Impact: 0.005843
+13.  release             | Impact: 0.005477
+14.  the                 | Impact: 0.005477
+15.  money               | Impact: 0.005477
+16.  to                  | Impact: 0.005477
+17.  you                 | Impact: 0.005477
+18.  as                  | Impact: 0.005477
+19.  the                 | Impact: 0.005477
+20.  next                | Impact: 0.005477
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.000766
+ 2.  com                 | Impact: -0.000257
+ 3. lim                  | Impact: -0.000257
+ 4. ents                 | Impact: -0.000257
+ 5.  of                  | Impact: -0.000257
+ 6.  the                 | Impact: -0.000257
+ 7.  season              | Impact: -0.000257
+ 8.  ,                   | Impact: -0.000257
+ 9.  di                  | Impact: -0.000082
+10. sb                   | Impact: -0.000082
+11. urse                 | Impact: -0.000082
+12. ment                 | Impact: -0.000082
+13.  according           | Impact: -0.000082
+14.  to                  | Impact: -0.000082
+15.  the                 | Impact: -0.000082
+16.  percentage          | Impact: -0.000082
+17.  indicated           | Impact: -0.000082
+18.  .                   | Impact: -0.000082
+19.  application         | Impact: -0.000000
+20.  which               | Impact: -0.000000

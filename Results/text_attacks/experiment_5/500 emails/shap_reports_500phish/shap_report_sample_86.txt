@@ -1,0 +1,68 @@
+Sample 86
+=========
+
+Sample text preview: Hi Your mailbox quota has reached %. Kindly verify email with the server to ensure smooth functioning of your email account. AQUIRE MORE FREE ADDITION...
+
+Model prediction: [1.733209e-04 9.998267e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  email               | Impact: 0.066366 → PHISHING
+ 2.  account             | Impact: 0.055753 → PHISHING
+ 3.  account             | Impact: 0.047772 → PHISHING
+ 4.  mail                | Impact: 0.045010 → PHISHING
+ 5.  sincerely           | Impact: 0.040905 → PHISHING
+ 6.  free                | Impact: 0.040412 → PHISHING
+ 7.  email               | Impact: 0.039149 → PHISHING
+ 8.  your                | Impact: 0.036424 → PHISHING
+ 9.  blocked             | Impact: 0.033658 → PHISHING
+10.  incoming            | Impact: 0.029699 → PHISHING
+11.  storage             | Impact: 0.027426 → PHISHING
+12.  additional          | Impact: 0.023280 → PHISHING
+13.  more                | Impact: 0.019374 → PHISHING
+14.  please              | Impact: 0.017786 → PHISHING
+15.  lost                | Impact: 0.017700 → PHISHING
+16.  temporary           | Impact: 0.017683 → PHISHING
+17.  email               | Impact: 0.017581 → PHISHING
+18.  from                | Impact: 0.016881 → PHISHING
+19.  you                 | Impact: 0.016881 → PHISHING
+20.  ,                   | Impact: 0.016872 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  email               | Impact: 0.066366
+ 2.  account             | Impact: 0.055753
+ 3.  account             | Impact: 0.047772
+ 4.  mail                | Impact: 0.045010
+ 5.  sincerely           | Impact: 0.040905
+ 6.  free                | Impact: 0.040412
+ 7.  email               | Impact: 0.039149
+ 8.  your                | Impact: 0.036424
+ 9.  blocked             | Impact: 0.033658
+10.  incoming            | Impact: 0.029699
+11.  storage             | Impact: 0.027426
+12.  additional          | Impact: 0.023280
+13.  more                | Impact: 0.019374
+14.  please              | Impact: 0.017786
+15.  lost                | Impact: 0.017700
+16.  temporary           | Impact: 0.017683
+17.  email               | Impact: 0.017581
+18.  from                | Impact: 0.016881
+19.  you                 | Impact: 0.016881
+20.  ,                   | Impact: 0.016872
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  to                  | Impact: -0.009582
+ 2.  a                   | Impact: -0.003811
+ 3. qui                  | Impact: -0.003811
+ 4. re                   | Impact: -0.003375
+ 5.  and                 | Impact: -0.002257
+ 6.  .                   | Impact: -0.001932
+ 7.  %                   | Impact: -0.001170
+ 8.  carry               | Impact: -0.001007
+ 9.  out                 | Impact: -0.001007
+10.  failure             | Impact: -0.000733
+11.  to                  | Impact: -0.000733
+12.  desk                | Impact: -0.000678
+13.  as                  | Impact: -0.000400

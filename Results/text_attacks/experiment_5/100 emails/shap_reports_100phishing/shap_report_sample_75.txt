@@ -1,0 +1,61 @@
+Phishing Sample 75
+==================
+
+Sample text preview: Dear Your mailbox is almost full. MB MB Current size Maximum size Your mailbox might be close kindly click activate to add more MB to your mailbox. Co...
+
+Model prediction: [1.5719910e-04 9.9984276e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ©                   | Impact: 0.216698 → PHISHING
+ 2.  dear                | Impact: 0.151263 → PHISHING
+ 3.  copyright           | Impact: 0.093962 → PHISHING
+ 4.  !                   | Impact: 0.074083 → PHISHING
+ 5.  your                | Impact: 0.053296 → PHISHING
+ 6.  inc                 | Impact: 0.035132 → PHISHING
+ 7.  your                | Impact: 0.033865 → PHISHING
+ 8.  .                   | Impact: 0.030327 → PHISHING
+ 9.  click               | Impact: 0.028715 → PHISHING
+10. box                  | Impact: 0.027816 → PHISHING
+11. box                  | Impact: 0.026358 → PHISHING
+12.  email               | Impact: 0.025254 → PHISHING
+13.  activate            | Impact: 0.022519 → PHISHING
+14.  mb                  | Impact: 0.016830 → PHISHING
+15.  your                | Impact: 0.015778 → PHISHING
+16.  mail                | Impact: 0.015018 → PHISHING
+17.  size                | Impact: 0.013545 → PHISHING
+18.  is                  | Impact: 0.012780 → PHISHING
+19.  almost              | Impact: -0.011985 → LEGITIMATE
+20.  to                  | Impact: 0.011852 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ©                   | Impact: 0.216698
+ 2.  dear                | Impact: 0.151263
+ 3.  copyright           | Impact: 0.093962
+ 4.  !                   | Impact: 0.074083
+ 5.  your                | Impact: 0.053296
+ 6.  inc                 | Impact: 0.035132
+ 7.  your                | Impact: 0.033865
+ 8.  .                   | Impact: 0.030327
+ 9.  click               | Impact: 0.028715
+10. box                  | Impact: 0.027816
+11. box                  | Impact: 0.026358
+12.  email               | Impact: 0.025254
+13.  activate            | Impact: 0.022519
+14.  mb                  | Impact: 0.016830
+15.  your                | Impact: 0.015778
+16.  mail                | Impact: 0.015018
+17.  size                | Impact: 0.013545
+18.  is                  | Impact: 0.012780
+19.  to                  | Impact: 0.011852
+20.  rights              | Impact: 0.011565
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  almost              | Impact: -0.011985
+ 2.  reserved            | Impact: -0.005157
+ 3.  might               | Impact: -0.003921
+ 4.  more                | Impact: -0.000639
+ 5.  be                  | Impact: -0.000240
+ 6.  mail                | Impact: -0.000043

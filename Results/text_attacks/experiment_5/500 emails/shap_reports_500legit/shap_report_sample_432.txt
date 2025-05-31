@@ -1,0 +1,75 @@
+Sample 432
+==========
+
+Sample text preview: Shan Ryan suggested: > IMHO stopping spammers is a great idea but I'd rather > have to hit d or delete rather than have my messages > bounced by someo...
+
+Model prediction: [9.9977010e-01 2.2994017e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  is                  | Impact: -0.037743 → LEGITIMATE
+ 2.  provider            | Impact: 0.035046 → PHISHING
+ 3. p                    | Impact: -0.034032 → LEGITIMATE
+ 4.  address             | Impact: 0.026489 → PHISHING
+ 5.  s                   | Impact: 0.024864 → PHISHING
+ 6.  my                  | Impact: -0.017478 → LEGITIMATE
+ 7.  mail                | Impact: 0.017052 → PHISHING
+ 8.  your                | Impact: 0.016041 → PHISHING
+ 9.  e                   | Impact: 0.015931 → PHISHING
+10.  but                 | Impact: -0.015712 → LEGITIMATE
+11.  ryan                | Impact: -0.013604 → LEGITIMATE
+12.  spa                 | Impact: 0.012918 → PHISHING
+13. m                    | Impact: 0.012364 → PHISHING
+14.  suggested           | Impact: -0.010724 → LEGITIMATE
+15.  >                   | Impact: -0.007572 → LEGITIMATE
+16.  >                   | Impact: -0.007530 → LEGITIMATE
+17.  >                   | Impact: -0.006896 → LEGITIMATE
+18.  more                | Impact: 0.006608 → PHISHING
+19.  responsible         | Impact: 0.006608 → PHISHING
+20.  spa                 | Impact: -0.006356 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  provider            | Impact: 0.035046
+ 2.  address             | Impact: 0.026489
+ 3.  s                   | Impact: 0.024864
+ 4.  mail                | Impact: 0.017052
+ 5.  your                | Impact: 0.016041
+ 6.  e                   | Impact: 0.015931
+ 7.  spa                 | Impact: 0.012918
+ 8. m                    | Impact: 0.012364
+ 9.  more                | Impact: 0.006608
+10.  responsible         | Impact: 0.006608
+11.  your                | Impact: 0.006209
+12.  old                 | Impact: 0.006209
+13. com                  | Impact: 0.005822
+14. ote                  | Impact: 0.003333
+15. nt                   | Impact: 0.003333
+16.  inc                 | Impact: 0.003104
+17. omp                  | Impact: 0.003104
+18.  -                   | Impact: 0.002776
+19.  mail                | Impact: 0.002776
+20.  e                   | Impact: 0.002497
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  is                  | Impact: -0.037743
+ 2. p                    | Impact: -0.034032
+ 3.  my                  | Impact: -0.017478
+ 4.  but                 | Impact: -0.015712
+ 5.  ryan                | Impact: -0.013604
+ 6.  suggested           | Impact: -0.010724
+ 7.  >                   | Impact: -0.007572
+ 8.  >                   | Impact: -0.007530
+ 9.  >                   | Impact: -0.006896
+10.  spa                 | Impact: -0.006356
+11. mmer                 | Impact: -0.006356
+12.  messages            | Impact: -0.006328
+13.  :                   | Impact: -0.005942
+14.                      | Impact: -0.005812
+15.  shan                | Impact: -0.005812
+16.  great               | Impact: -0.005689
+17.  idea                | Impact: -0.005689
+18.  bounced             | Impact: -0.005647
+19. s                    | Impact: -0.005591
+20.  i                   | Impact: -0.004862

@@ -1,0 +1,70 @@
+Sample 388
+==========
+
+Sample text preview: Dear, Please I am Mr Makathy Adams, the only son of late chief Adams Williams from Sierra Leone. I got your contact from the Ecowas Infomation Center ...
+
+Model prediction: [1.8083092e-04 9.9981922e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.010655 → PHISHING
+ 2.  late                | Impact: 0.010655 → PHISHING
+ 3.  father              | Impact: 0.010655 → PHISHING
+ 4.  ,                   | Impact: 0.010655 → PHISHING
+ 5.  father              | Impact: 0.007894 → PHISHING
+ 6.  deposited           | Impact: 0.007894 → PHISHING
+ 7.  in                  | Impact: 0.007894 → PHISHING
+ 8.  the                 | Impact: 0.007894 → PHISHING
+ 9.  bank                | Impact: 0.007894 → PHISHING
+10.  .                   | Impact: 0.007894 → PHISHING
+11.  is                  | Impact: 0.006677 → PHISHING
+12.  in                  | Impact: 0.006677 → PHISHING
+13.  fund                | Impact: 0.006677 → PHISHING
+14.  our                 | Impact: 0.006677 → PHISHING
+15.  now                 | Impact: 0.006532 → PHISHING
+16.  like                | Impact: 0.006532 → PHISHING
+17.  refugees            | Impact: 0.006532 → PHISHING
+18.  and                 | Impact: 0.006532 → PHISHING
+19.  orphans             | Impact: 0.006532 → PHISHING
+20.  .                   | Impact: 0.006532 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.010655
+ 2.  late                | Impact: 0.010655
+ 3.  father              | Impact: 0.010655
+ 4.  ,                   | Impact: 0.010655
+ 5.  father              | Impact: 0.007894
+ 6.  deposited           | Impact: 0.007894
+ 7.  in                  | Impact: 0.007894
+ 8.  the                 | Impact: 0.007894
+ 9.  bank                | Impact: 0.007894
+10.  .                   | Impact: 0.007894
+11.  is                  | Impact: 0.006677
+12.  in                  | Impact: 0.006677
+13.  fund                | Impact: 0.006677
+14.  our                 | Impact: 0.006677
+15.  now                 | Impact: 0.006532
+16.  like                | Impact: 0.006532
+17.  refugees            | Impact: 0.006532
+18.  and                 | Impact: 0.006532
+19.  orphans             | Impact: 0.006532
+20.  .                   | Impact: 0.006532
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  to                  | Impact: -0.000726
+ 2.  this                | Impact: -0.000726
+ 3.  effect              | Impact: -0.000726
+ 4.  ,                   | Impact: -0.000726
+ 5.  co                  | Impact: -0.000010
+ 6.  -                   | Impact: -0.000010
+ 7.  operation           | Impact: -0.000010
+ 8.  '                   | Impact: -0.000010
+ 9.  s                   | Impact: -0.000010
+10.  over                | Impact: -0.000010
+11.  draft               | Impact: -0.000010
+12.  and                 | Impact: -0.000010
+13.  minor               | Impact: -0.000010
+14.  sales               | Impact: -0.000010
+15.  .                   | Impact: -0.000010

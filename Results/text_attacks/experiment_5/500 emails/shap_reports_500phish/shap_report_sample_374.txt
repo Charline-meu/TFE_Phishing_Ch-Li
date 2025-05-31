@@ -1,0 +1,69 @@
+Sample 374
+==========
+
+Sample text preview: FYI,< I have used One Drive to share some docs files with you, Kindly click REVIEW to access the shared< REVIEW FILE< Please email me if you have any ...
+
+Model prediction: [0.00224316 0.9977569 ]
+Predicted class: PHISHING with 0.9978 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  regards             | Impact: 0.224456 → PHISHING
+ 2.  file                | Impact: 0.190774 → PHISHING
+ 3.  you                 | Impact: 0.149214 → PHISHING
+ 4.  access              | Impact: 0.133674 → PHISHING
+ 5.  click               | Impact: 0.129163 → PHISHING
+ 6.  kindly              | Impact: 0.103397 → PHISHING
+ 7.  email               | Impact: 0.080729 → PHISHING
+ 8. yi                   | Impact: -0.070538 → LEGITIMATE
+ 9.  files               | Impact: 0.058587 → PHISHING
+10.  review              | Impact: -0.049165 → LEGITIMATE
+11.  please              | Impact: 0.046534 → PHISHING
+12.  questions           | Impact: -0.041992 → LEGITIMATE
+13.  <                   | Impact: -0.040378 → LEGITIMATE
+14.  .                   | Impact: -0.034811 → LEGITIMATE
+15.  <                   | Impact: 0.032532 → PHISHING
+16.  <                   | Impact: -0.030292 → LEGITIMATE
+17.  with                | Impact: 0.029830 → PHISHING
+18.  <                   | Impact: 0.029396 → PHISHING
+19.  ,                   | Impact: -0.025771 → LEGITIMATE
+20.  one                 | Impact: 0.017345 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.224456
+ 2.  file                | Impact: 0.190774
+ 3.  you                 | Impact: 0.149214
+ 4.  access              | Impact: 0.133674
+ 5.  click               | Impact: 0.129163
+ 6.  kindly              | Impact: 0.103397
+ 7.  email               | Impact: 0.080729
+ 8.  files               | Impact: 0.058587
+ 9.  please              | Impact: 0.046534
+10.  <                   | Impact: 0.032532
+11.  with                | Impact: 0.029830
+12.  <                   | Impact: 0.029396
+13.  one                 | Impact: 0.017345
+14.  me                  | Impact: 0.016094
+15.  drive               | Impact: 0.015106
+16.  to                  | Impact: 0.014268
+17.  review              | Impact: 0.013498
+18.  to                  | Impact: 0.011623
+19.  share               | Impact: 0.010012
+20.  the                 | Impact: 0.009740
+
+Top features pushing towards LEGITIMATE classification:
+ 1. yi                   | Impact: -0.070538
+ 2.  review              | Impact: -0.049165
+ 3.  questions           | Impact: -0.041992
+ 4.  <                   | Impact: -0.040378
+ 5.  .                   | Impact: -0.034811
+ 6.  <                   | Impact: -0.030292
+ 7.  ,                   | Impact: -0.025771
+ 8.  i                   | Impact: -0.016818
+ 9.  ,                   | Impact: -0.014722
+10.  doc                 | Impact: -0.011868
+11.  <                   | Impact: -0.008864
+12.  have                | Impact: -0.005897
+13.  any                 | Impact: -0.005897
+14.  used                | Impact: -0.004870

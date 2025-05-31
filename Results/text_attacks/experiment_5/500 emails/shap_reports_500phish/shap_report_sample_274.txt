@@ -1,0 +1,75 @@
+Sample 274
+==========
+
+Sample text preview: HRM PAYROLL ALERT This is an automated e-mail. Please do not reply to this e-mail. INVOICE: # New Bulletin New Payroll Bulletin and Review ; HRM would...
+
+Model prediction: [0.00365895 0.99634105]
+Predicted class: PHISHING with 0.9963 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  reply               | Impact: 0.094841 → PHISHING
+ 2.  mail                | Impact: 0.085685 → PHISHING
+ 3.  faculty             | Impact: -0.070425 → LEGITIMATE
+ 4.  on                  | Impact: -0.070425 → LEGITIMATE
+ 5.  hr                  | Impact: 0.061147 → PHISHING
+ 6.  .                   | Impact: 0.053614 → PHISHING
+ 7.  kindly              | Impact: 0.052714 → PHISHING
+ 8.  please              | Impact: 0.051734 → PHISHING
+ 9.  update              | Impact: 0.050398 → PHISHING
+10.  mail                | Impact: 0.049926 → PHISHING
+11.  hr                  | Impact: 0.047088 → PHISHING
+12.  your                | Impact: 0.045763 → PHISHING
+13.  click               | Impact: 0.045060 → PHISHING
+14.  on                  | Impact: 0.045060 → PHISHING
+15.  alert               | Impact: 0.041279 → PHISHING
+16.  this                | Impact: 0.039103 → PHISHING
+17.  this                | Impact: 0.033176 → PHISHING
+18.  not                 | Impact: 0.032165 → PHISHING
+19.  automated           | Impact: 0.025021 → PHISHING
+20.  .                   | Impact: 0.024669 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  reply               | Impact: 0.094841
+ 2.  mail                | Impact: 0.085685
+ 3.  hr                  | Impact: 0.061147
+ 4.  .                   | Impact: 0.053614
+ 5.  kindly              | Impact: 0.052714
+ 6.  please              | Impact: 0.051734
+ 7.  update              | Impact: 0.050398
+ 8.  mail                | Impact: 0.049926
+ 9.  hr                  | Impact: 0.047088
+10.  your                | Impact: 0.045763
+11.  click               | Impact: 0.045060
+12.  on                  | Impact: 0.045060
+13.  alert               | Impact: 0.041279
+14.  this                | Impact: 0.039103
+15.  this                | Impact: 0.033176
+16.  not                 | Impact: 0.032165
+17.  automated           | Impact: 0.025021
+18.  .                   | Impact: 0.024669
+19.  :                   | Impact: 0.023232
+20.  receive             | Impact: 0.018789
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  faculty             | Impact: -0.070425
+ 2.  on                  | Impact: -0.070425
+ 3.  program             | Impact: -0.019400
+ 4.  schedule            | Impact: -0.019400
+ 5.  new                 | Impact: -0.019049
+ 6.  year                | Impact: -0.019049
+ 7.  new                 | Impact: -0.016537
+ 8.  bulletin            | Impact: -0.016537
+ 9.  the                 | Impact: -0.012699
+10.  payroll             | Impact: -0.012699
+11.  directory           | Impact: -0.012699
+12.  payroll             | Impact: -0.010656
+13.  hr                  | Impact: -0.009409
+14. m                    | Impact: -0.009409
+15.  :                   | Impact: -0.007659
+16.  #                   | Impact: -0.007659
+17.  review              | Impact: -0.005325
+18.  ;                   | Impact: -0.005325
+19.  would               | Impact: -0.003501
+20.  like                | Impact: -0.003501

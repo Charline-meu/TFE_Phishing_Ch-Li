@@ -1,0 +1,75 @@
+Sample 351
+==========
+
+Sample text preview: Hi Roni Charnella had asked that I send you information regarding scooters. The outfit is called Scoot Around North America. They have a web site at T...
+
+Model prediction: [0.9969001  0.00309989]
+Predicted class: LEGITIMATE with 0.9969 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ron                 | Impact: -0.053849 → LEGITIMATE
+ 2.  -                   | Impact: -0.044708 → LEGITIMATE
+ 3.  you                 | Impact: 0.040829 → PHISHING
+ 4.  send                | Impact: 0.037002 → PHISHING
+ 5.  -                   | Impact: -0.036744 → LEGITIMATE
+ 6.  -                   | Impact: -0.035675 → LEGITIMATE
+ 7. ers                  | Impact: -0.030681 → LEGITIMATE
+ 8.  .                   | Impact: -0.024173 → LEGITIMATE
+ 9.  called              | Impact: -0.021426 → LEGITIMATE
+10.  !                   | Impact: 0.021233 → PHISHING
+11.  hi                  | Impact: 0.020187 → PHISHING
+12.  is                  | Impact: 0.019468 → PHISHING
+13.  their               | Impact: 0.019128 → PHISHING
+14.  outfit              | Impact: -0.017534 → LEGITIMATE
+15.  phone               | Impact: 0.016906 → PHISHING
+16.  sc                  | Impact: -0.016644 → LEGITIMATE
+17.  you                 | Impact: 0.015173 → PHISHING
+18.  web                 | Impact: 0.014965 → PHISHING
+19.  number              | Impact: 0.014705 → PHISHING
+20.  information         | Impact: 0.014272 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.040829
+ 2.  send                | Impact: 0.037002
+ 3.  !                   | Impact: 0.021233
+ 4.  hi                  | Impact: 0.020187
+ 5.  is                  | Impact: 0.019468
+ 6.  their               | Impact: 0.019128
+ 7.  phone               | Impact: 0.016906
+ 8.  you                 | Impact: 0.015173
+ 9.  web                 | Impact: 0.014965
+10.  number              | Impact: 0.014705
+11.  information         | Impact: 0.014272
+12.  .                   | Impact: 0.012223
+13.  char                | Impact: 0.009901
+14.  site                | Impact: 0.008885
+15.  america             | Impact: 0.007933
+16.  .                   | Impact: 0.007172
+17.  for                 | Impact: 0.007144
+18.  a                   | Impact: 0.005385
+19.  take                | Impact: 0.004125
+20.  this                | Impact: 0.002360
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ron                 | Impact: -0.053849
+ 2.  -                   | Impact: -0.044708
+ 3.  -                   | Impact: -0.036744
+ 4.  -                   | Impact: -0.035675
+ 5. ers                  | Impact: -0.030681
+ 6.  .                   | Impact: -0.024173
+ 7.  called              | Impact: -0.021426
+ 8.  outfit              | Impact: -0.017534
+ 9.  sc                  | Impact: -0.016644
+10.  i                   | Impact: -0.009884
+11. a                    | Impact: -0.009360
+12. i                    | Impact: -0.007228
+13.  that                | Impact: -0.006982
+14.  .                   | Impact: -0.006043
+15.  works               | Impact: -0.005977
+16. nell                 | Impact: -0.005465
+17. oot                  | Impact: -0.005158
+18.  the                 | Impact: -0.004551
+19.  had                 | Impact: -0.003441
+20.  asked               | Impact: -0.003441

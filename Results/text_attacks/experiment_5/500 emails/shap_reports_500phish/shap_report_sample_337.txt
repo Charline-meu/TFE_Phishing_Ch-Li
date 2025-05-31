@@ -1,0 +1,70 @@
+Sample 337
+==========
+
+Sample text preview: eEph-NQemGQnA-l Are you looking for help with credit problems You have found it, WEB CREDIT GUIDE Access & clean up credit problems from the convenien...
+
+Model prediction: [3.5027461e-04 9.9964976e-01]
+Predicted class: PHISHING with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.087743 → PHISHING
+ 2.  &                   | Impact: 0.081277 → PHISHING
+ 3. q                    | Impact: 0.059387 → PHISHING
+ 4.  your                | Impact: 0.056873 → PHISHING
+ 5.  you                 | Impact: 0.048972 → PHISHING
+ 6. q                    | Impact: 0.047259 → PHISHING
+ 7. qu                   | Impact: 0.045941 → PHISHING
+ 8.  &                   | Impact: 0.043444 → PHISHING
+ 9.  guaranteed          | Impact: 0.039400 → PHISHING
+10.  problems            | Impact: -0.037749 → LEGITIMATE
+11.  u                   | Impact: 0.036299 → PHISHING
+12.  l                   | Impact: 0.035078 → PHISHING
+13.  ni                  | Impact: 0.033381 → PHISHING
+14.  n                   | Impact: 0.029427 → PHISHING
+15.  clean               | Impact: 0.025824 → PHISHING
+16. em                   | Impact: 0.024954 → PHISHING
+17.  problems            | Impact: -0.023669 → LEGITIMATE
+18. na                   | Impact: 0.022598 → PHISHING
+19. x                    | Impact: 0.021171 → PHISHING
+20. fm                   | Impact: 0.020345 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.087743
+ 2.  &                   | Impact: 0.081277
+ 3. q                    | Impact: 0.059387
+ 4.  your                | Impact: 0.056873
+ 5.  you                 | Impact: 0.048972
+ 6. q                    | Impact: 0.047259
+ 7. qu                   | Impact: 0.045941
+ 8.  &                   | Impact: 0.043444
+ 9.  guaranteed          | Impact: 0.039400
+10.  u                   | Impact: 0.036299
+11.  l                   | Impact: 0.035078
+12.  ni                  | Impact: 0.033381
+13.  n                   | Impact: 0.029427
+14.  clean               | Impact: 0.025824
+15. em                   | Impact: 0.024954
+16. na                   | Impact: 0.022598
+17. x                    | Impact: 0.021171
+18. fm                   | Impact: 0.020345
+19.  %                   | Impact: 0.020277
+20. jn                   | Impact: 0.019065
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  problems            | Impact: -0.037749
+ 2.  problems            | Impact: -0.023669
+ 3.  problems            | Impact: -0.017495
+ 4. ph                   | Impact: -0.014752
+ 5.  looking             | Impact: -0.005680
+ 6.  ,                   | Impact: -0.005196
+ 7.  the                 | Impact: -0.005156
+ 8.  convenience         | Impact: -0.005156
+ 9.  found               | Impact: -0.004002
+10.  it                  | Impact: -0.004002
+11.  from                | Impact: -0.003109
+12.  credit              | Impact: -0.003033
+13.  bureau              | Impact: -0.002768
+14.  for                 | Impact: -0.002439
+15.  ee                  | Impact: -0.001649

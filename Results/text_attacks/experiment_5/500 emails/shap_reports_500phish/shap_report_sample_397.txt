@@ -1,0 +1,75 @@
+Sample 397
+==========
+
+Sample text preview: Dear Friend, Do accept my sincere apologies if my mail does not meet your personal Ethics. I introduce myself as Mr. Andrew Gama staff in the accounts...
+
+Model prediction: [1.584329e-04 9.998416e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.                      | Impact: 0.030810 → PHISHING
+ 2.  dear                | Impact: 0.030810 → PHISHING
+ 3.  friend              | Impact: 0.027944 → PHISHING
+ 4.  known               | Impact: 0.018461 → PHISHING
+ 5.  bank                | Impact: 0.018461 → PHISHING
+ 6.  money               | Impact: 0.014320 → PHISHING
+ 7.  as                  | Impact: 0.014320 → PHISHING
+ 8.  investigations      | Impact: 0.011751 → PHISHING
+ 9.  account             | Impact: 0.011114 → PHISHING
+10.  is                  | Impact: 0.011114 → PHISHING
+11.  a                   | Impact: 0.011114 → PHISHING
+12.  foreigner           | Impact: 0.011114 → PHISHING
+13.  british             | Impact: 0.009650 → PHISHING
+14.  pounds              | Impact: 0.009650 → PHISHING
+15.  )                   | Impact: 0.009650 → PHISHING
+16.  apologies           | Impact: 0.008845 → PHISHING
+17.  if                  | Impact: 0.008845 → PHISHING
+18.  (                   | Impact: 0.008484 → PHISHING
+19.  fifteen             | Impact: 0.008484 → PHISHING
+20.  million             | Impact: 0.008484 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.                      | Impact: 0.030810
+ 2.  dear                | Impact: 0.030810
+ 3.  friend              | Impact: 0.027944
+ 4.  known               | Impact: 0.018461
+ 5.  bank                | Impact: 0.018461
+ 6.  money               | Impact: 0.014320
+ 7.  as                  | Impact: 0.014320
+ 8.  investigations      | Impact: 0.011751
+ 9.  account             | Impact: 0.011114
+10.  is                  | Impact: 0.011114
+11.  a                   | Impact: 0.011114
+12.  foreigner           | Impact: 0.011114
+13.  british             | Impact: 0.009650
+14.  pounds              | Impact: 0.009650
+15.  )                   | Impact: 0.009650
+16.  apologies           | Impact: 0.008845
+17.  if                  | Impact: 0.008845
+18.  (                   | Impact: 0.008484
+19.  fifteen             | Impact: 0.008484
+20.  million             | Impact: 0.008484
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  states              | Impact: -0.005148
+ 2.  that                | Impact: -0.005148
+ 3.  immigration         | Impact: -0.004826
+ 4.  also                | Impact: -0.004826
+ 5.  management          | Impact: -0.002792
+ 6.  section             | Impact: -0.002792
+ 7.  of                  | Impact: -0.002792
+ 8.  a                   | Impact: -0.002792
+ 9.  ,                   | Impact: -0.002164
+10.  andrew              | Impact: -0.002022
+11.  ga                  | Impact: -0.002022
+12. ma                   | Impact: -0.002022
+13.  with                | Impact: -0.001941
+14.  holding             | Impact: -0.001941
+15.  balance             | Impact: -0.001941
+16.  of                  | Impact: -0.001941
+17.  ,                   | Impact: -0.001941
+18.  staff               | Impact: -0.001576
+19.  in                  | Impact: -0.001576
+20.  the                 | Impact: -0.001576

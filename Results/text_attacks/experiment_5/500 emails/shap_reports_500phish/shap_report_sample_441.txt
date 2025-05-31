@@ -1,0 +1,75 @@
+Sample 441
+==========
+
+Sample text preview: To ensure delivery to your inbox, please add to your address book. USAA will never ask for sensitive personal information, such as a Social Security n...
+
+Model prediction: [1.7813331e-04 9.9982184e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.037780 → PHISHING
+ 2.  your                | Impact: 0.024519 → PHISHING
+ 3.  protecting          | Impact: 0.015524 → PHISHING
+ 4.  your                | Impact: 0.015524 → PHISHING
+ 5.  for                 | Impact: 0.014877 → PHISHING
+ 6.  your                | Impact: 0.014877 → PHISHING
+ 7.  dear                | Impact: 0.014671 → PHISHING
+ 8.  financial           | Impact: 0.014588 → PHISHING
+ 9.  family              | Impact: 0.013141 → PHISHING
+10.  please              | Impact: 0.012920 → PHISHING
+11.  continued           | Impact: 0.012546 → PHISHING
+12.  trust               | Impact: 0.012546 → PHISHING
+13.  in                  | Impact: 0.012546 → PHISHING
+14.  ensure              | Impact: 0.012270 → PHISHING
+15.  #                   | Impact: 0.012213 → PHISHING
+16.  delivery            | Impact: 0.011103 → PHISHING
+17.  contact             | Impact: 0.010414 → PHISHING
+18.  you                 | Impact: 0.010283 → PHISHING
+19.  thank               | Impact: 0.010216 → PHISHING
+20.  sign                | Impact: 0.009354 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.037780
+ 2.  your                | Impact: 0.024519
+ 3.  protecting          | Impact: 0.015524
+ 4.  your                | Impact: 0.015524
+ 5.  for                 | Impact: 0.014877
+ 6.  your                | Impact: 0.014877
+ 7.  dear                | Impact: 0.014671
+ 8.  financial           | Impact: 0.014588
+ 9.  family              | Impact: 0.013141
+10.  please              | Impact: 0.012920
+11.  continued           | Impact: 0.012546
+12.  trust               | Impact: 0.012546
+13.  in                  | Impact: 0.012546
+14.  ensure              | Impact: 0.012270
+15.  #                   | Impact: 0.012213
+16.  delivery            | Impact: 0.011103
+17.  contact             | Impact: 0.010414
+18.  you                 | Impact: 0.010283
+19.  thank               | Impact: 0.010216
+20.  sign                | Impact: 0.009354
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.001084
+ 2.  add                 | Impact: -0.000991
+ 3.  .                   | Impact: -0.000846
+ 4.  banking             | Impact: -0.000667
+ 5.  and                 | Impact: -0.000667
+ 6.  investment          | Impact: -0.000667
+ 7.  affiliates          | Impact: -0.000667
+ 8.  .                   | Impact: -0.000667
+ 9.  part                | Impact: -0.000627
+10.  of                  | Impact: -0.000627
+11.  the                 | Impact: -0.000627
+12.  it                  | Impact: -0.000606
+13.  is                  | Impact: -0.000606
+14.  mandatory           | Impact: -0.000606
+15.  for                 | Impact: -0.000606
+16.  you                 | Impact: -0.000606
+17.  to                  | Impact: -0.000606
+18.  update              | Impact: -0.000606
+19.  your                | Impact: -0.000606
+20.  texas               | Impact: -0.000550

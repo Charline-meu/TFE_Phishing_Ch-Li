@@ -1,0 +1,71 @@
+Sample 271
+==========
+
+Sample text preview: FROM: MICHEAL BALOY TEL: . Dear Sir & Madam I know you will be surprise to receive this letter. I am MR.MICHEAL BALOY the only son of the General EDWA...
+
+Model prediction: [1.6948022e-04 9.9983048e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.016094 → PHISHING
+ 2.  sir                 | Impact: 0.016094 → PHISHING
+ 3.  &                   | Impact: 0.016094 → PHISHING
+ 4.  madam               | Impact: 0.016094 → PHISHING
+ 5.  son                 | Impact: 0.016094 → PHISHING
+ 6.  my                  | Impact: 0.010769 → PHISHING
+ 7.  beloved             | Impact: 0.010769 → PHISHING
+ 8.  father              | Impact: 0.009045 → PHISHING
+ 9.  '                   | Impact: 0.009045 → PHISHING
+10.  s                   | Impact: 0.009045 → PHISHING
+11.  mr                  | Impact: 0.008260 → PHISHING
+12.  son                 | Impact: 0.007637 → PHISHING
+13.  of                  | Impact: 0.007637 → PHISHING
+14.  i                   | Impact: 0.007136 → PHISHING
+15.  am                  | Impact: 0.007136 → PHISHING
+16.  into                | Impact: 0.005943 → PHISHING
+17.  your                | Impact: 0.005943 → PHISHING
+18.  personal            | Impact: 0.005943 → PHISHING
+19.  your                | Impact: 0.005926 → PHISHING
+20.  assistance          | Impact: 0.005926 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.016094
+ 2.  sir                 | Impact: 0.016094
+ 3.  &                   | Impact: 0.016094
+ 4.  madam               | Impact: 0.016094
+ 5.  son                 | Impact: 0.016094
+ 6.  my                  | Impact: 0.010769
+ 7.  beloved             | Impact: 0.010769
+ 8.  father              | Impact: 0.009045
+ 9.  '                   | Impact: 0.009045
+10.  s                   | Impact: 0.009045
+11.  mr                  | Impact: 0.008260
+12.  son                 | Impact: 0.007637
+13.  of                  | Impact: 0.007637
+14.  i                   | Impact: 0.007136
+15.  am                  | Impact: 0.007136
+16.  into                | Impact: 0.005943
+17.  your                | Impact: 0.005943
+18.  personal            | Impact: 0.005943
+19.  your                | Impact: 0.005926
+20.  assistance          | Impact: 0.005926
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.002185
+ 2.  from                | Impact: -0.002185
+ 3.  the                 | Impact: -0.002185
+ 4.  above               | Impact: -0.002185
+ 5.  ,                   | Impact: -0.002185
+ 6.  bal                 | Impact: -0.001399
+ 7. oy                   | Impact: -0.001399
+ 8.  tel                 | Impact: -0.001399
+ 9.  :                   | Impact: -0.001399
+10.  .                   | Impact: -0.001399
+11.                      | Impact: -0.000591
+12.  from                | Impact: -0.000591
+13.  :                   | Impact: -0.000591
+14.  mic                 | Impact: -0.000591
+15. hea                  | Impact: -0.000591
+16. l                    | Impact: -0.000591

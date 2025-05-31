@@ -1,0 +1,61 @@
+Sample 436
+==========
+
+Sample text preview: Attached is the list of top cps with credit contacts. Please call me if you have any questions. Thanks, Tanya
+
+Model prediction: [9.9971503e-01 2.8488899e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  list                | Impact: -0.090415 → LEGITIMATE
+ 2.  top                 | Impact: 0.078327 → PHISHING
+ 3.  questions           | Impact: -0.053513 → LEGITIMATE
+ 4.  is                  | Impact: -0.049483 → LEGITIMATE
+ 5.  please              | Impact: 0.049216 → PHISHING
+ 6.  contacts            | Impact: 0.046555 → PHISHING
+ 7.  cp                  | Impact: -0.044063 → LEGITIMATE
+ 8.  the                 | Impact: 0.041975 → PHISHING
+ 9.  with                | Impact: 0.029813 → PHISHING
+10.  .                   | Impact: -0.023667 → LEGITIMATE
+11.  thanks              | Impact: -0.022558 → LEGITIMATE
+12.  you                 | Impact: 0.021431 → PHISHING
+13.  tanya               | Impact: -0.017141 → LEGITIMATE
+14.  credit              | Impact: -0.015962 → LEGITIMATE
+15.  me                  | Impact: 0.015139 → PHISHING
+16.  if                  | Impact: -0.014642 → LEGITIMATE
+17.  of                  | Impact: -0.011209 → LEGITIMATE
+18.  .                   | Impact: -0.011180 → LEGITIMATE
+19.  any                 | Impact: -0.009242 → LEGITIMATE
+20.  ,                   | Impact: 0.005268 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  top                 | Impact: 0.078327
+ 2.  please              | Impact: 0.049216
+ 3.  contacts            | Impact: 0.046555
+ 4.  the                 | Impact: 0.041975
+ 5.  with                | Impact: 0.029813
+ 6.  you                 | Impact: 0.021431
+ 7.  me                  | Impact: 0.015139
+ 8.  ,                   | Impact: 0.005268
+ 9.  have                | Impact: 0.004739
+10.  call                | Impact: 0.002665
+11.  attached            | Impact: 0.001254
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  list                | Impact: -0.090415
+ 2.  questions           | Impact: -0.053513
+ 3.  is                  | Impact: -0.049483
+ 4.  cp                  | Impact: -0.044063
+ 5.  .                   | Impact: -0.023667
+ 6.  thanks              | Impact: -0.022558
+ 7.  tanya               | Impact: -0.017141
+ 8.  credit              | Impact: -0.015962
+ 9.  if                  | Impact: -0.014642
+10.  of                  | Impact: -0.011209
+11.  .                   | Impact: -0.011180
+12.  any                 | Impact: -0.009242
+13. s                    | Impact: -0.002135
+14.                      | Impact: -0.000001
+15.                      | Impact: -0.000000

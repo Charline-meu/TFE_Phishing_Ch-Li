@@ -1,0 +1,69 @@
+Sample 244
+==========
+
+Sample text preview: BONJOUR, JE ME NOMME NADEGE BAMBA ANS NATIONALITE iVOIRIENNES'IL VOUS PLAIT NE SOYEZ PAS EMBARASSER,J'AI BESOIN DE VOTRE ATTENTION POUR M'AIDER A TRAN...
+
+Model prediction: [0.00133979 0.9986602 ]
+Predicted class: PHISHING with 0.9987 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  millions            | Impact: 0.024334 → PHISHING
+ 2.  national            | Impact: 0.020117 → PHISHING
+ 3. ite                  | Impact: 0.018635 → PHISHING
+ 4.  est                 | Impact: 0.016235 → PHISHING
+ 5.  bam                 | Impact: 0.015810 → PHISHING
+ 6.  il                  | Impact: 0.015714 → PHISHING
+ 7.  il                  | Impact: 0.015487 → PHISHING
+ 8.  je                  | Impact: 0.015469 → PHISHING
+ 9.  me                  | Impact: 0.015469 → PHISHING
+10.  sur                 | Impact: 0.015067 → PHISHING
+11.  urgent              | Impact: 0.014907 → PHISHING
+12.  sur                 | Impact: 0.014325 → PHISHING
+13. ba                   | Impact: 0.014268 → PHISHING
+14.  bam                 | Impact: 0.013829 → PHISHING
+15. ba                   | Impact: 0.013829 → PHISHING
+16.  pas                 | Impact: 0.012908 → PHISHING
+17.  vo                  | Impact: 0.012888 → PHISHING
+18.  nad                 | Impact: 0.011934 → PHISHING
+19. ege                  | Impact: 0.011934 → PHISHING
+20.  sept                | Impact: 0.011034 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  millions            | Impact: 0.024334
+ 2.  national            | Impact: 0.020117
+ 3. ite                  | Impact: 0.018635
+ 4.  est                 | Impact: 0.016235
+ 5.  bam                 | Impact: 0.015810
+ 6.  il                  | Impact: 0.015714
+ 7.  il                  | Impact: 0.015487
+ 8.  je                  | Impact: 0.015469
+ 9.  me                  | Impact: 0.015469
+10.  sur                 | Impact: 0.015067
+11.  urgent              | Impact: 0.014907
+12.  sur                 | Impact: 0.014325
+13. ba                   | Impact: 0.014268
+14.  bam                 | Impact: 0.013829
+15. ba                   | Impact: 0.013829
+16.  pas                 | Impact: 0.012908
+17.  vo                  | Impact: 0.012888
+18.  nad                 | Impact: 0.011934
+19. ege                  | Impact: 0.011934
+20.  sept                | Impact: 0.011034
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.002797
+ 2.  (                   | Impact: -0.001789
+ 3.  com                 | Impact: -0.001638
+ 4. pt                   | Impact: -0.001638
+ 5. e                    | Impact: -0.001638
+ 6.  .                   | Impact: -0.001638
+ 7.                      | Impact: -0.001420
+ 8.  bon                 | Impact: -0.001420
+ 9. jou                  | Impact: -0.001420
+10. r                    | Impact: -0.001420
+11.  ,                   | Impact: -0.000127
+12.  aus                 | Impact: -0.000004
+13. si                   | Impact: -0.000004
+14.  ,                   | Impact: -0.000004

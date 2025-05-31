@@ -1,0 +1,75 @@
+Phishing Sample 8
+=================
+
+Sample text preview: This is a MIME Message ------=_NextPart__F_BDFC.FABACB Content-Type: multipart/alternative; boundary="----=_NextPart___BDFC.FABACB" ------=_NextPart__...
+
+Model prediction: [2.3813767e-04 9.9976188e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  necessary           | Impact: 0.009739 → PHISHING
+ 2.  to                  | Impact: 0.009739 → PHISHING
+ 3.  establish           | Impact: 0.009739 → PHISHING
+ 4.  your                | Impact: 0.009739 → PHISHING
+ 5.  can                 | Impact: 0.009532 → PHISHING
+ 6.  have                | Impact: 0.009532 → PHISHING
+ 7.  your                | Impact: 0.009532 → PHISHING
+ 8.  account             | Impact: 0.009532 → PHISHING
+ 9.  merchant            | Impact: 0.009020 → PHISHING
+10.  account             | Impact: 0.009020 → PHISHING
+11.  =                   | Impact: 0.009020 → PHISHING
+12.  e                   | Impact: 0.009020 → PHISHING
+13.  once                | Impact: 0.008420 → PHISHING
+14.  returned            | Impact: 0.008420 → PHISHING
+15.  we                  | Impact: 0.008420 → PHISHING
+16.  =                   | Impact: 0.008420 → PHISHING
+17.  =                   | Impact: 0.005475 → PHISHING
+18.  e                   | Impact: 0.005475 → PHISHING
+19.  upon                | Impact: 0.005475 → PHISHING
+20.  receipt             | Impact: 0.005475 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  necessary           | Impact: 0.009739
+ 2.  to                  | Impact: 0.009739
+ 3.  establish           | Impact: 0.009739
+ 4.  your                | Impact: 0.009739
+ 5.  can                 | Impact: 0.009532
+ 6.  have                | Impact: 0.009532
+ 7.  your                | Impact: 0.009532
+ 8.  account             | Impact: 0.009532
+ 9.  merchant            | Impact: 0.009020
+10.  account             | Impact: 0.009020
+11.  =                   | Impact: 0.009020
+12.  e                   | Impact: 0.009020
+13.  once                | Impact: 0.008420
+14.  returned            | Impact: 0.008420
+15.  we                  | Impact: 0.008420
+16.  =                   | Impact: 0.008420
+17.  =                   | Impact: 0.005475
+18.  e                   | Impact: 0.005475
+19.  upon                | Impact: 0.005475
+20.  receipt             | Impact: 0.005475
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  fa                  | Impact: -0.000107
+ 2. ba                   | Impact: -0.000107
+ 3. cb                   | Impact: -0.000107
+ 4.  content             | Impact: -0.000107
+ 5.  -                   | Impact: -0.000107
+ 6.  type                | Impact: -0.000107
+ 7.  :                   | Impact: -0.000107
+ 8.  multi               | Impact: -0.000107
+ 9. par                  | Impact: -0.000107
+10. t                    | Impact: -0.000107
+11.  /                   | Impact: -0.000107
+12.  alternative         | Impact: -0.000107
+13.  ;                   | Impact: -0.000107
+14.  boundary            | Impact: -0.000107
+15.  =                   | Impact: -0.000107
+16.  "                   | Impact: -0.000107
+17.  -                   | Impact: -0.000107
+18.  -                   | Impact: -0.000107
+19.  -                   | Impact: -0.000107
+20.  -                   | Impact: -0.000107

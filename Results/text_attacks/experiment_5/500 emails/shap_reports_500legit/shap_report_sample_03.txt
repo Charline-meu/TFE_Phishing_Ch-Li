@@ -1,0 +1,75 @@
+Sample 3
+========
+
+Sample text preview: On Sep , :pm, Daniel Quinlan wrote: > Allen Smith writes: > > > Well, I have been doing a bit of fiddling with the GA. I don't have > > a _large_ corp...
+
+Model prediction: [9.9977893e-01 2.2108096e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  benjamin            | Impact: -0.006726 → LEGITIMATE
+ 2.  -                   | Impact: -0.006198 → LEGITIMATE
+ 3.  franklin            | Impact: -0.004442 → LEGITIMATE
+ 4.  "                   | Impact: -0.003881 → LEGITIMATE
+ 5.  live                | Impact: 0.002884 → PHISHING
+ 6.  >                   | Impact: -0.002747 → LEGITIMATE
+ 7.  >                   | Impact: -0.002706 → LEGITIMATE
+ 8.  .                   | Impact: -0.002399 → LEGITIMATE
+ 9.  >                   | Impact: -0.002132 → LEGITIMATE
+10.  deserve             | Impact: 0.001942 → PHISHING
+11.  ga                  | Impact: -0.001894 → LEGITIMATE
+12.  in                  | Impact: 0.001822 → PHISHING
+13.  safety              | Impact: 0.001664 → PHISHING
+14.  .                   | Impact: -0.001660 → LEGITIMATE
+15.  >                   | Impact: -0.001611 → LEGITIMATE
+16.  safety              | Impact: 0.001326 → PHISHING
+17.  -                   | Impact: -0.001299 → LEGITIMATE
+18.  -                   | Impact: -0.001290 → LEGITIMATE
+19.  corpus              | Impact: -0.001286 → LEGITIMATE
+20.  allen               | Impact: -0.001279 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  live                | Impact: 0.002884
+ 2.  deserve             | Impact: 0.001942
+ 3.  in                  | Impact: 0.001822
+ 4.  safety              | Impact: 0.001664
+ 5.  safety              | Impact: 0.001326
+ 6.  nor                 | Impact: 0.001086
+ 7.  a                   | Impact: 0.000917
+ 8.  day                 | Impact: 0.000917
+ 9.  someone             | Impact: 0.000896
+10.  needs               | Impact: 0.000896
+11.  obtain              | Impact: 0.000864
+12.  a                   | Impact: 0.000864
+13.  liberty             | Impact: 0.000831
+14.  to                  | Impact: 0.000831
+15.  they                | Impact: 0.000704
+16.  in                  | Impact: 0.000676
+17. fa                   | Impact: 0.000676
+18. my                   | Impact: 0.000676
+19.  ii                  | Impact: 0.000602
+20.  to                  | Impact: 0.000563
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  benjamin            | Impact: -0.006726
+ 2.  -                   | Impact: -0.006198
+ 3.  franklin            | Impact: -0.004442
+ 4.  "                   | Impact: -0.003881
+ 5.  >                   | Impact: -0.002747
+ 6.  >                   | Impact: -0.002706
+ 7.  .                   | Impact: -0.002399
+ 8.  >                   | Impact: -0.002132
+ 9.  ga                  | Impact: -0.001894
+10.  .                   | Impact: -0.001660
+11.  >                   | Impact: -0.001611
+12.  -                   | Impact: -0.001299
+13.  -                   | Impact: -0.001290
+14.  corpus              | Impact: -0.001286
+15.  allen               | Impact: -0.001279
+16.  smith               | Impact: -0.001279
+17.  september           | Impact: -0.001279
+18.  /                   | Impact: -0.001246
+19.  scores              | Impact: -0.001246
+20.  -                   | Impact: -0.001244

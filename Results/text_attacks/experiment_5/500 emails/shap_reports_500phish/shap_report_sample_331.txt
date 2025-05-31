@@ -1,0 +1,68 @@
+Sample 331
+==========
+
+Sample text preview: To All, Due to routine maintenance and enhancements, the following programs or systems access will not be available for use. Network Systems • Access ...
+
+Model prediction: [0.00186319 0.99813676]
+Predicted class: PHISHING with 0.9981 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  you                 | Impact: 0.035226 → PHISHING
+ 2.  <                   | Impact: 0.035042 → PHISHING
+ 3.  maintain            | Impact: 0.027129 → PHISHING
+ 4.  here                | Impact: 0.027129 → PHISHING
+ 5.  here                | Impact: 0.026452 → PHISHING
+ 6.  maintain            | Impact: 0.024624 → PHISHING
+ 7.  please              | Impact: 0.022775 → PHISHING
+ 8.  within              | Impact: 0.021402 → PHISHING
+ 9.  <                   | Impact: 0.020677 → PHISHING
+10.  access              | Impact: 0.020677 → PHISHING
+11.  services            | Impact: 0.018970 → PHISHING
+12.  your                | Impact: 0.018449 → PHISHING
+13.  give                | Impact: 0.015325 → PHISHING
+14.  hours               | Impact: 0.014542 → PHISHING
+15.  access              | Impact: 0.013502 → PHISHING
+16.  done                | Impact: 0.011968 → PHISHING
+17.  within              | Impact: 0.011968 → PHISHING
+18.  complete            | Impact: 0.011919 → PHISHING
+19.  information         | Impact: 0.011919 → PHISHING
+20.  be                  | Impact: 0.011654 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.035226
+ 2.  <                   | Impact: 0.035042
+ 3.  maintain            | Impact: 0.027129
+ 4.  here                | Impact: 0.027129
+ 5.  here                | Impact: 0.026452
+ 6.  maintain            | Impact: 0.024624
+ 7.  please              | Impact: 0.022775
+ 8.  within              | Impact: 0.021402
+ 9.  <                   | Impact: 0.020677
+10.  access              | Impact: 0.020677
+11.  services            | Impact: 0.018970
+12.  your                | Impact: 0.018449
+13.  give                | Impact: 0.015325
+14.  hours               | Impact: 0.014542
+15.  access              | Impact: 0.013502
+16.  done                | Impact: 0.011968
+17.  within              | Impact: 0.011968
+18.  complete            | Impact: 0.011919
+19.  information         | Impact: 0.011919
+20.  be                  | Impact: 0.011654
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.005078
+ 2.  thank               | Impact: -0.003425
+ 3.  you                 | Impact: -0.003425
+ 4.  systems             | Impact: -0.003044
+ 5.  programs            | Impact: -0.003044
+ 6.  or                  | Impact: -0.002978
+ 7.  log                 | Impact: -0.002912
+ 8.  -                   | Impact: -0.002912
+ 9.  or                  | Impact: -0.001527
+10.  the                 | Impact: -0.001428
+11.  following           | Impact: -0.001428
+12.  programs            | Impact: -0.001428
+13.  .                   | Impact: -0.001209

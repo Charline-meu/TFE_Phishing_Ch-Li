@@ -1,0 +1,61 @@
+Sample 157
+==========
+
+Sample text preview: Dear Madam/Sir, I greet you in the Name of GOD. I am MRS REBECCA ATKINS from South Africa. I am married to Late MR SMITH ATKINS of blessed memory who ...
+
+Model prediction: [1.5949362e-04 9.9984050e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  to                  | Impact: 0.007761 → PHISHING
+ 2.  you                 | Impact: 0.007761 → PHISHING
+ 3.  by                  | Impact: 0.007761 → PHISHING
+ 4.  me                  | Impact: 0.007761 → PHISHING
+ 5.  authorization       | Impact: 0.006631 → PHISHING
+ 6.  through             | Impact: 0.006631 → PHISHING
+ 7.  the                 | Impact: 0.006631 → PHISHING
+ 8.  family              | Impact: 0.006631 → PHISHING
+ 9.  attorney            | Impact: 0.006631 → PHISHING
+10.  for                 | Impact: 0.006631 → PHISHING
+11.  you                 | Impact: 0.006631 → PHISHING
+12.  to                  | Impact: 0.006631 → PHISHING
+13.  my                  | Impact: 0.006508 → PHISHING
+14.  confidential        | Impact: 0.006508 → PHISHING
+15.  email               | Impact: 0.006508 → PHISHING
+16.  address             | Impact: 0.006508 → PHISHING
+17.  i                   | Impact: 0.006363 → PHISHING
+18.  will                | Impact: 0.006363 → PHISHING
+19.  give                | Impact: 0.006363 → PHISHING
+20.  you                 | Impact: 0.006363 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.007761
+ 2.  you                 | Impact: 0.007761
+ 3.  by                  | Impact: 0.007761
+ 4.  me                  | Impact: 0.007761
+ 5.  authorization       | Impact: 0.006631
+ 6.  through             | Impact: 0.006631
+ 7.  the                 | Impact: 0.006631
+ 8.  family              | Impact: 0.006631
+ 9.  attorney            | Impact: 0.006631
+10.  for                 | Impact: 0.006631
+11.  you                 | Impact: 0.006631
+12.  to                  | Impact: 0.006631
+13.  my                  | Impact: 0.006508
+14.  confidential        | Impact: 0.006508
+15.  email               | Impact: 0.006508
+16.  address             | Impact: 0.006508
+17.  i                   | Impact: 0.006363
+18.  will                | Impact: 0.006363
+19.  give                | Impact: 0.006363
+20.  you                 | Impact: 0.006363
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  for                 | Impact: -0.000487
+ 2.  security            | Impact: -0.000487
+ 3.  reasons             | Impact: -0.000487
+ 4.  .                   | Impact: -0.000487
+ 5.  /                   | Impact: -0.000487
+ 6.  treasure            | Impact: -0.000487

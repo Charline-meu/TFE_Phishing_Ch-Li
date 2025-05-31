@@ -1,0 +1,75 @@
+Phishing Sample 44
+==================
+
+Sample text preview: From:John Tanga. TEl:+, Abidjan Afrika. Good Day Dear, I feel it is very neccessary to bring to you the problem we are facing and I believe that you w...
+
+Model prediction: [1.7526514e-04 9.9982482e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  yours               | Impact: 0.012491 → PHISHING
+ 2.  sincerely           | Impact: 0.012491 → PHISHING
+ 3.  john                | Impact: 0.012491 → PHISHING
+ 4.  move                | Impact: 0.009195 → PHISHING
+ 5.  this                | Impact: 0.009195 → PHISHING
+ 6.  money               | Impact: 0.009195 → PHISHING
+ 7.  out                 | Impact: 0.009195 → PHISHING
+ 8.  father              | Impact: 0.008593 → PHISHING
+ 9.  is                  | Impact: 0.008593 → PHISHING
+10.  as                  | Impact: 0.007688 → PHISHING
+11.  your                | Impact: 0.007688 → PHISHING
+12.  children            | Impact: 0.007688 → PHISHING
+13.  tang                | Impact: 0.007635 → PHISHING
+14. a                    | Impact: 0.007635 → PHISHING
+15.  .                   | Impact: 0.007635 → PHISHING
+16.  my                  | Impact: 0.006739 → PHISHING
+17.  late                | Impact: 0.006739 → PHISHING
+18.  until               | Impact: 0.006629 → PHISHING
+19. l                    | Impact: 0.006629 → PHISHING
+20.  into                | Impact: 0.006437 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  yours               | Impact: 0.012491
+ 2.  sincerely           | Impact: 0.012491
+ 3.  john                | Impact: 0.012491
+ 4.  move                | Impact: 0.009195
+ 5.  this                | Impact: 0.009195
+ 6.  money               | Impact: 0.009195
+ 7.  out                 | Impact: 0.009195
+ 8.  father              | Impact: 0.008593
+ 9.  is                  | Impact: 0.008593
+10.  as                  | Impact: 0.007688
+11.  your                | Impact: 0.007688
+12.  children            | Impact: 0.007688
+13.  tang                | Impact: 0.007635
+14. a                    | Impact: 0.007635
+15.  .                   | Impact: 0.007635
+16.  my                  | Impact: 0.006739
+17.  late                | Impact: 0.006739
+18.  until               | Impact: 0.006629
+19. l                    | Impact: 0.006629
+20.  into                | Impact: 0.006437
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.000895
+ 2.  -                   | Impact: -0.000895
+ 3.  -                   | Impact: -0.000895
+ 4.  -                   | Impact: -0.000895
+ 5.  -                   | Impact: -0.000879
+ 6.  -                   | Impact: -0.000879
+ 7.  -                   | Impact: -0.000879
+ 8.  -                   | Impact: -0.000879
+ 9.  -                   | Impact: -0.000739
+10.  -                   | Impact: -0.000739
+11.  -                   | Impact: -0.000739
+12.  -                   | Impact: -0.000739
+13.  -                   | Impact: -0.000704
+14.  -                   | Impact: -0.000704
+15.  -                   | Impact: -0.000704
+16.  -                   | Impact: -0.000704
+17.  ji                  | Impact: -0.000475
+18. yo                   | Impact: -0.000475
+19.  cricket             | Impact: -0.000475
+20.  on                  | Impact: -0.000475

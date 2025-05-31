@@ -1,0 +1,75 @@
+Sample 19
+=========
+
+Sample text preview: ignore ----- Original Message ----- From: "Christopher VanOosterhout" To: Sent: Thursday, July , : AM Subject: [Razor-users] unsubscribe > unsubscribe...
+
+Model prediction: [9.9978775e-01 2.1230882e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.001916 → LEGITIMATE
+ 2.  john                | Impact: -0.001916 → LEGITIMATE
+ 3.  andersen            | Impact: -0.001916 → LEGITIMATE
+ 4.  /                   | Impact: -0.001916 → LEGITIMATE
+ 5.  (                   | Impact: -0.001358 → LEGITIMATE
+ 6.  _                   | Impact: -0.000941 → LEGITIMATE
+ 7.  _                   | Impact: -0.000941 → LEGITIMATE
+ 8.  _                   | Impact: -0.000941 → LEGITIMATE
+ 9.  >                   | Impact: -0.000941 → LEGITIMATE
+10.  time                | Impact: -0.000804 → LEGITIMATE
+11.  communications      | Impact: -0.000804 → LEGITIMATE
+12.  platform            | Impact: -0.000804 → LEGITIMATE
+13.  !                   | Impact: -0.000804 → LEGITIMATE
+14.  real                | Impact: -0.000804 → LEGITIMATE
+15.  -                   | Impact: -0.000804 → LEGITIMATE
+16.  net                 | Impact: -0.000787 → LEGITIMATE
+17.  email               | Impact: -0.000787 → LEGITIMATE
+18.  is                  | Impact: -0.000787 → LEGITIMATE
+19.  sponsored           | Impact: -0.000787 → LEGITIMATE
+20.  by                  | Impact: -0.000787 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  _                   | Impact: 0.000748
+ 2.  _                   | Impact: 0.000748
+ 3.  _                   | Impact: 0.000748
+ 4.  _                   | Impact: 0.000748
+ 5.  _                   | Impact: 0.000618
+ 6.  _                   | Impact: 0.000618
+ 7.  _                   | Impact: 0.000618
+ 8.  _                   | Impact: 0.000618
+ 9.  _                   | Impact: 0.000618
+10.  _                   | Impact: 0.000618
+11.  _                   | Impact: 0.000618
+12.  _                   | Impact: 0.000618
+13.  _                   | Impact: 0.000571
+14.  _                   | Impact: 0.000571
+15.  _                   | Impact: 0.000571
+16.  _                   | Impact: 0.000571
+17.  _                   | Impact: 0.000544
+18.  _                   | Impact: 0.000544
+19.  _                   | Impact: 0.000544
+20.  _                   | Impact: 0.000544
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.001916
+ 2.  john                | Impact: -0.001916
+ 3.  andersen            | Impact: -0.001916
+ 4.  /                   | Impact: -0.001916
+ 5.  (                   | Impact: -0.001358
+ 6.  _                   | Impact: -0.000941
+ 7.  _                   | Impact: -0.000941
+ 8.  _                   | Impact: -0.000941
+ 9.  >                   | Impact: -0.000941
+10.  time                | Impact: -0.000804
+11.  communications      | Impact: -0.000804
+12.  platform            | Impact: -0.000804
+13.  !                   | Impact: -0.000804
+14.  real                | Impact: -0.000804
+15.  -                   | Impact: -0.000804
+16.  net                 | Impact: -0.000787
+17.  email               | Impact: -0.000787
+18.  is                  | Impact: -0.000787
+19.  sponsored           | Impact: -0.000787
+20.  by                  | Impact: -0.000787

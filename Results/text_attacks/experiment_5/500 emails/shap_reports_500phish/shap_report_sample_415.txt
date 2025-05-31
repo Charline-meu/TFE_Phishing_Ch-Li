@@ -1,0 +1,75 @@
+Sample 415
+==========
+
+Sample text preview: February , Schwab Notification: Action Required Do not Ignore Dear Customer, You have a new security message notifications from CHARLES SCHWAB For sec...
+
+Model prediction: [0.00192038 0.99807966]
+Predicted class: PHISHING with 0.9981 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ignore              | Impact: 0.066001 → PHISHING
+ 2.  dear                | Impact: 0.066001 → PHISHING
+ 3.  customer            | Impact: 0.066001 → PHISHING
+ 4.  (                   | Impact: -0.048296 → LEGITIMATE
+ 5.  your                | Impact: 0.041898 → PHISHING
+ 6.  email               | Impact: 0.041898 → PHISHING
+ 7.  address             | Impact: 0.041898 → PHISHING
+ 8.  sent                | Impact: 0.041898 → PHISHING
+ 9.  -                   | Impact: -0.034296 → LEGITIMATE
+10.  )                   | Impact: -0.034296 → LEGITIMATE
+11.  placed              | Impact: 0.020859 → PHISHING
+12.  on                  | Impact: 0.020859 → PHISHING
+13.  your                | Impact: 0.020859 → PHISHING
+14.  account             | Impact: 0.020859 → PHISHING
+15.  february            | Impact: -0.018723 → LEGITIMATE
+16.  for                 | Impact: 0.016638 → PHISHING
+17.  your                | Impact: 0.016638 → PHISHING
+18.  protection          | Impact: 0.016638 → PHISHING
+19.  in                  | Impact: 0.016606 → PHISHING
+20.  reply               | Impact: 0.016606 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  ignore              | Impact: 0.066001
+ 2.  dear                | Impact: 0.066001
+ 3.  customer            | Impact: 0.066001
+ 4.  your                | Impact: 0.041898
+ 5.  email               | Impact: 0.041898
+ 6.  address             | Impact: 0.041898
+ 7.  sent                | Impact: 0.041898
+ 8.  placed              | Impact: 0.020859
+ 9.  on                  | Impact: 0.020859
+10.  your                | Impact: 0.020859
+11.  account             | Impact: 0.020859
+12.  for                 | Impact: 0.016638
+13.  your                | Impact: 0.016638
+14.  protection          | Impact: 0.016638
+15.  in                  | Impact: 0.016606
+16.  reply               | Impact: 0.016606
+17.  to                  | Impact: 0.016606
+18.  this                | Impact: 0.016606
+19.  message             | Impact: 0.016606
+20.  .                   | Impact: 0.016606
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.048296
+ 2.  -                   | Impact: -0.034296
+ 3.  )                   | Impact: -0.034296
+ 4.  february            | Impact: -0.018723
+ 5.                      | Impact: -0.008667
+ 6.  inc                 | Impact: -0.008413
+ 7.  .                   | Impact: -0.008413
+ 8.  at                  | Impact: -0.008296
+ 9.  -                   | Impact: -0.008296
+10.  -                   | Impact: -0.008296
+11.  .                   | Impact: -0.008296
+12.  please              | Impact: -0.008255
+13.  contact             | Impact: -0.008255
+14.  the                 | Impact: -0.008255
+15.  sc                  | Impact: -0.008255
+16. hwa                  | Impact: -0.008255
+17. b                    | Impact: -0.008255
+18.  alliance            | Impact: -0.008255
+19.  team                | Impact: -0.008255
+20.  learn               | Impact: -0.007317

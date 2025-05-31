@@ -1,0 +1,75 @@
+Sample 418
+==========
+
+Sample text preview: We offer some of the best bulk e-mail prices on the Internet. We do all the mailing for you. You just provide us with the ad! It's that simple! prices...
+
+Model prediction: [5.6472316e-04 9.9943525e-01]
+Predicted class: PHISHING with 0.9994 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  million             | Impact: 0.040178 → PHISHING
+ 2.  free                | Impact: 0.038205 → PHISHING
+ 3.  you                 | Impact: 0.037524 → PHISHING
+ 4.  for                 | Impact: 0.033042 → PHISHING
+ 5.  prices              | Impact: 0.030720 → PHISHING
+ 6.  you                 | Impact: 0.029079 → PHISHING
+ 7.  a                   | Impact: 0.029079 → PHISHING
+ 8.  mail                | Impact: 0.028629 → PHISHING
+ 9.  e                   | Impact: 0.028208 → PHISHING
+10.  bulk                | Impact: 0.027568 → PHISHING
+11.  we                  | Impact: 0.027304 → PHISHING
+12.  offer               | Impact: 0.027043 → PHISHING
+13.  provide             | Impact: 0.024876 → PHISHING
+14.  internet            | Impact: 0.024383 → PHISHING
+15.  sent                | Impact: 0.022346 → PHISHING
+16.  best                | Impact: 0.022135 → PHISHING
+17.  us                  | Impact: 0.020365 → PHISHING
+18. er                   | Impact: -0.020322 → LEGITIMATE
+19.  mail                | Impact: 0.018505 → PHISHING
+20. ing                  | Impact: 0.018505 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  million             | Impact: 0.040178
+ 2.  free                | Impact: 0.038205
+ 3.  you                 | Impact: 0.037524
+ 4.  for                 | Impact: 0.033042
+ 5.  prices              | Impact: 0.030720
+ 6.  you                 | Impact: 0.029079
+ 7.  a                   | Impact: 0.029079
+ 8.  mail                | Impact: 0.028629
+ 9.  e                   | Impact: 0.028208
+10.  bulk                | Impact: 0.027568
+11.  we                  | Impact: 0.027304
+12.  offer               | Impact: 0.027043
+13.  provide             | Impact: 0.024876
+14.  internet            | Impact: 0.024383
+15.  sent                | Impact: 0.022346
+16.  best                | Impact: 0.022135
+17.  us                  | Impact: 0.020365
+18.  mail                | Impact: 0.018505
+19. ing                  | Impact: 0.018505
+20.  you                 | Impact: 0.017187
+
+Top features pushing towards LEGITIMATE classification:
+ 1. er                   | Impact: -0.020322
+ 2.  irish               | Impact: -0.009393
+ 3.  linux               | Impact: -0.009393
+ 4.  for                 | Impact: -0.009115
+ 5.  events              | Impact: -0.008755
+ 6.  :                   | Impact: -0.008755
+ 7.  -                   | Impact: -0.006057
+ 8.  -                   | Impact: -0.006057
+ 9.  .                   | Impact: -0.005216
+10.  cd                  | Impact: -0.004160
+11.  with                | Impact: -0.004160
+12.  tools               | Impact: -0.004160
+13.  maintain            | Impact: -0.003751
+14.  (                   | Impact: -0.002854
+15.  un                  | Impact: -0.002854
+16.  )                   | Impact: -0.002854
+17.  users               | Impact: -0.002467
+18.  '                   | Impact: -0.002467
+19.  group               | Impact: -0.002467
+20.  social              | Impact: -0.002467

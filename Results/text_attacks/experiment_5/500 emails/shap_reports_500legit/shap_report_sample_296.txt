@@ -1,0 +1,75 @@
+Sample 296
+==========
+
+Sample text preview: I've been working with Laura Wente to locate these documents for a couple days, and I think I've found what you need. If you could call or e-mail with...
+
+Model prediction: [9.9966896e-01 3.3106553e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  kate                | Impact: -0.111826 → LEGITIMATE
+ 2.  laura               | Impact: -0.076935 → LEGITIMATE
+ 3.  analyses            | Impact: -0.046043 → LEGITIMATE
+ 4.  your                | Impact: 0.045117 → PHISHING
+ 5.  e                   | Impact: -0.038081 → LEGITIMATE
+ 6.  ex                  | Impact: 0.030184 → PHISHING
+ 7. is                   | Impact: -0.028869 → LEGITIMATE
+ 8.  .                   | Impact: -0.022383 → LEGITIMATE
+ 9.  send                | Impact: 0.017492 → PHISHING
+10.  number              | Impact: 0.016887 → PHISHING
+11.  click               | Impact: 0.014502 → PHISHING
+12.  and                 | Impact: 0.014306 → PHISHING
+13.  process             | Impact: 0.014076 → PHISHING
+14.  number              | Impact: 0.013782 → PHISHING
+15.  fa                  | Impact: 0.012100 → PHISHING
+16. x                    | Impact: 0.012100 → PHISHING
+17.  ne                  | Impact: -0.011758 → LEGITIMATE
+18. pa                   | Impact: -0.011758 → LEGITIMATE
+19.  to                  | Impact: 0.011725 → PHISHING
+20.  you                 | Impact: 0.011725 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.045117
+ 2.  ex                  | Impact: 0.030184
+ 3.  send                | Impact: 0.017492
+ 4.  number              | Impact: 0.016887
+ 5.  click               | Impact: 0.014502
+ 6.  and                 | Impact: 0.014306
+ 7.  process             | Impact: 0.014076
+ 8.  number              | Impact: 0.013782
+ 9.  fa                  | Impact: 0.012100
+10. x                    | Impact: 0.012100
+11.  to                  | Impact: 0.011725
+12.  you                 | Impact: 0.011725
+13.  documents           | Impact: 0.011327
+14.  mail                | Impact: 0.011234
+15.  with                | Impact: 0.011234
+16. ped                  | Impact: 0.011127
+17.  these               | Impact: 0.010369
+18.  phone               | Impact: 0.007476
+19.  ll                  | Impact: 0.007215
+20.  to                  | Impact: 0.007201
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  kate                | Impact: -0.111826
+ 2.  laura               | Impact: -0.076935
+ 3.  analyses            | Impact: -0.046043
+ 4.  e                   | Impact: -0.038081
+ 5. is                   | Impact: -0.028869
+ 6.  .                   | Impact: -0.022383
+ 7.  ne                  | Impact: -0.011758
+ 8. pa                   | Impact: -0.011758
+ 9.  working             | Impact: -0.011606
+10.  with                | Impact: -0.011606
+11.  call                | Impact: -0.010223
+12.  ,                   | Impact: -0.009165
+13.  .                   | Impact: -0.007899
+14.  .                   | Impact: -0.006910
+15.  couple              | Impact: -0.004681
+16.  days                | Impact: -0.004681
+17.  could               | Impact: -0.004425
+18.  if                  | Impact: -0.003004
+19.  go                  | Impact: -0.002783
+20.  .                   | Impact: -0.002336

@@ -1,0 +1,75 @@
+Sample 446
+==========
+
+Sample text preview: On Sun, Oct , at ::PM +, Declan de Lacy Murphy wrote: > I am planning to get i-stream solo and share it across a small network > (wireless), but I don...
+
+Model prediction: [9.9980229e-01 1.9775271e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.007537 → LEGITIMATE
+ 2.  products            | Impact: -0.005578 → LEGITIMATE
+ 3.  technology          | Impact: -0.004994 → LEGITIMATE
+ 4.  :                   | Impact: -0.004458 → LEGITIMATE
+ 5.  pm                  | Impact: -0.004402 → LEGITIMATE
+ 6.  :                   | Impact: -0.004311 → LEGITIMATE
+ 7.  maintain            | Impact: -0.002603 → LEGITIMATE
+ 8.  route               | Impact: -0.002602 → LEGITIMATE
+ 9. r                    | Impact: -0.002602 → LEGITIMATE
+10.  the                 | Impact: -0.002593 → LEGITIMATE
+11.  documentation       | Impact: -0.002593 → LEGITIMATE
+12.  :                   | Impact: -0.002480 → LEGITIMATE
+13.  at                  | Impact: -0.002457 → LEGITIMATE
+14.  number              | Impact: -0.002428 → LEGITIMATE
+15.  of                  | Impact: -0.002428 → LEGITIMATE
+16.  pp                  | Impact: -0.002352 → LEGITIMATE
+17. po                   | Impact: -0.002352 → LEGITIMATE
+18.  it                  | Impact: -0.002197 → LEGITIMATE
+19.  features            | Impact: -0.002154 → LEGITIMATE
+20.  >                   | Impact: -0.001902 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  oct                 | Impact: 0.001287
+ 2.  ,                   | Impact: 0.001148
+ 3.  last                | Impact: 0.000589
+ 4.  august              | Impact: 0.000589
+ 5.  and                 | Impact: 0.000537
+ 6.  and                 | Impact: 0.000425
+ 7.                      | Impact: 0.000392
+ 8.  on                  | Impact: 0.000392
+ 9.  sun                 | Impact: 0.000392
+10.  ,                   | Impact: 0.000261
+11.  but                 | Impact: 0.000193
+12.  the                 | Impact: 0.000193
+13.  guys                | Impact: 0.000193
+14.  from                | Impact: 0.000193
+15.  will                | Impact: 0.000193
+16.  help                | Impact: 0.000133
+17.  you                 | Impact: 0.000133
+18.  ou                  | Impact: 0.000133
+19. it                   | Impact: 0.000133
+20.  .                   | Impact: 0.000133
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.007537
+ 2.  products            | Impact: -0.005578
+ 3.  technology          | Impact: -0.004994
+ 4.  :                   | Impact: -0.004458
+ 5.  pm                  | Impact: -0.004402
+ 6.  :                   | Impact: -0.004311
+ 7.  maintain            | Impact: -0.002603
+ 8.  route               | Impact: -0.002602
+ 9. r                    | Impact: -0.002602
+10.  the                 | Impact: -0.002593
+11.  documentation       | Impact: -0.002593
+12.  :                   | Impact: -0.002480
+13.  at                  | Impact: -0.002457
+14.  number              | Impact: -0.002428
+15.  of                  | Impact: -0.002428
+16.  pp                  | Impact: -0.002352
+17. po                   | Impact: -0.002352
+18.  it                  | Impact: -0.002197
+19.  features            | Impact: -0.002154
+20.  >                   | Impact: -0.001902

@@ -1,0 +1,75 @@
+Sample 438
+==========
+
+Sample text preview: >>>>> "E" == Eugen Leitl writes: E> ... Moreover, worms which use email as vector exist *only* E> because a single vendor ships mailers with broken de...
+
+Model prediction: [9.9975413e-01 2.4586264e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.023597 → LEGITIMATE
+ 2.  =                   | Impact: 0.020083 → PHISHING
+ 3.  writes              | Impact: -0.011956 → LEGITIMATE
+ 4.  live                | Impact: 0.011135 → PHISHING
+ 5.  =                   | Impact: 0.009868 → PHISHING
+ 6.  >                   | Impact: -0.009308 → LEGITIMATE
+ 7.  suppose             | Impact: -0.008813 → LEGITIMATE
+ 8.  >                   | Impact: -0.008742 → LEGITIMATE
+ 9.  e                   | Impact: -0.008090 → LEGITIMATE
+10.  (                   | Impact: -0.006982 → LEGITIMATE
+11.  shipping            | Impact: 0.006860 → PHISHING
+12.  stop                | Impact: 0.006663 → PHISHING
+13.  eugen               | Impact: -0.006092 → LEGITIMATE
+14.  and                 | Impact: 0.005938 → PHISHING
+15.  insists             | Impact: 0.005014 → PHISHING
+16.  will                | Impact: 0.004987 → PHISHING
+17.  you                 | Impact: 0.004699 → PHISHING
+18.  up                  | Impact: -0.004653 → LEGITIMATE
+19.  systems             | Impact: -0.004632 → LEGITIMATE
+20.  ,                   | Impact: -0.004606 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  =                   | Impact: 0.020083
+ 2.  live                | Impact: 0.011135
+ 3.  =                   | Impact: 0.009868
+ 4.  shipping            | Impact: 0.006860
+ 5.  stop                | Impact: 0.006663
+ 6.  and                 | Impact: 0.005938
+ 7.  insists             | Impact: 0.005014
+ 8.  will                | Impact: 0.004987
+ 9.  you                 | Impact: 0.004699
+10.  to                  | Impact: 0.004589
+11.  documents           | Impact: 0.004533
+12.  make                | Impact: 0.003544
+13.  for                 | Impact: 0.002842
+14.  very                | Impact: 0.002842
+15.  such                | Impact: 0.002384
+16.  a                   | Impact: 0.002384
+17.  wise                | Impact: 0.002340
+18.  e                   | Impact: 0.002340
+19.  and                 | Impact: 0.002231
+20.  day                 | Impact: 0.001942
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.023597
+ 2.  writes              | Impact: -0.011956
+ 3.  >                   | Impact: -0.009308
+ 4.  suppose             | Impact: -0.008813
+ 5.  >                   | Impact: -0.008742
+ 6.  e                   | Impact: -0.008090
+ 7.  (                   | Impact: -0.006982
+ 8.  eugen               | Impact: -0.006092
+ 9.  up                  | Impact: -0.004653
+10.  systems             | Impact: -0.004632
+11.  ,                   | Impact: -0.004606
+12.  "                   | Impact: -0.004574
+13.  source              | Impact: -0.003942
+14.  pablo               | Impact: -0.002546
+15.  picasso             | Impact: -0.002546
+16. tl                   | Impact: -0.002478
+17.  )                   | Impact: -0.002382
+18.  :                   | Impact: -0.002352
+19.  murphy              | Impact: -0.002180
+20.  moreover            | Impact: -0.002001

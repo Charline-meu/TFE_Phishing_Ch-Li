@@ -1,0 +1,63 @@
+Sample 83
+=========
+
+Sample text preview: Not at this time. I think as long as Enron is performing, I'm not sure why there is all of this noise. -------------------------- Sent from my BlackBe...
+
+Model prediction: [9.9962866e-01 3.7133199e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  (                   | Impact: 0.062016 → PHISHING
+ 2.  at                  | Impact: -0.014331 → LEGITIMATE
+ 3.  wireless            | Impact: 0.008867 → PHISHING
+ 4. ron                  | Impact: -0.007849 → LEGITIMATE
+ 5.  .                   | Impact: -0.006303 → LEGITIMATE
+ 6.  time                | Impact: 0.006049 → PHISHING
+ 7.  sent                | Impact: 0.005523 → PHISHING
+ 8.  think               | Impact: -0.005491 → LEGITIMATE
+ 9.  en                  | Impact: -0.005250 → LEGITIMATE
+10.  .                   | Impact: -0.004824 → LEGITIMATE
+11.  blackberry          | Impact: -0.004378 → LEGITIMATE
+12.  -                   | Impact: -0.004366 → LEGITIMATE
+13.  handheld            | Impact: -0.003942 → LEGITIMATE
+14.  is                  | Impact: -0.003866 → LEGITIMATE
+15.  performing          | Impact: 0.003554 → PHISHING
+16.  -                   | Impact: -0.003337 → LEGITIMATE
+17.  -                   | Impact: -0.002927 → LEGITIMATE
+18.  my                  | Impact: -0.002880 → LEGITIMATE
+19.  this                | Impact: -0.002730 → LEGITIMATE
+20.  -                   | Impact: -0.002605 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  (                   | Impact: 0.062016
+ 2.  wireless            | Impact: 0.008867
+ 3.  time                | Impact: 0.006049
+ 4.  sent                | Impact: 0.005523
+ 5.  performing          | Impact: 0.003554
+ 6.  from                | Impact: 0.001537
+ 7.  not                 | Impact: 0.000246
+ 8.                      | Impact: 0.000030
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  at                  | Impact: -0.014331
+ 2. ron                  | Impact: -0.007849
+ 3.  .                   | Impact: -0.006303
+ 4.  think               | Impact: -0.005491
+ 5.  en                  | Impact: -0.005250
+ 6.  .                   | Impact: -0.004824
+ 7.  blackberry          | Impact: -0.004378
+ 8.  -                   | Impact: -0.004366
+ 9.  handheld            | Impact: -0.003942
+10.  is                  | Impact: -0.003866
+11.  -                   | Impact: -0.003337
+12.  -                   | Impact: -0.002927
+13.  my                  | Impact: -0.002880
+14.  this                | Impact: -0.002730
+15.  -                   | Impact: -0.002605
+16.  -                   | Impact: -0.002604
+17.  -                   | Impact: -0.002598
+18.  ,                   | Impact: -0.002495
+19.  -                   | Impact: -0.002431
+20.  i                   | Impact: -0.002338

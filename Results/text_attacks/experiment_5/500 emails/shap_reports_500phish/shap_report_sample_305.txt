@@ -1,0 +1,75 @@
+Sample 305
+==========
+
+Sample text preview: Protect your financial well-being. Purchase an Extended Auto Warranty for your Car today. CLICK HERE for a FREE no obligation quote. Car troubles alwa...
+
+Model prediction: [2.2331584e-04 9.9977666e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.094441 → PHISHING
+ 2.  address             | Impact: 0.094441 → PHISHING
+ 3.  financial           | Impact: 0.028402 → PHISHING
+ 4.  easily              | Impact: 0.027047 → PHISHING
+ 5.  remove              | Impact: 0.027047 → PHISHING
+ 6.  your                | Impact: 0.026139 → PHISHING
+ 7.  !                   | Impact: 0.019731 → PHISHING
+ 8.  protect             | Impact: 0.018892 → PHISHING
+ 9.  :                   | Impact: 0.017470 → PHISHING
+10.  please              | Impact: 0.017470 → PHISHING
+11.  allow               | Impact: 0.016251 → PHISHING
+12.  -                   | Impact: 0.016251 → PHISHING
+13.  hours               | Impact: 0.016251 → PHISHING
+14.  for                 | Impact: 0.016251 → PHISHING
+15.  removal             | Impact: 0.016251 → PHISHING
+16.  on                  | Impact: 0.015010 → PHISHING
+17.  your                | Impact: 0.015010 → PHISHING
+18.  go                  | Impact: 0.013894 → PHISHING
+19.  to                  | Impact: 0.013894 → PHISHING
+20.  %                   | Impact: 0.011202 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.094441
+ 2.  address             | Impact: 0.094441
+ 3.  financial           | Impact: 0.028402
+ 4.  easily              | Impact: 0.027047
+ 5.  remove              | Impact: 0.027047
+ 6.  your                | Impact: 0.026139
+ 7.  !                   | Impact: 0.019731
+ 8.  protect             | Impact: 0.018892
+ 9.  :                   | Impact: 0.017470
+10.  please              | Impact: 0.017470
+11.  allow               | Impact: 0.016251
+12.  -                   | Impact: 0.016251
+13.  hours               | Impact: 0.016251
+14.  for                 | Impact: 0.016251
+15.  removal             | Impact: 0.016251
+16.  on                  | Impact: 0.015010
+17.  your                | Impact: 0.015010
+18.  go                  | Impact: 0.013894
+19.  to                  | Impact: 0.013894
+20.  %                   | Impact: 0.011202
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.001527
+ 2.  from                | Impact: -0.001045
+ 3.  the                 | Impact: -0.001045
+ 4.  list                | Impact: -0.001045
+ 5.  ,                   | Impact: -0.001045
+ 6.  rental              | Impact: -0.000693
+ 7.  benefit             | Impact: -0.000693
+ 8.  .                   | Impact: -0.000693
+ 9.  )                   | Impact: -0.000693
+10.  trip                | Impact: -0.000693
+11.  interruption        | Impact: -0.000693
+12.  intervention        | Impact: -0.000693
+13.  .                   | Impact: -0.000693
+14.  )                   | Impact: -0.000693
+15.  -                   | Impact: -0.000248
+16.  hour                | Impact: -0.000248
+17.  roadside            | Impact: -0.000248
+18.  assistance          | Impact: -0.000248
+19.  .                   | Impact: -0.000248
+20.  )                   | Impact: -0.000248

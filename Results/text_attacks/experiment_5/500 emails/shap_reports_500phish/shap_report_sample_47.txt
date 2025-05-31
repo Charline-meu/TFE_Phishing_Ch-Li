@@ -1,0 +1,75 @@
+Sample 47
+=========
+
+Sample text preview: If you need capital for your business or want to know how much it's worth, Call Us Today! Tap the hidden value of your business and get the cash you n...
+
+Model prediction: [2.7419574e-04 9.9972576e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  money               | Impact: 0.069759 → PHISHING
+ 2.  our                 | Impact: 0.030971 → PHISHING
+ 3.  business            | Impact: 0.025345 → PHISHING
+ 4.  coming              | Impact: 0.025289 → PHISHING
+ 5.  of                  | Impact: 0.025212 → PHISHING
+ 6.  your                | Impact: 0.025212 → PHISHING
+ 7.  to                  | Impact: 0.022415 → PHISHING
+ 8.  you                 | Impact: 0.022415 → PHISHING
+ 9.  !                   | Impact: 0.021921 → PHISHING
+10.  information         | Impact: 0.017735 → PHISHING
+11.  name                | Impact: 0.017735 → PHISHING
+12.  removed             | Impact: 0.013943 → PHISHING
+13.  from                | Impact: 0.013943 → PHISHING
+14.  this                | Impact: 0.013943 → PHISHING
+15.  your                | Impact: 0.013477 → PHISHING
+16.  business            | Impact: 0.013477 → PHISHING
+17.  cash                | Impact: 0.013114 → PHISHING
+18.  us                  | Impact: 0.013037 → PHISHING
+19.  you                 | Impact: 0.012550 → PHISHING
+20.  hidden              | Impact: 0.012127 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.069759
+ 2.  our                 | Impact: 0.030971
+ 3.  business            | Impact: 0.025345
+ 4.  coming              | Impact: 0.025289
+ 5.  of                  | Impact: 0.025212
+ 6.  your                | Impact: 0.025212
+ 7.  to                  | Impact: 0.022415
+ 8.  you                 | Impact: 0.022415
+ 9.  !                   | Impact: 0.021921
+10.  information         | Impact: 0.017735
+11.  name                | Impact: 0.017735
+12.  removed             | Impact: 0.013943
+13.  from                | Impact: 0.013943
+14.  this                | Impact: 0.013943
+15.  your                | Impact: 0.013477
+16.  business            | Impact: 0.013477
+17.  cash                | Impact: 0.013114
+18.  us                  | Impact: 0.013037
+19.  you                 | Impact: 0.012550
+20.  hidden              | Impact: 0.012127
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  in                  | Impact: -0.002220
+ 2.  the                 | Impact: -0.002220
+ 3.  form                | Impact: -0.002220
+ 4.  of                  | Impact: -0.002220
+ 5.  renewal             | Impact: -0.002220
+ 6.  commissions         | Impact: -0.002220
+ 7.  ,                   | Impact: -0.002220
+ 8.  you                 | Impact: -0.002126
+ 9.  need                | Impact: -0.002126
+10.  but                 | Impact: -0.002062
+11.  because             | Impact: -0.002062
+12.  it                  | Impact: -0.002062
+13.  '                   | Impact: -0.002062
+14.  s                   | Impact: -0.002062
+15.                      | Impact: -0.001375
+16.  if                  | Impact: -0.001375
+17.  you                 | Impact: -0.000285
+18.  see                 | Impact: -0.000285
+19.  fit                 | Impact: -0.000285
+20.  .                   | Impact: -0.000285

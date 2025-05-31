@@ -1,0 +1,75 @@
+Sample 30
+=========
+
+Sample text preview: I think that this and other articles confuse Socialism with Bureaucracy. Libertarianism as implemented in North America is not exactly the shining pin...
+
+Model prediction: [9.9971074e-01 2.8927642e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  wrote               | Impact: -0.004002 → LEGITIMATE
+ 2.  :                   | Impact: -0.004002 → LEGITIMATE
+ 3.  john                | Impact: -0.003512 → LEGITIMATE
+ 4.  hall                | Impact: -0.003512 → LEGITIMATE
+ 5.  billions            | Impact: 0.002157 → PHISHING
+ 6.  of                  | Impact: 0.002157 → PHISHING
+ 7.  dollars             | Impact: 0.002157 → PHISHING
+ 8.  but                 | Impact: -0.001481 → LEGITIMATE
+ 9.  i                   | Impact: -0.001481 → LEGITIMATE
+10.  recall              | Impact: -0.001481 → LEGITIMATE
+11.  i                   | Impact: -0.001437 → LEGITIMATE
+12.  '                   | Impact: -0.001437 → LEGITIMATE
+13.  m                   | Impact: -0.001437 → LEGITIMATE
+14.  reading             | Impact: -0.001437 → LEGITIMATE
+15.  now                 | Impact: -0.001437 → LEGITIMATE
+16.  .                   | Impact: -0.001437 → LEGITIMATE
+17.  de                  | Impact: -0.001408 → LEGITIMATE
+18.  soto                | Impact: -0.001408 → LEGITIMATE
+19.  is                  | Impact: -0.001408 → LEGITIMATE
+20.  something           | Impact: -0.001408 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  billions            | Impact: 0.002157
+ 2.  of                  | Impact: 0.002157
+ 3.  dollars             | Impact: 0.002157
+ 4.  thousands           | Impact: 0.001017
+ 5.  of                  | Impact: 0.001017
+ 6.  workers             | Impact: 0.001017
+ 7.  when                | Impact: 0.001017
+ 8.  canada              | Impact: 0.000926
+ 9.  .                   | Impact: 0.000926
+10.  they                | Impact: 0.000640
+11.  finished            | Impact: 0.000640
+12.  their               | Impact: 0.000640
+13.  routine             | Impact: 0.000640
+14.  the                 | Impact: 0.000599
+15.  executives          | Impact: 0.000599
+16.  of                  | Impact: 0.000599
+17.  telecom             | Impact: 0.000599
+18.  in                  | Impact: 0.000555
+19.  the                 | Impact: 0.000555
+20.  us                  | Impact: 0.000555
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  wrote               | Impact: -0.004002
+ 2.  :                   | Impact: -0.004002
+ 3.  john                | Impact: -0.003512
+ 4.  hall                | Impact: -0.003512
+ 5.  but                 | Impact: -0.001481
+ 6.  i                   | Impact: -0.001481
+ 7.  recall              | Impact: -0.001481
+ 8.  i                   | Impact: -0.001437
+ 9.  '                   | Impact: -0.001437
+10.  m                   | Impact: -0.001437
+11.  reading             | Impact: -0.001437
+12.  now                 | Impact: -0.001437
+13.  .                   | Impact: -0.001437
+14.  de                  | Impact: -0.001408
+15.  soto                | Impact: -0.001408
+16.  is                  | Impact: -0.001408
+17.  something           | Impact: -0.001408
+18.  tell                | Impact: -0.001402
+19.  me                  | Impact: -0.001402
+20.  again               | Impact: -0.001402

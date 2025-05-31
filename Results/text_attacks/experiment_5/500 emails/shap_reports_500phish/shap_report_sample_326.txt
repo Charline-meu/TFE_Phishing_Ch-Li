@@ -1,0 +1,75 @@
+Sample 326
+==========
+
+Sample text preview: Good Day: I am Tony Fred Williams I am years old I live in Manchester(UK) before my father die, now I live with my mother in Scotland. my father is fr...
+
+Model prediction: [1.6255294e-04 9.9983740e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.018566 → PHISHING
+ 2.  birth               | Impact: 0.018566 → PHISHING
+ 3.  certificate         | Impact: 0.018566 → PHISHING
+ 4.  my                  | Impact: 0.015232 → PHISHING
+ 5.  late                | Impact: 0.015232 → PHISHING
+ 6.  father              | Impact: 0.015232 → PHISHING
+ 7.  provided            | Impact: 0.012966 → PHISHING
+ 8.  account             | Impact: 0.012966 → PHISHING
+ 9.  immediately         | Impact: 0.012966 → PHISHING
+10.  please              | Impact: 0.012966 → PHISHING
+11.  the                 | Impact: 0.009863 → PHISHING
+12.  million             | Impact: 0.009863 → PHISHING
+13.  to                  | Impact: 0.009567 → PHISHING
+14.  your                | Impact: 0.009567 → PHISHING
+15.  you                 | Impact: 0.009426 → PHISHING
+16.  my                  | Impact: 0.009426 → PHISHING
+17.  picture             | Impact: 0.009426 → PHISHING
+18.  and                 | Impact: 0.009426 → PHISHING
+19.  father              | Impact: 0.007935 → PHISHING
+20.  mr                  | Impact: 0.007935 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.018566
+ 2.  birth               | Impact: 0.018566
+ 3.  certificate         | Impact: 0.018566
+ 4.  my                  | Impact: 0.015232
+ 5.  late                | Impact: 0.015232
+ 6.  father              | Impact: 0.015232
+ 7.  provided            | Impact: 0.012966
+ 8.  account             | Impact: 0.012966
+ 9.  immediately         | Impact: 0.012966
+10.  please              | Impact: 0.012966
+11.  the                 | Impact: 0.009863
+12.  million             | Impact: 0.009863
+13.  to                  | Impact: 0.009567
+14.  your                | Impact: 0.009567
+15.  you                 | Impact: 0.009426
+16.  my                  | Impact: 0.009426
+17.  picture             | Impact: 0.009426
+18.  and                 | Impact: 0.009426
+19.  father              | Impact: 0.007935
+20.  mr                  | Impact: 0.007935
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  fred                | Impact: -0.000716
+ 2.  williams            | Impact: -0.000716
+ 3.  .                   | Impact: -0.000716
+ 4.  fred                | Impact: -0.000143
+ 5.  williams            | Impact: -0.000143
+ 6.  was                 | Impact: -0.000143
+ 7.  a                   | Impact: -0.000143
+ 8.  contractor          | Impact: -0.000143
+ 9.  in                  | Impact: -0.000143
+10.  manchester          | Impact: -0.000143
+11.  (                   | Impact: -0.000143
+12.  uk                  | Impact: -0.000143
+13.  )                   | Impact: -0.000143
+14.  best                | Impact: -0.000020
+15.  regards             | Impact: -0.000020
+16.  tony                | Impact: -0.000020
+17.  fred                | Impact: -0.000020
+18.  williams            | Impact: -0.000020
+19.  -                   | Impact: -0.000020
+20.  -                   | Impact: -0.000020

@@ -1,0 +1,71 @@
+Sample 178
+==========
+
+Sample text preview: Jim: Here is a Draft copy of our contact list for ENA's projects. Please let me or Don Miller know of your comments. Thanks for your time. Ben
+
+Model prediction: [9.9976903e-01 2.3094032e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  miller              | Impact: -0.058029 → LEGITIMATE
+ 2.  contact             | Impact: 0.054207 → PHISHING
+ 3.  comments            | Impact: -0.052137 → LEGITIMATE
+ 4.  your                | Impact: 0.042948 → PHISHING
+ 5.  your                | Impact: 0.035589 → PHISHING
+ 6.  let                 | Impact: 0.031227 → PHISHING
+ 7.  our                 | Impact: 0.026187 → PHISHING
+ 8.  please              | Impact: 0.024566 → PHISHING
+ 9.  thanks              | Impact: -0.024472 → LEGITIMATE
+10.  draft               | Impact: -0.023388 → LEGITIMATE
+11.  is                  | Impact: 0.021100 → PHISHING
+12.  en                  | Impact: -0.018891 → LEGITIMATE
+13.  ben                 | Impact: -0.018625 → LEGITIMATE
+14.  time                | Impact: 0.018239 → PHISHING
+15.  list                | Impact: -0.016441 → LEGITIMATE
+16.  .                   | Impact: -0.016396 → LEGITIMATE
+17.  know                | Impact: -0.013350 → LEGITIMATE
+18.  of                  | Impact: -0.011898 → LEGITIMATE
+19. a                    | Impact: -0.009303 → LEGITIMATE
+20.  :                   | Impact: -0.008131 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.054207
+ 2.  your                | Impact: 0.042948
+ 3.  your                | Impact: 0.035589
+ 4.  let                 | Impact: 0.031227
+ 5.  our                 | Impact: 0.026187
+ 6.  please              | Impact: 0.024566
+ 7.  is                  | Impact: 0.021100
+ 8.  time                | Impact: 0.018239
+ 9.  .                   | Impact: 0.004544
+10.  of                  | Impact: 0.004279
+11.  a                   | Impact: 0.004061
+12.  here                | Impact: 0.004044
+13.  copy                | Impact: 0.003783
+14.  .                   | Impact: 0.002100
+15.  for                 | Impact: 0.001990
+16.  or                  | Impact: 0.000517
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  miller              | Impact: -0.058029
+ 2.  comments            | Impact: -0.052137
+ 3.  thanks              | Impact: -0.024472
+ 4.  draft               | Impact: -0.023388
+ 5.  en                  | Impact: -0.018891
+ 6.  ben                 | Impact: -0.018625
+ 7.  list                | Impact: -0.016441
+ 8.  .                   | Impact: -0.016396
+ 9.  know                | Impact: -0.013350
+10.  of                  | Impact: -0.011898
+11. a                    | Impact: -0.009303
+12.  :                   | Impact: -0.008131
+13.  jim                 | Impact: -0.006737
+14.  don                 | Impact: -0.006060
+15.  projects            | Impact: -0.005396
+16.  for                 | Impact: -0.004000
+17.  '                   | Impact: -0.003147
+18.  me                  | Impact: -0.000694
+19.  s                   | Impact: -0.000127
+20.                      | Impact: -0.000017

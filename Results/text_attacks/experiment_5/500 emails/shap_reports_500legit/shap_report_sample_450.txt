@@ -1,0 +1,59 @@
+Sample 450
+==========
+
+Sample text preview: > From: Robert Elz > Date: Sat, Aug :: + > > Date: Thu, Aug :: - > From: Chris Garrigues > Message-ID: > > | hmmm, I assume you're going to report thi...
+
+Model prediction: [9.997646e-01 2.353343e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  >                   | Impact: -0.008069 → LEGITIMATE
+ 2.  >                   | Impact: -0.007884 → LEGITIMATE
+ 3.  >                   | Impact: -0.007151 → LEGITIMATE
+ 4.  :                   | Impact: -0.006421 → LEGITIMATE
+ 5.  follows             | Impact: -0.005819 → LEGITIMATE
+ 6.  >                   | Impact: -0.005469 → LEGITIMATE
+ 7.  assume              | Impact: -0.005464 → LEGITIMATE
+ 8.  >                   | Impact: -0.005385 → LEGITIMATE
+ 9.  >                   | Impact: -0.005310 → LEGITIMATE
+10.  >                   | Impact: -0.005020 → LEGITIMATE
+11.  >                   | Impact: -0.004623 → LEGITIMATE
+12.  >                   | Impact: -0.004623 → LEGITIMATE
+13.  the                 | Impact: -0.004435 → LEGITIMATE
+14.  evil                | Impact: -0.004435 → LEGITIMATE
+15.  :                   | Impact: -0.004194 → LEGITIMATE
+16.  chris               | Impact: -0.004181 → LEGITIMATE
+17.  -                   | Impact: -0.004181 → LEGITIMATE
+18.  -                   | Impact: -0.004181 → LEGITIMATE
+19.  chris               | Impact: -0.004181 → LEGITIMATE
+20.  should              | Impact: -0.004031 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  date                | Impact: 0.000280
+ 2.  th                  | Impact: 0.000066
+ 3. u                    | Impact: 0.000066
+ 4.  ,                   | Impact: 0.000066
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  >                   | Impact: -0.008069
+ 2.  >                   | Impact: -0.007884
+ 3.  >                   | Impact: -0.007151
+ 4.  :                   | Impact: -0.006421
+ 5.  follows             | Impact: -0.005819
+ 6.  >                   | Impact: -0.005469
+ 7.  assume              | Impact: -0.005464
+ 8.  >                   | Impact: -0.005385
+ 9.  >                   | Impact: -0.005310
+10.  >                   | Impact: -0.005020
+11.  >                   | Impact: -0.004623
+12.  >                   | Impact: -0.004623
+13.  the                 | Impact: -0.004435
+14.  evil                | Impact: -0.004435
+15.  :                   | Impact: -0.004194
+16.  chris               | Impact: -0.004181
+17.  -                   | Impact: -0.004181
+18.  -                   | Impact: -0.004181
+19.  chris               | Impact: -0.004181
+20.  should              | Impact: -0.004031

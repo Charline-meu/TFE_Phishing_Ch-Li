@@ -1,0 +1,75 @@
+Phishing Sample 50
+==================
+
+Sample text preview: ---------------------- Forwarded by Vince J Kaminski/HOU/ECT on // : PM --------------------------- on // :: PM Please respond to "Reply-To" To: cc: S...
+
+Model prediction: [9.9980241e-01 1.9762717e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  tr                  | Impact: -0.010146 → LEGITIMATE
+ 2. w                    | Impact: -0.010146 → LEGITIMATE
+ 3.  company             | Impact: 0.002328 → PHISHING
+ 4.  .                   | Impact: -0.002127 → LEGITIMATE
+ 5.  strategies          | Impact: -0.002054 → LEGITIMATE
+ 6.  with                | Impact: -0.002054 → LEGITIMATE
+ 7.  check               | Impact: 0.002050 → PHISHING
+ 8.  out                 | Impact: 0.002050 → PHISHING
+ 9.  positions           | Impact: -0.001739 → LEGITIMATE
+10.  every               | Impact: -0.001739 → LEGITIMATE
+11.  option              | Impact: -0.001273 → LEGITIMATE
+12.  terms               | Impact: -0.001273 → LEGITIMATE
+13.  and                 | Impact: -0.001273 → LEGITIMATE
+14.  for                 | Impact: -0.001179 → LEGITIMATE
+15.  option              | Impact: -0.001179 → LEGITIMATE
+16.  traders             | Impact: -0.001179 → LEGITIMATE
+17.  .                   | Impact: -0.001179 → LEGITIMATE
+18.  account             | Impact: -0.001146 → LEGITIMATE
+19.  information         | Impact: -0.001146 → LEGITIMATE
+20.  and                 | Impact: -0.001146 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  company             | Impact: 0.002328
+ 2.  check               | Impact: 0.002050
+ 3.  out                 | Impact: 0.002050
+ 4.  *                   | Impact: 0.001116
+ 5.  *                   | Impact: 0.001116
+ 6.  *                   | Impact: 0.001116
+ 7.  *                   | Impact: 0.001116
+ 8.  *                   | Impact: 0.001116
+ 9.  *                   | Impact: 0.001116
+10.  *                   | Impact: 0.001116
+11.  *                   | Impact: 0.001116
+12.  .                   | Impact: 0.001003
+13.  all                 | Impact: 0.000907
+14.  stars               | Impact: 0.000907
+15.  *                   | Impact: 0.000755
+16.  *                   | Impact: 0.000755
+17.  *                   | Impact: 0.000755
+18.  *                   | Impact: 0.000755
+19.  *                   | Impact: 0.000755
+20.  *                   | Impact: 0.000755
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  tr                  | Impact: -0.010146
+ 2. w                    | Impact: -0.010146
+ 3.  .                   | Impact: -0.002127
+ 4.  strategies          | Impact: -0.002054
+ 5.  with                | Impact: -0.002054
+ 6.  positions           | Impact: -0.001739
+ 7.  every               | Impact: -0.001739
+ 8.  option              | Impact: -0.001273
+ 9.  terms               | Impact: -0.001273
+10.  and                 | Impact: -0.001273
+11.  for                 | Impact: -0.001179
+12.  option              | Impact: -0.001179
+13.  traders             | Impact: -0.001179
+14.  .                   | Impact: -0.001179
+15.  account             | Impact: -0.001146
+16.  information         | Impact: -0.001146
+17.  and                 | Impact: -0.001146
+18.  improve             | Impact: -0.001127
+19.  your                | Impact: -0.001127
+20.  understanding       | Impact: -0.001127

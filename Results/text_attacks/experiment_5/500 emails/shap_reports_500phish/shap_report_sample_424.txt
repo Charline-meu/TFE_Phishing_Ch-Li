@@ -1,0 +1,60 @@
+Sample 424
+==========
+
+Sample text preview: Dear User, Your e-mail will expire soon, We recommend that you upgrade your account now to avoid suspension. Click here to proceed. Sincerely Mail Adm...
+
+Model prediction: [1.6500943e-04 9.9983501e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  sincerely           | Impact: 0.140586 → PHISHING
+ 2.  click               | Impact: 0.132493 → PHISHING
+ 3.  dear                | Impact: 0.111154 → PHISHING
+ 4.  proceed             | Impact: 0.090998 → PHISHING
+ 5.  account             | Impact: 0.075199 → PHISHING
+ 6.  administrator       | Impact: 0.067665 → PHISHING
+ 7.  ex                  | Impact: 0.049646 → PHISHING
+ 8.  now                 | Impact: 0.046955 → PHISHING
+ 9.  your                | Impact: 0.045243 → PHISHING
+10.  your                | Impact: 0.040971 → PHISHING
+11.  you                 | Impact: 0.039290 → PHISHING
+12.  mail                | Impact: 0.037904 → PHISHING
+13.  recommend           | Impact: -0.027976 → LEGITIMATE
+14.  upgrade             | Impact: 0.021097 → PHISHING
+15.  we                  | Impact: 0.019836 → PHISHING
+16.  avoid               | Impact: 0.019184 → PHISHING
+17.  here                | Impact: 0.016453 → PHISHING
+18.  mail                | Impact: 0.015899 → PHISHING
+19.  soon                | Impact: 0.012040 → PHISHING
+20. pire                 | Impact: 0.011141 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  sincerely           | Impact: 0.140586
+ 2.  click               | Impact: 0.132493
+ 3.  dear                | Impact: 0.111154
+ 4.  proceed             | Impact: 0.090998
+ 5.  account             | Impact: 0.075199
+ 6.  administrator       | Impact: 0.067665
+ 7.  ex                  | Impact: 0.049646
+ 8.  now                 | Impact: 0.046955
+ 9.  your                | Impact: 0.045243
+10.  your                | Impact: 0.040971
+11.  you                 | Impact: 0.039290
+12.  mail                | Impact: 0.037904
+13.  upgrade             | Impact: 0.021097
+14.  we                  | Impact: 0.019836
+15.  avoid               | Impact: 0.019184
+16.  here                | Impact: 0.016453
+17.  mail                | Impact: 0.015899
+18.  soon                | Impact: 0.012040
+19. pire                 | Impact: 0.011141
+20.  .                   | Impact: 0.010704
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  recommend           | Impact: -0.027976
+ 2.  that                | Impact: -0.008106
+ 3.  user                | Impact: -0.004522
+ 4.  suspension          | Impact: -0.003270
+ 5.  will                | Impact: -0.001712

@@ -1,0 +1,75 @@
+Sample 477
+==========
+
+Sample text preview: Would you like to look and feel - years younger ? Would you be interested in increasing energy levels by % ? x How about Increasing Sexual Potency Fre...
+
+Model prediction: [0.00288265 0.9971174 ]
+Predicted class: PHISHING with 0.9971 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  we                  | Impact: 0.012511 → PHISHING
+ 2.  offer               | Impact: 0.012511 → PHISHING
+ 3.  the                 | Impact: 0.012511 → PHISHING
+ 4.  most                | Impact: 0.012511 → PHISHING
+ 5.  potent              | Impact: 0.012511 → PHISHING
+ 6.  oral                | Impact: 0.012511 → PHISHING
+ 7.  g                   | Impact: 0.012511 → PHISHING
+ 8. h                    | Impact: 0.012511 → PHISHING
+ 9.  formula             | Impact: 0.012511 → PHISHING
+10.  available           | Impact: 0.012511 → PHISHING
+11.  to                  | Impact: 0.012511 → PHISHING
+12.  help                | Impact: 0.012511 → PHISHING
+13.  you                 | Impact: 0.012511 → PHISHING
+14.  achieve             | Impact: 0.012511 → PHISHING
+15.  all                 | Impact: 0.012511 → PHISHING
+16.  of                  | Impact: 0.012511 → PHISHING
+17.  this                | Impact: 0.012511 → PHISHING
+18.  and                 | Impact: 0.012511 → PHISHING
+19.  more                | Impact: 0.012511 → PHISHING
+20.  !                   | Impact: 0.012511 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  we                  | Impact: 0.012511
+ 2.  offer               | Impact: 0.012511
+ 3.  the                 | Impact: 0.012511
+ 4.  most                | Impact: 0.012511
+ 5.  potent              | Impact: 0.012511
+ 6.  oral                | Impact: 0.012511
+ 7.  g                   | Impact: 0.012511
+ 8. h                    | Impact: 0.012511
+ 9.  formula             | Impact: 0.012511
+10.  available           | Impact: 0.012511
+11.  to                  | Impact: 0.012511
+12.  help                | Impact: 0.012511
+13.  you                 | Impact: 0.012511
+14.  achieve             | Impact: 0.012511
+15.  all                 | Impact: 0.012511
+16.  of                  | Impact: 0.012511
+17.  this                | Impact: 0.012511
+18.  and                 | Impact: 0.012511
+19.  more                | Impact: 0.012511
+20.  !                   | Impact: 0.012511
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.000124
+ 2.  aging               | Impact: -0.000124
+ 3.  formula             | Impact: -0.000124
+ 4.  i                   | Impact: -0.000124
+ 5.  noticed             | Impact: -0.000124
+ 6.  a                   | Impact: -0.000124
+ 7.  higher              | Impact: -0.000124
+ 8.  level               | Impact: -0.000124
+ 9.  of                  | Impact: -0.000124
+10.  energy              | Impact: -0.000124
+11.  ,                   | Impact: -0.000124
+12.  increased           | Impact: -0.000124
+13.  sexual              | Impact: -0.000124
+14.  energy              | Impact: -0.000124
+15.  and                 | Impact: -0.000124
+16.  my                  | Impact: -0.000124
+17.  memory              | Impact: -0.000124
+18.  and                 | Impact: -0.000124
+19.  vision              | Impact: -0.000124
+20.  were                | Impact: -0.000124

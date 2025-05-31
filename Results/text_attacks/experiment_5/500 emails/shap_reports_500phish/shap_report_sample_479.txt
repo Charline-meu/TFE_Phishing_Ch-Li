@@ -1,0 +1,73 @@
+Sample 479
+==========
+
+Sample text preview: sent you some files please see attached Download Files ( KB total) infodata.zip Will be deleted on april, Get more out of WeTransfer, get Plus About W...
+
+Model prediction: [4.204022e-04 9.995796e-01]
+Predicted class: PHISHING with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  download            | Impact: 0.152440 → PHISHING
+ 2.  contacts            | Impact: 0.093516 → PHISHING
+ 3.  trusted             | Impact: 0.067121 → PHISHING
+ 4.  contact             | Impact: 0.064247 → PHISHING
+ 5.  you                 | Impact: 0.060515 → PHISHING
+ 6.  please              | Impact: 0.052460 → PHISHING
+ 7.  legal               | Impact: 0.051153 → PHISHING
+ 8.  receive             | Impact: 0.047738 → PHISHING
+ 9.  files               | Impact: 0.045368 → PHISHING
+10.  our                 | Impact: 0.035928 → PHISHING
+11.  kb                  | Impact: 0.035435 → PHISHING
+12.  add                 | Impact: -0.034069 → LEGITIMATE
+13.  info                | Impact: 0.031564 → PHISHING
+14.  about               | Impact: -0.031244 → LEGITIMATE
+15.  powered             | Impact: 0.027909 → PHISHING
+16.  attached            | Impact: 0.027223 → PHISHING
+17.  web                 | Impact: 0.026163 → PHISHING
+18.  sent                | Impact: 0.025306 → PHISHING
+19.  amazon              | Impact: -0.024236 → LEGITIMATE
+20.  see                 | Impact: 0.022932 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  download            | Impact: 0.152440
+ 2.  contacts            | Impact: 0.093516
+ 3.  trusted             | Impact: 0.067121
+ 4.  contact             | Impact: 0.064247
+ 5.  you                 | Impact: 0.060515
+ 6.  please              | Impact: 0.052460
+ 7.  legal               | Impact: 0.051153
+ 8.  receive             | Impact: 0.047738
+ 9.  files               | Impact: 0.045368
+10.  our                 | Impact: 0.035928
+11.  kb                  | Impact: 0.035435
+12.  info                | Impact: 0.031564
+13.  powered             | Impact: 0.027909
+14.  attached            | Impact: 0.027223
+15.  web                 | Impact: 0.026163
+16.  sent                | Impact: 0.025306
+17.  see                 | Impact: 0.022932
+18.  (                   | Impact: 0.020274
+19.  services            | Impact: 0.016897
+20.  plus                | Impact: 0.016044
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  add                 | Impact: -0.034069
+ 2.  about               | Impact: -0.031244
+ 3.  amazon              | Impact: -0.024236
+ 4.  april               | Impact: -0.011220
+ 5. da                   | Impact: -0.007060
+ 6.  to                  | Impact: -0.005500
+ 7.  on                  | Impact: -0.001955
+ 8.  .                   | Impact: -0.001597
+ 9.  zip                 | Impact: -0.001039
+10.  will                | Impact: -0.001039
+11.  be                  | Impact: -0.001039
+12.  deleted             | Impact: -0.001039
+13.  ,                   | Impact: -0.000819
+14.  get                 | Impact: -0.000779
+15.  more                | Impact: -0.000779
+16.  out                 | Impact: -0.000779
+17.  of                  | Impact: -0.000779
+18.  ,                   | Impact: -0.000468

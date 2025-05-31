@@ -1,0 +1,75 @@
+Sample 187
+==========
+
+Sample text preview: Hello, I am James Berry Esq. (Managing Partner) Barrister, associate member, advocate, Solicitor and owner of James Berry & Associates Law firm, born ...
+
+Model prediction: [1.834311e-04 9.998166e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.                      | Impact: 0.015284 → PHISHING
+ 2.  hello               | Impact: 0.015284 → PHISHING
+ 3.  mr                  | Impact: 0.014450 → PHISHING
+ 4.  james               | Impact: 0.014335 → PHISHING
+ 5.  berry               | Impact: 0.014335 → PHISHING
+ 6.  esq                 | Impact: 0.014335 → PHISHING
+ 7.  i                   | Impact: 0.012797 → PHISHING
+ 8.  am                  | Impact: 0.012797 → PHISHING
+ 9.  wife                | Impact: 0.012362 → PHISHING
+10.  here                | Impact: 0.012362 → PHISHING
+11.  to                  | Impact: 0.007718 → PHISHING
+12.  you                 | Impact: 0.007718 → PHISHING
+13.  and                 | Impact: 0.007718 → PHISHING
+14.  in                  | Impact: 0.007512 → PHISHING
+15.  russia              | Impact: 0.007512 → PHISHING
+16.  in                  | Impact: 0.007305 → PHISHING
+17.  after               | Impact: 0.007305 → PHISHING
+18.  ,                   | Impact: 0.007077 → PHISHING
+19.  .                   | Impact: 0.006656 → PHISHING
+20.  oil                 | Impact: 0.006371 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.                      | Impact: 0.015284
+ 2.  hello               | Impact: 0.015284
+ 3.  mr                  | Impact: 0.014450
+ 4.  james               | Impact: 0.014335
+ 5.  berry               | Impact: 0.014335
+ 6.  esq                 | Impact: 0.014335
+ 7.  i                   | Impact: 0.012797
+ 8.  am                  | Impact: 0.012797
+ 9.  wife                | Impact: 0.012362
+10.  here                | Impact: 0.012362
+11.  to                  | Impact: 0.007718
+12.  you                 | Impact: 0.007718
+13.  and                 | Impact: 0.007718
+14.  in                  | Impact: 0.007512
+15.  russia              | Impact: 0.007512
+16.  in                  | Impact: 0.007305
+17.  after               | Impact: 0.007305
+18.  ,                   | Impact: 0.007077
+19.  .                   | Impact: 0.006656
+20.  oil                 | Impact: 0.006371
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  education           | Impact: -0.002939
+ 2.  :                   | Impact: -0.002939
+ 3.  ll                  | Impact: -0.002939
+ 4.  practice            | Impact: -0.002609
+ 5.  areas               | Impact: -0.002609
+ 6.  :                   | Impact: -0.002609
+ 7.  company             | Impact: -0.002609
+ 8.  i                   | Impact: -0.002395
+ 9.  do                  | Impact: -0.002395
+10.  apologize           | Impact: -0.002394
+11.  for                 | Impact: -0.002394
+12.  .                   | Impact: -0.002020
+13.  web                 | Impact: -0.001764
+14. page                 | Impact: -0.001764
+15.  :                   | Impact: -0.001487
+16.  click               | Impact: -0.001487
+17.  .                   | Impact: -0.001174
+18.  ;                   | Impact: -0.001166
+19.  intellectual        | Impact: -0.001166
+20.  ;                   | Impact: -0.001166

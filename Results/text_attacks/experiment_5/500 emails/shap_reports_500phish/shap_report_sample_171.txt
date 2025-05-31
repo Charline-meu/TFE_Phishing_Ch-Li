@@ -1,0 +1,75 @@
+Sample 171
+==========
+
+Sample text preview: PRICE WILLIAMS Richards&asociates Chambers Airport Road, Lagos Nigeria CONFIDENTIAL AND EXCLUSIVE BUSINESS NEGOTIATION PROPOSAL. TRANSFER OF $ MILLION...
+
+Model prediction: [1.8214955e-04 9.9981791e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  lagos               | Impact: 0.031568 → PHISHING
+ 2.  nigeria             | Impact: 0.031568 → PHISHING
+ 3.  confidential        | Impact: 0.014679 → PHISHING
+ 4.  app                 | Impact: 0.010171 → PHISHING
+ 5. end                  | Impact: 0.010171 → PHISHING
+ 6.  your                | Impact: 0.010171 → PHISHING
+ 7.  signature           | Impact: 0.010171 → PHISHING
+ 8.  estate              | Impact: 0.007829 → PHISHING
+ 9.  which               | Impact: 0.007829 → PHISHING
+10.  kin                 | Impact: 0.007403 → PHISHING
+11.  for                 | Impact: 0.007403 → PHISHING
+12.  you                 | Impact: 0.007403 → PHISHING
+13.  to                  | Impact: 0.007403 → PHISHING
+14.  of                  | Impact: 0.005494 → PHISHING
+15.  his                 | Impact: 0.005494 → PHISHING
+16.  bank                | Impact: 0.005415 → PHISHING
+17.  account             | Impact: 0.005415 → PHISHING
+18.  with                | Impact: 0.005415 → PHISHING
+19.  union               | Impact: 0.005415 → PHISHING
+20.  two                 | Impact: 0.005126 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  lagos               | Impact: 0.031568
+ 2.  nigeria             | Impact: 0.031568
+ 3.  confidential        | Impact: 0.014679
+ 4.  app                 | Impact: 0.010171
+ 5. end                  | Impact: 0.010171
+ 6.  your                | Impact: 0.010171
+ 7.  signature           | Impact: 0.010171
+ 8.  estate              | Impact: 0.007829
+ 9.  which               | Impact: 0.007829
+10.  kin                 | Impact: 0.007403
+11.  for                 | Impact: 0.007403
+12.  you                 | Impact: 0.007403
+13.  to                  | Impact: 0.007403
+14.  of                  | Impact: 0.005494
+15.  his                 | Impact: 0.005494
+16.  bank                | Impact: 0.005415
+17.  account             | Impact: 0.005415
+18.  with                | Impact: 0.005415
+19.  union               | Impact: 0.005415
+20.  two                 | Impact: 0.005126
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  also                | Impact: -0.000821
+ 2.  proved              | Impact: -0.000821
+ 3.  unsuccessful        | Impact: -0.000821
+ 4.  .                   | Impact: -0.000821
+ 5.  this                | Impact: -0.000821
+ 6.  has                 | Impact: -0.000821
+ 7.  as                  | Impact: -0.000062
+ 8.  an                  | Impact: -0.000062
+ 9.  experience          | Impact: -0.000062
+10.  lawyer              | Impact: -0.000062
+11.  ,                   | Impact: -0.000062
+12.  exclusive           | Impact: -0.000020
+13.  business            | Impact: -0.000020
+14.  negotiation         | Impact: -0.000020
+15.  proposal            | Impact: -0.000020
+16.  .                   | Impact: -0.000020
+17.  please              | Impact: -0.000018
+18.  contact             | Impact: -0.000018
+19.  me                  | Impact: -0.000018
+20.  immediately         | Impact: -0.000018

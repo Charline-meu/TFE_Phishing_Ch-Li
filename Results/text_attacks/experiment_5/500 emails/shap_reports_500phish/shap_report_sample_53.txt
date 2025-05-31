@@ -1,0 +1,75 @@
+Sample 53
+=========
+
+Sample text preview: Dear Sir, CONFIDENTIAL BUSINESS ASSISTANCE I am Mr. Mohammed Jaja, Deputy Secretary-General to the Nigerian Football Association parent body of the Wo...
+
+Model prediction: [2.1609339e-04 9.9978393e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  central             | Impact: 0.009495 → PHISHING
+ 2.  bank                | Impact: 0.009495 → PHISHING
+ 3.  of                  | Impact: 0.009495 → PHISHING
+ 4.  nigeria             | Impact: 0.009495 → PHISHING
+ 5.  we                  | Impact: 0.009076 → PHISHING
+ 6.  kindly              | Impact: 0.009076 → PHISHING
+ 7.  request             | Impact: 0.009076 → PHISHING
+ 8.  that                | Impact: 0.009076 → PHISHING
+ 9.  transfer            | Impact: 0.008117 → PHISHING
+10.  into                | Impact: 0.008117 → PHISHING
+11.  with                | Impact: 0.007239 → PHISHING
+12.  utmost              | Impact: 0.007239 → PHISHING
+13.  secrecy             | Impact: 0.007239 → PHISHING
+14.  nigeria             | Impact: 0.007044 → PHISHING
+15.  has                 | Impact: 0.007044 → PHISHING
+16.  ordered             | Impact: 0.007044 → PHISHING
+17.  that                | Impact: 0.007044 → PHISHING
+18.  the                 | Impact: 0.006802 → PHISHING
+19.  fifa                | Impact: 0.006802 → PHISHING
+20.  president           | Impact: 0.006802 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  central             | Impact: 0.009495
+ 2.  bank                | Impact: 0.009495
+ 3.  of                  | Impact: 0.009495
+ 4.  nigeria             | Impact: 0.009495
+ 5.  we                  | Impact: 0.009076
+ 6.  kindly              | Impact: 0.009076
+ 7.  request             | Impact: 0.009076
+ 8.  that                | Impact: 0.009076
+ 9.  transfer            | Impact: 0.008117
+10.  into                | Impact: 0.008117
+11.  with                | Impact: 0.007239
+12.  utmost              | Impact: 0.007239
+13.  secrecy             | Impact: 0.007239
+14.  nigeria             | Impact: 0.007044
+15.  has                 | Impact: 0.007044
+16.  ordered             | Impact: 0.007044
+17.  that                | Impact: 0.007044
+18.  the                 | Impact: 0.006802
+19.  fifa                | Impact: 0.006802
+20.  president           | Impact: 0.006802
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  got                 | Impact: -0.000840
+ 2.  your                | Impact: -0.000840
+ 3.  curious             | Impact: -0.000840
+ 4.  on                  | Impact: -0.000840
+ 5.  how                 | Impact: -0.000840
+ 6.  i                   | Impact: -0.000840
+ 7.  detail              | Impact: -0.000840
+ 8.  in                  | Impact: -0.000840
+ 9.  particular          | Impact: -0.000840
+10.  ,                   | Impact: -0.000840
+11.  (                   | Impact: -0.000771
+12.  n                   | Impact: -0.000771
+13. fa                   | Impact: -0.000771
+14.  )                   | Impact: -0.000771
+15.  in                  | Impact: -0.000720
+16.  the                 | Impact: -0.000720
+17.  same                | Impact: -0.000720
+18.  vein                | Impact: -0.000720
+19.  ,                   | Impact: -0.000720
+20.  an                  | Impact: -0.000147

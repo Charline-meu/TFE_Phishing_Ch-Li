@@ -1,0 +1,75 @@
+Phishing Sample 17
+==================
+
+Sample text preview: CASTLE CHAMBERS LEGAL SOLICITORS/PRIVATE LAWYERS LONDON HA LP UNITED KINGDOM. Direct Telephone; +--- Direct Fax; +--- Good Day Dear, My name is JONATH...
+
+Model prediction: [1.9075388e-04 9.9980932e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.022744 → PHISHING
+ 2.  mr                  | Impact: 0.013134 → PHISHING
+ 3.  .                   | Impact: 0.013134 → PHISHING
+ 4.  his                 | Impact: 0.011482 → PHISHING
+ 5.  only                | Impact: 0.011482 → PHISHING
+ 6.  son                 | Impact: 0.011482 → PHISHING
+ 7.  your                | Impact: 0.009607 → PHISHING
+ 8.  account             | Impact: 0.009607 → PHISHING
+ 9.  transferred         | Impact: 0.008296 → PHISHING
+10.  to                  | Impact: 0.008296 → PHISHING
+11.  ben                 | Impact: 0.007416 → PHISHING
+12. ef                   | Impact: 0.007416 → PHISHING
+13. icia                 | Impact: 0.007416 → PHISHING
+14. ry                   | Impact: 0.007416 → PHISHING
+15.  ben                 | Impact: 0.006530 → PHISHING
+16. ef                   | Impact: 0.006530 → PHISHING
+17. icia                 | Impact: 0.006530 → PHISHING
+18. ry                   | Impact: 0.006530 → PHISHING
+19.  in                  | Impact: 0.006357 → PHISHING
+20.  securing            | Impact: 0.006357 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.022744
+ 2.  mr                  | Impact: 0.013134
+ 3.  .                   | Impact: 0.013134
+ 4.  his                 | Impact: 0.011482
+ 5.  only                | Impact: 0.011482
+ 6.  son                 | Impact: 0.011482
+ 7.  your                | Impact: 0.009607
+ 8.  account             | Impact: 0.009607
+ 9.  transferred         | Impact: 0.008296
+10.  to                  | Impact: 0.008296
+11.  ben                 | Impact: 0.007416
+12. ef                   | Impact: 0.007416
+13. icia                 | Impact: 0.007416
+14. ry                   | Impact: 0.007416
+15.  ben                 | Impact: 0.006530
+16. ef                   | Impact: 0.006530
+17. icia                 | Impact: 0.006530
+18. ry                   | Impact: 0.006530
+19.  in                  | Impact: 0.006357
+20.  securing            | Impact: 0.006357
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.000741
+ 2.  charity             | Impact: -0.000741
+ 3.  home                | Impact: -0.000741
+ 4.  /                   | Impact: -0.000741
+ 5.  organization        | Impact: -0.000741
+ 6.  would               | Impact: -0.000741
+ 7.  have                | Impact: -0.000741
+ 8.  to                  | Impact: -0.000741
+ 9.  i                   | Impact: -0.000570
+10.  was                 | Impact: -0.000570
+11.  formally            | Impact: -0.000570
+12.  a                   | Impact: -0.000570
+13.  law                 | Impact: -0.000478
+14.  office              | Impact: -0.000478
+15.  .                   | Impact: -0.000478
+16.  be                  | Impact: -0.000478
+17.  picked              | Impact: -0.000478
+18.  by                  | Impact: -0.000478
+19.  my                  | Impact: -0.000478
+20.  however             | Impact: -0.000102

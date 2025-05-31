@@ -1,0 +1,75 @@
+Phishing Sample 70
+==================
+
+Sample text preview: View in Browser Dear Member, We suspect your card information is in the hands of a third party because an attempt to carry out multiple purchases has ...
+
+Model prediction: [1.6342543e-04 9.9983656e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.033402 → PHISHING
+ 2.  ©                   | Impact: 0.023098 → PHISHING
+ 3.  navy                | Impact: 0.023098 → PHISHING
+ 4.  confirm             | Impact: 0.013522 → PHISHING
+ 5.  your                | Impact: 0.013522 → PHISHING
+ 6.  account             | Impact: 0.012307 → PHISHING
+ 7.  ownership           | Impact: 0.012307 → PHISHING
+ 8.  you                 | Impact: 0.012258 → PHISHING
+ 9.  will                | Impact: 0.012258 → PHISHING
+10.  your                | Impact: 0.012250 → PHISHING
+11.  account             | Impact: 0.012250 → PHISHING
+12.  member              | Impact: 0.011979 → PHISHING
+13.  federal             | Impact: 0.011102 → PHISHING
+14.  credit              | Impact: 0.011102 → PHISHING
+15.  union               | Impact: 0.011102 → PHISHING
+16.  your                | Impact: 0.011089 → PHISHING
+17.  security            | Impact: 0.011089 → PHISHING
+18.  .                   | Impact: 0.009229 → PHISHING
+19.  please              | Impact: 0.008988 → PHISHING
+20.  kindly              | Impact: 0.008988 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.033402
+ 2.  ©                   | Impact: 0.023098
+ 3.  navy                | Impact: 0.023098
+ 4.  confirm             | Impact: 0.013522
+ 5.  your                | Impact: 0.013522
+ 6.  account             | Impact: 0.012307
+ 7.  ownership           | Impact: 0.012307
+ 8.  you                 | Impact: 0.012258
+ 9.  will                | Impact: 0.012258
+10.  your                | Impact: 0.012250
+11.  account             | Impact: 0.012250
+12.  member              | Impact: 0.011979
+13.  federal             | Impact: 0.011102
+14.  credit              | Impact: 0.011102
+15.  union               | Impact: 0.011102
+16.  your                | Impact: 0.011089
+17.  security            | Impact: 0.011089
+18.  .                   | Impact: 0.009229
+19.  please              | Impact: 0.008988
+20.  kindly              | Impact: 0.008988
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  percentage          | Impact: -0.008287
+ 2.  rate                | Impact: -0.008287
+ 3.  data                | Impact: -0.003991
+ 4.  rates               | Impact: -0.003991
+ 5.  may                 | Impact: -0.003991
+ 6.  apply               | Impact: -0.003991
+ 7.  .                   | Impact: -0.003991
+ 8.  for                 | Impact: -0.003625
+ 9.  choosing            | Impact: -0.003625
+10.  percentage          | Impact: -0.003240
+11.  yield               | Impact: -0.003240
+12.  |                   | Impact: -0.003240
+13.  apr                 | Impact: -0.003240
+14.  thank               | Impact: -0.002812
+15.  you                 | Impact: -0.002812
+16.  out                 | Impact: -0.002706
+17.  multiple            | Impact: -0.002706
+18.  =                   | Impact: -0.002671
+19.  annual              | Impact: -0.002671
+20.  terms               | Impact: -0.002569

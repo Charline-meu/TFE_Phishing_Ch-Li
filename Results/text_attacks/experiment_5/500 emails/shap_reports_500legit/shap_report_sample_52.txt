@@ -1,0 +1,75 @@
+Sample 52
+=========
+
+Sample text preview: This piece from Deutsche Bank is good macro overview of electricity supply / demand fundamentals. A little on the long side - pages, but has some good...
+
+Model prediction: [9.9979299e-01 2.0700843e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  pages               | Impact: -0.028132 → LEGITIMATE
+ 2.  bank                | Impact: 0.024423 → PHISHING
+ 3.  side                | Impact: 0.019151 → PHISHING
+ 4.  good                | Impact: -0.015540 → LEGITIMATE
+ 5.  demand              | Impact: 0.013539 → PHISHING
+ 6.  beginning           | Impact: 0.013139 → PHISHING
+ 7.  this                | Impact: 0.012735 → PHISHING
+ 8.  deutsche            | Impact: -0.011463 → LEGITIMATE
+ 9.  long                | Impact: 0.010586 → PHISHING
+10.  from                | Impact: -0.008488 → LEGITIMATE
+11.  supply              | Impact: -0.005621 → LEGITIMATE
+12.  electricity         | Impact: -0.005615 → LEGITIMATE
+13.  reliability         | Impact: -0.005075 → LEGITIMATE
+14.  macro               | Impact: -0.005048 → LEGITIMATE
+15.  piece               | Impact: -0.004737 → LEGITIMATE
+16.  regions             | Impact: -0.004386 → LEGITIMATE
+17. rc                   | Impact: -0.004172 → LEGITIMATE
+18.  council             | Impact: -0.003321 → LEGITIMATE
+19.  discussion          | Impact: -0.003308 → LEGITIMATE
+20.  fundamental         | Impact: -0.003202 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.024423
+ 2.  side                | Impact: 0.019151
+ 3.  demand              | Impact: 0.013539
+ 4.  beginning           | Impact: 0.013139
+ 5.  this                | Impact: 0.012735
+ 6.  long                | Impact: 0.010586
+ 7.  overview            | Impact: 0.003187
+ 8.  page                | Impact: 0.003002
+ 9.  )                   | Impact: 0.002448
+10.  on                  | Impact: 0.001782
+11.  .                   | Impact: 0.001757
+12.  of                  | Impact: 0.001299
+13.  (                   | Impact: 0.001155
+14.  is                  | Impact: 0.000876
+15.  on                  | Impact: 0.000840
+16.  on                  | Impact: 0.000797
+17.  american            | Impact: 0.000760
+18.  a                   | Impact: 0.000582
+19.  ne                  | Impact: 0.000217
+20.                      | Impact: 0.000118
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  pages               | Impact: -0.028132
+ 2.  good                | Impact: -0.015540
+ 3.  deutsche            | Impact: -0.011463
+ 4.  from                | Impact: -0.008488
+ 5.  supply              | Impact: -0.005621
+ 6.  electricity         | Impact: -0.005615
+ 7.  reliability         | Impact: -0.005075
+ 8.  macro               | Impact: -0.005048
+ 9.  piece               | Impact: -0.004737
+10.  regions             | Impact: -0.004386
+11. rc                   | Impact: -0.004172
+12.  council             | Impact: -0.003321
+13.  discussion          | Impact: -0.003308
+14.  fundamental         | Impact: -0.003202
+15.  /                   | Impact: -0.003022
+16.  -                   | Impact: -0.002770
+17.  has                 | Impact: -0.002522
+18.  good                | Impact: -0.002439
+19.  .                   | Impact: -0.002300
+20.  little              | Impact: -0.002115

@@ -1,0 +1,75 @@
+Sample 223
+==========
+
+Sample text preview: I am Mr Amedi Ali, the director in charge of auditing and accounting section of Bank Of Africa,Ouagadougou Burkina faso West Africa with due respect a...
+
+Model prediction: [2.0395058e-04 9.9979609e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  contact             | Impact: 0.006824 → PHISHING
+ 2.  you                 | Impact: 0.006824 → PHISHING
+ 3.  on                  | Impact: 0.006824 → PHISHING
+ 4.  a                   | Impact: 0.006824 → PHISHING
+ 5.  re                  | Impact: 0.005309 → PHISHING
+ 6. mit                  | Impact: 0.005309 → PHISHING
+ 7. ted                  | Impact: 0.005309 → PHISHING
+ 8.  from                | Impact: 0.005309 → PHISHING
+ 9.  to                  | Impact: 0.005309 → PHISHING
+10.  your                | Impact: 0.005309 → PHISHING
+11.  own                 | Impact: 0.005309 → PHISHING
+12.  .                   | Impact: 0.005265 → PHISHING
+13.  designation         | Impact: 0.005265 → PHISHING
+14.  bank                | Impact: 0.005265 → PHISHING
+15.  account             | Impact: 0.005265 → PHISHING
+16.  and                 | Impact: 0.004932 → PHISHING
+17.  transfer            | Impact: 0.004932 → PHISHING
+18.  this                | Impact: 0.004932 → PHISHING
+19.  money               | Impact: 0.004932 → PHISHING
+20.  to                  | Impact: 0.004932 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  contact             | Impact: 0.006824
+ 2.  you                 | Impact: 0.006824
+ 3.  on                  | Impact: 0.006824
+ 4.  a                   | Impact: 0.006824
+ 5.  re                  | Impact: 0.005309
+ 6. mit                  | Impact: 0.005309
+ 7. ted                  | Impact: 0.005309
+ 8.  from                | Impact: 0.005309
+ 9.  to                  | Impact: 0.005309
+10.  your                | Impact: 0.005309
+11.  own                 | Impact: 0.005309
+12.  .                   | Impact: 0.005265
+13.  designation         | Impact: 0.005265
+14.  bank                | Impact: 0.005265
+15.  account             | Impact: 0.005265
+16.  and                 | Impact: 0.004932
+17.  transfer            | Impact: 0.004932
+18.  this                | Impact: 0.004932
+19.  money               | Impact: 0.004932
+20.  to                  | Impact: 0.004932
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  time                | Impact: -0.000000
+ 2.  of                  | Impact: -0.000000
+ 3.  transfer            | Impact: -0.000000
+ 4.  and                 | Impact: -0.000000
+ 5.  also                | Impact: -0.000000
+ 6.  telephone           | Impact: -0.000000
+ 7.  bills               | Impact: -0.000000
+ 8.  ;                   | Impact: -0.000000
+ 9.  am                  | Impact: -0.000000
+10.  still               | Impact: -0.000000
+11.  in                  | Impact: -0.000000
+12.  service             | Impact: -0.000000
+13.  and                 | Impact: -0.000000
+14.  intend              | Impact: -0.000000
+15.  to                  | Impact: -0.000000
+16.  retire              | Impact: -0.000000
+17.  from                | Impact: -0.000000
+18.  service             | Impact: -0.000000
+19.  after               | Impact: -0.000000
+20.  we                  | Impact: -0.000000

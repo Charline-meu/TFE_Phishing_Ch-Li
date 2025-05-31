@@ -1,0 +1,75 @@
+Sample 226
+==========
+
+Sample text preview: Last week's contest was very close at Todd Gerbovaz and Brent Menzel tied at the top with points. It had to got to the nd tie-breaker for Todd to win ...
+
+Model prediction: [9.9959880e-01 4.0121228e-04]
+Predicted class: LEGITIMATE with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  .                   | Impact: -0.006062 → LEGITIMATE
+ 2.  restriction         | Impact: -0.005950 → LEGITIMATE
+ 3.  is                  | Impact: -0.005950 → LEGITIMATE
+ 4.  points              | Impact: -0.005923 → LEGITIMATE
+ 5.  everyone            | Impact: -0.005794 → LEGITIMATE
+ 6.  this                | Impact: -0.005794 → LEGITIMATE
+ 7.  weekend             | Impact: -0.005794 → LEGITIMATE
+ 8.  received            | Impact: -0.005434 → LEGITIMATE
+ 9.  forget              | Impact: -0.004233 → LEGITIMATE
+10.  nascar              | Impact: -0.004233 → LEGITIMATE
+11.  .                   | Impact: -0.004148 → LEGITIMATE
+12.  "                   | Impact: -0.003565 → LEGITIMATE
+13.  .                   | Impact: -0.003410 → LEGITIMATE
+14.  deposited           | Impact: 0.003277 → PHISHING
+15.  registration        | Impact: -0.003161 → LEGITIMATE
+16.  won                 | Impact: -0.003079 → LEGITIMATE
+17.  third               | Impact: -0.003079 → LEGITIMATE
+18.  prize               | Impact: -0.002947 → LEGITIMATE
+19.  this                | Impact: -0.002909 → LEGITIMATE
+20.  weekend             | Impact: -0.002909 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  deposited           | Impact: 0.003277
+ 2.  new                 | Impact: 0.002479
+ 3.  this                | Impact: 0.001855
+ 4.  is                  | Impact: 0.001855
+ 5.  free                | Impact: 0.001855
+ 6.  money               | Impact: 0.001855
+ 7.  accounts            | Impact: 0.001784
+ 8.  with                | Impact: 0.001404
+ 9.  please              | Impact: 0.001357
+10.  contact             | Impact: 0.001357
+11.  .                   | Impact: 0.001126
+12.  be                  | Impact: 0.000985
+13.  into                | Impact: 0.000853
+14.  these               | Impact: 0.000853
+15.  first               | Impact: 0.000816
+16.  $                   | Impact: 0.000656
+17.  will                | Impact: 0.000656
+18.  in                  | Impact: 0.000466
+19.  the                 | Impact: 0.000466
+20.  year                | Impact: 0.000466
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.006062
+ 2.  restriction         | Impact: -0.005950
+ 3.  is                  | Impact: -0.005950
+ 4.  points              | Impact: -0.005923
+ 5.  everyone            | Impact: -0.005794
+ 6.  this                | Impact: -0.005794
+ 7.  weekend             | Impact: -0.005794
+ 8.  received            | Impact: -0.005434
+ 9.  forget              | Impact: -0.004233
+10.  nascar              | Impact: -0.004233
+11.  .                   | Impact: -0.004148
+12.  "                   | Impact: -0.003565
+13.  .                   | Impact: -0.003410
+14.  registration        | Impact: -0.003161
+15.  won                 | Impact: -0.003079
+16.  third               | Impact: -0.003079
+17.  prize               | Impact: -0.002947
+18.  this                | Impact: -0.002909
+19.  weekend             | Impact: -0.002909
+20.  ,                   | Impact: -0.002909

@@ -1,0 +1,75 @@
+Sample 200
+==========
+
+Sample text preview: Attached is an announcement for a conference call By UBS Warburg Analysts on the Latin American Energy Crisis and its potential impact on the major fo...
+
+Model prediction: [9.9971539e-01 2.8455944e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  hank                | Impact: -0.011470 → LEGITIMATE
+ 2. e                    | Impact: -0.010770 → LEGITIMATE
+ 3.  en                  | Impact: -0.010195 → LEGITIMATE
+ 4.  your                | Impact: 0.008783 → PHISHING
+ 5.  emery               | Impact: -0.006864 → LEGITIMATE
+ 6.  please              | Impact: 0.004931 → PHISHING
+ 7.  players             | Impact: 0.004874 → PHISHING
+ 8.  such                | Impact: 0.003569 → PHISHING
+ 9.  major               | Impact: 0.003457 → PHISHING
+10.  or                  | Impact: -0.003372 → LEGITIMATE
+11.  mail                | Impact: 0.002714 → PHISHING
+12.  foreign             | Impact: 0.002495 → PHISHING
+13.  /                   | Impact: -0.002491 → LEGITIMATE
+14.  call                | Impact: 0.002381 → PHISHING
+15.  notice              | Impact: 0.002290 → PHISHING
+16.  or                  | Impact: -0.002285 → LEGITIMATE
+17.  cs                  | Impact: -0.002203 → LEGITIMATE
+18. t                    | Impact: -0.002203 → LEGITIMATE
+19.  tomorrow            | Impact: -0.002094 → LEGITIMATE
+20.  at                  | Impact: -0.002094 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.008783
+ 2.  please              | Impact: 0.004931
+ 3.  players             | Impact: 0.004874
+ 4.  such                | Impact: 0.003569
+ 5.  major               | Impact: 0.003457
+ 6.  mail                | Impact: 0.002714
+ 7.  foreign             | Impact: 0.002495
+ 8.  call                | Impact: 0.002381
+ 9.  notice              | Impact: 0.002290
+10.  you                 | Impact: 0.002023
+11.  thank               | Impact: 0.001845
+12.  and                 | Impact: 0.001826
+13.  not                 | Impact: 0.001816
+14.  transmit            | Impact: 0.001816
+15.  will                | Impact: 0.001808
+16.  not                 | Impact: 0.001808
+17.  regarding           | Impact: 0.001807
+18.  will                | Impact: 0.001671
+19.  not                 | Impact: 0.001644
+20.  -                   | Impact: 0.001177
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  hank                | Impact: -0.011470
+ 2. e                    | Impact: -0.010770
+ 3.  en                  | Impact: -0.010195
+ 4.  emery               | Impact: -0.006864
+ 5.  or                  | Impact: -0.003372
+ 6.  /                   | Impact: -0.002491
+ 7.  or                  | Impact: -0.002285
+ 8.  cs                  | Impact: -0.002203
+ 9. t                    | Impact: -0.002203
+10.  tomorrow            | Impact: -0.002094
+11.  at                  | Impact: -0.002094
+12.  its                 | Impact: -0.002073
+13.  .                   | Impact: -0.002021
+14. eb                   | Impact: -0.001912
+15.  :                   | Impact: -0.001506
+16.  am                  | Impact: -0.001506
+17.  .                   | Impact: -0.001420
+18.  as                  | Impact: -0.001373
+19.  crisis              | Impact: -0.001367
+20. ber                  | Impact: -0.001314

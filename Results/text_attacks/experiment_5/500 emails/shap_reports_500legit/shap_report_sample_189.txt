@@ -1,0 +1,75 @@
+Sample 189
+==========
+
+Sample text preview: URL: Date: --T::-: _Kevin Hemenway_: Finding More Channels[]. &#;In simple terms, there are thousands of web sites that are actively providing their n...
+
+Model prediction: [9.997557e-01 2.442740e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  &                   | Impact: 0.032325 → PHISHING
+ 2.  &                   | Impact: 0.019306 → PHISHING
+ 3.  ;                   | Impact: -0.016339 → LEGITIMATE
+ 4.  so                  | Impact: -0.013661 → LEGITIMATE
+ 5.  ]                   | Impact: -0.009919 → LEGITIMATE
+ 6.  ;                   | Impact: -0.007834 → LEGITIMATE
+ 7.  #                   | Impact: 0.006987 → PHISHING
+ 8.  [                   | Impact: -0.006645 → LEGITIMATE
+ 9.  impossible          | Impact: 0.006562 → PHISHING
+10.  #                   | Impact: -0.006132 → LEGITIMATE
+11.  sites               | Impact: -0.005403 → LEGITIMATE
+12.  these               | Impact: -0.005373 → LEGITIMATE
+13.  good                | Impact: -0.005355 → LEGITIMATE
+14.  format              | Impact: -0.005175 → LEGITIMATE
+15.  .                   | Impact: -0.005161 → LEGITIMATE
+16.  possibility         | Impact: 0.005084 → PHISHING
+17.  amp                 | Impact: -0.005081 → LEGITIMATE
+18.  this                | Impact: 0.004880 → PHISHING
+19.  here                | Impact: 0.004326 → PHISHING
+20.  ,                   | Impact: -0.004251 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  &                   | Impact: 0.032325
+ 2.  &                   | Impact: 0.019306
+ 3.  #                   | Impact: 0.006987
+ 4.  impossible          | Impact: 0.006562
+ 5.  possibility         | Impact: 0.005084
+ 6.  this                | Impact: 0.004880
+ 7.  here                | Impact: 0.004326
+ 8.  each                | Impact: 0.004097
+ 9.  sites               | Impact: 0.003708
+10.  ,                   | Impact: 0.003545
+11.  web                 | Impact: 0.003461
+12.  you                 | Impact: 0.002253
+13.  while               | Impact: 0.001827
+14.  page                | Impact: 0.001335
+15.  single              | Impact: 0.001261
+16.  is                  | Impact: 0.001243
+17.  hunt                | Impact: 0.001232
+18.  down                | Impact: 0.001232
+19.  actively            | Impact: 0.000862
+20.  providing           | Impact: 0.000714
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ;                   | Impact: -0.016339
+ 2.  so                  | Impact: -0.013661
+ 3.  ]                   | Impact: -0.009919
+ 4.  ;                   | Impact: -0.007834
+ 5.  [                   | Impact: -0.006645
+ 6.  #                   | Impact: -0.006132
+ 7.  sites               | Impact: -0.005403
+ 8.  these               | Impact: -0.005373
+ 9.  good                | Impact: -0.005355
+10.  format              | Impact: -0.005175
+11.  .                   | Impact: -0.005161
+12.  amp                 | Impact: -0.005081
+13.  ,                   | Impact: -0.004251
+14.  in                  | Impact: -0.003806
+15.  number              | Impact: -0.003467
+16.  of                  | Impact: -0.003467
+17.  .                   | Impact: -0.003322
+18.  terms               | Impact: -0.003168
+19.  simple              | Impact: -0.003081
+20.  fish                | Impact: -0.002616

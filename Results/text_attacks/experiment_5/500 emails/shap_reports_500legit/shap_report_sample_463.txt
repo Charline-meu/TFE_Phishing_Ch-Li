@@ -1,0 +1,75 @@
+Sample 463
+==========
+
+Sample text preview: ----- Forwarded by Steven J Kean/NA/Enron on // : PM ----- Scott Govenar // : AM To: Hedy Govenar Mike Day Bev Hansen Jeff Dasovich Susan J Mara Josep...
+
+Model prediction: [9.9979192e-01 2.0810241e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  energy              | Impact: -0.001226 → LEGITIMATE
+ 2.  markets             | Impact: -0.001226 → LEGITIMATE
+ 3.  for                 | Impact: -0.001054 → LEGITIMATE
+ 4.  retail              | Impact: -0.001054 → LEGITIMATE
+ 5.  @                   | Impact: 0.001013 → PHISHING
+ 6.  sf                  | Impact: 0.001013 → PHISHING
+ 7. ox                   | Impact: 0.001013 → PHISHING
+ 8. mb                   | Impact: 0.001013 → PHISHING
+ 9.  internet            | Impact: 0.000973 → PHISHING
+10.  mail                | Impact: 0.000973 → PHISHING
+11.  service             | Impact: 0.000973 → PHISHING
+12.  f                   | Impact: 0.000870 → PHISHING
+13. dda                  | Impact: 0.000870 → PHISHING
+14. cd                   | Impact: 0.000870 → PHISHING
+15. bee                  | Impact: 0.000870 → PHISHING
+16. af                   | Impact: 0.000870 → PHISHING
+17.  en                  | Impact: -0.000870 → LEGITIMATE
+18. ron                  | Impact: -0.000870 → LEGITIMATE
+19.  dorothy             | Impact: 0.000744 → PHISHING
+20.  on                  | Impact: -0.000572 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  @                   | Impact: 0.001013
+ 2.  sf                  | Impact: 0.001013
+ 3. ox                   | Impact: 0.001013
+ 4. mb                   | Impact: 0.001013
+ 5.  internet            | Impact: 0.000973
+ 6.  mail                | Impact: 0.000973
+ 7.  service             | Impact: 0.000973
+ 8.  f                   | Impact: 0.000870
+ 9. dda                  | Impact: 0.000870
+10. cd                   | Impact: 0.000870
+11. bee                  | Impact: 0.000870
+12. af                   | Impact: 0.000870
+13.  dorothy             | Impact: 0.000744
+14.  com                 | Impact: 0.000490
+15.  with                | Impact: 0.000490
+16.  don                 | Impact: 0.000213
+17.  black               | Impact: 0.000213
+18.  whitehead           | Impact: 0.000159
+19.  dennis              | Impact: 0.000159
+20.  de                  | Impact: 0.000159
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  energy              | Impact: -0.001226
+ 2.  markets             | Impact: -0.001226
+ 3.  for                 | Impact: -0.001054
+ 4.  retail              | Impact: -0.001054
+ 5.  en                  | Impact: -0.000870
+ 6. ron                  | Impact: -0.000870
+ 7.  on                  | Impact: -0.000572
+ 8.  /                   | Impact: -0.000572
+ 9.  jam                 | Impact: -0.000529
+10. i                    | Impact: -0.000529
+11.  "                   | Impact: -0.000529
+12.  subject             | Impact: -0.000529
+13.  :                   | Impact: -0.000447
+14.  direct              | Impact: -0.000447
+15.  access              | Impact: -0.000447
+16.  coalition           | Impact: -0.000447
+17.  /                   | Impact: -0.000416
+18.  :                   | Impact: -0.000416
+19.  pm                  | Impact: -0.000416
+20.  -                   | Impact: -0.000416

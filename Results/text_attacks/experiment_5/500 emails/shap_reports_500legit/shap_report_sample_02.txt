@@ -1,0 +1,75 @@
+Sample 2
+========
+
+Sample text preview: That is actually the report I'm having problems with. The old EOL JF report on your desktop has somehow been replaced by the new stage version. It's t...
+
+Model prediction: [9.9979907e-01 2.0092311e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  log                 | Impact: -0.002564 → LEGITIMATE
+ 2.  summary             | Impact: -0.002562 → LEGITIMATE
+ 3.  the                 | Impact: -0.001915 → LEGITIMATE
+ 4.  pull                | Impact: -0.001857 → LEGITIMATE
+ 5.  up                  | Impact: -0.001857 → LEGITIMATE
+ 6.  server              | Impact: -0.001764 → LEGITIMATE
+ 7.  on                  | Impact: -0.001763 → LEGITIMATE
+ 8.  terminal            | Impact: -0.001763 → LEGITIMATE
+ 9.  is                  | Impact: 0.001679 → PHISHING
+10.  working             | Impact: 0.001679 → PHISHING
+11.  ec                  | Impact: -0.001609 → LEGITIMATE
+12. t                    | Impact: -0.001609 → LEGITIMATE
+13.  in                  | Impact: -0.001538 → LEGITIMATE
+14.  ,                   | Impact: 0.001512 → PHISHING
+15.  to                  | Impact: 0.001492 → PHISHING
+16.  figure              | Impact: 0.001492 → PHISHING
+17.  .                   | Impact: -0.001409 → LEGITIMATE
+18.  your                | Impact: -0.001342 → LEGITIMATE
+19.  desktop             | Impact: -0.001342 → LEGITIMATE
+20.  has                 | Impact: -0.001342 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  is                  | Impact: 0.001679
+ 2.  working             | Impact: 0.001679
+ 3.  ,                   | Impact: 0.001512
+ 4.  to                  | Impact: 0.001492
+ 5.  figure              | Impact: 0.001492
+ 6.  with                | Impact: 0.001183
+ 7.  me                  | Impact: 0.001183
+ 8.  out                 | Impact: 0.001096
+ 9.  why                 | Impact: 0.001096
+10.  to                  | Impact: 0.000888
+11.  try                 | Impact: 0.000888
+12.  construction        | Impact: 0.000741
+13.  kate                | Impact: 0.000741
+14.  but                 | Impact: 0.000582
+15.  ,                   | Impact: 0.000554
+16.  i                   | Impact: 0.000402
+17.  will                | Impact: 0.000402
+18.  keep                | Impact: 0.000401
+19.  you                 | Impact: 0.000401
+20.  j                   | Impact: 0.000389
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  log                 | Impact: -0.002564
+ 2.  summary             | Impact: -0.002562
+ 3.  the                 | Impact: -0.001915
+ 4.  pull                | Impact: -0.001857
+ 5.  up                  | Impact: -0.001857
+ 6.  server              | Impact: -0.001764
+ 7.  on                  | Impact: -0.001763
+ 8.  terminal            | Impact: -0.001763
+ 9.  ec                  | Impact: -0.001609
+10. t                    | Impact: -0.001609
+11.  in                  | Impact: -0.001538
+12.  .                   | Impact: -0.001409
+13.  your                | Impact: -0.001342
+14.  desktop             | Impact: -0.001342
+15.  has                 | Impact: -0.001342
+16.  somehow             | Impact: -0.001342
+17.  the                 | Impact: -0.001114
+18.  report              | Impact: -0.001114
+19.  e                   | Impact: -0.001079
+20.  been                | Impact: -0.001037

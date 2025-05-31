@@ -1,0 +1,75 @@
+Sample 395
+==========
+
+Sample text preview: FROM=SEKO MOSHOOD MOBUTU Tel=--- Dear Friend I am the first son of the late Mobutu Sese Seko, the former President of the Congo Republic. I am present...
+
+Model prediction: [1.7788656e-04 9.9982220e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  money               | Impact: 0.029303 → PHISHING
+ 2.  family              | Impact: 0.021532 → PHISHING
+ 3.  friends             | Impact: 0.020300 → PHISHING
+ 4.  first               | Impact: 0.010874 → PHISHING
+ 5.  son                 | Impact: 0.010874 → PHISHING
+ 6.  in                  | Impact: 0.009859 → PHISHING
+ 7.  nigeria             | Impact: 0.009859 → PHISHING
+ 8.  friend              | Impact: 0.007359 → PHISHING
+ 9.  i                   | Impact: 0.007359 → PHISHING
+10.  as                  | Impact: 0.007074 → PHISHING
+11.  this                | Impact: 0.007074 → PHISHING
+12.  money               | Impact: 0.007074 → PHISHING
+13.  is                  | Impact: 0.007074 → PHISHING
+14.  protective          | Impact: 0.006636 → PHISHING
+15.  custody             | Impact: 0.006636 → PHISHING
+16.  father              | Impact: 0.005812 → PHISHING
+17.  '                   | Impact: 0.005812 → PHISHING
+18.  s                   | Impact: 0.005812 → PHISHING
+19.  estate              | Impact: 0.005331 → PHISHING
+20.  .                   | Impact: 0.005331 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  money               | Impact: 0.029303
+ 2.  family              | Impact: 0.021532
+ 3.  friends             | Impact: 0.020300
+ 4.  first               | Impact: 0.010874
+ 5.  son                 | Impact: 0.010874
+ 6.  in                  | Impact: 0.009859
+ 7.  nigeria             | Impact: 0.009859
+ 8.  friend              | Impact: 0.007359
+ 9.  i                   | Impact: 0.007359
+10.  as                  | Impact: 0.007074
+11.  this                | Impact: 0.007074
+12.  money               | Impact: 0.007074
+13.  is                  | Impact: 0.007074
+14.  protective          | Impact: 0.006636
+15.  custody             | Impact: 0.006636
+16.  father              | Impact: 0.005812
+17.  '                   | Impact: 0.005812
+18.  s                   | Impact: 0.005812
+19.  estate              | Impact: 0.005331
+20.  .                   | Impact: 0.005331
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  however             | Impact: -0.002064
+ 2.  ,                   | Impact: -0.002064
+ 3.  i                   | Impact: -0.000421
+ 4.  took                | Impact: -0.000421
+ 5.  this                | Impact: -0.000421
+ 6.  option              | Impact: -0.000421
+ 7.  i                   | Impact: -0.000365
+ 8.  am                  | Impact: -0.000365
+ 9.  waiting             | Impact: -0.000365
+10.  for                 | Impact: -0.000365
+11.  your                | Impact: -0.000365
+12.  response            | Impact: -0.000365
+13.  to                  | Impact: -0.000365
+14.  enable              | Impact: -0.000365
+15.  us                  | Impact: -0.000365
+16.  proceed             | Impact: -0.000365
+17.  .                   | Impact: -0.000365
+18.  i                   | Impact: -0.000304
+19.  boxed               | Impact: -0.000304
+20.  and                 | Impact: -0.000304

@@ -1,0 +1,75 @@
+Sample 405
+==========
+
+Sample text preview: Sir I was privileged to come across your contact through my personal check on your country�s business and investment portal and I decided that I shoul...
+
+Model prediction: [1.7492670e-04 9.9982506e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  my                  | Impact: 0.012736 → PHISHING
+ 2.  father              | Impact: 0.012736 → PHISHING
+ 3.  before              | Impact: 0.012736 → PHISHING
+ 4.  he                  | Impact: 0.012736 → PHISHING
+ 5.  died                | Impact: 0.012736 → PHISHING
+ 6.  for                 | Impact: 0.012736 → PHISHING
+ 7.  a                   | Impact: 0.012736 → PHISHING
+ 8.  crude               | Impact: 0.012736 → PHISHING
+ 9.  to                  | Impact: 0.012150 → PHISHING
+10.  portray             | Impact: 0.012150 → PHISHING
+11.  you                 | Impact: 0.012150 → PHISHING
+12.  as                  | Impact: 0.012150 → PHISHING
+13.  we                  | Impact: 0.007071 → PHISHING
+14.  shall               | Impact: 0.007071 → PHISHING
+15.  do                  | Impact: 0.007071 → PHISHING
+16.  is                  | Impact: 0.007071 → PHISHING
+17.  my                  | Impact: 0.006102 → PHISHING
+18.  relationship        | Impact: 0.006102 → PHISHING
+19.  with                | Impact: 0.006102 → PHISHING
+20.  my                  | Impact: 0.006102 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  my                  | Impact: 0.012736
+ 2.  father              | Impact: 0.012736
+ 3.  before              | Impact: 0.012736
+ 4.  he                  | Impact: 0.012736
+ 5.  died                | Impact: 0.012736
+ 6.  for                 | Impact: 0.012736
+ 7.  a                   | Impact: 0.012736
+ 8.  crude               | Impact: 0.012736
+ 9.  to                  | Impact: 0.012150
+10.  portray             | Impact: 0.012150
+11.  you                 | Impact: 0.012150
+12.  as                  | Impact: 0.012150
+13.  we                  | Impact: 0.007071
+14.  shall               | Impact: 0.007071
+15.  do                  | Impact: 0.007071
+16.  is                  | Impact: 0.007071
+17.  my                  | Impact: 0.006102
+18.  relationship        | Impact: 0.006102
+19.  with                | Impact: 0.006102
+20.  my                  | Impact: 0.006102
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  production          | Impact: -0.000529
+ 2.  or                  | Impact: -0.000529
+ 3.  real                | Impact: -0.000529
+ 4.  estate              | Impact: -0.000529
+ 5.  .                   | Impact: -0.000529
+ 6.  and                 | Impact: -0.000487
+ 7.  investment          | Impact: -0.000487
+ 8.  portal              | Impact: -0.000487
+ 9.  and                 | Impact: -0.000487
+10.  i                   | Impact: -0.000355
+11.  decided             | Impact: -0.000355
+12.  that                | Impact: -0.000355
+13.  i                   | Impact: -0.000355
+14.  should              | Impact: -0.000355
+15.  establish           | Impact: -0.000355
+16.  a                   | Impact: -0.000355
+17.  communication       | Impact: -0.000355
+18.  and                 | Impact: -0.000022
+19.  according           | Impact: -0.000022
+20.  to                  | Impact: -0.000022

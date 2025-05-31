@@ -1,0 +1,69 @@
+Phishing Sample 66
+==================
+
+Sample text preview: ALTERNATIVE VERY GOOD DAY SIR. PERMISSION TO REMIT US$ MILLION INTO YOUR COMPANY OR PRIVATE ACCOUNTIS MY PLEASURE TO WRITE AND INFORM YOU OF A TRANSAC...
+
+Model prediction: [1.4834866e-04 9.9985158e-01]
+Predicted class: PHISHING with 0.9999 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.023835 → PHISHING
+ 2.  account             | Impact: 0.023835 → PHISHING
+ 3.  ;                   | Impact: 0.023835 → PHISHING
+ 4.  have                | Impact: 0.010492 → PHISHING
+ 5.  concluded           | Impact: 0.010492 → PHISHING
+ 6.  arrangement         | Impact: 0.010492 → PHISHING
+ 7.  to                  | Impact: 0.010492 → PHISHING
+ 8.  .                   | Impact: 0.009335 → PHISHING
+ 9.  risk                | Impact: 0.008627 → PHISHING
+10.  free                | Impact: 0.008627 → PHISHING
+11.  .                   | Impact: 0.008627 → PHISHING
+12.  you                 | Impact: 0.008582 → PHISHING
+13.  should              | Impact: 0.008582 → PHISHING
+14.  not                 | Impact: 0.008582 → PHISHING
+15.  fear                | Impact: 0.008582 → PHISHING
+16.  be                  | Impact: 0.008401 → PHISHING
+17.  informed            | Impact: 0.008401 → PHISHING
+18.  that                | Impact: 0.008401 → PHISHING
+19.  on                  | Impact: 0.008401 → PHISHING
+20.  completion          | Impact: 0.008401 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.023835
+ 2.  account             | Impact: 0.023835
+ 3.  ;                   | Impact: 0.023835
+ 4.  have                | Impact: 0.010492
+ 5.  concluded           | Impact: 0.010492
+ 6.  arrangement         | Impact: 0.010492
+ 7.  to                  | Impact: 0.010492
+ 8.  .                   | Impact: 0.009335
+ 9.  risk                | Impact: 0.008627
+10.  free                | Impact: 0.008627
+11.  .                   | Impact: 0.008627
+12.  you                 | Impact: 0.008582
+13.  should              | Impact: 0.008582
+14.  not                 | Impact: 0.008582
+15.  fear                | Impact: 0.008582
+16.  be                  | Impact: 0.008401
+17.  informed            | Impact: 0.008401
+18.  that                | Impact: 0.008401
+19.  on                  | Impact: 0.008401
+20.  completion          | Impact: 0.008401
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  meanwhile           | Impact: -0.000018
+ 2.  this                | Impact: -0.000018
+ 3.  is                  | Impact: -0.000018
+ 4.  the                 | Impact: -0.000018
+ 5.  breakdown           | Impact: -0.000018
+ 6.  of                  | Impact: -0.000018
+ 7.  the                 | Impact: -0.000018
+ 8.  sharing             | Impact: -0.000018
+ 9.  mod                 | Impact: -0.000018
+10. ali                  | Impact: -0.000018
+11. ties                 | Impact: -0.000018
+12.  :                   | Impact: -0.000018
+13.  a                   | Impact: -0.000018
+14.  .                   | Impact: -0.000018

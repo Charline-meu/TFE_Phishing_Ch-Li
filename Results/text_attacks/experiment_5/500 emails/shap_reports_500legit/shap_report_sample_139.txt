@@ -1,0 +1,75 @@
+Sample 139
+==========
+
+Sample text preview: Your registration is now complete. You are now registered with "View Only" access to our site. This e-mail message has been sent to you with the passw...
+
+Model prediction: [0.45063475 0.5493653 ]
+Predicted class: PHISHING with 0.5494 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.149946 → PHISHING
+ 2.  registration        | Impact: 0.082588 → PHISHING
+ 3.  ur                  | Impact: -0.071563 → LEGITIMATE
+ 4. l                    | Impact: -0.071541 → LEGITIMATE
+ 5.  is                  | Impact: 0.038460 → PHISHING
+ 6.  registered          | Impact: 0.036510 → PHISHING
+ 7.  you                 | Impact: 0.034309 → PHISHING
+ 8.  are                 | Impact: 0.034309 → PHISHING
+ 9.                      | Impact: 0.033237 → PHISHING
+10.  now                 | Impact: 0.032231 → PHISHING
+11.  entered             | Impact: 0.028372 → PHISHING
+12.  password            | Impact: 0.026135 → PHISHING
+13.  you                 | Impact: 0.026135 → PHISHING
+14.  complete            | Impact: 0.025472 → PHISHING
+15.  .                   | Impact: 0.023862 → PHISHING
+16.  now                 | Impact: 0.022719 → PHISHING
+17.  highland            | Impact: -0.021320 → LEGITIMATE
+18.  view                | Impact: 0.020191 → PHISHING
+19.  only                | Impact: 0.020191 → PHISHING
+20.  to                  | Impact: 0.018130 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.149946
+ 2.  registration        | Impact: 0.082588
+ 3.  is                  | Impact: 0.038460
+ 4.  registered          | Impact: 0.036510
+ 5.  you                 | Impact: 0.034309
+ 6.  are                 | Impact: 0.034309
+ 7.                      | Impact: 0.033237
+ 8.  now                 | Impact: 0.032231
+ 9.  entered             | Impact: 0.028372
+10.  password            | Impact: 0.026135
+11.  you                 | Impact: 0.026135
+12.  complete            | Impact: 0.025472
+13.  .                   | Impact: 0.023862
+14.  now                 | Impact: 0.022719
+15.  view                | Impact: 0.020191
+16.  only                | Impact: 0.020191
+17.  to                  | Impact: 0.018130
+18.  our                 | Impact: 0.018130
+19.  site                | Impact: 0.018130
+20.  "                   | Impact: 0.013802
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ur                  | Impact: -0.071563
+ 2. l                    | Impact: -0.071541
+ 3.  highland            | Impact: -0.021320
+ 4.  .                   | Impact: -0.018065
+ 5.  reference           | Impact: -0.017110
+ 6.  procurement         | Impact: -0.011126
+ 7.  -                   | Impact: -0.011126
+ 8.  he                  | Impact: -0.010270
+ 9. si                   | Impact: -0.010270
+10.  .                   | Impact: -0.009725
+11.  your                | Impact: -0.006769
+12.  to                  | Impact: -0.006599
+13.  the                 | Impact: -0.006599
+14.  for                 | Impact: -0.006337
+15.  take                | Impact: -0.005934
+16.  you                 | Impact: -0.005934
+17.  user                | Impact: -0.005478
+18.  agreement           | Impact: -0.005478
+19.  in                  | Impact: -0.005324
+20.  case                | Impact: -0.005324

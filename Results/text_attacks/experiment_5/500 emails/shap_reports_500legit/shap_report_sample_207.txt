@@ -1,0 +1,74 @@
+Sample 207
+==========
+
+Sample text preview: URL: Date: --T::-: My Tivo has been picking up the Twilight Zone for the last few weeks. I have to say, I'm really enjoying it. It reminds me of the o...
+
+Model prediction: [9.9975783e-01 2.4218688e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  .                   | Impact: 0.009263 → PHISHING
+ 2.  :                   | Impact: -0.007405 → LEGITIMATE
+ 3.  ur                  | Impact: -0.006459 → LEGITIMATE
+ 4.  .                   | Impact: 0.006433 → PHISHING
+ 5.  me                  | Impact: 0.005313 → PHISHING
+ 6.  air                 | Impact: -0.004965 → LEGITIMATE
+ 7.  say                 | Impact: -0.004435 → LEGITIMATE
+ 8.  :                   | Impact: -0.003877 → LEGITIMATE
+ 9.  .                   | Impact: -0.003792 → LEGITIMATE
+10.  :                   | Impact: -0.003235 → LEGITIMATE
+11.  to                  | Impact: -0.003221 → LEGITIMATE
+12.  of                  | Impact: 0.002893 → PHISHING
+13.  :                   | Impact: -0.002782 → LEGITIMATE
+14.  ones                | Impact: -0.002662 → LEGITIMATE
+15.  reminds             | Impact: -0.002650 → LEGITIMATE
+16.  -                   | Impact: 0.002393 → PHISHING
+17.  -                   | Impact: -0.002352 → LEGITIMATE
+18.  :                   | Impact: -0.002042 → LEGITIMATE
+19.  have                | Impact: -0.002005 → LEGITIMATE
+20.  it                  | Impact: -0.002001 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.009263
+ 2.  .                   | Impact: 0.006433
+ 3.  me                  | Impact: 0.005313
+ 4.  of                  | Impact: 0.002893
+ 5.  -                   | Impact: 0.002393
+ 6.  -                   | Impact: 0.001640
+ 7.  date                | Impact: 0.001582
+ 8.  .                   | Impact: 0.000934
+ 9.  old                 | Impact: 0.000284
+10.  ,                   | Impact: 0.000174
+11.  .                   | Impact: 0.000115
+12.  zone                | Impact: 0.000109
+13.  for                 | Impact: 0.000109
+14.  the                 | Impact: 0.000109
+15.  last                | Impact: 0.000109
+16.                      | Impact: 0.000100
+17.  the                 | Impact: 0.000024
+18.  few                 | Impact: 0.000012
+19.  weeks               | Impact: 0.000012
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.007405
+ 2.  ur                  | Impact: -0.006459
+ 3.  air                 | Impact: -0.004965
+ 4.  say                 | Impact: -0.004435
+ 5.  :                   | Impact: -0.003877
+ 6.  .                   | Impact: -0.003792
+ 7.  :                   | Impact: -0.003235
+ 8.  to                  | Impact: -0.003221
+ 9.  :                   | Impact: -0.002782
+10.  ones                | Impact: -0.002662
+11.  reminds             | Impact: -0.002650
+12.  -                   | Impact: -0.002352
+13.  :                   | Impact: -0.002042
+14.  have                | Impact: -0.002005
+15.  it                  | Impact: -0.002001
+16.  i                   | Impact: -0.001918
+17.  .                   | Impact: -0.001831
+18.  the                 | Impact: -0.001707
+19.  it                  | Impact: -0.001562
+20.  good                | Impact: -0.001531

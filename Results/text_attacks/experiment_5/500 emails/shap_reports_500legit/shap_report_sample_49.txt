@@ -1,0 +1,75 @@
+Sample 49
+=========
+
+Sample text preview: ********************[ A D V E R T I S E M E N T ]**************** Is your online broker built to trade? Datek Online's advanced technology gives you f...
+
+Model prediction: [0.9984517  0.00154822]
+Predicted class: LEGITIMATE with 0.9985 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  com                 | Impact: -0.004851 → LEGITIMATE
+ 2.  december            | Impact: -0.004827 → LEGITIMATE
+ 3.  many                | Impact: -0.001204 → LEGITIMATE
+ 4.  economists          | Impact: -0.001204 → LEGITIMATE
+ 5.  read                | Impact: -0.001204 → LEGITIMATE
+ 6.  into                | Impact: -0.001204 → LEGITIMATE
+ 7.  those               | Impact: -0.001204 → LEGITIMATE
+ 8.  comments            | Impact: -0.001204 → LEGITIMATE
+ 9.  that                | Impact: -0.001204 → LEGITIMATE
+10.  the                 | Impact: -0.001204 → LEGITIMATE
+11.  immediate           | Impact: -0.000910 → LEGITIMATE
+12.  portfolio           | Impact: -0.000910 → LEGITIMATE
+13.  updates             | Impact: -0.000910 → LEGITIMATE
+14.  .                   | Impact: -0.000910 → LEGITIMATE
+15.  while               | Impact: -0.000850 → LEGITIMATE
+16.  chase               | Impact: -0.000850 → LEGITIMATE
+17.  [                   | Impact: -0.000850 → LEGITIMATE
+18.  cm                  | Impact: -0.000850 → LEGITIMATE
+19. b                    | Impact: -0.000850 → LEGITIMATE
+20.  ,                   | Impact: -0.000805 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  bottom              | Impact: 0.000556
+ 2.  earnings            | Impact: 0.000556
+ 3.  banks               | Impact: 0.000446
+ 4.  hitting             | Impact: 0.000446
+ 5.  par                 | Impact: 0.000420
+ 6.  earnings            | Impact: 0.000420
+ 7.  and                 | Impact: 0.000420
+ 8.  they                | Impact: 0.000420
+ 9.  '                   | Impact: 0.000420
+10.  ve                  | Impact: 0.000420
+11.  virtually           | Impact: 0.000420
+12.  acknowledged        | Impact: 0.000420
+13.  that                | Impact: 0.000420
+14.  they                | Impact: 0.000420
+15.  '                   | Impact: 0.000420
+16.  ll                  | Impact: 0.000420
+17.  report              | Impact: 0.000420
+18.  sub                 | Impact: 0.000420
+19.  -                   | Impact: 0.000420
+20.  financial           | Impact: 0.000372
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  com                 | Impact: -0.004851
+ 2.  december            | Impact: -0.004827
+ 3.  many                | Impact: -0.001204
+ 4.  economists          | Impact: -0.001204
+ 5.  read                | Impact: -0.001204
+ 6.  into                | Impact: -0.001204
+ 7.  those               | Impact: -0.001204
+ 8.  comments            | Impact: -0.001204
+ 9.  that                | Impact: -0.001204
+10.  the                 | Impact: -0.001204
+11.  immediate           | Impact: -0.000910
+12.  portfolio           | Impact: -0.000910
+13.  updates             | Impact: -0.000910
+14.  .                   | Impact: -0.000910
+15.  while               | Impact: -0.000850
+16.  chase               | Impact: -0.000850
+17.  [                   | Impact: -0.000850
+18.  cm                  | Impact: -0.000850
+19. b                    | Impact: -0.000850
+20.  ,                   | Impact: -0.000805

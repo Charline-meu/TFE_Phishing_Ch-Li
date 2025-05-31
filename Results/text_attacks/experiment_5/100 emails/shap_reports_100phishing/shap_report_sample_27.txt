@@ -1,0 +1,75 @@
+Phishing Sample 27
+==================
+
+Sample text preview: ST.MARK MISSION OWERRI CHRIST CHURCH ROAD OWERRI, NIGERIA. ATTN: NOTIFICATION OF BEQUEST On behalf of the Trustes and Executor of the estate of Late E...
+
+Model prediction: [1.7871331e-04 9.9982136e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  fr                  | Impact: 0.024269 → PHISHING
+ 2.  rev                 | Impact: 0.021950 → PHISHING
+ 3.  from                | Impact: 0.012226 → PHISHING
+ 4.  you                 | Impact: 0.012226 → PHISHING
+ 5.  in                  | Impact: 0.011882 → PHISHING
+ 6.  no                  | Impact: 0.011882 → PHISHING
+ 7.  yours               | Impact: 0.010108 → PHISHING
+ 8.  in                  | Impact: 0.010108 → PHISHING
+ 9.  his                 | Impact: 0.009728 → PHISHING
+10.  service             | Impact: 0.009728 → PHISHING
+11.  ben                 | Impact: 0.007581 → PHISHING
+12. ef                   | Impact: 0.007581 → PHISHING
+13. icia                 | Impact: 0.007581 → PHISHING
+14. ry                   | Impact: 0.007581 → PHISHING
+15.  ben                 | Impact: 0.007529 → PHISHING
+16. ef                   | Impact: 0.007529 → PHISHING
+17. icia                 | Impact: 0.007529 → PHISHING
+18. ry                   | Impact: 0.007529 → PHISHING
+19.  confirm             | Impact: 0.007353 → PHISHING
+20.  your                | Impact: 0.007353 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  fr                  | Impact: 0.024269
+ 2.  rev                 | Impact: 0.021950
+ 3.  from                | Impact: 0.012226
+ 4.  you                 | Impact: 0.012226
+ 5.  in                  | Impact: 0.011882
+ 6.  no                  | Impact: 0.011882
+ 7.  yours               | Impact: 0.010108
+ 8.  in                  | Impact: 0.010108
+ 9.  his                 | Impact: 0.009728
+10.  service             | Impact: 0.009728
+11.  ben                 | Impact: 0.007581
+12. ef                   | Impact: 0.007581
+13. icia                 | Impact: 0.007581
+14. ry                   | Impact: 0.007581
+15.  ben                 | Impact: 0.007529
+16. ef                   | Impact: 0.007529
+17. icia                 | Impact: 0.007529
+18. ry                   | Impact: 0.007529
+19.  confirm             | Impact: 0.007353
+20.  your                | Impact: 0.007353
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  david               | Impact: -0.000567
+ 2.  jones               | Impact: -0.000567
+ 3.  ,                   | Impact: -0.000567
+ 4.  eng                 | Impact: -0.000273
+ 5. r                    | Impact: -0.000273
+ 6.  .                   | Impact: -0.000273
+ 7.  john                | Impact: -0.000101
+ 8.  cohen               | Impact: -0.000101
+ 9.  (                   | Impact: -0.000101
+10.  )                   | Impact: -0.000101
+11.  sm                  | Impact: -0.000101
+12. m                    | Impact: -0.000101
+13.  .                   | Impact: -0.000101
+14.  i                   | Impact: -0.000098
+15.  hope                | Impact: -0.000098
+16.  to                  | Impact: -0.000098
+17.  hear                | Impact: -0.000098
+18.  at                  | Impact: -0.000042
+19. t                    | Impact: -0.000042
+20. n                    | Impact: -0.000042

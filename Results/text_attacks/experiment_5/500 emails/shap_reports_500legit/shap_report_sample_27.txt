@@ -1,0 +1,25 @@
+Sample 27
+=========
+
+Sample text preview: Please see attached
+
+Model prediction: [0.0866555 0.9133445]
+Predicted class: PHISHING with 0.9133 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  attached            | Impact: 0.543838 → PHISHING
+ 2.  please              | Impact: 0.392575 → PHISHING
+ 3.  see                 | Impact: -0.039340 → LEGITIMATE
+ 4.                      | Impact: 0.000000 → PHISHING
+ 5.                      | Impact: 0.000000 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  attached            | Impact: 0.543838
+ 2.  please              | Impact: 0.392575
+ 3.                      | Impact: 0.000000
+ 4.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  see                 | Impact: -0.039340

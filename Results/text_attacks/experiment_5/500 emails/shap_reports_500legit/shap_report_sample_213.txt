@@ -1,0 +1,75 @@
+Sample 213
+==========
+
+Sample text preview: As per Judy Thorne, I believe you are confirming these deals. Please find below details of the Phy Gas deal with dedicated wells contract: Deal Date: ...
+
+Model prediction: [9.9977833e-01 2.2169776e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  thanks              | Impact: -0.033848 → LEGITIMATE
+ 2.  x                   | Impact: 0.015835 → PHISHING
+ 3.  are                 | Impact: 0.009912 → PHISHING
+ 4.  confirming          | Impact: -0.009710 → LEGITIMATE
+ 5.  deals               | Impact: -0.009366 → LEGITIMATE
+ 6.  you                 | Impact: 0.009057 → PHISHING
+ 7.  believe             | Impact: 0.007525 → PHISHING
+ 8.  richard             | Impact: 0.007242 → PHISHING
+ 9.  .                   | Impact: -0.005388 → LEGITIMATE
+10.  know                | Impact: 0.004540 → PHISHING
+11.  zone                | Impact: 0.003950 → PHISHING
+12.  i                   | Impact: -0.003742 → LEGITIMATE
+13.  thorne              | Impact: -0.003689 → LEGITIMATE
+14.  per                 | Impact: -0.002565 → LEGITIMATE
+15.  please              | Impact: 0.002070 → PHISHING
+16.  seller              | Impact: -0.001970 → LEGITIMATE
+17.  judy                | Impact: -0.001691 → LEGITIMATE
+18. a                    | Impact: -0.001508 → LEGITIMATE
+19.  .                   | Impact: -0.001366 → LEGITIMATE
+20.  corporation         | Impact: 0.001355 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  x                   | Impact: 0.015835
+ 2.  are                 | Impact: 0.009912
+ 3.  you                 | Impact: 0.009057
+ 4.  believe             | Impact: 0.007525
+ 5.  richard             | Impact: 0.007242
+ 6.  know                | Impact: 0.004540
+ 7.  zone                | Impact: 0.003950
+ 8.  please              | Impact: 0.002070
+ 9.  corporation         | Impact: 0.001355
+10.  need                | Impact: 0.001029
+11.  details             | Impact: 0.000940
+12.  below               | Impact: 0.000583
+13.  ,                   | Impact: 0.000546
+14.  oil                 | Impact: 0.000521
+15.  more                | Impact: 0.000487
+16.  llc                 | Impact: 0.000475
+17.  :                   | Impact: 0.000374
+18.  start               | Impact: 0.000316
+19.  find                | Impact: 0.000272
+20.  same                | Impact: 0.000190
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.033848
+ 2.  confirming          | Impact: -0.009710
+ 3.  deals               | Impact: -0.009366
+ 4.  .                   | Impact: -0.005388
+ 5.  i                   | Impact: -0.003742
+ 6.  thorne              | Impact: -0.003689
+ 7.  per                 | Impact: -0.002565
+ 8.  seller              | Impact: -0.001970
+ 9.  judy                | Impact: -0.001691
+10. a                    | Impact: -0.001508
+11.  .                   | Impact: -0.001366
+12.  en                  | Impact: -0.001312
+13.  :                   | Impact: -0.001291
+14.  these               | Impact: -0.001288
+15.  l                   | Impact: -0.001252
+16.  ,                   | Impact: -0.000941
+17.  me                  | Impact: -0.000927
+18.  upstream            | Impact: -0.000795
+19.  .                   | Impact: -0.000693
+20.  as                  | Impact: -0.000682

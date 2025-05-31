@@ -1,0 +1,75 @@
+Sample 50
+=========
+
+Sample text preview: Jeff Richter - all deals are on peak - do not recognize Sunday off-peak hours Chris Mallory - changed to Bloomberg deal Matt Motley - in trade log as ...
+
+Model prediction: [9.9980766e-01 1.9239107e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  matt                | Impact: -0.005307 → LEGITIMATE
+ 2.  they                | Impact: 0.002719 → PHISHING
+ 3.  trading             | Impact: -0.001939 → LEGITIMATE
+ 4.  conference          | Impact: -0.001467 → LEGITIMATE
+ 5.  right               | Impact: -0.001467 → LEGITIMATE
+ 6.  .                   | Impact: 0.001388 → PHISHING
+ 7.  thanks              | Impact: 0.001171 → PHISHING
+ 8.  jeff                | Impact: -0.001163 → LEGITIMATE
+ 9.  at                  | Impact: -0.001115 → LEGITIMATE
+10.  mw                  | Impact: -0.000934 → LEGITIMATE
+11.  about               | Impact: -0.000792 → LEGITIMATE
+12.  $                   | Impact: -0.000792 → LEGITIMATE
+13.  en                  | Impact: -0.000790 → LEGITIMATE
+14. ron                  | Impact: -0.000790 → LEGITIMATE
+15.  /                   | Impact: -0.000704 → LEGITIMATE
+16.  en                  | Impact: -0.000690 → LEGITIMATE
+17. ron                  | Impact: -0.000690 → LEGITIMATE
+18.  bloomberg           | Impact: -0.000677 → LEGITIMATE
+19.  .                   | Impact: -0.000655 → LEGITIMATE
+20.  .                   | Impact: -0.000642 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  they                | Impact: 0.002719
+ 2.  .                   | Impact: 0.001388
+ 3.  thanks              | Impact: 0.001171
+ 4.  are                 | Impact: 0.000625
+ 5.  off                 | Impact: 0.000618
+ 6.  recognize           | Impact: 0.000537
+ 7.  curves              | Impact: 0.000525
+ 8.  only                | Impact: 0.000519
+ 9.  for                 | Impact: 0.000519
+10.  is                  | Impact: 0.000402
+11.  but                 | Impact: 0.000397
+12.  from                | Impact: 0.000394
+13.  his                 | Impact: 0.000394
+14.  ask                 | Impact: 0.000374
+15.  recognize           | Impact: 0.000365
+16.  mike                | Impact: 0.000365
+17.  ,                   | Impact: 0.000326
+18.  tied                | Impact: 0.000310
+19.  not                 | Impact: 0.000286
+20.  on                  | Impact: 0.000284
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  matt                | Impact: -0.005307
+ 2.  trading             | Impact: -0.001939
+ 3.  conference          | Impact: -0.001467
+ 4.  right               | Impact: -0.001467
+ 5.  jeff                | Impact: -0.001163
+ 6.  at                  | Impact: -0.001115
+ 7.  mw                  | Impact: -0.000934
+ 8.  about               | Impact: -0.000792
+ 9.  $                   | Impact: -0.000792
+10.  en                  | Impact: -0.000790
+11. ron                  | Impact: -0.000790
+12.  /                   | Impact: -0.000704
+13.  en                  | Impact: -0.000690
+14. ron                  | Impact: -0.000690
+15.  bloomberg           | Impact: -0.000677
+16.  .                   | Impact: -0.000655
+17.  .                   | Impact: -0.000642
+18.  deals               | Impact: -0.000634
+19.  -                   | Impact: -0.000624
+20.  chris               | Impact: -0.000603

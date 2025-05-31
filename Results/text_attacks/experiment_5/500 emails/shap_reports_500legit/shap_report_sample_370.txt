@@ -1,0 +1,56 @@
+Sample 370
+==========
+
+Sample text preview: I'll need to ponder. I'll try to get back to you pronto.
+
+Model prediction: [9.9966073e-01 3.3929630e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ponder              | Impact: -0.335438 → LEGITIMATE
+ 2.  ll                  | Impact: -0.063835 → LEGITIMATE
+ 3.  .                   | Impact: -0.056827 → LEGITIMATE
+ 4.  to                  | Impact: 0.044609 → PHISHING
+ 5.  try                 | Impact: 0.037439 → PHISHING
+ 6.  back                | Impact: 0.035478 → PHISHING
+ 7.  need                | Impact: 0.034922 → PHISHING
+ 8.  you                 | Impact: 0.034558 → PHISHING
+ 9.  to                  | Impact: 0.032006 → PHISHING
+10.  ll                  | Impact: 0.030498 → PHISHING
+11.  '                   | Impact: 0.027275 → PHISHING
+12.  pro                 | Impact: -0.024579 → LEGITIMATE
+13.  .                   | Impact: 0.023693 → PHISHING
+14.  '                   | Impact: 0.021370 → PHISHING
+15.  get                 | Impact: 0.019307 → PHISHING
+16. nto                  | Impact: 0.014991 → PHISHING
+17.  to                  | Impact: 0.011648 → PHISHING
+18.  i                   | Impact: -0.010105 → LEGITIMATE
+19.  i                   | Impact: 0.000285 → PHISHING
+20.                      | Impact: 0.000000 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.044609
+ 2.  try                 | Impact: 0.037439
+ 3.  back                | Impact: 0.035478
+ 4.  need                | Impact: 0.034922
+ 5.  you                 | Impact: 0.034558
+ 6.  to                  | Impact: 0.032006
+ 7.  ll                  | Impact: 0.030498
+ 8.  '                   | Impact: 0.027275
+ 9.  .                   | Impact: 0.023693
+10.  '                   | Impact: 0.021370
+11.  get                 | Impact: 0.019307
+12. nto                  | Impact: 0.014991
+13.  to                  | Impact: 0.011648
+14.  i                   | Impact: 0.000285
+15.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ponder              | Impact: -0.335438
+ 2.  ll                  | Impact: -0.063835
+ 3.  .                   | Impact: -0.056827
+ 4.  pro                 | Impact: -0.024579
+ 5.  i                   | Impact: -0.010105
+ 6.                      | Impact: -0.000000

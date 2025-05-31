@@ -1,0 +1,75 @@
+Sample 70
+=========
+
+Sample text preview: from Mrs.Lydia Johnson Liberte Sicap , Dakar Senegal. Goodday Dear, I know this mail will come to you as a surprise,nevertheless I am Mrs. Lydia Johns...
+
+Model prediction: [1.4915928e-04 9.9985087e-01]
+Predicted class: PHISHING with 0.9999 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mrs                 | Impact: 0.026961 → PHISHING
+ 2.  lydia               | Impact: 0.026961 → PHISHING
+ 3.  sincerely           | Impact: 0.013991 → PHISHING
+ 4.  johnson             | Impact: 0.012903 → PHISHING
+ 5.  yours               | Impact: 0.012605 → PHISHING
+ 6.  huge                | Impact: 0.009101 → PHISHING
+ 7.  deposit             | Impact: 0.009101 → PHISHING
+ 8.  to                  | Impact: 0.009101 → PHISHING
+ 9.  your                | Impact: 0.009101 → PHISHING
+10.  large               | Impact: 0.008127 → PHISHING
+11.  family              | Impact: 0.008127 → PHISHING
+12.  my                  | Impact: 0.007043 → PHISHING
+13.  son                 | Impact: 0.007043 → PHISHING
+14.  david               | Impact: 0.007043 → PHISHING
+15.  years               | Impact: 0.007043 → PHISHING
+16.  .                   | Impact: 0.006888 → PHISHING
+17.  for                 | Impact: 0.006509 → PHISHING
+18.  your                | Impact: 0.006509 → PHISHING
+19.  country             | Impact: 0.005674 → PHISHING
+20.  for                 | Impact: 0.005674 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mrs                 | Impact: 0.026961
+ 2.  lydia               | Impact: 0.026961
+ 3.  sincerely           | Impact: 0.013991
+ 4.  johnson             | Impact: 0.012903
+ 5.  yours               | Impact: 0.012605
+ 6.  huge                | Impact: 0.009101
+ 7.  deposit             | Impact: 0.009101
+ 8.  to                  | Impact: 0.009101
+ 9.  your                | Impact: 0.009101
+10.  large               | Impact: 0.008127
+11.  family              | Impact: 0.008127
+12.  my                  | Impact: 0.007043
+13.  son                 | Impact: 0.007043
+14.  david               | Impact: 0.007043
+15.  years               | Impact: 0.007043
+16.  .                   | Impact: 0.006888
+17.  for                 | Impact: 0.006509
+18.  your                | Impact: 0.006509
+19.  country             | Impact: 0.005674
+20.  for                 | Impact: 0.005674
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  percentage          | Impact: -0.003541
+ 2.  for                 | Impact: -0.003541
+ 3.  assistance          | Impact: -0.003541
+ 4.  i                   | Impact: -0.002343
+ 5.  managed             | Impact: -0.002343
+ 6.  i                   | Impact: -0.001519
+ 7.  feel                | Impact: -0.001519
+ 8.  confident           | Impact: -0.001519
+ 9.  therefore           | Impact: -0.001519
+10.  to                  | Impact: -0.001425
+11.  sneak               | Impact: -0.001425
+12.  myself              | Impact: -0.001425
+13.  .                   | Impact: -0.001306
+14.  to                  | Impact: -0.000309
+15.  introduce           | Impact: -0.000309
+16.  myself              | Impact: -0.000309
+17.  to                  | Impact: -0.000309
+18.  da                  | Impact: -0.000036
+19. kar                  | Impact: -0.000036
+20.  senegal             | Impact: -0.000036

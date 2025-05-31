@@ -1,0 +1,75 @@
+Phishing Sample 19
+==================
+
+Sample text preview: Once upon a time, Brian wrote : > > I have a fresh, new . install. I'd like to 'go alsa', but I worry > about screwing it up. Is this fear founded? If...
+
+Model prediction: [9.9978155e-01 2.1845379e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  :                   | Impact: -0.013769 → LEGITIMATE
+ 2.  linux               | Impact: -0.007275 → LEGITIMATE
+ 3.  cheers              | Impact: -0.006929 → LEGITIMATE
+ 4.  load                | Impact: -0.006908 → LEGITIMATE
+ 5.  kernel              | Impact: -0.005982 → LEGITIMATE
+ 6.  -                   | Impact: -0.005316 → LEGITIMATE
+ 7.  _                   | Impact: -0.003661 → LEGITIMATE
+ 8.  rpm                 | Impact: -0.003661 → LEGITIMATE
+ 9.  .                   | Impact: -0.003652 → LEGITIMATE
+10.  .                   | Impact: -0.003505 → LEGITIMATE
+11.  running             | Impact: -0.003331 → LEGITIMATE
+12.  battery             | Impact: -0.003289 → LEGITIMATE
+13.  charging            | Impact: -0.003289 → LEGITIMATE
+14.  :                   | Impact: -0.002931 → LEGITIMATE
+15.  %                   | Impact: -0.002931 → LEGITIMATE
+16.  install             | Impact: -0.002597 → LEGITIMATE
+17.  (                   | Impact: -0.002091 → LEGITIMATE
+18.  :                   | Impact: -0.002091 → LEGITIMATE
+19.  )                   | Impact: -0.002091 → LEGITIMATE
+20.  .                   | Impact: -0.001871 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  .                   | Impact: 0.001355
+ 2.  .                   | Impact: 0.000837
+ 3.  i                   | Impact: 0.000545
+ 4.  '                   | Impact: 0.000545
+ 5.  ve                  | Impact: 0.000545
+ 6.  been                | Impact: 0.000545
+ 7.  _                   | Impact: 0.000424
+ 8.  _                   | Impact: 0.000424
+ 9.  _                   | Impact: 0.000424
+10.  _                   | Impact: 0.000424
+11.  waiting             | Impact: 0.000386
+12.  for                 | Impact: 0.000386
+13.  years               | Impact: 0.000386
+14.  to                  | Impact: 0.000386
+15.  _                   | Impact: 0.000265
+16.  _                   | Impact: 0.000265
+17.  _                   | Impact: 0.000265
+18.  _                   | Impact: 0.000265
+19.  _                   | Impact: 0.000265
+20.  _                   | Impact: 0.000265
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.013769
+ 2.  linux               | Impact: -0.007275
+ 3.  cheers              | Impact: -0.006929
+ 4.  load                | Impact: -0.006908
+ 5.  kernel              | Impact: -0.005982
+ 6.  -                   | Impact: -0.005316
+ 7.  _                   | Impact: -0.003661
+ 8.  rpm                 | Impact: -0.003661
+ 9.  .                   | Impact: -0.003652
+10.  .                   | Impact: -0.003505
+11.  running             | Impact: -0.003331
+12.  battery             | Impact: -0.003289
+13.  charging            | Impact: -0.003289
+14.  :                   | Impact: -0.002931
+15.  %                   | Impact: -0.002931
+16.  install             | Impact: -0.002597
+17.  (                   | Impact: -0.002091
+18.  :                   | Impact: -0.002091
+19.  )                   | Impact: -0.002091
+20.  .                   | Impact: -0.001871

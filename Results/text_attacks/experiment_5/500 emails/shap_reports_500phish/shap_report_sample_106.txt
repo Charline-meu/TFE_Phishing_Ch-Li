@@ -1,0 +1,75 @@
+Sample 106
+==========
+
+Sample text preview: >From Mr. Alfred Douglas, Head Audit Department, Continental Bank, Cotounu, Benin Republic. TEL: Please reply to; My dear, Good day and God bless you....
+
+Model prediction: [1.8240539e-04 9.9981767e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bank                | Impact: 0.012100 → PHISHING
+ 2.  if                  | Impact: 0.012100 → PHISHING
+ 3.  of                  | Impact: 0.011470 → PHISHING
+ 4.  this                | Impact: 0.011470 → PHISHING
+ 5.  claiming            | Impact: 0.008906 → PHISHING
+ 6.  this                | Impact: 0.008906 → PHISHING
+ 7.  fund                | Impact: 0.008906 → PHISHING
+ 8.  this                | Impact: 0.007937 → PHISHING
+ 9.  fund                | Impact: 0.007937 → PHISHING
+10.  is                  | Impact: 0.007937 → PHISHING
+11.  not                 | Impact: 0.007937 → PHISHING
+12.  benin               | Impact: 0.006509 → PHISHING
+13.  republic            | Impact: 0.006509 → PHISHING
+14.  .                   | Impact: 0.006509 → PHISHING
+15.  ben                 | Impact: 0.006274 → PHISHING
+16. ef                   | Impact: 0.006274 → PHISHING
+17. icia                 | Impact: 0.006274 → PHISHING
+18. ry                   | Impact: 0.006274 → PHISHING
+19.  to                  | Impact: 0.006258 → PHISHING
+20.  achieve             | Impact: 0.006258 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.012100
+ 2.  if                  | Impact: 0.012100
+ 3.  of                  | Impact: 0.011470
+ 4.  this                | Impact: 0.011470
+ 5.  claiming            | Impact: 0.008906
+ 6.  this                | Impact: 0.008906
+ 7.  fund                | Impact: 0.008906
+ 8.  this                | Impact: 0.007937
+ 9.  fund                | Impact: 0.007937
+10.  is                  | Impact: 0.007937
+11.  not                 | Impact: 0.007937
+12.  benin               | Impact: 0.006509
+13.  republic            | Impact: 0.006509
+14.  .                   | Impact: 0.006509
+15.  ben                 | Impact: 0.006274
+16. ef                   | Impact: 0.006274
+17. icia                 | Impact: 0.006274
+18. ry                   | Impact: 0.006274
+19.  to                  | Impact: 0.006258
+20.  achieve             | Impact: 0.006258
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  that                | Impact: -0.002183
+ 2.  as                  | Impact: -0.002183
+ 3.  the                 | Impact: -0.002183
+ 4.  head                | Impact: -0.002183
+ 5.  of                  | Impact: -0.002183
+ 6.  the                 | Impact: -0.002183
+ 7.  audit               | Impact: -0.002183
+ 8.  department          | Impact: -0.002183
+ 9.  i                   | Impact: -0.000235
+10.  want                | Impact: -0.000235
+11.  to                  | Impact: -0.000235
+12.  also                | Impact: -0.000235
+13.  bring               | Impact: -0.000235
+14.  to                  | Impact: -0.000235
+15.  your                | Impact: -0.000235
+16.  notice              | Impact: -0.000235
+17.  and                 | Impact: -0.000204
+18.  the                 | Impact: -0.000204
+19.  next                | Impact: -0.000204
+20.  .                   | Impact: -0.000204

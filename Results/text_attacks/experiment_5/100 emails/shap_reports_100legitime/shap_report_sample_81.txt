@@ -1,0 +1,75 @@
+Phishing Sample 81
+==================
+
+Sample text preview: [Image of Diaspora Spices Trio]( [Diaspora Spices Trio]( [Image of Island Creek Tinned Fish Tasting Set (Set of )]( [Island Creek Tinned Fish Tasting ...
+
+Model prediction: [9.9969220e-01 3.0784166e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  brooklyn            | Impact: 0.002929 → PHISHING
+ 2.  ]                   | Impact: -0.002274 → LEGITIMATE
+ 3.  york                | Impact: 0.002017 → PHISHING
+ 4.  &                   | Impact: 0.001952 → PHISHING
+ 5.  &                   | Impact: 0.001803 → PHISHING
+ 6.  ]                   | Impact: -0.001583 → LEGITIMATE
+ 7.  [                   | Impact: -0.001528 → LEGITIMATE
+ 8.  [                   | Impact: -0.001278 → LEGITIMATE
+ 9.  new                 | Impact: 0.001191 → PHISHING
+10.  garlic              | Impact: -0.001173 → LEGITIMATE
+11.  [                   | Impact: -0.001133 → LEGITIMATE
+12.  night               | Impact: 0.001092 → PHISHING
+13.  (                   | Impact: -0.001087 → LEGITIMATE
+14.  image               | Impact: -0.000947 → LEGITIMATE
+15.  [                   | Impact: -0.000901 → LEGITIMATE
+16.  emails              | Impact: -0.000886 → LEGITIMATE
+17.  garlic              | Impact: -0.000869 → LEGITIMATE
+18.  ]                   | Impact: -0.000836 → LEGITIMATE
+19.  these               | Impact: -0.000813 → LEGITIMATE
+20.  ]                   | Impact: -0.000808 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  brooklyn            | Impact: 0.002929
+ 2.  york                | Impact: 0.002017
+ 3.  &                   | Impact: 0.001952
+ 4.  &                   | Impact: 0.001803
+ 5.  new                 | Impact: 0.001191
+ 6.  night               | Impact: 0.001092
+ 7.  of                  | Impact: 0.000397
+ 8.  big                 | Impact: 0.000355
+ 9.  trio                | Impact: 0.000336
+10.  spices              | Impact: 0.000334
+11.  (                   | Impact: 0.000320
+12.  with                | Impact: 0.000248
+13.  fly                 | Impact: 0.000248
+14.  of                  | Impact: 0.000129
+15.  franklin            | Impact: 0.000098
+16.  st                  | Impact: 0.000098
+17.  by                  | Impact: 0.000047
+18.  jing                | Impact: 0.000047
+19.  with                | Impact: 0.000047
+20.  of                  | Impact: 0.000046
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ]                   | Impact: -0.002274
+ 2.  ]                   | Impact: -0.001583
+ 3.  [                   | Impact: -0.001528
+ 4.  [                   | Impact: -0.001278
+ 5.  garlic              | Impact: -0.001173
+ 6.  [                   | Impact: -0.001133
+ 7.  (                   | Impact: -0.001087
+ 8.  image               | Impact: -0.000947
+ 9.  [                   | Impact: -0.000901
+10.  emails              | Impact: -0.000886
+11.  garlic              | Impact: -0.000869
+12.  ]                   | Impact: -0.000836
+13.  these               | Impact: -0.000813
+14.  ]                   | Impact: -0.000808
+15.  .                   | Impact: -0.000803
+16.  ]                   | Impact: -0.000776
+17.  ]                   | Impact: -0.000759
+18.  receive             | Impact: -0.000752
+19.  (                   | Impact: -0.000696
+20.  ]                   | Impact: -0.000677

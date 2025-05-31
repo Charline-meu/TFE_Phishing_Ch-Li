@@ -1,0 +1,55 @@
+Sample 199
+==========
+
+Sample text preview: FROM MR.SESAY MASSAQUOE. PLEASE RESPOND TO MY PRIVATE EMAIL DEAR FRIEND, THROUGH THE COURTESY OF BUSINESS OPPORTUNITY, I TAKE LIBERTY ANCHORED ON A ST...
+
+Model prediction: [1.7594712e-04 9.9982411e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  trusted             | Impact: 0.012622 → PHISHING
+ 2.  partner             | Impact: 0.012622 → PHISHING
+ 3.  who                 | Impact: 0.012622 → PHISHING
+ 4.  shall               | Impact: 0.012622 → PHISHING
+ 5.  family              | Impact: 0.011841 → PHISHING
+ 6.  as                  | Impact: 0.011841 → PHISHING
+ 7.  our                 | Impact: 0.011841 → PHISHING
+ 8.  foreign             | Impact: 0.011841 → PHISHING
+ 9.  assist              | Impact: 0.008301 → PHISHING
+10.  us                  | Impact: 0.008301 → PHISHING
+11.  in                  | Impact: 0.008301 → PHISHING
+12.  investing           | Impact: 0.008301 → PHISHING
+13.  this                | Impact: 0.008301 → PHISHING
+14.  money               | Impact: 0.008301 → PHISHING
+15.  ,                   | Impact: 0.008301 → PHISHING
+16.  i                   | Impact: 0.006901 → PHISHING
+17.  want                | Impact: 0.006901 → PHISHING
+18.  you                 | Impact: 0.006901 → PHISHING
+19.  to                  | Impact: 0.006901 → PHISHING
+20.  this                | Impact: 0.006694 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  trusted             | Impact: 0.012622
+ 2.  partner             | Impact: 0.012622
+ 3.  who                 | Impact: 0.012622
+ 4.  shall               | Impact: 0.012622
+ 5.  family              | Impact: 0.011841
+ 6.  as                  | Impact: 0.011841
+ 7.  our                 | Impact: 0.011841
+ 8.  foreign             | Impact: 0.011841
+ 9.  assist              | Impact: 0.008301
+10.  us                  | Impact: 0.008301
+11.  in                  | Impact: 0.008301
+12.  investing           | Impact: 0.008301
+13.  this                | Impact: 0.008301
+14.  money               | Impact: 0.008301
+15.  ,                   | Impact: 0.008301
+16.  i                   | Impact: 0.006901
+17.  want                | Impact: 0.006901
+18.  you                 | Impact: 0.006901
+19.  to                  | Impact: 0.006901
+20.  this                | Impact: 0.006694
+
+Top features pushing towards LEGITIMATE classification:

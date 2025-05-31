@@ -1,0 +1,75 @@
+Sample 386
+==========
+
+Sample text preview: From:Mrs.Amina.A Bello. Attention:The Managing Director. This mail is not intended to cause any embarrassment in whatever form to you but i must solic...
+
+Model prediction: [1.6268365e-04 9.9983728e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  and                 | Impact: 0.007462 → PHISHING
+ 2.  my                  | Impact: 0.007462 → PHISHING
+ 3.  late                | Impact: 0.007462 → PHISHING
+ 4.  husband             | Impact: 0.007462 → PHISHING
+ 5.  position            | Impact: 0.007462 → PHISHING
+ 6.  only                | Impact: 0.007269 → PHISHING
+ 7.  surviving           | Impact: 0.007269 → PHISHING
+ 8.  son                 | Impact: 0.007269 → PHISHING
+ 9.  musa                | Impact: 0.007269 → PHISHING
+10.  ,                   | Impact: 0.007269 → PHISHING
+11.  in                  | Impact: 0.007165 → PHISHING
+12.  your                | Impact: 0.007165 → PHISHING
+13.  country             | Impact: 0.007165 → PHISHING
+14.  which               | Impact: 0.007165 → PHISHING
+15.  your                | Impact: 0.006927 → PHISHING
+16.  confidential        | Impact: 0.006927 → PHISHING
+17. ity                  | Impact: 0.006927 → PHISHING
+18.  ,                   | Impact: 0.006927 → PHISHING
+19.  my                  | Impact: 0.004940 → PHISHING
+20.  late                | Impact: 0.004940 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  and                 | Impact: 0.007462
+ 2.  my                  | Impact: 0.007462
+ 3.  late                | Impact: 0.007462
+ 4.  husband             | Impact: 0.007462
+ 5.  position            | Impact: 0.007462
+ 6.  only                | Impact: 0.007269
+ 7.  surviving           | Impact: 0.007269
+ 8.  son                 | Impact: 0.007269
+ 9.  musa                | Impact: 0.007269
+10.  ,                   | Impact: 0.007269
+11.  in                  | Impact: 0.007165
+12.  your                | Impact: 0.007165
+13.  country             | Impact: 0.007165
+14.  which               | Impact: 0.007165
+15.  your                | Impact: 0.006927
+16.  confidential        | Impact: 0.006927
+17. ity                  | Impact: 0.006927
+18.  ,                   | Impact: 0.006927
+19.  my                  | Impact: 0.004940
+20.  late                | Impact: 0.004940
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  the                 | Impact: -0.000906
+ 2.  managing            | Impact: -0.000906
+ 3.  director            | Impact: -0.000906
+ 4.  attention           | Impact: -0.000906
+ 5.  :                   | Impact: -0.000906
+ 6.  and                 | Impact: -0.000844
+ 7.  logic               | Impact: -0.000844
+ 8. tics                 | Impact: -0.000844
+ 9.  details             | Impact: -0.000844
+10.  is                  | Impact: -0.000844
+11.  worked              | Impact: -0.000844
+12.  out                 | Impact: -0.000844
+13.  and                 | Impact: -0.000844
+14.  as                  | Impact: -0.000330
+15. cer                  | Impact: -0.000330
+16. tained               | Impact: -0.000330
+17.  to                  | Impact: -0.000330
+18.  our                 | Impact: -0.000330
+19.  respective          | Impact: -0.000330
+20.  satisfaction        | Impact: -0.000330

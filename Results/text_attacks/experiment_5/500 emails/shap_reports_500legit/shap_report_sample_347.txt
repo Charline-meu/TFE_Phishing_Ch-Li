@@ -1,0 +1,75 @@
+Sample 347
+==========
+
+Sample text preview: --------- Inline attachment follows --------- From: </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHILLIS> To: Bass, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebass>, ...
+
+Model prediction: [9.9979776e-01 2.0229624e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  <                   | Impact: -0.002704 → LEGITIMATE
+ 2.  /                   | Impact: -0.002704 → LEGITIMATE
+ 3.  o                   | Impact: -0.002704 → LEGITIMATE
+ 4.  =                   | Impact: -0.002704 → LEGITIMATE
+ 5.  en                  | Impact: -0.002704 → LEGITIMATE
+ 6. ron                  | Impact: -0.002704 → LEGITIMATE
+ 7.  /                   | Impact: -0.002704 → LEGITIMATE
+ 8.  ou                  | Impact: -0.002704 → LEGITIMATE
+ 9.  j                   | Impact: -0.001103 → LEGITIMATE
+10. th                   | Impact: -0.001103 → LEGITIMATE
+11. olt                  | Impact: -0.001103 → LEGITIMATE
+12.  >                   | Impact: -0.001103 → LEGITIMATE
+13.  ,                   | Impact: -0.001103 → LEGITIMATE
+14.  =                   | Impact: -0.001103 → LEGITIMATE
+15.  na                  | Impact: -0.001103 → LEGITIMATE
+16.  /                   | Impact: -0.001103 → LEGITIMATE
+17.  cn                  | Impact: -0.001103 → LEGITIMATE
+18.  =                   | Impact: -0.001103 → LEGITIMATE
+19.  recipients          | Impact: -0.001103 → LEGITIMATE
+20.  /                   | Impact: -0.001103 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  len                 | Impact: 0.000381
+ 2. hart                 | Impact: 0.000381
+ 3.  ,                   | Impact: 0.000381
+ 4.  martin              | Impact: 0.000158
+ 5.  ,                   | Impact: 0.000158
+ 6.  thomas              | Impact: 0.000158
+ 7.  a                   | Impact: 0.000158
+ 8.  .                   | Impact: 0.000158
+ 9.  matthew             | Impact: 0.000127
+10.  <                   | Impact: 0.000127
+11.  /                   | Impact: 0.000127
+12.  o                   | Impact: 0.000127
+13.  =                   | Impact: 0.000127
+14.  en                  | Impact: 0.000127
+15. ron                  | Impact: 0.000127
+16.  /                   | Impact: 0.000127
+17.  ou                  | Impact: 0.000127
+18.  =                   | Impact: 0.000127
+19.  na                  | Impact: 0.000127
+20.  /                   | Impact: 0.000127
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  <                   | Impact: -0.002704
+ 2.  /                   | Impact: -0.002704
+ 3.  o                   | Impact: -0.002704
+ 4.  =                   | Impact: -0.002704
+ 5.  en                  | Impact: -0.002704
+ 6. ron                  | Impact: -0.002704
+ 7.  /                   | Impact: -0.002704
+ 8.  ou                  | Impact: -0.002704
+ 9.  j                   | Impact: -0.001103
+10. th                   | Impact: -0.001103
+11. olt                  | Impact: -0.001103
+12.  >                   | Impact: -0.001103
+13.  ,                   | Impact: -0.001103
+14.  =                   | Impact: -0.001103
+15.  na                  | Impact: -0.001103
+16.  /                   | Impact: -0.001103
+17.  cn                  | Impact: -0.001103
+18.  =                   | Impact: -0.001103
+19.  recipients          | Impact: -0.001103
+20.  /                   | Impact: -0.001103

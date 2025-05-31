@@ -1,0 +1,75 @@
+Sample 61
+=========
+
+Sample text preview: Adam L. Beberg wrote: > Did someone invert the spam filters? I'm getting almost nothing but spam on > fork now... SPAM ASSASSIN. Someone of your highl...
+
+Model prediction: [9.9975985e-01 2.4010726e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.055271 → PHISHING
+ 2.  i                   | Impact: -0.034680 → LEGITIMATE
+ 3.  guess               | Impact: -0.033616 → LEGITIMATE
+ 4.  hate                | Impact: -0.028296 → LEGITIMATE
+ 5.  intelligence        | Impact: 0.024523 → PHISHING
+ 6.  i                   | Impact: -0.023894 → LEGITIMATE
+ 7.  assassin            | Impact: 0.021932 → PHISHING
+ 8.  joe                 | Impact: -0.020908 → LEGITIMATE
+ 9.  everybody           | Impact: -0.020281 → LEGITIMATE
+10.  and                 | Impact: 0.019742 → PHISHING
+11.  i                   | Impact: -0.018086 → LEGITIMATE
+12.  highly              | Impact: 0.017364 → PHISHING
+13.  developed           | Impact: 0.016174 → PHISHING
+14.  program             | Impact: 0.015610 → PHISHING
+15.  think               | Impact: -0.015255 → LEGITIMATE
+16.  but                 | Impact: -0.013181 → LEGITIMATE
+17.  -                   | Impact: 0.012557 → PHISHING
+18.  known               | Impact: 0.012557 → PHISHING
+19.  installing          | Impact: 0.012386 → PHISHING
+20.  spa                 | Impact: 0.011803 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.055271
+ 2.  intelligence        | Impact: 0.024523
+ 3.  assassin            | Impact: 0.021932
+ 4.  and                 | Impact: 0.019742
+ 5.  highly              | Impact: 0.017364
+ 6.  developed           | Impact: 0.016174
+ 7.  program             | Impact: 0.015610
+ 8.  -                   | Impact: 0.012557
+ 9.  known               | Impact: 0.012557
+10.  installing          | Impact: 0.012386
+11.  spa                 | Impact: 0.011803
+12.  such                | Impact: 0.011593
+13. m                    | Impact: 0.011142
+14.  a                   | Impact: 0.007254
+15.  well                | Impact: 0.007254
+16.  s                   | Impact: 0.005194
+17.  .                   | Impact: 0.003845
+18.  p                   | Impact: 0.002129
+19.  is                  | Impact: 0.001801
+20.  to                  | Impact: 0.001801
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.034680
+ 2.  guess               | Impact: -0.033616
+ 3.  hate                | Impact: -0.028296
+ 4.  i                   | Impact: -0.023894
+ 5.  joe                 | Impact: -0.020908
+ 6.  everybody           | Impact: -0.020281
+ 7.  i                   | Impact: -0.018086
+ 8.  think               | Impact: -0.015255
+ 9.  but                 | Impact: -0.013181
+10.  .                   | Impact: -0.011750
+11.  .                   | Impact: -0.010291
+12.  my                  | Impact: -0.008231
+13.  -                   | Impact: -0.008033
+14.  of                  | Impact: -0.007856
+15.  .                   | Impact: -0.007677
+16.  someone             | Impact: -0.007277
+17.  brown               | Impact: -0.005315
+18.  still               | Impact: -0.004279
+19.  commonly            | Impact: -0.003570
+20.  .                   | Impact: -0.002893

@@ -1,0 +1,67 @@
+Sample 302
+==========
+
+Sample text preview: Was a pleasure. Never hesitate to get in touch if you need anything. Best of luck. Look forward to working with you folks. Best, Jeff
+
+Model prediction: [9.9968123e-01 3.1874317e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  jeff                | Impact: -0.066721 → LEGITIMATE
+ 2.  you                 | Impact: 0.060192 → PHISHING
+ 3.  hesitate            | Impact: 0.055151 → PHISHING
+ 4.  folks               | Impact: -0.052934 → LEGITIMATE
+ 5.  ,                   | Impact: -0.049360 → LEGITIMATE
+ 6.  .                   | Impact: -0.045322 → LEGITIMATE
+ 7.  never               | Impact: 0.041010 → PHISHING
+ 8.  touch               | Impact: 0.038696 → PHISHING
+ 9.  need                | Impact: 0.038179 → PHISHING
+10.  working             | Impact: -0.037474 → LEGITIMATE
+11.  forward             | Impact: -0.036371 → LEGITIMATE
+12.  best                | Impact: 0.032747 → PHISHING
+13.  get                 | Impact: 0.032030 → PHISHING
+14.  if                  | Impact: -0.029929 → LEGITIMATE
+15.  pleasure            | Impact: 0.029839 → PHISHING
+16.  .                   | Impact: -0.029138 → LEGITIMATE
+17.  was                 | Impact: -0.025303 → LEGITIMATE
+18.  anything            | Impact: -0.023160 → LEGITIMATE
+19.  of                  | Impact: -0.020879 → LEGITIMATE
+20.  to                  | Impact: 0.020404 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  you                 | Impact: 0.060192
+ 2.  hesitate            | Impact: 0.055151
+ 3.  never               | Impact: 0.041010
+ 4.  touch               | Impact: 0.038696
+ 5.  need                | Impact: 0.038179
+ 6.  best                | Impact: 0.032747
+ 7.  get                 | Impact: 0.032030
+ 8.  pleasure            | Impact: 0.029839
+ 9.  to                  | Impact: 0.020404
+10.  in                  | Impact: 0.019064
+11.  .                   | Impact: 0.013217
+12.  luck                | Impact: 0.012936
+13.  you                 | Impact: 0.008485
+14.  with                | Impact: 0.006152
+15.  look                | Impact: 0.003149
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  jeff                | Impact: -0.066721
+ 2.  folks               | Impact: -0.052934
+ 3.  ,                   | Impact: -0.049360
+ 4.  .                   | Impact: -0.045322
+ 5.  working             | Impact: -0.037474
+ 6.  forward             | Impact: -0.036371
+ 7.  if                  | Impact: -0.029929
+ 8.  .                   | Impact: -0.029138
+ 9.  was                 | Impact: -0.025303
+10.  anything            | Impact: -0.023160
+11.  of                  | Impact: -0.020879
+12.  best                | Impact: -0.010124
+13.  .                   | Impact: -0.008389
+14.  a                   | Impact: -0.007982
+15.  to                  | Impact: -0.005000
+16.                      | Impact: -0.000555
+17.                      | Impact: -0.000167

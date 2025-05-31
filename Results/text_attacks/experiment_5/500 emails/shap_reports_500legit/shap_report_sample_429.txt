@@ -1,0 +1,75 @@
+Sample 429
+==========
+
+Sample text preview: FTR Auction Participants ISO Market Participants Re: Potential Participants in the Annual FTR Auction: The ISO is actively involved in preparing for t...
+
+Model prediction: [9.9976462e-01 2.3539715e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  ft                  | Impact: -0.010075 → LEGITIMATE
+ 2.  .                   | Impact: -0.007884 → LEGITIMATE
+ 3. r                    | Impact: -0.007449 → LEGITIMATE
+ 4.  distribute          | Impact: -0.006503 → LEGITIMATE
+ 5. r                    | Impact: -0.006217 → LEGITIMATE
+ 6.  your                | Impact: 0.006154 → PHISHING
+ 7.  ft                  | Impact: -0.005652 → LEGITIMATE
+ 8. r                    | Impact: -0.005652 → LEGITIMATE
+ 9.  ft                  | Impact: -0.004765 → LEGITIMATE
+10. rs                   | Impact: -0.004765 → LEGITIMATE
+11.  -                   | Impact: -0.004657 → LEGITIMATE
+12. r                    | Impact: -0.004163 → LEGITIMATE
+13.  ft                  | Impact: -0.003791 → LEGITIMATE
+14.  exact               | Impact: 0.003633 → PHISHING
+15.  name                | Impact: 0.003633 → PHISHING
+16.  .                   | Impact: -0.003576 → LEGITIMATE
+17.  required            | Impact: -0.003492 → LEGITIMATE
+18.  auction             | Impact: -0.003492 → LEGITIMATE
+19.  if                  | Impact: -0.003327 → LEGITIMATE
+20.  you                 | Impact: -0.003327 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.006154
+ 2.  exact               | Impact: 0.003633
+ 3.  name                | Impact: 0.003633
+ 4.  mail                | Impact: 0.003060
+ 5.  address             | Impact: 0.003060
+ 6.  company             | Impact: 0.002149
+ 7.  '                   | Impact: 0.002149
+ 8.  s                   | Impact: 0.002149
+ 9.  stating             | Impact: 0.001747
+10.  your                | Impact: 0.001747
+11.  -                   | Impact: 0.001729
+12.  mail                | Impact: 0.001729
+13.  physical            | Impact: 0.001656
+14.  address             | Impact: 0.001656
+15.  ,                   | Impact: 0.001656
+16.  phone               | Impact: 0.001534
+17.  number              | Impact: 0.001534
+18.  and                 | Impact: 0.001534
+19.  please              | Impact: 0.001522
+20.  send                | Impact: 0.001522
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ft                  | Impact: -0.010075
+ 2.  .                   | Impact: -0.007884
+ 3. r                    | Impact: -0.007449
+ 4.  distribute          | Impact: -0.006503
+ 5. r                    | Impact: -0.006217
+ 6.  ft                  | Impact: -0.005652
+ 7. r                    | Impact: -0.005652
+ 8.  ft                  | Impact: -0.004765
+ 9. rs                   | Impact: -0.004765
+10.  -                   | Impact: -0.004657
+11. r                    | Impact: -0.004163
+12.  ft                  | Impact: -0.003791
+13.  .                   | Impact: -0.003576
+14.  required            | Impact: -0.003492
+15.  auction             | Impact: -0.003492
+16.  if                  | Impact: -0.003327
+17.  you                 | Impact: -0.003327
+18.  potential           | Impact: -0.003244
+19.  information         | Impact: -0.003207
+20.  ft                  | Impact: -0.003093

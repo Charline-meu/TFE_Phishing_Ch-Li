@@ -1,0 +1,69 @@
+Sample 310
+==========
+
+Sample text preview: FROM: MR. Jackson Khumalo JOHANNESBURG-SOUTH AFRICA Private email: ATTN: PRESIDENT/ CEO, DIRECTOR, DELIVERY/OPERATIONS RE: TRANSFER OF US$ MILLION FOR...
+
+Model prediction: [1.9998886e-04 9.9980003e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  i                   | Impact: 0.008063 → PHISHING
+ 2.  am                  | Impact: 0.008063 → PHISHING
+ 3.  mr                  | Impact: 0.008063 → PHISHING
+ 4.  .                   | Impact: 0.008063 → PHISHING
+ 5.  mr                  | Impact: 0.007812 → PHISHING
+ 6.  .                   | Impact: 0.007812 → PHISHING
+ 7.  mr                  | Impact: 0.007788 → PHISHING
+ 8.  .                   | Impact: 0.007788 → PHISHING
+ 9.  contact             | Impact: 0.006414 → PHISHING
+10.  you                 | Impact: 0.006414 → PHISHING
+11.  through             | Impact: 0.006414 → PHISHING
+12.  this                | Impact: 0.006414 → PHISHING
+13.  minister            | Impact: 0.005833 → PHISHING
+14.  of                  | Impact: 0.005833 → PHISHING
+15.  lebanon             | Impact: 0.005833 → PHISHING
+16.  ,                   | Impact: 0.005833 → PHISHING
+17.  i                   | Impact: 0.005160 → PHISHING
+18.  have                | Impact: 0.005160 → PHISHING
+19.  resolved            | Impact: 0.005160 → PHISHING
+20.  to                  | Impact: 0.005160 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  i                   | Impact: 0.008063
+ 2.  am                  | Impact: 0.008063
+ 3.  mr                  | Impact: 0.008063
+ 4.  .                   | Impact: 0.008063
+ 5.  mr                  | Impact: 0.007812
+ 6.  .                   | Impact: 0.007812
+ 7.  mr                  | Impact: 0.007788
+ 8.  .                   | Impact: 0.007788
+ 9.  contact             | Impact: 0.006414
+10.  you                 | Impact: 0.006414
+11.  through             | Impact: 0.006414
+12.  this                | Impact: 0.006414
+13.  minister            | Impact: 0.005833
+14.  of                  | Impact: 0.005833
+15.  lebanon             | Impact: 0.005833
+16.  ,                   | Impact: 0.005833
+17.  i                   | Impact: 0.005160
+18.  have                | Impact: 0.005160
+19.  resolved            | Impact: 0.005160
+20.  to                  | Impact: 0.005160
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.000297
+ 2.  and                 | Impact: -0.000145
+ 3.  to                  | Impact: -0.000145
+ 4.  my                  | Impact: -0.000145
+ 5.  surprise            | Impact: -0.000145
+ 6.  i                   | Impact: -0.000145
+ 7.  discovered          | Impact: -0.000145
+ 8.  that                | Impact: -0.000145
+ 9.  the                 | Impact: -0.000145
+10.  metal               | Impact: -0.000145
+11.  box                 | Impact: -0.000145
+12.  that                | Impact: -0.000145
+13.  were                | Impact: -0.000145
+14.  registered          | Impact: -0.000145

@@ -1,0 +1,75 @@
+Sample 281
+==========
+
+Sample text preview: Monday, May , @ : PM EDT CA Energy Working Group Meeting Location: Enron Eye Street, NW Suite Large Conference Room Washington, DC Linda encourages at...
+
+Model prediction: [9.9978310e-01 2.1693877e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  please              | Impact: 0.112351 → PHISHING
+ 2.  dc                  | Impact: 0.098911 → PHISHING
+ 3.  linda               | Impact: -0.094893 → LEGITIMATE
+ 4.  energy              | Impact: -0.075226 → LEGITIMATE
+ 5.  monday              | Impact: -0.073714 → LEGITIMATE
+ 6.  meeting             | Impact: -0.069406 → LEGITIMATE
+ 7.  domestic            | Impact: 0.056857 → PHISHING
+ 8.  call                | Impact: 0.056429 → PHISHING
+ 9.  international       | Impact: 0.052807 → PHISHING
+10.  code                | Impact: 0.047308 → PHISHING
+11. ron                  | Impact: -0.039385 → LEGITIMATE
+12.  attendance          | Impact: -0.030417 → LEGITIMATE
+13.  meeting             | Impact: -0.029801 → LEGITIMATE
+14.  conference          | Impact: -0.028325 → LEGITIMATE
+15.  :                   | Impact: 0.027714 → PHISHING
+16.  weekly              | Impact: -0.020193 → LEGITIMATE
+17.  if                  | Impact: -0.015818 → LEGITIMATE
+18.  en                  | Impact: -0.015492 → LEGITIMATE
+19.  suite               | Impact: 0.014797 → PHISHING
+20.  -                   | Impact: -0.013955 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  please              | Impact: 0.112351
+ 2.  dc                  | Impact: 0.098911
+ 3.  domestic            | Impact: 0.056857
+ 4.  call                | Impact: 0.056429
+ 5.  international       | Impact: 0.052807
+ 6.  code                | Impact: 0.047308
+ 7.  :                   | Impact: 0.027714
+ 8.  suite               | Impact: 0.014797
+ 9.  -                   | Impact: 0.009033
+10.  room                | Impact: 0.008419
+11.  are                 | Impact: 0.007578
+12.  washington          | Impact: 0.007442
+13.  caller              | Impact: 0.006919
+14.  in                  | Impact: 0.006472
+15.  may                 | Impact: 0.005297
+16.  caller              | Impact: 0.005272
+17. t                    | Impact: 0.004969
+18.  @                   | Impact: 0.004559
+19.  code                | Impact: 0.004312
+20.  -                   | Impact: 0.003964
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  linda               | Impact: -0.094893
+ 2.  energy              | Impact: -0.075226
+ 3.  monday              | Impact: -0.073714
+ 4.  meeting             | Impact: -0.069406
+ 5. ron                  | Impact: -0.039385
+ 6.  attendance          | Impact: -0.030417
+ 7.  meeting             | Impact: -0.029801
+ 8.  conference          | Impact: -0.028325
+ 9.  weekly              | Impact: -0.020193
+10.  if                  | Impact: -0.015818
+11.  en                  | Impact: -0.015492
+12.  -                   | Impact: -0.013955
+13.  ed                  | Impact: -0.013623
+14.  group               | Impact: -0.012558
+15.  you                 | Impact: -0.012354
+16.  encourages          | Impact: -0.010371
+17.  important           | Impact: -0.008114
+18.  not                 | Impact: -0.006480
+19.  -                   | Impact: -0.005101
+20.  dc                  | Impact: -0.004201

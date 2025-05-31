@@ -1,0 +1,65 @@
+Sample 85
+=========
+
+Sample text preview: On Tue, -- at :, Panu Matilainen wrote: > On Mon, Oct , Jesse Keating wrote: > > > On Mon, Oct :: + > > Matthias Saou wrote: > > > > # I've never hear...
+
+Model prediction: [9.9978405e-01 2.1596176e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. rti                  | Impact: -0.010184 → LEGITIMATE
+ 2.  .                   | Impact: -0.007288 → LEGITIMATE
+ 3.  ibm                 | Impact: -0.007108 → LEGITIMATE
+ 4.  digit               | Impact: -0.006936 → LEGITIMATE
+ 5.  :                   | Impact: -0.006848 → LEGITIMATE
+ 6.  odd                 | Impact: -0.006618 → LEGITIMATE
+ 7. fy                   | Impact: -0.006271 → LEGITIMATE
+ 8.  ce                  | Impact: -0.006138 → LEGITIMATE
+ 9.  :                   | Impact: -0.005971 → LEGITIMATE
+10.  chris               | Impact: -0.005538 → LEGITIMATE
+11.  -                   | Impact: -0.005411 → LEGITIMATE
+12.  -                   | Impact: -0.005411 → LEGITIMATE
+13.  >                   | Impact: -0.005367 → LEGITIMATE
+14.  on                  | Impact: -0.005367 → LEGITIMATE
+15.  model               | Impact: -0.004733 → LEGITIMATE
+16.  >                   | Impact: -0.004494 → LEGITIMATE
+17.  number              | Impact: -0.004126 → LEGITIMATE
+18.  hat                 | Impact: -0.003865 → LEGITIMATE
+19.  were                | Impact: -0.003865 → LEGITIMATE
+20.  wrote               | Impact: -0.003709 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mat                 | Impact: 0.000591
+ 2. ila                  | Impact: 0.000591
+ 3. inen                 | Impact: 0.000394
+ 4.  pan                 | Impact: 0.000185
+ 5. u                    | Impact: 0.000185
+ 6.  cd                  | Impact: 0.000024
+ 7.  -                   | Impact: 0.000024
+ 8.  rom                 | Impact: 0.000024
+ 9.  *                   | Impact: 0.000024
+10.  and                 | Impact: 0.000024
+
+Top features pushing towards LEGITIMATE classification:
+ 1. rti                  | Impact: -0.010184
+ 2.  .                   | Impact: -0.007288
+ 3.  ibm                 | Impact: -0.007108
+ 4.  digit               | Impact: -0.006936
+ 5.  :                   | Impact: -0.006848
+ 6.  odd                 | Impact: -0.006618
+ 7. fy                   | Impact: -0.006271
+ 8.  ce                  | Impact: -0.006138
+ 9.  :                   | Impact: -0.005971
+10.  chris               | Impact: -0.005538
+11.  -                   | Impact: -0.005411
+12.  -                   | Impact: -0.005411
+13.  >                   | Impact: -0.005367
+14.  on                  | Impact: -0.005367
+15.  model               | Impact: -0.004733
+16.  >                   | Impact: -0.004494
+17.  number              | Impact: -0.004126
+18.  hat                 | Impact: -0.003865
+19.  were                | Impact: -0.003865
+20.  wrote               | Impact: -0.003709

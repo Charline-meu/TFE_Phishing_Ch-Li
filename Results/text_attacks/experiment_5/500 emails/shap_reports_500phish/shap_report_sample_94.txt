@@ -1,0 +1,69 @@
+Sample 94
+=========
+
+Sample text preview: You have pending incoming messages placed on hold The following email messages could not be delivered due to mailbox delivery error. Click on Release ...
+
+Model prediction: [2.9620496e-04 9.9970382e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  messages            | Impact: 0.066124 → PHISHING
+ 2.  incoming            | Impact: 0.058636 → PHISHING
+ 3.  release             | Impact: 0.051325 → PHISHING
+ 4.  click               | Impact: 0.048807 → PHISHING
+ 5.  contract            | Impact: 0.046141 → PHISHING
+ 6.  messages            | Impact: 0.042457 → PHISHING
+ 7.  placed              | Impact: 0.041231 → PHISHING
+ 8.  hold                | Impact: 0.040701 → PHISHING
+ 9.  pending             | Impact: 0.040253 → PHISHING
+10.  release             | Impact: 0.038611 → PHISHING
+11.  signed              | Impact: 0.036507 → PHISHING
+12.  you                 | Impact: 0.035278 → PHISHING
+13.  email               | Impact: 0.034479 → PHISHING
+14.  recipient           | Impact: 0.026670 → PHISHING
+15. box                  | Impact: 0.026594 → PHISHING
+16.  release             | Impact: 0.025140 → PHISHING
+17.  below               | Impact: 0.025068 → PHISHING
+18.  delivered           | Impact: 0.024440 → PHISHING
+19.  your                | Impact: 0.022042 → PHISHING
+20.  attached            | Impact: 0.021700 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  messages            | Impact: 0.066124
+ 2.  incoming            | Impact: 0.058636
+ 3.  release             | Impact: 0.051325
+ 4.  click               | Impact: 0.048807
+ 5.  contract            | Impact: 0.046141
+ 6.  messages            | Impact: 0.042457
+ 7.  placed              | Impact: 0.041231
+ 8.  hold                | Impact: 0.040701
+ 9.  pending             | Impact: 0.040253
+10.  release             | Impact: 0.038611
+11.  signed              | Impact: 0.036507
+12.  you                 | Impact: 0.035278
+13.  email               | Impact: 0.034479
+14.  recipient           | Impact: 0.026670
+15. box                  | Impact: 0.026594
+16.  release             | Impact: 0.025140
+17.  below               | Impact: 0.025068
+18.  delivered           | Impact: 0.024440
+19.  your                | Impact: 0.022042
+20.  attached            | Impact: 0.021700
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  :                   | Impact: -0.018440
+ 2.  :                   | Impact: -0.011251
+ 3.  a                   | Impact: -0.005268
+ 4.  on                  | Impact: -0.002962
+ 5.  /                   | Impact: -0.002565
+ 6.  :                   | Impact: -0.002526
+ 7.  /                   | Impact: -0.001933
+ 8.  time                | Impact: -0.001493
+ 9.  qu                  | Impact: -0.001252
+10.  _                   | Impact: -0.001252
+11.  :                   | Impact: -0.001048
+12.  am                  | Impact: -0.000806
+13.  :                   | Impact: -0.000327
+14.  following           | Impact: -0.000120

@@ -1,0 +1,75 @@
+Phishing Sample 96
+==================
+
+Sample text preview: FROM: Mr. Jeffrey Daniels TEL: , Dear Sir, In order to transfer out (US$ Million) Twelve Million United States Dollars from ABSA .I have picked-up the...
+
+Model prediction: [1.6705974e-04 9.9983287e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  of                  | Impact: 0.012913 → PHISHING
+ 2.  this                | Impact: 0.012913 → PHISHING
+ 3.  money               | Impact: 0.012913 → PHISHING
+ 4.  bank                | Impact: 0.011400 → PHISHING
+ 5.  account             | Impact: 0.011400 → PHISHING
+ 6.  and                 | Impact: 0.011400 → PHISHING
+ 7.  into                | Impact: 0.010254 → PHISHING
+ 8.  your                | Impact: 0.010254 → PHISHING
+ 9.  account             | Impact: 0.010254 → PHISHING
+10.  is                  | Impact: 0.010095 → PHISHING
+11.  mr                  | Impact: 0.010095 → PHISHING
+12.  the                 | Impact: 0.008514 → PHISHING
+13.  money               | Impact: 0.008514 → PHISHING
+14.  you                 | Impact: 0.007958 → PHISHING
+15.  shall               | Impact: 0.007958 → PHISHING
+16.  you                 | Impact: 0.007923 → PHISHING
+17.  will                | Impact: 0.007923 → PHISHING
+18.  provide             | Impact: 0.007923 → PHISHING
+19.  the                 | Impact: 0.007923 → PHISHING
+20.  .                   | Impact: 0.007853 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  of                  | Impact: 0.012913
+ 2.  this                | Impact: 0.012913
+ 3.  money               | Impact: 0.012913
+ 4.  bank                | Impact: 0.011400
+ 5.  account             | Impact: 0.011400
+ 6.  and                 | Impact: 0.011400
+ 7.  into                | Impact: 0.010254
+ 8.  your                | Impact: 0.010254
+ 9.  account             | Impact: 0.010254
+10.  is                  | Impact: 0.010095
+11.  mr                  | Impact: 0.010095
+12.  the                 | Impact: 0.008514
+13.  money               | Impact: 0.008514
+14.  you                 | Impact: 0.007958
+15.  shall               | Impact: 0.007958
+16.  you                 | Impact: 0.007923
+17.  will                | Impact: 0.007923
+18.  provide             | Impact: 0.007923
+19.  the                 | Impact: 0.007923
+20.  .                   | Impact: 0.007853
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  other               | Impact: -0.001908
+ 2.  relevant            | Impact: -0.001908
+ 3.  particular          | Impact: -0.001908
+ 4. s                    | Impact: -0.001908
+ 5.  /                   | Impact: -0.001908
+ 6.  information         | Impact: -0.001908
+ 7.  for                 | Impact: -0.001908
+ 8.  easy                | Impact: -0.001908
+ 9.  though              | Impact: -0.000724
+10.  i                   | Impact: -0.000724
+11.  did                 | Impact: -0.000724
+12.  not                 | Impact: -0.000724
+13.  disclose            | Impact: -0.000724
+14.  the                 | Impact: -0.000724
+15.  purpose             | Impact: -0.000724
+16.  of                  | Impact: -0.000724
+17.  i                   | Impact: -0.000309
+18.  have                | Impact: -0.000309
+19.  involved            | Impact: -0.000309
+20.  a                   | Impact: -0.000309

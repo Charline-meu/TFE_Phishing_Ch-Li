@@ -1,0 +1,75 @@
+Sample 298
+==========
+
+Sample text preview: DEAR SIR, I am MRS MARIAM ABACHA, wife of the late Nigerian Head of State, General Sani Abacha who died on the th of June while still on active duty. ...
+
+Model prediction: [1.6705481e-04 9.9983287e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.021397 → PHISHING
+ 2.  urgent              | Impact: 0.019910 → PHISHING
+ 3.  further             | Impact: 0.011919 → PHISHING
+ 4.  contacts            | Impact: 0.011919 → PHISHING
+ 5.  to                  | Impact: 0.011571 → PHISHING
+ 6.  stop                | Impact: 0.011571 → PHISHING
+ 7.  total               | Impact: 0.008077 → PHISHING
+ 8.  sum                 | Impact: 0.008077 → PHISHING
+ 9.  to                  | Impact: 0.008077 → PHISHING
+10.  you                 | Impact: 0.008077 → PHISHING
+11.  late                | Impact: 0.008068 → PHISHING
+12.  husband             | Impact: 0.008068 → PHISHING
+13.                      | Impact: 0.007954 → PHISHING
+14.  dear                | Impact: 0.007954 → PHISHING
+15.  sir                 | Impact: 0.007954 → PHISHING
+16.  to                  | Impact: 0.007943 → PHISHING
+17.  transfer            | Impact: 0.007943 → PHISHING
+18.  the                 | Impact: 0.007943 → PHISHING
+19.  funds               | Impact: 0.007943 → PHISHING
+20.  you                 | Impact: 0.007891 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.021397
+ 2.  urgent              | Impact: 0.019910
+ 3.  further             | Impact: 0.011919
+ 4.  contacts            | Impact: 0.011919
+ 5.  to                  | Impact: 0.011571
+ 6.  stop                | Impact: 0.011571
+ 7.  total               | Impact: 0.008077
+ 8.  sum                 | Impact: 0.008077
+ 9.  to                  | Impact: 0.008077
+10.  you                 | Impact: 0.008077
+11.  late                | Impact: 0.008068
+12.  husband             | Impact: 0.008068
+13.                      | Impact: 0.007954
+14.  dear                | Impact: 0.007954
+15.  sir                 | Impact: 0.007954
+16.  to                  | Impact: 0.007943
+17.  transfer            | Impact: 0.007943
+18.  the                 | Impact: 0.007943
+19.  funds               | Impact: 0.007943
+20.  you                 | Impact: 0.007891
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  forward             | Impact: -0.000980
+ 2. ed                   | Impact: -0.000980
+ 3.  to                  | Impact: -0.000980
+ 4.  this                | Impact: -0.000980
+ 5.  or                  | Impact: -0.000980
+ 6.  all                 | Impact: -0.000882
+ 7.  correspondent       | Impact: -0.000882
+ 8.  should              | Impact: -0.000882
+ 9.  be                  | Impact: -0.000882
+10.  june                | Impact: -0.000224
+11.  while               | Impact: -0.000224
+12.  still               | Impact: -0.000224
+13.  on                  | Impact: -0.000224
+14.  active              | Impact: -0.000224
+15.  duty                | Impact: -0.000224
+16.  .                   | Impact: -0.000224
+17.  -                   | Impact: -0.000100
+18.  -                   | Impact: -0.000100
+19.  -                   | Impact: -0.000100
+20.  -                   | Impact: -0.000100

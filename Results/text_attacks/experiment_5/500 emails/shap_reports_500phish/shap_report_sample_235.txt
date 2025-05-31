@@ -1,0 +1,75 @@
+Sample 235
+==========
+
+Sample text preview: DEAR FRIEND. This business proposal to you is strictly confidential, with due respect. Sorry at this perceived confusion or stress may have receiving ...
+
+Model prediction: [1.7697499e-04 9.9982303e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  with                | Impact: 0.011766 → PHISHING
+ 2.  you                 | Impact: 0.011766 → PHISHING
+ 3.  in                  | Impact: 0.011595 → PHISHING
+ 4.  your                | Impact: 0.011595 → PHISHING
+ 5.  country             | Impact: 0.011595 → PHISHING
+ 6.  to                  | Impact: 0.010816 → PHISHING
+ 7.  meet                | Impact: 0.010816 → PHISHING
+ 8.  my                  | Impact: 0.010701 → PHISHING
+ 9.  children            | Impact: 0.010701 → PHISHING
+10.  all                 | Impact: 0.010339 → PHISHING
+11.  my                  | Impact: 0.010339 → PHISHING
+12.  children            | Impact: 0.010339 → PHISHING
+13.  .                   | Impact: 0.010172 → PHISHING
+14.  my                  | Impact: 0.006862 → PHISHING
+15.  three               | Impact: 0.006862 → PHISHING
+16.  daughters           | Impact: 0.006862 → PHISHING
+17.  ben                 | Impact: 0.006515 → PHISHING
+18. ef                   | Impact: 0.006515 → PHISHING
+19. icia                 | Impact: 0.006515 → PHISHING
+20. ry                   | Impact: 0.006515 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  with                | Impact: 0.011766
+ 2.  you                 | Impact: 0.011766
+ 3.  in                  | Impact: 0.011595
+ 4.  your                | Impact: 0.011595
+ 5.  country             | Impact: 0.011595
+ 6.  to                  | Impact: 0.010816
+ 7.  meet                | Impact: 0.010816
+ 8.  my                  | Impact: 0.010701
+ 9.  children            | Impact: 0.010701
+10.  all                 | Impact: 0.010339
+11.  my                  | Impact: 0.010339
+12.  children            | Impact: 0.010339
+13.  .                   | Impact: 0.010172
+14.  my                  | Impact: 0.006862
+15.  three               | Impact: 0.006862
+16.  daughters           | Impact: 0.006862
+17.  ben                 | Impact: 0.006515
+18. ef                   | Impact: 0.006515
+19. icia                 | Impact: 0.006515
+20. ry                   | Impact: 0.006515
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  traditional         | Impact: -0.001540
+ 2.  norms               | Impact: -0.001540
+ 3.  .                   | Impact: -0.001540
+ 4.  and                 | Impact: -0.001540
+ 5.  despite             | Impact: -0.000331
+ 6.  that                | Impact: -0.000331
+ 7.  ,                   | Impact: -0.000331
+ 8.  i                   | Impact: -0.000282
+ 9.  received            | Impact: -0.000282
+10.  key                 | Impact: -0.000282
+11.  text                | Impact: -0.000282
+12.  code                | Impact: -0.000282
+13.  from                | Impact: -0.000282
+14.  a                   | Impact: -0.000282
+15.  security            | Impact: -0.000282
+16.  company             | Impact: -0.000282
+17.  in                  | Impact: -0.000282
+18.  europe              | Impact: -0.000282
+19.  ,                   | Impact: -0.000282
+20.  refused             | Impact: -0.000148

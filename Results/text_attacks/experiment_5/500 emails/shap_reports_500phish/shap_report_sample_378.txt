@@ -1,0 +1,75 @@
+Sample 378
+==========
+
+Sample text preview: FROM:DESK OF MR HAROUNA HAJI MR HAROUNA HAJI BANK OF AFRICA (BOA) OUAGADOU-BURKINA FASO PHONE NUMBER ----. ATTN: SIR, THIS MESSAGE MIGHT MEET YOU IN U...
+
+Model prediction: [1.9911629e-04 9.9980086e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  bank                | Impact: 0.010540 → PHISHING
+ 2.  family              | Impact: 0.009568 → PHISHING
+ 3.  on                  | Impact: 0.009568 → PHISHING
+ 4.  july                | Impact: 0.009568 → PHISHING
+ 5.  in                  | Impact: 0.009568 → PHISHING
+ 6.  you                 | Impact: 0.009531 → PHISHING
+ 7.  for                 | Impact: 0.009531 → PHISHING
+ 8.  this                | Impact: 0.009531 → PHISHING
+ 9.  transaction         | Impact: 0.009531 → PHISHING
+10.  haji                | Impact: 0.009431 → PHISHING
+11.  mr                  | Impact: 0.009431 → PHISHING
+12.  mr                  | Impact: 0.008801 → PHISHING
+13.  ha                  | Impact: 0.008801 → PHISHING
+14. rou                  | Impact: 0.008801 → PHISHING
+15. na                   | Impact: 0.008801 → PHISHING
+16.  the                 | Impact: 0.008743 → PHISHING
+17.  deceased            | Impact: 0.008743 → PHISHING
+18.  haji                | Impact: 0.008223 → PHISHING
+19.  .                   | Impact: 0.008223 → PHISHING
+20.  i                   | Impact: 0.008180 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  bank                | Impact: 0.010540
+ 2.  family              | Impact: 0.009568
+ 3.  on                  | Impact: 0.009568
+ 4.  july                | Impact: 0.009568
+ 5.  in                  | Impact: 0.009568
+ 6.  you                 | Impact: 0.009531
+ 7.  for                 | Impact: 0.009531
+ 8.  this                | Impact: 0.009531
+ 9.  transaction         | Impact: 0.009531
+10.  haji                | Impact: 0.009431
+11.  mr                  | Impact: 0.009431
+12.  mr                  | Impact: 0.008801
+13.  ha                  | Impact: 0.008801
+14. rou                  | Impact: 0.008801
+15. na                   | Impact: 0.008801
+16.  the                 | Impact: 0.008743
+17.  deceased            | Impact: 0.008743
+18.  haji                | Impact: 0.008223
+19.  .                   | Impact: 0.008223
+20.  i                   | Impact: 0.008180
+
+Top features pushing towards LEGITIMATE classification:
+ 1.                      | Impact: -0.001735
+ 2.  from                | Impact: -0.001735
+ 3.  :                   | Impact: -0.001735
+ 4.  desk                | Impact: -0.001735
+ 5.  -                   | Impact: -0.001361
+ 6.  -                   | Impact: -0.001361
+ 7.  -                   | Impact: -0.001361
+ 8.  -                   | Impact: -0.001361
+ 9.  have                | Impact: -0.001008
+10.  a                   | Impact: -0.001008
+11.  great               | Impact: -0.001008
+12.  day                 | Impact: -0.001008
+13.  .                   | Impact: -0.001008
+14.  -                   | Impact: -0.000989
+15.  -                   | Impact: -0.000989
+16.  -                   | Impact: -0.000989
+17.  -                   | Impact: -0.000989
+18.  -                   | Impact: -0.000971
+19.  -                   | Impact: -0.000971
+20.  -                   | Impact: -0.000971

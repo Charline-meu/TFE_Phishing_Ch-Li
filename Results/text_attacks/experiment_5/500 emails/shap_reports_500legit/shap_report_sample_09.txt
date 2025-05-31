@@ -1,0 +1,75 @@
+Sample 9
+========
+
+Sample text preview: ---------------------- Forwarded by Vince J Kaminski/HOU/ECT on // : PM --------------------------- "John D. Martin" on // :: PM To: cc: Subject: FYI ...
+
+Model prediction: [9.9979705e-01 2.0302163e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  document            | Impact: 0.004952 → PHISHING
+ 2.  ssr                 | Impact: -0.004403 → LEGITIMATE
+ 3.  available           | Impact: 0.003487 → PHISHING
+ 4.  john                | Impact: -0.002838 → LEGITIMATE
+ 5. tha                  | Impact: 0.002375 → PHISHING
+ 6.  ko                  | Impact: 0.002145 → PHISHING
+ 7.  massachusetts       | Impact: -0.002063 → LEGITIMATE
+ 8.  -                   | Impact: -0.001514 → LEGITIMATE
+ 9.  ec                  | Impact: -0.001377 → LEGITIMATE
+10.  .                   | Impact: -0.001318 → LEGITIMATE
+11. ri                   | Impact: 0.001190 → PHISHING
+12.  :                   | Impact: -0.001179 → LEGITIMATE
+13. t                    | Impact: -0.000911 → LEGITIMATE
+14.  technology          | Impact: -0.000862 → LEGITIMATE
+15.  paper               | Impact: -0.000858 → LEGITIMATE
+16.  -                   | Impact: -0.000857 → LEGITIMATE
+17.  d                   | Impact: -0.000854 → LEGITIMATE
+18.  /                   | Impact: -0.000804 → LEGITIMATE
+19.  electronic          | Impact: -0.000760 → LEGITIMATE
+20.  march               | Impact: -0.000752 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  document            | Impact: 0.004952
+ 2.  available           | Impact: 0.003487
+ 3. tha                  | Impact: 0.002375
+ 4.  ko                  | Impact: 0.002145
+ 5. ri                   | Impact: 0.001190
+ 6.  )                   | Impact: 0.000653
+ 7.  :                   | Impact: 0.000643
+ 8.  web                 | Impact: 0.000629
+ 9.  from                | Impact: 0.000566
+10.  date                | Impact: 0.000252
+11.  tx                  | Impact: 0.000213
+12.  the                 | Impact: 0.000197
+13.  :                   | Impact: 0.000185
+14.  po                  | Impact: 0.000159
+15.  box                 | Impact: 0.000159
+16.                      | Impact: 0.000081
+17.  -                   | Impact: 0.000081
+18.  wa                  | Impact: 0.000074
+19. co                   | Impact: 0.000074
+20.  forward             | Impact: 0.000073
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ssr                 | Impact: -0.004403
+ 2.  john                | Impact: -0.002838
+ 3.  massachusetts       | Impact: -0.002063
+ 4.  -                   | Impact: -0.001514
+ 5.  ec                  | Impact: -0.001377
+ 6.  .                   | Impact: -0.001318
+ 7.  :                   | Impact: -0.001179
+ 8. t                    | Impact: -0.000911
+ 9.  technology          | Impact: -0.000862
+10.  paper               | Impact: -0.000858
+11.  -                   | Impact: -0.000857
+12.  d                   | Impact: -0.000854
+13.  /                   | Impact: -0.000804
+14.  electronic          | Impact: -0.000760
+15.  march               | Impact: -0.000752
+16.  of                  | Impact: -0.000744
+17.  -                   | Impact: -0.000600
+18.  pm                  | Impact: -0.000502
+19.  collins             | Impact: -0.000429
+20.  chair               | Impact: -0.000429

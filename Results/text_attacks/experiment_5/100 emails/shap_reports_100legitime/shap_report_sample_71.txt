@@ -1,0 +1,75 @@
+Phishing Sample 71
+==================
+
+Sample text preview: Philip Reynolds wrote: > Inn Share's lines of wisdom included: > > > > Hi,all: > > > > Does anyone know how to list the biggest file in my > > root di...
+
+Model prediction: [9.9979228e-01 2.0769844e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  etc                 | Impact: -0.009899 → LEGITIMATE
+ 2.  >                   | Impact: -0.004343 → LEGITIMATE
+ 3.  >                   | Impact: -0.004307 → LEGITIMATE
+ 4.  find                | Impact: 0.002396 → PHISHING
+ 5.  du                  | Impact: 0.002166 → PHISHING
+ 6.  because             | Impact: -0.001944 → LEGITIMATE
+ 7.  name                | Impact: 0.001835 → PHISHING
+ 8.  out                 | Impact: 0.001671 → PHISHING
+ 9. gs                   | Impact: 0.001635 → PHISHING
+10.  my                  | Impact: 0.001567 → PHISHING
+11.  cause               | Impact: 0.001328 → PHISHING
+12.  -                   | Impact: 0.001289 → PHISHING
+13.  >                   | Impact: -0.001004 → LEGITIMATE
+14.  wrote               | Impact: -0.000974 → LEGITIMATE
+15.  reynolds            | Impact: -0.000934 → LEGITIMATE
+16.  i                   | Impact: -0.000919 → LEGITIMATE
+17.  list                | Impact: -0.000900 → LEGITIMATE
+18.  root                | Impact: 0.000858 → PHISHING
+19.  :                   | Impact: -0.000858 → LEGITIMATE
+20.  >                   | Impact: -0.000843 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  find                | Impact: 0.002396
+ 2.  du                  | Impact: 0.002166
+ 3.  name                | Impact: 0.001835
+ 4.  out                 | Impact: 0.001671
+ 5. gs                   | Impact: 0.001635
+ 6.  my                  | Impact: 0.001567
+ 7.  cause               | Impact: 0.001328
+ 8.  -                   | Impact: 0.001289
+ 9.  root                | Impact: 0.000858
+10.  .                   | Impact: 0.000632
+11.  /                   | Impact: 0.000614
+12.  dir                 | Impact: 0.000614
+13.  mail                | Impact: 0.000569
+14.  tail                | Impact: 0.000535
+15.  the                 | Impact: 0.000526
+16.  reason              | Impact: 0.000526
+17.  hi                  | Impact: 0.000516
+18.  -                   | Impact: 0.000508
+19.  want                | Impact: 0.000438
+20.  to                  | Impact: 0.000438
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  etc                 | Impact: -0.009899
+ 2.  >                   | Impact: -0.004343
+ 3.  >                   | Impact: -0.004307
+ 4.  because             | Impact: -0.001944
+ 5.  >                   | Impact: -0.001004
+ 6.  wrote               | Impact: -0.000974
+ 7.  reynolds            | Impact: -0.000934
+ 8.  i                   | Impact: -0.000919
+ 9.  list                | Impact: -0.000900
+10.  :                   | Impact: -0.000858
+11.  >                   | Impact: -0.000843
+12.  >                   | Impact: -0.000843
+13.  you                 | Impact: -0.000799
+14.  >                   | Impact: -0.000798
+15.  >                   | Impact: -0.000798
+16.  lines               | Impact: -0.000778
+17.  dave                | Impact: -0.000763
+18.  included            | Impact: -0.000733
+19.                      | Impact: -0.000704
+20.  philip              | Impact: -0.000704

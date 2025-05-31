@@ -1,0 +1,75 @@
+Sample 113
+==========
+
+Sample text preview: As you know, Enron Net Works (ENW) and Enron Global Strategic Sourcing (GSS) recently executed a two-year agreement, whereby MCI WorldCom would serve ...
+
+Model prediction: [9.9978548e-01 2.1456937e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1. ron                  | Impact: -0.067777 → LEGITIMATE
+ 2.  en                  | Impact: -0.060168 → LEGITIMATE
+ 3.  en                  | Impact: -0.012193 → LEGITIMATE
+ 4. w                    | Impact: -0.012193 → LEGITIMATE
+ 5.  en                  | Impact: -0.007870 → LEGITIMATE
+ 6. ron                  | Impact: -0.007870 → LEGITIMATE
+ 7.  en                  | Impact: -0.007316 → LEGITIMATE
+ 8. ron                  | Impact: -0.007316 → LEGITIMATE
+ 9.  questions           | Impact: -0.006587 → LEGITIMATE
+10.  are                 | Impact: 0.005840 → PHISHING
+11.  located             | Impact: 0.005840 → PHISHING
+12.  en                  | Impact: -0.005430 → LEGITIMATE
+13. ron                  | Impact: -0.005430 → LEGITIMATE
+14.  where               | Impact: 0.005093 → PHISHING
+15.  you                 | Impact: 0.005093 → PHISHING
+16.  number              | Impact: 0.004778 → PHISHING
+17.  for                 | Impact: 0.004778 → PHISHING
+18. ron                  | Impact: -0.004703 → LEGITIMATE
+19.  the                 | Impact: 0.004691 → PHISHING
+20.  country             | Impact: 0.004691 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  are                 | Impact: 0.005840
+ 2.  located             | Impact: 0.005840
+ 3.  where               | Impact: 0.005093
+ 4.  you                 | Impact: 0.005093
+ 5.  number              | Impact: 0.004778
+ 6.  for                 | Impact: 0.004778
+ 7.  the                 | Impact: 0.004691
+ 8.  country             | Impact: 0.004691
+ 9.  country             | Impact: 0.003812
+10.  access              | Impact: 0.003812
+11.  code                | Impact: 0.003812
+12.  )                   | Impact: 0.003812
+13.  you                 | Impact: 0.003490
+14.  will                | Impact: 0.003490
+15.  world               | Impact: 0.002605
+16. phone                | Impact: 0.002605
+17.  international       | Impact: 0.002605
+18.  access              | Impact: 0.002605
+19.  then                | Impact: 0.002562
+20.  be                  | Impact: 0.002562
+
+Top features pushing towards LEGITIMATE classification:
+ 1. ron                  | Impact: -0.067777
+ 2.  en                  | Impact: -0.060168
+ 3.  en                  | Impact: -0.012193
+ 4. w                    | Impact: -0.012193
+ 5.  en                  | Impact: -0.007870
+ 6. ron                  | Impact: -0.007870
+ 7.  en                  | Impact: -0.007316
+ 8. ron                  | Impact: -0.007316
+ 9.  questions           | Impact: -0.006587
+10.  en                  | Impact: -0.005430
+11. ron                  | Impact: -0.005430
+12. ron                  | Impact: -0.004703
+13.  en                  | Impact: -0.004522
+14.  at                  | Impact: -0.004158
+15.  -                   | Impact: -0.004158
+16.  -                   | Impact: -0.004158
+17.  it                  | Impact: -0.004148
+18.  manager             | Impact: -0.004148
+19.  -                   | Impact: -0.003855
+20.  -                   | Impact: -0.003855

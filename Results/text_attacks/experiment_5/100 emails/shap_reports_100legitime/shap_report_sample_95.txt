@@ -1,0 +1,75 @@
+Phishing Sample 95
+==================
+
+Sample text preview: For TW. Can you help me here? -------------------------- Sent from my BlackBerry Wireless Handheld ( -----Original Message----- From: Taylor, Sarah To...
+
+Model prediction: [9.9904865e-01 9.5129531e-04]
+Predicted class: LEGITIMATE with 0.9990 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  here                | Impact: 0.015348 → PHISHING
+ 2.  me                  | Impact: 0.013288 → PHISHING
+ 3.  blackberry          | Impact: -0.010539 → LEGITIMATE
+ 4.  my                  | Impact: -0.009758 → LEGITIMATE
+ 5.  sent                | Impact: 0.009727 → PHISHING
+ 6.  help                | Impact: 0.008946 → PHISHING
+ 7.  for                 | Impact: -0.008164 → LEGITIMATE
+ 8.  you                 | Impact: 0.006853 → PHISHING
+ 9.  t                   | Impact: -0.006328 → LEGITIMATE
+10.  jays                | Impact: -0.004365 → LEGITIMATE
+11.  wireless            | Impact: 0.004327 → PHISHING
+12.  handheld            | Impact: -0.003858 → LEGITIMATE
+13.  from                | Impact: 0.003318 → PHISHING
+14.  .                   | Impact: -0.003265 → LEGITIMATE
+15. w                    | Impact: -0.003247 → LEGITIMATE
+16.  ?                   | Impact: -0.002817 → LEGITIMATE
+17.  can                 | Impact: 0.002283 → PHISHING
+18.  -                   | Impact: -0.002177 → LEGITIMATE
+19.  thanks              | Impact: -0.002148 → LEGITIMATE
+20. hre                  | Impact: -0.001638 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  here                | Impact: 0.015348
+ 2.  me                  | Impact: 0.013288
+ 3.  sent                | Impact: 0.009727
+ 4.  help                | Impact: 0.008946
+ 5.  you                 | Impact: 0.006853
+ 6.  wireless            | Impact: 0.004327
+ 7.  from                | Impact: 0.003318
+ 8.  can                 | Impact: 0.002283
+ 9.  know                | Impact: 0.000920
+10.  let                 | Impact: 0.000915
+11.  me                  | Impact: 0.000915
+12.  millions            | Impact: 0.000894
+13.  as                  | Impact: 0.000894
+14.  -                   | Impact: 0.000837
+15.  -                   | Impact: 0.000824
+16.  .                   | Impact: 0.000749
+17.  .                   | Impact: 0.000719
+18.  -                   | Impact: 0.000542
+19.  s                   | Impact: 0.000486
+20.  not                 | Impact: 0.000486
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  blackberry          | Impact: -0.010539
+ 2.  my                  | Impact: -0.009758
+ 3.  for                 | Impact: -0.008164
+ 4.  t                   | Impact: -0.006328
+ 5.  jays                | Impact: -0.004365
+ 6.  handheld            | Impact: -0.003858
+ 7.  .                   | Impact: -0.003265
+ 8. w                    | Impact: -0.003247
+ 9.  ?                   | Impact: -0.002817
+10.  -                   | Impact: -0.002177
+11.  thanks              | Impact: -0.002148
+12. hre                  | Impact: -0.001638
+13.                      | Impact: -0.001610
+14.  -                   | Impact: -0.001536
+15.  -                   | Impact: -0.001534
+16.  -                   | Impact: -0.001534
+17.  -                   | Impact: -0.001532
+18.  -                   | Impact: -0.001532
+19. e                    | Impact: -0.001519
+20.  -                   | Impact: -0.001479

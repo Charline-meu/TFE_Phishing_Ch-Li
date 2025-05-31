@@ -1,0 +1,75 @@
+Sample 454
+==========
+
+Sample text preview: Home for Sale? List with us! < Buying a home is an important step in your life and quite possibly the largest purchase you will ever make. A trustwort...
+
+Model prediction: [2.9204838e-04 9.9970788e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  trust               | Impact: 0.019195 → PHISHING
+ 2. worthy               | Impact: 0.018500 → PHISHING
+ 3.  agent               | Impact: 0.017559 → PHISHING
+ 4.  be                  | Impact: 0.016112 → PHISHING
+ 5.  removed             | Impact: 0.016112 → PHISHING
+ 6.  of                  | Impact: 0.015044 → PHISHING
+ 7.  your                | Impact: 0.015044 → PHISHING
+ 8.  trust               | Impact: 0.015044 → PHISHING
+ 9.  list                | Impact: 0.012544 → PHISHING
+10.  click               | Impact: 0.012544 → PHISHING
+11.  reliable            | Impact: 0.012428 → PHISHING
+12.  in                  | Impact: 0.010992 → PHISHING
+13.  your                | Impact: 0.010992 → PHISHING
+14.  life                | Impact: 0.010992 → PHISHING
+15.  and                 | Impact: 0.010426 → PHISHING
+16.  will                | Impact: 0.010334 → PHISHING
+17.  ever                | Impact: 0.010334 → PHISHING
+18.  make                | Impact: 0.010334 → PHISHING
+19.  purchase            | Impact: 0.010334 → PHISHING
+20.  you                 | Impact: 0.010334 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  trust               | Impact: 0.019195
+ 2. worthy               | Impact: 0.018500
+ 3.  agent               | Impact: 0.017559
+ 4.  be                  | Impact: 0.016112
+ 5.  removed             | Impact: 0.016112
+ 6.  of                  | Impact: 0.015044
+ 7.  your                | Impact: 0.015044
+ 8.  trust               | Impact: 0.015044
+ 9.  list                | Impact: 0.012544
+10.  click               | Impact: 0.012544
+11.  reliable            | Impact: 0.012428
+12.  in                  | Impact: 0.010992
+13.  your                | Impact: 0.010992
+14.  life                | Impact: 0.010992
+15.  and                 | Impact: 0.010426
+16.  will                | Impact: 0.010334
+17.  ever                | Impact: 0.010334
+18.  make                | Impact: 0.010334
+19.  purchase            | Impact: 0.010334
+20.  you                 | Impact: 0.010334
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  !                   | Impact: -0.007215
+ 2.  list                | Impact: -0.003883
+ 3.  with                | Impact: -0.003883
+ 4.  us                  | Impact: -0.003883
+ 5.  .                   | Impact: -0.002136
+ 6.  .                   | Impact: -0.002082
+ 7.  the                 | Impact: -0.001969
+ 8.  properties          | Impact: -0.001969
+ 9.  to                  | Impact: -0.001124
+10.  view                | Impact: -0.001124
+11.  decision            | Impact: -0.000605
+12.  making              | Impact: -0.000605
+13.  process             | Impact: -0.000605
+14.  ,                   | Impact: -0.000605
+15.  during              | Impact: -0.000605
+16.  the                 | Impact: -0.000605
+17.  client              | Impact: -0.000276
+18.  evaluation          | Impact: -0.000276
+19. s                    | Impact: -0.000276
+20.  honest              | Impact: -0.000195

@@ -1,0 +1,68 @@
+Sample 34
+=========
+
+Sample text preview: I have a new email address!You can now email me at: From: Emma Wuor In London My dear, TREAT AS URGENT PLEASE I am sorry for any inconveniences this c...
+
+Model prediction: [1.6682624e-04 9.9983311e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  liberia             | Impact: 0.023573 → PHISHING
+ 2.  my                  | Impact: 0.020348 → PHISHING
+ 3.  dear                | Impact: 0.020348 → PHISHING
+ 4.  address             | Impact: 0.018112 → PHISHING
+ 5.  kindly              | Impact: 0.018016 → PHISHING
+ 6.  visit               | Impact: 0.018016 → PHISHING
+ 7.  urgent              | Impact: 0.016429 → PHISHING
+ 8.  liberia             | Impact: 0.016192 → PHISHING
+ 9.  please              | Impact: 0.015655 → PHISHING
+10.  in                  | Impact: 0.014404 → PHISHING
+11.  lagos               | Impact: 0.014404 → PHISHING
+12.  this                | Impact: 0.012890 → PHISHING
+13.  web                 | Impact: 0.012890 → PHISHING
+14.  investment          | Impact: 0.012364 → PHISHING
+15.  company             | Impact: 0.012364 → PHISHING
+16.  former              | Impact: 0.011827 → PHISHING
+17.  minister            | Impact: 0.011827 → PHISHING
+18.  your                | Impact: 0.011771 → PHISHING
+19.  country             | Impact: 0.011771 → PHISHING
+20.  email               | Impact: 0.011744 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  liberia             | Impact: 0.023573
+ 2.  my                  | Impact: 0.020348
+ 3.  dear                | Impact: 0.020348
+ 4.  address             | Impact: 0.018112
+ 5.  kindly              | Impact: 0.018016
+ 6.  visit               | Impact: 0.018016
+ 7.  urgent              | Impact: 0.016429
+ 8.  liberia             | Impact: 0.016192
+ 9.  please              | Impact: 0.015655
+10.  in                  | Impact: 0.014404
+11.  lagos               | Impact: 0.014404
+12.  this                | Impact: 0.012890
+13.  web                 | Impact: 0.012890
+14.  investment          | Impact: 0.012364
+15.  company             | Impact: 0.012364
+16.  former              | Impact: 0.011827
+17.  minister            | Impact: 0.011827
+18.  your                | Impact: 0.011771
+19.  country             | Impact: 0.011771
+20.  email               | Impact: 0.011744
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  taylor              | Impact: -0.005115
+ 2.  charles             | Impact: -0.002189
+ 3.  :                   | Impact: -0.000609
+ 4.  emma                | Impact: -0.000609
+ 5.  wu                  | Impact: -0.000609
+ 6. or                   | Impact: -0.000609
+ 7.  ,                   | Impact: -0.000534
+ 8.  ,                   | Impact: -0.000292
+ 9.                      | Impact: -0.000255
+10.  i                   | Impact: -0.000255
+11.  have                | Impact: -0.000255
+12.  a                   | Impact: -0.000255
+13.  .                   | Impact: -0.000108

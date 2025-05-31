@@ -1,0 +1,75 @@
+Sample 351
+==========
+
+Sample text preview: -- From:Dr.Derrick Springs. Manchester M FX, United Kingdom. Tel: Fax: This is to inform you that your funds of US$ Million has been approved for imme...
+
+Model prediction: [1.5822245e-04 9.9984181e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.041075 → PHISHING
+ 2.  full                | Impact: 0.041075 → PHISHING
+ 3.  funds               | Impact: 0.037943 → PHISHING
+ 4.  country             | Impact: 0.035929 → PHISHING
+ 5.  of                  | Impact: 0.035929 → PHISHING
+ 6.  residence           | Impact: 0.033539 → PHISHING
+ 7.  names               | Impact: 0.032295 → PHISHING
+ 8.  your                | Impact: 0.031155 → PHISHING
+ 9.  in                  | Impact: 0.026525 → PHISHING
+10.  physical            | Impact: 0.017354 → PHISHING
+11.  address             | Impact: 0.017354 → PHISHING
+12.  you                 | Impact: 0.016436 → PHISHING
+13. fication             | Impact: -0.015811 → LEGITIMATE
+14.  to                  | Impact: 0.013948 → PHISHING
+15.  that                | Impact: 0.012017 → PHISHING
+16.  your                | Impact: 0.012017 → PHISHING
+17.  the                 | Impact: 0.011350 → PHISHING
+18.  funds               | Impact: 0.011350 → PHISHING
+19.  delivery            | Impact: 0.010297 → PHISHING
+20.  to                  | Impact: 0.010297 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.041075
+ 2.  full                | Impact: 0.041075
+ 3.  funds               | Impact: 0.037943
+ 4.  country             | Impact: 0.035929
+ 5.  of                  | Impact: 0.035929
+ 6.  residence           | Impact: 0.033539
+ 7.  names               | Impact: 0.032295
+ 8.  your                | Impact: 0.031155
+ 9.  in                  | Impact: 0.026525
+10.  physical            | Impact: 0.017354
+11.  address             | Impact: 0.017354
+12.  you                 | Impact: 0.016436
+13.  to                  | Impact: 0.013948
+14.  that                | Impact: 0.012017
+15.  your                | Impact: 0.012017
+16.  the                 | Impact: 0.011350
+17.  funds               | Impact: 0.011350
+18.  delivery            | Impact: 0.010297
+19.  to                  | Impact: 0.010297
+20.  you                 | Impact: 0.010297
+
+Top features pushing towards LEGITIMATE classification:
+ 1. fication             | Impact: -0.015811
+ 2.  cl                  | Impact: -0.005031
+ 3. ari                  | Impact: -0.005031
+ 4.  ,                   | Impact: -0.001929
+ 5.                      | Impact: -0.001519
+ 6.  -                   | Impact: -0.001519
+ 7.  -                   | Impact: -0.001519
+ 8.  from                | Impact: -0.001519
+ 9.  ,                   | Impact: -0.001302
+10.  :                   | Impact: -0.001137
+11.  dr                  | Impact: -0.001137
+12.  .                   | Impact: -0.001137
+13.  derrick             | Impact: -0.001084
+14.  springs             | Impact: -0.001084
+15.  .                   | Impact: -0.001084
+16.  your                | Impact: -0.000030
+17.  quick               | Impact: -0.000030
+18.  response            | Impact: -0.000030
+19.  will                | Impact: -0.000030
+20.  be                  | Impact: -0.000030

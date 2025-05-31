@@ -1,0 +1,75 @@
+Sample 448
+==========
+
+Sample text preview: Dear Friend My name is Mr. David Kofi, the regional manager of International commercial Bank (ICB) Kaneshie Branch Ghana. I am a Ghanaian married with...
+
+Model prediction: [1.6424622e-04 9.9983573e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  fund                | Impact: 0.038754 → PHISHING
+ 2.  to                  | Impact: 0.038754 → PHISHING
+ 3.  transfer            | Impact: 0.034087 → PHISHING
+ 4.  -                   | Impact: 0.033001 → PHISHING
+ 5.  bank                | Impact: 0.033001 → PHISHING
+ 6.  you                 | Impact: 0.025876 → PHISHING
+ 7.  while               | Impact: 0.022836 → PHISHING
+ 8.  a                   | Impact: 0.013741 → PHISHING
+ 9.  bank                | Impact: 0.013741 → PHISHING
+10.  branch              | Impact: 0.012696 → PHISHING
+11.  ghana               | Impact: 0.012696 → PHISHING
+12.  a                   | Impact: 0.011586 → PHISHING
+13.  ghanaian            | Impact: 0.011586 → PHISHING
+14.  friend              | Impact: 0.009670 → PHISHING
+15.  married             | Impact: 0.009565 → PHISHING
+16.  with                | Impact: 0.009565 → PHISHING
+17.  two                 | Impact: 0.009426 → PHISHING
+18.  kids                | Impact: 0.009426 → PHISHING
+19.  you                 | Impact: 0.008633 → PHISHING
+20.  is                  | Impact: 0.008633 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  fund                | Impact: 0.038754
+ 2.  to                  | Impact: 0.038754
+ 3.  transfer            | Impact: 0.034087
+ 4.  -                   | Impact: 0.033001
+ 5.  bank                | Impact: 0.033001
+ 6.  you                 | Impact: 0.025876
+ 7.  while               | Impact: 0.022836
+ 8.  a                   | Impact: 0.013741
+ 9.  bank                | Impact: 0.013741
+10.  branch              | Impact: 0.012696
+11.  ghana               | Impact: 0.012696
+12.  a                   | Impact: 0.011586
+13.  ghanaian            | Impact: 0.011586
+14.  friend              | Impact: 0.009670
+15.  married             | Impact: 0.009565
+16.  with                | Impact: 0.009565
+17.  two                 | Impact: 0.009426
+18.  kids                | Impact: 0.009426
+19.  you                 | Impact: 0.008633
+20.  is                  | Impact: 0.008633
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  timely              | Impact: -0.005362
+ 2.  response            | Impact: -0.005362
+ 3.  .                   | Impact: -0.005362
+ 4.  appreciate          | Impact: -0.003585
+ 5.  your                | Impact: -0.003585
+ 6.  if                  | Impact: -0.002834
+ 7.  you                 | Impact: -0.002834
+ 8.  david               | Impact: -0.001811
+ 9.  ko                  | Impact: -0.001811
+10. fi                   | Impact: -0.001811
+11.  _                   | Impact: -0.001811
+12.  _                   | Impact: -0.001811
+13.  _                   | Impact: -0.001811
+14.  _                   | Impact: -0.001811
+15.  _                   | Impact: -0.001797
+16.  _                   | Impact: -0.001797
+17.  _                   | Impact: -0.001797
+18.  _                   | Impact: -0.001797
+19.  _                   | Impact: -0.001797
+20.  _                   | Impact: -0.001797

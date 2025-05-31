@@ -1,0 +1,74 @@
+Sample 266
+==========
+
+Sample text preview: Dear Customer, We've noticed that some of your account information appears to be missing or incorrect We need to verify your account information in or...
+
+Model prediction: [1.6568262e-04 9.9983430e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  account             | Impact: 0.124047 → PHISHING
+ 2.  click               | Impact: 0.073197 → PHISHING
+ 3.  your                | Impact: 0.062814 → PHISHING
+ 4.  account             | Impact: 0.041140 → PHISHING
+ 5.  your                | Impact: 0.034301 → PHISHING
+ 6.  dear                | Impact: 0.031297 → PHISHING
+ 7.  please              | Impact: 0.030819 → PHISHING
+ 8.  account             | Impact: 0.027528 → PHISHING
+ 9.  verify              | Impact: 0.024621 → PHISHING
+10.  account             | Impact: 0.024003 → PHISHING
+11.  account             | Impact: 0.022851 → PHISHING
+12.  here                | Impact: 0.021664 → PHISHING
+13.  your                | Impact: 0.021231 → PHISHING
+14.  your                | Impact: 0.020307 → PHISHING
+15.  once                | Impact: 0.019143 → PHISHING
+16.  you                 | Impact: 0.017217 → PHISHING
+17.  verify              | Impact: 0.017094 → PHISHING
+18.  your                | Impact: 0.016195 → PHISHING
+19.  please              | Impact: 0.015367 → PHISHING
+20.  information         | Impact: 0.013030 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  account             | Impact: 0.124047
+ 2.  click               | Impact: 0.073197
+ 3.  your                | Impact: 0.062814
+ 4.  account             | Impact: 0.041140
+ 5.  your                | Impact: 0.034301
+ 6.  dear                | Impact: 0.031297
+ 7.  please              | Impact: 0.030819
+ 8.  account             | Impact: 0.027528
+ 9.  verify              | Impact: 0.024621
+10.  account             | Impact: 0.024003
+11.  account             | Impact: 0.022851
+12.  here                | Impact: 0.021664
+13.  your                | Impact: 0.021231
+14.  your                | Impact: 0.020307
+15.  once                | Impact: 0.019143
+16.  you                 | Impact: 0.017217
+17.  verify              | Impact: 0.017094
+18.  your                | Impact: 0.016195
+19.  please              | Impact: 0.015367
+20.  information         | Impact: 0.013030
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.001735
+ 2.  today               | Impact: -0.001452
+ 3.  appears             | Impact: -0.001021
+ 4.  to                  | Impact: -0.001021
+ 5.  ,                   | Impact: -0.000670
+ 6.  complete            | Impact: -0.000595
+ 7.  the                 | Impact: -0.000595
+ 8.  billing             | Impact: -0.000595
+ 9.  thank               | Impact: -0.000595
+10.  we                  | Impact: -0.000423
+11.  '                   | Impact: -0.000423
+12.  ve                  | Impact: -0.000423
+13.  noticed             | Impact: -0.000423
+14.  kind                | Impact: -0.000115
+15.  regards             | Impact: -0.000115
+16.  the                 | Impact: -0.000115
+17.  billing             | Impact: -0.000115
+18.  team                | Impact: -0.000115
+19.  .                   | Impact: -0.000115

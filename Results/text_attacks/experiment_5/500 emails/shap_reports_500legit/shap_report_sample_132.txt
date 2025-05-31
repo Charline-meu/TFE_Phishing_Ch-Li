@@ -1,0 +1,61 @@
+Sample 132
+==========
+
+Sample text preview: URL: Date: Not supplied Three researchers are honoured for pioneering ways of identifying large biological molecules such as proteins and DNA
+
+Model prediction: [9.997317e-01 2.683270e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  honoured            | Impact: 0.174479 → PHISHING
+ 2.  ur                  | Impact: -0.090608 → LEGITIMATE
+ 3.  :                   | Impact: -0.088235 → LEGITIMATE
+ 4.  dna                 | Impact: 0.078307 → PHISHING
+ 5.  :                   | Impact: -0.069659 → LEGITIMATE
+ 6.  pioneering          | Impact: 0.069201 → PHISHING
+ 7.  researchers         | Impact: -0.067759 → LEGITIMATE
+ 8.  large               | Impact: 0.063815 → PHISHING
+ 9.  three               | Impact: -0.059764 → LEGITIMATE
+10.  biological          | Impact: -0.043178 → LEGITIMATE
+11.  supplied            | Impact: 0.041443 → PHISHING
+12. l                    | Impact: -0.037240 → LEGITIMATE
+13.  proteins            | Impact: -0.033011 → LEGITIMATE
+14.  and                 | Impact: -0.031949 → LEGITIMATE
+15.  are                 | Impact: 0.031363 → PHISHING
+16.  date                | Impact: 0.029741 → PHISHING
+17.  ways                | Impact: -0.025035 → LEGITIMATE
+18.  identifying         | Impact: -0.022097 → LEGITIMATE
+19.  as                  | Impact: 0.014129 → PHISHING
+20.  molecules           | Impact: -0.010473 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  honoured            | Impact: 0.174479
+ 2.  dna                 | Impact: 0.078307
+ 3.  pioneering          | Impact: 0.069201
+ 4.  large               | Impact: 0.063815
+ 5.  supplied            | Impact: 0.041443
+ 6.  are                 | Impact: 0.031363
+ 7.  date                | Impact: 0.029741
+ 8.  as                  | Impact: 0.014129
+ 9.  for                 | Impact: 0.004378
+10.  not                 | Impact: 0.004116
+11.  of                  | Impact: 0.003984
+12.                      | Impact: 0.000000
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ur                  | Impact: -0.090608
+ 2.  :                   | Impact: -0.088235
+ 3.  :                   | Impact: -0.069659
+ 4.  researchers         | Impact: -0.067759
+ 5.  three               | Impact: -0.059764
+ 6.  biological          | Impact: -0.043178
+ 7. l                    | Impact: -0.037240
+ 8.  proteins            | Impact: -0.033011
+ 9.  and                 | Impact: -0.031949
+10.  ways                | Impact: -0.025035
+11.  identifying         | Impact: -0.022097
+12.  molecules           | Impact: -0.010473
+13.  such                | Impact: -0.004795
+14.                      | Impact: -0.000000

@@ -1,0 +1,75 @@
+Sample 494
+==========
+
+Sample text preview: DPC lenders to vote on PPA termination this week Business Standard, // Enron seen phasing out RP operations Philippine Daily Inquirer, // Global LNG E...
+
+Model prediction: [9.9977714e-01 2.2283196e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  meanwhile           | Impact: 0.000807 → PHISHING
+ 2.  ,                   | Impact: 0.000807 → PHISHING
+ 3.  state               | Impact: 0.000795 → PHISHING
+ 4.  bank                | Impact: 0.000795 → PHISHING
+ 5.  of                  | Impact: 0.000795 → PHISHING
+ 6.  india               | Impact: 0.000795 → PHISHING
+ 7.  and                 | Impact: 0.000795 → PHISHING
+ 8.  en                  | Impact: -0.000733 → LEGITIMATE
+ 9. ron                  | Impact: -0.000733 → LEGITIMATE
+10.  india               | Impact: -0.000733 → LEGITIMATE
+11.  managing            | Impact: -0.000733 → LEGITIMATE
+12.  director            | Impact: -0.000733 → LEGITIMATE
+13.  k                   | Impact: -0.000733 → LEGITIMATE
+14.  wade                | Impact: -0.000733 → LEGITIMATE
+15.  "                   | Impact: -0.000641 → LEGITIMATE
+16.  said                | Impact: -0.000641 → LEGITIMATE
+17.  a                   | Impact: -0.000641 → LEGITIMATE
+18.  source              | Impact: -0.000641 → LEGITIMATE
+19.  .                   | Impact: -0.000641 → LEGITIMATE
+20.  "                   | Impact: -0.000632 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  meanwhile           | Impact: 0.000807
+ 2.  ,                   | Impact: 0.000807
+ 3.  state               | Impact: 0.000795
+ 4.  bank                | Impact: 0.000795
+ 5.  of                  | Impact: 0.000795
+ 6.  india               | Impact: 0.000795
+ 7.  and                 | Impact: 0.000795
+ 8.  the                 | Impact: 0.000631
+ 9.  representatives     | Impact: 0.000631
+10.  of                  | Impact: 0.000631
+11.  the                 | Impact: 0.000631
+12.  industrial          | Impact: 0.000631
+13.  development         | Impact: 0.000631
+14.  bank                | Impact: 0.000631
+15.  of                  | Impact: 0.000631
+16.  india               | Impact: 0.000631
+17.  ,                   | Impact: 0.000631
+18.  ic                  | Impact: 0.000451
+19. ici                  | Impact: 0.000451
+20.  met                 | Impact: 0.000451
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.000733
+ 2. ron                  | Impact: -0.000733
+ 3.  india               | Impact: -0.000733
+ 4.  managing            | Impact: -0.000733
+ 5.  director            | Impact: -0.000733
+ 6.  k                   | Impact: -0.000733
+ 7.  wade                | Impact: -0.000733
+ 8.  "                   | Impact: -0.000641
+ 9.  said                | Impact: -0.000641
+10.  a                   | Impact: -0.000641
+11.  source              | Impact: -0.000641
+12.  .                   | Impact: -0.000641
+13.  "                   | Impact: -0.000632
+14.  sources             | Impact: -0.000632
+15.  said                | Impact: -0.000632
+16.  .                   | Impact: -0.000632
+17.  /                   | Impact: -0.000558
+18.  /                   | Impact: -0.000558
+19.  en                  | Impact: -0.000558
+20. ron                  | Impact: -0.000558

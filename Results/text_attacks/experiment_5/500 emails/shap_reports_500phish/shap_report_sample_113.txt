@@ -1,0 +1,63 @@
+Sample 113
+==========
+
+Sample text preview: You will soon exceed your limit. Hello MB MB Current size Maximum size Your will soon exceeds its limit, you are advised to clean up by deleting unwan...
+
+Model prediction: [4.4509495e-04 9.9955493e-01]
+Predicted class: PHISHING with 0.9996 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  unwanted            | Impact: 0.072277 → PHISHING
+ 2.  hello               | Impact: 0.068203 → PHISHING
+ 3.  files               | Impact: 0.053971 → PHISHING
+ 4.  soon                | Impact: 0.052203 → PHISHING
+ 5.  your                | Impact: 0.049692 → PHISHING
+ 6.  you                 | Impact: 0.048573 → PHISHING
+ 7.  will                | Impact: 0.047880 → PHISHING
+ 8.  your                | Impact: 0.047829 → PHISHING
+ 9.  follow              | Impact: 0.046205 → PHISHING
+10.  files               | Impact: 0.044597 → PHISHING
+11.  limit               | Impact: -0.042649 → LEGITIMATE
+12.  losing              | Impact: 0.038603 → PHISHING
+13.  mb                  | Impact: 0.037611 → PHISHING
+14.  increase            | Impact: 0.036369 → PHISHING
+15.  exceeds             | Impact: 0.035977 → PHISHING
+16.  its                 | Impact: 0.033295 → PHISHING
+17.  without             | Impact: 0.033052 → PHISHING
+18.  are                 | Impact: 0.031579 → PHISHING
+19.  your                | Impact: 0.028993 → PHISHING
+20.  current             | Impact: 0.027921 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  unwanted            | Impact: 0.072277
+ 2.  hello               | Impact: 0.068203
+ 3.  files               | Impact: 0.053971
+ 4.  soon                | Impact: 0.052203
+ 5.  your                | Impact: 0.049692
+ 6.  you                 | Impact: 0.048573
+ 7.  will                | Impact: 0.047880
+ 8.  your                | Impact: 0.047829
+ 9.  follow              | Impact: 0.046205
+10.  files               | Impact: 0.044597
+11.  losing              | Impact: 0.038603
+12.  mb                  | Impact: 0.037611
+13.  increase            | Impact: 0.036369
+14.  exceeds             | Impact: 0.035977
+15.  its                 | Impact: 0.033295
+16.  without             | Impact: 0.033052
+17.  are                 | Impact: 0.031579
+18.  your                | Impact: 0.028993
+19.  current             | Impact: 0.027921
+20.  exceed              | Impact: 0.027329
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  limit               | Impact: -0.042649
+ 2.  up                  | Impact: -0.013006
+ 3.  limit               | Impact: -0.007685
+ 4.  .                   | Impact: -0.006803
+ 5.  clean               | Impact: -0.004977
+ 6. ng                   | Impact: -0.003948
+ 7.  thanks              | Impact: -0.002378
+ 8.  ,                   | Impact: -0.002378

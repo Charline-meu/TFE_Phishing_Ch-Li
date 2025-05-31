@@ -1,0 +1,75 @@
+Phishing Sample 49
+==================
+
+Sample text preview: Dear Sir/Madam ASSISTANCE REQUIRED FOR ACQUISITION OF ESTATE I write to inform you of my desire to acquire estates or landed properties in your countr...
+
+Model prediction: [1.5893191e-04 9.9984109e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  your                | Impact: 0.015717 → PHISHING
+ 2.  account             | Impact: 0.015717 → PHISHING
+ 3.  estates             | Impact: 0.015498 → PHISHING
+ 4.  abroad              | Impact: 0.015498 → PHISHING
+ 5.  ,                   | Impact: 0.012554 → PHISHING
+ 6.  dear                | Impact: 0.011071 → PHISHING
+ 7.  our                 | Impact: 0.009418 → PHISHING
+ 8.  agent               | Impact: 0.009418 → PHISHING
+ 9.  .                   | Impact: 0.009418 → PHISHING
+10.  your                | Impact: 0.008284 → PHISHING
+11.  company             | Impact: 0.008284 → PHISHING
+12.  name                | Impact: 0.008284 → PHISHING
+13.  email               | Impact: 0.008136 → PHISHING
+14.  address             | Impact: 0.008136 → PHISHING
+15.                      | Impact: 0.007924 → PHISHING
+16.  and                 | Impact: 0.007589 → PHISHING
+17.  your                | Impact: 0.007442 → PHISHING
+18.  personal            | Impact: 0.007442 → PHISHING
+19.  inform              | Impact: 0.006716 → PHISHING
+20.  you                 | Impact: 0.006716 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  your                | Impact: 0.015717
+ 2.  account             | Impact: 0.015717
+ 3.  estates             | Impact: 0.015498
+ 4.  abroad              | Impact: 0.015498
+ 5.  ,                   | Impact: 0.012554
+ 6.  dear                | Impact: 0.011071
+ 7.  our                 | Impact: 0.009418
+ 8.  agent               | Impact: 0.009418
+ 9.  .                   | Impact: 0.009418
+10.  your                | Impact: 0.008284
+11.  company             | Impact: 0.008284
+12.  name                | Impact: 0.008284
+13.  email               | Impact: 0.008136
+14.  address             | Impact: 0.008136
+15.                      | Impact: 0.007924
+16.  and                 | Impact: 0.007589
+17.  your                | Impact: 0.007442
+18.  personal            | Impact: 0.007442
+19.  inform              | Impact: 0.006716
+20.  you                 | Impact: 0.006716
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  discuss             | Impact: -0.003381
+ 2.  in                  | Impact: -0.003381
+ 3.  details             | Impact: -0.003381
+ 4.  the                 | Impact: -0.003381
+ 5.  after               | Impact: -0.002234
+ 6.  which               | Impact: -0.002234
+ 7.  we                  | Impact: -0.002234
+ 8.  shall               | Impact: -0.002234
+ 9.  the                 | Impact: -0.001352
+10.  amount              | Impact: -0.001352
+11.  mentioned           | Impact: -0.001352
+12.  above               | Impact: -0.001352
+13.  and                 | Impact: -0.000847
+14.  considering         | Impact: -0.000774
+15.  his                 | Impact: -0.000774
+16.  very                | Impact: -0.000774
+17.  strategic           | Impact: -0.000774
+18.  and                 | Impact: -0.000774
+19.  influential         | Impact: -0.000774
+20.  position            | Impact: -0.000774

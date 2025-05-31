@@ -1,0 +1,75 @@
+Phishing Sample 2
+=================
+
+Sample text preview: Proposal for Strategic Collaboration Hello, I represent a former political household from Central Africa with assets temporarily affected by an intern...
+
+Model prediction: [1.9246446e-04 9.9980754e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  assets              | Impact: 0.037428 → PHISHING
+ 2.  temporarily         | Impact: 0.036490 → PHISHING
+ 3.  hello               | Impact: 0.035153 → PHISHING
+ 4.  your                | Impact: 0.024516 → PHISHING
+ 5.  activities          | Impact: 0.024516 → PHISHING
+ 6.  represent           | Impact: 0.020619 → PHISHING
+ 7.  i                   | Impact: 0.020316 → PHISHING
+ 8.  africa              | Impact: 0.017185 → PHISHING
+ 9.  with                | Impact: 0.017185 → PHISHING
+10.  compliance          | Impact: 0.017016 → PHISHING
+11.  matter              | Impact: 0.017016 → PHISHING
+12.  .                   | Impact: 0.017016 → PHISHING
+13.  affected            | Impact: 0.014449 → PHISHING
+14.  by                  | Impact: 0.014449 → PHISHING
+15.  an                  | Impact: 0.013715 → PHISHING
+16.  international       | Impact: 0.013715 → PHISHING
+17.  your                | Impact: 0.011771 → PHISHING
+18.  choosing            | Impact: 0.011771 → PHISHING
+19.  ventures            | Impact: 0.011125 → PHISHING
+20.  of                  | Impact: 0.011125 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  assets              | Impact: 0.037428
+ 2.  temporarily         | Impact: 0.036490
+ 3.  hello               | Impact: 0.035153
+ 4.  your                | Impact: 0.024516
+ 5.  activities          | Impact: 0.024516
+ 6.  represent           | Impact: 0.020619
+ 7.  i                   | Impact: 0.020316
+ 8.  africa              | Impact: 0.017185
+ 9.  with                | Impact: 0.017185
+10.  compliance          | Impact: 0.017016
+11.  matter              | Impact: 0.017016
+12.  .                   | Impact: 0.017016
+13.  affected            | Impact: 0.014449
+14.  by                  | Impact: 0.014449
+15.  an                  | Impact: 0.013715
+16.  international       | Impact: 0.013715
+17.  your                | Impact: 0.011771
+18.  choosing            | Impact: 0.011771
+19.  ventures            | Impact: 0.011125
+20.  of                  | Impact: 0.011125
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  strategic           | Impact: -0.007884
+ 2.  a                   | Impact: -0.004934
+ 3.  portfolio           | Impact: -0.004934
+ 4.  .                   | Impact: -0.004498
+ 5.  for                 | Impact: -0.003838
+ 6.  ,                   | Impact: -0.003225
+ 7.  totaling            | Impact: -0.002993
+ 8.  $                   | Impact: -0.002993
+ 9.  fa                  | Impact: -0.002638
+10. ci                   | Impact: -0.002638
+11. lita                 | Impact: -0.002638
+12. tion                 | Impact: -0.002638
+13.  -                   | Impact: -0.002237
+14.  value               | Impact: -0.002237
+15.  commodities         | Impact: -0.002237
+16.  ,                   | Impact: -0.002237
+17.  .                   | Impact: -0.002021
+18.  role                | Impact: -0.001583
+19.  in                  | Impact: -0.001583
+20.  this                | Impact: -0.001583

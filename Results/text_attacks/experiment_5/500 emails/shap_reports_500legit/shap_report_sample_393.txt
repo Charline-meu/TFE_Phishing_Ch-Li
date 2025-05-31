@@ -1,0 +1,75 @@
+Sample 393
+==========
+
+Sample text preview: Dear All, In the course of current ISDA Master Agreement negotiations with an Australian counterparty it has come to my attention that the ISDA nettin...
+
+Model prediction: [9.9976677e-01 2.3324769e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  certainly           | Impact: -0.007456 → LEGITIMATE
+ 2.  section             | Impact: -0.006979 → LEGITIMATE
+ 3.  altered             | Impact: -0.006942 → LEGITIMATE
+ 4.  suggest             | Impact: -0.006248 → LEGITIMATE
+ 5.  obviously           | Impact: -0.004915 → LEGITIMATE
+ 6.  respect             | Impact: -0.004706 → LEGITIMATE
+ 7.  conditions          | Impact: -0.003995 → LEGITIMATE
+ 8.  precedent           | Impact: -0.003978 → LEGITIMATE
+ 9.  effectiveness       | Impact: -0.003959 → LEGITIMATE
+10.  of                  | Impact: -0.003959 → LEGITIMATE
+11.  are                 | Impact: -0.003569 → LEGITIMATE
+12.  payment             | Impact: -0.003380 → LEGITIMATE
+13.  obligations         | Impact: -0.003380 → LEGITIMATE
+14.  in                  | Impact: -0.003134 → LEGITIMATE
+15.  addition            | Impact: -0.003134 → LEGITIMATE
+16.  sections            | Impact: -0.003020 → LEGITIMATE
+17.  of                  | Impact: -0.003020 → LEGITIMATE
+18.  clause              | Impact: -0.002969 → LEGITIMATE
+19.  not                 | Impact: -0.002901 → LEGITIMATE
+20.  section             | Impact: -0.002787 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  that                | Impact: 0.001450
+ 2.  our                 | Impact: 0.001450
+ 3.                      | Impact: 0.000890
+ 4.  dear                | Impact: 0.000890
+ 5.  the                 | Impact: 0.000695
+ 6.  london              | Impact: 0.000695
+ 7.  end                 | Impact: 0.000695
+ 8.  and                 | Impact: 0.000551
+ 9.  all                 | Impact: 0.000425
+10.  (                   | Impact: 0.000265
+11.  i                   | Impact: 0.000265
+12.  )                   | Impact: 0.000265
+13.  ,                   | Impact: 0.000248
+14.  .                   | Impact: 0.000239
+15.  regards             | Impact: 0.000233
+16.  ,                   | Impact: 0.000233
+17.  edmund              | Impact: 0.000233
+18.                      | Impact: 0.000233
+19.  party               | Impact: 0.000146
+20.  if                  | Impact: 0.000146
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  certainly           | Impact: -0.007456
+ 2.  section             | Impact: -0.006979
+ 3.  altered             | Impact: -0.006942
+ 4.  suggest             | Impact: -0.006248
+ 5.  obviously           | Impact: -0.004915
+ 6.  respect             | Impact: -0.004706
+ 7.  conditions          | Impact: -0.003995
+ 8.  precedent           | Impact: -0.003978
+ 9.  effectiveness       | Impact: -0.003959
+10.  of                  | Impact: -0.003959
+11.  are                 | Impact: -0.003569
+12.  payment             | Impact: -0.003380
+13.  obligations         | Impact: -0.003380
+14.  in                  | Impact: -0.003134
+15.  addition            | Impact: -0.003134
+16.  sections            | Impact: -0.003020
+17.  of                  | Impact: -0.003020
+18.  clause              | Impact: -0.002969
+19.  not                 | Impact: -0.002901
+20.  section             | Impact: -0.002787

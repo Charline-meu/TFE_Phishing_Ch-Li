@@ -1,0 +1,62 @@
+Sample 188
+==========
+
+Sample text preview: Hi % used volume % unused volume. Most of your incoming mails are on pending due to subscription issues, Please click here to resolve this issue. Best...
+
+Model prediction: [3.2457383e-04 9.9967539e-01]
+Predicted class: PHISHING with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  regards             | Impact: 0.257423 → PHISHING
+ 2.  best                | Impact: 0.162243 → PHISHING
+ 3.  click               | Impact: 0.114885 → PHISHING
+ 4.  team                | Impact: 0.071505 → PHISHING
+ 5.  your                | Impact: 0.049711 → PHISHING
+ 6.  mail                | Impact: 0.049486 → PHISHING
+ 7.  please              | Impact: 0.041171 → PHISHING
+ 8.  resolve             | Impact: 0.040673 → PHISHING
+ 9.  .                   | Impact: -0.040465 → LEGITIMATE
+10.  c                   | Impact: -0.039779 → LEGITIMATE
+11.  subscription        | Impact: 0.035990 → PHISHING
+12.  unused              | Impact: 0.029939 → PHISHING
+13.  incoming            | Impact: 0.028516 → PHISHING
+14.  pending             | Impact: 0.027836 → PHISHING
+15.  ,                   | Impact: 0.023946 → PHISHING
+16.  issue               | Impact: -0.021909 → LEGITIMATE
+17.  volume              | Impact: 0.021610 → PHISHING
+18.  %                   | Impact: 0.021533 → PHISHING
+19.  mail                | Impact: 0.020090 → PHISHING
+20.  volume              | Impact: 0.018892 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  regards             | Impact: 0.257423
+ 2.  best                | Impact: 0.162243
+ 3.  click               | Impact: 0.114885
+ 4.  team                | Impact: 0.071505
+ 5.  your                | Impact: 0.049711
+ 6.  mail                | Impact: 0.049486
+ 7.  please              | Impact: 0.041171
+ 8.  resolve             | Impact: 0.040673
+ 9.  subscription        | Impact: 0.035990
+10.  unused              | Impact: 0.029939
+11.  incoming            | Impact: 0.028516
+12.  pending             | Impact: 0.027836
+13.  ,                   | Impact: 0.023946
+14.  volume              | Impact: 0.021610
+15.  %                   | Impact: 0.021533
+16.  mail                | Impact: 0.020090
+17.  volume              | Impact: 0.018892
+18.  due                 | Impact: 0.015928
+19.  ,                   | Impact: 0.014326
+20.  here                | Impact: 0.013760
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  .                   | Impact: -0.040465
+ 2.  c                   | Impact: -0.039779
+ 3.  issue               | Impact: -0.021909
+ 4.  %                   | Impact: -0.014239
+ 5.  issues              | Impact: -0.010860
+ 6.  (                   | Impact: -0.002713
+ 7.  this                | Impact: -0.000849

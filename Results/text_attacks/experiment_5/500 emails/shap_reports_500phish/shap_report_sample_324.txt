@@ -1,0 +1,61 @@
+Sample 324
+==========
+
+Sample text preview: Dear This is to inform you that your email account will be De-activated due to mail violation and policy abuse, So to stay secured for your own safety...
+
+Model prediction: [1.8289998e-04 9.9981707e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.075290 → PHISHING
+ 2.  account             | Impact: 0.047820 → PHISHING
+ 3.  account             | Impact: 0.046306 → PHISHING
+ 4.  secured             | Impact: 0.045350 → PHISHING
+ 5.  safety              | Impact: 0.043659 → PHISHING
+ 6.  your                | Impact: 0.042363 → PHISHING
+ 7.  mail                | Impact: 0.035249 → PHISHING
+ 8.  address             | Impact: 0.032827 → PHISHING
+ 9.  reply               | Impact: 0.026784 → PHISHING
+10.  files               | Impact: 0.025434 → PHISHING
+11.  can                 | Impact: 0.024883 → PHISHING
+12.  your                | Impact: 0.024517 → PHISHING
+13.  email               | Impact: 0.021850 → PHISHING
+14.  verify              | Impact: 0.019175 → PHISHING
+15.  mail                | Impact: 0.018526 → PHISHING
+16.  secured             | Impact: 0.016673 → PHISHING
+17.  team                | Impact: 0.016473 → PHISHING
+18.  sent                | Impact: 0.016069 → PHISHING
+19.  will                | Impact: 0.015320 → PHISHING
+20.  verify              | Impact: 0.015014 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.075290
+ 2.  account             | Impact: 0.047820
+ 3.  account             | Impact: 0.046306
+ 4.  secured             | Impact: 0.045350
+ 5.  safety              | Impact: 0.043659
+ 6.  your                | Impact: 0.042363
+ 7.  mail                | Impact: 0.035249
+ 8.  address             | Impact: 0.032827
+ 9.  reply               | Impact: 0.026784
+10.  files               | Impact: 0.025434
+11.  can                 | Impact: 0.024883
+12.  your                | Impact: 0.024517
+13.  email               | Impact: 0.021850
+14.  verify              | Impact: 0.019175
+15.  mail                | Impact: 0.018526
+16.  secured             | Impact: 0.016673
+17.  team                | Impact: 0.016473
+18.  sent                | Impact: 0.016069
+19.  will                | Impact: 0.015320
+20.  verify              | Impact: 0.015014
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  ,                   | Impact: -0.009905
+ 2.  thanks              | Impact: -0.008614
+ 3.  activated           | Impact: -0.001407
+ 4.  -                   | Impact: -0.001399
+ 5.  ,                   | Impact: -0.000854
+ 6.  .                   | Impact: -0.000622

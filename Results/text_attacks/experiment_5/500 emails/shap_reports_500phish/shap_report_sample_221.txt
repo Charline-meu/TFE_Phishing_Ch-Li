@@ -1,0 +1,75 @@
+Sample 221
+==========
+
+Sample text preview: Dear Sir/Madam, I am Mr.Peter Jackson of Shanghai Joysky Machinery & Equipment Co, Ltd Import Corporation .We are a company who deal on mechanical equ...
+
+Model prediction: [1.7697920e-04 9.9982303e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  name                | Impact: 0.054969 → PHISHING
+ 2.  you                 | Impact: 0.048064 → PHISHING
+ 3.  your                | Impact: 0.037393 → PHISHING
+ 4.  will                | Impact: 0.036410 → PHISHING
+ 5.  mr                  | Impact: 0.033872 → PHISHING
+ 6.  full                | Impact: 0.028314 → PHISHING
+ 7.  be                  | Impact: 0.027641 → PHISHING
+ 8.  your                | Impact: 0.025522 → PHISHING
+ 9.  full                | Impact: 0.020936 → PHISHING
+10.  madam               | Impact: 0.019040 → PHISHING
+11.  transaction         | Impact: 0.018912 → PHISHING
+12.  paid                | Impact: 0.018447 → PHISHING
+13.  addresses           | Impact: 0.017170 → PHISHING
+14.                      | Impact: 0.014876 → PHISHING
+15.  dear                | Impact: 0.014876 → PHISHING
+16.  behalf              | Impact: 0.014796 → PHISHING
+17.  i                   | Impact: 0.014780 → PHISHING
+18.  am                  | Impact: 0.014780 → PHISHING
+19.  you                 | Impact: 0.013696 → PHISHING
+20.  contact             | Impact: 0.013670 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  name                | Impact: 0.054969
+ 2.  you                 | Impact: 0.048064
+ 3.  your                | Impact: 0.037393
+ 4.  will                | Impact: 0.036410
+ 5.  mr                  | Impact: 0.033872
+ 6.  full                | Impact: 0.028314
+ 7.  be                  | Impact: 0.027641
+ 8.  your                | Impact: 0.025522
+ 9.  full                | Impact: 0.020936
+10.  madam               | Impact: 0.019040
+11.  transaction         | Impact: 0.018912
+12.  paid                | Impact: 0.018447
+13.  addresses           | Impact: 0.017170
+14.                      | Impact: 0.014876
+15.  dear                | Impact: 0.014876
+16.  behalf              | Impact: 0.014796
+17.  i                   | Impact: 0.014780
+18.  am                  | Impact: 0.014780
+19.  you                 | Impact: 0.013696
+20.  contact             | Impact: 0.013670
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  peter               | Impact: -0.002435
+ 2.  jackson             | Impact: -0.002435
+ 3.  managing            | Impact: -0.002435
+ 4.  director            | Impact: -0.002435
+ 5.  .                   | Impact: -0.002435
+ 6.  ,                   | Impact: -0.002188
+ 7.  for                 | Impact: -0.000852
+ 8.  whatever            | Impact: -0.000852
+ 9.  light               | Impact: -0.000512
+10.  industrial          | Impact: -0.000512
+11.  products            | Impact: -0.000512
+12.  and                 | Impact: -0.000512
+13.  office              | Impact: -0.000512
+14.  equipment           | Impact: -0.000512
+15.  ,                   | Impact: -0.000512
+16.  can                 | Impact: -0.000171
+17.  be                  | Impact: -0.000171
+18.  our                 | Impact: -0.000171
+19.  purchasing          | Impact: -0.000171
+20.  officer             | Impact: -0.000171

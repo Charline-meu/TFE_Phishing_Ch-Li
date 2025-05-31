@@ -1,0 +1,73 @@
+Sample 172
+==========
+
+Sample text preview: FROM THE DESK OF DON HOSE NANDO AUDITING AND ACCOUNTING MANEGER , BANCO POPULARE DE ESPANA. Dear Friend, I am the manager of billing and exchange at t...
+
+Model prediction: [1.9684406e-04 9.9980313e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.016582 → PHISHING
+ 2.  friend              | Impact: 0.016582 → PHISHING
+ 3.  mr                  | Impact: 0.008126 → PHISHING
+ 4.  .                   | Impact: 0.008126 → PHISHING
+ 5.  his                 | Impact: 0.005884 → PHISHING
+ 6.  entire              | Impact: 0.005884 → PHISHING
+ 7.  family              | Impact: 0.005884 → PHISHING
+ 8.  in                  | Impact: 0.005884 → PHISHING
+ 9.  join                | Impact: 0.005803 → PHISHING
+10.  you                 | Impact: 0.005803 → PHISHING
+11.  immediate           | Impact: 0.005803 → PHISHING
+12. lly                  | Impact: 0.005803 → PHISHING
+13.  (                   | Impact: 0.005636 → PHISHING
+14.  ,                   | Impact: 0.005245 → PHISHING
+15.  money               | Impact: 0.005219 → PHISHING
+16.  will                | Impact: 0.005219 → PHISHING
+17.  to                  | Impact: 0.005149 → PHISHING
+18.  enable              | Impact: 0.005149 → PHISHING
+19.  the                 | Impact: 0.005149 → PHISHING
+20.  immediate           | Impact: 0.005149 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.016582
+ 2.  friend              | Impact: 0.016582
+ 3.  mr                  | Impact: 0.008126
+ 4.  .                   | Impact: 0.008126
+ 5.  his                 | Impact: 0.005884
+ 6.  entire              | Impact: 0.005884
+ 7.  family              | Impact: 0.005884
+ 8.  in                  | Impact: 0.005884
+ 9.  join                | Impact: 0.005803
+10.  you                 | Impact: 0.005803
+11.  immediate           | Impact: 0.005803
+12. lly                  | Impact: 0.005803
+13.  (                   | Impact: 0.005636
+14.  ,                   | Impact: 0.005245
+15.  money               | Impact: 0.005219
+16.  will                | Impact: 0.005219
+17.  to                  | Impact: 0.005149
+18.  enable              | Impact: 0.005149
+19.  the                 | Impact: 0.005149
+20.  immediate           | Impact: 0.005149
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  nan                 | Impact: -0.001310
+ 2. do                   | Impact: -0.001310
+ 3.  audit               | Impact: -0.001310
+ 4. ing                  | Impact: -0.001310
+ 5.  and                 | Impact: -0.001310
+ 6.  i                   | Impact: -0.001227
+ 7.  agree               | Impact: -0.001227
+ 8.  accounting          | Impact: -0.001155
+ 9.  mane                | Impact: -0.001155
+10. ger                  | Impact: -0.001155
+11.  ,                   | Impact: -0.001155
+12.                      | Impact: -0.000585
+13.  from                | Impact: -0.000585
+14.  the                 | Impact: -0.000585
+15.  desk                | Impact: -0.000585
+16.  of                  | Impact: -0.000585
+17.  don                 | Impact: -0.000585
+18.  hose                | Impact: -0.000585

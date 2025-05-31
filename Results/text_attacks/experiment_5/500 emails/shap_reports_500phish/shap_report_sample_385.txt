@@ -1,0 +1,75 @@
+Sample 385
+==========
+
+Sample text preview: FROM THE DESK OF MR ALHJI IMAM. BANK OF AFRICA [BOA] OUAGADOUGOU, BURKINA FASO. Dear friend, TOP SECRET Compliments, i am MR ALHJI IMAM. I am the mana...
+
+Model prediction: [1.882354e-04 9.998118e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  dear                | Impact: 0.009574 → PHISHING
+ 2.  friend              | Impact: 0.009574 → PHISHING
+ 3.  ,                   | Impact: 0.009574 → PHISHING
+ 4.  you                 | Impact: 0.007014 → PHISHING
+ 5.  via                 | Impact: 0.007014 → PHISHING
+ 6.  your                | Impact: 0.007014 → PHISHING
+ 7.  foreign             | Impact: 0.007014 → PHISHING
+ 8.  %                   | Impact: 0.006477 → PHISHING
+ 9.  of                  | Impact: 0.006477 → PHISHING
+10.  this                | Impact: 0.006477 → PHISHING
+11.  money               | Impact: 0.006477 → PHISHING
+12.  fund                | Impact: 0.005917 → PHISHING
+13.  to                  | Impact: 0.005917 → PHISHING
+14.  you                 | Impact: 0.005917 → PHISHING
+15.  as                  | Impact: 0.005917 → PHISHING
+16.  arranged            | Impact: 0.005917 → PHISHING
+17.  will                | Impact: 0.005812 → PHISHING
+18.  be                  | Impact: 0.005812 → PHISHING
+19.  for                 | Impact: 0.005812 → PHISHING
+20.  you                 | Impact: 0.005812 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  dear                | Impact: 0.009574
+ 2.  friend              | Impact: 0.009574
+ 3.  ,                   | Impact: 0.009574
+ 4.  you                 | Impact: 0.007014
+ 5.  via                 | Impact: 0.007014
+ 6.  your                | Impact: 0.007014
+ 7.  foreign             | Impact: 0.007014
+ 8.  %                   | Impact: 0.006477
+ 9.  of                  | Impact: 0.006477
+10.  this                | Impact: 0.006477
+11.  money               | Impact: 0.006477
+12.  fund                | Impact: 0.005917
+13.  to                  | Impact: 0.005917
+14.  you                 | Impact: 0.005917
+15.  as                  | Impact: 0.005917
+16.  arranged            | Impact: 0.005917
+17.  will                | Impact: 0.005812
+18.  be                  | Impact: 0.005812
+19.  for                 | Impact: 0.005812
+20.  you                 | Impact: 0.005812
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  and                 | Impact: -0.000027
+ 2.  %                   | Impact: -0.000027
+ 3.  would               | Impact: -0.000027
+ 4.  be                  | Impact: -0.000027
+ 5.  for                 | Impact: -0.000027
+ 6.  me                  | Impact: -0.000027
+ 7.  .                   | Impact: -0.000027
+ 8.  please              | Impact: -0.000000
+ 9.  ,                   | Impact: -0.000000
+10.  visit               | Impact: -0.000000
+11.  the                 | Impact: -0.000000
+12.  website             | Impact: -0.000000
+13.  below               | Impact: -0.000000
+14.  for                 | Impact: -0.000000
+15.  more                | Impact: -0.000000
+16.  information         | Impact: -0.000000
+17. s                    | Impact: -0.000000
+18.  the                 | Impact: -0.000000
+19.  tragic              | Impact: -0.000000
+20.  death               | Impact: -0.000000

@@ -1,0 +1,75 @@
+Sample 70
+=========
+
+Sample text preview: On Mon, Jul :: + Paul Kelly claiming to think: > Matthew French wrote: > >>Happiness was restored to the world with gcc . and later. > > I do not have...
+
+Model prediction: [9.9978286e-01 2.1714487e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  creates             | Impact: -0.003289 → LEGITIMATE
+ 2.  a                   | Impact: -0.003289 → LEGITIMATE
+ 3.  maintenance         | Impact: -0.003078 → LEGITIMATE
+ 4.  nightmare           | Impact: -0.003078 → LEGITIMATE
+ 5.  :                   | Impact: -0.001929 → LEGITIMATE
+ 6.  cleaning            | Impact: -0.001245 → LEGITIMATE
+ 7.  them                | Impact: -0.001245 → LEGITIMATE
+ 8.  up                  | Impact: -0.001245 → LEGITIMATE
+ 9.  however             | Impact: -0.001245 → LEGITIMATE
+10.  mon                 | Impact: 0.000813 → PHISHING
+11.  down                | Impact: -0.000723 → LEGITIMATE
+12.  those               | Impact: -0.000723 → LEGITIMATE
+13.  compiler            | Impact: -0.000723 → LEGITIMATE
+14.  errors              | Impact: -0.000723 → LEGITIMATE
+15.  .                   | Impact: -0.000644 → LEGITIMATE
+16.  >                   | Impact: -0.000536 → LEGITIMATE
+17.  >                   | Impact: -0.000388 → LEGITIMATE
+18.  restored            | Impact: -0.000379 → LEGITIMATE
+19.  to                  | Impact: -0.000379 → LEGITIMATE
+20.  >                   | Impact: -0.000359 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  mon                 | Impact: 0.000813
+ 2.  ,                   | Impact: 0.000339
+ 3.  .                   | Impact: 0.000323
+ 4.  .                   | Impact: 0.000290
+ 5.                      | Impact: 0.000133
+ 6.  on                  | Impact: 0.000133
+ 7.  was                 | Impact: 0.000117
+ 8.  where               | Impact: 0.000117
+ 9.  the                 | Impact: 0.000117
+10.  .                   | Impact: 0.000106
+11.  rein                | Impact: 0.000089
+12. te                   | Impact: 0.000089
+13. gration              | Impact: 0.000089
+14.  effort              | Impact: 0.000089
+15.  started             | Impact: 0.000089
+16.  .                   | Impact: 0.000077
+17.  and                 | Impact: 0.000069
+18.  later               | Impact: 0.000069
+19.  .                   | Impact: 0.000069
+20.  .                   | Impact: 0.000033
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  creates             | Impact: -0.003289
+ 2.  a                   | Impact: -0.003289
+ 3.  maintenance         | Impact: -0.003078
+ 4.  nightmare           | Impact: -0.003078
+ 5.  :                   | Impact: -0.001929
+ 6.  cleaning            | Impact: -0.001245
+ 7.  them                | Impact: -0.001245
+ 8.  up                  | Impact: -0.001245
+ 9.  however             | Impact: -0.001245
+10.  down                | Impact: -0.000723
+11.  those               | Impact: -0.000723
+12.  compiler            | Impact: -0.000723
+13.  errors              | Impact: -0.000723
+14.  .                   | Impact: -0.000644
+15.  >                   | Impact: -0.000536
+16.  >                   | Impact: -0.000388
+17.  restored            | Impact: -0.000379
+18.  to                  | Impact: -0.000379
+19.  >                   | Impact: -0.000359
+20.  >                   | Impact: -0.000359

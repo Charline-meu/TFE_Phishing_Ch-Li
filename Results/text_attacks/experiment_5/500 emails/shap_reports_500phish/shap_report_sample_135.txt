@@ -1,0 +1,75 @@
+Sample 135
+==========
+
+Sample text preview: SPECIAL SITUATION ALERTS HOT PICK OF THE YEAR Environmental Remediation Holding Corp. (OTCBB: ERHC) URGENT BUY: $ . SELL TARGET: $. INVESTOR ALERT: ER...
+
+Model prediction: [0.01080345 0.98919654]
+Predicted class: PHISHING with 0.9892 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  to                  | Impact: 0.013136 → PHISHING
+ 2.  billion             | Impact: 0.013136 → PHISHING
+ 3.  barrel              | Impact: 0.013136 → PHISHING
+ 4.  producing           | Impact: 0.013136 → PHISHING
+ 5.  regions             | Impact: 0.013136 → PHISHING
+ 6.  !                   | Impact: 0.013136 → PHISHING
+ 7.  oil                 | Impact: 0.012449 → PHISHING
+ 8.  companies           | Impact: 0.012449 → PHISHING
+ 9.  in                  | Impact: 0.012449 → PHISHING
+10.  the                 | Impact: 0.012449 → PHISHING
+11.  world               | Impact: 0.012375 → PHISHING
+12.  over                | Impact: 0.012375 → PHISHING
+13.  the                 | Impact: 0.012375 → PHISHING
+14.  next                | Impact: 0.012375 → PHISHING
+15.  weeks               | Impact: 0.012375 → PHISHING
+16.  !                   | Impact: 0.012375 → PHISHING
+17.  oil                 | Impact: 0.011936 → PHISHING
+18.  blocks              | Impact: 0.011936 → PHISHING
+19.  are                 | Impact: 0.011936 → PHISHING
+20.  adjacent            | Impact: 0.011936 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.013136
+ 2.  billion             | Impact: 0.013136
+ 3.  barrel              | Impact: 0.013136
+ 4.  producing           | Impact: 0.013136
+ 5.  regions             | Impact: 0.013136
+ 6.  !                   | Impact: 0.013136
+ 7.  oil                 | Impact: 0.012449
+ 8.  companies           | Impact: 0.012449
+ 9.  in                  | Impact: 0.012449
+10.  the                 | Impact: 0.012449
+11.  world               | Impact: 0.012375
+12.  over                | Impact: 0.012375
+13.  the                 | Impact: 0.012375
+14.  next                | Impact: 0.012375
+15.  weeks               | Impact: 0.012375
+16.  !                   | Impact: 0.012375
+17.  oil                 | Impact: 0.011936
+18.  blocks              | Impact: 0.011936
+19.  are                 | Impact: 0.011936
+20.  adjacent            | Impact: 0.011936
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  er                  | Impact: -0.004099
+ 2. hc                   | Impact: -0.004099
+ 3.  '                   | Impact: -0.004099
+ 4.  s                   | Impact: -0.004099
+ 5.  sc                  | Impact: -0.003411
+ 6. hl                   | Impact: -0.003411
+ 7. umber                | Impact: -0.003411
+ 8. ger                  | Impact: -0.003411
+ 9.  and                 | Impact: -0.003411
+10.  er                  | Impact: -0.003407
+11. hc                   | Impact: -0.003407
+12.  '                   | Impact: -0.003407
+13.  s                   | Impact: -0.003407
+14.  joint               | Impact: -0.003407
+15.  -                   | Impact: -0.003407
+16.  venture             | Impact: -0.003407
+17.  with                | Impact: -0.003407
+18.  $                   | Impact: -0.002259
+19.  )                   | Impact: -0.002259
+20.  (                   | Impact: -0.002259

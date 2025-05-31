@@ -1,0 +1,75 @@
+Sample 319
+==========
+
+Sample text preview: -----Original Message----- From: Whitt, Mark Sent: Wednesday, October , : PM To: Nemec, Gerald Cc: Williams, Jason R (Credit) Subject: Kennedy Proposa...
+
+Model prediction: [9.9979168e-01 2.0836292e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  -                   | Impact: -0.019441 → LEGITIMATE
+ 2.  attached            | Impact: 0.016784 → PHISHING
+ 3.  proposal            | Impact: -0.014823 → LEGITIMATE
+ 4.  find                | Impact: 0.012643 → PHISHING
+ 5.  :                   | Impact: -0.010422 → LEGITIMATE
+ 6.  -                   | Impact: 0.009898 → PHISHING
+ 7.  :                   | Impact: -0.009625 → LEGITIMATE
+ 8.  :                   | Impact: -0.009601 → LEGITIMATE
+ 9.  jason               | Impact: -0.008387 → LEGITIMATE
+10.  the                 | Impact: -0.006793 → LEGITIMATE
+11.  -                   | Impact: 0.006078 → PHISHING
+12.  credit              | Impact: 0.005857 → PHISHING
+13.  -                   | Impact: -0.005084 → LEGITIMATE
+14.  kennedy             | Impact: -0.004565 → LEGITIMATE
+15.  -                   | Impact: 0.004387 → PHISHING
+16.  subject             | Impact: -0.003951 → LEGITIMATE
+17.  )                   | Impact: -0.003905 → LEGITIMATE
+18.  please              | Impact: 0.003028 → PHISHING
+19. hit                  | Impact: 0.002942 → PHISHING
+20.  williams            | Impact: 0.002622 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  attached            | Impact: 0.016784
+ 2.  find                | Impact: 0.012643
+ 3.  -                   | Impact: 0.009898
+ 4.  -                   | Impact: 0.006078
+ 5.  credit              | Impact: 0.005857
+ 6.  -                   | Impact: 0.004387
+ 7.  please              | Impact: 0.003028
+ 8. hit                  | Impact: 0.002942
+ 9.  williams            | Impact: 0.002622
+10.  ne                  | Impact: 0.002345
+11.  (                   | Impact: 0.001779
+12.  ,                   | Impact: 0.001753
+13.  message             | Impact: 0.001571
+14.  ,                   | Impact: 0.001351
+15.  gerald              | Impact: 0.001065
+16.  r                   | Impact: 0.000786
+17.  cc                  | Impact: 0.000670
+18.  w                   | Impact: 0.000598
+19. c                    | Impact: 0.000369
+20.                      | Impact: 0.000007
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.019441
+ 2.  proposal            | Impact: -0.014823
+ 3.  :                   | Impact: -0.010422
+ 4.  :                   | Impact: -0.009625
+ 5.  :                   | Impact: -0.009601
+ 6.  jason               | Impact: -0.008387
+ 7.  the                 | Impact: -0.006793
+ 8.  -                   | Impact: -0.005084
+ 9.  kennedy             | Impact: -0.004565
+10.  subject             | Impact: -0.003951
+11.  )                   | Impact: -0.003905
+12.  from                | Impact: -0.002599
+13. t                    | Impact: -0.002581
+14.  .                   | Impact: -0.002395
+15.  :                   | Impact: -0.002250
+16.  -                   | Impact: -0.002113
+17.  original            | Impact: -0.002040
+18.  ,                   | Impact: -0.001903
+19. me                   | Impact: -0.001893
+20.  -                   | Impact: -0.001717

@@ -1,0 +1,65 @@
+Sample 415
+==========
+
+Sample text preview: Please find attached the Q, Q, Q and Q Nymex prices together with the PX prices for Q and Q. Thanks Alex
+
+Model prediction: [9.9940765e-01 5.9240981e-04]
+Predicted class: LEGITIMATE with 0.9994 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  attached            | Impact: 0.103077 → PHISHING
+ 2.  please              | Impact: 0.084587 → PHISHING
+ 3.  prices              | Impact: -0.069089 → LEGITIMATE
+ 4.  .                   | Impact: -0.056024 → LEGITIMATE
+ 5.  find                | Impact: 0.045206 → PHISHING
+ 6.  q                   | Impact: -0.039694 → LEGITIMATE
+ 7.  prices              | Impact: -0.037421 → LEGITIMATE
+ 8.  q                   | Impact: -0.037213 → LEGITIMATE
+ 9.  and                 | Impact: 0.036127 → PHISHING
+10. x                    | Impact: 0.034266 → PHISHING
+11.  ,                   | Impact: -0.034180 → LEGITIMATE
+12.  the                 | Impact: -0.030287 → LEGITIMATE
+13.  q                   | Impact: -0.022631 → LEGITIMATE
+14.  ny                  | Impact: -0.022366 → LEGITIMATE
+15.  p                   | Impact: -0.021573 → LEGITIMATE
+16.  and                 | Impact: 0.019146 → PHISHING
+17.  for                 | Impact: -0.016921 → LEGITIMATE
+18.  with                | Impact: 0.015549 → PHISHING
+19.  together            | Impact: 0.013268 → PHISHING
+20.  thanks              | Impact: -0.010924 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  attached            | Impact: 0.103077
+ 2.  please              | Impact: 0.084587
+ 3.  find                | Impact: 0.045206
+ 4.  and                 | Impact: 0.036127
+ 5. x                    | Impact: 0.034266
+ 6.  and                 | Impact: 0.019146
+ 7.  with                | Impact: 0.015549
+ 8.  together            | Impact: 0.013268
+ 9. me                   | Impact: 0.003049
+10.  ,                   | Impact: 0.002871
+11.  q                   | Impact: 0.002490
+12. x                    | Impact: 0.001982
+13.  alex                | Impact: 0.001604
+14.                      | Impact: 0.000446
+15.                      | Impact: 0.000028
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  prices              | Impact: -0.069089
+ 2.  .                   | Impact: -0.056024
+ 3.  q                   | Impact: -0.039694
+ 4.  prices              | Impact: -0.037421
+ 5.  q                   | Impact: -0.037213
+ 6.  ,                   | Impact: -0.034180
+ 7.  the                 | Impact: -0.030287
+ 8.  q                   | Impact: -0.022631
+ 9.  ny                  | Impact: -0.022366
+10.  p                   | Impact: -0.021573
+11.  for                 | Impact: -0.016921
+12.  thanks              | Impact: -0.010924
+13.  q                   | Impact: -0.009017
+14.  q                   | Impact: -0.007274
+15.  the                 | Impact: -0.000049

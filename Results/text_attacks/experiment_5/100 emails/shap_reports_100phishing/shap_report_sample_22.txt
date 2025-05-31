@@ -1,0 +1,75 @@
+Phishing Sample 22
+==================
+
+Sample text preview: To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. Overdue Payment Reminder ! We're reac...
+
+Model prediction: [0.00158675 0.9984132 ]
+Predicted class: PHISHING with 0.9984 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  device              | Impact: 0.020525 → PHISHING
+ 2.  protect             | Impact: 0.020525 → PHISHING
+ 3.  insurance           | Impact: 0.020525 → PHISHING
+ 4.  ?                   | Impact: 0.020525 → PHISHING
+ 5.  logging             | Impact: 0.018092 → PHISHING
+ 6.  into                | Impact: 0.018092 → PHISHING
+ 7. my                   | Impact: 0.018092 → PHISHING
+ 8.  account             | Impact: 0.018092 → PHISHING
+ 9.  pay                 | Impact: 0.018092 → PHISHING
+10.  now                 | Impact: 0.018092 → PHISHING
+11.  got                 | Impact: 0.018092 → PHISHING
+12.  if                  | Impact: 0.011204 → PHISHING
+13.  your                | Impact: 0.011204 → PHISHING
+14.  account             | Impact: 0.011204 → PHISHING
+15.  then                | Impact: 0.011166 → PHISHING
+16.  update              | Impact: 0.011166 → PHISHING
+17.  your                | Impact: 0.011166 → PHISHING
+18.  payment             | Impact: 0.011166 → PHISHING
+19.  but                 | Impact: 0.008446 → PHISHING
+20.  your                | Impact: 0.008446 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  device              | Impact: 0.020525
+ 2.  protect             | Impact: 0.020525
+ 3.  insurance           | Impact: 0.020525
+ 4.  ?                   | Impact: 0.020525
+ 5.  logging             | Impact: 0.018092
+ 6.  into                | Impact: 0.018092
+ 7. my                   | Impact: 0.018092
+ 8.  account             | Impact: 0.018092
+ 9.  pay                 | Impact: 0.018092
+10.  now                 | Impact: 0.018092
+11.  got                 | Impact: 0.018092
+12.  if                  | Impact: 0.011204
+13.  your                | Impact: 0.011204
+14.  account             | Impact: 0.011204
+15.  then                | Impact: 0.011166
+16.  update              | Impact: 0.011166
+17.  your                | Impact: 0.011166
+18.  payment             | Impact: 0.011166
+19.  but                 | Impact: 0.008446
+20.  your                | Impact: 0.008446
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  com                 | Impact: -0.003890
+ 2.  .                   | Impact: -0.003890
+ 3.  ur                  | Impact: -0.000722
+ 4. l                    | Impact: -0.000722
+ 5.  to                  | Impact: -0.000722
+ 6.  update              | Impact: -0.000722
+ 7.  your                | Impact: -0.000722
+ 8.  profile             | Impact: -0.000722
+ 9.  .                   | Impact: -0.000722
+10.  au                  | Impact: -0.000666
+11.  /                   | Impact: -0.000666
+12.  contact             | Impact: -0.000666
+13. us                   | Impact: -0.000666
+14.  .                   | Impact: -0.000666
+15.  there               | Impact: -0.000566
+16.  '                   | Impact: -0.000566
+17.  s                   | Impact: -0.000566
+18.  a                   | Impact: -0.000566
+19.  couple              | Impact: -0.000566
+20.  of                  | Impact: -0.000566

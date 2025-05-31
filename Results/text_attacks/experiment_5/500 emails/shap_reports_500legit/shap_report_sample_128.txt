@@ -1,0 +1,75 @@
+Sample 128
+==========
+
+Sample text preview: The IT Contract group has been involved in reviewing documents for Trading Edge's Bond Link online bond trading site. George Weber, who has since move...
+
+Model prediction: [9.9979514e-01 2.0490294e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  review              | Impact: -0.003171 → LEGITIMATE
+ 2.  issues              | Impact: -0.001403 → LEGITIMATE
+ 3.  trading             | Impact: -0.001062 → LEGITIMATE
+ 4.  edge                | Impact: -0.001062 → LEGITIMATE
+ 5.  sara                | Impact: 0.000864 → PHISHING
+ 6.  the                 | Impact: -0.000779 → LEGITIMATE
+ 7.  online              | Impact: -0.000779 → LEGITIMATE
+ 8.  policies            | Impact: -0.000779 → LEGITIMATE
+ 9.  it                  | Impact: -0.000779 → LEGITIMATE
+10.  references          | Impact: -0.000779 → LEGITIMATE
+11.  edge                | Impact: -0.000773 → LEGITIMATE
+12.  review              | Impact: -0.000773 → LEGITIMATE
+13.  issue               | Impact: -0.000648 → LEGITIMATE
+14.  initially           | Impact: -0.000648 → LEGITIMATE
+15.  the                 | Impact: -0.000639 → LEGITIMATE
+16.  trading             | Impact: -0.000639 → LEGITIMATE
+17.  liability           | Impact: -0.000558 → LEGITIMATE
+18.  for                 | Impact: -0.000558 → LEGITIMATE
+19.  trades              | Impact: -0.000558 → LEGITIMATE
+20.  response            | Impact: -0.000557 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  sara                | Impact: 0.000864
+ 2.  who                 | Impact: 0.000499
+ 3.  has                 | Impact: 0.000499
+ 4.  ,                   | Impact: 0.000375
+ 5.  since               | Impact: 0.000305
+ 6.  moved               | Impact: 0.000305
+ 7.  ?                   | Impact: 0.000177
+ 8.  however             | Impact: 0.000130
+ 9.  ,                   | Impact: 0.000130
+10.  but                 | Impact: 0.000100
+11.  we                  | Impact: 0.000100
+12.  would               | Impact: 0.000100
+13.  during              | Impact: 0.000093
+14.  the                 | Impact: 0.000093
+15.  past                | Impact: 0.000093
+16.  week                | Impact: 0.000093
+17.  .                   | Impact: 0.000093
+18.  and                 | Impact: 0.000077
+19.  i                   | Impact: 0.000077
+20.  have                | Impact: 0.000077
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  review              | Impact: -0.003171
+ 2.  issues              | Impact: -0.001403
+ 3.  trading             | Impact: -0.001062
+ 4.  edge                | Impact: -0.001062
+ 5.  the                 | Impact: -0.000779
+ 6.  online              | Impact: -0.000779
+ 7.  policies            | Impact: -0.000779
+ 8.  it                  | Impact: -0.000779
+ 9.  references          | Impact: -0.000779
+10.  edge                | Impact: -0.000773
+11.  review              | Impact: -0.000773
+12.  issue               | Impact: -0.000648
+13.  initially           | Impact: -0.000648
+14.  the                 | Impact: -0.000639
+15.  trading             | Impact: -0.000639
+16.  liability           | Impact: -0.000558
+17.  for                 | Impact: -0.000558
+18.  trades              | Impact: -0.000558
+19.  response            | Impact: -0.000557
+20.  is                  | Impact: -0.000557

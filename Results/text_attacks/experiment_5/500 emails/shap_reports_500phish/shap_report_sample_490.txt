@@ -1,0 +1,75 @@
+Sample 490
+==========
+
+Sample text preview: From: Mr. Paul Baloyi. JOHANNESBURG, SOUTH AFRICA. Dear Friend, Let me start by introducing myself. I am Mr. Paul Baloyi An Executive Director of my b...
+
+Model prediction: [1.742485e-04 9.998258e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  mr                  | Impact: 0.043225 → PHISHING
+ 2.  mr                  | Impact: 0.039315 → PHISHING
+ 3.  account             | Impact: 0.035586 → PHISHING
+ 4.  dear                | Impact: 0.020797 → PHISHING
+ 5.  paul                | Impact: 0.019898 → PHISHING
+ 6.  friend              | Impact: 0.017954 → PHISHING
+ 7.  no                  | Impact: 0.017540 → PHISHING
+ 8.  family              | Impact: 0.017540 → PHISHING
+ 9.  bank                | Impact: 0.014079 → PHISHING
+10.  dollars             | Impact: 0.014026 → PHISHING
+11.  )                   | Impact: 0.014026 → PHISHING
+12.  my                  | Impact: 0.012543 → PHISHING
+13.  bank                | Impact: 0.012543 → PHISHING
+14.  you                 | Impact: 0.012364 → PHISHING
+15.  for                 | Impact: 0.012364 → PHISHING
+16.  your                | Impact: 0.012364 → PHISHING
+17.  effort              | Impact: 0.012364 → PHISHING
+18.  twenty              | Impact: 0.011319 → PHISHING
+19.  -                   | Impact: 0.011319 → PHISHING
+20.  two                 | Impact: 0.011319 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  mr                  | Impact: 0.043225
+ 2.  mr                  | Impact: 0.039315
+ 3.  account             | Impact: 0.035586
+ 4.  dear                | Impact: 0.020797
+ 5.  paul                | Impact: 0.019898
+ 6.  friend              | Impact: 0.017954
+ 7.  no                  | Impact: 0.017540
+ 8.  family              | Impact: 0.017540
+ 9.  bank                | Impact: 0.014079
+10.  dollars             | Impact: 0.014026
+11.  )                   | Impact: 0.014026
+12.  my                  | Impact: 0.012543
+13.  bank                | Impact: 0.012543
+14.  you                 | Impact: 0.012364
+15.  for                 | Impact: 0.012364
+16.  your                | Impact: 0.012364
+17.  effort              | Impact: 0.012364
+18.  twenty              | Impact: 0.011319
+19.  -                   | Impact: 0.011319
+20.  two                 | Impact: 0.011319
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  (                   | Impact: -0.006979
+ 2.  crash               | Impact: -0.005817
+ 3.  [                   | Impact: -0.005817
+ 4.  .                   | Impact: -0.004408
+ 5.  concord             | Impact: -0.003983
+ 6. e                    | Impact: -0.003983
+ 7.  af                  | Impact: -0.003666
+ 8.  ]                   | Impact: -0.003666
+ 9.  air                 | Impact: -0.003167
+10.  flight              | Impact: -0.003167
+11.  are                 | Impact: -0.002372
+12.  aware               | Impact: -0.002372
+13.  of                  | Impact: -0.002372
+14.  the                 | Impact: -0.002372
+15.                      | Impact: -0.002165
+16.  from                | Impact: -0.002165
+17.  :                   | Impact: -0.002165
+18.  mr                  | Impact: -0.002165
+19.  .                   | Impact: -0.002165
+20.  terrorism           | Impact: -0.002114

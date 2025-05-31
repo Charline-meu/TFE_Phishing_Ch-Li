@@ -1,0 +1,74 @@
+Sample 481
+==========
+
+Sample text preview: As discussed ----- Forwarded by Lance Jameson/ENRON_DEVELOPMENT on // : AM ----- Robert Knight@ECT // : AM To: Lance Jameson/ENRON_DEVELOPMENT@ENRON_D...
+
+Model prediction: [9.9976689e-01 2.3309694e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  /                   | Impact: -0.000538 → LEGITIMATE
+ 2.  en                  | Impact: -0.000538 → LEGITIMATE
+ 3. ron                  | Impact: -0.000538 → LEGITIMATE
+ 4.  @                   | Impact: -0.000538 → LEGITIMATE
+ 5.  ec                  | Impact: -0.000412 → LEGITIMATE
+ 6. t                    | Impact: -0.000412 → LEGITIMATE
+ 7.  on                  | Impact: -0.000412 → LEGITIMATE
+ 8.  /                   | Impact: -0.000412 → LEGITIMATE
+ 9.  /                   | Impact: -0.000412 → LEGITIMATE
+10.  :                   | Impact: -0.000412 → LEGITIMATE
+11.  am                  | Impact: -0.000412 → LEGITIMATE
+12.  -                   | Impact: -0.000412 → LEGITIMATE
+13.  -                   | Impact: -0.000412 → LEGITIMATE
+14.  -                   | Impact: -0.000412 → LEGITIMATE
+15.  -                   | Impact: -0.000412 → LEGITIMATE
+16.  -                   | Impact: -0.000412 → LEGITIMATE
+17.  -                   | Impact: -0.000412 → LEGITIMATE
+18.  -                   | Impact: -0.000412 → LEGITIMATE
+19.  -                   | Impact: -0.000412 → LEGITIMATE
+20.  -                   | Impact: -0.000412 → LEGITIMATE
+
+Top features pushing towards PHISHING classification:
+ 1.  -                   | Impact: 0.000034
+ 2.  -                   | Impact: 0.000034
+ 3.  -                   | Impact: 0.000034
+ 4.  -                   | Impact: 0.000034
+ 5.  keith               | Impact: 0.000034
+ 6.  from                | Impact: 0.000021
+ 7.  made                | Impact: 0.000021
+ 8.  on                  | Impact: 0.000021
+ 9.  mobile              | Impact: 0.000021
+10.  phones              | Impact: 0.000021
+11.  help                | Impact: 0.000021
+12.  !                   | Impact: 0.000021
+13.  -                   | Impact: 0.000020
+14.  -                   | Impact: 0.000020
+15.  -                   | Impact: 0.000020
+16.  -                   | Impact: 0.000020
+17.  robert              | Impact: 0.000020
+18.  knight              | Impact: 0.000020
+19.  @                   | Impact: 0.000020
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  /                   | Impact: -0.000538
+ 2.  en                  | Impact: -0.000538
+ 3. ron                  | Impact: -0.000538
+ 4.  @                   | Impact: -0.000538
+ 5.  ec                  | Impact: -0.000412
+ 6. t                    | Impact: -0.000412
+ 7.  on                  | Impact: -0.000412
+ 8.  /                   | Impact: -0.000412
+ 9.  /                   | Impact: -0.000412
+10.  :                   | Impact: -0.000412
+11.  am                  | Impact: -0.000412
+12.  -                   | Impact: -0.000412
+13.  -                   | Impact: -0.000412
+14.  -                   | Impact: -0.000412
+15.  -                   | Impact: -0.000412
+16.  -                   | Impact: -0.000412
+17.  -                   | Impact: -0.000412
+18.  -                   | Impact: -0.000412
+19.  -                   | Impact: -0.000412
+20.  -                   | Impact: -0.000412

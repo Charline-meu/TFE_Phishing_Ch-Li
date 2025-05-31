@@ -1,0 +1,75 @@
+Phishing Sample 2
+=================
+
+Sample text preview: Dear friend, Greetings to you in the name of our heavenly God. This mail might come to you as a surprise and the temptation to ignore it as unserious ...
+
+Model prediction: [1.4872185e-04 9.9985123e-01]
+Predicted class: PHISHING with 0.9999 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  friend              | Impact: 0.016469 → PHISHING
+ 2.                      | Impact: 0.011091 → PHISHING
+ 3.  dear                | Impact: 0.011091 → PHISHING
+ 4.  your                | Impact: 0.009223 → PHISHING
+ 5.  family              | Impact: 0.009223 → PHISHING
+ 6.  .                   | Impact: 0.009223 → PHISHING
+ 7.  regards             | Impact: 0.007546 → PHISHING
+ 8.  happened            | Impact: 0.006264 → PHISHING
+ 9.  my                  | Impact: 0.006264 → PHISHING
+10.  business            | Impact: 0.006264 → PHISHING
+11.  cost                | Impact: 0.005634 → PHISHING
+12.  you                 | Impact: 0.005634 → PHISHING
+13.  reward              | Impact: 0.005460 → PHISHING
+14.  if                  | Impact: 0.005460 → PHISHING
+15.  you                 | Impact: 0.005460 → PHISHING
+16.  are                 | Impact: 0.005460 → PHISHING
+17.  please              | Impact: 0.005422 → PHISHING
+18.  reply               | Impact: 0.005422 → PHISHING
+19.  as                  | Impact: 0.005422 → PHISHING
+20.  soon                | Impact: 0.005422 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  friend              | Impact: 0.016469
+ 2.                      | Impact: 0.011091
+ 3.  dear                | Impact: 0.011091
+ 4.  your                | Impact: 0.009223
+ 5.  family              | Impact: 0.009223
+ 6.  .                   | Impact: 0.009223
+ 7.  regards             | Impact: 0.007546
+ 8.  happened            | Impact: 0.006264
+ 9.  my                  | Impact: 0.006264
+10.  business            | Impact: 0.006264
+11.  cost                | Impact: 0.005634
+12.  you                 | Impact: 0.005634
+13.  reward              | Impact: 0.005460
+14.  if                  | Impact: 0.005460
+15.  you                 | Impact: 0.005460
+16.  are                 | Impact: 0.005460
+17.  please              | Impact: 0.005422
+18.  reply               | Impact: 0.005422
+19.  as                  | Impact: 0.005422
+20.  soon                | Impact: 0.005422
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  -                   | Impact: -0.001278
+ 2.  -                   | Impact: -0.001278
+ 3.  -                   | Impact: -0.001278
+ 4.  yahoo               | Impact: -0.001278
+ 5.  !                   | Impact: -0.001278
+ 6.  nelson              | Impact: -0.000910
+ 7.  henry               | Impact: -0.000910
+ 8.  -                   | Impact: -0.000910
+ 9.  -                   | Impact: -0.000910
+10.  -                   | Impact: -0.000830
+11.  -                   | Impact: -0.000830
+12.  -                   | Impact: -0.000830
+13.  -                   | Impact: -0.000830
+14.  .                   | Impact: -0.000667
+15.  our                 | Impact: -0.000667
+16.  heavenly            | Impact: -0.000667
+17.  god                 | Impact: -0.000667
+18.  -                   | Impact: -0.000425
+19.  -                   | Impact: -0.000425
+20.  -                   | Impact: -0.000425

@@ -1,0 +1,75 @@
+Sample 362
+==========
+
+Sample text preview: Our risk manager has reviewed the insurance requirements. His only comment concerned the Owner's/Contractor's Protective Liability Insurace requiremen...
+
+Model prediction: [9.993193e-01 6.806727e-04]
+Predicted class: LEGITIMATE with 0.9993 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  risk                | Impact: -0.049046 → LEGITIMATE
+ 2.  our                 | Impact: 0.047539 → PHISHING
+ 3.  thinks              | Impact: -0.037516 → LEGITIMATE
+ 4.  you                 | Impact: 0.026714 → PHISHING
+ 5.  he                  | Impact: -0.025359 → LEGITIMATE
+ 6.  comment             | Impact: -0.023299 → LEGITIMATE
+ 7.  reviewed            | Impact: -0.021633 → LEGITIMATE
+ 8.  concerned           | Impact: -0.020249 → LEGITIMATE
+ 9.  perspective         | Impact: -0.018898 → LEGITIMATE
+10.  need                | Impact: 0.018309 → PHISHING
+11.  insurance           | Impact: 0.012685 → PHISHING
+12.  this                | Impact: 0.011420 → PHISHING
+13.  insurance           | Impact: 0.010538 → PHISHING
+14.  cost                | Impact: 0.010503 → PHISHING
+15.  of                  | Impact: -0.009944 → LEGITIMATE
+16.  exhibit             | Impact: -0.009944 → LEGITIMATE
+17.  the                 | Impact: -0.009639 → LEGITIMATE
+18.  liability           | Impact: 0.009472 → PHISHING
+19.  e                   | Impact: -0.008609 → LEGITIMATE
+20.  liability           | Impact: 0.007592 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  our                 | Impact: 0.047539
+ 2.  you                 | Impact: 0.026714
+ 3.  need                | Impact: 0.018309
+ 4.  insurance           | Impact: 0.012685
+ 5.  this                | Impact: 0.011420
+ 6.  insurance           | Impact: 0.010538
+ 7.  cost                | Impact: 0.010503
+ 8.  liability           | Impact: 0.009472
+ 9.  liability           | Impact: 0.007592
+10.  this                | Impact: 0.007176
+11.  manager             | Impact: 0.006657
+12.  his                 | Impact: 0.006256
+13.  us                  | Impact: 0.006028
+14.  and                 | Impact: 0.005434
+15.  wai                 | Impact: 0.005322
+16.  only                | Impact: 0.005142
+17.  owner               | Impact: 0.005017
+18.  is                  | Impact: 0.004672
+19.  .                   | Impact: 0.004351
+20.  unnecessary         | Impact: 0.003922
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  risk                | Impact: -0.049046
+ 2.  thinks              | Impact: -0.037516
+ 3.  he                  | Impact: -0.025359
+ 4.  comment             | Impact: -0.023299
+ 5.  reviewed            | Impact: -0.021633
+ 6.  concerned           | Impact: -0.020249
+ 7.  perspective         | Impact: -0.018898
+ 8.  of                  | Impact: -0.009944
+ 9.  exhibit             | Impact: -0.009944
+10.  the                 | Impact: -0.009639
+11.  e                   | Impact: -0.008609
+12.  .                   | Impact: -0.006280
+13.  excess              | Impact: -0.004377
+14.  umbrella            | Impact: -0.004377
+15.  likely              | Impact: -0.003977
+16.  .                   | Impact: -0.003736
+17.  requirement         | Impact: -0.003420
+18.  on                  | Impact: -0.003420
+19.  requirements        | Impact: -0.003352
+20.  the                 | Impact: -0.002175

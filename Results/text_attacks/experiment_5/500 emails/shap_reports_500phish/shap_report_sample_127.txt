@@ -1,0 +1,69 @@
+Sample 127
+==========
+
+Sample text preview: Hey, I just wanted to tell you about a GREAT website. Features lots of jokes! Extremly unique features and classified in categories. I appriciate your...
+
+Model prediction: [0.06813131 0.9318687 ]
+Predicted class: PHISHING with 0.9319 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  website             | Impact: 0.226566 → PHISHING
+ 2.  you                 | Impact: 0.224416 → PHISHING
+ 3.  you                 | Impact: 0.198813 → PHISHING
+ 4.  !                   | Impact: 0.196135 → PHISHING
+ 5.  features            | Impact: 0.088071 → PHISHING
+ 6.  i                   | Impact: -0.085075 → LEGITIMATE
+ 7.  your                | Impact: 0.084668 → PHISHING
+ 8.  unique              | Impact: 0.065872 → PHISHING
+ 9.  i                   | Impact: -0.063545 → LEGITIMATE
+10.  categories          | Impact: -0.060025 → LEGITIMATE
+11.  .                   | Impact: -0.053936 → LEGITIMATE
+12.  hey                 | Impact: 0.050113 → PHISHING
+13.  tell                | Impact: 0.045868 → PHISHING
+14.  ,                   | Impact: -0.033974 → LEGITIMATE
+15.  lots                | Impact: -0.033636 → LEGITIMATE
+16.  .                   | Impact: -0.033248 → LEGITIMATE
+17.  features            | Impact: 0.031612 → PHISHING
+18.  time                | Impact: 0.031610 → PHISHING
+19.  jokes               | Impact: -0.028440 → LEGITIMATE
+20.  classified          | Impact: 0.027568 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  website             | Impact: 0.226566
+ 2.  you                 | Impact: 0.224416
+ 3.  you                 | Impact: 0.198813
+ 4.  !                   | Impact: 0.196135
+ 5.  features            | Impact: 0.088071
+ 6.  your                | Impact: 0.084668
+ 7.  unique              | Impact: 0.065872
+ 8.  hey                 | Impact: 0.050113
+ 9.  tell                | Impact: 0.045868
+10.  features            | Impact: 0.031612
+11.  time                | Impact: 0.031610
+12.  classified          | Impact: 0.027568
+13.  in                  | Impact: 0.023504
+14.  and                 | Impact: 0.020974
+15.  great               | Impact: 0.020705
+16.  a                   | Impact: 0.017919
+17.  ex                  | Impact: 0.009537
+18. tre                  | Impact: 0.007407
+19.  thank               | Impact: 0.007350
+20.  about               | Impact: 0.007223
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.085075
+ 2.  i                   | Impact: -0.063545
+ 3.  categories          | Impact: -0.060025
+ 4.  .                   | Impact: -0.053936
+ 5.  ,                   | Impact: -0.033974
+ 6.  lots                | Impact: -0.033636
+ 7.  .                   | Impact: -0.033248
+ 8.  jokes               | Impact: -0.028440
+ 9. iate                 | Impact: -0.021378
+10.  of                  | Impact: -0.021216
+11.  .                   | Impact: -0.014665
+12.  just                | Impact: -0.013588
+13.  wanted              | Impact: -0.012511
+14.  to                  | Impact: -0.002736

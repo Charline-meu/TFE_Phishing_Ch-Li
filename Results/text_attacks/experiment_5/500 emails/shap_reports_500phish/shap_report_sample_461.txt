@@ -1,0 +1,75 @@
+Sample 461
+==========
+
+Sample text preview: Dear Friend Good day to you, My name is Irvin Shawn I am an American soldier, serving in the military with the Third infantry Division in Iraq. Three ...
+
+Model prediction: [1.5403771e-04 9.9984598e-01]
+Predicted class: PHISHING with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  friend              | Impact: 0.014256 → PHISHING
+ 2.  good                | Impact: 0.014256 → PHISHING
+ 3.                      | Impact: 0.013650 → PHISHING
+ 4.  dear                | Impact: 0.013650 → PHISHING
+ 5.  allegedly           | Impact: 0.008865 → PHISHING
+ 6.  stolen              | Impact: 0.008865 → PHISHING
+ 7.  ,                   | Impact: 0.008865 → PHISHING
+ 8.  my                  | Impact: 0.007893 → PHISHING
+ 9.  name                | Impact: 0.007893 → PHISHING
+10.  is                  | Impact: 0.007893 → PHISHING
+11.  can                 | Impact: 0.006821 → PHISHING
+12.  not                 | Impact: 0.006821 → PHISHING
+13.  return              | Impact: 0.006821 → PHISHING
+14.  back                | Impact: 0.006821 → PHISHING
+15.  of                  | Impact: 0.006817 → PHISHING
+16.  that                | Impact: 0.006817 → PHISHING
+17.  money               | Impact: 0.006817 → PHISHING
+18.  was                 | Impact: 0.006817 → PHISHING
+19.  day                 | Impact: 0.006746 → PHISHING
+20.  to                  | Impact: 0.006746 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  friend              | Impact: 0.014256
+ 2.  good                | Impact: 0.014256
+ 3.                      | Impact: 0.013650
+ 4.  dear                | Impact: 0.013650
+ 5.  allegedly           | Impact: 0.008865
+ 6.  stolen              | Impact: 0.008865
+ 7.  ,                   | Impact: 0.008865
+ 8.  my                  | Impact: 0.007893
+ 9.  name                | Impact: 0.007893
+10.  is                  | Impact: 0.007893
+11.  can                 | Impact: 0.006821
+12.  not                 | Impact: 0.006821
+13.  return              | Impact: 0.006821
+14.  back                | Impact: 0.006821
+15.  of                  | Impact: 0.006817
+16.  that                | Impact: 0.006817
+17.  money               | Impact: 0.006817
+18.  was                 | Impact: 0.006817
+19.  day                 | Impact: 0.006746
+20.  to                  | Impact: 0.006746
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  you                 | Impact: -0.000293
+ 2.  can                 | Impact: -0.000293
+ 3.  go                  | Impact: -0.000293
+ 4.  to                  | Impact: -0.000293
+ 5.  this                | Impact: -0.000293
+ 6.  web                 | Impact: -0.000293
+ 7.  link                | Impact: -0.000293
+ 8.  to                  | Impact: -0.000293
+ 9.  respectful          | Impact: -0.000208
+10. ly                   | Impact: -0.000208
+11.  submitted           | Impact: -0.000208
+12.  sgt                 | Impact: -0.000208
+13.  .                   | Impact: -0.000208
+14.  sincerity           | Impact: -0.000208
+15.  and                 | Impact: -0.000208
+16.  trust               | Impact: -0.000208
+17.  .                   | Impact: -0.000208
+18.                      | Impact: -0.000208
+19.  ir                  | Impact: -0.000208
+20. vin                  | Impact: -0.000208

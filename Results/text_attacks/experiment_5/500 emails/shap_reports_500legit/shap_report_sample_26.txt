@@ -1,0 +1,75 @@
+Sample 26
+=========
+
+Sample text preview: Thanks for keeping me up to date. Out of curiosity, do you know why El Paso changed the trade date in the first place? Kate Stephanie Piwetz // : PM T...
+
+Model prediction: [9.9978703e-01 2.1299861e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  thanks              | Impact: -0.024791 → LEGITIMATE
+ 2.  thanks              | Impact: -0.015228 → LEGITIMATE
+ 3.  stephanie           | Impact: 0.012090 → PHISHING
+ 4.  i                   | Impact: -0.010221 → LEGITIMATE
+ 5.  date                | Impact: 0.006968 → PHISHING
+ 6.  just                | Impact: -0.004535 → LEGITIMATE
+ 7.  executed            | Impact: 0.004362 → PHISHING
+ 8.  curiosity           | Impact: -0.004090 → LEGITIMATE
+ 9.  ec                  | Impact: -0.003681 → LEGITIMATE
+10.  :                   | Impact: -0.002984 → LEGITIMATE
+11.  paso                | Impact: -0.002575 → LEGITIMATE
+12.  @                   | Impact: 0.002551 → PHISHING
+13.  just                | Impact: -0.002469 → LEGITIMATE
+14.  spoke               | Impact: -0.002283 → LEGITIMATE
+15.  to                  | Impact: -0.002206 → LEGITIMATE
+16.  be                  | Impact: 0.002182 → PHISHING
+17.  .                   | Impact: -0.002157 → LEGITIMATE
+18.  made                | Impact: -0.002100 → LEGITIMATE
+19.  trade               | Impact: -0.002038 → LEGITIMATE
+20.  to                  | Impact: 0.001946 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  stephanie           | Impact: 0.012090
+ 2.  date                | Impact: 0.006968
+ 3.  executed            | Impact: 0.004362
+ 4.  @                   | Impact: 0.002551
+ 5.  be                  | Impact: 0.002182
+ 6.  to                  | Impact: 0.001946
+ 7.  and                 | Impact: 0.001779
+ 8.  to                  | Impact: 0.001524
+ 9.  on                  | Impact: 0.000977
+10.  /                   | Impact: 0.000891
+11.  ?                   | Impact: 0.000748
+12.  to                  | Impact: 0.000672
+13.  note                | Impact: 0.000513
+14. x                    | Impact: 0.000406
+15.  and                 | Impact: 0.000242
+16.  /                   | Impact: 0.000188
+17.  the                 | Impact: 0.000183
+18.  kate                | Impact: 0.000163
+19.  me                  | Impact: 0.000074
+20.  it                  | Impact: 0.000063
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  thanks              | Impact: -0.024791
+ 2.  thanks              | Impact: -0.015228
+ 3.  i                   | Impact: -0.010221
+ 4.  just                | Impact: -0.004535
+ 5.  curiosity           | Impact: -0.004090
+ 6.  ec                  | Impact: -0.003681
+ 7.  :                   | Impact: -0.002984
+ 8.  paso                | Impact: -0.002575
+ 9.  just                | Impact: -0.002469
+10.  spoke               | Impact: -0.002283
+11.  to                  | Impact: -0.002206
+12.  .                   | Impact: -0.002157
+13.  made                | Impact: -0.002100
+14.  trade               | Impact: -0.002038
+15.  ec                  | Impact: -0.001823
+16.  kate                | Impact: -0.001801
+17.  pm                  | Impact: -0.001753
+18.  up                  | Impact: -0.001682
+19.  trade               | Impact: -0.001671
+20.  sy                  | Impact: -0.001667

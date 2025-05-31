@@ -1,0 +1,75 @@
+Sample 123
+==========
+
+Sample text preview: Before we sign ANYTHING with Southern about the Elba volumes, I'd like an update. Also I want to make sure we aren't trading anything away at Elba tha...
+
+Model prediction: [9.997421e-01 2.578726e-04]
+Predicted class: LEGITIMATE with 0.9997 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  jeff                | Impact: 0.014875 → PHISHING
+ 2.  i                   | Impact: -0.013506 → LEGITIMATE
+ 3.  thanks              | Impact: -0.012859 → LEGITIMATE
+ 4.  we                  | Impact: 0.012329 → PHISHING
+ 5.  we                  | Impact: 0.012308 → PHISHING
+ 6.  southern            | Impact: -0.011054 → LEGITIMATE
+ 7.  want                | Impact: -0.010928 → LEGITIMATE
+ 8.  before              | Impact: 0.010375 → PHISHING
+ 9.  about               | Impact: -0.007571 → LEGITIMATE
+10.  .                   | Impact: -0.007494 → LEGITIMATE
+11.  away                | Impact: 0.006381 → PHISHING
+12.  make                | Impact: 0.006044 → PHISHING
+13.  also                | Impact: 0.005642 → PHISHING
+14.  el                  | Impact: -0.005075 → LEGITIMATE
+15.  volumes             | Impact: -0.004998 → LEGITIMATE
+16. ba                   | Impact: -0.003868 → LEGITIMATE
+17.  trading             | Impact: -0.002828 → LEGITIMATE
+18. ba                   | Impact: -0.002810 → LEGITIMATE
+19.  the                 | Impact: -0.002779 → LEGITIMATE
+20.  '                   | Impact: 0.002752 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  jeff                | Impact: 0.014875
+ 2.  we                  | Impact: 0.012329
+ 3.  we                  | Impact: 0.012308
+ 4.  before              | Impact: 0.010375
+ 5.  away                | Impact: 0.006381
+ 6.  make                | Impact: 0.006044
+ 7.  also                | Impact: 0.005642
+ 8.  '                   | Impact: 0.002752
+ 9.  sign                | Impact: 0.002620
+10.  we                  | Impact: 0.002502
+11.  sure                | Impact: 0.001950
+12.  could               | Impact: 0.000984
+13.  with                | Impact: 0.000895
+14.  anything            | Impact: 0.000781
+15.  aren                | Impact: 0.000776
+16.  be                  | Impact: 0.000723
+17.  elsewhere           | Impact: 0.000609
+18.  i                   | Impact: 0.000272
+19.  '                   | Impact: 0.000101
+20.                      | Impact: 0.000027
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  i                   | Impact: -0.013506
+ 2.  thanks              | Impact: -0.012859
+ 3.  southern            | Impact: -0.011054
+ 4.  want                | Impact: -0.010928
+ 5.  about               | Impact: -0.007571
+ 6.  .                   | Impact: -0.007494
+ 7.  el                  | Impact: -0.005075
+ 8.  volumes             | Impact: -0.004998
+ 9. ba                   | Impact: -0.003868
+10.  trading             | Impact: -0.002828
+11. ba                   | Impact: -0.002810
+12.  the                 | Impact: -0.002779
+13.  anything            | Impact: -0.002712
+14.  el                  | Impact: -0.002436
+15.  to                  | Impact: -0.002266
+16.  .                   | Impact: -0.001846
+17.  about               | Impact: -0.001597
+18.  at                  | Impact: -0.001556
+19.  talking             | Impact: -0.001527
+20.  ,                   | Impact: -0.001464

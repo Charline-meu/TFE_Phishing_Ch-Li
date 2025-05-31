@@ -1,0 +1,75 @@
+Sample 102
+==========
+
+Sample text preview: Just a brief Update for you this week, including the latest major news in the Energy industry, and a complete rundown of our upcoming conferences for ...
+
+Model prediction: [9.9981505e-01 1.8503633e-04]
+Predicted class: LEGITIMATE with 0.9998 confidence
+
+🔍 Top 20 influential features:
+
+Top features by absolute importance:
+ 1.  en                  | Impact: -0.005124 → LEGITIMATE
+ 2. ron                  | Impact: -0.005124 → LEGITIMATE
+ 3.  saga                | Impact: -0.005124 → LEGITIMATE
+ 4.  to                  | Impact: 0.001577 → PHISHING
+ 5.  wish                | Impact: 0.001577 → PHISHING
+ 6.  everyone            | Impact: 0.001577 → PHISHING
+ 7.  in                  | Impact: 0.001577 → PHISHING
+ 8.  events              | Impact: -0.001420 → LEGITIMATE
+ 9.  update              | Impact: -0.001420 → LEGITIMATE
+10.  :                   | Impact: -0.001420 → LEGITIMATE
+11.  new                 | Impact: -0.001420 → LEGITIMATE
+12.  at                  | Impact: -0.001165 → LEGITIMATE
+13.  contents            | Impact: -0.001165 → LEGITIMATE
+14.  about               | Impact: -0.001134 → LEGITIMATE
+15.  this                | Impact: -0.001134 → LEGITIMATE
+16.  update              | Impact: -0.001134 → LEGITIMATE
+17.  ,                   | Impact: -0.001134 → LEGITIMATE
+18.  :                   | Impact: -0.001096 → LEGITIMATE
+19.  -                   | Impact: -0.001096 → LEGITIMATE
+20.  all                 | Impact: 0.001079 → PHISHING
+
+Top features pushing towards PHISHING classification:
+ 1.  to                  | Impact: 0.001577
+ 2.  wish                | Impact: 0.001577
+ 3.  everyone            | Impact: 0.001577
+ 4.  in                  | Impact: 0.001577
+ 5.  all                 | Impact: 0.001079
+ 6.  that                | Impact: 0.001079
+ 7.  remains             | Impact: 0.001079
+ 8.  is                  | Impact: 0.001079
+ 9.  as                  | Impact: 0.001020
+10.  we                  | Impact: 0.001020
+11.  will                | Impact: 0.001020
+12.  be                  | Impact: 0.001020
+13.  happy               | Impact: 0.000998
+14.  thanksgiving        | Impact: 0.000998
+15.  from                | Impact: 0.000998
+16.  all                 | Impact: 0.000998
+17.  of                  | Impact: 0.000998
+18.  us                  | Impact: 0.000998
+19.  at                  | Impact: 0.000998
+20.  .                   | Impact: 0.000875
+
+Top features pushing towards LEGITIMATE classification:
+ 1.  en                  | Impact: -0.005124
+ 2. ron                  | Impact: -0.005124
+ 3.  saga                | Impact: -0.005124
+ 4.  events              | Impact: -0.001420
+ 5.  update              | Impact: -0.001420
+ 6.  :                   | Impact: -0.001420
+ 7.  new                 | Impact: -0.001420
+ 8.  at                  | Impact: -0.001165
+ 9.  contents            | Impact: -0.001165
+10.  about               | Impact: -0.001134
+11.  this                | Impact: -0.001134
+12.  update              | Impact: -0.001134
+13.  ,                   | Impact: -0.001134
+14.  :                   | Impact: -0.001096
+15.  -                   | Impact: -0.001096
+16.  eye                 | Impact: -0.000948
+17. for                  | Impact: -0.000948
+18. fu                   | Impact: -0.000948
+19. el                   | Impact: -0.000948
+20. cel                  | Impact: -0.000948
